@@ -1,8 +1,7 @@
 from nltk.tokenize import sent_tokenize
 import os
 
-n = 26
-alignedText = ''
+n = 30
 
 def writingToFile(addr):
     open(addr, 'w', encoding='utf-8').close()
@@ -20,14 +19,24 @@ def writingToFile(addr):
 for i in range(1, n+1):
     open('textENG.txt', 'w', encoding='utf-8').close()
     open('textCRT.txt', 'w', encoding='utf-8').close()
-    tmpENG = open(str(i) + '\english.txt', encoding='utf-8').read()
-    tmpCRT = open(str(i) + '\croatian.txt', encoding='utf-8').read()
-    tmpENG = tmpENG.replace('..', '')
-    tmpENG = tmpENG.replace('•', '')
-    tmpCRT = tmpCRT.replace('..', '')
-    tmpCRT = tmpCRT.replace('•', '')
-    sent_tokenize_list_ENG = sent_tokenize(tmpENG)
-    sent_tokenize_list_CRT = sent_tokenize(tmpCRT)
+    tmpENG = open(str(i) + '\english.txt', encoding='utf-8').readlines()
+    en = ''
+    for line in tmpENG:
+        if line not in ['\n', '\r\n']:
+            line = line.replace('...', '')
+            line = line.replace('..', '')
+            line = line.replace('•', '')
+            en = en + line
+    tmpCRT = open(str(i) + '\croatian.txt', encoding='utf-8').readlines()
+    cr = ''
+    for line in tmpCRT:
+        if line not in ['\n', '\r\n']:
+            line = line.replace('...', '')
+            line = line.replace('..', '')
+            line = line.replace('•', '')
+            cr = cr + line
+    sent_tokenize_list_ENG = sent_tokenize(en)
+    sent_tokenize_list_CRT = sent_tokenize(cr)
     textENG = open('textENG.txt', 'w', encoding='utf-8')
     textCRT = open('textCRT.txt', 'w', encoding='utf-8')
     for item in sent_tokenize_list_ENG:
