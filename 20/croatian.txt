@@ -1,0 +1,3516 @@
+Perilica rublja
+WAT ...
+
+hr Upute za uporabu i postavljanje
+
+Vaša nova perilica rublja
+
+Informacije o prikazu
+
+Odlučili ste se za perilicu rublja marke
+Bosch.
+
+: Upozorenje!
+
+Molimo Vas da odvojite nekoliko minuta
+kako biste pročitali i naučili prednosti
+Vaše perilice rublja.
+Kako bi opravdali visoke standarde
+marke Bosch, svaka se perilica rublja
+koja napušta našu tvornicu, provjerava
+na funkcionalnost i ispravno stanje.
+Više informacija o našim proizvodima,
+dodatnom priboru, rezervnim dijelovima
+i uslugama, možete dobiti na našoj
+internet stranici www.bosch-home.com
+ili kontaktirajte naše službe za korisnike.
+Ukoliko se opisuje upotreba i instalacija
+različitih modela, o razlikama će biti
+istaknuto na odgovarajućim mjestima.
+
+Ova kombinacija simbola i signalnih
+riječi upućuje na moguću opasnu
+situaciju. Ako se ne pridržavate, može
+dovesti do smrti ili ozljeda.
+Pozor!
+Ova signalna riječ upućuje na moguću
+opasnu situaciju. Ako se ne pridržavate,
+može dovesti do materijalnih šteta i/ili
+šteta po okoliš.
+Napomena / savjet
+Napomene za optimalno korištenje
+uređaja / korisne informacije.
+1. 2. 3. / a) b) c)
+Koraci su prikazani brojevima ili slovima.
+■
+
+Perilicu rublja pustite u pogon tek nakon
+čitanja ovih uputa i uputa za postavljanje.
+
+2
+
+/-
+
+Nabrajanja su prikazana kućicom ili
+crticom.
+
+hr
+
+Sadržaj
+
+hrUputezauporabuipostavljanje
+
+8 Namjenska uporaba . . . . . . . . . .4
+( Sigurnosni naputci . . . . . . . . . . .5
+Električna sigurnost . . . . . . . . . . . . . . 5
+Opasnost od ozljede. . . . . . . . . . . . . . 5
+Sigurnost za djecu . . . . . . . . . . . . . . . 5
+
+7 Zaštita okoliša . . . . . . . . . . . . . . .6
+Pakiranje/stari uređaj . . . . . . . . . . . . . 6
+Upute za uštedu . . . . . . . . . . . . . . . . . 6
+
+*Upoznavanje Vašeg uređaja
+
+. . . .8
+Perilica rublja . . . . . . . . . . . . . . . . . . . 8
+Upravljački elementi . . . . . . . . . . . . . . 9
+
+Z Rublje . . . . . . . . . . . . . . . . . . . . .11
+Priprema rublja . . . .
+Sortirajte rublje . . . .
+Štirkanje . . . . . . . . .
+Bojenje/Izbjeljivanje
+Namakanje . . . . . . .
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+. 11
+. 11
+. 11
+. 12
+. 12
+
+C Deterdžent . . . . . . . . . . . . . . . . .12
+Pravilan odabir deterdženta . . . . . . . 12
+Štednja energije i deterdženta . . . . . 13
+
+0 Unaprijed podešene postavke
+
+programa . . . . . . . . . . . . . . . . . .13
+Temperatura . . . . . . . . . . . . . . . . . . . 13
+Broj okretaja centrifuge. . . . . . . . . . . 13
+Vrijeme Gotovo za . . . . . . . . . . . . . . 13
+i-DOS-Postavke . . . . . . . . . . . . . . . . . 14
+Memory program . . . . . . . . . . . . . . . 14
+
+\ Dodatne postavke programa . .15
+SpeedPerfect . . . . .
+EcoPerfect . . . . . . .
+Zaštita od gužvanja.
+Voda&Ispiranje+ . . .
+Predpranje . . . . . . .
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+1 Upravljanje uređajem
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+. 15
+. 15
+. 15
+. 15
+. 15
+
+. . . . . . . .16
+Priprema perilice rublja. . . . . . . . . . . 16
+
+Uključivanje stroja/Biranje programa.16
+Promjena unaprijed podešenih postavki
+programa. . . . . . . . . . . . . . . . . . . . . .16
+Odabir dodatnih postavki programa .17
+Stavljanje rublja u bubanj . . . . . . . . .17
+Doziranje i punjenje deterdženta i
+sredstva za njegu rublja . . . . . . . . . .17
+Početak programa. . . . . . . . . . . . . . .17
+Zaštita za decu/ blokada upravljanja 18
+Dodavanje rublja . . . . . . . . . . . . . . . .18
+Promjena programa . . . . . . . . . . . . .18
+Prekid programa . . . . . . . . . . . . . . . .18
+Kraj programa . . . . . . . . . . . . . . . . . .19
+Vađenje rublja/isključivanje uređaja .19
+
+a
+
+Inteligentni sustav doziranja . . 19
+Inteligentni sustav doziranja u ladici za
+deterdžent . . . . . . . . . . . . . . . . . . . . .19
+Spremnik u rad/napuniti spremnik za
+doziranje . . . . . . . . . . . . . . . . . . . . . .19
+U svakodnevnoj uporabi . . . . . . . . . .20
+Osnovne postavke. . . . . . . . . . . . . . .21
+Ručno doziranje . . . . . . . . . . . . . . . .22
+
+Q Postavke stroja . . . . . . . . . . . . . 22
+Aktivirati način podešavanja . . . . . . .23
+Promjena jačine zvučnog signala . . .23
+Promjena svjetline zaslona osjetljivog na
+dodir . . . . . . . . . . . . . . . . . . . . . . . . .23
+Odabir/opoziv funkcije koja signalizira
+održavanje bubnja . . . . . . . . . . . . . . .23
+Dovršetak načina podešavanja . . . . .23
+
+H
+
+Senzorsko upravljanje . . . . . . . 23
+Automatika količine . . . . . . . . . . . . . .23
+Kontrolni sustav za ravnotežu . . . . . .23
+VoltCheck . . . . . . . . . . . . . . . . . . . . .24
+
+2 Čišćenje i održavanje . . . . . . . . 24
+Kućište stroja/upravljačko polje . . . .24
+Bubanj za pranje . . . . . . . . . . . . . . . .24
+Uklanjanje kamenca . . . . . . . . . . . . .24
+i-DOS-Ladica za deterdžent i njezino
+kućište. . . . . . . . . . . . . . . . . . . . . . . .25
+
+3
+
+hr
+
+Namjenska uporaba
+
+Crpka za otpadnu vodu začepljena,
+pražnjenje u nuždi . . . . . . . . . . . . . . 26
+Odvodno crijevo je začepljeno na sifonu
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Sito na dovodu vode začepljeno . . . 27
+
+3 Smetnje - što učiniti? . . . . . . . . 27
+Deblokiranje u nuždi . . . . . . . . . . . . 27
+Naputci u polju za prikaz . . . . . . . . . 28
+Smetnje - što učiniti? . . . . . . . . . . . . 30
+
+4 Servisna služba . . . . . . . . . . . . 32
+J Tehnički podatci . . . . . . . . . . . . 32
+5 Postavljanje i priključivanje . . . 32
+Opseg isporuke . . . . . . . . . . . . . . . .
+Sigurnosni naputci . . . . . . . . . . . . . .
+Površina za postavljanje . . . . . . . . .
+Postavljanje na postolje ili na pod s
+drvenim gredama . . . . . . . . . . . . . .
+Postavljanje na podest s ladicom . .
+Ugradnja uređaja u čajnoj kuhinji . .
+Skidanje zaštite za transport . . . . . .
+Duljine crijeva i vodova . . . . . . . . . .
+Dovod vode . . . . . . . . . . . . . . . . . . .
+Odvod vode . . . . . . . . . . . . . . . . . . .
+Izravnavanje. . . . . . . . . . . . . . . . . . .
+Električni priključak . . . . . . . . . . . . .
+Prije 1. pranja . . . . . . . . . . . . . . . . .
+Transportiranje. . . . . . . . . . . . . . . . .
+
+32
+33
+33
+33
+34
+34
+34
+34
+35
+36
+36
+37
+37
+38
+
+r Jamstvo za Aquastop . . . . . . . . 39
+
+8 Namjenska uporaba
+■
+
+abropuksneNmaj
+
+■
+
+■
+
+■
+
+■
+
+■
+■
+
+■
+
+Isključivo za uporabu u privatnom
+kućanstvima i kućanskom okruženju.
+Perilica rublja primjerena je za pranje
+strojno perivih tkanina i ručno perive
+vune u sapunici.
+Za uporabu s hladnom vodom i
+uobičajenim deterdžentima i
+sredstvima za njegu koji su
+primjereni za korištenje u perilicama
+rublja.
+Prilikom doziranja svih deterdženata/
+pomoćnih sredstava za pranje/
+njegu/čišćenje, strogo se
+pridržavajte uputa proizvođača.
+Perilicu rublja mogu koristiti djeca
+od navršenih 8 godina starosti,
+osobe sa smanjenim fizičkim,
+senzornim ili mentalnim
+sposobnostima i osobe s
+nedostatkom iskustva ili znanja i to
+samo pod nadzorom ili ako su s
+radom uređaja upoznate od strane
+odgovorne osobe.
+Djeca ne smiju vršiti radove
+čišćenja i održavanja bez nadzora.
+Držite djecu mlađu od 3 godine
+podalje od perilice rublja.
+Ovaj uređaj predviđen je za
+korištenje do visine od maksimalno
+4000 metara iznad morske razine.
+Domaće životinje držite podalje od
+perilice za rublje.
+
+Prije nego što uređaj stavite u rad:
+Pročitajte upute za korištenje i
+postavljanje i sve druge priložene
+informacije koje se odnose na perilicu
+rublja i djelujte u skladu s njima.
+Dokumentaciju sačuvajte za kasniju
+uporabu i kasnije vlasnike.
+
+4
+
+Sigurnosni naputci
+
+( Sigurnosni naputci
+Električna sigurnost
+
+ictupanisorugS
+
+: Upozorenje
+
+Opasnost po život!
+U slučaju kontakta s dijelovima
+koji provode napon postoji
+opasnost od strujnog udara.
+■
+Mrežne utikače nikada ne
+dodirujte vlažnim rukama.
+■
+Mrežni vod uvijek povlačite
+za utikač a nikada za vod
+budući da bi se u suprotnom
+mogao oštetiti.
+Opasnost od ozljede
+
+: Upozorenje
+
+Opasnost od ozljede!
+■
+Kod podizanja perilice rublja
+na isturenim dijelovima (npr.
+za prozor za punjenje),
+sastavni bi dijelovi mogli
+napuknuti te tako uzrokovati
+ozljede.
+Perilicu rublja ne podižite za
+isturene dijelove.
+Opasnost
+od ozljede!
+■
+Prilikom
+penjanja odn.
+stajanja na perilici rublja bi
+radna ploča mogla napuknuti
+te tako uzrokovati ozljede.
+Ne penjite se na perilicu
+rublja.
+Opasnost
+od ozljede!
+■
+Prilikom
+naslanjanja/
+stavljanja stvari na prozor za
+punjenje bi se perilica rublja
+mogla prevrnuti te uzrokovati
+ozljede.
+Ne naslanjajte se na otvoreni
+prozor za punjenje.
+
+hr
+
+Opasnost
+jede!
+■
+Uod ozlslučaju
+
+dodira rotirajućeg
+bubnja možete ozlijediti
+ruke.
+Ne dodirujte rotirajući
+bubanj.
+Pričekajte dok se bubanj ne
+prestane okretati.
+
+: Upozorenje
+
+Opasnost od opeklina vrućom
+parom!
+Kod pranja na visokim
+temperaturama može doći do
+kontakta s vrućom sapunicom,
+npr. kod ispumpavanja vruće
+sapunice u umivaonik što može
+uzrokovati opekline.
+Ne dodirujte vruću sapunicu.
+Sigurnost za djecu
+
+: Upozorenje
+
+Opasnost po život!
+■
+Djeca bi se uslijed igranja s
+perilicom mogla dovesti u
+situacije opasne po život ili
+se ozlijediti.
+– Ne ostavljate djecu pored
+perilice rublja bez
+nadzora!
+– Djeci ne dopustite da se
+igraju perilicom rublja!
+Opasnost
+po život!
+■
+Djeca
+se mogu zatvoriti u
+strojeve i ugroziti svoje
+živote.
+Kod isluženih strojeva:
+– izvucite mrežni utikač.
+– odvojite mrežni vod i
+skinite ga zajedno s
+utikačem.
+– uništite bravu prozora za
+punjenje.
+5
+
+hr
+
+Zaštita okoliša
+
+: Upozorenje
+Opasnost od gušenja!
+Djeca se prilikom igranja mogu
+zamotati u folije i dijelove
+pakiranja ili ih navući preko
+glave, te se na taj način mogu
+ugušiti.
+Pakiranja, folije i dijelove
+ambalaže držite na sigurnoj
+udaljenosti od djece.
+
+7 Zaštita okoliša
+Pakiranje/stari uređaj
+
+ašilokatišZ
+
+)
+
+: Upozorenje
+
+Opasnost od trovanja!
+Deterdženti i sredstva za njegu
+rublja mogu u slučaju gutanja
+uzrokovati otrovanja.
+Deterdžente i sredstva za njegu
+rublja čuvajte na mjestima koja
+djeci nisu dostupna.
+
+: Upozorenje
+Nadraživanje očiju/kože!
+Kontakt s deterdžentom i
+sredstvom za njegu rublja može
+uzrokovati nadraživanje očiju/
+kože.
+Deterdžente i sredstva za njegu
+rublja čuvajte na mjestima koja
+djeci nisu dostupna.
+: Upozorenje
+
+Opasnost od ozljede!
+Kod pranja na visokim
+temperaturama, staklo prozora
+za punjenje postaje vruće.
+Spriječite djecu da dodiruju
+vrući prozor perilice rublja.
+
+6
+
+Zbrinite ambalažu na ekološki
+prihvatljiv način.
+Ovaj je uređaj označen u
+skladu s europskom
+smjernicom 2012/19/EU o
+otpadnim električnim i
+elektronskim uređajima (waste
+electrical and electronic
+equipment - WEEE).Smjernica
+određuje okvir za povratak i
+zbrinjavanje otpadnih uređaja
+valjan u cijeloj Europskoj Uniji.
+
+Upute za uštedu
+■
+
+■
+■
+
+■
+
+■
+
+■
+
+Iskoristite maksimalnu količinu rublja
+za dotični program.
+Pregled programa ~ Dodatne
+upute uputstvima za uporabu i
+postavljanje
+Normalno zaprljano rublje perite bez
+pretpranja.
+Kod lagano i normalno zaprljane
+odjeće možete uštedjeti energiju i
+deterdžent. ~ Stranica 13
+Doziranje deterdženta uz
+pomoćinteligentnog sustava
+doziranja (i-DOS) doprinosi uštedi
+deterdženta i vode.
+Temperature koje možete odabrati
+odnose se na oznake za održavanje
+tekstila. Temperature koje se
+dosegnu u perilici rublja mogu
+odstupati od onih kako bi se
+istodobno osigurala optimalna
+ušteda energije i rezultat pranja.
+Napomene za potrošnju energije i
+vode:
+Indikatori vas informiraju o relativnoj
+visini potrošnje energije odn. vode u
+odabranim programima.
+Što više segmenata indikatora
+možete vidjeti, to je veća dotična
+potrošnja.
+
+Zaštita okoliša
+
+hr
+
+Potrošnje možete usporediti u
+programima pri odabiru različitih
+postavki programa te se po želji
+možete odlučiti za onu postavku
+programa koja štedi energiju
+odnosno vodu.
+
+9
+
+9
+
+´
+
+■
+
+■
+
+■
+
+– é Potrošnja energije
+– æ Potrošnja vode
+Način za uštedu energije:
+osvjetljenje zaslona osjetljivog na
+dodir gasi se nakon nekoliko minuta,
+tipka A treperi.
+Za aktiviranje osvjetljenja dodirnite
+zaslon osjetljiv na dodir.
+Način za uštedu energije se ne
+aktivira dok je program u tijeku.
+Automatsko isključivanje (samo
+prije pokretanja programa odn.
+nakon završetka programa): Ukoliko
+se uređaj ne koristi duže vrijeme,
+isključuje se automatski kako bi se
+uštedila energija. Za uključivanje
+uređaja ponovno pritisnite glavni
+prekidač.
+Ako će se rublje na kraju sušiti u
+sušilici rublja izaberite broj okretaja
+centrifuge sukladno uputama
+proizvođača sušilice rublja.
+
+7
+
+hr
+
+Upoznavanje Vašeg uređaja
+
+*Upoznavanje Vašeg uređaja
+Perilica rublja
+
+ajđerugVšaejnvUzop
+
+
+
+
+
+
+
+
+#
+6
+
+7
+
+Ladica za deterdžent
+~ Stranica 17
+0 Upravljački elementi
+8 Vrata bubnja s ručicom
+9S Otvaranje prozora za punjenje
+9T Zatvaranje prozora za punjenje
+@ Servisna zaklopka
+(
+
+8
+
+Upoznavanje Vašeg uređaja
+
+hr
+
+Upravljački elementi
+
+( Glavni prekidač
+Pritiskom na tipku # uključujete i
+isključujete uređaj.
+0 Selektor programa
+Selektor programa možete okretati
+u oba smjera (ulijevo i udesno).
+
+8 Zaslon osjetljiv na dodir
+Ovdje se prikazuju informacije o
+programima i mogućnosti odabira
+postavki i možete odabrati
+postavke dodirom na uokvirena ili
+potcrtana područja.
+Sadržaji na zaslonu osjetljivom na
+dodir
+
+Polja za prikaz i upravljačka po- Prikaz namješte- Postavka
+lja
+nih vrijednosti
+90°, 60° ü, 40°ü, 30°, 20°, '
+
+Temperatura u °C; ' = hladno
+
+1400*, 1200, 800, 600, 400, 2
+
+Broj okretaja centrifuge; 2 = bez centrifugiranja
+
+i-Dos w
+*
+
+L, K, J, isklj
+
+Jačina doziranja deterdženta
+
+maksimalan broj okretaja centrifuge ovisno o uređaju
+9
+
+Upoznavanje Vašeg uređaja
+
+hr
+
+Polja za prikaz i upravljačka po- Prikaz namješte- Postavka
+lja
+nih vrijednosti
+i-Dos i
+
+L, K, J, isklj
+
+Speed
+
+Jačina doziranja omekšivača
+SpeedPerfect
+
+Eco
+
+EcoPerfect
++1, +2, +3 , isklj
+
+ë
+
+Voda&Ispiranje+; + dodatna ispiranja
+
+Q
+
+Zaštita od gužvanja
+
+T
+
+Predpranje
+
+E 3 sec
+
+Zaštita za decu / blokada upravljačke ploče
+
+â
+
+Memory program
+
+A
+
+Start / Pauza
+Postavke uređaja: signal upozorenja, upravljački
+signal, svjetlina zaslona osjetljivog na dodir, funkcija koja signalizira održavanje bubnja
+
+œ
+
+UCBÛ
+
+N, M
+
+Promjena namještenih vrijednosti
+Napomena: Kod namještenih vrijednosti s više stupnjeva prolazite
+pritiskom na namještene vrijednosti ili kada ih držite pritisnutima N,
+Mautomatski do konačne vrijednosti. Zatim još jednom pritisnite tipku
+i ponvno možete mijenjati namještene vrijednosti.
+
+*
+
+maksimalan broj okretaja centrifuge ovisno o uređaju
+
+ostali prikazi
+
+Informacija o
+
+é-----
+
+Potrošnja energije
+
+æ-----
+
+Potrošnja vode
+
+TNO0
+
+Status programa: pretpranje pranje ispiranje centrifugiranje
+
+è
+
+Vrata bubnja su blokirana
+
+ù
+
+Ladica za deterdžent je otvorena
+
+r
+
+Slavina za vodu je zatvorena / tlak vode je preslab
+
+Å
+
+Pjena je prepoznata
+
+ÒÒ:ÒÒ
+
+Trajanje programa npr. 1:51; vrijeme Gotovo za npr. ð 8.5 h; preporučena količina rublja npr. 8.0 kg; status programa npr. završetak; osnovna količina doziranja
+npr. 36 ml
+
+10
+
+Rublje
+
+Z Rublje
+
+■
+
+Priprema rublja
+
+ejRlbu
+
+Oprez!
+Oštećenja na uređaju/oštećenja na
+tkanini
+Strana tijela (npr. sitan novac, uredske
+spajalice, igle, čavli) mogu oštetiti rublje
+ili sastavne dijelove perilice rublja.
+Stoga kod pripreme Vašeg rublja
+poštujte slijedeće napomene:
+■
+Ispraznite džepove.
+
+■
+
+■
+■
+■
+■
+■
+
+Obratite pozornost na metale te ih
+izvadite (spajalice i sl.).
+Osjetljivo rublje (čarape, grudnjaci i
+sl.) perite u mreži/vrećici.
+Patentne zatvarače zatvorite,
+krevetninu zakopčajte.
+Iščetkajte pijesak iz džepova i
+zavrnutih rubova.
+Kotačiće od zavjesa uklonite ili ih
+povežite unutar mrežice.
+
+hr
+
+zaprljanost
+Zajedno perite rublje koje je
+jednako zaprljano.
+Nekoliko primjera za stupanj
+zaprljanosti ćete pronaći
+~ Stranica 13.
+– blago: bez pretpranja, po potrebi
+odaberite postavku Speed
+– normalno
+– jako: stavite manje rublja,
+odaberite program s pretpranjem
+– Mrlje: mrlje odstranite/obradite
+dok su još svježe. Najprije ih
+očistite (obrišite) sapunicom/
+nemojte ribati. Komade odjeće
+zatim operite s odgovarajućim
+programom. Tvrdokorne/
+sasušene mrlje se mogu otkloniti
+tek nakon višekratnog pranja.
+Simboli na etiketama za održavanje
+Napomena: Brojevi na simbolima
+upućuju na maksimalnu primjerenu
+temperaturu pranja.
+M
+N
+
+O
+
+Sortirajte rublje
+
+W
+
+Rublje sortirajte sukladno uputama za
+održavanje i sukladno informacijama
+proizvođača na etiketama za održavanje
+prema:
+■
+tkanini/vrsti vlakna
+■
+boji
+Napomena: Rublje se može obojiti
+ili ne biti sasvim čisto. Bijelo i
+obojeno rublje perite odvojeno.
+Novo obojano rublje prvi puta perite
+odvojeno.
+
+Ž
+
+primjereno za normalni
+postupak pranja;
+npr. program Pamuk
+potreban je blagi postupak
+pranja;
+npr. program za rublje lako
+za održavanje
+potreban je izrazito blag
+postupak pranja; npr.
+program za osjetljivo/svila
+primjereno za ručno pranje;
+npr. program W vuna
+Rublje ne perite u perilici
+rublja.
+
+Štirkanje
+Napomena: Rublje se ne smije tretirati
+omekšivačem.
+1. Uključite uređaj.
+2. Odaberite program Ispiranje.
+
+11
+
+hr
+
+Deterdžent
+
+3. Tekuću štirku prema uputama
+proizvođača treba ručno dozirati u
+lijevi odjeljak (po potrebi prethodno
+očistiti).
+4. Dodirnite upravljačko polje A.
+
+Bojenje/Izbjeljivanje
+Bojiti samo u uobičajenim kućanskim
+omjerima. Sol može oštetiti oplemenjeni
+čelik! Obratiti pozornost na upute
+proizvođača boja.
+Ne izbjeljujte rublje u perilici rublja!
+
+Namakanje
+1. Uključite uređaj.
+2. Odaberite program Pamuk 30 °C.
+3. Deterdžent dozirajte uz pomoć i-DOS
+il napunite u lijevi odjeljak sukladno
+uputama proizvođača.
+4. Dodirnite upravljačko polje A.
+Program se pokreće.
+5. Nakon otprilike 10 minuta dodirnite
+A kako biste zaustavili program.
+6. Nakon željenog vremena
+namakanja ponovno dodirnite A,
+ako program treba nastaviti ili
+promijeniti.
+Napomene
+■
+Stavljajte rublje iste boje.
+■
+Nije potrebno dodavati deterdžent,
+za pranje se koristi sapunica za
+namakanje.
+
+C Deterdžent
+Pravilan odabir deterdženta
+
+tneždrD
+
+Za pravilan izbor deterdženta,
+temperature i obrade odjeće je oznaka
+od presudne važnosti. ~
+www.sartex.ch
+Na web stranici www.cleanright.eu ćete
+pronaći brojne dodatne korisne
+informacije o pranju, njezi i sredstvima
+za pranje u privatne svrhe.
+■
+
+■
+
+■
+
+■
+
+■
+
+12
+
+Univerzalni deterdžent sa
+sredstvima za optički sjaj
+primjereno za bijelo rublje otporno
+na iskuhavanje od lana ili pamuka
+Program: Pamuk /
+hladno - maks. 90 °C
+Deterdžent za šareno rublje bez
+izbjeljivača i sredstava za optički
+sjaj
+primjereno za šareno rublje od lana
+ili pamuka
+Program: Pamuk /
+hladno - maks. 60 °C
+Deterdžent za šareno/osjetljivo
+rublje bez sredstava za optički sjaj
+primjereno za šareno rublje od
+vlakana, sintetike koje je lako za
+održavanje
+Program: Rublje lako za održavanje/
+hladno - maks. 60 °C
+Sredstva za pranje finog rublja
+primjereno za osjetljive fine tkanine,
+svilu ili viskozu
+Program: Osjetljivo/Svila /
+hladno - maks. 40 °C
+Sredstva za pranje vune
+primjereno za vunu
+Program: vuna /
+hladno - maks. 40 °C
+
+Unaprijed podešene postavke programa
+
+Štednja energije i deterdženta
+Kod lagano i normalno zaprljane odjeće
+možete štedjeti energiju (smanjenje
+temperature pranja) i deterdžent.
+
+hr
+
+0 Unaprijed podešene
+postavke programa
+
+Unaprijed podešene postavke
+programa prikazuju se nakon odabira
+programa na zaslonu osjetljivom na
+dodir i mogu se promijeniti.
+Pregled svih mogućih postava
+programa nalazi se na dodatnom listu
+uz upute za uporabu i postavljanje.
+
+margopekvatsonešdpjirUpan
+
+Štednja
+
+Zaprljanost/naputak
+
+Smanjena temperatura i količina
+deterdženta
+sukladno preporuci za doziranje
+
+lagani
+Nema vidljivih zaprljanosti i
+mrlja. Odjeća je samo poprimila tjelesni miris, npr.:
+■
+lagana ljetna/sportska
+odjeća (nošena nekoliko
+sati)
+■
+Majice, košulje, bluze
+(nošene 1 dan)
+■
+Gostinska posteljina i ručnici (korišteni 1 dan)
+normalno
+Vidljiva zaprljanost/ili je vidljivo nekoliko malih mrlja, npr.:
+■
+majice, košulje, bluze
+(oznojene, nošene nekoliko puta)
+■
+ručnici, posteljina (korištena najviše 1 tjedan)
+
+Temperatura
+prema etiketi za
+njegu i količina
+deterdženta
+prema preporuci/
+jaka zaprljanost
+
+jako
+Zaprljanost i/ili mrlje jasno
+vidljive, npr. kuhinjske krpe,
+dječja odjeća, radna odjeća
+
+Napomena: Kod doziranja svih
+deterdženata/pomoćnih sredstava za
+pranje/njegu i čišćenje, strogo se
+pridržavajte naputaka i uputa
+proizvođača. ~ Stranica 17
+
+Temperatura
+Prije i tijekom programa možete ovisno
+o napretku programa promijeniti
+podešenu temperaturu.
+Maksimalna temperatura koju možete
+podesiti ovisi o odabranom programu.
+
+Broj okretaja centrifuge
+Prije i tijekom programa možete ovisno
+o napretku programa promijeniti broj
+okretaja centrifuge (u okr/min; okretaja
+u minuti).
+Postavka 2 : bez centrifugiranja, voda
+se samo ispumpava. Rublje ostaje
+vlažno u bubnju, npr. za rublje koje ne
+treba centrifugirati.
+Maksimalni broj okretaja koji možete
+podesiti ovisi o odabranom programu i
+modelu.
+
+Vrijeme Gotovo za
+Nakon odabira programa prikazuje se
+trajanje programa, npr. 1:51 (u h:min
+(sati:minute)).
+Prije pokretanja programa možete
+pomaknuti vrijeme kada program treba
+biti gotov u koracima od 30 minuta do
+najviše 24h (h=sat).
+Nakon pokretanja programa prikazuje
+se odabrano vrijeme npr. 8.5hi
+odbrojava se sve dok program pranja
+
+13
+
+hr
+
+Unaprijed podešene postavke programa
+
+ne započne. Zatim se prikazuje trajanje
+programa.
+Napomena: Trajanje programa
+prilagođava se automatski kod
+programa koji je u tijeku. Promjene
+unaprijed podešenih postavki programa
+odnosno postavki programa,
+prepoznavanja pjene, prepoznavanja
+neravnoteže, količine punjenja ili
+zaprljanosti mogu utjecati i na promjenu
+trajanja programa.
+Nakon pokretanja programa, za
+vrijeme odbrojavanja odabranog
+vremena, možete isto promijeniti na
+slijedeći način:
+1. Dodirnite upravljačko polje A.
+2. Pritiskom na N ili M promijenite
+vrijeme.
+3. Ponovno dodirnite A.
+Nakon pokretanja programa, dok
+istječe trajanje programa, po potrebi
+možete dodati ili izvaditi rublje.
+~ Stranica 18
+
+i-DOS-Postavke
+Vaša perilica rublja opremljena je
+inteligentnim sustavom doziranja
+tekućeg deterdženta i omekšivača.
+Deteržent za rublje i doziranje
+omekšiavača vrši se gotovo kod svih
+programa vaše perilice rublja
+automatski.
+Tvornički je unaprijed podešeno za:
+■
+w i-DOS: L
+Deterdžent za malo zaprljano rublje
+■
+i i-DOS: K
+Omekšivač za normalno mekano
+rublje
+
+i-DOSw za deterdžent
+Namještene vrijednosti za jačinu
+doziranja
+L
+lagano:
+za malo zaprljano rublje
+K
+srednje:
+za normalno zaprljano rublje
+J jako:
+za jako zaprljano rublje odnosno
+rublje s mrljama
+isklj automatsko doziranje opozvano,
+uče ručno doziranje ~ Stranica 22
+no
+Prije pokretanja programa pranja i za
+vrijeme pretpranja (ako je odabrano)
+možete promijeniti postavke za
+automatsko doziranje deterdženta. U tu
+svrhu dodirnite upravljačko polje iDOS w.
+Napomene za stupnjeve zaprljanosti
+pronaći ćete na ~ Stranica 13.
+i-DOSi za omekšivač
+Namještene vrijednosti za jačinu
+doziranja
+L
+lagano:
+za malo mekano rublje
+K
+srednje:
+za normalno mekano rublje
+J jako:
+za osobito mekano rublje
+isklj automatsko doziranje opozvano
+uče
+no
+Ovisno o napretku programa možete
+promijeniti postavke za automatsko
+doziranje omekšivača. U tu svrhu
+dodirnite upravljačko polje i-DOS i.
+
+Memory program
+â
+Ovdje možete pohraniti odabrani
+program s vašim omiljenim
+postavkama.
+14
+
+Dodatne postavke programa
+Za pohranjivanje:
+1. Uključite uređaj.
+2. Odaberite program.
+3. Promijenite postavke i/ili odaberite
+dodatne postavke.
+4. Dodirnite upravljačko polje âi držite
+ga pritisnuto u trajanju od otprilike
+3 sekunde.
+Program je pohranjen kada kratko
+trepere sve postavke.
+Za korištenje pohranjenog programa
+kratko dodirnite â nakon uključivanja
+uređaja.
+Za promjenu pohranjenog programa
+nakon odabira novih postavki ponovno
+dodirnite â i držite pritisnuto otprilike
+3 sekunde.
+
+hr
+
+odabrani program bez podešavanja
+EcoPerfect.
+
+Zaštita od gužvanja
+Q
+Smanjuje gužvanje s posebnim
+centrifugiranjem sa završnim
+opuštanjem i smanjenim brojem
+okretaja centrifugiranja.
+Napomena: Ostaci vlage na rublju
+lagano povišeni.
+
+Voda&Ispiranje+
+ë
+
+\ Dodatne postavke
+
+Namještene vrijednosti:
++1
++ 1 ispiranje
++2
++ 2 ispiranja
++3
++ 3 ispiranja
+isključ Postavka je opozvana
+eno
+
+Pregled svih prema programu
+raspoloživih dodatnih postavki naći ćete
+na dodatnom listu uz upute za uporabu i
+postavljanje.
+
+Viša razina vode i dodatno ispiranje
+ovisi o programu, duže trajanje
+programa. Naročito kod osjetljive kože
+i/ili za područja s jako mekanom
+vodom.
+
+SpeedPerfect
+
+Predpranje
+
+Speed
+Za pranje u kraćem vremenu kod
+usporedivog učinka pranja, ali s većom
+potrošnjom energije za odabrani
+program bez podešavanja
+SpeedPerfect.
+
+T
+Za jako zaprljano rublje.
+
+programa
+
+margopekvatsonDad
+
+Napomena: Ne prekoračujte
+maksimalnu količinu punjenja.
+
+EcoPerfect
+
+Napomene
+■
+Kod odabranog inteligentnog
+doziranja se deterdžent automatski
+dozir aza pretpranje i glavno pranje.
+■
+Kod jako zaprljanog rublja je kod
+odabira programa s pretpranjem u
+pravilu dovoljno i-DOS srednje
+doziranje.
+
+Eco
+Energetski optimizirano pranje
+smanjenjem temperautre kod
+usporedivog učinkovitog pranja. za
+15
+
+hr
+■
+
+Upravljanje uređajem
+Kod ručnog doziranja deterdžent
+raspodijelite pretpranje i glavno
+pranje. Deterdžent za pretpranje
+stavite u bubanj, a deterdžent u
+prašku za glavno pranje u lijevi
+odjeljak.
+
+1 Upravljanje uređajem
+Priprema perilice rublja
+
+mejađruejnalvUrp
+
+Napomena: Perilica rublja mora biti
+stručno postavljena i priključena. od
+~ Stranica 32
+1.
+2.
+3.
+4.
+
+Utaknite mrežni utikač.
+Otvoriti slavinu za vodu.
+Otvorite prozor za punjenje.
+Provjerite da li je bubanj potpuno
+ispražnjen. Ukoliko nije, ispraznite
+ga.
+
+Uključivanje stroja/Biranje
+programa
+Pritisnite tipku # . Stroj je uključen.
+Zatim se uvijek prikazuje tvornički
+unaprijed podešeni program Pamuk.
+Trenutne postavke i informacije o
+programu jako svijetle, a indikator
+treperiA.
+Postavke koje možete odabrati svijetle
+slabije.
+
+16
+
+Napomene
+Kratkotrajno treperenje
+indikatora Û, upućuje da je
+potrebno pokrenuti program Njega
+bubnja ili bilo koji drugi program s
+temperaturom pranja od najmanje
+60 °C.
+■
+Ako treperi indikator E 3 sec, onda
+je zaštita za djecu aktivna.
+Morate je deaktivirati prije nego
+promijenite postavke odn. pokrenete
+program. ~ Stranica 18
+■
+
+Kod uređaja s osvjetljenjem bubnja:
+Nakon uključivanja stroja, nakon
+otvaranja i zatvaranja prozora za
+punjenje kao i nakon pokretanja
+programa, bubanj svjetli. Osvjetljenje se
+gasi samostalno.
+Možete:
+koristiti ovaj program i staviti rublje.
+~ Stranica 17
+■
+ili odabrati neki drugi program.
+Pregled svih programa nalazi se na
+dodatnom listu uz upute za uporabu
+i postavljanje.
+■
+ili promijeniti unaprijed podešene
+postavke programa. ~ Stranica 16
+■
+i/ili odabrati dodatne postavke
+programa. ~ Stranica 17
+■
+
+Promjena unaprijed
+podešenih postavki programa
+Za promjenu trenutnih postavki
+dodirnite željeno upravljačko polje,
+pripadajući indikator svijetli jako.
+Gotovo u vremenu promijenite pritiskom
+na N ili M.
+Napomena: i-DOS-postavke ostaju
+pohranjene do sljedeće promjene, čak i
+nakon isključivanja perilice rublja.
+Unaprijed podešene postavke
+programa ~ Stranica 13
+
+Upravljanje uređajem
+
+hr
+
+Odabir dodatnih postavki
+programa
+Odabirom dodatnih postavki možete
+postupak pranja još bolje prilagoditi
+Vašim potrebama.
+U tu svrhu dodirnite željeno upravljačko
+polje, pripadajući indikator svijetli jako.
+Dodatne postavke programa
+~ Stranica 15
+
+Stavljanje rublja u bubanj
+
+: Upozorenje
+
+Opasnost po život!
+Komadi rublja tretirani sredstvima za
+čišćenje koja sadrže razrjeđivač, npr.
+sredstva za uklanjanje mrlja/benzin za
+pranje, mogu nakon što ste ih stavili u
+stroj uzrokovati eksploziju.
+Stoga komade rublja prethodno
+temeljito ručno isperite.
+
+Napomene
+Pomiješajte velike i male komade
+rublja. Različito veliki komadi rublja
+se bolje raspoređuju tijekom
+centrifugiranja. Pojedini komadi
+rublja mogu uzrokovati
+necentričnost.
+■
+Poštujte navedeno maksimalno
+punjenje. Pretrpanost smanjuje
+rezultat pranja i uzrokuje gužvanje
+rublja.
+■
+
+1. Prethodno sortirane komade rublja
+raširene stavljajte u bubanj za
+pranje.
+2. Pazite na to da komadi rublja ne
+ostanu uglavljeni između prozora za
+punjenje i gumene manžete i
+zatvorite otvor za punjenje.
+
+Doziranje i punjenje
+deterdženta i sredstva za
+njegu rublja
+Doziranje deterdženta i omekšivača vrši
+se gotovo automatski kod svih
+programa vaše perilice rublja, je kod
+ovih programa tvornički podešen i može
+se promijeniti.
+Pomoćno sredstvo za pranje (npr.
+omekšivač, izbjeljivač ili sol za mrlje)
+možete po potrebi dodatno za
+inteligentno doziranje dodati u lijevi
+odjeljak.
+Kod programa kod kojih inteligentno
+doziranje nije moguće ili po želji (tada
+treba inteligentno doziranje postaviti na
+isključeno) deterđžent se dodaje ručno
+u lijevi odjeljak.
+
+Početak programa
+Dodirnite upravljačko polje A.
+Program se pokreće, a indikator A
+stalno svijetli.
+Vrata bubnja se blokiraju i svijetli
+pripradajući indikator è.
+Za vrijeme programa se prikazuju
+trenutne informacije o programu:
+■
+Gotovo u vremenu odn. nakon
+početka programa pranja se
+prikazuje trajanje programa
+■
+i svijetle indikatori za napredak
+programa.
+~ Stranica 9
+Informacije o sljedećim koracima
+programa i postavkama, koje se tijekom
+
+17
+
+hr
+
+Upravljanje uređajem
+
+odvijanja programa još mogu
+promijeniti, slabije svijetle.
+Napomena: Prepoznavanje pjene
+Ako dodatno svijetli indikator Å, to
+znači da je perilica rublja prepoznala
+previše pjene tijekom programa pranja
+te je zbog toga automatski uključila
+postupak ispiranja za uklanjanje pjene.
+Prilikom slijedećeg pranja s istom
+količinom rublja koristite manje
+deterdženta.
+Ukoliko program želite zaštititi od
+neželjene promjene, zaštitu za djecu
+odaberite na slijedeći način.
+
+Zaštita za decu/ blokada
+upravljanja
+E 3 sec
+Perilicu rublja možete osigurati od
+nehotičnih promjena podešenih
+funkcija u upravljačkom polju.
+Za aktiviranje/deaktiviranjezaštite za
+djecu dodirnite upravljačko polje
+E 3 sec i držite ga pritisnuto u trajanju
+od otprilike 3 sekunde. Indikator svijetli
+jako.
+Ako okrenete selektor programa kada
+je aktivna zaštita za djecu ili dodirnete
+neko upravljačko polje, kratko treperi
+indikator E 3 sec i javlja se zvučni
+signal. Program se odvija nepromijenjen
+sve do završetka programa.
+Napomene
+■
+Za vađenje rublja po završetku
+programa deaktivirajte zaštitu za
+djecu.
+■
+Zaštitu za djecu možete aktivirati u
+svakom stanju uređaja.
+■
+Zaštita za djecu ostaje aktivirana i
+nakon isključivanja perilice rublja.
+■
+Ako uređaj isključite kada je
+program u tijeku ili je aktivirana
+zaštita za djecu, prilikom ponovnog
+uključivanja perilice rublja program
+će se nastaviti.
+18
+
+Dodavanje rublja
+Nakon pokretanja programa možete,
+ukoliko je to potrebno, dodati rublje ili
+ga izvaditi.
+U tu svrhu dodirnite upravljačko
+polje A.
+Indikator treperi. Perilica rublja je u
+stanju pauze i provjerava je li moguće
+dodavanje rublja.
+Kada se ugasi indikator è, onda je
+moguće dodavanje rublja. Vrata bubnja
+su deblokirana i mogu se otvoriti.
+Za nastavak programa ponovno
+dodirnite A. Program se automatski
+nastavlja.
+Napomene
+■
+Prilikom punjenja, prozor za punjenje
+ne ostavljajte otvoren dulje vrijeme
+– iz rublja se može iscijediti voda te
+se potom izliti iz perilice.
+■
+Kod visoke razine vode, visoke
+temperature ili rotirajućeg bubnja,
+prozor za punjenje ostaje zatvoren
+iz sigurnosnih razloga, a punjenje
+rublja nije moguće. Pridržavajte se
+napomena na kontrolnoj ploči.
+■
+Indikator punjenja prilikom
+dodavanja rublja nije aktivan.
+
+Promjena programa
+Ako ste nehotice pokrenuli krivi
+program, možete ga promijeniti na
+slijedeći način:
+1. Dodirnite upravljačko polje A.
+2. Odaberite drugi program.
+3. Ponovno dodirnite A. Novi program
+počinje ispočetka.
+
+Prekid programa
+Kod programa s visokom
+temperaturom:
+1. Dodirnite upravljačko polje A.
+2. Za hlađenje rublja: odaberite
+Ispiranje.
+
+Inteligentni sustav doziranja
+3. Ponovno dodirnite A.
+
+■
+
+Kod programa s nižom temperaturom:
+1. Dodirnite A.
+2. Odaberite Centrifugiranje/
+ispumpavanje ili Ispumpavanje.
+3. Ponovno dodirnite A.
+
+Kraj programa
+Na kontrolnoj ploči svijetli Kraj, a
+indikatori A i è su isključeni.
+Napomena: Treperenje indikatora Û,
+upućuje da je potrebno pokrenuti
+program Njega bubnja ili bilo koji drugi
+program s temperaturom pranja od
+najmanje 60 °C.
+
+Vađenje rublja/isključivanje
+uređaja
+1. Otvorite vrata bubnja i izvadite rublje.
+2. Isključite uređaj.
+3. Zatvorite slavinu za vodu.
+Napomena: Kod modela Aquastop
+nije potrebno.
+Napomene
+■
+Ne zaboravite komade odjeće u
+bubnju. Prilikom sljedećeg pranja se
+može stisnuti ili obojiti drugo rublje.
+■
+Uklonite sve eventualno zaostale
+predmete iz bubnja i gumene
+manžete - opasnost od hrđanja.
+■
+Osušite gumenu manšetu.
+
+hr
+
+Uvijek pričekajte kraj programa jer bi
+uređaj u suprotnom još uvijek
+mogao biti blokiran. Zatim uključite
+uređaj i pričekajte da se deblokira.
+
+a Inteligentni sustav
+doziranja
+
+Inteligentni sustav doziranja u
+ladici za deterdžent
+
+ajnrizodvatsuintegltnI
+
+i-DOS Inteligentni sustav doziranja
+Vaš uredjaj za pranje rublja opremljen je
+inteligentnim sustavom doziranja za
+tekuće sredstvo za pranje rublja i
+omekšivač.
+Za to su vam raspoloživi i-DOS
+spremnici ß i i u ladici za deterdžent.
+
+
+
+
+( Spremnik ß (1,3 l) za tekući
+deterdžent
+0 Spremnik i (0,5 l) za omekšivač
+8 Lijevi odjeljak za ručno doziranje
+~ Stranica 22
+Ovisno o odabiru programa i
+postavkama, se preko i-DOS-spremnika
+doziraju oprimalne količine deterdženta
+i omekšivača.
+
+■
+
+Vrata bubnja i ladicu za deterdžent
+ostavite otvorene kako bi se zaostala
+voda mogla osušiti.
+
+Spremnik u rad/napuniti
+spremnik za doziranje
+Pri izboru Vaših sredstava za pranje i
+njegu rublja obratite pozornost na
+naputke proizvođača. Preporučamo
+tekuća univerzalna sredstva za pranje
+rublja i sredstva za pranje šarenog
+19
+
+hr
+
+Inteligentni sustav doziranja
+
+rublja za sve strojno perive obojene
+tkanine od pamuka i sintetike.
+Napomene
+■
+Koristite samo tekuće proizvode čije
+korištenje je preporučeno od strane
+proizvođača.
+■
+Ne miješajte različita tekuća sredstva
+za pranje. Prilikom mijenjanja
+tekućeg sredstva za pranje (tip,
+proizvođač, ...) spremnik za
+doziranje u potpunosti ispraznite.
+~ Stranica 25
+■
+Ne rabite sredstva koja sadržavaju
+otapala, nagrizajuće tvari ili tvari koje
+oslobađaju plinove (npr. tekući
+izbjeljivač).
+■
+Ne miješajte sredstvo za pranje
+rublja s omekšivačem.
+■
+Ne rabite sredstva kojima je prošao
+rok trajanja niti jako gusta sredstva.
+■
+Kako bi se izbjeglo isušivanje, ne
+ostavljajte poklopac predugo
+otvorenim.
+Punjenje spremnika za doziranje:
+Spremnici za doziranje u ladici za
+detedržent označeni su odgovarajućim
+poklopcem spremnika za doziranje:
+■
+ß Potpuni/Univerzalni deteržent
+■
+i Omekšivač
+1. Podignite ladicu za deteržent.
+2. Otvorite poklopac spremnika za
+doziranje.
+3. Napunite deterdžent/omekšivač. Ne
+smijete prijeći oznaku max.
+
+4. Zatvorite poklopac spremnika za
+doziranje.
+5. Ladicu za deterdžent umetnite
+polako do kraja.
+20
+
+Kada je ladica za deterdžent umetnuta
+do kraja, indikator ù kod uključenog
+uređaja je isključen.
+
+U svakodnevnoj uporabi
+Indikatori:
+
+■
+■
+
+Indikator svijetli, kada je inteligentno
+doziranje za spremnik odabrano.
+Indikator namještenih vrijednosti npr.
+K treperi ako je kod odabranog
+inteligentnog doziranja minimalna
+razina u spremniku niža.
+
+Izabrati/opozvati inteligentno doziranje
+i prilagoditi jačinu doziranja:
+Inteligentno doziranje deterdženta i
+omekšivača je u svim programima, kod
+kojih je moguće automatsko doziranje,
+tvornički odabrano.
+Pregled svih mogućih postavki
+programa nalazi se na dodatnom listu
+uz upute za uporabu i postavljanje.
+Jačina doziranja deterdženta w je
+podešena na L (malo zaprljano rublje) i
+omekšivača i na K (normalno mekano
+rublje) i može se promijeniti
+pojedinačno za svaki program.
+~ Stranica 14
+Dodatno uz inteligentno doziranje može
+se prema potrebi ručno preko lijevog
+odjeljka dodati pomoćno sredstvo za
+pranje (npr. sol za mrlje).
+~ Stranica 22
+Napomena: Odabir (uklj/isklj) kao i
+odabrana jačina doziranja i-DOS i i i-
+
+Inteligentni sustav doziranja
+DOS w ostaju pohranjeni ovisno o
+programu sve do sljedeće promjene,
+čak i ako isključite perilicu rublja.
+Dodavanje sredstva za pranje/
+omekšivača:
+Treperenje pripadajućeg indikatora kod
+odabranog inteligentnog doziranja
+prikazuje da nije dosegnuta minimalna
+razina napunjenosti. Sadržaj je dovoljan
+za još oko 3 pranja.
+Isto sredstvo za pranje ili isti omekšivač
+mogu se dopuniti u bilo kojem trenutku.
+Pri promjeni proizvoda/proizvođača
+preporučamo prethodno čišćenje
+spremnika. ~ Stranica 25
+Po potrebi prilagodite osnovnu količinu
+doziranja.
+
+Osnovne postavke
+Osnovne količine doziranja
+odgovaraju:
+■
+
+■
+
+kod deterdženta - preporuke
+proizvođača za normalnu zaprljanost
+i postojeću tvrdoću vode.
+kod omekšivača - preporuke
+proizvođača za srednju mekoću.
+
+Podatke o istom možete pročitati na
+pakiranju deterdženta/omekšivača ili se
+raspitati izravno kod njihovog
+proizvođača.
+Kako biste utvrdili tvrdoću vode,
+upotrijebite testne trake ili se raspitajte u
+poduzeću za opskrbu vodom.
+Moja tvrdoća vode:
+
+Stupanj oneči- laga- noršćenja →
+no
+malTvrdoća vode
+no
+↓
+
+jako
+
+hr
+izuzetno
+jako
+
+mekano/srednje
+
+55 ml 75 ml 120
+ml
+
+160
+ml
+
+tvrdo/jako
+tvrdo
+
+75 ml 95 ml 150
+ml
+
+180
+ml
+
+Tvornička postavka za osnovnu količinu
+doziranja regionalno je određena (npr.
+75 ml deterdženta i 36 ml za
+omekšivač).
+Podesite osnovnu količinu doziranja
+deterdženta sukladno naljepnici na
+pakiranju vašeg deterdženta. Pritom
+vodite računa o vašoj tvrdoći vode.
+Odaberite osnovnu količinu doziranja
+omekšivača prema želji za mekoću
+vašeg rublja.
+Promjena osnovne količine doziranja
+jednako se odražava na sve tri jačine
+doziranja.
+Napomene
+Kod koncentriranih sredstva za
+pranje, smanjite količinu doziranja.
+■
+Ukoliko se tijekom pranja ponovno
+pojavi snažno pjenjenje, molimo
+provjerite postavke doziranja i jačinu
+doziranja.
+Osim toga i neki tekući deterdženti
+imaju tedenciju prekomjernom
+pjenjenju. U slučaju pravilnog
+podešavanja osnovne količine
+doziranja preporučamo vam da
+koristite drugi tekući deterdžent.
+■
+
+Promjena osnovnih količina doziranja:
+
+Ovdje se nalazi primjer za doziranje
+deterdženta na etiketi pakiranja:
+
+1. Dodirnite odgovarajuće i-DOSupravljačko polje (w ili i) i držite ga
+pritisnuto u trajanju od otprilike 3
+sekunde. Prikazuje se unaprijed
+podešena osnovna količina
+doziranja.
+
+21
+
+hr
+
+Postavke stroja
+
+2. Pritiskom na N ili M namjestite
+željenu osnovnu količinu doziranja.
+Postavka je i bez potvrđivanja
+aktivna.
+3. Još jednom dodirnite odgovarajuće
+i-DOS-upravljačko polje za povratak
+u početno stanje.
+Napomena: Postavke ostaju
+pohranjene do sljedeće promjene,
+čak i nakon isključivanja perilice
+rublja.
+
+Ručno doziranje
+Kod programa, kod kojih inteligentno
+doziranje nije moguće ili po želji (tada
+treba inteligentno doziranje postaviti na
+isključeno), deterdžent se dodaje u lijevi
+odjeljak.
+Također možete inteligentnom doziranju
+dodati pomoćna sredstav za pranje kao
+što su omekšivač, izbjeljivač ili sol za
+mrlje.
+
+: Upozorenje
+Nadraživanje očiju/kože!
+Prilikom otvaranja ladice za deterdžent
+tijekom rada uređaja, deterdžent/ ili
+omekšivač mogu prsnuti.
+Oprezno otvorite ladicu.
+U slučaju kontakta s deterdžentom/
+sredstvom za njegu rublja temeljito
+isperite oči odn. kožu.
+U slučaju nenamjernog gutanja, odmah
+potražite savjet liječnika.
+Oprez!
+Oštećenja na stroju
+Sredstva za čišćenje i sredstva za
+prethodnu obradu rublja (npr. sredstvo
+za uklanjanje mrlja, sprej za pretpranje,
+...) mogu u slučaju dodira oštetiti
+površinu perilice rublja.
+Ne dopustite da ova sredstva dođu u
+dodir s površinom perilice rublja.
+Ukoliko je potrebno, vlažnom krpom
+odmah obrišite ostatke spreja i druge
+ostatke/kapljice.
+
+22
+
+Napomene
+■
+Prilikom doziranju svih deterdženata/
+pomoćnih sredstava za pranje i
+čišćenje strogo se pridržavajte uputa
+proizvođača.
+■
+Kod ručnog doziranja deterdženta
+nije moguće preko inteligentnog
+doziranja dozirati i dodatno sredstvo
+za pranje (inteligentno doziranje
+postaviti na isključeno); sprječava
+predoziranje i pjenjenje
+■
+Guste omekšivače i štirku razrijedite
+vodom, to sprječava začepljenje.
+Doziranje i punjenje deterdženta:
+1. Izvucite ladicu za deterdžent.
+
+2. Dozirajte u lijevi odjeljak sukladno:
+– zaprljanosti,
+– Tvrdoću vode; (tvrdoću vode
+možete saznati u Vašoj
+vodoopskrbnoj tvrtci),
+– Količini rublja,
+– upute proizvodjača.
+3. Zatvorite ladicu za deterdžent.
+
+Q Postavke stroja
+Možete promijeniti sljedeće postavke na
+upravljačkoj i kontrolnoj ploči:
+■
+glasnoću signala upozorenja (npr.
+na kraju programa),
+■
+glasnoću upravljačkih signala,
+■
+svjetlinu upravljačke i kontrolne
+ploče,
+■
+odabrati/opozvati funkciju koja
+signalizira održavanje bubnja.
+
+ajortsekvaPo
+
+Senzorsko upravljanje
+Za promjenu postavki morate prvo
+uvijek aktivirati način podešavanja.
+
+Aktivirati način podešavanja
+1. Uključite uređaj. Prikazuju se
+postavke za trenutni program.
+2. Dodirnite upravljačko polje œ.
+Način podešavanja je aktiviran i svijetle
+indikatori signala upozorenja U i
+unaprijed podešene glasnoće.
+Sada možete promijeniti postavke:
+
+Promjena jačine zvučnog
+signala
+U tu svrhu dodirnite upravljačko polje
+N ili M sve dok se ne pojavi željena
+namještena vrijednost za glasnoću
+signala upozorenja:
+Namještene vrijednosti:
+0
+isključeno
+1
+tiho
+2
+srednje
+3
+glasno
+4
+jako glasno
+Završite način podešavanja ili:
+Ponovno dodirnite œ. Svijetle indikatori
+upravljačkih signala C i unaprijed
+podešene glasnoće.
+Pritiskom na N ili M promijenite
+namještenu vrijednost (kako je gore
+opisano).
+Završite način podešavanja ili:
+
+Promjena svjetline zaslona
+osjetljivog na dodir
+Ponovno dodirnite œ. Svijetle indikatori
+za svjetlinu zaslona osjetljivog na dodir
+B i za unaprijed podešenu svjetlinu.
+Pritiskom na N ili M promijenite
+namještenu vrijednost:
+
+hr
+
+Namještene vrijednosti:
+1
+slabo svijetlo
+2
+normalno svijetlo
+3
+svijetlo
+4
+jako svijetlo
+Završite način podešavanja ili:
+
+Odabir/opoziv funkcije koja
+signalizira održavanje bubnja
+Ponovno dodirnite œ. Svijetli indikator
+funkcije koja signalizira održavanje
+bubnja Û.
+Pritiskom na N ili M odaberite (on) ili
+opozovite (oFF) funkciju.
+
+Dovršetak načina podešavanja
+Za dovršetak i pohranjivanje postavki:
+■
+pričekajte oko 15 minuta ili
+■
+posljednji put dodirnite œ ili
+■
+isključite uređaj. Odabrane postavke
+bit će učinkovite kod sljedećeg
+uključivanja.
+
+H Senzorsko upravljanje
+Automatika količine
+
+ejnalvrpuokszSne
+
+Ovisno o vrsti tkanine i punjenju,
+automatika količine optimalno usklađuje
+potrošnju vode u svakom programu.
+
+Kontrolni sustav za ravnotežu
+Automatski kontrolni sustav za
+ravnotežu otkriva neravnotežu te kroz
+nekoliko ponovljenih centrifuga postiže
+ravnomjernu raspodjelu rublja.
+Iz sigurnosnih razloga se kod
+nepovoljne raspodjele rublja smanjuje
+broj okretaja ili se ne centrifugira.
+
+23
+
+hr
+
+Čišćenje i održavanje
+
+Napomena: Stavite male i velike
+komade odjeće u bubanj.
+~ Stranica 30
+
+VoltCheck
+ovisno o modelu
+Dvotočka na Gotovo u vremenuindikatoru:
+■
+treperiako trenutno postoji pad
+napona.
+■
+pulsiraako je tijekom programa
+prepoznat pad napona.
+
+Napomena: Pad napona može dovesti
+npr. do produžavanja vremena
+programa i / ili do nezadovoljavajućeg
+učinka centrifugiranja.
+
+čišćenje, mogu se oštetiti površine i
+sastavni dijelovi stroja.
+Ne koristite sredstva za čišćenje koja
+sadrže otapala.
+Na ovaj ćete način sprječiti stvaranje
+bio filma i stvaranje neugodnih mirisa:
+Napomene
+■
+Pobrinite se za dobro prozračivanje
+prostorije postavljanja perilice rublja.
+■
+Prozor za punjenje i korito za
+ispiranje ostavite lagano otvorene
+kada se perilica rublja ne koristi.
+■
+Povremeno perite na Pamuk 60 °Cprogram uz korištenje univerzalnog
+deterdženta u prašku.
+
+Kućište stroja/upravljačko
+polje
+■
+■
+■
+
+2 Čišćenje i održavanje
+: Upozorenje
+
+ejnavžrdoiejnćšČi
+
+Opasnost po život!
+U slučaju kontakta s dijelovima koji
+provode napon postoji opasnost od
+strujnog udara.
+Isključite stroj i izvucite mrežni utikač.
+
+: Upozorenje
+Opasnost od trovanja!
+Uslijed korištenja sredstava za čišćenje
+koja sadrže otapala, primjerice benzin
+za čišćenje, mogu nastati otrovne pare.
+Ne koristite sredstva za čišćenje koja
+sadrže otapala.
+Oprez!
+Oštećenja na stroju
+Uslijed korištenja sredstva za čišćenje
+koja sadrže otapala, npr. benzin za
+24
+
+Kućište i upravljačko polje izribajte
+mekom i vlažnom krpom.
+Odmah izvadite ostatke deterdženta.
+Zabranjeno je čišćenje mlazom
+vode.
+
+Bubanj za pranje
+Koristite sredstva za čišćenje koja ne
+sadrže klor, ne koristite metalnu spužvu.
+Ukoliko se počne stvarati neugodan
+miris u perilici rublja odn. za čišćenje
+bubnja koristite program Njega bubnja
+90 °C bez umetanja rublja. Za to
+koristite deterdžent u prašku.
+
+Uklanjanje kamenca
+Kod pravilnog doziranja deterdženta,
+uklanjanje kamenca nije potrebno.
+Ukoliko ipak jest, postupajte prema
+uputama proizvođača sredstva za
+uklanjanje kamenca. Prikladne
+omekšivače vode možete naručiti
+putem naše web stranice ili od službe
+za korisnike. ~ Stranica 32
+
+Čišćenje i održavanje
+
+i-DOS-Ladica za deterdžent i
+njezino kućište
+1. Pražnjenje spremnika za doziranje:
+Spremnici za doziranje imaju u
+prednjem dijelu otvore za pražnjenje
+s uklonivim čepovima. Da biste
+ispraznili spremnik za doziranje
+potrebno je prvo ukloniti držak ladice
+i to na sljedeći način:
+a) Podignite ladicu za deteržent.
+
+b) Utičnu polugu (A) na stražnjoj
+stijenjci drška ladice (dolje,
+sredina) lagano povući prema
+sebi i istodobno odbravljenu
+dršku ladice (B) povući prema
+gore.
+
+c) Za pražnjenje spremnika za
+doziranje postojeće zaporne
+čepove pažljivo uklonite i sadržaj
+istresite u prikladnu posudu.
+
+hr
+
+Da biste što lakše mogli očistiti
+spremnik za doziranje omogućeno
+vam je potpuno ukloniti ladicu za
+deterdžent.
+a) Prije uklanjanja, ispraznite
+spremnik za doziranje.
+Napomena: Ručicu ladice vratite
+natrag tek nakon što je uspješno
+proveden postupak čišćenja.
+b) Ladicu izvucite prema gore.
+c) Pritisnuti utičnu polugu i ladicu
+izvucite do kraja.
+
+d) Pažljivo skinite poklopac ladice.
+
+Oprez!
+Ladica za deterdžent može se
+oštetiti!
+Ladica za deterdžent sadrži
+električne komponente. Prilikom
+dodira s vodom isti se mogu oštetiti.
+– Poklopac ne perite u perilici
+poduđa i ne potapajte ga u vodi.
+
+d) Zaporne čepove ponovno uvucite
+sve do graničnika.
+2. Čišćenje spremnika za doziranje/
+ladice deterdženta:
+25
+
+hr
+
+Čišćenje i održavanje
+– Stražnju utičnicu ladice zaštitite
+od vlage, deterdženta ili ostataka
+omekšivača; vanjske površine po
+potrebi očistite mokrom, vlažnom
+krpom. Prije uvlačenja je osušite.
+e) Zdjelicu i poklopac očistite
+mekom, mokrom krpom ili
+ručnom škropilicom. Unutrašnjost
+takodjer očistite mekom, vlažnom
+krpom.
+
+f) Zdjelicu i poklopac osušite i
+ponovno spojite.
+g) Držak ladice odozgo gurnite sve
+dok ne osjetite da je ušao u svoje
+ležište.
+h) Čišćenje unutrašnjosti kućišta
+ladice za deterdžent.
+i) Ladicu za deterdžent umetnite do
+kraja.
+
+Crpka za otpadnu vodu
+začepljena, pražnjenje u nuždi
+
+: Upozorenje
+Opasnost od opeklina vrućom parom!
+Sapunica je kod pranja na visokim
+temperaturama vruća. U slučaju
+kontakta s vrućom vodom može doći do
+opeklina.
+Ostavite vodu da se ohladi.
+
+26
+
+1. Zatvorite slavinu za vodu kako ne bi
+mogla doticati voda koja bi se
+morala ispuštati kroz crpku za
+otpadnu vodu.
+2. Isključite uređaj. Izvucite mrežni
+utikač.
+3. Otvorite i izvadite servisnu zaklopku.
+
+4. Izvadite crijevo za pražnjenje iz
+držača.
+Skinite zatvornu kapu, ispustite
+sapunicu u primjerenu posudu.
+Nabijte zatvornu kapu i umetnite
+crijevo za pražnjenje u držač.
+
+5. Poklopac pumpe oprezno odvrnite,
+ostatak vode može oteći.
+Očistite unutarnji prostor, navoj na
+poklopcu crpke te kućište crpke.
+Propeler crpke za otpadnu vodu
+mora se moći okretati.
+Poklopac pumpe ponovno umetnite i
+zavrnite. Ručka mora stajati okomito.
+
+6. Stavite servisnu zaklopku, uglavite je
+i zatvorite.
+
+Smetnje - što učiniti?
+
+hr
+
+a) Sa slavine za vodu skinite crijevo.
+Sito očistite četkicom.
+
+Napomena: Kako biste spriječili da pri
+sljedećem pranju deterdžent
+nepotrebno oteče u odvod: u lijevi
+odjeljak ulijte 1 litru vode i pokrenite
+program Ispumpavanje.
+
+b) Čišćenje sita sa stražnje strane
+uređaja kod modela Standard i
+Aqua-Secure:
+Skinite crijevo na stražnjoj strani
+uređaja,
+Sito izvadite kliještima i očistite
+ga.
+
+Odvodno crijevo je začepljeno
+na sifonu
+1. Isključite stroj. Izvucite mrežni utikač.
+2. Otpustite obujmicu crijeva. Oprezno
+skinite odvodno crijevo, zaostala
+voda može oteći.
+3. Očistite odvodno crijevo i nastavke
+sifona.
+
+c) Priključite crijevo te zatim
+provjerite je li dobro zabrtvljeno.
+
+4. Ponovno nataknite odvodno crijevo i
+obujmicom za crijevo osigurajte
+spojno mjesto.
+
+Sito na dovodu vode
+začepljeno
+1. Smanjenje tlaka vode u dovodnom
+crijevu:
+a) Zatvorite slavinu za vodu.
+b) Odaberite program po želji (osim
+Ispiranje/Centrifugiranje/
+ispumpavanje/Ispumpavanje).
+c) Pokrenite program i ostavite
+program da radi oko 40 sekundi.
+d) Isključite uređaj.
+e) Izvucite mrežni utikač.
+2. Čišćenje sita:
+
+3 Smetnje - što učiniti?
+Deblokiranje u nuždi
+
+?itnčuotš-ejnSmt
+
+npr. kod nestanka struje
+Program će se nastaviti čim se opskrba
+električnom energijom ponovno
+uspostavi.
+Ako ipak želite izvaditi rublje, prozor za
+punjenje može se otvoriti na sljedeći
+način:
+
+: Upozorenje
+
+Opasnost od opeklina vrućom parom!
+Kod pranja na visokim temperaturama
+može doći do kontakta s vrućom
+sapunicom i rubljem, što može
+uzrokovati opekline.
+27
+
+hr
+
+Smetnje - što učiniti?
+
+Stoga ih po potrebi ostavite da se
+ohlade.
+
+: Upozorenje
+Opasnost od ozljede!
+U slučaju dodira rotirajućeg bubnja
+možete ozlijediti ruke.
+Ne dodirujte rotirajući bubanj.
+Pričekajte dok se bubanj ne prestane
+okretati.
+
+3. Deblokadu u slučaju nužde uz
+pomoć alata povucite prema dolje i
+otpustite.
+Prozor za punjenje se sada može
+otvoriti.
+
+Oprez!
+Moguća oštećenja od vode
+Istjecanje vode može uzrokovati
+oštećenje vodom.
+Ne otvarajte prozor za punjenje sve dok
+je na staklu vidljiva voda.
+1. Isključite stroj. Izvucite mrežni utikač.
+2. Ispustite sapunicu. ~ Stranica 26
+
+Naputci u polju za prikaz
+Indikator
+
+Uzrok/Pomoć
+
+è isključeno
+
+Vrata bubnja su deblokirana, na kraju programa ili u stanju pauze, kada se može
+dodati rublje.
+
+è svijetli
+
+■
+■
+■
+■
+
+è treperi
+
+■
+■
+
+Tijekom programa. Vrata bubnja su blokirana.
+u stanju pauze: temperatura je previsoka. Pričekajte dok se temperatura ne
+spusti.
+u stanju pauze: broj okretaja centrifuge je preveliki. Pričekajte da se bubanj zaustavi.
+u stanju pauze: razina vode je previsoka. Dodavanje rublja nije moguće. Za
+nastavak programa dodirnite A.
+polako: vrata bubnja se trenutno ne mogu blokirati ili deblokirati. Nužno je vrijeme čekanja.
+brzo: zatvorite vrata bubnja jer se voda može iscijediti iz rublja.
+
+A isključeno
+
+na kraju programa, kod otvorenih vrata bubnja
+
+A svijetli
+
+nakon pokretanja programa
+
+A treperi
+
+prije pokretanja programa, u stanju pauze
+
+Treperi i-DOS-namještena vrijednost npr.
+K
+
+Prepoznata minimalna razina u pripadajućem spremniku, napunite.
+~ Stranica 21
+
+ù svijetli
+
+Ladica za deterdžent je izvučena.
+
+r svijetli
+
+Tlak vode je preslab, može produljiti trajanje programa.
+
+28
+
+Smetnje - što učiniti?
+
+hr
+
+Indikator
+
+Uzrok/Pomoć
+
+r treperi
+
+Nema dovoda vode:
+■
+Do kraja otvorite slavinu za vodu,
+■
+dovodno crijevo je savijeno/prikliješteno,
+■
+po potrebi očistite sito. ~ Stranica 27
+
+E 3 sec svijetli
+
+Zaštita za djecu je aktivirana, deaktivirajte. ~ Stranica 18
+
+E 3 sec treperi
+
+Zaštita za djecu je aktivirana, okrenut je selektor programa ili ste dodirnuli neko
+upravljačko polje.
+
+Û treperi
+
+Pokrenite program Njega bubnja 90 °C ili 60 °C-program za čišćenje i održavanje
+bubnja i spremnika za otpadnu vodu.
+Napomene
+■
+Pokrenite program bez umetanja rublja.
+■
+Za to koristite deterdžent u prašku. ili deterdžent koji sadrži izbjeljivač. Kako
+biste spriječili stvaranje pijene, koristite samo polovicu količine sredstva za pranje koju je preporučio proizvođač deterdženta. Ne upotrebljavajte sredstvo za
+pranje vune ili finog rublja.
+■
+Uključivanje/isključivanje signala upozorenja
+
+Å svijetli
+
+Prepoznato je previše pjene, uključeni su dodatni postupci ispiranja. Prilikom slijedećeg pranja s istom količinom rublja koristite manje deterdženta.
+
+E:10 alternativno sa
+- 00, - 10 ili - 20
+
+Pogreška u i-DOS-sustavu. i-DOS-funkcija je deaktivirana automatski.
+Uređaj možete koristiti normalno s ručnim doziranjem.
+Za popravak i-DOS-sustava nazovite servisnu službu.
+
+E:60 alternativno sa
+- 2b i Kraj
+
+na kraju programa.
+Nema pogreške - kontrolni sustav za ravnotežu prekinuo je centrifugiranje jer je
+rublje neravnomjerno posloženo.
+U bubnju rasporedite velike i male komade rublja. Po potrebi još jednom centrifugirajte rublje.
+
+E:35 alternativno sa
+- 10
+
+Voda u podnoj posudi, uređaj propušta. Zatvorite pipu za vodu. Nazovite servisnu
+službu! ~ Stranica 32
+
+E: 36 alternativno sa
+- 10
+
+■
+■
+
+ostali prikazi
+
+Crpka za otpadnu vodu začepljena. Očistite crpku za otpadnu vodu.
+~ Stranica 26
+Odvodno crijevo/odvodna cijev je začepljena. Očistite odvodno crijevo na
+sifonu. ~ Stranica 27
+
+Isključite uređaj, pričekajte 5 sekundi i ponovno ga uključite. Ukoliko se prikaz
+ponovo pojavi, nazovite servisnu službu. ~ Stranica 32
+
+29
+
+hr
+
+Smetnje - što učiniti?
+
+Smetnje - što učiniti?
+Smetnje
+
+Uzrok/Pomoć
+
+Voda istječe iz perilice.
+
+■
+■
+
+Voda ne teče.
+Deterdžent ne ulazi u perilicu.
+Spremnik za doziranje je
+prazan i indikator razine
+ne treperi.
+
+■
+■
+■
+■
+■
+■
+
+Odvodno crijevo pravilno učvrstite/zamijenite.
+Zategnite vijčani spoj dovodnog crijeva.
+Program nije pokrenut?
+Salvina za vodu nije otvorena?
+Sito je možda začepljeno? Očistite sito.~ Stranica 27
+Dovodno crijevo je savijeno ili prikliješteno?
+Poklopac ladice/utikač ladice je zaprljan? Čišćenje ladice za deterdžent.
+~ Stranica 25
+Ladica za deterdžent nije ispravno umetnuta? ~ Stranica 20
+
+Pogrešan deterdžent/
+omekšivač je stavljen u
+spremnik za doziranje.
+
+Spremnik za doziranje:
+
+Deterdžent/omekšivač
+zgusnuo se u spremnicima za doziranje.
+
+Očistiti spremnike za doziranje i ponovno ih napuniti.
+
+Prozor za punjenje ne da
+se otvoriti.
+Program se ne pokreće.
+
+4. Isprazniti i očistiti. ~ Stranica 25
+5. Ponovno napunite.
+
+■
+■
+
+■
+■
+■
+■
+
+Sigurnosna funkcija aktivna. Prekid programa? ~ Stranica 18
+Otvaranje je moguće samo pomoću odbravljivanja u nuždi?
+~ Stranica 27
+Program je pokrenut ili Gotovo u vremenu odabran?
+Vrata bubnja su zatvorena?
+Zaštita za djecu je aktivirana? Deaktivirajte. ~ Stranica 18
+ù svijetli. Ladica za deterdžent nije umetnuta do kraja. Ladicu umetnite
+ispravno.
+
+Kratko zastajanje/okreta- Bez pogreške - kod pokretanja programa pranja se može kratkotrajno pojaviti
+nje bubnja nakon pokre- zastajanje bubnja koje je uvjetovano internim testom motora.
+tanja programa.
+Voda od pranja se ne
+ispumpava.
+
+■
+■
+
+Očistite crpku za otpadnu vodu. ~ Stranica 26
+Očistite odvodnu cijev i/ili odvodno crijevo.
+
+Voda u bubnju se ne vidi. Nije pogreška – voda je ispod vidnog područja.
+Učinak centrifugiranja nije
+zadovoljavajući.
+Rublje je mokro/suviše
+vlažno.
+Višekratno kratko centrifugiranje.
+Trajanje programa duže
+je nego uobičajeno.
+
+■
+
+■
+■
+
+Nije pogreška – kontrolni sustav za necentriranost izjednačava centriranost.
+■
+■
+
+30
+
+Nije pogreška – kontrolni sustav za ravnotežu prekinuo je centrifugiranje
+zbog toga jer je rublje neravnomjerno posloženo.
+U bubnju rasporedite velike i male komade rublja.
+Zaštita od gužvanja je odabrano? ~ Stranica 15
+Da li je odabran suviše mali broj okretaja?
+
+Nije pogreška – kontrolni sustav za centriranost izjednačava centriranost
+višekratnim raspoređivanjem rublja.
+Nije pogreška aktivan je sustav kontrole pjene – dodaje se još jedno ispiranje.
+
+Smetnje - što učiniti?
+Smetnje
+
+Uzrok/Pomoć
+
+Trajanje programa mijenja se tijekom ciklusa
+pranja.
+
+Nema pogreške – tijek programa se optimizira za dotični proces pranja. To
+može dovesti do promjene trajanja programa na kontrolnoj ploči.
+
+Ostaci vode u lijevom
+odjeljku za sredstvo za
+njegu rublja.
+
+■
+
+hr
+
+Nema pogreške – Nema utjecaja na učinak sredstava za njegu rublja.
+
+Stvaranje neugodnih
+mirisa u perilici rublja.
+
+Pokrenite Njega bubnja ili Pamuk 90 °C bez umetanja rublja.
+Za to koristite deterdžent u prašku. ili deterdžent koji sadrži izbjeljivač.
+Napomena: Kako biste spriječili stvaranje pijene, koristite samo polovicu količine sredstva za pranje koju je preporučio proizvođač deterdženta. Ne upotrebljavajte sredstvo za pranje vune ili finog rublja.
+
+Indikator Å svijetli na
+zaslonu osjetljivom na
+dodir. Ponekad izlazi i
+pjena iz ladice za
+deterdžent.
+
+Korišteno je previše deterdženta?
+Jednu žlicu omekšivača za rublje izmiješajte sa 1/2 l vode te dodajte u lijevi
+odjeljak (ne za odjeću za slobodno vrijeme, sportsku odjeću, pernatu odjeću!).
+Smanjite doziranje deterdženta pri sljedećem pranju.
+
+Ponovljeno, jako pjenjenje.
+Deterdžent/omekšivač
+kaplje iz manšete te se
+skuplja na prozoru ili u
+preklopu manšete.
+Tijekom centrifugiranja
+stvaraju se jaki šumovi,
+vibracije i stroj ”hoda”.
+Zaslon osjetljiv na dodir
+ne radi za vrijeme rada
+uređaja.
+Na rublju se nalaze ostaci
+deterdženta.
+U stanju pauze treperi
+A i è svijetli.
+
+■
+■
+
+Previše deterdženta/omekšivača u spremnicima za doziranje. Pripazite na
+oznaku max na spremnicima za doziranje.
+
+■
+■
+■
+
+■
+■
+■
+■
+■
+■
+■
+
+U stanju pauze treperi
+A i è je isključen.
+
+Provjerite postavke osnovnog doziranja i jačinu doziranja.
+Ukoliko je to potrebno, koristite drugi tekući deterdžent.
+
+Stroj poravnan? Poravnajte stroj. ~ Stranica 36
+Jesu li nožice stroja fiksirane? Zaštitite nožice stroja. ~ Stranica 36
+Zaštita za transport uklonjena? Skinite zaštitu za transport.
+~ Stranica 34
+Nestanak električne energije?
+Osigurači isključeni? Osigurače uključite/zamijenite.
+Ako se smetnja ponovno pojavi, pozovite servis.
+Neki deterdženti bez fosfata sadrže tvari koje nisu topive u vodi.
+Ispiranje odaberite ili rublje iščetkajte nakon pranja.
+Razina vode je previsoka. Punjenje rublja nije moguće. Ukoliko je potrebno,
+odmah zatvorite vrata bubnja.
+Za nastavak programa dodirnite A.
+
+Vrata bubnja su deblokirana. Punjenje rublja je moguće.
+
+Ako smetnju ne možete ukloniti sami (isključivanjem/uključivanjem), ili ako je potreban popravak:
+■
+Stroj isključite i utikač izvucite iz utičnice.
+■
+Zatvorite slavinu za vodu i nazovite servisnu službu.
+
+31
+
+hr
+
+Servisna služba
+
+4 Servisna služba
+Ako smetnju ne možete sami ukloniti,
+molimo obratite se našem servisu. ~
+Naslovna stranica
+Uvijek ćemo pronaći odgovarajuće
+rješenje, pa i kako bismo izbjegli
+nepotreban dolazak tehničara.
+Molimo navedite servisnoj službi broj
+proizvoda (Br. proiz.) i tvornički broj
+(FD) stroja.
+
+abžulsnivSre
+
+(1U
+
+E-br.
+FD
+
+)'
+
+Broj proizvoda
+Tvornički broj
+
+Ove podatke ćete pronaći *ovisno o
+modelu:
+na prozoru za punjenje iznutra*/
+otvorenoj servisnoj zaklopci* i stražnjoj
+strani uređaja.
+Imajte povjerenje u kompetentnost
+proizvođača.
+Obratite nam se. Uvjerite se da
+popravak vrše kvalificirani serviseri s
+originalnim rezervnim dijelovima.
+
+Tlak vode:
+100 - 1000 kPa (1 - 10 bar)
+Prihvat snage u isključenom stanju:
+0,12 W
+Prihvat snage u neisključenom stanju:
+0,43 W
+
+5 Postavljanje i
+priključivanje
+
+Opseg isporuke
+
+ejnavičulkirp ejnalvtPso
+
+Napomena: Provjerite da na stroju
+nema transportnih oštećenja. Oštećeni
+stroj nikada nemojte stavljati u rad. U
+slučaju primjedbi, obratite se trgovcu
+kod kojeg ste kupili uređaj ili našoj
+servisnoj službi.
+
+
+
+
+#
+
+J Tehnički podatci
+Dimenzije:
+850 x 600 x 590 mm
+(visina x širina x dubina)
+Težina:
+70 - 85 kg (ovisno o modelu)
+Priključak na mrežu:
+Mrežni napon 220 - 240 V, 50Hz
+Nazivna struja 10 A
+Nazivna snaga 1900 - 2300 W
+
+ictadopikčnhTe
+
+32
+
++
+3
+
+Postavljanje i priključivanje
+( Mrežni vod
+0 Vrećica:
+■
+Upute za upotrebu i postavljanje
+■
+Popis servisnih službi*
+■
+Jamstvo*
+■
+Zaštitne kape za otvore nakon
+skidanja zaštite za transport
+■
+Ključ za vijke*
+8 Dovodno crijevo za vodu kod modela
+Aquastop
+@ Odvodno crijevo za vodu
+H Koljeno za fiksiranje odvodnog crijeva za
+vodu*
+P Dovodno crijevo za vodu kod modela
+standard/Aqua-Secure
+*ovisno o modelu
+Dodatno je kod priključivanja odvodnog
+crijeva za vodu na sifon potrebna
+crijevna obujmica ∅ 24 - 40 mm (u
+specijaliziranoj trgovini).
+Korisni alat
+■
+Libela za izravnavanje
+■
+Ključ za vijke s:
+– Veličina ključa 13 za otpuštanje
+zaštite za transport i
+– veličina ključa 17 za izravnavanje
+nožica uređaja
+
+Sigurnosni naputci
+
+: Upozorenje
+
+Opasnost od ozljede!
+Perilica rublja vrlo je teška.
+Budite oprezni pri podizanju/
+transportu perilice rublja.
+■
+Kod podizanja perilice rublja na
+isturenim dijelovima (npr. za prozor
+za punjenje), sastavni bi dijelovi
+mogli napuknuti te tako uzrokovati
+ozljede.
+Prilikom podizanja perilice rublja ne
+hvatajte za isturene dijelove.
+■
+
+■
+
+hr
+
+Uslijed nepravilno postavljenih
+crijeva i vodova postoji opasnost od
+spoticanja i ozljeda.
+Crijeva i vodove polažite tako da ne
+postoji opasnost od spoticanja.
+
+Oprez!
+Oštećenja na uređaju
+Smrznuta se crijeva mogu rastrgati ili
+puknuti.
+Perilicu rublja ne postavljajte na
+otvorenom i/ili na mjestima na kojima
+postoji opasnost od smrzavanja.
+Oprez!
+Štete od vode
+Priključna mjesta za dovodna i odvodna
+crijeva za vodu su pod visokim
+pritiskom vode. Kako biste spriječili
+istjecanje te nastanak šteta od vode,
+obvezno poštujte upute u ovom
+poglavlju.
+Napomene
+■
+Dodatno uz ovdje navedene naputke
+valja obratiti pozornost i na posebne
+propise koji su na snazi tvrtki
+nadležnih za vodoopskrbu te
+distributera električne energije.
+■
+Ukoliko niste sigurni, priključivanje
+uređaja prepustite stručnjaku.
+
+Površina za postavljanje
+Napomena: Stabilnost je važna kako
+perilica rublja ne bi "hodala"!
+■
+Površina za postavljanje mora biti
+čvrsta i ravna.
+■
+Nisu prikladni meki podovi/podne
+obloge.
+
+Postavljanje na postolje ili na
+pod s drvenim gredama
+Oprez!
+Oštećenja na uređaju
+Perilica rublja može tijekom
+centrifugiranja "hodati" i prevrnuti se/
+pasti s postolja.
+33
+
+hr
+
+Postavljanje i priključivanje
+
+Nožice uređaja obvezno pričvrstite
+spojnicom.
+Narudžbeni br. WMZ 2200, WX 9756,
+CZ 110600, Z 7080X0
+Napomena: Kod poda s drvenim
+gredama perilicu rublja postavite:
+■
+ukoliko je moguće u kutu,
+■
+na drvenu ploču otpornu na vodu
+(debljine min. 30 mm) koja je vijcima
+pričvršćena za pod.
+
+Postavljanje na podest s
+ladicom
+Br- narudžbe podesta: WMZ 20490, WZ
+20490, WZ 20510, WZ 20520
+
+■
+
+Kako biste kod nekog kasnijeg
+transporta uređaja izbjegli oštećenja,
+ugradite zaštite prije transportiranja
+uređaja.
+
+Napomena: Sačuvajte vijke i čahure.
+
+1. Crijeva skinite sa držača.
+
+Ugradnja uređaja u čajnoj
+kuhinji
+
+: Upozorenje
+Opasnost po život!
+U slučaju kontakta s dijelovima koji
+provode napon postoji opasnost od
+strujnog udara.
+Ne skidajte pokrovnu ploču uređaja.
+
+2. Odvijte sva 4 vijka zaštite za
+transport i izvadite ih.
+Skinite čahure. Pritom izvadite
+mrežni vod iz držača.
+
+Napomene
+■
+Potrebna dubina niše je 60 cm.
+■
+Perilicu rublja postavljajte isključivo
+ispod kompaktne radne ploče, koja
+je čvrsto povezana sa susjednim
+elementima.
+
+Skidanje zaštite za transport
+Oprez!
+Oštećenja na uređaju
+■
+Stroj je za transport zaštićen
+pomoću zaštite za transport.
+Neuklonjena zaštita za transport
+mogla bi tijekom rada stroja oštetiti
+bubanj.
+Prije prve uporabe, svakako se
+pobrinite da u potpunosti izvadite
+sve 4 zaštite za transport. Pohranite
+ih.
+34
+
+3. Umetnuti pokrove. Pokrove zatvarate
+snažnim pritiskom na učvrsnu kuku.
+
+Duljine crijeva i vodova
+■
+
+Priključak s lijeve strane
+
+Postavljanje i priključivanje
+
+Napomene
+■
+Perilica rublja smije se priključiti
+isključivo na hladnu, pitku vodu.
+■
+Stroj ne priključujte na miješalicu za
+vodu bestlačnog bojlera.
+■
+Koristite samo dovodno crijevo koje
+je isporučeno zajedno s uređajem ili
+crijevo koje ste nabavili u ovlaštenoj
+specijaliziranoj trgovini, nemojte
+koristiti rabljeno crijevo.
+■
+Dovodno crijevo za vodu ne
+savijajte, stišćite, mijenjajte ili režite
+(jer zbog toga otpornost više nije
+zajamčena).
+■
+Vijčane spojeve zatežite samo
+rukom. Ukoliko vijčani spoj prejako
+zategnete alatom (kliještima), postoji
+opasnost od oštećenja navoja.
+
+aFP
+
+PD[FP
+
+aFP
+
+aFP
+
+Priključak s desne strane
+
+aFP
+
+aFP
+
+aFP
+
+PD[FP
+
+■
+
+hr
+
+Savjet: U specijaliziranoj trgovini/
+servisnoj službi raspoloživi su:
+■
+produžetak za Aqua-Stop- odn.
+dovodno crijevo za hladnu vodu
+(oko 2,50 m); Narudžbeni br.
+WMZ2380, WZ10130, CZ11350,
+Z7070X0
+■
+duže dovodno crijevo (oko 2,20 m)
+za model standard
+
+Optimalni tlak vode u vodovodnoj
+mreži
+minimalno 100 kPa (1 bar)
+maksimalno 1000 kPa (10 bar)
+Kod otvorene slavine za vodu teče
+najmanje 8l/min.
+Kod većeg tlaka vode pretspojite tlak
+ventil za redukciju tlaka.
+Priključak
+Priključite dovodno crijevo za vodu na
+slavinu za vodu (¾" = 26,4 mm) i na
+uređaj (kod modela s Aquastop nije
+potrebno, fiksno instalirano):
+■
+Model: Standard
+
+Dovod vode
+
+: Upozorenje
+
+Opasnost po život!
+U slučaju kontakta s dijelovima koji
+provode napon postoji opasnost od
+strujnog udara.
+Aquastop sigurnosni ventil ne uranjajte
+u vodu (sadrži električni ventil).
+
+■
+
+Model: Aqua-Secure
+
+Kod priključivanja poštujte slijedeće
+
+35
+
+hr
+
+Postavljanje i priključivanje
+Pazite da:
+■
+čep za zatvaranje ne zatvara odvod
+umivaonika.
+■
+da kraj odvodnog crijeva ne bude
+uronjen u ispumpanu vodu.
+■
+da voda dovoljno brzo otječe.
+
+■
+
+Model: Aquastop
+
+Napomena: Odvodno crijevo za vodu
+ne presavijajte i ne rastežite.
+Priključak
+■
+
+Napomena: Slavinu za vodu oprezno
+otvorite te pritom provjeravajte
+zabrtvljenost priključnih mjesta. Vijčani
+spoj je pod vodovodnim tlakom.
+
+■
+
+Odvod vode
+
+: Upozorenje
+Opasnost od opeklina vrućom parom!
+Kod pranja na visokim temperaturama
+može doći do kontakta s vrućom
+sapunicom, npr. kod ispumpavanja
+vruće sapunice u umivaonik što može
+uzrokovati opekline.
+Ne dodirujte vruću sapunicu.
+Oprez!
+Štete od vode
+U slučaj da odvodno crijevo zbog
+visokog pritiska vode prilikom
+ispumpavanja vode klizne iz umivaonika
+ili iz priključnog mjesta, voda koja
+istječe može uzrokovati oštećenja.
+Odvodno crijevo zaštitite od iskliznuća.
+Oprez!
+Oštećenja na stroju/oštećenja na
+tkanini
+Ukoliko se kraj odvodnog crijeva uroni u
+ispumpanu vodu, postoji mogućnost da
+se voda usiše natrag u uređaj te tako
+ošteti uređaj/rublje.
+36
+
+■
+
+Odvod u umivaonik
+
+Odvod u sifon
+Priključno mjesto mora biti zaštićeno
+obujmicom crijeva, Ø 24- 40 mm
+(specijalizirana trgovina) .
+
+Odvod u plastičnu cijev s
+gumenom spojnicom ili u slivnik
+
+Izravnavanje
+Uređaj izravnajte pomoću libele.
+Pojava jakog šuma, vibracije te
+”hodanje” mogu biti posljedica lošeg
+izravnavanja!
+
+Postavljanje i priključivanje
+1. Protumatice popuštati ključem za
+vijke u smjeru kazaljke na satu.
+2. Izravnanje perilice rublja provjerite
+pomoću libele i po potrebi
+korigirajte. Visinu promijenite
+okretanjem podesivih nožica
+uređaja.
+Sve četiri podesive nožice uređaja
+moraju čvrsto stajati na tlu.
+3. Protumaticu zatežite suprotno od
+kućišta.
+Pritom čvrsto držite podesivu nožicu
+a visinu nemojte podešavati.
+Protumatice svih četiriju podesivih
+nožica na uređaju morate čvrsto
+zategnuti suprotno od kućišta!
+
+Električni priključak
+
+: Upozorenje
+
+Opasnost po život!
+U slučaju kontakta s dijelovima koji
+provode napon postoji opasnost od
+strujnog udara.
+■
+Mrežne utikače nikada ne dodirujte
+vlažnim rukama.
+■
+Mrežni vod uvijek povlačite za utikač
+a nikada za vod budući da bi se u
+suprotnom mogao oštetiti.
+■
+Mrežni utikač nikada ne izvlačite
+tijekom rada.
+Poštujte slijedeće napomene i uvjerite
+se da:
+
+hr
+
+Napomene
+Mrežni napon i naponske vrijednosti
+na perilici rublja (pločica uređaja)
+moraju biti sukladne sa stvarnim
+naponom.
+Vrijednost priključivanja kao i
+potrebni osigurač navedeni su na
+pločici uređaja.
+■
+Perilicu rublja priključujte isključivo
+na izmjeničnu struju i preko propisno
+postavljene utičnice sa zaštitnim
+kontaktom.
+■
+Mrežni utikač i utičnica međusobno
+odgovaraju.
+■
+da je presjek voda dostatan.
+■
+da je sustav za uzemljenje propisno
+instaliran.
+■
+Promjenu mrežnog voda (ukoliko je
+potrebno) smije vršiti samo ovlašteni
+električar. Zamjenski mrežni vod
+moguće je nabaviti u servisnoj
+službi.
+■
+ne smiju se koristiti višestruke
+utičnice/-spojnice i produžni kabeli.
+■
+u slučaju korištenja zaštitne strujne
+sklopke koristite samo onu vrstu
+koja ima ovu oznaku z.
+Samo ovaj znak jamči ispunjavanje
+trenutno važećih propisa.
+■
+utikač mora uvijek biti dostupan.
+■
+Mrežni vod ne savijajte, prignječujte,
+mijenjajte, režite niti ne dopustite da
+dođe u dodir s izvorima topline.
+■
+
+Prije 1. pranja
+Prije napuštanja tvornice perilica rublja
+je temeljito provjerena. Kako biste
+uklonili eventualne ostatke vode koji su
+nastali prilikom testiranja, prije prvog
+pranja perite bez rublja.
+Napomene
+■
+Perilica rublja mora biti stručno
+postavljena i priključena. od
+~ Stranica 32
+■
+Nikada ne stavljajte u rad stroj koji
+je oštećen. Obavijestite Vašu
+servisnu službu.
+
+37
+
+hr
+
+Postavljanje i priključivanje
+
+Pripremni radovi:
+1. Provjerite uređaj.
+2. Napunite spremnik za doziranje ß i
+i. ~ Stranica 19
+3. Skinite zaštitnu foliju s ploče za
+upravljanje.
+4. Utaknite mrežni utikač.
+5. Otvoriti slavinu za vodu.
+Pokrenite program bez umetanja
+rublja:
+1. Uključite uređaj.
+2. Zatvorite prozor za punjenje. (Ne
+punite rublje!).
+3. Podesite program Njega bubnja 90
+°C.
+4. Otvorite ladicu za deterdžent.
+5. Ulijte otprilike 1 litru vode u lijevi
+odjeljak.
+6. Napunite univerzalni deterdžent u
+lijevi odjeljak.
+Napomena: Kako biste spriječili
+stvaranje pjene, koristite samo
+polovicu količine sredstva za pranje
+koju je preporučio proizvođač
+deterdženta. Ne upotrebljavajte
+sredstvo za pranje vune ili osjetljivog
+rublja.
+7. Zatvorite ladicu za deterdžent.
+8. Pokrenite program.
+9. Nakon završetka programa isključite
+uređaj.
+Vaša perilica rublja sada je spremna za
+rad.
+
+1. Zatvorite slavinu za vodu.
+2. Smanjite tlak vode u dovodnom
+crijevu: ~ Stranica 27; čišćenje i
+održavanje - sito u dovodu vode
+začepljeno
+3. Perilicu rublja isključite iz strujne
+mreže.
+4. Za ispuštanje preostale otpadne
+vode: ~ Stranica 26; Očistite i
+pričekajte - Crpka za otpadnu vodu
+začepljena, pražnjenje u nuždi
+5. Demontirajte crijeva.
+6. Isprazniti spremnik za doziranje.
+~ Stranica 25
+Ugradite zaštitu za transport:
+1. Skinite poklopce i pospremite ih.
+Ukoliko je potrebno koristite odvijač.
+
+2. Umetnite sve 4 čahure.
+Mrežni vod pričvrstite za držače.
+Vijke umetnite te ih čvrsto zategnite.
+
+Transportiranje
+npr. kod preseljenja
+
+Prije ponovnog puštanja u pogon:
+
+Oprez!
+Oštećenja stroja zbog curenja
+deterdženta/omekšivača iz spremnika
+za doziranje
+Deterdžent/omekšivač koji je procurio
+može oštetiti funkciju stroja, npr.
+uzrokovati štete na elektronici.
+Prije transporta stroja, ispraznite
+spremnik za doziranje.
+
+Napomene
+■
+obavezno skinite zaštitu za
+transport!
+■
+Kako biste spriječili da pri sljedećm
+pranju deterdžent nepotrebno oteče
+u odvod: u lijevi odjeljak ulijte oko
+1 litru vode i odaberite program
+Ispumpavanje i pokrenite ga.
+
+Pripremni radovi:
+38
+
+Jamstvo za Aquastop
+
+hr
+
+r Jamstvo za Aquastop
+samo za uređaje s funkcijom Aquastop
+
+potsaAuqzovmatJs
+
+Dodatno na jamstvene obveze
+prodavača na temelju ugovora o kupnji
+te dodatno na naše jamstvo za uređaj
+vršimo zamjenu pod slijedećim
+uvjetima:
+1. Ukoliko bi uslijed pogreške na
+našem Aquastop sustavu došlo do
+štete koju je prouzročila voda,
+nadomještamo štetu privatnih
+korisnika.
+2. Ovo jamstvo vrijedi dokle i životni
+vijek uređaja.
+3. Preduvjet za jamstvenu obvezu je da
+je uređaj s funkcijom Aquastop
+stručno postavljen i priključen
+sukladno našoj uputi; ona uključuje
+također i stručno produljenje za
+Aquastop (originalni pribor).
+Naše jamstvo se ne odnosi na
+neispravne dovode ili armature do
+priključka za Aquastop na pipcu za
+vodu.
+4. Uređaje s funkcijom Aquastop se
+načelno ne mora nadgledati tijekom
+rada odn. osigurati nakon toga
+zatvaranjem pipca za vodu.
+Ali u slučaju duljeg izbivanja iz stana,
+npr. tijekom višetjednog godišnjeg
+odmora, pipac za vodu treba
+zatvoriti.
+
+39
+
+Kontakt podatci za sve zemlje ćete naći u priloženom popisu službi održavanja.
+
+Robert Bosch Hausgeräte GmbH
+Carl-Wery-Straße 34
+81739 München, GERMANY
+
+*9001104609*
+9001104609 (9506)

@@ -1,0 +1,1391 @@
+ENGLISH
+MAGYAR
+ČEŠTINA
+
+HRVATSKI
+SRPSKI
+SIOVENČINA
+БЪЛГАРСКИ
+
+OWNER’S MANUAL
+
+МАКЕДОНСКИ
+
+MICRO Hi-Fi SYSTEM
+
+POLSKI
+
+Please read this manual carefully before operating
+your set and retain it for future reference.
+
+ROMÂNÃ
+
+FA162 (FA162N, FAS162F)
+
+FA162N-D0U_DHUNLL_ENG_4478.indd 1
+
+2015-04-08
+
+5:02:06
+
+Safety Information
+CAUTION
+RISK OF ELECTRIC SHOCK
+DO NOT OPEN
+
+CAUTION: TO REDUCE THE RISK OF ELECTRIC
+SHOCK DO NOT REMOVE COVER (OR BACK) NO
+USER-SERVICEABLE PARTS INSIDE REFER SERVICING
+TO QUALIFIED SERVICE PERSONNEL.
+This lightning flash with
+arrowhead symbol within an
+equilateral triangle is intended to
+alert the user to the presence of
+uninsulated dangerous voltage
+within the product’s enclosure
+that may be of sufficient
+magnitude to constitute a risk of
+electric shock to persons.
+The exclamation point within an
+equilateral triangle is intended
+to alert the user to the presence
+of important operating and
+maintenance (servicing)
+instructions in the literature
+accompanying the product.
+WARNING: TO PREVENT FIRE OR ELECTRIC SHOCK
+HAZARD, DO NOT EXPOSE THIS PRODUCT TO RAIN
+OR MOISTURE.
+WARNING: Do not install this equipment in a
+confined space such as a book case or similar unit.
+CAUTION: Do not block any ventilation openings.
+Install in accordance with the manufacturer’s
+instructions.
+Slots and openings in the cabinet are provided for
+ventilation and to ensure reliable operation of the
+product and to protect it from over heating. The
+openings shall be never be blocked by placing
+the product on a bed, sofa, rug or other similar
+surface. This product shall not be placed in a builtin installation such as a bookcase or rack unless
+proper ventilation is provided or the manufacturer’s
+instruction has been adhered to.
+
+FA162N-D0U_DHUNLL_ENG_4478.indd 2
+
+CAUTION: This product employs a Laser System.
+To ensure proper use of this product, please read
+this owner’s manual carefully and retain it for future
+reference. Shall the unit require maintenance,
+contact an authorized service centre.
+Use of controls, adjustments or the performance of
+procedures other than those specified herein may
+result in hazardous radiation exposure.
+To prevent direct exposure to laser beam, do not
+try to open the enclosure.
+CAUTION concerning the Power cord
+Most appliances recommend they be placed upon
+a dedicated circuit;
+That is, a single outlet circuit which powers only
+that appliance and has no additional outlets or
+branch circuits. Check the specification page of this
+owner’s manual to be certain. Do not overload wall
+outlets. Overloaded wall outlets, loose or damaged
+wall outlets, extension cords, frayed power cords, or
+damaged or cracked wire insulation are dangerous.
+Any of these conditions could result in electric
+shock or fire. Periodically examine the cord of your
+appliance, and if its appearance indicates damage
+or deterioration, unplug it, discontinue use of the
+appliance, and have the cord replaced with an
+exact replacement part by an authorized service
+center. Protect the power cord from physical or
+mechanical abuse, such as being twisted, kinked,
+pinched, closed in a door, or walked upon. Pay
+particular attention to plugs, wall outlets, and
+the point where the cord exits the appliance. To
+disconnect power from the mains, pull out the
+mains cord plug. When installing the product,
+ensure that the plug is easily accessible.
+
+2015-04-09
+
+11:04:41
+
+This device is equipped with a portable battery or
+accumulator.
+Safety way to remove the battery or the
+battery from the equipment: Remove the
+old battery or battery pack, follow the steps
+in reverse order than the assembly. To prevent
+contamination of the environment and bring on
+possible threat to human and animal health, the
+old battery or the battery put it in the appropriate
+container at designated collection points. Do
+not dispose of batteries or battery together with
+other waste. It is recommended that you use
+local, free reimbursement systems batteries and
+accumulators. The battery shall not be exposed to
+excessive heat such as sunshine, fire or the like.
+CAUTION: The apparatus shall not be exposed to
+water (dripping or splashing) and no objects filled
+with liquids, such as vases, shall be placed on the
+apparatus.
+Disposal of your old appliance
+1. All electrical and electronic products
+should be disposed of separately
+from the municipal waste stream
+via designated collection facilities
+appointed by the government or
+the local authorities.
+
+Disposal of waste batteries/accumulators
+1. This symbol may be combined with
+chemical symbols for mercury(Hg),
+cadmium(Cd) or lead(Pb) if the
+battery Contains more that 0.0005%
+of mercury,0.002% of cadmium or
+0.004% of lead.
+Pb
+
+2. All batteries/accumulators should
+be disposed separately from
+the municipal waste stream via
+designated collection facilities
+appointed by the government or
+the local authorities.
+3. The correct disposal of Your old
+batteries/accumulators will help
+to prevent potential negative
+consequences for the environment,
+animal and human health.
+4. For more detailed information
+about disposal of Your old batteries/
+accumulators, please contact Your
+city office, waste disposal service or
+the shop where You purchased the
+product.
+
+2. The correct disposal of your
+old appliance will help prevent
+potential negative consequences
+for the environment and human
+health.
+3. For more detailed information about
+disposal of your old appliance,
+please contact your city office,
+waste disposal service or the shop
+where you purchased the product.
+
+FA162N-D0U_DHUNLL_ENG_4478.indd 3
+
+2015-04-08
+
+5:02:07
+
+LG Electronics hereby declares that this/these
+product(s) is/are in compliance with the essential
+requirements and other relevant provisions of
+Directive 2004/108/EC, 2006/95/EC, 2009/125/EC
+and 2011/65/EU.
+
+You have to set the disc format option to [Mastered]
+in order to make the discs compatible with the LG
+players when formatting rewritable discs. When
+setting the option to Live File System, you cannot
+use it on LG players.
+(Mastered/Live File System : Disc format system for
+Windows Vista)
+
+Contact office for compliance of this product :
+LG Electronics Inc.
+EU Representative, Krijgsman 1,
+1186 DM Amstelveen, The Netherlands
+ Please note that this is NOT a Customer Service
+contact point. For Customer Service Information,
+see Warranty Card or contact the dealer that you
+purchased this product.
+
+FA162N-D0U_DHUNLL_ENG_4478.indd 4
+
+2015-04-08
+
+5:02:07
+
+Contents
+Before use
+About the Symbols for instruction /
+Notes on Discs . . . . . . . . . . . . . . . . . . . . .5
+Front / Back Panel . . . . . . . . . . . . . . . . . .6
+Remote Control . . . . . . . . . . . . . . . . . . . . .7
+
+Connections
+Speaker System Connection /
+Auxiliary Function . . . . . . . . . . . . . . . . . . .8
+Antenna (Aerial) Connections . . . . . . . . . .9
+
+Operation
+USB Function . . . . . . . . . . . . . . . . . . . . . . .9
+Setting the Clock / Timer Function /
+Sleep Timer Function . . . . . . . . . . . . . . .10
+Audio Adjustment . . . . . . . . . . . . . . . . . .12
+Presetting the Radio Stations /
+Listening to the Radio . . . . . . . . . . . . . . .14
+RDS Function - OPTIONAL . . . . . . . . . . .15
+CD Playback . . . . . . . . . . . . . . . . . . . . . .16
+To Program Play /
+About MP3/WMA . . . . . . . . . . . . . . . . . .17
+
+Reference
+Trademarks and Licensesˇ . . . . . . . . . . .18
+Troubleshooting . . . . . . . . . . . . . . . . . . .18
+Specifications . . . . . . . . . . . . . . . . . . . . .19
+
+The manual largely contains detailed
+explanation items about how to operate
+the unit with the remote control.
+
+About the symbols for
+instruction
+Indicates hazards likely to cause harm to
+the unit itself or other material damage.
+Note Indicates special notes and operating
+features.
+
+Notes on Discs
+Handling discs
+Do not touch the playback side of the disc. Hold
+the disc by the edges so that fingerprints do not
+get on the surface. Never stick paper or tape on
+the disc.
+
+Storing discs
+After playing, store the disc in its case. Do not
+expose the disc to direct sunlight or sources of
+heat and never leave it in a parked car exposed
+to direct sunlight.
+Cleaning discs
+Fingerprints and dust on the disc can cause poor
+picture quality and sound distortion. Before
+playing, clean the disc with a clean cloth. Wipe
+the disc from the center out.
+
+Precautions in using the touch buttons
+• Use the touch buttons with clean and dry
+hands.
+- In a humid environment, wipe out any
+moisture on the touch buttons before using.
+• Do not press the touch buttons hard to make it
+work.
+- If you apply too much strength, it can
+damage the sensor of the touch buttons.
+• Touch the button that you want to work in order
+to operate the function correctly.
+
+Do not use strong solvents such as alcohol,
+benzine, thinner, commercially available
+cleaners, or anti-static spray intended for older
+vinyl records.
+
+• Be careful not to have any conductive material
+such as metallic object on the touch buttons,
+and it can cause malfunctions.
+
+5
+
+Before use
+
+Before use
+
+Front / Back Panel
+
+19
+1
+
+12
+
+2
+3
+
+13
+14
+
+4
+
+15
+
+20
+
+5
+
+16
+
+21
+
+22
+
+6
+7
+OPEN
+
+8
+9
+10
+11
+
+17
+18
+
+1. 1 (POWER)
+2. VOLUME*
+
+15. > (SKIP)
+TUN. (+) (TUNER)
+
+3. FUNC. (FUNCTION)
+(FM, CD, USB, AUX)
+
+16. Z (OPEN/CLOSE)
+
+4. .(SKIP)
+TUN. (-) (TUNER)
+
+18. PHONES
+(Headphone jack :
+
+5. XTS pro
+
+19. Power cord
+
+6. x (STOP)
+MO./ ST. (MONO/ STEREO)
+
+20. Antenna terminal
+
+7. DISC TRAY
+
+17.
+
+USB connector
+3.5mm)
+
+21. AUX IN (Auxiliary input) connector
+22. Speaker terminal
+
+8. EQ master (DEMO) button
+9. CLOCK button
+
+*VOLUME Adjustment
+
+10. TIMER button
+11. SET/ RDS(OPTIONAL) button
+12. Display window
+13. B/[] (PLAY/PAUSE)
+14. XDSS plus/ (MP3 Optimizer)
+
+6
+
+Move your finger around
+the touch wheel.
+
+Before use
+
+Remote Control
+
+OPEN/CLOSE button
+POWER button
+PRESET/ FOLDER (
+
+) buttons
+
+SLEEP button
+PLAY/PAUSE (B
+B/[]) button •
+STOP (x)/ MO./ST. button •
+SKIP/ SEARCH •
+bb/ BB>) buttons
+(.b
+TUN. (-/+) buttons •
+REPEAT button •
+RDS (Radio Data System) FUNCTION
+buttons
+RDS button : OPTIONAL •
+PTY button : OPTIONAL •
+PTY SEARCH button : OPTIONAL •
+NUMERIC buttons
+
+Replacement of battery
+Detach the battery cover
+on the rear of the remote
+control and insert two R03
+(size AAA) batteries with
+3 and # aligned correctly.
+
+• FUNCTION button
+• MUTE button
+VOLUME CONTROL(
+
+) buttons
+
+DISP.MODE (DISPLAY MODE) button
+
+CLOCK button
+DIMMER button
+• EQ master button
+• XDSS plus button
+• XTS Pro button
+INFO
+(MP3/ WMA file information display)
+button
+PROGRAM/ MEMO button
+
+Remote Control Operation Range
+Point the remote control at the remote sensor
+and press the buttons.
+• Distance : About 23 ft (7 m) from the front of
+the remote sensor.
+• Angle
+: About 30° in each direction of the
+front of the remote sensor.
+
+Caution
+: Do not mix old and new batteries. Never
+mix different types of batteries (standard,
+alkaline, etc.).
+
+7
+
+Connections
+Speaker System Connection
+Connect the speaker cables to the speaker terminal.
+
+Front
+speaker (R)
+
+Front
+speaker (L)
+
+Notes:
+• Connect the black of each wire to the terminals marked - (minus) and the other end to the terminals
+marked + (plus).
+• Connect the Left/Right speaker correctly. If it reversed, the sound may be distorted.
+
+Auxiliary Function
+Connect an auxiliary device such as a TV or VCR via the rear mounted AUX connector and press
+FUNCTION (Refer to the example images 1 and 2 shown below).
+
+Portable Device
+
+To AUDIO in
+Auxiliary Device
+
+Example (1)
+
+Example (2)
+Portable in cable
+
+To AUDIO out
+
+Note:
+Turn the unit off and then connect an auxiliary device before you connect an auxiliary device.
+Because it may make a noise.
+
+8
+
+Connect the supplied FM antennas for radio
+reception.
+FM wire antenna (supplied)
+
+Notes:
+Be sure to fully extend the FM wire antenna.
+
+Operation
+USB Function
+You can enjoy MP3/ WMA media file saved on
+player or USB memory device by connecting the
+device to the USB port of this unit.
+
+Compatible Devices
+1. Devices which require additional program
+installation when you connect it to a
+computer, are not supported.
+2. MP3 Player : Flash type MP3 player.
+• The MP3 player requiring installation of a
+driver is not supported.
+3. USB Flash Drive : Devices that support
+USB1.1.
+Basic Playback
+1. Connect the USB device to the USB
+connector of your unit.
+2. Press FUNCTION to enter the USB mode.
+“SEARCH” appears in the display window,
+and then the total number of files is
+displayed.
+3. Press PLAY/ PAUSE (B/[]).
+In addition, you can also play using
+NUMERIC buttons.
+
+Operation
+
+Antenna (Aerial) Connections
+
+To Remove the USB from the unit
+1. Choose an other function except USB
+in order to remove the USB.
+2. Remove the USB from the unit.
+Notes:
+• Besides Basic Playback, if you want to operate
+other functions, see the CD Playback section.
+• Do not extract the USB device in operating.
+• A backup is needed to prevent a data damage.
+• If you use a USB extension cable or USB hub,
+the USB device might not be recognized.
+• A device using NTFS file system is not
+supported. (Only the FAT (16/32) file system is
+supported.)
+• The USB function of this unit does not support
+all USB devices.
+• Digital camera and mobile phones are not
+supported.
+• This unit is not supported when the total
+number of files is 1000 or more.
+
+9
+
+Setting the Clock
+
+Timer Function
+
+1. Press CLOCK.
+2. Select a 24 hour time system or a 12 hour
+time system by tapping ./>.
+v v
+
+v v
+
+v v v v v v v v
+
+or
+
+v v v v v v v
+
+(12HR)
+
+(24HR)
+
+3. Press SET to confirm the selected hour time
+system.
+4. Tap ./> on the front panel to set the
+correct hours.
+5. Press SET.
+6. Tap ./> on the front panel to set the
+correct minutes.
+7. Press SET and the correct time is shown on
+the display window.
+8. Press CLOCK at any time to display the
+time for about 5 seconds.
+Note:
+If you want to reset the clock, press and hold
+CLOCK for more than 2 seconds.
+
+10
+
+With the TIMER function, you can have the radio
+reception, CD play and USB play turned on and
+off at the desired time.
+1. Press CLOCK to check the current time.
+(If you don’t set clock, the timer function
+doesn’t work.)
+2. Press TIMER to enter the timer setting
+mode. If you want to correct the previous
+memorized TIMER setting, press and hold
+the TIMER for more than 2 seconds.
+- The previously memorized timer on the
+time and “ ” indicator appears in the
+display window.
+3. Each function (TUNER → CD → USB)
+flashes in the display window in turn. Press
+SET when the desired function is flashing.
+4. a. When you select the TUNER function,
+select the previously memorized preset
+number by tapping ./ > on the front
+panel and press SET.
+- If you don't set the preset stations, it is
+set to current frequency.
+b. When you select the CD or USB function,
+- “ON TIME” indicator appears for about
+0.5 seconds in the display window and
+then disappears.
+5. Set the hour to switch on by tapping
+./> on the front panel.
+6. Press SET.
+7. Set the minute to switch on by tapping
+./> on the front panel.
+8. Press SET.
+- “OFF TIME” indicator appears for about
+0.5 seconds in the display window and
+then disappears.
+9. Set the hour to switch off by tapping
+./> on the front panel.
+10. Press SET.
+11. Set the minute to switch off by tapping
+./> on the front panel.
+12. Press SET.
+13. Adjust the volume level by tapping ./>
+on the front panel.
+14. Press SET.
+“ ” appears in the display window and the
+timer setting has been completed.
+15. Switch the system off.
+The selected function is automatically
+switched on and off at the time set.
+
+To cancel or check the timer
+Each time the TIMER is pressed you can select
+the timer set or cancel. You can also check the
+timer setting status.
+To activate or check the timer, press the TIMER
+that “ ” appears in the display window.
+To cancel the TIMER, press the TIMER that “ ”
+disappears in the display window.
+
+Sleep Timer Function
+
+Operation
+
+When the sleep timer is used, the power is
+automatically turned off after the specified time
+has elapsed.
+1. Press SLEEP to set the desired sleep time.
+The SLEEP indicator and sleep time
+appears in the display window.
+2. Each time you press SLEEP the setting
+changes in the following order.
+SLEEP 180 → 150 → 120 → 90 → 80
+→ 70 → 60 → 50 → 40 → 30 → 20 → 10
+→ OFF (No display)
+Note:
+If you press SLEEP while the sleep time is
+displayed, the SLEEP time is reset.
+To cancel the sleep timer mode
+If you have to stop the function, press the
+SLEEP repeatedly until “SLEEP 10” appears,
+and then press SLEEP once again while “SLEEP
+10” is displayed.
+
+11
+
+EQUALIZER Effect
+
+Audio Adjustment
+Headphone jack
+Connect a stereo headphone plug ( 3.5mm) into
+the headphone jack to listen to the sound through
+headphones. The speakers are automatically
+disconnected when you plug in the headphones
+(not supplied).
+
+MUTE
+Press MUTE to temporarily stop the sound such
+as when you answer the telephone. The “ ”
+indicator flashes in the display window.
+To cancel it, press VOLUME (
+again.
+
+) or MUTE
+
+DIMMER
+This function turns the LED (Light-emitting diode)
+on the front panel off and darken the display
+window by half in power-on status.
+Press DIMMER once.
+To cancel it, press DIMMER again.
+
+This system has a number of pre-set surround
+sound fields. You can select a desired sound
+mode by using EQ master.
+The displayed items for the Equalizer may be
+different depending on sound sources and
+effects.
+[XTS PRO]
+You can enjoy comfortable and natural sound.
+[Local Specialization equalizer]
+Regionally optimized sound effect.
+(FORRO/FUNK/SERTANEJO/DANGDUT/ARABI
+C/PERSIAN/INDIA/REGUETON/MERENGUE/SA
+LSA/SAMBA/CUMBIA/AFRO HIP HOP)
+[AUTO EQ]
+Realizes the sound equalizer that is the most
+similar to the genre of which is included in the
+MP3 ID3 tag of song files.
+[POP CLASSIC JAZZ ROCK]
+This program lends an enthusiastic atmosphere
+to the sound, giving you the feeling you are at an
+actual rock pop, jazz or classic concert.
+[MP3 -- OPT]
+This function is optimized for compressible MP3
+file. It improves the treble sound.
+[XDSS]
+Reinforces the treble, bass and surround sound
+effect.
+[LOUDNESS]
+Improves the bass and treble sound.
+[BYPASS]
+You can enjoy the sound without equalizer effect.
+Note:
+• On some speakers, sound may not be heard
+or heard in low sound depending on the sound
+mode.
+• Maybe you need reset the surround mode,
+after switching the input, sometimes even after
+the sound track changed.
+
+12
+
+Press XDSS plus to reinforce treble, bass and
+the surround effect.
+Audio CD, Tuner, AUX : XDSS ON ↔ BYPASS
+MP3/WMA : XDSS ON → MP3 -- OPT ON
+→ BYPASS → XDSS ON ...
+
+MP3 Optimizer
+This function optimizes for compressed MP3
+files. It improves the bass sound to make sweet
+sound. Each time you press XDSS plus.
+The setting changes in the following order.
+XDSS ON → MP3 -- OPT ON → BYPASS
+
+DISPLAY MODE
+Whenever you press DISP. MODE (DISPLAY
+MODE), you can enjoy the spectrum change with
+6 types in the display window.
+
+DEMO
+Press EQ master on the front panel in power off
+state to demonstrate the function in the display
+window. To cancel it, press EQ master again.
+
+AUTO POWER DOWN
+This unit will be off itself to save electronic
+consumption in the case main unit is not
+connected to external device and is not used
+for 25 minutes. So does this unit after six hours
+since Main unit has been connected to other
+device using analog input.
+
+XTS Pro
+This unique sound quality developed by our
+technology creates the optimum sound for you to
+play the perfect playback of the original sound
+and to feel the living sound source.
+Each time you press XTS Pro the setting
+changes in the following order:
+XTS -- PRO ON ↔ XTS -- PRO OFF
+
+13
+
+Operation
+
+XDSS
+(Extreme Dynamic Sound System)
+
+Presetting the Radio Stations
+You can preset 50 stations for FM.
+1. Press FUNCTION to select the frequency you
+want.
+2. Select a station you want by pressing
+TUN. (-/+).
+Tuning in automatically
+- Press TUN. (-/+) for more than 0.5 second.
+Scanning stops when the unit tunes in a
+stations.
+Tuning in manually
+- Press TUN. (-/+) briefly and repeatedly.
+3. Press PROGRAM/ MEMO.
+A preset number will flash in the display
+window.
+4. Press PRESET/ FOLDER (
+) to select
+the preset number you want.
+5. Press PROGRAM/ MEMO again.
+The station is stored.
+6. Repeat the steps 1 (or 2) to 5 to store other
+stations.
+To delete all the memorized stations
+Press and hold PROGRAM/ MEMO for two
+seconds, “ERASE ALL” appears in the display
+window and then PROGRAM/ MEMO again, the
+stations are deleted.
+For your reference
+If all stations have already been entered, “FULL”
+message will appear in the display window for a
+moment and then a preset number will flash. To
+change the preset number, follow the steps 4-5.
+To recall presets
+Press and hold PRESET/ FOLDER (
+) until
+the desired preset number appears or press it
+repeatedly.
+
+14
+
+Listening to the Radio
+1. Press FUNCTION to select the frequency you
+want.
+The last received station is tuned in.
+2. Press PRESET/ FOLDER (
+)
+repeatedly to select the preset station you
+want.
+- Each time you press the button, the unit
+tunes in one preset station at a time.
+3. Adjust the volume by pressing VOLUME
+(
+) repeatedly.
+To listen to non-preset radio stations
+• For manual tuning, see “Tuning in manually” in
+the left of this page.
+• For automatic tuning, see “Tuning in
+automatically” in the left of this page.
+To turn off the radio
+Press 1(POWER) to turn the unit off or select
+another function mode (CD, USB, AUX).
+For your reference
+• If an FM program is noisy;
+Press MO./ ST. that “MONO” appears in the
+display window. There will be no stereo effect,
+but the reception will be improved.
+Press MO./ ST. again to restore the stereo
+effect.
+• To improve reception;
+Reposition the supplied antennas.
+
+About RDS
+This unit is equipped with RDS (Radio Data
+System), which brings a wide range of
+information to FM radio. Now in use in many
+countries, RDS is a system for transmitting
+station call signs or network information, a
+description of station programme type text
+message about the station or specifics of musical
+selection and the correct time.
+
+RDS Tuning
+When a FM station is tuned in and it contains
+RDS data, the unit will automatically display the
+station’s call sign and the RDS indicator will light
+in the Display Window as well as indicators for
+the programme type recognition (PTY), Radio
+Text (RT), Clock Time (CT) and RDS services
+programme (PS) if transmitted by the station.
+
+RDS Display Options
+The RDS system is capable of transmitting a
+wide variety of information in addition to the initial
+call sign that appears when a station is first
+tuned. In normal RDS operation the display will
+indicate the station name, broadcast network or
+call letters. Pressing RDS on the remote control
+enables you to cycle through the various data
+types in the sequence:
+(FREQUENCY → PTY → RT → CT → PS )
+
+Programme Search (PTY)
+A major benefit of RDS is its ability to encode
+broadcasts with Programme Type (PTY) codes
+that indicate the type of material being broadcast.
+The following list shows the abbreviations used to
+indicate each PTY along with an explanation of
+the PTY.
+NEWS
+AFFAIRS
+INFO
+SPORT
+EDUCATE
+DRAMA
+CULTURE
+SCIENCE
+VARIED
+POP M
+ROCK M
+EASY M
+LIGHT M
+CLASSICS
+OTHER M
+WEATHER
+FINANCE
+CHILDREN
+SOCIAL
+RELIGION
+PHONE IN
+TRAVEL
+LEISURE
+JAZZ
+COUNTRY
+NATION M
+OLDIES
+FOLK M
+DOCUMENT
+TEST
+ALARM !
+
+News
+Current Affairs
+Information
+Sports
+Educational
+Drama
+Culture
+Science
+Varied Speech Programme
+Popular Music
+Rock Music
+Easy Listening Music
+Light Music
+Classical Music
+Other Music
+Weather Information
+Financial Programmes
+Children’s Programmes
+Social Affairs Programmes
+Religious Broadcasts
+Phone-In Programmes
+Travel and Touring
+Leisure and Hobby
+Jazz Music
+Country Music
+National Music
+Oldies Music
+Folk Music
+Documentary Programmes
+Station Alarm Test Message
+Emergency Broadcast Information
+
+Operation
+
+RDS Function - OPTIONAL
+
+• PTY (Programme type recognition)- The name
+of the programme type is shown in the Display
+Window.
+• RT (Radio text recognition)- The name of the
+radio text is shown in the Display Window.
+• CT (Time controlled by the channel)- Enables
+the unit to receive the actual time and show it
+in the Display Window.
+• PS (Programme Service name)- The name of
+the channel is shown in the Display Window.
+Note:
+Some RDS stations may not choose to include
+some of these additional features. If the data
+required for the selected mode is not being
+transmitted, the Display Window will show a PTY
+NONE, RT NONE, CT NONE, PS NONE
+message.
+
+You may search for a specific Programme Type
+(PTY) by following these steps.
+1. Press FUNCTION to select the FM mode.
+2. Press PTY, the display will show the last
+PTY in use.
+3. Press PTY repeatedly to select a desired
+PTY.
+4. When the PTY is selected, press PTY
+SEARCH.
+The unit will go into the an automatic search
+mode. When a station is tuned, the search
+will stop.
+
+15
+
+CD Playback
+
+REPEAT
+
+Basic Playback
+
+Press REPEAT during playback.
+
+1. Use FUNCTION to select CD function.
+If no disc is loaded then “NO DISC” is
+displayed.
+2. Tap Z (OPEN/ CLOSE) and place the disc
+into the disc tray.
+Note:
+To load an 8cm disc, put it onto the inner circle of
+the tray.
+3. Tap Z (OPEN/ CLOSE) to close the disc
+compartment.
+Audio CD : “CD READ” appears in the
+display window, and then the
+total number of tracks and the
+playing time are displayed.
+MP3/ WMA CD: “CD READ” appears in the
+display window, and then
+the total number of files is
+displayed.
+4. Press PLAY/ PAUSE (B/[]).
+In addition, you can also play an Audio CD
+or MP3 CD using NUMERIC buttons.
+
+Audio CD
+→ RPT 1
+
+RPT DIR
+
+: To play folder repeatedly.
+
+RPT ALL
+
+: To play all files repeatedly.
+
+RANDOM : To play files randomly
+OFF
+
+: To cancel repeat play.
+
+Program repeat play
+: To play one track/ file repeatedly.
+→ RPT 1
+→
+
+RPT ALL
+
+: To play all program repeatedly.
+
+→
+
+Hold .bb/BB> during playback, then
+release at the point you want.
+
+: To play one file repeatedly.
+
+→
+
+Searching a Track
+
+MP3/WMA
+→ RPT 1
+
+: To cancel repeat play.
+
+→
+
+• Press BB> to go to the next track.
+• When the .bb is pressed once midway
+through a track, the player returns to the start
+of that track. When it is pressed again, a track
+is skipped each time the button is pressed.
+
+OFF
+
+→
+
+Skipping a Track
+
+RANDOM : To play tracks randomly.
+
+→
+
+Press STOP(x) during playback.
+
+: To play all tracks repeatedly.
+
+→
+
+Stop Playback
+
+RPT ALL
+→
+
+Press PLAY/ PAUSE (B/[]) during playback. Press
+this button again to resume play.
+
+→
+
+Pause Playback
+
+: To play one track repeatedly.
+
+OFF
+
+: To cancel repeat play.
+
+To check MP3 file information
+Press MP3 Info during MP3 file playback.
+- The information (Title, Artist or Album) of the
+MP3 file will be shown in the display window.
+- If there is no the information of the MP3 file,
+The file name will be displayed.
+Note:
+This unit can play a CD-R or CD-RW that
+contains audio titles or MP3/ WMA files.
+
+MP3/ WMA file folder function
+Press PRESET/ FOLDER (
+) to select the
+folder you want.
+Note:
+It is applied to the case that has several
+MP3/ WMA file folders.
+
+16
+
+About MP3/ WMA
+
+You can arrange the order of the tracks on the
+discs and create your own program. The
+program can contain up to 20 tracks.
+1. Press PROGRAM/ MEMO in stop mode.
+“PROG.” appears in the display window.
+2. Press .bb/ BB> to select the track.
+
+MP3/ WMA Disc compatibility with this unit is
+limited as follows:
+1. Sampling Frequency
+8 - 48 kHz(MP3), 32 - 48 kHz(WMA)
+2. Bit rate
+8 - 320 kbps(MP3), 48 - 320 kbps(WMA)
+3. CD-R physical format should be “ISO 9660”
+4. If you record MP3/ WMA files using the
+software which cannot create a FILE
+SYSTEM, for example “Direct-CD” etc., it is
+impossible to playback MP3 files. We
+recommend that you use “Easy-CD
+Creator”, which creates an ISO 9660 file
+system.
+5. File names should be named using 30
+letters or less and must incorporate
+“.mp3”,“.wma” extension e.g. “********.MP3”
+or “********.WMA”
+6. Do not use special letters such as
+“/ : * ? “ < >”etc.
+7. Even if the total number of files on the disc
+has more than 1000, it will only be shown
+up to 999.
+
+EX) “P01 001” will be shown in the display.
+Track/ File number
+Program number
+3. Press PROGRAM/ MEMO.
+4. Repeat the steps 1 - 3 above.
+5. Press PLAY/ PAUSE (B/[]).
+To check the program contents
+Press PROGRAM/ MEMO in stop mode.
+- A Track and program number will be displayed.
+To clear program contents
+Press PROGRAM/ MEMO in stop mode.
+And then Press STOP(x).
+To add program contents
+1. Press PROGRAM/ MEMO repeatedly in
+program stop mode until the Track Number
+blinks.
+2. Repeat the steps 2 - 4 above.
+To modify program contents
+1. Press PROGRAM/ MEMO to display the
+program number you want to modify.
+2. Repeat the steps 2 - 4 above.
+
+About MULTI SESSION
+- This function recognizes the multi session disc
+according to a disc of CD-ROM type.
+ex) If there are MP3/ WMA files in the first
+session, the MP3/ WMA file in the first
+session are only played.
+If there are only MP3/ WMA files in the
+whole session, all of the MP3/ WMA files in
+the session are played.
+If there is an Audio CD in the first session,
+only the Audio CD in the first session is
+played.
+
+17
+
+Operation
+
+To Program Play
+
+Reference
+Trademarks and Licenses
+
+Troubleshooting
+Symptom
+
+Correction
+
+Causa
+
+No power
+
+The power cord is disconnected.
+
+Plug the power cord into the wall
+outlet securely.
+
+No sound
+
+The power of the external source
+equipment is switched off.
+
+Switch on the external source
+equipment.
+
+The unit does
+not start
+playback
+
+No disc is inserted.
+
+Insert a disc.
+
+An unplayable disc is inserted.
+
+Insert a playable disc.
+
+The disc is placed upside down.
+
+Place the disc with the playback side
+down.
+
+The disc is not placed within the guide.
+
+Place the disc on the disc tray
+correctly inside the guide.
+
+The disc is dirty.
+
+Clean the disc.
+
+The remote control is not pointed at the
+remote sensor of the unit.
+
+Point the remote control at the remote
+sensor of the unit.
+
+The remote
+control does not
+work properly
+
+18
+
+The remote control is too far from the unit. Operate the remote control
+within about 23 ft (7 m).
+There is an obstacle in the path of the
+remote control and the unit.
+
+Remove the obstacle.
+
+The batteries in the remote control are
+exhausted.
+
+Replace the batteries with new ones.
+
+Power supply
+
+Refer to the back panel of the unit.
+
+Power consumption
+
+Refer to the back panel of the unit.
+
+Net Weight
+
+3.31 kg
+
+External dimensions (WxHxD)
+
+(170 X 253 X 265) mm
+
+Frequency response
+
+65 - 20000 Hz
+
+Signal-to-noise ratio
+
+75 dB
+
+Dynamic range
+
+75 dB
+
+Tuning Range
+
+87.5 - 108.0 MHz or 65 - 74 MHz, 87.50 - 108.00 MHz
+
+Intermediate Frequency
+
+10.7 MHz
+
+Signal to Noise Ratio
+
+60/55 dB (Mono)
+
+Frequency Response
+
+65 - 10000 Hz
+
+Output Power
+
+80 W + 80 W
+
+T.H.D
+
+0.5 %
+
+Frequency Response
+
+65 - 20000 Hz
+
+Signal-to-noise ratio
+
+75 dB
+
+Type
+
+3 Way 3 Speaker
+
+Impedance
+
+4Ω
+
+Frequency Response
+
+70 - 20000 Hz
+
+Sound Pressure Level
+
+83 dB/W (1 m)
+
+Rated Input Power
+
+80 W
+
+Max. Input Power
+
+160 W
+
+Net Dimensions (WxHxD)
+
+(128 x 295 x 240) mm
+
+Net Weight (1EA)
+
+4.0 kg
+
+Reference
+
+FM
+[Speakers]
+
+[Amp]
+
+[Tuner]
+
+[CD]
+
+[General]
+
+Specifications
+
+Designs and specifications are subject to change without notice.
+
+19

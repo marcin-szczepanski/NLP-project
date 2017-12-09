@@ -1,0 +1,1266 @@
+Dodatne informacije o korištenju uputa u elektronskom obliku (str. 13)
+Slike i crteži navedeni u ovim uputama za korisnike su informativni i mogu se razlikovati od stvarnog izgleda uređaja. Dizajn i
+specifikacije uređaja mogu se promijeniti bez prethodne najave.
+
+Važne informacije o jamstvu koje se tiču formata prikaza na televizoru
+1.	 Funkcije koje se odnose na digitalnu televiziju (DVB) dostupne su samo u državama/područjima u kojima se emitira digitalni zemaljski signal
+DVB-T (MPEG2 i MPEG4 AVC) ili u kojima postoji pristup kompatibilnoj usluzi kabelske televizije DVB-C (MPEG2 i MPEG4 AAC). Od lokalnog
+distributera zatražite informacije o mogućnosti primanja DVB-T ili DVB-C signala.
+2.	 DVB-T je DVB europski konzorcijski standard za emitiranje digitalnog zemaljskog televizijskog signala, a DVB-C je standard za emitiranje digitalne
+televizije putem kabela. Međutim, neke značajke, kao što su EPG (Electric Programme Guide - elektronski programski vodič), VOD (Video on Demand
+- video na zahtjev) itd., nisu uključene u ovu specifikaciju. Dakle, u ovom trenutku ih ne podržavamo.
+3.	 Iako ovaj televizor udovoljava posljednjim DVB-T i DVB-C standardima [kolovoz, 2008.], kompatibilnost s budućim standardima DVB-T
+digitalnog zemaljskog emitiranja i DVB-C digitalnog kabelskog emitiranja ne može se jamčiti.
+4.	 Ovisno o državi/području u kojem se ovaj televizor koristi, neki davatelji usluga kabelske televizije takvu uslugu mogu dodatno naplatiti te ćete
+možda morati pristati na njihove uvjete poslovanja.
+5.	 Neke funkcije digitalne televizije možda neće biti dostupne u nekim državama ili područjima, a DVB-C možda neće ispravno raditi kod nekih
+davatelja usluge kabelske televizije.
+6.	 Dodatne informacije možete dobiti ako se obratite u centar za korisničku podršku tvrtke Samsung.
+
+✎✎ Razlike u načinu emitiranja u različitim državama mogu utjecati na kvalitetu prijema signala na televizoru. Radne karakteristike televizora
+
+provjerite kod lokalnog ovlaštenog distributera tvrtke SAMSUNG ili u centru za korisničku podršku tvrtke Samsung provjerite mogu li se
+poboljšati ponovnim konfiguriranjem postavki televizora.
+
+Upozorenje o prikazivanju statičnih slika
+Izbjegavajte prikazivanje statičnih slika na zaslonu (poput slikovnih datoteka u .jpeg formatu) ili elemenata statičnih slika (poput logotipa televizijskih
+programa, panoramskog ili 4:3 formata slike, traka s izvještajima s burze ili vijestima na dnu zaslona itd.). Neprekidno prikazivanje statične slike
+može uzrokovati stvaranje zaostalih slika na LED zaslonu, što utječe na kvalitetu slike. Kako bi se smanjio rizik od pojavljivanja ovog efekta, slijedite
+preporuke u nastavku:
+•	 Izbjegavajte prikazivanje istog televizijskog kanala dulje vrijeme.
+•	 Slike pokušajte prikazivati preko cijelog zaslona koristeći izbornik televizora za postavljanje formata slike kako biste pronašli najprikladniji
+format.
+•	 Smanjite vrijednosti svjetline i kontrasta na najmanju razinu koja je potrebna za postizanje željene kvalitete slike - previsoke vrijednosti mogu
+ubrzati postupak nastajanja "urezanih slika".
+•	 Redovito upotrebljavajte značajke televizora koje smanjuju zadržavanje slike i "urezivanje slike", detalje potražite u korisničkom priručniku.
+
+Osiguravanje prostora za montiranje
+Ostavite traženu udaljenost između uređaja i drugih objekata (npr. zidovi) kako biste osigurali pravilno prozračivanje.
+Nepoštivanje ovog zahtjeva može uzrokovati požar ili probleme s uređajem zbog povećanja unutarnje temperature uređaja.
+
+✎✎ Prilikom korištenja postolja ili zidnog nosača koristite samo dijelove koje je isporučila tvrtka Samsung Electronics.
+•	 Ako koristite dijelove drugih proizvođača može doći do problema s uređajem ili ozljeda zbog pada uređaja.
+
+✎✎ Izgled se može razlikovati ovisno o uređaju.
+✎✎ Budite pažljivi prilikom dodirivanja televizora jer neki njegovi dijelovi mogu biti vrući.
+Montiranje s postoljem.
+
+Montiranje sa zidnim nosačem.
+
+10 cm
+10 cm
+
+10 cm
+10 cm
+
+10 cm
+
+10 cm
+
+10 cm
+Ispravno odlaganje proizvoda (Električni i elektronički otpad)
+(Primjenjivo u Europskoj Uniji i drugim europskim državama sa sustavima odvojenog prikupljanja)
+Ova oznaka na proizvodu, dodatnoj opremi ili u literaturi ukazuje na to da se proizvod i njegova elektronička oprema (npr., punjač,
+slušalice, USB kabel) ne bi trebali odlagati s ostalim kućanskim otpadom na kraju radnog vijeka. Da biste spriječili moguću štetu za
+okoliš ili ljudsko zdravlje nekontroliranim odlaganjem otpada, odvojite ovaj predmet od ostalih vrsta otpada i odgovorno reciklirajte
+kako biste promicali održivu ponovnu upotrebu materijalnih resursa. Korisnici u kućanstvima trebali bi kontaktirati prodavača kod
+kojega su kupili proizvod ili ured lokalne vlasti za pojedinosti o tome gdje i kako se ovaj predmet može odnijeti kako bi recikliranje bilo
+sigurno za okoliš. Korisnici u tvrtkama trebaju kontaktirati dobavljača i provjeriti uvjete i odredbe kupovnog ugovora. Ovaj proizvod i
+njegova elektronička oprema ne smije se miješati s drugim omercijalnim otpadom.
+Ispravno odlaganje baterija iz ovog proizvoda
+(Primjenjivo u Europskoj uniji i drugim europskim državama sa sustavima odvojenog vraćanja baterija)
+Ova oznaka na bateriji, priručniku ili pakiranju ukazuje na to da se istrošene baterije iz ovog proizvoda ne smiju odlagati s ostalim
+kućanskim otpadom. Kemijski simboli Hg, Cd ili Pb označuju da baterija sadrži živu, kadmij ili olovo u količinama višim od referentnih
+razina navedenih u dokumentu Europske unije "EC Directive 2006/66". Ukoliko baterije nisu ispravno odložene, navedene tvari mogu
+narušiti zdravlje ljudi ili oštetiti okoliš. Radi zaštite prirodnih resursa i promicanja ponovne upotrebe materijala, molimo vas da odvojite
+baterije od ostalih vrsta otpada i reciklirajte ih putem lokalnog, besplatnog sustava za vraćanje baterija.
+
+Hrvatski - 2
+[UD5000-XH]BN68-03432D.indb 2
+
+2011-05-17 �� 5:11:00
+
+Dodatna oprema
+
+✎✎Provjerite jesu li s televizorom isporučeni sljedeći dodaci. Ako neki predmeti nedostaju, obratite se distributeru.
+✎✎Boja i oblik predmeta mogu se razlikovati ovisno o modelu.
+✎✎Kabeli koji nisu isporučeni u paketu mogu se kupiti zasebno.
+OPREZ: ČVRSTO IH UMETNITE KAKO SE KASNIJE NE BI ISKOPČALI IZ UREĐAJA
+yy Daljinski upravljač i baterije (AAA x 2)
+yy Upute za korisnike
+yy Jamstvena kartica / sigurnosne upute (nisu dostupne na nekim lokacijama)
+
+yy Držač prsten (4EA)
+
+yy Kabel za napajanje
+yy Krpa za čišćenje
+
+yy Držač kabela
+
+yy Komponentni/AV adapter
+
+yy Adapter za CI karticu
+
+yy Scart adapter
+
+✎✎Moguća je naplata naknade za administraciju u slučaju
+(a) pozivanja inženjera na vaš zahtjev, ako se ustanovi da je proizvod ispravan
+(tj. ako niste pročitali ovaj korisnički priručnik)
+(b) dopremanja uređaja u servisni centar, ako se ustanovi da je proizvod ispravan
+(tj. ako niste pročitali ovaj korisnički priručnik).
+
+✎✎S iznosom te naknade za administraciju bit ćete upoznati prije poduzimanja bilo kakvih radova ili kućnog posjeta.
+Sastavljanje postolja za držač kabela
+
+Hrvatski - 3
+[UD5000-XH]BN68-03432D.indb 3
+
+2011-05-17 �� 5:11:02
+
+Pregled upravljačke ploče
+
+✎✎Boja i oblik proizvoda mogu varirati ovisno o modelu.
+
+Upravljačka ploča
+Zvučnici
+
+Senzor daljinskog upravljača
+
+Usmjerite daljinski upravljač prema ovoj točki na televizoru.
+
+Indikator napajanja
+
+Treperi i isključuje se kad je napajanje uključeno, a zasvijetli u stanju pripravnosti.
+
+SOURCEE
+
+Služi za kretanje kroz sve dostupne ulazne izvore. U izborniku na zaslonu koristite ovaj
+gumb kao što biste koristili gumb ENTERE na daljinskom upravljaču.
+
+MENU
+
+Prikazuje izbornik na zaslonu, OSD (zaslonski prikaz) sa značajkama vašeg televizora.
+
+Y
+
+Podešavanje jačine zvuka. Na zaslonskom prikazu koristite gumbe Y kao što biste
+koristili gumbe ◄ i ► na daljinskom upravljaču.
+
+z
+
+Mijenjanje kanala. Na zaslonskom prikazu koristite gumbe z kao što biste koristili
+gumbe ▼ i ▲ na daljinskom upravljaču.
+
+P (Napajanje)
+
+Uključuje ili isključuje televizor.
+
+Stanje pripravnosti
+Televizor nemojte dugo vremena ostavljati u stanju pripravnosti (npr. ako odlazite na odmor). Mala količina električne energije
+troši se čak i kada je gumb napajanja isključen. Preporučuje se isključivanje kabela napajanja.
+
+Hrvatski - 4
+[UD5000-XH]BN68-03432D.indb 4
+
+2011-05-17 �� 5:11:02
+
+Pregled daljinskog upravljača
+
+✎✎Ovo je poseban daljinski upravljač za slijepe i slabovidne osobe i ima točke po Brailleovom pismu na gumbima Struja,
+Kanal i Glasnoća.
+
+Prikaz i odabir raspoloživih izvora
+videosignala.
+
+Uključivanje i isključivanje televizora.
+HDMI
+
+Služi za izravan odabir načina rada
+HDMI.
+
+Pritisnite za izravni pristup kanalima
+
+Povratak na prethodni kanal.
+
+Možete odabrati Teletekst UKLJUČEN,
+Dvostruko, Kombinacija ili ISKLJUČEN.
+
+Privremeno isključivanje zvuka.
+
+Podešavanje jačine zvuka.
+
+Promjena kanala.
+
+Prikazuje glavni izbornik na zaslonu.
+Prikaz značajki Moji sadržaji, TV
+program i Izvor.
+
+Prikaz popisa kanala na zaslonu.
+Služi za prikaz EPG vodiča (elektronički
+vodič kroz programe).
+Prikaz informacija na zaslonu televizora.
+
+CONTENT
+
+Brzi odabir često korištenih funkcija.
+Odabir i promjena postavki na zaslonskom
+izborniku.
+
+Zatvara izbornik.
+
+Povratak na prethodni izbornik.
+Gumbi u izbornicima Popis kanala,
+Upravlj. kanalima, Moji sadržaji,
+Mreža, AllShare™ itd.
+
+A
+
+B
+
+P.MODE
+E-MANUAL
+
+C
+
+SRS
+
+D
+
+DUAL I-II
+AD/SUBT.
+
+Ove gumbe koristite u određenoj
+značajci. Pojedinosti potražite u
+uputama u elektronskom obliku.
+
+P.MODE: Odabir načina rada slike.
+SRS: Služi za odabir načina rada
+TruSurround HD.
+DUAL I-II: Odabir načina dvostruke
+reprodukcije zvuka.
+E-MANUAL: Prikazuje upute u
+elektronskom obliku.
+P.SIZE: Odabir veličine slike.
+AD: Odabir audio opisa. (Nije dostupno
+na nekim lokacijama)
+SUBT.: Služi za prikazivanje digitalnih
+titlova.
+
+Umetanje baterija (veličina baterija: AAA)
+
+Hrvatski - 5
+[UD5000-XH]BN68-03432D.indb 5
+
+2011-05-17 �� 5:11:03
+
+Povezivanje s antenom
+Kad prvi put uključite televizor, automatski se prikazuju osnovne postavke.
+
+✎✎Postavljanje: Priključivanje na naponsku mrežu i antenu.
+VHF/UHF antena
+
+Stražnja ploča televizora
+
+Kabelska TV
+
+ili
+
+Plug & Play (početno postavljanje)
+Kada prvi put uključite televizor, niz upita na zaslonu pomoći će vam u konfiguraciji osnovnih postavki. Pritisnite gumb
+POWERP. Opcija Plug & Play dostupna je samo kada je ulazni signal postavljen na TV.
+
+✎✎Za povratak na prethodni izbornik pritisnite crveni gumb.
+
+1
+
+Odabir jezika
+
+Pritisnite gumb ▲ ili ▼, a zatim pritisnite gumb ENTERE.
+Odaberite željeni jezik za prikaze na zaslonu.
+
+2
+
+Odabir načina rada
+Demo u trgovini ili
+Kućna upotreba
+
+Pritisnite gumb ◄ ili ►, a zatim pritisnite gumb ENTERE.
+Odaberite način rada Kućna upotreba. Način rada Demo u trgovini
+namijenjen je za korištenje u maloprodajnim trgovinama.
+Za vraćanje postavki uređaja iz načina Demo u trgovini u Kućna upotreba
+(standardno): Pritisnite gumb za jačinu zvuka na televizoru. Kada se na
+zaslonu pojavi prikaz jačine zvuka, pritisnite i držite gumb MENU 5 sekundi.
+Način rada Demo u trgovini namijenjen je samo za prikaz u trgovinama. Ako
+odaberete ovaj način rada, nećete moći koristiti neke funkcije. Za gledanje
+kod kuće odaberite način Kućna upotreba.
+
+3
+
+Odabir države
+
+Pritisnite gumb ▲ ili ▼, a zatim pritisnite gumb ENTERE.
+Odaberite odgovarajuću državu.
+
+POWER
+
+P
+
+✎✎Nakon odabira države na izborniku Država, neki modeli će nastaviti s dodatnom opcijom
+postavljanja PIN broja.
+
+✎✎Prilikom unosa PIN broja, 0-0-0-0 nije dostupan.
+✎✎Opcija se može razlikovati ovisno o državi.
+
+4
+
+Postavljanje značajke
+Način sata
+
+Način sata možete postaviti ručno ili automatski.
+Autom.: Odaberite vremensku zonu u kojoj se nalazite. (ovisno o državi)
+Ručni: Omogućuje ručno postavljanje trenutnog datuma i vremena.
+
+5
+6
+
+Odabir antene
+
+Pritisnite gumb ▲ ili ▼, a zatim pritisnite gumb ENTERE.
+Odaberite željeni signal emitiranja.
+
+Odabir kanala
+
+Pritisnite gumb ▲ ili ▼, a zatim pritisnite gumb ENTERE.
+Odaberite izvor kanala koji želite pohraniti. Kada izvor antenskog signala postavite na Kabelska
+TV, pojavljuje se mogućnost postavljanja numeričke vrijednosti (frekvencije kanala) za kanal.
+Dodatne informacije potražite na Kanal → Automatsko podešavanje.
+Pritisnite gumb ENTERE u bilo kojem trenutku za prekid postupka memoriranja.
+
+7
+
+Uživajte u gledanju
+televizije.
+
+Odaberite Gledajte TV. Pritisnite gumb ENTERE.
+
+✎✎Mrežu možete postaviti odabirom značajke Postavke mreže. Dodatne informacije potražite
+u odjeljku "Izbornik mreže" u uputama u elektroničkom obliku.
+
+Ako želite ponovno postaviti ovu značajku...
+Odaberite Sustav - Plug & Play (početno postavljanje). Unesite PIN broj od 4 znamenke. Zadani PIN je "0-0-0-0". Želite li
+promijeniti PIN, koristite funkciju Promjena PIN-a.
+Postupak Plug & Play (MENU → Sustav) ponovite i kod kuće, iako je već proveden u trgovini.
+
+✎✎Ako zaboravite PIN, u stanju pripravnosti pritišćite gumbe na daljinskom upravljaču sljedećim redoslijedom, čime ćete
+vratiti PIN na "0-0-0-0": MUTE → 8 → 2 → 4 → POWER (uključeno).
+
+Hrvatski - 6
+[UD5000-XH]BN68-03432D.indb 6
+
+2011-05-17 �� 5:11:04
+
+Povezivanje s AV uređajem
+¦¦ Dostupni uređaji: DVD, Blu-ray uređaj, HD kabelski uređaj, HD STB (Set-Top-Box uređaj),
+satelitski prijemnik, videorekorder, digitalni audio sustav, pojačalo, DVD kućno kino, računalo
+
+HDMI, HDMI/DVI veza
+
+HDMI OUT
+
+DVI OUT
+
+AUDIO OUT
+
+R-AUDIO-L
+
+Korištenje HDMI kabela ili HDMI-DVI kabela za povezivanje (do 1080p)
+
+✎✎HDMI IN 1(DVI), 2, 3, 4, PC/DVI AUDIO IN
+
+xx Za veću kvalitetu slike i zvuka digitalne uređaje povezujte pomoću HDMI kabela.
+xx HDMI kabel podržava digitalne video i audio signale te ne postoji potreba za korištenjem kabela za zvuk.
+–– Za povezivanje uređaja s digitalnim uređajem koji ne podržava HDMI izlaz koristite HDMI/DVI kabel i kabel za zvuk.
+
+xx Slika se možda neće prikazivati na uobičajeni način (ili uopće) ili neće raditi zvuk ako je s televizorom povezan
+
+vanjski uređaj koji koristi raniju verziju načina rada HDMI. Dođe li do takvog problema, od proizvođač vanjskog
+uređaja zatražite podatak o verziji načina rada HDMI te, ako je ona zastarjela, zatražite nadogradnju.
+
+xx Trebate koristiti HDMI kabel debljine 14 mm ili manje.
+xx Kupite HDMI kabel s potvrdom kvalitete. U suprotnom, slika se možda neće prikazivati ili bi se mogla pojaviti
+pogreška pri povezivanju.
+
+xx Preporučuje se osnovni HDMI kabel velike brzine ili onaj koji omogućuje Ethernet povezivanje. Ovaj uređaj ne
+podržava funkciju Ethernet povezivanja putem HDMI kabela.
+
+Hrvatski - 7
+[UD5000-XH]BN68-03432D.indb 7
+
+2011-05-17 �� 5:11:04
+
+G
+
+B
+R
+
+R
+
+R
+
+R
+W
+
+PB
+
+B
+
+PR
+
+G
+
+COMPONENT OUT
+
+W
+
+Komponentni priključak
+
+Y
+
+AUDIO OUT
+
+R-AUDIO-L
+
+AV priključak
+
+Y
+
+VIDEO OUT
+
+R
+
+R
+
+W
+
+Y
+W
+
+AUDIO OUT
+
+R-AUDIO-L
+
+SCART priključak
+EXT
+
+Korištenje komponentnog (do 1080p) ili kabela za audio/video (samo 480i) te Scart kabela
+
+✎✎U načinu rada Vanjski, DTV izlaz podržava samo MPEG SD video i audio sadržaje.
+✎✎Kako biste postigli najbolju kvalitetu slike, preporučuje se korištenje komponentne umjesto A/V veze.
+
+Hrvatski - 8
+[UD5000-XH]BN68-03432D.indb 8
+
+2011-05-17 �� 5:11:05
+
+Povezivanje s računalom i audio uređajem
+¦¦ Dostupni uređaji: digitalni audio sustav, pojačalo, DVD kućno kino
+
+Audio veza
+
+OPTICAL
+
+Slušalice veza
+
+Povezivanje preko optičkog (digitalnog) kabela ili priključka za slušalice
+
+✎✎DIGITAL AUDIO OUT (OPTICAL)
+
+xx Kada je digitalni audio sustav priključen putem priključka DIGITAL AUDIO OUT (OPTICAL), smanjite jačinu zvuka
+televizora i sustava.
+
+xx 5.1 CH (5.1-kanalni) zvuk dostupan je nakon priključivanja televizora na vanjski uređaj koji podržava opciju 5.1 CH.
+xx Ako je prijemnik (kućno kino) uključen, moći ćete slušati zvuk putem optičkog priključka na televizoru. Kada
+televizor prima DTV signal, televizor šalje 5.1-kanalni zvuk prijemniku kućnog kina. Kada je izvor digitalna
+komponenta, poput DVD uređaja / Blu-ray uređaja / kabelskog prijemnika / STB satelitskog prijemnika, koja je
+povezana s televizorom putem HDMI kabela, iz prijemnika kućnog kina čut će se samo 2-kanalni zvuk. Ako želite
+slušati 5.1-kanalni zvuk, priključite digitalni audio priključak s DVD uređaja / Blu-ray uređaja/ kabelskog prijemnika
+/ STB satelitskog prijemnika izravno na pojačalo ili kućno kino.
+
+✎✎Slušalice H: Slušalice možete priključiti na izlaz za slušalice na televizoru. Dok su slušalice priključene, zvuk iz
+ugrađenih zvučnika je isključen.
+
+xx Funkcija zvuka ograničena je nakon priključivanja slušalica na televizor.
+xx Jačina zvuka u slušalicama i na televizoru podešavaju se odvojeno.
+
+Hrvatski - 9
+[UD5000-XH]BN68-03432D.indb 9
+
+2011-05-17 �� 5:11:06
+
+¦¦ Povezivanje pomoću HDMI kabela ili HDMI-DVI kabela / D-sub kabela
+
+✎✎Povezivanje pomoću HDMI kabela možda nije podržano, ovisno o računalu.
+✎✎HDMI kabel podržava digitalne video i audio signale te ne postoji potreba za korištenjem kabela za zvuk.
+Povezivanje s računalom
+HDMI OUT
+
+DVI OUT
+
+AUDIO OUT
+
+AUDIO OUT
+
+PC OUT
+
+Načini prikaza (D-Sub i HDMI/DVI ulaz)
+Optimalna rezolucija je 1920 X 1080 @ 60 Hz.
+Način rada
+IBM
+MAC
+
+VESA DMT
+
+VESA DMT / DTV
+CEA
+
+640 x 350
+720 x 400
+640 x 480
+832 x 624
+1152 x 870
+640 x 480
+640 x 480
+640 x 480
+800 x 600
+800 x 600
+800 x 600
+1024 x 768
+1024 x 768
+1024 x 768
+1152 x 864
+1280 x 1024
+1280 x 1024
+1280 x 800
+1280 x 800
+1280 x 960
+1360 x 768
+1440 x 900
+1440 x 900
+1680 x 1050
+
+Vodoravna frekvencija
+(kHz)
+31,469
+31,469
+35,000
+49,726
+68,681
+31,469
+37,861
+37,500
+37,879
+48,077
+46,875
+48,363
+56,476
+60,023
+67,500
+63,981
+79,976
+49,702
+62,795
+60,000
+47,712
+55,935
+70,635
+65,290
+
+1920 x 1080p
+
+67,500
+
+Rezolucija
+
+70,086
+70,087
+66,667
+74,551
+75,062
+59,940
+72,809
+75,000
+60,317
+72,188
+75,000
+60,004
+70,069
+75,029
+75,000
+60,020
+75,025
+59,810
+74,934
+60,000
+60,015
+59,887
+74,984
+59,954
+
+Frekvencija vremenskog
+razdjelnika piksela (MHz)
+25,175
+28,322
+30,240
+57,284
+100,000
+25,175
+31,500
+31,500
+40,000
+50,000
+49,500
+65,000
+75,000
+78,750
+108,000
+108,000
+135,000
+83,500
+106,500
+108,000
+85,500
+106,500
+136,750
+146,250
+
+Sinkronizirani
+polaritet (V/O)
++/-/+
+-/-/-/-/-/-/+/+
++/+
++/+
+-/-/+/+
++/+
++/+
++/+
+-/+
+-/+
++/+
++/+
+-/+
+-/+
+-/+
+
+60,000
+
+148,500
+
++/+
+
+Okomita frekvencija (Hz)
+
+✎✎NAPOMENA
+xx Prilikom povezivanja pomoću HDMI/DVI kabela morate koristiti HDMI IN 1(DVI) priključak.
+xx Način rada s ispreplitanjem nije podržan.
+xx U slučaju odabira neuobičajenog videoformata uređaj možda neće ispravno raditi.
+xx Podržani su odvojeni i kompozitni načini rada. SOG (Sync On Green) nije podržano.
+
+Hrvatski - 10
+��
+[UD5000-XH]BN68-03432D.indb 10
+
+2011-05-17 �� 5:11:07
+
+Promjena izvora ulaznog signala
+¦¦ Popis izvora
+Koristi se za odabir televizora ili drugih vanjskih izvora ulaznog signala povezanih s televizorom, poput DVD uređaja / BluRay uređaja / kabelskog prijemnika / STB satelitskog prijemnika.
+■■
+
+TV / Vanjski / PC / AV / Komponenta / HDMI1/DVI / HDMI2 / HDMI3 / HDMI4 / USB / AllShare
+
+✎✎ Povezani izvori bit će istaknuti na popisu izvora.
+✎✎ Želite li vidjeti samo priključene uređaje, prijeđite u Povezano pomoću gumba ◄ ili ►.
+✎✎ Načini rada Vanjski i PC uvijek ostaju aktivirani.
+✎✎ Ako priključeni vanjski uređaji nisu istaknuti, pritisnite crveni gumb. Televizor će pretražiti priključene uređaje.
+
+Korištenje značajke Uređivanje naziva
+Na popisu izvora pritisnite gumb TOOLS, nakon čega možete postaviti željeni naziv vanjskog izvora ulaznog signala.
+■■
+
+VCR / DVD / Kabel STB / Satelit. STB / PVR STB / AV prijemnik / Igra / Kamera / PC / DVI PC / DVI uređaji / TV / IPTV / Blu- Ray / HD
+DVD / DMA: Dodijelite nazive uređajima priključenim na ulazne priključke kako biste olakšali odabir ulaznog izvora.
+
+✎✎ Kod povezivanja s računalom putem priključka HDMI IN 1(DVI) pomoću HDMI kabela, trebali biste postaviti televizor na način rada PC u
+izborniku Uređivanja naziva.
+✎✎ Kod povezivanja s računalom putem priključka HDMI IN 1(DVI) pomoću HDMI-DVI kabela, trebali biste postaviti televizor na način rada
+DVI PC u izborniku Uređivanje naziva.
+✎✎ Kod povezivanja s računalom putem priključka HDMI IN 1(DVI) pomoću HDMI-DVI kabela, trebali biste postaviti televizor na način rada
+DVI uređaji u izborniku Uređivanje naziva.
+
+Informacije
+Možete pregledati detaljne informacije o odabranom vanjskom uređaju.
+
+✎✎Radi postizanja najboljeg povezivanja ovog televizora pomoću kabela koristite kabele čija je maksimalna debljina sljedeća:
+xx Maksimalna debljina - 0,55 inča (14 mm)
+Priključivanje na utor za UOBIČAJENO SUČELJE
+Pričvršćivanje adaptera za CI karticu
+Pričvrstite adapter na način prikazan na desnoj strani.
+Za priključivanje adaptera za CI karticu slijedite korake opisane u nastavku.
+
+✎✎Provjerite jeste li pričvrstili adapter prije montiranja televizora na zid.
+1. 	 Adapter za CI karticu umetnite u dvije rupe na proizvodu 1.
+
+✎✎ Pronađite dvije rupe na stražnjoj strani televizora. Dvije rupe nalaze se pokraj utora za
+COMMON INTERFACE.
+✎✎ Čvrsto pritisnite na sredini adaptera kako biste ga dobro pričvrstili na njegovom mjestu.
+
+2. 	 Adapter za CI karticu umetnite u ulaz COMMON INTERFACE port.
+3. 	 Umetnite karticu "CI ili CI+ CARD".
+Korištenje kartice "CI ili CI+ CARD"
+Morate umetnuti karticu "CI ili CI+ CARD" kako biste mogli gledati kanale koji zahtijevaju plaćanje.
+yy Ako ne umetnete "CI ili CI+ CARD", neki kanali će prikazivati poruku "Scrambled Signal" (Kodirani
+signal).
+yy Podaci o uparivanju koji obuhvaćaju telefonski broj, ID oznaku kartice "CI ili CI+ CARD", oznaku Host
+ID i ostale podatke, prikazat će se kroz 2~3 minute. Ako se prikaže poruka o pogrešci, obratite se
+davatelju usluga.
+yy Po završetku konfiguriranja informacija o kanalu, prikazuje se poruka “Updating Completed”
+(Ažuriranje dovršeno) koja označava da je popis kanala ažuriran.
+
+✎✎NAPOMENA
+
+xx Karticu "CI ili CI+ CARD" potrebno je nabaviti kod lokalnog davatelja kabelskih usluga.
+xx Karticu "CI ili CI+ CARD" pažljivo izvucite i pritom pazite da vam ne ispadne jer se pri tome može oštetiti.
+xx Umetnite karticu "CI ili CI+ CARD" u smjeru koji je označen na njoj.
+xx Lokacija utora COMMON INTERFACE može se razlikovati ovisno o modelu.
+xx Kartica "CI ili CI+ CARD" nije podržana u nekim državama i regijama; provjerite kod ovlaštenog dobavljača.
+xx U slučaju problema obratite se davatelju usluge.
+xx Umetnite karticu "CI ili CI+ CARD" koja podržava trenutne postavke antene. Slika na zaslonu bit će iskrivljena ili se neće vidjeti.
+
+Hrvatski - 11
+��
+[UD5000-XH]BN68-03432D.indb 11
+
+2011-05-17 �� 5:11:09
+
+Povezivanje s mrežom
+Povezivanje s mrežom - Bežično
+Televizor možete povezati s LAN mrežom putem standardnog bežičnog usmjernika ili modema. Za bežično povezivanje najprije
+trebate priključiti "adapter tvrtke SAMSUNG za bežičnu LAN mrežu" (WIS09ABGN, WIS09ABGN2 ili WIS10ABGN - prodaje se
+zasebno) u USB 1 (HDD) ili USB 2 priključak na stražnjoj strani televizora. Pogledajte ilustraciju ispod.
+Bočna ploča televizora
+Priključak LAN mreže na zidu
+
+Bežični IP razdjelnik
+(bežični usmjernik s DHCP
+poslužiteljem)
+Samsung adapter za
+bežičnu
+LAN mrežu
+
+LAN kabel
+
+Samsung bežični LAN adapter prodaje se odvojeno i dostupan je kod odabranih dobavljača i putem Web lokacija za prodaju.
+Adapter tvrtke Samsung za bežičnu LAN mrežu podržava standarde IEEE 802.11a/b/g te n komunikacijske protokole.
+Samsung preporučuje IEEE 802.11n. Videozapis se u slučaju reprodukcije putem mrežne veze možda neće reproducirati
+glatko.
+Većina sustava bežičnih mreža ima sigurnosni sustav kojemu su potrebni uređaji koji pristupaju mreži preko pristupne točke
+ili bežičnog usmjernika (to je obično bežični IP djelitelj) radi prenošenja šifriranog sigurnosnog koda, poznatog pod nazivom
+pristupni ključ.
+Ako je odabran način rada Pure High-throughput (Greenfield) 802.11n, a vrsta šifriranja za bežični usmjernik postavljena je
+na WEP, TKIP ili TKIP-AES (WPS2Mixed), televizori tvrtke Samsung ne podržavaju vezu u skladu s novim specifikacijama
+certifikata za Wi-Fi.
+Povezivanje s mrežom - Kabelska TV
+Ovisno o postavkama mreže, postoje dva glavna načina povezivanja televizora s mrežom pomoću kabela. Navedeni su ispod:
+Vanjski modem
+(ADSL / VDSL / kabelska televizija)
+
+Priključak za modem na zidu
+
+Modemski kabel
+
+Stražnja ploča televizora
+
+LAN kabel
+
+Priključak LAN mreže na zidu
+
+Stražnja ploča televizora
+
+LAN kabel
+
+✎✎Brzine mreže niže od 10 Mb/s nisu podržane.
+
+Hrvatski - 12
+��
+[UD5000-XH]BN68-03432D.indb 12
+
+2011-05-17 �� 5:11:11
+
+Način pregledavanja uputa u elektronskom obliku
+Upute o značajkama televizora možete pronaći u značajci e-Manual u vašem
+televizoru. Za korištenje te značajke pritisnite gumb E-MANUAL na daljinskom
+upravljaču. Pomaknite pokazivač pomoću gumba za kretanje gore/dolje/desno/
+lijevo kako biste istaknuli kategoriju, a zatim i temu, te potom pritisnite gumb
+ENTERE. Upute u elektronskom obliku prikazuju stranicu koju želite vidjeti.
+Moguć je i pristup putem izbornika:
+
+E-MANUAL
+
+OO MENUm → Podrška → e-Manual → ENTERE
+
+✎✎Za povratak u glavni izbornik uputa u e-Manual pritisnite gumb E-MANUAL na daljinskom
+upravljaču.
+
+Prikaz na zaslonu
+
+✎✎Opciju Pokušajte ne možete koristiti izravno ako je televizor postavljen na vanjski izvor signala.
+1	 Videozapis koji se trenutno prikazuje, TV program
+itd.
+
+1
+2
+Osnovne funkcije
+
+3
+
+Izbornik slike
+Izbornik zvuka
+
+2	 Popis kategorija. Pritisnite gumb ◄ ili ► kako biste
+odabrali željenu kategoriju.
+3	 Prikaz popisa podizbornika. Pritišćite gumbe sa
+strelicama na daljinskom upravljaču kako biste
+pomaknuli pokazivač. Pritisnite gumb ENTERE
+kako biste odabrali onaj podizbornik koji želite.
+4	 } Plavi (Indeks): Prikaz zaslona indeksa.
+5	 E Ulaz: Odabir kategorije ili podizbornika.
+
+} Indeks E Ulaz e Izlaz
+
+4
+
+5
+
+6	 e Izlaz: Izlaz iz uputa u e-Manual.
+
+6
+
+Kretanje između teme u uputama u elektronskom obliku i odgovarajućih zaslona izbornika.
+Osnovne značajke > Izbornik Slika (3/17)
+
+E-MANUAL
+a Pokušajte b Početna { Zoom } Indeks L Stranica e Izlaz
+
+Slika
+
+aPokušajte
+
+Način prik. Slike	
+
+: Standardon
+
+Poz. osvjet.	
+Kontrast	
+Svjetlina	
+Oštrina	
+Boja	
+Nijansa (Z/C)	
+Prilagodba zaslona
+
+:7
+: 95
+: 45
+: 50
+: 50
+: G50/R50
+
+►
+
+✎✎Ova funkcija nije omogućena u nekim izbornicima.
+Način 1
+
+Način 2
+
+1.	 Želite li koristiti izbornik koji odgovara temi iz značajke
+e-Manual, pritisnite crveni gumb za odabir opcije
+Pokušajte.
+2.	 Za povratak na glavni zaslon za e-Manual pritisnite
+gumb E-MANUAL.
+
+1.	 Pritisnite gumb ENTERE kad se prikaže tema. “Želite
+li ovo izvršiti?” je poruka koja će se pojaviti. Odaberite
+Da, a zatim pritisnite gumb ENTERE. Pojavljuje se prozor
+zaslonskog prikaza.
+2.	 Za povratak na glavni zaslon za e-Manual pritisnite
+gumb E-MANUAL.
+
+Hrvatski - 13
+��
+[UD5000-XH]BN68-03432D.indb 13
+
+2011-05-17 �� 5:11:12
+
+Pregled sadržaja
+1	 Područje sadržaja: Ako ste odabrali odgovarajući
+podizbornik, uključuje sadržaj tema. Za prelazak na
+prethodnu ili sljedeću stranicu pritisnite gumb ◄ / ►.
+
+Osnovne značajke > Izbornik Slika (3/17)
+
+1
+
+2	 Pokušajte: Prikaz zaslona izbornika koji odgovara
+temi. Za povratak na glavni zaslon za Upute u
+e-Manual pritisnite gumb E-MANUAL.
+3	 Početna: Prelazak na početni zaslon za e-Manual.
+4	 Zoom: Povećavanje zaslona. Kroz povećani se
+zaslon možete kretati uz pomoć gumba ▲ / ▼.
+
+a Pokušajte b Početna { Zoom } Indeks L Stranica e Izlaz
+
+2
+
+3
+
+4
+
+5
+
+5	 L (Stranica): Prelazak na prethodnu ili sljedeću
+stranicu.
+
+Korištenje zumiranja
+Odaberite opciju Zoom, a zatim pritisnite gumb
+ENTERE za povećanje zaslona. Kroz povećani se zaslon
+možete kretati uz pomoć gumba ▲ ili ▼.
+
+✎✎Za vraćanje zaslona na njegovu normalnu veličinu,
+pritisnite gumb RETURN.
+
+U Pomak R Povratak
+
+Traženje teme na stranici indeksa
+
+✎✎Ova funkcija možda nije podržana, ovisno o jeziku.
+1.	 Ako želite potražiti ključnu riječ, pritisnite plavi gumb kako biste odabrali Indeks.
+2.	 Pritisnite gumb ◄ ili ► za odabir željenog redoslijeda znakova.
+3.	 Pritisnite gumb ▲ ili ▼ kako biste odabrali ključnu riječ koju želite potražiti, a zatim pritisnite gumb ENTERE.
+4.	 Sada možete pregledati odgovarajući zaslon uputa u elektronskom obliku.
+
+✎✎Za zatvaranje zaslona Indeks pritisnite gumb RETURN.
+
+Hrvatski - 14
+��
+[UD5000-XH]BN68-03432D.indb 14
+
+2011-05-17 �� 5:11:14
+
+Montiranje zidnog nosača
+Komplet zidnih nosača (prodaje se zasebno) omogućuje postavljanje televizora na zid.
+Detaljne informacije o postavljanju zidnih nosača potražite u uputama koje ste dobili sa zidnim nosačima. Prilikom postavljanja
+zidnog nosača obratite se stručnjaku.
+Tvrtka Samsung Electronics nije odgovorna za oštećenja uređaja ili ozljede korisnika ako korisnik samostalno montira televizor.
+Specifikacije kompleta za postavljanje na zid (VESA)
+Slučaj A. Montiranje zidnog nosača tvrtke SAMSUNG
+
+Slučaj B. Montiranje zidnog nosača neke druge tvrtke
+
+1
+
+1
+
+1
+
+1
+
+✎✎Komplet za postavljanje na zid ne isporučuje se nego prodaje se odvojeno.
+Zidni nosač montirajte na čvrsti zid okomit na pod. Za postavljanje na druge građevinske materijale obratite se najbližem
+distributeru. Ako se montira na strop ili nakošeni zid, može pasti i prouzročiti teške tjelesne ozljede.
+
+✎✎NAPOMENA
+
+xx Standardne dimenzije kompleta za postavljanje na zid prikazane su u donjoj tablici.
+xx Kod kupnje kompleta za postavljanje na zid isporučuju se detaljni priručnik i svi dijelovi potrebni za montažu.
+xx Nemojte koristiti vijke koji ne odgovaraju specifikacijama za vijke unutar standarda VESA.
+xx Nemojte koristiti vijke koji su duži od standardnih dimenzija jer mogu oštetiti unutrašnjost televizora.
+xx Kod zidnih nosača koji ne odgovaraju specifikacijama za vijke unutar standarda VESA, dužina vijaka može se razlikovati
+ovisno o njihovim specifikacijama.
+
+xx Vijke nemojte prejako pritegnuti, jer to može oštetiti uređaj i uzrokovati njegov pad, što može dovesti do tjelesnih
+ozljeda. Tvrtka Samsung nije odgovorna za takve nesretne slučajeve.
+
+xx Tvrtka Samsung ne preuzima odgovornost za štetu na uređaju ili tjelesne povrede proizašle iz upotrebe zidnog nosača
+koji ne odgovara VESA standardu ili nije specificiran ili ako korisnik ne prati upute za montažu uređaja.
+
+xx Prilikom montiranja tih televizora nosač nemojte naginjati za više od 15 stupnjeva.
+Linija
+proizvoda
+
+LED televizor
+
+inči
+
+VESA spec. (A * B)
+
+19~22
+
+75 X 75
+
+27
+
+200 X 100
+
+32~40
+
+200 X 200
+
+46~60
+
+400 X 400
+
+65~75
+
+600 X 400
+
+Standardni
+vijak
+
+Količina
+
+M4
+4
+M8
+
+Komplet za postavljanje na zid nemojte montirati dok je televizor uključen. To može dovesti do ozljeda
+uzrokovanih strujnim udarom.
+
+Hrvatski - 15
+��
+[UD5000-XH]BN68-03432D.indb 15
+
+2011-05-17 �� 5:11:15
+
+Rješavanje problema
+Ako dođe do problema s televizorom, najprije prođite ovaj popis mogućih problema i njihovih rješenja. Ako se ne može
+primijeniti nijedan od ovih savjeta za rješavanje problema, posjetite "www.samsung.com," i pritisnite Support (Podrška) ili se
+obratite servisnom centru za kupce tvrtke Samsung.
+Problemi
+
+Rješenja i objašnjenja
+
+Televizor se ne uključuje.
+
+•	 Provjerite je li kabel za napajanje dobro priključen u zidnu utičnicu i u televizor.
+•	 Provjerite radi li zidna utičnica.
+•	 Pokušajte pritisnuti gumb POWER kako biste se uvjerili da daljinski upravljač ispravno
+radi. Ako se televizor uključuje, pogledajte ispod navedeni odjeljak "Daljinski upravljač ne
+radi".
+
+Nema slike/videozapisa.
+
+•	 Provjerite kabelske priključke (isključite i ponovo priključite sve kabele priključene na
+televizor i vanjske uređaje).
+•	 Podesite video izlaze vanjskih uređaja (kabelskog/Set top Box uređaja, DVD uređaja,
+Blu-ray uređaja itd.) kako bi odgovarale vezama s ulazom na televizoru. Npr. ako je izlazni
+priključak vanjskog uređaja HDMI, taj uređaj treba povezati s HDMI ulazom na televizoru.
+•	 Provjerite jesu li priključeni uređaji uključeni.
+•	 Provjerite jeste li odabrali odgovarajući izvor za televizor pritiskom na gumb SOURCE na
+daljinskom upravljaču.
+•	 Ponovo pokrenite povezani uređaj isključivanjem i ponovnim priključivanjem njegovog
+kabela napajanja.
+
+Daljinski upravljač ne radi.
+
+•	 Zamijenite baterije daljinskog upravljača, pazeći na ispravan polaritet (+/–).
+•	 Očistite prozorčić za prijenos na daljinskom upravljaču.
+•	 Pokušajte usmjeriti daljinski upravljač izravno prema televizoru s 2 metra udaljenosti.
+
+Daljinski upravljač kabelskog / set top
+box uređaja ne uključuje niti isključuje
+televizor, niti podešava jakost zvuka.
+
+•	 Programirajte daljinski upravljač kabelskog/set top box uređaja kako bi radio s
+televizorom. U uputama za korištenje kabelskog/satelitskog uređaja potražite šifru za
+televizor tvrtke SAMSUNG.
+
+✎✎Televizor možete održati u optimalnim uvjetima ažurirajući ga najnovijim programskim datotekama na web-mjestu
+(samsung.com -> Support (Podrška) -> Downloads (Preuzimanja)) pomoću USB uređaja.
+
+✎✎Ovaj TFT LED zaslon sastoji se od podpiksela koji se proizvode uz pomoć napredne tehnologije. No, na zaslonu može
+biti nekoliko svijetlih ili tamnih piksela. Ti pikseli nemaju utjecaj na performanse uređaja.
+
+Licenca
+
+Popis značajki
+Izvrsno digitalno sučelje i mogućnosti umrežavanja: Pomoću digitalnog HD tunera, HD emisije bez pretplate mogu se gledati
+bez kabelskog uređaja / STB (Set-Top-Box) satelitskog prijemnika.
+Moji sadržaji
+Omogućava reproduciranje glazbenih datoteka, slika i filmova pohranjenih na USB uređaju.
+AllShare™
+AllShare™ preko mreže povezuje televizor s mobilnim telefonima i drugim uređajima koji su kompatibilni s vašim televizorom.
+Anynet+(HDMI-CEC)
+Omogućava upravljanje svim povezanim uređajima tvrtke Samsung koji podržavaju Anynet+ pomoću daljinskog upravljača
+televizora tvrtke Samsung.
+
+Hrvatski - 16
+��
+[UD5000-XH]BN68-03432D.indb 16
+
+2011-05-17 �� 5:11:16
+
+Montiranje televizora na zid
+Oprez: Potezanje, guranje ili penjanje na televizor može uzrokovati njegov pad. Naročito pazite da se djeca
+ne ljuljaju ili destabiliziraju televizor; to može dovesti do prevrtanja televizora i rezultirati ozbiljnim povredama
+ili smrću. Slijedite sve sigurnosne upute navedene u sigurnosnom letku. Radi povećanja stabilnosti montirajte
+uređaj protiv pada na sljedeći način.
+Izbjegavanje pada televizora
+1.	 Vijke umetnite u kopče i dobro ih pričvrstite na zid. Provjerite jesu
+li vijci čvrsto postavljeni na zid.
+
+✎✎ Ovisno o vrsti zida, možda će vam zatrebati dodatni
+materijal, poput kotve.
+
+✎✎ Budući da potrebne kopče, vijci i žica nisu uključeni u
+opseg isporuke, nabavite ih zasebno.
+
+2.	 Izvadite vijke iz središnjeg dijela na stražnjoj strani televizora,
+umetnite ih u kopče i zatim ponovo zategnite vijke u televizor.
+
+✎✎ Vijci možda nisu isporučeni iz proizvod. U tom slučaju
+nabavite vijke sa sljedećim specifikacijama.
+
+✎✎ Specifikacije vijaka
+
+xx Za LED televizor od 32 ~ 75 inča: M8
+
+3.	 Kopče pričvršćene na stražnjoj strani televizora i kopče
+pričvršćene na zid povežite snažnom žicom i zatim čvrsto
+zavežite žicu.
+
+Zid
+
+✎✎ NAPOMENA
+
+xx Televizor postavite blizu zida kako ne bi pao prema natrag.
+xx Žicu zavežite na način da kopče pričvršćene na zidu budu u ravnini ili niže od kopči pričvršćenih na televizoru.
+xx Prije premještanja televizora odvežite žicu.
+
+4.	 Provjerite jesu li svi spojevi pravilo pričvršćeni. Povremeno provjerite spojeve i potražite znakove zamora materijala.
+Sumnjate li u sigurnost spojeva, obratite se profesionalnom montažeru.
+
+Pohrana i održavanje
+
+✎✎Nakon skidanja naljepnica sa zaslona televizora očistite njihove ostatke kako biste mogli gledati televiziju.
+
+Ne prskajte uređaj izravno vodom niti sredstvom za čišćenje.
+Svaka tekućina koja uđe u uređaj može uzrokovati kvar,
+požar ili strujni udar.
+
+Uređaj čistite mekom krpom natopljenom u maloj količini
+vode.
+
+Hrvatski - 17
+��
+[UD5000-XH]BN68-03432D.indb 17
+
+2011-05-17 �� 5:11:18
+
+Specifikacije
+Rezolucija zaslona
+Zaštita okoliša
+Radna temperatura
+Radna vlažnost
+Temperatura skladištenja
+Vlažnost prilikom skladištenja
+TV sustav
+Sustav boja / videosustav
+Sustav zvuka
+HDMI IN
+
+1920 x 1080
+- 20°C do 40°C (50°F do 104°F)
+od 10% do 80%, bez kondenzacije
+- 20°C do 45°C (-4°F do 113°F)
+od 5% do 95%, bez kondenzacije
+Analogni: B/G, D/K, L, I (ovisno o odabiru države)
+Digitalni: DVB-T/DVB-C
+Analogni: PAL, SECAM, NTSC-4.43, NTSC-3.58, PAL60
+Digitalni: MPEG-2 MP@ML, MPEG-4, H.264/AVC MP@L3, MP@L4.0, HP@L4.0
+BG, DK, L, NICAM, MPEG1, DD, DD+, HEAAC
+Video: 1080 24p, 1080p, 1080i, 720p, 576p, 480p
+Audio: 2-kanalni linearni PCM 32/44.1/48 kHz, 16/20/24 bitova.
+
+Postolje s mogućnošću
+zakretanja (lijevo/desno)
+Naziv modela
+Veličina zaslona
+Zvuk
+(Izlaz)
+Dimenzije (ŠxDxV)
+Kućište
+S postoljem
+Težina
+Bez postolja
+S postoljem
+Naziv modela
+Veličina zaslona
+Zvuk
+(Izlaz)
+Dimenzije (ŠxDxV)
+Kućište
+S postoljem
+Težina
+Bez postolja
+S postoljem
+
+-20˚ ~ 20˚
+UE32D5000
+
+UE37D5000
+
+32 inči
+
+37 inči
+10 W X 2
+
+762,0 X 29,9 X 462,0 (mm)
+762,0 X 242,2 X 530,4 (mm)
+
+883,9 X 29,9 X 531,1 (mm)
+883,9 X 255,0 X 598,5 (mm)
+
+7,1 kg
+10,2 kg
+
+9,3 kg
+12,5 kg
+
+UE40D5000
+
+UE46D5000
+
+40 inči
+
+46 inči
+10 W X 2
+
+949,3 X 29,9 X 567,5 (mm)
+949,3 X 255,0 X 635,2 (mm)
+
+1094,2 X 29,9 X 652,5 (mm)
+1094,2 X 275,0 X 711,1 (mm)
+
+10,9 kg
+14,2 kg
+
+13,7 kg
+17,2 kg
+
+✎✎Dizajn i specifikacije podložni su promjeni bez prethodne obavijesti.
+✎✎Informacije o napajanju i potrošnji energije potražite na naljepnici zalijepljenoj na uređaj.
+
+Hrvatski - 18
+��
+[UD5000-XH]BN68-03432D.indb 18
+
+2011-05-17 �� 5:11:19

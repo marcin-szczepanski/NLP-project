@@ -1,0 +1,2456 @@
+OWNER'S MANUAL
+
+Portable DVD Player
+Please read this manual carefully before operating
+your set and retain it for future reference.
+
+MODEL
+DP581B
+
+ENGLISH
+
+P/NO : MFL63727816
+
+Safety Precaution
+CAUTION
+RISK OF ELECTRIC SHOCK
+DO NOT OPEN
+
+CAUTION: TO REDUCE THE RISK OF ELECTRIC
+SHOCK. DO NOT REMOVE COVER (OR BACK).
+NO USER-SERVICEABLE PARTS INSIDE.
+REFER SERVICING TO QUALIFIED SERVICE
+PERSONNEL.
+This lightning flash with arrowhead symbol
+within an equilateral triangle is intended to
+alert the user to the presence of uninsulated dangerous voltage within the product’s
+enclosure that may be of sufficient magnitude to constitute a risk of electric shock to
+persons.
+The exclamation point within an equilateral
+triangle is intended to alert the user to
+the presence of important operating and
+maintenance (servicing) instructions in the
+literature accompanying the product.
+WARNING: TO PREVENT FIRE OR ELECTRIC
+SHOCK HAZARD, DO NOT EXPOSE THIS
+PRODUCT TO RAIN OR MOISTURE.
+WARNING: Do not install this equipment in a confined space such as a book case or similar unit.
+CAUTION: Do not block any ventilation openings. Install in accordance with the manufacturer's
+instructions. Slots and openings in the cabinet
+are provided for ventilation and to ensure reliable
+operation of the product and to protect it from over
+heating. The openings shall be never be blocked
+by placing the product on a bed, sofa, rug or other
+similar surface. This product shall not be placed in
+a built-in installation such as a bookcase or rack
+unless proper ventilation is provided or the manufacturer's instruction has been adhered to.
+
+2
+
+CAUTION: This product
+employs a Laser System.
+To ensure proper use of this
+product, please read this
+owner’s manual carefully and
+retain it for future reference. Shall the unit require
+maintenance, contact an authorized service centre.
+Use of controls, adjustments or the performance of
+procedures other than those specified herein may
+result in hazardous radiation exposure. To prevent
+direct exposure to laser beam, do not try to open
+the enclosure. Visible laser radiation when open.
+DO NOT STARE INTO BEAM.
+CAUTION: The apparatus shall not be exposed to
+water (dripping or splashing) and no objects filled
+with liquids, such as vases, shall be placed on the
+apparatus.
+CAUTION
+• The ventilation shall not be impeded by covering the ventilation openings with items, such as
+newspapers, table-cloth, curtains etc.
+• No naked flame sources, such as lighted candles, shall be placed on the apparatus.
+• Used batteries shall be disposed of safely and
+not incinerated. Attention shall be shown to the
+environment aspects of battery disposal.
+• The excessive sound pressure from earphones
+and headphones can cause hearing loss.
+• The battery shall not be exposed to excessive
+heat such as sunshine, fire or the like.
+• Do not remove the battery incorporated with
+product for your safety.
+If you need to replace the battery, take it to the
+nearest authorized LG Electronics service point
+or dealer for assistance
+
+CAUTION concerning the Power Cord
+Most appliances recommend they be placed
+upon a dedicated circuit;
+That is, a single outlet circuit which powers only
+that appliance and has no additional outlets or
+branch circuits. Check the specification page of
+this owner's manual to be certain. Do not overload
+wall outlets. Overloaded wall outlets, loose or damaged wall outlets, extension cords, frayed power
+cords, or damaged or cracked wire insulation are
+dangerous. Any of these conditions could result in
+electric shock or fire. Periodically examine the cord
+of your appliance, and if its appearance indicates
+damage or deterioration, unplug it, discontinue use
+of the appliance, and have the cord replaced with
+an exact replacement part by an authorized service
+centre. Protect the power cord from physical or
+mechanical abuse, such as being twisted, kinked,
+pinched, closed in a door, or walked upon. Pay particular attention to plugs, wall outlets, and the point
+where the cord exits the appliance.To disconnect
+power from the mains, pull out the mains cord plug.
+When installing the product, ensure that the plug is
+easily accessible.
+This device is equipped with a portable battery or
+accumulator.
+Safe way to remove the battery or the battery
+from the equipment:
+Remove the old battery pack, follow the steps in
+reverse order than the assembly. To prevent contamination of the environment and bring on possible
+threat to human and animal health, the old battery
+or the battery put in the appropriate container at
+designated collection points. Do not dispose of batteries or battery together with other waste. It is recommended that you use local, free reimbursement
+system batteries and accumulators.
+
+Warning for replaceable lithium battery
+• Danger of explosion if battery incorrectly replaced.
+• Replace only with the same type battery.
+• Additional warning marking close to the battery if
+intended to be replaced by users.
+Disposal of your old appliance
+1. When this crossed-out wheeled bin
+symbol is attached to a product it means
+the product is covered by the European
+Directive 2002/96/EC.
+2. All electrical and electronic products
+shall be disposed of separately from the
+municipal waste stream via designated
+collection facilities appointed by the government or the local authorities.
+3. The correct disposal of your old appliance will help prevent potential negative
+consequences for the environment and
+human health.
+4. For more detailed information about
+disposal of your old appliance, please
+contact your city office, waste disposal
+service or the shop where you purchased
+the product.
+LG Electronics hereby declares that this/
+these product(s) is/are in compliance with
+the essential requirements and other relevant provisions of Directive 2004/108/EC,
+2006/95/EC, and 2009/125/EC.
+European representative :
+LG Electronics Service Europe B.V.
+Veluwezoom 15, 1327
+AE Almere. The Netherlands
+(Tel : +31–(0)36–547–8888)
+
+Manufactured under license from Dolby
+Laboratories. Dolby and the double-D symbol
+are trademarks of Dolby Laboratories.
+
+Copyrights
+
+“
+” may appear on your TV display during operation and indicates that the function explained in this
+owner’s manual is not available on that disc.
+
+It is forbidden by law to copy, broadcast, show,
+broadcast via cable, play in public, or rent copyrighted material without permission. This product
+features the copy protection function developed by
+Macrovision. Copy protection signals are recorded
+on some discs. When recording and playing the
+pictures of these discs picture noise will appear.
+This product incorporates copyright protection
+technology that is protected by U.S. patents and
+other intellectual property rights. Use of this copyright protection technology must be authorized by
+Macrovision, and is intended for home and other
+limited viewing uses only unless otherwise authorized by Macrovision. Reverse engineering or disassembly is prohibited.
+
+Regional Codes
+
+Symbol Used in this Manual
+
+This unit has a regional code printed on the rear of
+the unit. This unit can play only DVD discs labelled
+same as the rear of the unit or “ALL”.
+• Most DVD discs have a globe with one or more
+numbers in it clearly visible on the cover. This
+number must match your unit’s regional code or
+the disc cannot play.
+• If you try to play a DVD with a different regional
+code from your player, the message “Check
+Regional Code” appears on the TV screen.
+
+A section whose title has one of the following symbols are applicable only to the disc or file represented by the symbol.
+
+"DVD Logo" is a trademark of DVD format/Logo
+Licensing Corporation.
+DivX is a registered trademark of DivX, Inc., and
+is used under license.
+
+Introduction
+About the
+
+Symbol Display
+
+ALL
+
+All discs and files
+
+DVD
+
+DVD-Video, DVD±R/RW in Video
+mode or VR mode finalized
+
+MOVIE
+
+Movie files contained in the
+USB/Memory Card/Disc
+
+ACD
+
+Audio CDs
+
+MP3
+
+MP3 files
+
+WMA
+
+WMA files
+
+3
+
+Contents
+Safety Precaution .....................................................................................2
+Introduction ...............................................................................................3
+Contents ...................................................................................................4
+Playable Discs ..........................................................................................4
+Main Unit ..................................................................................................5
+Remote Control ........................................................................................6
+Touch Sensor Buttons ..............................................................................7
+Power connections ...................................................................................8
+Attaching the Battery Pack .......................................................................9
+Rechargeable Battery...............................................................................9
+Revolving the LCD panel .........................................................................9
+Hooking up the unit ...............................................................................10
+Using the Home Menu ..........................................................................10
+Adjust the settings ........................................................................... 10-12
+
+Playable Discs
+DVD-VIDEO (8 cm / 12 cm disc)
+Discs such as movies that can be purchased or rented.
+DVD±R (8 cm / 12 cm disc)
+- Video mode and finalized only
+- Supports the dual layer dsc also
+- DVD±R discs that contain Movie, Music or Photo files.
+DVD-RW (8 cm / 12 cm disc)
+- VR mode, Video mode and finalized only
+- DVD-RW discs that contain Movie, Music or Photo files.
+DVD+RW (8 cm / 12 cm disc)
+- Video mode only
+- DVD+RW discs that contain Movie, Music or Photo files.
+Audio CD (8 cm / 12 cm disc)
+
+Displaying Quick Menu Information .......................................................12
+Playing a Disc................................................................................... 13-14
+Playing a movie files ..............................................................................15
+Listening to Music .................................................................................16
+Viewing photo files .................................................................................17
+Using an External Memory Card ............................................................18
+Using an USB Flash Drive .....................................................................18
+USB Direct Recording ............................................................................19
+Language Codes ....................................................................................20
+Area Codes ............................................................................................20
+Troubleshooting ......................................................................................21
+Specifications .........................................................................................21
+Enjoying in a car with the Headrest Mounting Bracket .........................22
+
+4
+
+CD-R/RW (8 cm / 12 cm disc)
+CD-R/RW discs that contain audio titles, Movie, Music or Photo
+files.
+
+Main Unit
+a Touch Buttons (Refer to page 7 for details)
+• b B vV (left/right/up/down): Uses to select an item in the menu.
+• OK: Confirms menu selection.
+• . / > (Skip): Goes to next or previous chapter/track/file.
+• N (Play): Starts playback.
+• X (Pause): Pauses playback.
+• x (Stop): Stops playback.
+b Remote sensor: Points here to remote control. To control the unit using the
+remote control, do not fold down the LCD panel.
+c Battery charge and power indicator
+• The indicator turns on red light in charging and it will be changed to green
+when the charging is completed. (Refer to page 9 for details)
+• The indicator turns on green light when the unit is turned on.
+d LCD screen
+e Disc Lid
+f CD OPEN .: Uses the slide open key to open the disc lid.
+g Speakers
+h USB Port: Connects a USB Flash Drive.
+i Memory Card Slot: Inserts a memory card. (SD / MMC / MS)
+j 1/I (Power): Presses to turn the unit ON or OFF.
+k w VOL (Volume): Uses to adjust the volume level of the built-in speaker
+and earphones.
+l i (Earphones): Connects earphones here.
+m AV OUT: Connects to a TV with video and audio input.
+n DC 12V IN: Connects the AC adaptor or automotive adaptor.
+
+Precautions in using the touch sensor buttons:
+• Use the touch pad with clean and dry hands.
+• Do not touch the buttons on the touch pad with too much force.
+• Do not touch the button on the touch pad with any conductive material
+such as metalic object. It may cause a malfunction.
+
+5
+
+Remote Control
+ANGLE ( ): Selects a DVD camera angle if it is
+available disc.
+
+Note: This manual explains the operation
+based on remote control.
+
+SKIP (. / >): Goes to next or previous chapter/track/file.
+SCAN (m/M): Searches backward or forward.
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+b
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+HOME ( ): Displays or exits the [Home Menu].
+
+a
+
+Pinch the battery holder clip together then pull the
+tab to remove the battery holder. Insert the battery
+with the + facing in the same direction as the + on
+the battery holder. Replace the battery holder with
+battery into the Remote Control unit making sure
+that it is fully inserted.
+• Replace Remote Control unit battery with 3 V
+micro lithium cells such as CR. 2025 or
+equivalent to it.
+
+Q. MENU: Displays or exits the [Quick Menu].
+vV b B: Navigates the menus.
+
+• Dispose of battery safety in accordance with
+local laws. Do not dispose of in fire.
+
+): Confirms menu selection.
+
+ENTER (
+
+Put the Battery into the Remote Control
+
+RETURN (O): Presses to move backwards in the
+menu or exit the menu.
+
+b
+
+DISC MENU: Accesses to menu on a disc.
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+c
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+PAUSE/STEP (X): Pauses playback temporarily/
+press repeatedly for frame-by-frame playback.
+PLAY (N): Starts playback.
+
+c
+
+STOP (x): Stops playback.
+Numerical buttons: Selects numbered options in
+a menu.
+PLAY MODE: Repeats a desired section or
+sequence.
+CLEAR: Removes a mark on the search menu or a
+number when setting the password.
+
+d
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+d
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+TITLE: Accesses the disc’s title menu.
+MARKER : Marks any point during playback.
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+a
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+POWER (1): Switches the unit ON or OFF.
+AUDIO (
+channel.
+
+): Selects an audio language or audio
+
+SUBTITLE (
+
+6
+
+): Selects a subtitles language.
+
+SEARCH : Displays [Marker Search] menu.
+ZOOM: Enlarges a video image.
+A - B: Repeats a section.
+VIRTUAL SURROUND ( ): Press repeatedly to
+apply the various sound effects. (Refer to 14 page)
+
+Warning: The battery used in this device may
+present a fire or chemical burn hazard if mistreated. Do not recharge, disassemble, incinerate, or heat above 100 °C (212 °F).
+Replace the battery with Matsushita Elec. Ind.
+Co., Ltd. (Panasonic), part no. CR. 2025 only.
+Use of another battery may present a risk of fire
+or explosion. Dispose of used batteries. Keep
+batteries away from children. Do not disassemble or dispose of in fire.
+
+Touch Sensor Buttons
+
+Playing a Music
+
+Using the touch sensor buttons
+
+While playing a music, the touch sensor buttons on the LCD sensor do the
+following:
+
+Icon
+Touch
+
+icon
+
+Showed the touch sensor
+buttons
+
+When there is not operated for five seconds after being turned on touch sensor
+button, it will be disapperaed automatically.
+icon.
+If you want to use the touchable sensor button, touch
+
+Playing a Movie
+While playing a movie, the touch sensor buttons on the LCD sensor do the
+following:
+
+Icon
+
+Identity
+
+Identity
+
+Operation
+
+Home
+
+Displays or exits the [Home Menu]
+
+One song track
+
+Selects or exits one desired track/file
+
+All songs track
+
+Selects or exits all of the tracks/files
+
+Return
+
+Moves backwards in the menu or exit
+the menu
+
+Repeat
+
+Repeats tracks/files or all
+
+Record
+
+Records tracks (Audio CD only)
+
+Virtual
+Surround
+
+Applies the various sound effects
+(CONCERT t HALL t ARENA)
+
+Operation
+
+Home
+
+Displays or exits the [Home Menu]
+
+Playing a photo
+
+Up Folder
+
+Moves to up-folder or exit the menu
+
+While playing a photo, the touch sensor buttons on the LCD sensor do the
+following:
+
+Quick Menu
+
+Displays or exits the Quick Menu
+
+Disc Menu
+
+Accesses to menu on a disc
+
+Repeat
+
+Repeats a chapter/title/file
+
+LCD Colour/
+Bright
+
+Displays the Brightness or Colour menu
+for LCD display
+
+Icon
+
+Identity
+
+Operation
+
+Home
+
+Displays or exits the [Home Menu]
+
+Up Folder
+
+Moves to up-folder or exit the menu
+
+Slide View
+
+Displays all of photos continuously
+
+7
+
+Connecting the Automotive adaptor
+
+Power connections
+Connecting the AC Adaptor
+Connect the supplied AC Adaptor from the unit to a power socket.
+
+Plug in the power supply
+socket in the car.
+
+Plug in a power source.
+
+Plug in the “DC 12 V IN”
+
+* The actual set may differ from the drawing.
+
+AC adaptor
+• This AC adaptor operates on 100 - 240 V - 1.0 A 50 / 60 Hz.
+• Contact an electrical parts distributor for assistance in selecting a suitable
+AC plug adaptor or AC cord set.
+• Manufactured by I-MAG ELECTRONICS(DONG GUAN) CO., LTD.
+
+8
+
+This unit and its automotive adaptor are designed for use in vehicles that have
+8.5 - 15 volt, negative ground electrical systems. This is standard for most
+vehicles. If your vehicle has a different type of electrical system, the DC power
+system cannot be used.
+Automotive adaptor
+• This automotive adaptor operates on DC 8.5 - 15 V.
+• Contact an electrical parts distributor for assistance in selecting a suitable
+automotive adaptor.
+• Manufactured by GRAND POWER ELECTRONIC TECHNOLOGY
+(SHENZHEN) CO., LTD.
+Caution
+• To prevent electrical shock and possible damage to your unit or vehicle,
+always unplug the automotive adaptor from the power supply socket in the
+car before you remove the plug from your unit.
+• A 3 amp. 250 V fuse for protection is installed in the automotive adaptor.
+• While the engine is being started, disconnect the automotive adaptor from
+the car’s cigarette lighter socket.
+• Do not operate your unit when the car battery is discharged.
+Peak current from the car generator may cause the DC fuse to be blown.
+• If the vehicle’s supply voltage drops below approximately 10 volts, your unit
+may not work properly.
+• Do not leave your unit in the place where the temperature exceeds 45 °C
+(113 °F), or the pick-up device may be damaged.
+Examples include:
+- Inside a car with the windows closed and in direct sunshine.
+- Nearby a heating appliance.
+
+Attaching the Battery Pack
+The following picture shows how to attach or detach the battery pack. You can
+attach or detach the battery pack as the following
+
+• The battery indicator will be turned on red light while be recharged.
+Once the charging is completed, the indicator will be changed to green.
+• When the remained time of the battery usage is under a few seconds,
+“ Check Battery” will be displayed on the screen.
+
+Attach / Detach
+
+Revolving the LCD panel
+You can revolve the LCD panel of the unit clockwise a maximum of 180 degrees
+for use. You can also operate the unit after revolving the LCD panel 180
+degrees and folding it back down.
+
+Rechargeable Battery
+• Its rechargeable battery provides you with the freedom to pass it around and
+plays the files without the power cord.
+• The rechargeable battery will start charging only when the AC adaptor is connected to a power outlet.
+• Operating time on the battery: approximately 5 hours 30 minutes
+• The maximum playing time: approximately 6 hours
+• Charging time on the battery: approximately 3 hours 30 minutes
+• The battery operating time may vary depending on the battery status, operational status and environment conditions.
+
+To revolve the LCD panel, place the unit on a stable and even surface such
+as on a table. Push the LCD panel up and then lift it into a vertical position.
+Revolve the LCD panel clockwise slowly 180 degrees. If you need, fold the LCD
+panel after revolving it.
+To revolve the LCD panel to its original position, open the LCD panel to a vertical position. Revolve the LCD panel counter clockwise slowly 180 degrees.
+• When finished using the unit, return the LCD panel to its original position.
+• Do not leave the LCD panel in the face-up position, or sudden shocks may
+damage it.
+
+9
+
+Hooking up the unit
+
+Using the Home Menu
+
+Audio and Video Connections to your TV
+Connect the AV OUT jack on the unit to the corresponding input jacks on your
+TV as shown below.
+
+Audio/Video Cable
+(not supplied)
+
+REMOTE
+
+LCD
+
+1
+
+Display the [Home Menu]:
+
+HOME
+
+2
+
+Select an option:
+
+bB
+
+bB
+
+3
+
+Display the selected option menu:
+
+ENTER
+
+OK
+
+[MOVIE]
+– Displays the [MOVIE] menu. Which shows DivX movie files on the disc.
+– Plays DVD-Video disc.
+[MUSIC] – Displays the [MUSIC] menu.
+[PHOTO] – Displays the [PHOTO] menu.
+[SETUP] – Displays the [SETUP] menu.
+
+Adjust the settings
+REMOTE
+
+Audio/Video Adaptor
+
+Plug into the “AV OUT”
+jack.
+
+10
+
+LCD
+
+1
+
+Display the [Home Menu]:
+
+-
+
+-
+
+2
+
+Select the [Setup] option:
+
+b B / ENTER
+
+b B / OK
+
+3
+
+Select a desired option on the
+first level:
+
+vV
+
+vV
+
+4
+
+Move to the second level:
+
+B
+
+B
+
+5
+
+Select a desired option on the
+second level:
+
+v V / ENTER
+
+v V / OK
+
+6
+
+Move to the third level:
+
+B
+
+B
+
+7
+
+Adjust or confirm the setting:
+
+v V / ENTER
+
+v V / OK
+
+8
+
+Go back to the previous level:
+
+b
+
+b
+
+9
+
+Exit the [Setup] menu:
+
+HOME
+
+When you turn on for the first time (optional)
+
+Adjust the audio settings
+
+The menu for a language selection will appear when you turn on the unit for the
+first time. You must select a language to use the unit. Use vV b B to select a
+language then press ENTER then the confirm menu will appear. Use b B to
+select [Enter] and press ENTER.
+
+DRC (Dynamic Range Control) – Make the sound clear when the volume is
+turned down (Dolby Digital only). Set to [On] for this effect.
+
+Adjust the language settings
+Menu Language – Select a language for the Setup menu and on-screen display.
+Disc Audio/Subtitle/Menu – Select a language for the Disc Audio/Subtitle/
+Menu.
+[Original]: Refers to the original language in which the disc was recorded.
+[Other]: To select another language, press number buttons then ENTER to
+enter the corresponding 4-digit number according to the language code list.
+(see page 20) If you make a mistake while entering number, press CLEAR to
+delete numbers then correct it.
+[Off] (for Disc Subtitle): Turn off Subtitle.
+
+Adjust the display settings
+TV Aspect – Select which screen aspect to use based on the shape of your TV
+screen.
+[4:3]: Select when a standard 4:3 TV is connected.
+[16:9]: Select when a 16:9 wide TV is connected.
+
+Vocal – Set to [On] only when a multi-channel karaoke DVD is playing. The
+karaoke channels on the disc mix into normal stereo sound.
+
+Adjust the lock settings
+You must set the [Area Code] option to use the lock options. Select [Area Code]
+option then press B. Enter a 4-digit password then press ENTER. Enter it again
+then press ENTER to verify. If you make a mistake while entering number,
+press CLEAR then correct it.
+If you forget your password you can reset it. First, remove the disc in the unit.
+Select Lock icon on the Setup menu. Input the 6-digit number “210499” and the
+password will be cleared.
+Rating – Select a rating level. Rating one (1) has the most restrictions and rating eight (8) is the least restrictive. Select [Unlock] to deactivate the rating.
+Password – Sets or changes the password for lock settings.
+[New]: Enter a new 4-digits password using the numerical buttons then press
+ENTER. Enter the password again to confirm.
+[Change]: Enter the new password twice after entering the current password
+Area Code – Select a code for a geographic area as the playback rating level.
+This determines which area’s standards are used to rate DVDs controlled by
+the parental lock. (See page 20)
+
+Display Mode – If you selected 4:3, you will need to define how you would like
+widescreen programs and films to be displayed on your TV screen.
+[Letterbox]: This displays a widescreen picture with black bands at the top
+and bottom of the screen.
+[Panscan]: This fills the entire 4:3 screen, cropping the picture as necessary.
+LCD Color – Select to adjust the LCD colour.
+LCD Brightness – Select to adjust the LCD Brightness.
+
+11
+
+Adjust the others settings
+REC Bitrate – You can choose a bit rate for USB direct recording.
+Higher bit rate gives the better sound quality but uses more space on the USB
+Flash Drive. For USB direct recording, see page 19.
+DivX VOD
+ABOUT DIVX VIDEO: DivX® is a digital video format created by DivX,Inc. This
+is an official DivX Certified device that plays DivX video. Visit www.divx.com for
+more information and software tools to convert your files into DivX video.
+ABOUT DIVX VIDEO-ON-DEMAND: This DivX Certified® device must be registered in order to play DivX Video-on-Demand (VOD) content. To generate the
+registration code, locate the DivX VOD section in the device setup menu. Go to
+vod.divx.com with this code to complete the registration process and learn more
+about DivX VOD.
+[Register]: Displays the registration code of your player.
+[Deregister]: Deregister your player and display the deregister code.
+
+Displaying Quick Menu Information
+REMOTE
+
+LCD
+
+1
+
+Play the disc loaded on the unit:
+
+N PLAY
+
+OK
+
+2
+
+Press Q. MENU during playback:
+
+Q. MENU
+
+3
+
+Select an item:
+
+v V / ENTER
+
+v V / OK
+
+4
+
+Adjust the item value:
+
+b B / ENTER
+
+b B / OK
+
+5
+
+Exit the menu:
+
+Q. MENU
+
+/
+
+You can select an item by pressing vV and change or select the setting by
+pressing b B or using the numbered buttons (0-9).
+
+a
+b
+c
+d
+e
+f
+a Titie/Track - Current title number/total number of titles
+b Chapter - Current chapter number/total number of chapters
+c Time - Elapsed playing time
+d Audio - Selected audio language or channel
+e Subtitle - Selected subtitle
+f Angle - Selected angle/total number of angles
+
+12
+
+REMOTE
+
+LCD
+
+1
+
+Insert a disc:
+
+-
+
+-
+
+2
+
+Adjust the disc menu settings:
+
+b B / ENTER
+
+b B / OK
+
+A disc menu may not appear on the
+screen depending on the disc.
+
+Start the playback:
+
+N PLAY
+
+N
+
+4
+
+Stop the playback:
+
+x STOP
+
+x
+
+DVD
+
+MOVIE
+
+Press STOP (x) to stop playback, the unit records the stopped point depending
+on the disc. “ Xx ” appears on the screen briefly. Press PLAY ( N) to resume
+playback (from the scene point). If you press STOP (x) again or unload the disc
+(“ x ” appears on the screen), the unit will clear the stopped point.
+(Xx =Resume Stop, x =Complete Stop)
+The resume point may be cleared when a button is pressed.
+(for example: POWER, OPEN, etc)
+
+Playing a DVD that has a menu
+
+Press SKIP (>) to move to the next chapter/track/file.
+Press SKIP (.) to return to the beginning of the current chapter/track/file.
+Press SKIP (.) twice briefly to step back to the previous chapter/track/file.
+
+Pause a playback
+
+ALL
+
+Press PAUSE/STEP (X) to pause playback. Press PLAY ( N) to continue
+playback
+
+DVD
+
+Most DVD now have menus which load first before the film begins to play. You
+can navigate these menus using vV b B or number button to highlight an
+option. Press ENTER to select.
+
+Playing a DVD VR disc
+This unit will play DVD-RW disc that is recorded using the Video Recording
+(VR) format. When you insert a disc DVD VR disc, the menu will appear on the
+screen. Use vV to select a title then press PLAY ( N). To display DVD-VR
+menu, press DISC MENU or TITLE.
+Some DVD-VR disc are made with CPRM data by DVD RECORDER. The unit
+does not support these kinds of discs.
+
+MOVIE
+
+DVD
+
+Frame-by-Frame playback
+
+3
+
+Resume the playback
+
+ALL
+
+Skip to the next/previous chapter/track/file
+
+Playing a Disc
+
+Press PAUSE/STEP (X) repeatedly to play Frame-by-Frame playback.
+
+Fast forward or fast reverse
+
+DVD
+
+ACD
+
+WMA
+
+MP3
+
+MOVIE
+
+Press SCAN (m or M) to play fast forward or fast reverse during playback.
+You can change the various playback speed by pressing SCAN (m or M)
+repeatedly. Press PLAY ( N) to continue play at normal speed.
+- DVD, Movie: mmb P mm P mb P m / M p MB p MM p MMB
+- ACD, WMA, MP3: mm P mb P m / M p MB p MM
+DVD
+
+Repeating a specific portion (A-B)
+
+ACD
+
+MOVIE
+
+Press A-B at the beginning of the portion you wish to repeat and again at the
+end of the portion. Your selected portion will be repeated continually.
+To return to normal playback, press A-B again.
+DVD
+
+Selecting a subtitle language
+
+MOVIE
+
+During playback, press SUBTITLE (
+language.
+
+) repeatedly to select a desired subtitle
+
+Watching from a different angle
+
+DVD
+
+If the angle indicator appears on the screen for a moment, you can select a different camera angle by pressing ANGLE ( ) repeatedly.
+
+Hearing a different audio
+
+DVD
+
+During playback, press AUDIO (
+audio languages, channels or
+
+Slow down the playing speed
+
+MOVIE
+
+) repeatedly to switch between the available
+encoding methods.
+DVD
+
+MOVIE (4steps, forward only)
+
+While the playback is paused, press SCAN (M) to slow down forward playback. You can change the various playback speed by pressing SCAN (M)
+repeatedly to play in slow motion. Press PLAY ( N) to continue play at normal
+speed.
+
+13
+
+Watching an enlarged video image
+
+DVD
+
+MOVIE
+
+During playback or pause mode, press ZOOM repeatedly to select zoom
+mode. You can move through the zoomed picture using vVb B buttons. Press
+CLEAR to exit. (100 % p 200 % p 300 % p 400 % p 100 %)
+DVD
+
+Viewing the title menu
+
+Press TITLE to display the disc's title menu, if available.
+
+Viewing the DVD menu
+
+DVD
+
+Press DISC MENU to display the disc menu, if available.
+DVD
+
+Starting play from selected time
+
+MOVIE
+
+Searches for the starting point of entered time code. Press Q.MENU then select
+clock icon. Enter a time then press ENTER. For example, to find a scene at
+1 hours, 10 minutes, and 20 seconds, enter "11020" and press ENTER. If you
+enter the wrong number, press CLEAR to enter again.
+
+Mark a scene on a disc
+
+DVD
+
+MOVIE
+
+You can mark a position on a disc to return to at the place. Simply press
+MARKER at the desired position. The marker icon will appear on-screen briefly.
+Repeat to place up to nine markers.
+Also you can recall or clear the positions. Press SEARCH and [Marker Search]
+menu will appear. Use b or B to select a desired marker on the menu, then
+press ENTER to recall it or CLEAR to clear it.
+
+Viewing the playback time
+
+DVD
+
+MOVIE
+
+During playback, press ENTER to display the time progress bar. You can see
+the current played back time.
+
+Last Scene Memory
+
+DVD
+
+ACD
+
+This unit memorizes last scene from the last disc that is viewed. The last scene
+remains in memory even if you remove the disc from the player or switch off the
+unit. If you load a disc that has the scene memorized, the scene is automatically recalled.
+
+Screen Saver
+The screen saver appears when you leave the unit in Stop mode for about five
+minutes. If the Screen Saver is displayed for five minutes, the unit automatically
+turns itself off.
+
+Virtual Surround
+You can enjoy the surround sound simply by selecting one of the pre-programmed sound field according to the program you want to listen to. Each time
+you press VIRTUAL SURROUND, the sound mode is changed as follows:
+(CONCERT t HALL t ARENA t Normal (default))
+
+14
+
+Playing repeatedly
+
+ACD
+
+WMA
+
+MP3
+
+DVD
+
+During playback, press PLAY MODE repeatedly to select a desired repeat
+mode.
+
+Audio CDs / Music files
+– The current track or file will be played back repeatedly.
+– All the tracks or files will be played back repeatedly.
+– The tracks or files will be played back in random order.
+– All the tracks or files will be played back repeatedly in random order.
+To cancel the repeat or random playback, press CLEAR.
+
+DVDs
+Chapter Repeat – The one chapter will be played back repeatedly.
+Title Repeat – All of the chapters will be played back repeatedly.
+To return to normal playback, press PLAY MODE repeatedly to select [Off].
+
+Playing a movie file
+The player can play movie files on the disc/USB device/Memory Card and
+video contents recorded on a DVD-RW(VR mode) discs.
+You can use various playback functions. Refer to pages 13-14
+
+REMOTE
+
+LCD
+
+1
+
+Insert a disc/USB device/Memory
+Card containing movie contents:
+
+-
+
+-
+
+2
+
+Display the [Home Menu]:
+
+-
+
+-
+
+3
+
+Select the [MOVIE] option:
+
+b B / ENTER
+
+b B / OK
+
+4
+
+Select a movie from the [MOVIE]
+menu:
+
+v V / ENTER
+
+v V / OK
+
+5
+
+Play the selected movie:
+
+N PLAY
+
+OK
+
+6
+
+Stop the playback:
+
+x STOP
+
+x
+
+• This player does not support the file that are recorded with GMC*1 or Qpel*2.
+Those are video encoding techniques in MPEG4 standard, like DivX has.
+*1 GMC - Global Motion Compensation
+*2 Qpel - Quarter pixel
+
+Notice for displaying the DivX subtitle
+Press and hold SUBTITLE for 3 seconds during playback. The language code
+will appear. Press b B to select another language code until the subtitle is displayed properly and then press ENTER.
+Tip:
+During playback, press ENTER to display the time progress bar.
+
+Movie file requirement
+Movie file compatibility with this player is limited as follows:
+• Available resolution size: 720 x 576 (W x H) pixel.
+• The file names of movie and subtitle are limited to 20 characters.
+• Movie file extensions: “.avi”, “.mpg”, “.mpeg”
+• Playable Movie subtitle: SubRip (.srt / .txt), SAMI (.smi),
+SubStation Alpha (.ssa/.txt), MicroDVD (.sub/.txt), VobSub (.sub),
+SubViewer 2.0 (.sub/.txt), TMPlayer (.txt), DVD Subtitle System (.txt)
+• Playable Codec format: “DIVX3.xx”, “DIVX4.xx”, “DIVX5.xx”, “MP43”, “3IVX”
+• Playable Audio format: “Dolby Digital”, “PCM”, “MP3”, “WMA”
+• Sampling frequency: within 8 to 48 kHz (MP3), within 32 to 48 kHz (WMA)
+• Bit rate: within 8 to 320 kbps (MP3), within 32 to 192 kbps (WMA),
+less than 4 Mbps (DivX file)
+• CD-R/RW, DVD±R/RW Format: ISO 9660
+• Only the playback function is supported with DivX 6.0 in the unit.
+• Maximum Files/Folders: Less than 600 (total number of files and folders)
+
+15
+
+Listening to Music
+This unit can play Audio CDs and MP3/WMA files
+You can use various playback functions. Refer to pages 13-14
+
+REMOTE
+
+LCD
+
+1
+
+Insert an Audio CD or a Disc/USB
+Flash Drive/Memory Card containing MP3/WMA files:
+
+-
+
+-
+
+2
+
+Display the [Home Menu]:
+
+-
+
+-
+
+3
+
+Select the [MUSIC] option:
+
+b B / ENTER
+
+b B / OK
+
+4
+
+Select the music from the [MUSIC]
+menu:
+
+b B / ENTER
+
+b B / OK
+
+5
+
+Play the selected music:
+
+N PLAY
+
+OK
+
+6
+
+Stop the playback:
+
+x STOP
+
+x
+
+MP3/WMA music file requirement
+MP3/WMA compatibility with this unit is limited as follows:
+
+• File extensions: “.mp3”, “.wma”
+•
+•
+•
+•
+
+Sampling frequency: within 8 to 48 kHz (MP3), within 32 to 48 kHz (WMA)
+Bit rate: within 8 to 320 kbps (MP3), within 32 to 192 kbps (WMA)
+CD-R/RW, DVD±R/RW Format: ISO 9660
+Maximum Files/Folders: Less than 600 (total number of files and folders)
+
+16
+
+Tips:
+• During playback a MP3 file, it displays the file information.
+[Song, Album, Artist, Time progress bar]
+• Press and hold b B to move previous or the next page.
+• To go directly to any track or file and play, enter the track/file number using
+the numbered buttons (0-9).
+• During playback, it can toggle between music list and playing mode with
+RETURN (O).
+
+a Use b B to highlight (b B) icon then press ENTER to the previous or
+next file.
+
+Viewing photo files
+
+b Press ENTER to start or pause the slide show.
+
+REMOTE
+
+LCD
+
+-
+
+1
+
+Insert a Disc/USB Device/Memory
+Card photo files:
+
+-
+
+2
+
+Display the [Home Menu]:
+
+-
+
+-
+
+3
+
+Select a [PHOTO] option:
+
+b B / ENTER
+
+b B / OK
+
+4
+
+Select a photo from the [PHOTO]
+menu:
+
+vVbB
+
+vVbB
+
+5
+
+Display the selected photo in full
+screen:.
+
+ENTER
+
+OK
+
+6
+
+Return to the [PHOTO] menu
+screen:
+
+x STOP
+
+x
+
+c Press ENTER to change slide show speed. (Fast p Slow p Normal)
+d Press ENTER to roate the picture to clockwise or counterclockwise.
+e Press ENTER to start or pause background music.
+f Press ENTER to exit option menu.
+Press Q.MENU to appear the menu again.
+Skip to the next/previous photo
+Press SKIP (. or >) to view the previous or next photo in full screen.
+Watching an enlarged photo image
+While viewing a photo in full screen, press ZOOM repeatedly to select zoom
+mode. You can move through the zoomed photo using vVb B buttons. Press
+CLEAR to exit.
+Photo file requirements
+
+Viewing a photo file in full screen
+You can use various options during viewing a picture in full screen.
+Use vVb B to select an option and use the options as described below.
+a
+
+b
+
+c
+
+d
+
+e
+
+•
+•
+•
+•
+•
+
+File extensions: “.jpg”, “.jpeg”
+Photo size: Less than 2 MB recommended
+CD-R/RW, DVD±R/RW Format: ISO 9660
+Maximum Files/Folders: Less than 600 (total number of files and folders)
+While slide show is on progress, MP3 file only can be played back.
+
+Tip:
+For the files that are contained in a disc or USB device/Memory Card, if you
+enter the file number by using the numbered buttons (0-9), unit shows the specific file to you.
+
+f
+
+17
+
+Using an External Memory Card
+
+Using an USB Flash Drive
+
+You can play MP3/WMA/JPEG/Movie files in the memory card.
+You can use various playback functions. Refer to pages 13-14.
+
+You can play MP3/WMA/JPEG/DivX files in the USB Flash Drive with version 1.1, 2.0.
+You can use various playback functions. Refer to pages 13-14.
+
+REMOTE
+
+LCD
+
+REMOTE
+
+Insert an external memory card in
+the unit:
+
+-
+
+2
+
+Display the [Home Menu]:
+
+-
+
+-
+
+3
+
+Select a file:
+[MOVIE], [MUSIC] or [PHOTO] option
+
+b B / ENTER
+
+b B / OK
+
+4
+
+Select the [MEMORY CARD] option:
+
+bB
+
+5
+
+Display corresponding menu list:
+[MOVIE], [MUSIC] or [PHOTO] menu
+appears.
+
+ENTER
+
+1
+
+-
+
+LCD
+
+1
+
+Insert a USB device to the USB
+port:
+
+-
+
+-
+
+2
+
+Display the [Home Menu]:
+
+-
+
+-
+
+3
+
+Select a file:
+[MOVIE], [MUSIC] or [PHOTO] option
+
+b B / ENTER
+
+b B / OK
+
+bB
+
+4
+
+Select the [USB] option:
+
+bB
+
+bB
+
+OK
+
+5
+
+Display corresponding menu list:
+[MOVIE], [MUSIC] or [PHOTO] menu
+appears.
+
+ENTER
+
+OK
+
+Card useable on this unit
+
+Notes an USB Flash Drive
+
+•
+•
+•
+•
+•
+•
+
+• Do not extract the USB device in operating.
+• We recommend that you back up your important files in the USB Flash Drive
+to protect against accidental loss.
+• If you use a USB extension cable or USB HUB, the USB device might not be
+recognized.
+• Music files (MP3/WMA), photo files (JPEG) and DivX files can be played.
+For details of operations on each files, refer to relevant pages.
+• Maximum Files/USB Flash Drive: Less than 600 (total number of files and
+folders)
+• The USB function of this unit does not support all kinds of USB devices.
+• Digital camera and mobile phone are not supported.
+• USB Port of the unit cannot be connected to PC. The unit cannot be used as
+a storage device.
+
+Secure Digital Card (SD)
+Multi Media Card (MMC)
+Memory Stick (MS)
+This unit supports only memory card with FAT12, FAT16 or FAT32 format.
+Only use the memory cards recommended above.
+The card will only fit in right direction and Do not force it.
+The card will only fit accurately when properly inserted.
+• Any memory card may not be available on the unit.
+• Do not extract the memory card while operating (play, etc.).
+
+18
+
+Notes a USB direct Recording
+
+USB Direct Recording
+Connect a USB Flash Drive to the unit before recording.
+Set [REC Bitrate] option as required. (Refer to 12 page)
+
+REMOTE
+
+LCD
+
+1
+
+Insert an Audio CD:
+
+-
+
+-
+
+2
+
+Display the [Home Menu]:
+
+-
+
+-
+
+3
+
+Select a [MUSIC] option:
+
+b B / ENTER
+
+b B / OK
+
+4
+
+Select a music from the [MUSIC]
+menu:
+
+b B / ENTER
+
+b B / OK
+
+• The recording is available only for Audio CD tracks.
+• If you use this function, the “CD_REC” folder will be created automatically in
+the USB Flash Driver then the music file(s) is saved in it.
+• If you remove USB Flash Drive or turn off the while recording, it can make a
+malfunction.
+• If the remaining space on the USB Flash Drive is insufficient, the recording is
+not available. To increase the free space, delete files in it using your PC.
+• CD-G disc and Audio CDs encoded in DTS cannot be recorded.
+• External HDD, Multi Card reader, Multi Partition USB, Memory Card, Locked
+device and MP3 player is not supported.
+• Recording format: MP3 file
+• Encoding Bitrate: 128 Kbps / 160 Kbps / 192 Kbps / 256 Kbps / 320 Kbps
+• Maximum Files/Folders: Less than 600 (total number of files and folders)
+• To go directly to track and play, enter the track number using the numbered
+buttons (0-9).
+The making of unauthorized copies of copy-protected material, including
+computer programs, files, broadcasts and sound recording, may be an
+infringement of copyrights and constitute a criminal offence.
+This equipment should not be used for such purposes.
+
+Select a recording option:
+• [All song], [Selected songs] or
+[A playing song] option
+5
+
+• [X1] or [X4] option
+- X1: It will be recored with normal
+speed and you can listen to music.
+- X4: It will be recored with 4X speed but
+you can not listen to music.
+
+6
+
+Start the recording:
+
+vV / ENTER
+
+vV / OK
+
+7
+
+Stop the recording:
+
+x STOP
+
+x
+
+Be responsible
+Respect copyrights
+
+AUDIO
+
+19
+
+Language Codes
+Use this list to input your desired language for the following initial settings: Disc Audio, Disc Subtitle, Disc Menu.
+Language
+Afar
+Afrikaans
+Albanian
+Ameharic
+Arabic
+Armenian
+Assamese
+Aymara
+Azerbaijani
+Bashkir
+Basque
+Bengali, Bangla
+Bhutani
+Bihari
+Breton
+Bulgarian
+Burmese
+Byelorussian
+Chinese
+
+Code
+6565
+6570
+8381
+6577
+6582
+7289
+6583
+6588
+6590
+6665
+6985
+6678
+6890
+6672
+6682
+6671
+7789
+6669
+9072
+
+Language
+Croatian
+Czech
+Danish
+Dutch
+English
+Esperanto
+Estonian
+Faroese
+Fiji
+Finnish
+French
+Frisian
+Galician
+Georgian
+German
+Greek
+Greenlandic
+Guarani
+Gujarati
+
+Code
+7282
+6783
+6865
+7876
+6978
+6979
+6984
+7079
+7074
+7073
+7082
+7089
+7176
+7565
+6869
+6976
+7576
+7178
+7185
+
+Language
+Hausa
+Hebrew
+Hindi
+Hungarian
+Icelandic
+Indonesian
+Interlingua
+Irish
+Italian
+Japanese
+Kannada
+Kashmiri
+Kazakh
+Kirghiz
+Korean
+Kurdish
+Laothian
+Latin
+Latvian, Lettish
+
+Code
+7265
+7387
+7273
+7285
+7383
+7378
+7365
+7165
+7384
+7465
+7578
+7583
+7575
+7589
+7579
+7585
+7679
+7665
+7686
+
+Language
+Lingala
+Lithuanian
+Macedonian
+Malagasy
+Malay
+Malayalam
+Maori
+Marathi
+Moldavian
+Mongolian
+Nauru
+Nepali
+Norwegian
+Oriya
+Panjabi
+Pashto, Pushto
+Persian
+Polish
+Portuguese
+
+Code
+7678
+7684
+7775
+7771
+7783
+7776
+7773
+7782
+7779
+7778
+7865
+7869
+7879
+7982
+8065
+8083
+7065
+8076
+8084
+
+Language
+Quechua
+Rhaeto-Romance
+Rumanian
+Russian
+Samoan
+Sanskrit
+Scots Gaelic
+Serbian
+Serbo-Croatian
+Shona
+Sindhi
+Singhalese
+Slovak
+Slovenian
+Spanish
+Sudanese
+Swahili
+Swedish
+Tagalog
+
+Code
+8185
+8277
+8279
+8285
+8377
+8365
+7168
+8382
+8372
+8378
+8368
+8373
+8375
+8376
+6983
+8385
+8387
+8386
+8476
+
+Language
+Tajik
+Tamil
+Telugu
+Thai
+Tonga
+Turkish
+Turkmen
+Twi
+Ukrainian
+Urdu
+Uzbek
+Vietnamese
+Volapük
+Welsh
+Wolof
+Xhosa
+Yiddish
+Yoruba
+Zulu
+
+Code
+8471
+8465
+8469
+8472
+8479
+8482
+8475
+8487
+8575
+8582
+8590
+8673
+8679
+6789
+8779
+8872
+7473
+8979
+9085
+
+Area Codes
+Choose an area code from this list.
+Area
+Afghanistan
+Argentina
+Australia
+Austria
+Belgium
+Bhutan
+Bolivia
+Brazil
+Cambodia
+Canada
+Chile
+China
+Colombia
+Congo
+
+20
+
+Code
+AF
+AR
+AU
+AT
+BE
+BT
+BO
+BR
+KH
+CA
+CL
+CN
+CO
+CG
+
+Area
+Costa Rica
+Croatia
+Czech Republic
+Denmark
+Ecuador
+Egypt
+El Salvador
+Ethiopia
+Fiji
+Finland
+France
+Germany
+Great Britain
+Greece
+
+Code
+CR
+HR
+CZ
+DK
+EC
+EG
+SV
+ET
+FJ
+FI
+FR
+DE
+GB
+GR
+
+Area
+Greenland
+Hong Kong
+Hungary
+India
+Indonesia
+Israel
+Italy
+Jamaica
+Japan
+Kenya
+Kuwait
+Libya
+Luxembourg
+Malaysia
+
+Code
+GL
+HK
+HU
+IN
+ID
+IL
+IT
+JM
+JP
+KE
+KW
+LY
+LU
+MY
+
+Area
+Maldives
+Mexico
+Monaco
+Mongolia
+Morocco
+Nepal
+Netherlands
+Netherlands Antilles
+New Zealand
+Nigeria
+Norway
+Oman
+Pakistan
+Panama
+
+Code
+MV
+MX
+MC
+MN
+MA
+NP
+NL
+AN
+NZ
+NG
+NO
+OM
+PK
+PA
+
+Area
+Paraguay
+Philippines
+Poland
+Portugal
+Romania
+Russian Federation
+Saudi Arabia
+Senegal
+Singapore
+Slovak Republic
+Slovenia
+South Africa
+South Korea
+Spain
+
+Code
+PY
+PH
+PL
+PT
+RO
+RU
+SA
+SN
+SG
+SK
+SI
+ZA
+KR
+ES
+
+Area
+Sri Lanka
+Sweden
+Switzerland
+Taiwan
+Thailand
+Turkey
+Uganda
+Ukraine
+United States
+Uruguay
+Uzbekistan
+Vietnam
+Zimbabwe
+
+Code
+LK
+SE
+CH
+TW
+TH
+TR
+UG
+UA
+US
+UY
+UZ
+VN
+ZW
+
+Troubleshooting
+Symptom
+No power.
+
+Specifications
+Cause
+
+Correction
+
+The power cord is disconnected.
+
+Plug the power cord into the wall
+outlet securely.
+
+The battery is discharged.
+
+Recharge the battery.
+
+The power is on,
+but the unit does
+not work.
+
+No disc is inserted.
+
+Insert a disc.
+
+No picture.
+
+The TV is not set to receive the
+signal from the unit.
+
+Select the appropriate video input
+mode on the TV.
+
+The video cable is not connected
+securely.
+
+Connect the video cable securely.
+
+The equipment connected with
+the audio cable is not set to
+receive the signal from the unit.
+
+Select the correct input mode of
+the audio amplifier.
+
+The volume is set to minimum.
+
+Use the volume controller to
+adjust the volume.
+
+The AUDIO options are set to the
+wrong position.
+
+Set the AUDIO settings to the
+correct position.
+
+The unit does
+not start playback.
+
+An unplayable disc is inserted.
+
+Insert a playable disc. (Check the
+disc type and regional code.)
+
+The rating level is set.
+
+Change the rating level.
+
+The remote
+control does not
+work properly.
+
+The remote control is not pointed
+at the remote sensor on the unit.
+
+Point the remote control at the
+remote sensor of the unit.
+
+The remote control is too far from
+the unit.
+
+Operate the remote control closer
+to the unit.
+
+No sound.
+
+General
+Power requirements
+External Dimensions
+Net Weight (Approx.)
+Operating temperature
+Operating humidity
+Laser
+Signal system
+
+12 V
+2.0 A
+(230 x 46 x 158) mm (W x H x D)
+1.4 kg (With a battery)
+0 °C to 40 °C
+5 % to 90 %
+Semiconductor laser
+PAL
+
+Connectors
+Audio/Video Output
+ø 3.5 mm mini jack x 1
+- Video: 1.0 V (p-p), 75 Ω, sync negative
+- Audio: 1.5 Vrms (1 KHz, 0 dB)
+Earphone terminal
+ø 3.5 mm stereo mini jack x 2
+
+Input
+USB IN
+Bus power supply
+
+4 pin (USB 2.0 / 1.1 standard)
+5V
+500 mA
+
+Liquid Crystal Display
+Panel size
+Projection system
+Driving system
+Resolution
+
+20.3 cm (diagonal)
+R.G.B. stripe
+TFT active matrix
+480 x 234 (WQVGA)
+
+Accessories
+•
+•
+•
+•
+•
+•
+•
+•
+
+Audio/Video Adaptor
+AC Adaptor (IM120W-200B)
+Automotive Adaptor
+Remote Control
+Battery for Remote Control (Lithium Battery)
+Battery Pack
+Carry Bag
+Car Mount
+
+Designs and specifications are subject to change without
+prior notice.
+
+21
+
+Enjoying in a car with
+the Headrest Mounting
+Bracket
+
+Separate the headrest.
+(Refer to your car’s user
+guide.)
+
+You can enjoy video in the back seat
+attaching the unit to the back of the front
+seat.
+Warnings
+• The driver must not operate this unit
+while the vehicle is moving.
+Do not operate this unit where it can be
+viewed by the driver.
+Driver operation or viewing of this unit
+while the vehicle is moving will cause
+distraction which may result in serious
+accident and personal injury or property
+damage.
+• Do not attach or detach while driving,
+and do not attach in the following locations, otherwise it may result in injury or
+traffic accidents:
+– anywhere other than the back of the
+seat
+– in a location that interferes with the
+driver’s view or operation of the car
+– in a location that interferes with the
+operation of an airbag
+– in a location that interferes with the
+driving instruments.
+• Depending on the type of headrest, you
+may not be able to attach the bracket.
+
+22 cm
+or
+less
+
+22
+
+Install the cradle as shown in
+the figure.
+Note: If you may not be able
+to install the headrest cradle
+because of the pipe thickness
+of your headrest, extend the
+cradle loosing its screws and
+reinstall it.
+
+Release
+knobs
+
+Fit the headrest mounting bracket joined the unit to the
+cradle.
+a
+
+c
+
+b
+
+d
+
+Fixing screws
+Vertical
+adjusting screw
+
+Adjust the horizontal and vertical
+angles as you
+want and enjoy the
+movies.
+
+Horizontal
+adjusting screw
+
+Put the headrest
+mounting bracket on
+the back of unit and
+fix it using the fixing
+screws.
+Note: Before fixing
+bracket, attach the battery pack.
+
+Note: When you adjust angles, loose the adjusting
+screws. Adjusting by force can lead the damage to the
+inside of your headrest mounting bracket.

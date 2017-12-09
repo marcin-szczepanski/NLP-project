@@ -1,0 +1,4372 @@
+GLG
+
+Life's Good
+
+Korisnički priručnik
+
+S podrškom za 4G LTE mrežu*
+
+HRVATSKl
+
+* Od mrežnog operatera zatražite informacije o dostupnosti 4G LTE mreže na SIM
+
+kartici
+
+. Zaslonski prikazi i ilustracije mogu se razlikovati od
+onih koje vidite na stvarnom telefonu.
+
+- Neki od sadržaja u ovom priručniku možda se ne
+odnose na vaš telefon, ovisno o softveru vašeg
+telefona ili pružatelju usluga. Sve su informacije
+u ovom dokumentu podložne promjenama bez
+prethodne obavijesti.
+
+- Ovaj telefon nije prikladan za osobe s oštećenim
+vidom zbog zaslonske tipkovnice osjetljive na dodir.
+
+. Copyright ©2016 LG Electronics, lnc. Sva prava
+pridržana. LG i LG logotip registrirani su zaštitni
+znakovi LG Grupe i srodnih entiteta. Svi ostali
+
+zaštitni znakovi vlasništvo su odgovarajućih vlasnika.
+
+- GoogleTM, Google MapsT'V', GmailT'V', YouTubeTM,
+HangoutsT'V' i Play StoreT'V' trgovački su znakovi
+tvrtke Google, lnc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Smjernice za sigurno i učinkovito
+
+korištenje .................................................. 5
+Važna obavijest ....................................... 16
+Osnovne informacije o telefonu ............. 22
+Pregled telefona .................................... 22
+Umetanje SIM kartice i baterije .............. 24
+Punjenje telefona ................................... 26
+Korištenje memorijske kartice ................ 27
+Zaključavanje i otključavanje zaslona ..... 28
+Knock Code ......................................... 29
+KnockON ............................................. 30
+Stereo slušalice s mikrofonom ............... 30
+Vaš početni zaslon .................................. 32
+Savjeti o dodirnom zaslonu .................... 32
+Početni zaslon ....................................... 33
+Prošireni početni zaslon ..................... 34
+Prilagođavanje početnog zaslona .......... 34
+Povratak na nedavno korištene
+aplikacije ............................................... 35
+Prozor s obavijestima ............................. 35
+Otvaranje prozora s obavijestima ........... 36
+ikone indikatora na statusnoj traci ......... 36
+Zaslonska tipkovnica ............................. 38
+Unos slova s dijakritičkim znakovima ..... 38
+Postavljanje Google računa .................... 39
+Povezivanje s mrežom i uređajima ........ 40
+Wi-Fi ..................................................... 40
+Povezivanje s Wi-Fi mrežama ............... 40
+
+2
+
+Uključivanje Wi-Fi tehnologije i
+
+povezivanje s Wi-Fi mrežom ................. 40
+Bluetooth ............................................... 41
+Dijeljenje podatkovne veze telefona ....... 42
+Wi-Fi Direct ........................................... 44
+Korištenje aplikacije SmartShare ............ 44
+Veze s računalom putem USB kabela ..... 45
+
+Pozivi ....................................................... 47
+Upučivanje poziva .................................. 47
+Pozivanje kontakata iz imenika .............. 47
+Odgovaranje ili odbijanje poziva ............. 47
+Podešavanje glasnoće tijekom
+razgovora .............................................. 47
+Upučivanje drugog poziva ...................... 48
+Pregled popisa poziva ............................ 48
+Postavke poziva ..................................... 49
+
+Kontakti ................................................... 50
+Traženje kontakta .................................. 50
+Dodavanje novog kontakta ..................... 50
+Favoriti .................................................. 50
+Stvaranje grupe ..................................... 51
+
+Poruke ..................................................... 52
+Slanje poruke ........................................ 52
+Poruke u nizu ........................................ 53
+Promjena postavki poruka ..................... 53
+
+E-pošta .................................................... 54
+Upravljanje računom e-pošte ................. 54
+Rad s mapama računa ........................... 54
+Sastavljanje i slanje poruka e-pošte ....... 55
+
+Fotoaparat i videozapisi ......................... 56
+Pokretanje aplikacije Fotoaparat ........... 56
+Osnovne informacije o tražilu ................ 56
+
+Snimanje fotografija ............................... 57
+Snimanje videozapisa ............................ 58
+Postavke fotoaparata i videozapisa ........ 58
+Automatsko fokusiranje u više točaka....60
+Dvostruko ............................................ 60
+Snimanje pomoću pokreta .................... 61
+Super zumiranje .................................. 62
+Pregled slika ........................................ 62
+Opcije galerije ...................................... 62
+Dodjeljivanje slika ................................ 63
+Opcije videozapisa ............................... 64
+Zumiranje uživo ................................... 65
+Dual Play ............................................... 66
+Galerija .................................................. 66
+Rad s fotografijama .............................. 67
+Dijeljenje videozapisa ........................... 68
+Brisanje videozapisa ............................. 68
+Pokretanje značajke QSlide tijekom
+reprodukcije videozapisa ...................... 68
+Funkcija .................................................. 69
+Capture+ ............................................... 69
+
+Korištenje opcija aplikacije Capture+ ....70
+Pregledavanje spremljenog podsjetnika
+
+Capture+ ........................................... 70
+QSlide .................................................... 71
+QuickRemote ......................................... 72
+Pametna tipkovnica ............................... 73
+
+Pomicanje pokazivača pomoću
+
+razmaknice .......................................... 73
+Unesite predloženu riječ pomoću
+upravljanja pokretom ............................ 74
+LG SmartWorld ...................................... 74
+Kako pristupiti aplikaciji LG SmartWorld s
+telefona ............................................... 74
+Multimedija ............................................. 76
+Glazba ................................................... 76
+Dodavanje glazbenih datoteka na
+telefon ................................................ 76
+Prenesite glazbu pomoću Medijskog
+uredaja (MTP) ...................................... 76
+Reprodukcija pjesme ............................ 76
+Uslužne značajke .................................... 79
+Postavljanje alarma ............................... 79
+Korištenje kalkulatora ............................ 79
+Dodavanje događaja u kalendar ............. 79
+Snimanje glasa ...................................... 80
+Snimanje zvuka ili glasa ....................... 80
+Slanje glasovnog zapisa ....................... 80
+Zadaci ................................................... 81
+Google+ ................................................ 81
+Glasovna pretraga ................................. 81
+Preuzimanja .......................................... 82
+Web ......................................................... 83
+Internet .................................................. 83
+Upotreba alatne trake za web ............... 83
+Pregled web-stranica ........................... 83
+
+3
+
+Otvaranje stranice ................................ 83
+
+Glasovno pretraživanje weba ................ 84
+Oznake ............................................... 84
+Prethodno ........................................... 84
+Korištenje skočnog preglednika ............ 84
+Chrome ................................................. 85
+Pregled web-stranica ........................... 85
+Otvaranje stranice ................................ 85
+Sinkronizacija s drugim uređajima ......... 85
+Postavke .................................................. 86
+Mreža .................................................... 86
+Zvuk & Obavijest .................................... 89
+Zaslon ................................................... 91
+Standardno ............................................ 93
+Računalni softver (LG Pc Suite) ........... 101
+Ažuriranje softvera telefona ................. 104
+Ažuriranje softvera telefona ................. 104
+O korisničkom priručniku ..................... 106
+0 korisničkom priručniku ..................... 106
+Trgovački znakovi ................................ 107
+DivX HD ............................................... 107
+Dolby Digital Plus ................................. 107
+DODATNA OPREMA ................................ 109
+Rješavanje problema ............................ 110
+Često postavljana pitanja ..................... 114
+
+4
+
+ 
+
+Smjernice za sigurno i učinkovito korištenje
+
+Pročitajte ove jednostavne smjernice. Nepridržavanje ovih smjernica može biti opasno ili
+nedopušteno.
+
+Ako se pojavi greška, u uređaj je ugrađen softverski alat koji sastavlja zapisnik
+pogrešaka. Taj alat prikuplja samo podatke koje se posebno odnose na pogrešku,
+
+kao što su jačina signala, položaj |D ćelije u slučaju naglog prekida poziva i učitavanja
+aplikacija. Zapisnik se koristi samo kao pomoć u utvrđivanju uzroka pogreške. Ti su
+zapisnici kodirani i može im pristupiti samo ovlašteni centar za popravke tvrtke LG pa je
+stoga potrebno predati uredaj na popravak.
+
+Izloženost energiji radiofrekventnog zračenja
+
+izloženost radiovalovima i informacije o specifičnoj brzini apsorpcije (SAR).
+
+Mobilni telefon LG-D855 dizajniran je kako bi zadovoljio važeće sigurnosne zahtjeve
+
+za izloženost radiovalovima. Ta su ograničenja dio opsežnih smjernica koje utvrđuju
+
+dopuštene razine energije RF zračenja za širu populaciju.
+
+- Standard o izloženosti zračenju za mobilne uređaje koristi mjernu jedinicu poznatu pod
+nazivom specifična brzina apsorpcije ili SAR. ispitivanja specifične brzine apsorpcije
+provedena su za uobičajene radne položaje pri čemu uredaj emitira s najvećom
+dopuštenom snagom na svim ispitivanim frekvencijama.
+
+- lako mogu postojati razlike u SAR razini između različitih modela telefona tvrtke LG,
+svi su oni dizajnirani kako bi zadovoljili važeće smjernice o izloženosti radiovalovima.
+
+- Ograničenje specifične brzine apsorpcije koje preporučuje Međunarodna Komisija za
+zaštitu od neionizirajućeg zračenja (Commission on Non-ionizing Radiation Protection,
+iCNiRP) iznosi 2 W/kg na prosječno 10 g tjelesnog tkiva.
+
+- Najviša SAR vrijednost ispitana za ovaj model telefona iznosi 0,291 W/kg (10 g), a
+kada se nosi na tijelu 0,269 W/Kg (10 g).
+
+- Ovaj uredaj udovoljava smjernicama o izloženosti RF zračenju kada se koristi u
+uobičajenom položaju uz uho ili kada se nalazi minimalno 1,5 cm od tijela. Dodatna
+oprema koja se koristi za nošenje uredaja uz tijelo - torbica, kopča za remen ili
+držač telefona - ne bi smjela sadržavati metalne dijelove i trebala bi držati uredaj
+
+m \
+
+6
+
+na minimalnoj udaljenosti od 1,5 cm od tijela. Kako bi slao podatkovne datoteke ili
+poruke, ovom je uređaju potrebna kvalitetna veza s mrežom. U nekim slučajevima
+slanje podatkovnih datoteka ili poruka može kasniti sve dok takva veza ne bude
+dostupna. Do dovršetka slanja obavezno poštujte gore navedenu udaljenost.
+
+Njega i održavanje proizvoda
+
+& UPOZORENJE
+
+Koristite samo baterije, punjače i dodatnu opremu odobrenu za korištenje
+s ovim modelom telefona. Korištenje bilo koje druge opreme može poništiti
+dopuštenje i jamstvo telefona te može biti opasno.
+
+. Nemojte rastavijati ovaj uredaj. Ako je potreban popravak, prepustite ga stručnom
+
+servisnom osoblju.
+
+. Popravak pod jamstvenim uvjetima, prema vlastitoj odluci tvrtke LG, može uključivati
+
+zamjenske dijelove ili sklopove koji su novi ili prerađeni, pod uvjetom da po
+funkcionalnosti odgovaraju dijelovima koje zamjenjuju.
+
+. Držite ga podalje od električnih uredaja poput televizora, radio aparata i osobnih
+
+računala.
+
+- Uredaj držite podalje od izvora topline poput radijatora ili kuhala.
+
+. Nemojte ga ispuštati da padne.
+
+. Nemojte izlagati uređaj mehaničkim vibracijama ili udarcima.
+
+- isključite telefon tamo gdje to nalažu posebne odredbe. Na primjer, nemojte koristiti
+
+telefon u bolnicama jer bi mogao utjecati na osjetljivu medicinsku opremu.
+
+. Ne uzimajte telefon mokrim rukama za vrijeme punjenja. To može uzrokovati strujni
+
+udar i ozbiljno oštetiti telefon.
+
+. Ne punite mobitel blizu zapaljivih materijala jer se može zagrijati i dovesti do rizika od
+pozara.
+
+. Za čišćenje vanjštine telefona koristite suhu krpicu (ne koristite otapala poput
+benzena, razrjeđivača ili alkohola).
+
+. Ne punite mobitel na mekanom pokućstvu.
+
+Mobitel se treba puniti na prozračnom mjestu.
+
+Nemojte izlagati ovaj uredaj prekomjerno] količini dima ili prašine.
+
+. Telefon nemojte držati pokraj kreditnih kartica ili putnih karata jer bi mogao utjecati na
+informacije na magnetskim vrpcama.
+
+. Ne dodirujte zaslon oštrim predmetom jer tako možete oštetiti telefon.
+
+Nemojte izlagati telefon tekućini ili vlazi.
+
+. Pažljivo koristite dodatke, kao što su slušalice. Nemojte dodirivati antenu bez potrebe.
+. Ne koristite, ne dodirujte i ne pokušavajte skinuti niti popraviti okrhnuto ili napuklo
+staklo. Jamstvo ne pokriva oštećenja staklenog zaslona koja su nastala uslijed
+zloupotrebe ili nepravilnog korištenja uređaja.
+
+. Vaš telefon elektronički je uređaj koji tijekom uobičajenog rada generira toplinu.
+izrazito dug dodir s kožom uz odsustvo odgovarajuće ventilacije može uzrokovati
+nelagodu ili lakše opekotine. Stoga budite pažljivi kada telefonom rukujete tijekom ili
+odmah nakon razgovora.
+
+Ako se telefon smoči, odmah ga iskopčajte i u potpunosti osušite. Ne pokušavajte
+ubrzati postupak sušenja korištenjem vanjskih izvora topline, poput pećnice,
+mikrovalne pećnice ili sušila za kosu.
+
+. Tekućina u mokrom telefonu mijenja boju oznake proizvoda unutar telefona. Jamstvo
+ne pokriva oštećenja uređaja nastala uslijed djelovanja tekućina.
+
+\| \
+
+Učinkovit rad telefona
+
+Elektronički uređaji
+
+Kod svih mobilnih telefona mogu se pojaviti smetnje koje mogu utjecati na njihov rad.
+
+. Mobilni telefon nemojte koristiti u blizini medicinske opreme bez dopuštenja.
+izbjegavajte zadržavanje telefona u blizini elektronskih stimulatora srca, npr. u džepu
+na prsima.
+
+. Mobilni telefoni mogu uzrokovati smetnje kod nekih slušnih uredaja.
+
+. Manje smetnje mogu nastati kod televizora, radiouređaja, računala itd.
+
+. Telefon koristite pri temperaturama od 006 do 400C, ako je to moguće. izlaganje
+telefona ekstremno niskim ili visokim temperaturama može dovesti do oštećenja,
+neispravnosti ili čak eksplozije.
+
+Pacemaker (stimulator srca)
+
+Proizvođači pacemakera (stimulator srca) preporučuju da je najmanja udaljenost
+mobilnog uređaja od pacemakera bude 15 cm kako bi izbjegli moguću interferenciju sa
+pacemakerom. Da bi se to postiglo koristite telefon na uhu koje je na suprotnoj strani
+od pacemakera i ne nosite ga u gornjem džepu.
+
+Sigurnost u vožnji
+
+Provjerite zakone i propise o upotrebi mobilnog telefona na područjima kroz koja vozite.
+
+. Telefon nemojte držati u ruci tijekom vožnje.
+
+. Svu pozornost posvetite vožnji.
+
+. Zaustavite se i parkirajte prije upućivanja ili odgovaranja na poziv ako to zahtijevaju
+uvjeti vožnje.
+
+. Energija RF zračenja može utjecati na neke elektronske sustave u vašem vozilu, kao
+što su glazbeni uređaj i sigurnosne oprema.
+
+8
+
+. Ako je vaše vozilo opremljeno zračnim jastukom, ne zakianjajte ga instaliranom ili
+prijenosnom bežičnom opremom. Zračni jastuk mogao bi neispravno funkcionirati ili
+uzrokovati ozbiljne ozljede.
+
+. Ako glazbu slušate dok ste vani i u pokretu, glasnoću postavite tako da čujete i
+zvukove iz okoline. To je naročito važno kada se nalazite u blizini prometnica.
+
+izbjegavanje oštećenja sluha
+
+& Kako ne bi došlo do oštećenja sluha, nemojte dugo slušati vrlo glasan zvuk.
+
+Do oštećenja sluha može doći ako ste dulje vrijeme izloženi jakom zvuku. Zbog toga
+
+preporučujemo da slušalice ne uključujete i ne iskijučujete dok su u blizini ušiju.
+
+Preporučujemo i da jakost zvuka glazbe i poziva postavite na umjerenu razinu.
+
+. Kada koristite slušalice, stišajte zvuk ako ne čujete osobe oko vas kada govore ili ako
+osoba koja sjedi do vas može čuti ono što slušate.
+
+NAPOMENA: Prekomjerni zvučni tlak iz slušalica može uzrokovati oštećenje
+sluha.
+
+Stakleni dijelovi
+
+Neki dijelovi vašeg mobitela su od stakla. Staklo se može slomiti ako mobitel padne na
+tvrdu površinu ili primi jači udarac. Ako se staklo slomi, nemojte ga dirati niti pokušati
+ukloniti. Uredaj nemojte koristiti dok staklo ne zamijeni ovlašteni serviser.
+
+© \
+
+Područje eksplozija
+
+Ne koristite telefon na područjima gdje postoji mogućnost eksplozije. Poštujte
+ograničenja i slijedite sve propise i pravila.
+
+Potencijalno eksplozivne atmosfere
+
+. Nemojte koristiti telefon na benzinskoj stanici.
+. Nemojte koristiti telefon u blizini goriva ili kemikalija.
+
+. Zapaljivi plin ili tekućinu te eksplozive nemojte prevoziti u odjeljku vozila u kojem se
+nalazi mobilni telefon ili dodatna oprema niti spremati u njega.
+
+U zrakoplovu
+
+Bežični uredaji mogu uzrokovati smetnje u zrakoplovu.
+. Prije ulaska u zrakoplov isključite mobilni telefon.
+. Nemojte ga koristiti u prizemljenom zrakoplovu bez dopuštenja posade.
+
+Djeca
+
+Držite telefon na sigurnom mjestu, izvan dohvata djece. Telefon sadrži i male dijelove
+koji, ako se odvoje, mogu predstavljati opasnost od gušenja.
+
+Hitni pozivi
+
+. Neke mobilne mreže možda ne omogućuju hitne pozive. Stoga se kod poziva u nuždi
+ne biste trebali oslanjati isključivo na svoj mobilni telefon. Pojedinosti zatražite od
+lokalnog davatelja usluga.
+
+. Besplatni poziv na stare brojeve hitnih službi u Republici Hrvatskoj, 93 i 94, moguće
+je ostvariti biranjem europskog broja za hitne službe 112 ili biranjem nacionalnog
+
+—10 odredišnog koda (predbroja) županije prije 9x broja.
+
+informacije o bateriji i održavanje
+
+. Prije ponovnog punjenja baterija se ne treba isprazniti u potpunosti. Za razliku od
+drugih sustava baterija, ne postoji efekt memorije koji bi mogao negativno utjecati na
+rad baterije.
+
+. Koristite samo baterije i punjače tvrtke LG. Punjači tvrtke LG su dizajnirani kako bi
+produžili vijek trajanja baterije.
+
+. Bateriju nemojte rastavijati ili izlagati kratkom spoju.
+
+. Održavajte čistoću metalnih kontakata baterije.
+
+. Zamijenite bateriju kada njezin rad više ne zadovoljava. Prije potrebe za zamjenom
+baterija se može ponovo puniti više stotina puta.
+
+. Kako biste maksimiziraii njezinu korisnost, napunite bateriju ako se nije koristila duže
+vrijeme.
+
+. Punjač baterije nemojte izlagati izravnom sunčevom zračenju niti ga koristiti kod
+visoke vlažnosti zraka, na primjer u kupaonici.
+
+. Bateriju nemojte ostavljati na vrućim ili hladnim mjestima jer to može smanjiti njezinu
+učinkovitost.
+
+. Postoji opasnost od eksplozije ako se baterija zamijeni pogrešnom vrstom baterije. Pri
+odlaganju iskorištenih baterija na otpad pridržavajte se uputa.
+
+. Ako trebate zamijeniti bateriju, odnesite je u najbliži ovlašteni servisni centar ili
+distributeru tvrtke LG Electronics.
+
+. Kada je punjenje gotovo, punjač uvijek isključite iz utičnice kako ne bi dodatno trošio
+struju.
+
+. Stvarno trajanje baterije ovisi o konfiguraciji mreže, postavkama proizvoda, uzorcima
+korištenja, stanju baterije te uvjetima u okruženju.
+
+. U kontakt s baterijom ne smiju doći oštri predmeti poput životinjskih zuba ili noktiju. To
+može uzrokovati vatru.
+
+Vodič protiv krađe
+
+Možete postaviti svoj uredaj da spriječite druge ljude da ga koriste ako je bio resetiran
+na tvorničke postavke bez vašeg dopuštenja. Primjerice, ako je vaš uredaj izgubljen,
+ukraden ili izbrisan, samo netko s podacima vašeg Google računa ili informacijom za
+zaključavanje zaslona može koristiti uredaj.
+
+Sve što trebate uraditi kako biste se osigurali da je vaš uredaj zaštićen je:
+
+. Postavite zaključavanje zaslona: ako je vaš uredaj izgubljen ili ukraden, a imate
+postavljeno zaključavanje zaslona, neće biti moguće izbrisati podatke na uređaju
+koristeći izbornik Postavke osim ako je vaš zaslon otključan.
+
+. Dodajte vaš Google račun na uređaj: ako je vaš uredaj izbrisan, a vi imate svoj
+Google račun na njemu, uredaj neće moći dovršiti postupak postavljanja dok se
+ponovno ne unese informacija o vašem Google računu.
+
+Nakon što je vaš uredaj zaštićen, morat ćete ili otključati svoj zaslon ili unijeti zaporku
+svog Google računa ako trebate izvršiti vraćanje na tvorničke postavke. Time je
+osigurano da samo vi ili netko kome vjerujete može vratiti tvorničke postavke.
+
+NAPOMENA:
+
+. Nemojte zaboraviti svoj Google račun i lozinku koje ste dodali u uređaj prije
+izvršavanje povratka na tvorničke postavke. Ako ne možete dati podatke
+o računu tijekom postupka postavljanja, nećete uopće moći koristiti uređaj
+nakon vraćanja na tvorničke postavke.
+
+izjava o sigurnosti lasera
+
+Upozorenje!
+
+Ovaj proizvod koristi laserski sustav. Za pravilno korištenje ovog proizvoda pažljivo
+pročitajte korisnički priručnik i sačuvajte ga za buduće potrebe. Za održavanje proizvoda
+obratite se ovlaštenom servisnom centru.
+
+Korištenje kontrola i prilagodbi te siijeđenje postupaka različitih od onih navedenih u
+ovom priručniku mogu dovesti do opasnog izlaganja zračenju.
+
+Kako biste spriječili izravno izlaganje laserskoj zraci, ne pokušavajte otvoriti kućište i
+izbjegavajte izravan kontakt s laserom.
+
+ 
+
+CLASS 1 LASER PRODUCT
+KLASSE 1 LASER PRODUKT
+LUOKAN 1 LASER LAlTE
+
+KLASS 1 LASER APPARAT
+CLASSE 1 PRODUIT LASER
+
+ 
+
+ 
+
+Upute za bežični punjač
+
+Uvijek koristite originalni punjač ili punjač s certifikatom o kompatibilnosti
+(sukladno standardima WPC Qi).
+
+(Bežični punjač prodaje se zasebno.)
+
+IZJAVA O SUKLADNOSTI
+
+Ovim putem tvrtka LG Electronics izjavljuje kako je proizvod LG-D855 u skladu
+s osnovnim propisima i drugim relevantnim odredbama Direktive1999/5/EC.
+Kopiju izjave o sukladnosti možete pronaći na
+http:/[www.ig.com/giobai/deciaration
+
+Ured zadužen za sukladnost ovog proizvoda:
+LG Electronics European Shared Service Center B.V.
+Krijgsman 1, 1186 DM Amstelveen, The Netherlands
+
+Ef
+
+Odlaganje starog aparata
+
+1 Električni i elektronički proizvodi ne smiju se odlagati zajedno s
+komunalnim otpadom, već na posebna odlagališta koja je odredila vlada ili
+lokalne vlasti.
+
+2 Pravilno odlaganje stare jedinice spriječit će potencijalne negativne
+posljedice po okoliš i zdravlje ljudi.
+
+3 Podrobnije informacije o odlaganju starog uredaja potražite u gradskom
+uredu, službi za odlaganje otpada ili u trgovini u kojoj ste kupili proizvod.
+
+Odlaganje starih baterija/akumulatora
+
+1 Taj se simbol može prikazivati u kombinaciji sa simbolom za živu (Hg), kadmij
+(Cd) ili olovo (Pb), ako baterija sadrži više od 0,0005 % žive, 0,002 % kadmija ili
+0,004 % olova.
+
+2 Sve bi se baterije/akumulatori trebali odlagati odvojeno od komunalnog otpada
+na posebnim odlagalištima koje je odredila vlada ili lokalne vlasti.
+
+3 ispravno odlaganje starih baterija/akumulatora pomaže u sprječavanju
+potencijalnih negativnih posljedica za okoliš te zdravije životinja i ljudi.
+
+4 Više informacija o odlaganju starih baterija/akumulatora zatražite od gradskog
+ureda, službe za odlaganje otpada ili trgovine u kojoj ste kupili proizvod.
+
+Važna obavijest
+
+Prije nego što počnete koristiti svoj telefon, pročitajte
+sljedeće napomene!
+
+Ako imate problema s telefonom, prije nego ga odnesete na popravak ili se obratite
+serviseru provjerite je li problem na koji ste naišli opisan u ovom odjeljku.
+
+1. Memorija telefona
+
+Kada u memoriji telefona ostane manje od 10% raspoloživog prostora, telefon više ne
+može primati poruke. Tada treba provjeriti količinu raspoložive memorije i izbrisati neke
+podatke, primjerice aplikacije ili poruke kako bi se oslobodila dodatna memorija.
+
+Postupak deinstalacije aplikacija:
+
+1 Dodirnite 0 > G > karticu Aplikacije > El Postavke > karticu Standardno >
+Aplikacije.
+
+2 Kada se prikažu sve aplikacije, krećite se između njih i odaberite onu koju želite
+deinstalirati.
+
+3 Dodirnite Deinstaiiraj.
+
+2. Optimizacija trajanja baterije
+Trajanje baterije možete produžiti tako što ćete isključiti značajke koje se ne trebaju
+
+stalno izvoditi u pozadini. Usto, možete pratiti kako aplikacije i resursi troše energiju
+baterije.
+
+Produljenje trajnosti baterije:
+
+. isključite radiokomunikaciju koju ne koristite. Ako ne koristite Wi-Fi, BluetoothP ili GPS,
+isključite ih.
+
+. Smanjite osvijetljenost zaslona i postavite kraće razdoblje za isključivanje zaslona.
+
+. isključite automatsku sinkronizaciju za Gmail, kalendar, imenik i ostale aplikacije.
+
+. Neke aplikacije koje ste preuzeli mogu smanjiti snagu baterije.
+
+. Dok koristite preuzete aplikacije pazite na razinu napunjenosti baterije.
+
+NAPOMENA: ako slučajno pritisnete tipku za napajanje/zaključavanje dok
+vam je uređaj u džepu, zaslon će se automatski isključiti radi uštede baterije.
+
+Postupak provjere razine napunjenosti baterije:
+
+. Dodirnite 0 > je; > karticu Aplikacije > % Postavke > karticu Standardno >
+O telefonu > Baterija.
+
+Status baterije (punjenje ili pražnjenje) i razina napunjenosti baterije (prikazana kao
+
+postotak punog kapaciteta) prikazuju se pri vrhu zaslona.
+
+Postupak nadzora korištenja baterije i upravljanje njime:
+
+. Dodirnite 0 > je; > karticu Aplikacije > % Postavke > karticu Standardno >
+O telefonu > Baterija > Korištenje baterije.
+
+Na zaslonu se prikazuje vrijeme korištenja baterije. Ono prikazuje vrijeme proteklo od
+
+posljednjeg priključivanja telefona na izvor napajanja, je li telefon trenutno priključen te
+
+trajanje posljednjeg rada na baterijsko napajanje. Zaslon prikazuje aplikacije ili usluge
+
+koje troše energiju iz baterije, redoslijedom od najveće do najmanje potrošnje energije.
+
+3. Prije instaliranja aplikacije otvorenog koda i
+operacijskog sustava
+
+& UPOZORENJE
+
+Ako instalirate i koristite operacijski sustav različit od onoga koji ste dobili od
+proizvođača, to može dovesti do kvara telefona. Uz to, telefon više neće biti
+pokriven jamstvom.
+
+& UPOZORENJE
+
+Kako biste zaštitili telefon i svoje osobne podatke, aplikacije preuzimajte samo
+iz pouzdanih izvora kao što je Play StoreT'V'. Ako neke aplikacije nisu ispravno
+instalirane na telefon, telefon možda neće ispravno raditi ili može doći do
+ozbiljne pogreške. Te aplikacije treba deinstalirati zajedno s pripadajućim
+podacima i postavkama.
+
+4. Korištenje uzorka za otključavanje
+
+Postavite uzorak za zaključavanje kako biste zaštitili telefon. Dodirnite () > 1 >
+karticu Aplikacije > E,; Postavke > karticu Zaslon > Zakijučani zaslon > Odaberi
+zaključavanje zaslona > Uzorak. Time će se otvoriti zaslon koji vas vodi kroz gestu
+za otključavanje zaslona. Trebate izraditi rezervni PlN kao mjeru predostrožnosti ukoliko
+zaboravite uzorak za otključavanje.
+
+Upozorenje: Prije postavljanja uzorka za otključavanje izradite Google račun i
+zapamtite rezervni PIN koji ste izradili tijekom kreiranja uzorka za zaključavanje.
+
+& UPOZORENJE
+
+Mjere opreza prilikom korištenja uzorka za zaključavanje.
+
+Vrlo je važno ne zaboraviti gestu uzorka za otključavanje koji postavite.
+Telefonu nećete moći pristupiti ako neispravan uzorak unesete 5 puta. imate
+5 mogućnosti za unos uzorka za otključavanje, PiN-a ili lozinke. Ako ste
+iskoristili svih 5 mogućnosti, možete pokušati ponovo nakon 30 sekundi.
+
+Ako se ne možete sjetiti uzorka za otključavanje, PIN-a iii lozinke:
+
+< Ako ste zaboravili uzorak >
+
+Ako ste se prijavili na svoj Google račun putem telefona te iz 5 pokušaja niste unijeli
+ispravan uzorak, pritisnite gumb Zaboravljen uzorak? na dnu zaslona. Nakon toga
+trebate se prijaviti na svoj Google račun ili unijeti rezervni PlN koji ste unijeli tijekom
+izrade uzorka za zaključavanje.
+
+NAPOMENA: Ako se niste prijavili koristeći Google račun i zaboravili ste
+uzorak otključavanja, morat ćete unijeti svoj rezervni PIN.
+
+5. Otvaranje aplikacija i kretanje između njih
+
+Android omogućuje jednostavnu višezadaćnost jer se istovremeno može izvršavati više
+
+aplikacija. Nema potrebe za izlaskom iz aplikacije prije otvaranja druge. Možete se
+
+prebacivati između više otvorenih aplikacija. Android upravlja svakom pojedinačnom
+
+aplikacijom, zaustavljajući ih i pokrećući prema potrebi, kako bi se osiguralo da
+
+aplikacije koje nisu aktivne bespotrebno troše resurse.
+
+1 Dodirnite tipku Nedavno El. Prikazat će se popis nedavno korištenih aplikacija.
+
+2 Dodirnite aplikaciju kojoj želite pristupiti. Time se u pozadini telefona neće prestati
+
+izvršavati prethodna aplikacija. Kako biste nakon završetka rada zatvorili aplikaciju,
+
+vdodirnite tipku Natrag <].
+
+. Zelite ii ukloniti aplikaciju s popisa nedavnih aplikacija, povucite pregled aplikacije
+ulijevo ili udesno. Za brisanje svih aplikacija dodirnite Očisti sve.
+
+6. Prijenos glazbe, fotografija i videozapisa pomoću
+značajke Sinkronizacija medija (MTP)
+
+1 Povežite uređaj s računalom pomoću USB kabela koji je isporučen uz telefon.
+
+2 Otvorite prozor s obavijestima i odaberite Medijski uređaj (MTP).
+
+3 Na računalu će se otvoriti skočni prozor putem kojeg ćete moći prenijeti željene
+podatke.
+
+NAPOMENA:
+
+. Na računalu mora biti instaliran upravljački program za platformu LG Android
+kako bi računalo prepoznalo vaš telefon.
+
+. Pogledajte zahtjeve za korištenje opcije Medijski uređaj (MTP).
+
+7. Držite telefon uspravno
+
+Mobilni telefon držite okomito, poput klasičnog telefona. Vaš telefon ima internu antenu.
+Pazite da ne ogrebete ili ne oštetite stražnju stranu telefona jer to može dovesti do
+slabijih radnih značajki.
+
+Prilikom upućivanja/primanja poziva ili slanja/primanja podataka, izbjegavajte primanje
+za donji dio telefona gdje se nalazi antena. Time biste mogli negativno utjecati na
+Waiitetu poziva.
+
+8. Ne priključujte telefon prilikom uključivanja!
+isključivanja računala
+
+Svakako isključite telefon iz računala kada ga uključujete jer bi u suprotnom moglo doći
+do pogrešaka u radu s računalom.
+
+9. Upravljanje tipkama
+
+Ako je zaslon telefona oštećen ili ne radi, možete se javljati na dolazne pozive ili
+
+isključivati alarm pomoću tipki.
+
+1 isključite telefon.
+
+2 istovremeno pritisnite tipku za napajanje/zaključavanje i tipke za glasnoću te
+zadržite pritisak dulje od 6 sekundi kako biste ušli u Upravljački mod hardverskog
+ključa.
+
+3 Pritisnite tipke za glasnoću za prelazak na željenu opciju, a zatim za potvrdu
+pritisnite tipku za napajanje/zaključavanje.
+
+. Odgovori poziv: istovremeno pritisnite tipke za glasnoću.
+
+. Zaustavi upozorenja: kada se oglasi alarm, pritisnite tipku za povećanje glasnoće
+
+ili tipku za smanjenje glasnoće i zadržite pritisak kako biste ga prekinuli.
+
+NAPOMENA: ako koristite telefon kojemu je napuklo staklo zaslona,
+napuknuće bi se moglo proširiti i mogli biste se ozlijediti. Posjetite ovlašteni
+servisni centar tvrtke LG i ostavite telefon na popravku.
+
+Osnovne informacije o telefonu
+
+ 
+
+Pregled telefona
+
+LED indikator za obavijesti
+Objektiv prednje kamere
+Senzor blizine
+
+—Slušalica
+
+ 
+
+ 
+
+ 
+
+ 
+
+— Dodirni zaslon
+
+- — Tipka za povratak
+
+. Vraća na prethodni zaslon. Osim toga, služi i za zatvaranje
+skočnih stavki poput izbornika, dijaloških okvira i
+zaslonske tipkovnice. Dodirnite i držite za pristup značajci
+
+: Podijeljeni prozor.
+
+' — Gumb za početni zaslon
+
+. Povratak na početni zaslon s bilo kojeg drugog zaslona.
+
+— Gumb nedavno korištenih aplikacija
+
+. Prikazuje nedavno korištene aplikacije. Ako dodirnete i
+držite ovu tipku, otvorit će se dostupan izbornik opcija.
+
+ 
+
+ 
+
+ 
+
+NAPOMENA: Senzor blizine
+
+Prilikom upućivanja i primanja poziva senzor blizine automatski isključuje
+pozadinsko osvjetljenje određivanjem blizine telefona uhu. Ovime se produljuje
+trajanje baterije.
+
+& UPOZORENJE
+
+Stavite li na telefon težak predmet ili sjednete na njega, mogli biste oštetiti LCD i funkcije
+dodirnog zaslona. Senzor blizine LCD-u nemojte prekrivati zaštitnom folijom. To može
+uzrokovati nepravilan rad senzora.
+
+IC (infracrveno) LED svjetlo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Automatski fokus Donji mikrofon
+
+s laserskom
+
+detekcijom — Stražnji objektiv kamere
+. . . Bljeskalica
+
+Tipka za napajanje]
+
+zaključavanje Tipke za glasnoću (kada je
+
+. Uključivanje/ zaslon isključen)
+isključivanje . Dugi pritisak za pokretanje
+telefona pritiskom i značajke Capture+
+zadržavanjem . Dugi pritisak za pokretanje
+
+. Zaključavanje/ Fotoaparata
+
+ 
+
+otključavanje zaslona
+kratkim pritiskom
+
+ 
+
+ 
+
+ 
+
+NFCvdodirnatočka— & . .
+Zvucn|k_ _ Glavni mikrofon
+
+% Punjač/USB priključak
+
+Priključak za slušalice
+
+ 
+
+ 
+
+ 
+
+ 
+
+& UPOZORENJE
+
+. Ovaj dio zatvara odjeljak za bateriju.
+
+. Pazite da ne oštetite NFC dodirnu točku na telefonu, jer ona je dio NFC
+antene.
+
+Umetanje SIM kartice i baterije
+
+Prije nego što počnete koristiti svoj novi telefon, morat ćete ga postaviti.
+
+1 Telefon čvrsto držite u ruci kako biste skinuli stražnji poklopac. Noktom palca druge
+ruke podignite poklopac baterije kao što je prikazano na slici ispod.
+
+,,
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 Umetnite SIM karticu u donji utor za SIM karticu kao što je prikazano na slici.
+Kontaktna površina na kartici zlatne boje mora biti okrenuta prema dolje.
+
+ 
+
+3 Umetnite bateriju na mjesto tako da poravnate zlatne kontakte na telefonu i bateriji
+(1) i pritisnete prema dolje kako bi sjela na mjesto (2).
+
+ 
+
+4 Postavite poklopac ležišta baterije sa samim ležištem (1) i pritisnite ga nadolje tako
+da sjedne na mjesto (2).
+
+ 
+
+Punjenje telefona
+
+Prije prve upotrebe baterija se mora do kraja napuniti. Bateriju napunite pomoću
+punjača. Za punjenje uređaja možete koristiti i računalo tako da ga priključite putem
+USB kabela.
+
+& UPOZORENJE
+
+Koristite isključivo punjače, baterije i kabele koje odobrava tvrtka LG. U slučaju
+upotrebe neodobrenih punjača, baterija ili kabela može doći do odgode
+
+u punjenju ili prikazivanja skočne poruke 0 sporijem punjenju ili pak do
+eksplodiranja baterije ili oštećenja uređaja, što nije pokriveno jamstvom.
+
+Priključak za punjač nalazi se na donjoj strani telefona. Priključite punjač i priključite ga
+na mrežnu utičnicu.
+
+ 
+
+NAPOMENA:
+. Kako biste produžili trajanje baterije, bateriju je na početku potrebno napuniti
+do kraja.
+
+. Za vrijeme punjenja telefona ne otvarajte stražnji poklopac.
+
+Korištenje memorijske kartice
+
+Vaš telefon podržava upotrebu microSDTll, microSDHCTM i microSDXCTM memorijskih
+kartica kapaciteta do 2 TB. Te memorijske kartice posebno su dizajnirane za mobilne
+telefone i druge vrlo male uređaje te su idealne za spremanje bogatih multimedijskih
+sadržaja poput glazbe, programa, videozapisa i fotografija koje želite koristiti na telefonu.
+
+Umetanje memorijske kartice:
+
+Memorijsku karticu umetnite u gornji utor za memorijsku karticu. Kontaktna površina na
+memorijskoj kartici zlatne boje mora biti okrenuta prema dolje.
+
+Postupak sigurnog vađenja memorijske kartice:
+
+Dodirnitef1> karticu Aplikacije > ['.-31 Postavke > karticu Standardno > Pohrana i
+USB > kartica SD kartica 9.
+
+ 
+
+NAPOMENA:
+
+. Koristite samo kartice kompatibilne s telefonom. Korištenje nekompatibilna
+memorijske kartice može oštetiti karticu i podatke spremljene na njoj te sam
+telefon.
+
+. Kako bi se izbjegla oštećenja kartice ili podataka koji su na njoj spremljeni,
+
+važno je karticu isključiti prije uklanjanja iz telefona. —
+
+Postupak formatiranja memorijske kartice:
+Memorijska kartica je možda već formatirana. Ako nije, morate je formatirati prije
+upotrebe.
+
+NAPOMENA: Sve datoteke na memorijskoj kartici brišu se formatiranjem
+kartice.
+
+1 Dodirnite [:] za otvaranje popisa aplikacija.
+
+2 Pomaknite se i dodirnite E] Postavke > karticu Standardno > Pohrana i USB.
+3 Dodirnite opciju SD kartica.
+
+4 Dodirnite opciju E > Postavke > Format.
+
+NAPOMENA: Ako je na memorijsku karticu već spremljen sadržaj, struktura
+mapa može biti drukčija nakon formatiranja jer će se sve datoteke izbrisati.
+
+Zaključavanje i otključavanje zaslona
+
+Ako se telefon izvjesno vrijeme ne koristi, zaslon se automatski isključuje i zaključava.
+Na taj način onemogućuje se slučajno pritiskanje i produžuje trajanje baterije.
+
+Ako ne namjeravate koristiti telefon, pritisnite tipku za napajanje/zaključavanje ©
+kako biste ga zaključali.
+
+Ako je pri zaključavanju zaslona pokrenut neki program, taj program može ostati aktivan
+i u zaključanom načinu rada. Preporučuje se da prije aktiviranja zaključanog načina rada
+zatvorite sve programe kako biste izbjegli plaćanje nepotrebnih naknada (npr. za pozive,
+pristupanje internetu i prijenos podataka).
+
+Želite li aktivirati telefon, pritisnite tipku za napajanje/zaključavanje G. Prikazat će
+se zaključani zaslon. Kako biste otključati početni zaslon, dodirnite i povucite prstom
+u bilo kojem smjeru na zaključanom zaslonu. Otvorit će se zaslon koji je bio posljednji
+prikazan.
+
+Knock Code
+
+Značajka Knock Code omogućuje vam jednostavno uključivanje ili isključivanje zaslona
+pomoću vlastitog Knock Code uzorka koji se iscrtava na zaslonu podijeljenom na 4
+kvadrata. Ovu značajku možete onemogućiti u postavkama opcije Zaključani zaslon.
+
+NAPOMENA:
+. Ako 6 puta unesete pogrešan Knock Code uzorak, obavezno ćete se
+morati prijaviti pomoću svog Google računa ili unijeti rezervni PIN.
+
+. Za uključivanje ili isključivanje zaslona dodirom koristite jagodicu prsta, a ne
+nokat.
+
+. Ako se značajka Knock Code ne koristi, dodirivanjem zaslona možete
+koristiti značajku Knock On.
+
+1 Na početnom zaslonu dodirnite [:] tipku Aplikacije > [3] Postavke > karticu
+Zaslon.
+
+2 Dodirnite Zaključani zaslon > Odaberi zaključavanje zaslona > Knock Code.
+
+3 Knock code uzorak postavite dodirujući loladrate određenim redoslijedom.
+
+ 
+
+Pomoću muck Golfe motela ultu-'all uzoru): na
+ollsrju'cavanje zaslona bez uključivanja zaslona
+
+Kada |E zaslon Isključen, dodirnite vaš Knock
+(zada allo gd|E na zaalnnu bila ka'e velićine za am
+pl'ls'ma '! početnom zaslonu
+
+ 
+
+Knud: code mura sadrzava" najmanje 5 dodirai
+lrebale koristili najmanje 3 različita kl.-limu.
+
+DDdlmrtE 'Dalje' i deESILE lmlxk Enda
+
+ 
+
+ 
+
+IZLAZ DALJE
+
+ 
+
+Otključavanje zaslona pomoću značajke Knock Code
+
+Zaslon možete otključati unosom uzorka za značajku Knock Code koji ste upravo
+postavili.
+
+1 Kada se zaslon isključi, pritisnite tipku Napajanje.
+
+2 Dodirom iscrtajte prethodno postavljeni Knock Code uzorak.
+
+KnockON
+
+Dodirnite dvaput kako biste zaključali ili otključati zaslon.
+
+Brzo dvaput dodirnite središnji zaslon kako biste ga otključati. Kako biste zaključali
+zaslon, dvaput dodirnite statusnu traku na bilo kojem zaslonu (osim na tražilu
+fotoaparata) ili praznu površinu na početnom zaslonu.
+
+NAPOMENA: Prilikom uključivanja zaslona nemojte prekriti senzor blizine.
+Ako to učinite, zaslon će se isključiti neposredno nakon uključivanja, čime
+sprečava nehotično uključivanje dok se nalazi u džepu ili torbici.
+
+Stereo slušalice s mikrofonom
+
+Dok su slušalice priključene, možete uživati u glazbi ili videozapisima sa stereo zvukom i
+jednostavno se prebacivati s glazbe/videozapisa kako biste preuzeli ili prekinuli pozive.
+
+< Prednja strana >
+
+_ Tipke za pojacavanje/stisavanje zvuka
+ICDD]!
+
+Tipka za pozivanje/prekid poziva
+
+. U slučaju dolaznog poziva, pritisnite za primanje ili prekid
+poziva.
+
+. Ako slušate glazbu, pritisnite za zaustavljanje ili nastavak
+reprodukcije. Dvaput pritisnite za reprodukciju sljedeće
+
+pjesme.
+
+< Stražnja strana >
+
+IEEE]:
+Mikrofon
+1 Uključite slušalice kao što je prikazano u nastavku.
+
+/ \
+
+*-?
+
+=d
+
+2 U slučaju dolaznog poziva dok su na telefon priključene slušalice, pritisnite
+kako biste preuzeli poziv.
+3 Za prekid poziva ponovno pritisnite tipku ..
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vaš početni zaslon
+
+Savjeti o dodirnom zaslonu
+
+Slijedi nekoliko savjeta za kretanje kroz sadržaj uređaja.
+
+Dodirnite — jednim dodirom prsta odabirete stavke, veze, prečace i slova tipkovnice na
+zaslonu.
+
+Dodirnite i zadržite dodir — dodirnite i držite stavku na zaslonu na način da je
+dodirnete i ne dižete prst dok se ne pokrene željena radnja. Na primjer, kako biste
+otvorili opcije vezane uz određeni kontakt, dodirnite i zadržite kontakt na popisu
+kontakata dok se ne otvori kontekstualni izbornik.
+
+Povucite — nakratko dodirnite i zadržite stavku, a zatim je, bez podizanja prsta, povucite
+na željeno mjesto na zaslonu. Možete povlačiti stavke na početnom zaslonu kako biste
+ima promijenili raspored.
+
+Povucite prstom ili kliznite — za povlačenje prstom ili klizanje brzo pomaknite prst
+po površini zaslona bez zastajkivanja nakon prvog dodira (tako da ne povučete neku
+stavku). Na primjer, možete kliznuti po zaslonu prema gore ili dolje kako biste se kretali
+kroz popis ili pregledavali različite početne zaslone povlačenjem prsta slijeva nadesno
+(ili obrnuto).
+
+Dvostruki dodir — dodirnite dvaput ako želite zumirati na web-stranici ili karti. Na
+primjer, brzo dvaput dodirnite odjeljak web-stranice kako biste prilagodili veličinu tog
+odjeljka veličini zaslona. Tijekom pregledavanja, sliku također možete povećavati i
+smanjivati dvostrukim dodirom.
+
+Zumiranje privlačenjem prstiju — kažiprst i palac možete privlačiti ili razdvajati kako
+biste povećali ili smanjili sliku dok koristite pretraživač i karte ili dok pregledavate slike.
+Zakrenite zaslon — u mnogim aplikacijama i izbornicima orijentacija zaslona
+prilagođava se fizičkoj orijentaciji uređaja.
+
+NAPOMENA:
+Kako biste odabrali stavku, dodirnite središte ikone.
+
+. Ne pritišćite presnažno; zaslon" je dovoljno osjetljiv za prepoznavanje laganih,
+odmjerenih pritisaka.
+
+. Željenu opciju dodirnite vrškom prsta. Pazite da ne dodirnete okolne tipke.
+
+Početni zaslon
+
+Početni zaslon je početna točka za brojne aplikacije i funkcije. Osim toga, omogućuje
+i dodavanje stavki poput prečaca za aplikacije ili Google Widgeta koji pružaju trenutan
+pristup informacijama i aplikacijama. To je zadani prozori možete mu pristupiti izbilo
+kojeg izbornika, dodirom na tipku O.
+
+Traka stanja
+Prikaz informacija o statusu telefona, uključujući
+
+ 
+
+ 
+
+Widget
+
+Widgeti su samostalne aplikacije kojima možete
+pristupiti putem zaslona Aplikacije, s početnog zaslona
+ili pak s proširenog početnog zaslona. Za razliku od
+prečaca, Widget se prikazuje kao aplikacija na zaslonu.
+Ikone aplikacije
+
+Dodirnite ikonu( (aplikaciju, mapu itd) koju želite otvoriti
+i koristiti.
+
+indikator lokacije
+
+Označava koji prozor početnog zaslona gledate.
+Površina za brze tipke
+
+Omogućava pristup funkciji iz bilo kojeg prozora
+početnog zaslona jednim dodirom.
+
+Početni gumbi osjetljivi na dodir
+
+ 
+
+ 
+
+ 
+
+vrijeme, jačinu signala, status baterije i ikone obavijesti.
+
+Prošireni početni zaslon
+Operacijski sustav osigurava prikaz više prozora početnog zaslona kako bi se osiguralo
+više prostora za dodavanje ikona, Widgeta i još mnogo toga.
+
+» Prstom povucite ulijevo ili udesno preko početnog zaslona.
+
+Prilagođavanje početnog zaslona
+
+Početni zaslon možete prilagoditi dodavanjem aplikacija, Widgeta i mijenjanjem
+pozadina.
+
+Postupak dodavanja stavki na početni zaslon
+
+1 Dodirnite i držite prazni dio površine na početnom zaslonu.
+
+2 U izborniku aplikacija odaberite stavku koju želite dodati. Dodanu ćete stavku potom
+moći vidjeti na početnom zaslonu.
+
+3 Povucite je na željenu lokaciju te podignite prst.
+
+SAVJET! Za dodavanje aplikacije na početni zaslon u izborniku Aplikacije
+dodirnite i držite aplikaciju koju želite dodati.
+
+Brisanje stavke s početnog zaslona
+» Početni zaslon > dodirnite i držite ikonu koju želite ukloniti > povucite je u B.
+Dodavanje aplikacije kao brze tipke
+» Dok se nalazite u izborniku Aplikacije ili na početnom zaslonu, dodirnite ikonu
+aplikacije i zadržite dodir, a zatim je prevucite na površinu za brze tipke. Možete
+dodati do 7 aplikacija.
+Uklanjanje aplikacije iz površine za brze tipke
+» Dodirnite željenu brzu tipku i zadržite dodir te je prevucite u B.
+
+NAPOMENA: E Tipku Aplikacije ne možete ukloniti.
+
+Prilagođavanje ikona aplikacija na početnom zaslonu
+
+1 Dodirnite ikonu aplikacije i zadržite dodir sve dok se ne otključa iz trenutnog
+položaja. Zatim je ispustite na zaslon. U gornjem desnom kutu aplikacije prikazat će
+se ikona za uređivanje &.
+
+2 Ponovno dodirnite ikonu aplikacije te odaberite željeni dizajn i veličinu ikone.
+
+3 Za spremanje promjena dodirnite U redu.
+
+Povratak na nedavno korištene aplikacije
+
+1 Dodirnite El. Prikazat će se popis nedavno korištenih aplikacija.
+2 Dodirnite ikonu kako biste otvorili povezanu aplikaciju. Osim toga, možete dotaknuti
+i <] za povratak na prethodni zaslon.
+
+Prozor s obavijestima
+
+Obavijesti su upozorenja za primitak novih poruka, događaje iz kalendara i alarme te za
+trenutne događaje, npr. kao što je razgovor s nekime.
+
+Nakon primitka obavijesti, pripadajuća ikona prikazat će se na vrhu zaslona. ikone
+obavijesti na čekanju prikazuju se s lijeve strane, a ikone sustava kao što su Wi-Fi ili
+snaga baterije s desne.
+
+NAPOMENA: Dostupne opcije mogu se razlikovati ovisno o regiji ili davatelju
+usluga.
+
+Obavijesti Obavijesti sustava
+na čekanju
+
+ 
+
+Otvaranje prozora s obavijestima
+Kako biste otvorili prozor s obavijestima, povucite prema dolje sa statusne trake.
+
+ 
+
+Površina za brzu izmjenu
+
+Dodirnite svaku od tipki za izmjenu kako biste je
+uključili/isključili. Dodirnite tipku i zadržite dodir kako
+biste pristupili izborniku s postavkama za funkciju. Za
+prikaz više tipki za izmjenu povucite prstom ulijevo ili
+udesno. Za uklanjanje, dodavanje ili preslagivanje tipki
+za izmjenu dodirnite E.
+
+Obavijesti
+Prikazat će se popis trenutnih obavijesti s kratkim
+opisima. Zelite li je prikazati, dodirnite obavijest.
+
+Želite li zatvoriti prozor s obavijestima, dodirnite karticu i
+povucite je prema vrhu zaslona.
+
+Ikone indikatora na statusnoj traci
+
+ikone indikatora prikazuju se na statusnoj traci na vrhu zaslona i upućuju na propuštene
+pozive, nove poruke, događaje u kalendaru, status uređaja itd.
+
+ 
+
+ikone koje se prikazuju na vrhu zaslona pružaju informacije o statusu uređaja. U tablici u
+nastavku prikazane su neke od uobičajenih ikona.
+
+ 
+
+ 
+
+ 
+
+ikona Opis Ikona Opis
+SIM kartica nije umetnuta Zvonjava je utišana
+Signal mreže nije dostupan m NaCl“ rada S VlbraCljom Je
+
+ 
+
+ 
+
+aktiviran
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ikona Opis Ikona Opis
+
+5131qu grada u avionu je [I Baterija je puna
+
+Priključeno na Wi-Fi mrežu ! Baterija se puni
+F.“! Žičane slušalice su E Telefon je priključen na
+
+prlkijucene racunalo putem USB kabela
+
+Poziv u tijeku E Preuzimanje podataka
+Propušten poziv E Prijenos podataka
+
+. Bluetooth je uključen [] GPS je uključen
+
+NFC je uključen E Nova Gmail poruka
+
+[5 Upozorenja sustava E Nova Hangouts poruka
+
+& Alarm je postavljen Odaberite način unosa
+3122111135318“ ““““ 5035215519515.išta].
+EI Nova tekstna poruka “% Aktivan je Wi-Fi hotspot
+': gjšláenkg je reprodukcua
+
+ 
+
+ 
+
+NAPOMENA: Smještaj ikona u statusnoj traci može se razlikovati s obzirom
+na funkciju ili uslugu.
+
+Zaslonska tipkovnica
+
+Tekst možete unositi pomoću zaslonske tipkovnice. Zaslonska tipkovnica se prikazuje
+automatski na zaslonu kada želite unijeti tekst. Za ručni prikaz tipkovnice, jednostavno
+dodirnite polje za tekst ondje gdje želite unijeti tekst.
+
+Korištenje tipkovnice i unos teksta
+
+a Dodirnite jednom kako bi se slovo koje unosite promijenilo u veliko tiskano.
+Dodirnite dvaput za sva velika slova.
+
+Dodirnite za promjenu tipkovnice u numeričku i tipkovnicu sa simbolima.
+
+á Dodirnite za pristup postavkama tipkovnice. Dodirnite i držite kako biste pristupili
+značajkama unosa teksta glasom, rukopisa ili značajci Clip Tray.
+
+Dodirnite za unos razmaka.
+
+E] Dodirnite za stvaranje nove linije.
+
+Dodirnite za brisanje prethodnog znaka.
+
+Unos slova s dijakritičkim znakovima
+
+Kada je kao jezik unosa odabran francuski ili španjolski, moći ćete unijeti posebne
+znakove koji se koriste u francuskom i španjolskom (npr. "á").
+
+Za unos slova "á", primjerice, dodirnite i držite tipku "a" do povećanja tipke i prikaza
+znakova za različite jezike.
+
+Zatim odaberite znak koji želite unijeti.
+
+Postavljanje Google računa
+
+Pri prvom uključivanju telefona imate mogućnost aktivacije mreže, prijave na svoj
+Google račun te odabira načina korištenja nekih Google usluga.
+
+Postupak postavljanja Google računa:
+
+. Prijavite se u Google račun sa skočnog zaslona za postavljanje.
+ILI
+. Dodirnite 0 > EJ? karticu Aplikacije > odaberite Google aplikaciju, kao što je
+Gmail > PRESKOCI > odaberite Dodavanje druge adrese e-pošte kako biste
+stvorili novi ili dodali svoj račun.
+Nakon što na telefonu postavite Google račun, telefon će vam se automatski
+sinkronizirati 5 Google računom na webu.
+Vaši se kontakti, Gmail poruke, kalendarski događaji i ostale informacije iz tih aplikacija
+i usluga na webu sinkroniziraju s vašim telefonom. (sinkronizacija ovisi o postavkama
+sinkronizacije).
+Nakon prijave možete koristiti GmailT'VI i uživati u prednostima Google usluga na svojem
+telefonu.
+
+ 
+
+Povezivanje s mrežom i uređajima
+Wi-Fi
+
+Uz Wi-Fi možete koristiti brzi internetski pristup unutar dosega točke za bežični pristup
+(AP). Uz Wi-Fi možete uživati u bežičnom internetu bez dodatnih naknada.
+
+Povezivanje s Wi-Fi mrežama
+
+Za korištenje Wi-Fi veza putem telefona treba pristupiti bežičnoj pristupnoj točki ili
+"hotspotu". Neke su pristupne točke otvorene i jednostavno se možete povezati s njima.
+Druge su skrivene ili koriste sigurnosne značajke, tako da je za povezivanje s njima
+potrebna konfiguracija telefona.
+
+isključite Wi-Fi kada ga ne koristite kako biste produžili trajanje baterije.
+
+NAPOMENA: Ako se nalazite izvan Wi-Fi zone ili ste Wi-Fi postavili na
+ISKLJUCENO, mobilni operater vam može naplatiti dodatne naknade za
+korištenje mobilnog podatkovnog prometa.
+
+Uključivanje Wi-Fi tehnologije i povezivanje s Wi-Fi mrežom
+1 Dodirnite 0 > E > karticu Aplikacije > 5 Postavke > karticu Mreža > Wi-Fi.
+2 Postavite Wi-Fi na Uključeno kako biste ga aktivirali i počnite tražiti dostupne
+Wi-Fi mreže.
+3 Ponovo dodirnite izbornik Wi-Fi za prikaz popisa aktivnih Wi-Fi mreža unutar
+dosega.
+. Zaštićene mreže prikazuju se s ikonom iokota.
+4 Dodirnite mrežu kako biste se povezali s njom.
+. Ako je mreža zaštićena, od vas se traži unos lozinke ili drugih vjerodajnice.
+(dodatne pojedinosti zatražite od administratora mreže).
+
+5 Statusna traka prikazuje ikone koje označavaju status Wi-Fi mreže.
+
+Bluetooth
+
+Bluetooth možete koristiti za slanje podataka tako da uključite odgovarajuću aplikaciju, a
+ne pomoću izbornika Bluetooth kako je to slučaj na većini drugih mobilnih telefona.
+
+NAPOMENA:
+. Tvrtka LG ne odgovara za gubitak, presretanje ili zloupotrebu podataka
+poslanih ili primljenih putem bežične Bluetooth veze.
+
+. Uvijek vodite računa da podatke dijelite i primate s pravilno zaštićenih
+i pouzdanih uređaja. Ako se među uređajima nalaze prepreke, radna
+udaljenost može se smanjiti.
+
+. Neki uređaji, a osobito oni koje nije testirao i odobrio Bluetooth SIG, mogu
+biti nekompatibilni s vašim uređajem.
+
+Uključivanje funkcije Bluetooth i usklađivanje telefona s Bluetooth uređajem
+
+Uređaj morate upariti s drugim uređajem prije povezivanja.
+
+1 Dodirnite 0 > ,}; > karticu Aplikacije > Ej Postavke > karticu Mreža >
+postavite Bluetooth na Uključeno.
+
+2 Ponovno dodirnite izbornik Bluetooth.
+
+3 S popisa odaberite uređaj s kojim se želite uskladiti.
+Po dovršetku usklađivanja vaš se uređaj povezuje s drugim uređajem.
+
+NAPOMENA: Neki uređaji, naročito slušalice ili hands-free kompleti za
+automobile mogli bi imati fiksni Bluetooth PIN, npr. 0000. Ako drugi uređaj ima
+PIN, trebate ga unijeti.
+
+Bežično slanje podataka pomoću značajke Bluetooth
+
+1 Odaberite datoteku ili stavku, primjerice kontakt, kalendarski događaj ili
+multimedijsku datoteku iz odgovarajuće aplikacije ili značajke Preuzeto.
+
+2 Odaberite opciju slanja podataka putem značajke Bluetooth.
+
+NAPOMENA: Način odabira te opcije može ovisiti o vrsti podataka.
+
+3 Potražite uređaj s omogućenom značajkom Bluetooth i uskladite se s njim.
+
+Bežično primanje podataka pomoću značajke Bluetooth
+1 Dodirnite 0 > Lj > karticu Aplikacije > E] Postavke > karticu Mreža >
+postavite Bluetooth na Uključeno.
+
+2 Odaberite USKLADI kako biste potvrdili da ste spremni primiti podatke stog
+uređaja.
+
+Dijeljenje podatkovne veze telefona
+
+USB tethering povezivanje i prijenosni Wi-Fi hotspot su iznimno korisne značajke u
+
+slučaju kada nema dostupnih bežičnih veza. Mobilnu podatkovnu vezu telefona možete
+
+dijeliti s računalom putem USB kabela (USB tethering povezivanje). Podatkovnu vezu
+
+telefona također možete istovremeno dijeliti s više uređaja na način da pretvorile telefon
+
+u prijenosni Wi-Fi hotspot.
+
+Kada telefon dijeli vezu, u statusnoj traci se prikazuje ikona i obavijest u odjeljku s
+
+obavijestima.
+
+Najnovije informacije o internetu putem mobitela i prijenosnim hotspotovima, uključujući
+
+podržane operativne sustave i ostale pojedinosti potražite na http://WWW.android.com/
+
+tether.
+
+Dijeljenje podatkovne veze telefona kao prijenosnog Wi-Fi hotspota
+
+1 Dodirnite 0 > Lj > karticu Aplikacije > E] Postavke > karticu Mreža >
+Tethering > Wi-Fi hotspot za aktivaciju.
+
+2 Unesite lozinku i dodirnite Spremi.
+
+SAVJET! Ako je na računalo instaliran sustav Windows 7 ili jedna od
+najnovijih distribucija sustava Linux (npr. Ubuntu), najvjerojatnije nećete morati
+računalo posebno pripremati za tethering povezivanje. Međutim, koristite
+
+ii stariju verziju sustava Windows ili neki drugi operacijski sustav, možda
+
+ćete morati pripremiti računalo za uspostavu USB mrežne veze. Najažurnije
+informacije o tome koji operacijski sustavi podržavaju USB tethering
+povezivanje i o načinu njihove konfiguracije potražite na web-stranici http://
+www.android.oom/tether.
+
+Promjena naziva i zaštita prijenosnog hotspota
+Možete promijeniti naziv (SSID) Wi-Fi mreže telefona i zaštititi njegovu Wi-Fi mrežu.
+
+1 Dodirnite () > (3:1 > karticu Aplikacije > E“] Postavke > karticu Mreža >
+
+Tethering > Wi-Fi hotspot.
+
+2 Dodirnite Podesite Wi-Fi hotspot.
+
+. Otvorit će se dijaloški okvir Podesite Wi-Fi hotspot.
+
+. Možete promijeniti Wi-Fi naziv (SSID) koji će drugi uređaji vidjeti tijekom
+pretraživanja Wi-Fi mreža.
+
+. Možete dodirnuti i izbornik Sigurnost kako biste konfigurirati mrežu pomoću
+sustava zaštite Wi-Fi Protected Access 2 (WPA2) s unaprijed dodijeljenim
+sigurnosnim ključem (PSK).
+
+. Ako dodirnete sigurnosnu opciju WPA2 PSK, u dijaloški okvir Podesite Wi-Fi
+hotspot dodaje se polje lozinke. Unesete ii lozinku, tu ćete lozinku morati unositi
+prilikom povezivanja na hotspot telefona pomoću računala ili drugog uređaja.
+Možete dodirnuti Otvori u izborniku Sigurnost kako biste uklonili zaštitu Wi-Fi
+mreze.
+
+3 Dodirnite Spremi.
+
+POZOR! Ako opciju zaštite postavite na Otvori, nećete moći spriječiti druge
+osobe da neovlašteno koriste internetske usluge, što može dovesti do
+povećanja troškova. Kako biste izbjegli neovlašteno korištenje, preporučujemo
+da omogućite opciju zaštite.
+
+44
+
+Wi-Fi Direct
+
+Wi-Fi Direct podržava izravno povezivanje uređaja s Wi-Fi vezom, bez potrebe za
+pristupnom točkom. Značajka Wi-Fi Direct brzo crpi bateriju i stoga preporučamo da
+tijekom njenog korištenja telefon priključite u strujnu utičnicu. Prethodno provjerite svoju
+Wi-Fi iWi-Fi Direct mrežu i uvjerite se da su korisnici spojeni na istu mrežu.
+Uključivanje značajke Wi-Fi Direct:
+
+1 Dodirnite 0 > (3 > karticu Aplikacije > [3] Postavke > karticu Mreža > Wi-Fi.
+2 Dodirnite tipku izbornika " > Napredni Wi-Fi > Wi-Fi Direct.
+
+3 Na popisu pronađenih uređaja odaberite uređaj s kojim želite uspostaviti vezu.
+
+Korištenje aplikacije SmartShare
+
+SmartShare koristi tehnologiju DLNA (Digital Living Network Alliance) za dijeljenje
+
+digitalnog sadržaja putem bežične mreže. Ova značajka podržana je samo ako oba
+
+uređaja podržavaju DLNA. Značajku SmartShare možete koristiti u aplikacijama Galerija
+
+i Glazba.
+
+1 Za sadržaj koji želite reproducirati ili prenijeti dodirnite ili tipku izbornika " >
+
+SmartShare.
+
+2 Dodirnite Play ili Beam u dijaloškom okviru.
+
+. Play: Sadržaj možete usmjeravati putem televizora, Bluetooth zvučnika itd.
+
+. Beam: Sadržaj možete slati na Bluetooth uređaje ili SmartShare Beam* — podržani
+telefoni ili tableti LG.
+
+. *SmartShare Beam služi za brz prijenos multimedijskog sadržaja putem Wi-Fi Direct
+veze.
+
+3 Za reprodukciju ili primanje na popis dodirnite uređaj.
+
+. Ako uređaj nije na popisu, provjerite jesu ili uključene Wi-Fi, Wi-Fi Direct ili Bluetooth
+veza na uređaju. Zatim dodirnite Ponovi scan.
+
+4 Dodirnite Šalji.
+
+Kako biste na telefonu mogli uživati u sadržajima s obližnjih uređaja, kao što su
+računalo ili mobilni uređaj
+
+1 Kako biste povezali obližnje uređaje s telefonom, dodirnite Obližnji uređaji za
+aplikaciju Galerija, Glazba kako je prikazano u nastavku.
+
+<Galerija> <Glazba>
+
+ 
+
+ 
+
+   
+
+. Telefon i obližnji uređaji moraju biti povezani u istu Wi-Fi mrežu.
+. Provjerite je li uključena značajka DLNA za obližnje uređaje.
+
+2 Za povezivanje dodirnite uređaj.
+Ako se uređaj ne nalazi na popisu, dodirnite Pretražite obližnje uređaje.
+Nakon povezivanja, na telefonu ćete moći uživati u sadržaju s obližnjih uređaja.
+
+Veze s računalom putem USB kabela
+
+Upoznavanje s povezivanjem uređaja i računala pomoću USB kabela prilikom USB
+načina povezivanja.
+
+Prijenos glazbe, fotografija i videozapisa pomoću načina za masovno spremanje
+na USB
+
+1 Povežite uređaj s računalom pomoću USB kabela koji je isporučen uz telefon.
+
+2 Otvorite prozor s obavijestima i odaberite Medijski uređaj (MTP).
+
+3 Na računalu će se otvoriti skočni prozor putem kojeg ćete moći prenijeti željene
+podatke.
+
+NAPOMENA:
+
+. Na računalu mora biti instaliran upravljački program za platformu LG Android
+kako bi računalo prepoznalo vaš telefon.
+
+. Pogledajte zahtjeve za korištenje opcije Medijski uređaj (MTP).
+
+Sinkronizacija s aplikacijom Windows Media Player
+
+Provjerite je li na računalu instaliran Windows Media Player.
+
+1 Pomoću USB kabela povežite telefon i računalo s instaliranom aplikacijom Windows
+Media Player.
+
+2 Odaberite opciju Medijski uređaj (MTP). Kada priključite uređaj, na zaslonu
+računala otvara se skočni prozor.
+
+3 Otvorite Windows Media Player za sinkronizaciju glazbenih datoteka.
+
+4 Uredite ili unesite naziv uređaja u skočni prozor (ako je potrebno).
+
+5 Odaberite i odvucite željene glazbene datoteke do popisa za sinkronizaciju.
+
+6 Pokrenite sinkronizaciju.
+
+. Za sinkronizaciju s aplikacijom Windows Media Player trebaju biti ispunjeni sljedeći
+uvjeti.
+
+Stavke Uvjet
+OS Microsoft Windows XP SP2, Vista ili noviji sustav
+Verzija aplikacije Window Media
+
+Player Windows Media Player 10 ili novua verzija
+
+. Ako je verzija aplikacije Windows Media Player starija od verzije 10, instalirajte verziju
+10 ili noviju.
+
+Pozivi
+
+Upučivanje poziva
+
+1 Dodirnite za otvaranje tipkovnice.
+
+2 Unesite broj pomoću tipkovnice. Za brisanje znamenke dodirnite ikonu .
+3 Za upućivanje poziva dodirnite ikonu-.
+
+4 Za prekid poziva dodirnite ikonu Kraj n.
+
+SAVJET! Za unos znaka “+" za međunarodne pozive dodirnite i držite ..
+
+Pozivanje kontakata iz imenika
+
+1 Za otvaranje imenika dodirnite li
+
+2 Krećite se kroz popis kontakata ili unesite prvih nekoliko slova kontakta koji želite
+pozvati tako da dodirnete Pretraži kontakte.
+
+3 Na popisu dodirnite kontakt \. kojega želite pozvati.
+
+Odgovaranje ili odbijanje poziva
+
+Ako primite poziv dok je uređaj zaključan, povucite :. u bilo kojem smjeru kako biste
+prihvatili dolazni poziv.
+
+Povucite -— u bilo kojem smjeru kako biste odbili dolazni poziv.
+
+NAPOMENA: Dodirnite ili prstom povucite gumb Odbaci s porukom ako
+pozivatelju radije želite poslati poruku.
+
+Podešavanje glasnoće tijekom razgovora
+
+Jakost zvuka tijekom razgovora podesite pomoću tipke za pojačavanje i stišavanje zvuka
+na stražnjoj strani telefona.
+
+Upučivanje drugog poziva
+
+1 Tijekom prvog poziva dodirnite tipku izbornika " > Dodaj pozivi birajte broj.
+Možete prikazati i popis nedavno biranih brojeva tako da dodirnete Prethodno ili
+možete pretraživati kontakte tako što ćete dodirnuti Kontakti i odabrati broj koji
+želite nazvati. Kontakte možete pretraživati i tako da dodirnete Favoriti ili Grupe.
+
+2 Za upućivanje poziva dodirnite ikonu ..
+
+3 Oba poziva će se prikazati na zaslonu poziva. Početni poziv će biti zaključan i
+stavljen na čekanje.
+
+4 Za prebacivanje između poziva dodirnite prikazani broj. Umjesto toga, možete
+dodirnuti & Spoji kako biste pokrenuli konferencijski poziv.
+
+5 Za prekidanje aktivnog poziva dodirnite Kraj ili dodirnite O i povucite traku
+obavijesti prema dolje te odaberite ikonu Završi poziv n .
+
+NAPOMENA: Naplaćuje se svaki poziv koji uputite.
+
+Pregled popisa poziva
+
+Na početnom zaslonu dodirnite i odaberite Prethodno.
+Pregled cjelovitog popisa svih poziva koje ste birali, primili i propustili.
+
+SAVJET!
+. Dodirnite bilo koji unos u dnevniku poziva kako biste vidjeli datum, vrijeme i
+trajanje poziva.
+
+. Dodirnite tipku izbornika ", a zatim dodirnite Izbriši sve kako biste izbrisali
+sve snimljene stavke.
+
+Postavke poziva
+
+Možete konfigurirati postavke poziva kao što su prosljeđivanje poziva i ostale posebne
+značajke koje nudi vaš davatelj usluga.
+
+1 Na početnom zaslonu dodirnite ..
+
+2 Dodirnite "-
+
+3 Dodirnite Pozivi i odaberite opcije koje želite prilagoditi.
+
+U telefon možete dodavati kontakte i sinkronizirati ih s kontaktima iz svog Google
+računa ili drugih računa koji podržavaju sinkroniziranje kontakata.
+
+Traženje kontakta
+
+Na početnom zaslonu.
+1 Za otvaranje imenika dodirnite i,.
+2 Dodirnite Pretraži kontakte i unesite ime kontakta pomoću tipkovnice.
+
+Dodavanje novog kontakta
+
+1 Dodirnite ., unesite broj novog kontakta i zatim dodirnite tipku izbornika !-
+Dodirnite Dodaj kontaktima > Novi kontakt.
+
+2 Dodirnite područje slike ako novom kontaktu želite dodati sliku.
+Odaberite opciju Slikaj ili Odaberi iz galerije.
+
+3 Za unos pojedinosti o kontaktu dodirnite Dodaj drugo polje.
+
+4 Dodirnite Spremi.
+
+Favoriti
+
+Često pozivane kontakte možete klasificirati kao omiljene.
+
+Dodavanje kontakta u omiljene kontakte
+
+1 Za otvaranje imenika dodirnite i.,
+
+2 Za pregled pojedinosti dodirnite kontakt.
+
+3 Dodirnite zvijezdu desno od imena kontakta. Zvijezda će poprimiti žutu boju.
+
+Uklanjanje kontakta s popisa omiljenih kontakata
+1 Za otvaranje imenika dodirnite (i,}.
+2 Za prikaz pojedinosti kontakta dodirnite karticu Favoriti i odaberite kontakt.
+
+3 Dodirnite žutu zvijezdu u desnom kutu imena kontakta. Zvijezda će postati bijela i
+kontakt će biti uklonjen iz omiljenih kontakata.
+
+Stvaranje grupe
+
+1 Za otvaranje imenika dodirnite (i,}.
+
+2 Dodirnite Grupe i zatim dodirnite tipku izbornika H Odaberite Nova grupa.
+3 Unesite naziv za novu grupu. Možete postaviti melodiju zvona za novu grupu.
+4 Dodirnite Spremi kako biste spremili grupu.
+
+NAPOMENA: Ako izbrišete grupu, kontakti dodijeljeni toj grupi neće se
+izgubiti. Ostat će u imeniku.
+
+Vaš telefon kombinira SMS, MMS i Razgovor u jedan intuitivan, jednostavan izbornik.
+
+Slanje poruke
+
+1 Dodirnite F na početnom zaslonu i dodirnite . za otvaranje prazne poruke.
+
+2 Unesite ime ili broj kontakta u polje Za. Nakon unosa imena kontakta, prikazat će
+se kontakti čija imena odgovaraju unosu. Možete dodirnuti predloženog primatelja.
+Možete dodati više od jednog kontakta. Za Razgovor se korisnici omogućeni za
+razgovor prikazuju samo među kontaktima.
+
+NAPOMENA: Tekstualna poruka naplaćuje se za svakog primatelja. Za
+Razgovor se naplaćuje trošak prijenosa podataka.
+
+3 Dodirnite polje Napiši poruku i počnite sastavljati poruku.
+
+4 Dodirnite kako biste otvorili izbornik opcija. Birajte između opcija Brza poruka,
+Umetni smješka, Slanje rasporeda, Predmeti Odbaci.
+
+SAVJET! Možete dodirnuti ikonu za dodavanje datoteke koju želite
+pridodati poruci.
+
+5 Za slanje poruke dodirnite Šalji. Ako se gumb Šalji prikaže u žutoj boji, poruka je
+poslana u Razgovor.
+
+& UPOZORENJE:
+
+. Ograničenje od 160 znakova može se razlikovati od države do države,
+ovisno o načinu kodiranja SMS poruka i jeziku. Za Razgovor ograničenje
+znakova postavlja operater.
+
+. Dodajete ii SMS poruci siikovnu, video ili zvučnu datoteku, ona će se
+automatski pretvoriti u MMS poruku i bit će naplaćena kao MMS poruka.
+Ako prenosite slike iz Razgovora, možete priložiti slike veće od njihove
+izvorne veličine i MMS-a.
+
+. Za Razgovor možete postaviti grupni razgovor tako da pritisnete -
+
+Poruke u nizu
+
+Poruke (SMS, MMS, Razgovor) razmijenjene s drugim korisnikom mogu se prikazati
+kronološki kako biste imali cjelokupan pregled razgovora.
+
+Promjena postavki poruka
+
+Postavke poruka telefona su unaprijed definirane tako da možete odmah slati poruke.
+
+Postavke možete promijeniti u skladu s vlastitim željama.
+. Dodirnite D na početnom zaslonu, dodirnite i zatim dodirnite Postavka.
+
+Pomoću aplikacije E-pošta možete čitati poruke e-pošte iz usluga kao što je Gmail.
+Aplikacija E-pošta podržava sljedeće vrste računa: POP3, iMAP i Exchange.
+
+Vaš davatelj usluga ili administrator sustava može vam dostaviti potrebne postavke
+računa.
+
+Upravljanje računom e-pošte
+
+Kada prvi put otvorite aplikaciju E-pošta otvorit će se čarobnjak za postavljanje koji će
+vam pomoći u postavljanju računa e-pošte.
+Nakon početnog postavljanja, aplikacija E-pošta prikazat će sadržaj ulaznog spremnika.
+
+Postupak dodavanja računa e-pošte:
+. Dodirnite 0 > [] > karticu Aplikacije > .. E-pošta > dodirnite E > Postavke >
++ Dodaj račun.
+
+Postupak izmjene općih postavki e-pošte:
+. Dodirnite 0 > E > karticu Aplikacije > e E-pošta > dodirnite E > Postavke >
+Opće postavke.
+
+Brisanje računa e-pošte:
+
+. Dodirnite 0 > [] > karticu Aplikacije > e E-pošta > dodirnite E > Postavke
+> dodirnite E > Brisanje računa > odaberite račun koji želite izbrisati > Obriši >
+odaberite Da.
+
+Rad s mapama računa
+
+Dodirnite 0 > [] > karticu Aplikacije > e E-pošta > dodirnite E i odaberite
+Mape.
+
+Svaki račun ima svoje mape ulaznog i izlaznog spremnika, poslanih poruka i spremljenih
+poruka. Ovisno o značajkama koje podržava davatelj usluga za vaš račun, možete imati
+
+i dodatne mape.
+
+54
+
+Sastavljanje i slanje poruka e-pošte
+
+Za sastavljanje i slanje poruke
+
+1 U aplikaciji E-pošta dodirnite ..
+
+2 Unesite adresu primatelja poruke. Prilikom unosa teksta, iz imenika će vam se
+nuditi adrese koje odgovaraju unosu.
+
+3 Dodirnite E kako biste dodali kopiju / skrivenu kopiju i dodirnite .::-..? kako biste po
+potrebi pridružili datoteke.
+
+4 Upišite tekst poruke.
+
+5 Dodirnite E!.
+
+SAVJET! Nakon što u izlazni spremnik pristigne nova poruka e-pošte, telefon
+će se oglasiti zvučnim signalom ili vibracijom.
+
+ 
+
+Fotoaparat i videozapisi
+
+Fotoaparat i videokameru možete koristiti za snimanje te dijeljenja fotografija i
+videozapisa. Vaš telefon ima ugrađeni fotoaparat od 13 megapiksela sa značajkom
+automatskog fokusa koja izoštrava fotografije i videozapise.
+
+NAPOMENA: Prije snimanja fotografija zaštitni objektiv fotoaparata očistite
+tkaninom od mikroviakana. Ako su na objektivu fotoaparata mrlje od prstiju,
+fotografije mogu biti mutne ili imati halo efekt.
+
+Pokretanje aplikacije Fotoaparat
+
+Na početnom zaslonu dodirnite 0 > [] > karticu Aplikacije > Fotoaparat ©.
+|L|
+
+Dodirnite ikonu Fotoaparat jš? s početnog zaslona.
+
+SAVJET! Ako je za otključavanje zaslona odabrana postavka otključavanja
+povlačenjem prsta po zaslonu, kako biste otvorili aplikaciju Fotoaparat,
+pritisnite tipku za napajanje/zaključavanje CD na stražnjoj strani telefona te
+prstom povucite ikonu fotoaparata i© prema gore.
+
+Osnovne informacije o tražilu
+
+ 
+
+0 Bljeskalica — dodirnite kako biste bijeskaiicu Uključeno, isključeno ili je postavili
+na Automatski.
+
+9 Promijeni fotoaparat — omogućuje prebacivanje između stražnjeg objektiva i
+prednjeg objektiva fotoaparata.
+
+9 Način rada — Odabir jednog od ponuđenih načina rada: Automatski, Čarobni
+fokus, Panorama, Dvostruki i Usporeno.
+
+9 Postavke — dodirnite kako biste podesili postavke fotoaparata i videozapisa.
+
+9 Galerija — dodirnite kako biste pristupili galeriji.
+
+G Gumb za snimanje videozapisa — dodirnite kako biste pokrenuli snimanje
+videozapisa.
+
+0 Gumb za snimanje — dodirnite kako biste snimili fotografiju.
+
+9 Izlaz — dodirnite kako biste zatvorili izbornik ili izašli iz aplikacije Fotoaparat.
+
+Snimanje fotografija
+
+Snimanje fotografija fotoaparatom ugrađenim u telefon ne može biti lakše. Sve što
+trebate jest odrediti što siikate, usmjeriti objektivi pritisnuti gumb.
+
+Kako snimiti fotografiju:
+
+1 Na početnom zaslonu dodirnite 0 > [] > karticu Aplikacije > Fotoaparat o:.
+2 Usmjerite fotoaparat prema objektu koji želite snimiti.
+
+3 Kad se fotoaparat fokusira, na zaslonu će se oko objekta pojaviti kvadrat.
+
+4 Dodirnite & za fotografiranje. Fotografija koju ste snimili automatski će se spremiti
+u galeriju.
+
+Snimanje videozapisa
+
+Osim snimanja fotografija, možete snimati, gledati i slati videozapise videokamerom
+ugrađenom u telefon.
+
+1 Na početnom zaslonu dodirnite 0 > [] > karticu Aplikacije > Fotoaparat 5.
+2 Usmjerite fotoaparat prema objektu koji želite snimiti.
+
+3 Za početak snimanja videozapisa dodirnite O.
+
+4 Duljina snimke prikazuje se na vrhu zaslona.
+
+NAPOMENA: Za snimanje fotografija tijekom snimanja videozapisa dodirnite
+..
+
+5 Za pauziranje tijekom snimanja videozapisa dodirnite u. Za nastavak snimanja
+videozapisa dodirnite ..
+
+ILI
+
+6 Za zaustavljanje snimanja dodirnite 0. Videozapis koji ste snimili automatski će se
+spremiti u galeriju.
+
+Postavke fotoaparata i videozapisa
+
+Kad ste u načinu rada za fotografiranje, dodirom na sljedeće ikone možete podesiti
+
+postavke fotoaparata.
+
+. Bljeskalica .: dodirnite kako biste bljeskalicu uključili, isključili ili je postavili na
+Automatski.
+
+. Promijeni fotoaparat EE: omogućuje prebacivanje između stražnjeg objektiva i
+prednjeg objektiva fotoaparata.
+
+. Način rada _: Odabirjednog od ponuđenih načina rada: Automatski, čarobni
+fokus, Panorama, Dvostruki i Usporeno.
+
+» Automatski: automatsko snimanje fotografije.
+
+» Čarobni fokus: Magično fokusiranje omogućuje ponovni odabir fokusa nakon
+snimanja fotografije.
+
+» Panorama: stvaranje široke fotografije panoramskog prizora. Telefon držite
+vodoravno, pritisnite okidač za početak snimanja i polako pomičite fotoaparat preko
+prizora koji želite snimiti.
+
+» Dvostruki: snimanje fotografije ili videozapisa dvama objektivima fotoaparata.
+Dodirnite mali zaslon i zadržite pritisak kako biste mu promijenili veličinu ili ga
+pomaknuli.
+
+» Usporeno: omogućuje snimanje videozapisa s većim brojem sličica kako biste
+Videozapis mogli prikazivati usporeno.
+
+. Postavke EI: podešavanje sljedećih postavki fotoaparata i videozapisa.
+
+» Dinamički ton (HDR): spajanje fotografija snimljenih u različitoj ekspoziciji u jednu
+optimalnu fotografiju kako bi se dobila što bolja fotografija prilikom nepogodnog
+osvjetljenja.
+
+» Veličina slike: određivanje veličine fotografije. Odaberite jednu od sljedećih
+rezolucija: 13M 4160x3120, W10M 4160x2340, 9M 3120x3120 ili 3M
+2048x1536. Odredite veličinu videozapisa. Odaberite sljedećih rezolucija: UHD
+3840x2160, FHD 1920x1080 ili HD 1280x720.
+
+» Okidač govorom: omogućuje fotografiranje glasovnim naredbama. Kako biste
+snimili fotografiju kad je postavka odabrana, izgovorite "cheese", "smile",
+"Whiskey", "kimchi" ili "LG".
+
+» Brojač: postavljanje vremena do snimanja fotografije. Ova postavka idealna je ako
+želite biti na fotografiji.
+
+» Mreža: uključivanje prikaza mreže omogućuje provjeru poravnanja vodoravnih i
+okomitih linija kako bi se osigurala preciznost fotografije.
+
+» SD kartica: postavite lokaciju pohrane svojih fotografija. Odaberite unutarnju
+pohranu ili pohranu na SD karticu. Ovaj se izbornik pojavljuje samo kada je
+umetnuta SD kartica.
+
+» Pomoć: saznajte kako koja funkcija radi. Ova ikona prikazuje kratke upute.
+
+Automatsko fokusiranje u više točaka
+
+Prilikom snimanja fotografije, funkcija automatskog fokusiranja (AF) u više točaka
+aktivira se automatski i omogućuje prikaz jasne slike.
+
+Dvostruko
+
+Značajka Dvostruko omogućuje istovremeno snimanje fotografije ili videozapisa
+prednjim i stražnjim fotoaparatom.
+
+1 Na početnom zaslonu dodirnite 0 > E > karticu Aplikacije > Fotoaparat 'O:
+2 Dodirnite > E.
+
+ 
+
+NAPOMENA: Prevucite mali zaslon na željenu lokaciju. Dodirnite mali zaslon
+i zadržite pritisak kako biste mu promijenili veličinu. Dodirnite mali zaslon za
+prebacivanje između zaslona.
+
+3 Dodirnite za fotografiranje. Za početak dvostrukog snimanja dodirnite O.
+4 Za zaustavljanje dvostrukog snimanja dodirnite Q.
+
+Snimanje pomoću pokreta
+
+Snimite fotografiju pokretom ruke. Kako biste snimili fotografiju, podignite ruku i držite
+je podignutom dok prednji fotoaparat ne prepozna pokret i dok se na zaslonu ne pojavi
+okvir.
+
+Snimanje fotografije
+
+Funkciju Snimka pomoću pokreta možete koristiti na dva načina.
+
+. Otvorite dlan i podignite ruku dok je prednja kamera ne prepozna, a na zaslonu se ne
+pojavi okvir. Zatim zatvorite šaku kako biste pokrenuli odbrojavanje, time ćete dobiti
+dovoljno vremena da se pripremite.
+
+. Zatvorite šaku i podignite ruku dok je prednja kamera ne prepozna, a na zaslonu se
+ne pojavi okvir. Zatim otvorite šaku kako biste pokrenuli odbrojavanje, time ćete dobiti
+dovoljno vremena da se pripremite.
+
+ 
+
+Super zumiranje
+Pri snimanju fotografija moguće je povećanje i do 8 puta.
+
+SAVJET! Ova funkcija automatski se pokreće prilikom povećavanja i
+smanjivanja.
+
+NAPOMENA: Ruka mora biti smirena. Ova značajka ne radi kad su uključene
+neke druge funkcije. Prilikom snimanja fotografija predmeta koji se brzo kreću,
+objekti se mogu preklapati.
+
+Pregled slika
+
+Spremljene slike možete pogledati u galeriji. Slike možete pogledati kao dijaprojekciju,
+podijeliti s prijateljima, izbrisati ili uređivati.
+
+1 Na početnom zaslonu dodirnite 0 > [] > karticu Aplikacije > Galerija a.
+
+2 Odaberite lokaciju i dodirnite sliku kako biste je pogledali.
+
+Opcije galerije
+Aplikacija Galerija prikazuje spremljene slike i videozapise, uključujući fotografije koje
+ste snimili pomoću aplikacije Fotoaparati slike koje ste preuzeli s mreže ili drugih
+lokacija.
+Ako ste telefonu dodali Google račun, u galeriji ćete moći vidjeti mrežne albume.
+1 Na početnom zaslonu dodirnite 0 > [] > karticu Aplikacije > Galerija f:a.
+» Kako biste vidjeli više albuma, povucite zaslon prema gore ili dolje.
+2 Dodirnite album kako biste ga otvorili i pogledali njegov sadržaj. (Slike i videozapisi
+u albumu prikazuju se u kronološkom redoslijedu.)
+3 Dodirnite sliku u albumu kako biste je pogledali.
+
+ 
+
+ 
+
+»Ako ponovo dodirnite sliku, prikazat će se sljedeće ikone:
+' E Fotoaparat: pokretanje aplikacije Fotoaparat.
+' < Dijeli: sliku možete podijeliti na razne načine, primjerice porukom ili Bluetooth
+
+vezom.
+
+' H Brisanje: brisanje slike.
+
+» Dodirnite sliku u albumu, a zatim dodirnite E za sljedeće opcije: Premjesti,
+Kopiraj, Izradite kolaž, Zaključane, Prikaz zaključanih datoteka, Dijaprojekcija
+i Okreni.
+
+» Za povratak na prethodni zaslon dodirnite tipku Natrag <].
+
+Dodjeljivanje slika
+
+Nakon snimanja fotografije, fotografiju možete postaviti kao sliku kontakta ili kao
+pozadinu početnog zaslona.
+
+1 Na početnom zaslonu dodirnite 0 > [] > karticu Aplikacije > Galerija m..
+2 Za otvaranje slike dodirnite album i sliku dodirnite.
+
+3 Kad se slika prikaže, dodirnite H > Postavi sliku kao.
+
+4 Odaberite opciju.
+» Kontakt fotografija dodjeljuje sliku kontaktu kao |D sliku. Odaberite kontakt,
+
+obrežite sliku i dodirnite U redu kako biste dodijelili sliku.
+
+» Pozadina zaslona zaključavanja dodjeljuje sliku kao pozadinsku sliku zaslona
+zaključavanja.
+
+» Pozadina dodjeljuje sliku kao pozadinsku sliku. Obrežite sliku i dodirnite POSTAVI
+POZADINU kako biste dodijelili sliku.
+
+» Početni zaslon dodjeljuje sliku kao pozadinsku sliku. Obrežite sliku i dodirnite U
+redu kako biste dodijelili sliku.
+
+Opcije videozapisa
+Spremljene videozapise možete pogledati u galeriji. Videozapise možete pogledati,
+podijeliti s prijateljima, izbrisati ili uređivati.
+1 Na početnom zaslonu dodirnite O > [:] > karticu Aplikacije > Galerija “i.
+» Kako biste vidjeli više albuma, pomaknite se prema gore ili dolje.
+2 Dodirnite album kako biste ga otvorili i pogledali njegov sadržaj. (Slike i videozapisi
+u albumu prikazuju se u kronološkom redoslijedu.)
+3 Dodirnite Videozapis kako biste ga pogledali. Možete pristupiti sljedećim opcijama:
+» E Uređivanje: Dodirnite ovdje za uređivanje videozapisa.
+» OSIide: omogućavanje preklapanja prozora na zaslonu telefona za jednostavno
+istovremeno izvršavanje više zadataka.
+» SmartShare: dijeljenje multimedijskih datoteka s drugim DLNA uređajima.
+» E Izbornik: dodirnite za pristup opcijama Omjer zaslona, Pod naslov, Dijeli,
+Detalji, Postavke.
+» Glasnoća: dodirnite za prikaz klizača za glasnoću, a zatim klizačem podesite
+glasnoću reprodukcije.
+» E Zaključavanje/otključavanje: zaključavanje dodirnih tipki kako bi se spriječili
+neželjeni dodiri.
+Reprodukcija videozapisa
+1 Na početnom zaslonu dodirnite 0 > [] > karticu Aplikacije > Galerija a.
+» Kako biste vidjeli više albuma, pomaknite se prema gore ili dolje.
+
+2 Dodirnite album kako biste ga otvorili i pogledali njegov sadržaj. (Slike i videozapisi
+u albumu prikazuju se u kronološkom redoslijedu.)
+
+3 Za reprodukciju videozapisa dodirnite Videozapis.
+» Za prikaz kontrola za reprodukciju ponovo dodirnite Videozapis.
+
+NAPOMENA: Za podešavanje osvjetljenja lijevu stranu zaslona tijekom
+reprodukcije videozapisa povucite gore ili dolje. Za podešavanje glasnoće
+desnu stranu zaslona tijekom reprodukcije videozapisa povucite gore ili dolje.
+Kako biste vidjeli pregled videozapisa u odabranom vremenu u obliku malog
+prozora, dodirnite vremensku traku videozapisa tijekom njegove reprodukcije.
+Za nastavak reprodukcije videozapisa od dijela prikazanog u malom prozoru,
+dodirnite mali prozor. Za premotavanje unaprijed ili unatrag, kliznite prstom
+zdesna nalijevo (ili obrnuto).
+
+Zumiranje uživo
+
+Zumiranjem uživo možete povećati ili smanjiti dio videozapisa koji se trenutno
+reproducira kako biste povećali ili smanjili željeni prikaz.
+
+Tijekom reprodukcije videozapisa možete privlačiti ili razdvajati kažiprst i palac kako
+biste povećali ili smanjili sliku.
+
+   
+
+NAPOMENA: Ne pritišćite presnažno, zaslon je dovoljno osjetljiv za
+prepoznavanje laganih, odmjerenih pritisaka.
+
+Dual Play
+
+Funkcija Dual Play (uređaji su povezani žično ili bežično) može se pokrenuti na drugom
+zaslonu.
+
+NAPOMENA: Povežite dva uređaja žično (Slimport — HDMI) kabelom ili
+bežično (Miracast). Povezani uređaj može biti televizor ili monitor koji ima
+mogućnost povezivanja HDMI kablom ili značajkom Miracast. Aplikacije
+Galerija i Video podržavaju funkciju Dual Play. Svi videozapisi ne podržavaju
+funkciju Dual Play. Dual Play radi na rezoluciji 1280X72O ili na višoj rezoluciji.
+
+Galerija
+Otvorite aplikaciju Galerija za pregledavanje albuma s fotografijama i videozapisima.
+
+Otvaranje aplikacije Galerija
+. Na početnom zaslonu dodirnite 0 > [] > karticu Aplikacije > Galerija ::..-.
+
+Pregledavanje albuma
+
+Aplikacija Galerija prikazuje spremljene slike i videozapise, uključujući fotografije koje
+
+ste snimili pomoću aplikacije Fotoaparati slike koje ste preuzeli s mreže ili drugih
+
+lokacija.
+
+. Dodirnite album kako biste ga otvorili i pogledali njegov sadržaj.
+
+. U albumu dodirnite sliku ili Videozapis koji želite pregledati.
+
+. Dodirnite tipku izbornika H (u gornjem desnom uglu zaslona) kako biste mogli
+pristupiti opcijama Novi album, Izbriši, Podesite omiljeni album, Prikaz
+zaključanih datoteka, Postavke i Pomoć.
+
+. Za povratak na aplikaciju Fotoaparat dodirnite ikonu za fotoaparat E.
+
+Dijeljenja albuma
+
+Možete podijeliti cijeli sadržaj jednog ili više albuma ili pojedinačne fotografije ili
+
+videozapise iz albuma.
+
+1 Na početnom zaslonu dodirnite 0 > [] > karticu Aplikacije > Galerija F.
+
+2 Dodirnite i držite željeni album, dodirnite Dijeli, odaberite aplikaciju kojom želite
+podijeliti slike i dovršite metodu slanja.
+
+Rad s fotografijama
+
+Za pregled fotografija koje ste snimili aplikacijom Fotoaparat ili slika koje ste preuzeli,
+pokrenite aplikaciju Galerija.
+
+Prikaz i pregled slika
+
+1 Na početnom zaslonu dodirnite 0 > [] > karticu Aplikacije > Galerija ;..
+
+2 Otvorite album i dodirnite sliku.
+
+3 Dodirnite tipku izbornika H (u gornjem desnom kutu zaslona) kako biste pristupili
+
+opcijama SmartShare, Postavi sliku kao, Premjesti, Kopiraj, Kopiranje u Clip
+Tray, Zaključane, Dijaprojekcija, Okreni, Izreži, Dodaj lokaciju, Ispiši ili Detalji.
+
+ 
+
+ikona za način rada za ikona za dijeljenje
+fotografiranje Dodirnite ovdje za dijeljenje
+Pritisnite ovdje za odabir načina fotografije načinom koji odaberete.
+rada za fotografiranje. Ikona za brisanje
+
+Ikona favoriti
+
+Dodirnite ovdje za brisanje
+
+Dodirnite za dodavanje slike u fotografije.
+
+favorite.
+ikona za uređivanje
+
+Dodirnite ovdje za uređivanje
+slike.
+
+Za pomicanje kroz slike u
+otvorenom albumu, vodoravno
+povucite prstom po zaslonu.
+
+ 
+
+Dijeljenje videozapisa
+
+1 Otvorite album kako biste vidjeli njegov sadržaj i potom dodirnite ikonu za Dijeli
+na vrhu zaslona galerije.
+
+2 Označite Videozapis koji želite podijeliti ili više njih, dodirnite Dijeli na dnu zaslona,
+odaberite način dijeljenja videozapisa i dovršite metodu slanja.
+
+Brisanje videozapisa
+
+1 Otvorite album kako biste vidjeli njegov sadržaj i potom dodirnite ikonu za Izbriši
+E na vrhu zaslona galerije.
+
+2 Označite Videozapis koji želite podijeliti ili više njih, dodirnite Izbriši na dnu zaslona i
+dodirnite Da kako biste potvrdili brisanje.
+
+Pokretanje značajke QSiide tijekom reprodukcije videozapisa
+Videozapis se može reproducirati u prozoru QSiide, što omogućuje korištenje drugih
+aplikacija tijekom reprodukcije videozapisa.
+
+1 Otvorite aplikaciju Galerija i pokrenite reprodukciju videozapisa.
+
+2 Kako biste aktivirali značajku OSiike koja omogućuje reprodukciju videozapisa u
+prozoru OSiide, dodirnite ikonu OSlide u gornjem desnom kutu zaslona.
+
+3 Za zatvaranje prozora OSiide, dodirnite u gornjem desnom kutu naslovne trake.
+
+Capture+
+
+Funkcija Capture+ omogućuje stvaranje bilješki i snimki zaslona. Pomoću funkcije
+Capture+ možete snimati zaslone, crtati po njima i dijeliti ih s obitelji i prijateljima.
+
+1 Pritisnite tipku za povećanje glasnoće
+0 (dok je zaslon isključen).
+
+0
+
+|L| |L|
+
+Dodirnite i povucite statusnu traku
+prema dolje te dodirnite ..
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 Odaberite željene stavke iz izbornika
+Veličina, Prozirnost i stvorite bilješku.
+
+ 
+
+3 Dodirnite u izborniku Uredi i
+odaberite spremanje bilješke s
+trenutnim zaslonom. Kako biste u bilo
+kojem trenutku zatvorili Capture+,
+dodirnite <].
+
+ 
+
+NAPOMENA: Za funkciju Capture+ koristite jagodicu prsta. Nemojte koristiti
+nokat.
+
+Korištenje opcija aplikacije Capture+
+Prilikom korištenja funkcije Capture+ možete upotrebljavati alate za uređivanje.
+
+ 
+
+Spremanje podsjetnika s trenutnim zaslonom u aplikaciji Galerija ili
+Capture+.
+
+ 
+
+Poništavanje/ponavijanje.
+
+ 
+
+Pokretanje funkcije složenog koncepta.
+
+ 
+
+Odaberite opcije Vrsta olovke, Gustoća, Prozirnost i Boja.
+
+ 
+
+Brisanje izrađenog podsjetnika.
+
+ 
+
+izrežite sliku prema vlastitim željama.
+
+ 
+
+nazualn
+
+Opcija: dodirnite kako biste za podsjetnik odabrali Dijeli i Stil papira.
+
+ 
+
+ 
+
+Pregledavanje spremljenog podsjetnika Capture+
+Dodirnite Capture+/Galerija i odaberite album funkcije Capture+.
+
+QSlide
+
+Nabilo kojem zaslonu možete prikazati notes, kalendar i dodatne sadržaje u obliku
+prozora na zaslonu.
+
+ 
+
+ 
+
+0 :Ej Dodirnite za zatvaranje funkcije
+QSiide i povratak na prikaz jednog
+prozora.
+
+g [] Dodirnite za podešavanje
+prozirnosti.
+
+9 E Dodirnite za zatvaranje funkcije
+QSiide.
+
+“ 0 U 9 5 Dodirnite za podešavanje veličine.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 Dodirnite i povucite statusnu traku prema dolje i dodirnite značajku QSiide kako
+biste vidjeli dostupne QSiide aplikacije.
+
+SAVJET! Tijekom korištenja aplikacija koje podržavaju QSiide dodirnite “ >
+QSiide. Funkcija će se prikazati u obliku malog prozora na vašem zaslonu.
+
+2 Možete uputiti poziv, pretraživati internet ili odabrati druge opcije telefona. Osim
+toga, ako traka prozirnosti nije puna, možete dodirnuti zaslon ispod malih prozora
+_.
+
+NAPOMENA: Funkciju QSiide možete koristiti u najviše dva prozora
+istovremeno.
+
+QuickRemote
+QuickRemote pretvara vaš telefon u univerzalni daljinski upravljač za kućni televizor, set-
+
+top box ili audiosustav.
+
+1 Dodirnite i povucite statusnu traku
+prema dolje te dodirnite D >
+DODAJTE DALJINSKI.
+
+|L|
+Dodirnite O > E] > karticu
+Aplikacije > & QuickRemote >
+dodirnite ..
+
+2 Odaberite vrstu i marku uređaja iza
+konfiguriranje uređaja slijedite upute na
+zaslonu.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 Dodirnite i povucite statusnu traku
+prema dolje i koristite funkcije
+QuickRemote.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NAPOMENA: QuickRemote funkcionira na isti način kao i infracrveni
+
+(|C) signali standardnog daljinskog upravljača. Prilikom korištenja funkcije
+QuickRemote nemojte prekrivati infracrveni senzor na gornjoj strani telefona.
+Ovisno o modelu, proizvođaču i tvrtki za pružanje usluga, ova funkcija možda
+
+neće biti podržana.
+
+Pametna tipkovnica
+
+Funkcija Pametna tipkovnica prepoznaje vaše navike unosa putem tipkovnice i
+omogućuje vam brz unos bez grešaka.
+
+Pomicanje pokazivača pomoću
+
+razmaknice
+Dodirnite i držite razmaknicu, a zatim prstom povucite
+ulijevo ili udesno kako biste pomaknuli pokazivač.
+
+nnnnn
+
+ 
+
+Unesite predloženu riječ pomoću
+upravljanja pokretom
+Unesite tekst na tipkovnici i pojavit će se povezani
+prijedlozi riječi. Prstom brzo povucite prema gore na lijevoj
+.... strani kako biste odabrali predloženu riječ s lijeve strane.
+
+. T Prstom brzo povucite prema gore na desnoj strani kako
+biste odabrali predloženu riječ s desne strane.
+
+LG SmartWorld
+
+LG SmartWorld nudi pregršt uzbudljivog sadržaja — fontove, teme, igre i aplikacije.
+
+Kako pristupiti aplikaciji LG SmartWorld s telefona
+
+1 Dodirnite 0 > [] > karticu Aplikacije > dodirnite ikonu © kako biste otvorili LG
+SmartWorld.
+
+2 Dodirnite Prijava | unesite iD/PW za LG SmartWorld. Ako se još niste registrirali,
+dodirnite Prijava | primit ćete članstvo za LG SmartWorld.
+
+3 Preuzmite željeni sadržaj.
+
+* Kada koristite mobilnu mrežu, davatelj usluge će vam možda naplatiti prijenos
+
+podataka u okviru ugovorenog plana podatkovne tarife.
+* LG SmartWorld možda nije dostupan kod svih davatelja usluga ili u svim državama.
+
+NAPOMENA: Što ako nema ikone © ?
+
+1 Pomoću web-preglednika na mobitelu otvorite LG SmartWorld (WWW.
+igworid.com) i odaberite svoju državu.
+
+2 Preuzmite aplikaciju LG SmartWorld.
+
+3 Pokrenite i instalirajte preuzetu datoteku.
+
+4 Pristupite aplikaciji LG SmartWorld dodirom ikone © .
+
+Posebna pogodnost samo u aplikaciji LG SmartWorld
+
+1 Ukrasite svoj vlastiti stil na pametnom telefonu, koristite početnu temu i
+temu tipkovnice te font u aplikaciji LG SmartWorld. (Ta je usluga, međutim,
+dostupna samo na određenim uređajima. Provjerite na web-mjestu usluge
+LG SmartWorld je li dostupna ili nije.)
+
+2 Uživajte u posebnoj usluzi aplikacije LG SmartWorld prihvaćanjem
+ponuđene promotivne ponude.
+
+Multimedija
+Glazba
+
+Vaš telefon ima ugrađen glazbeni player koji omogućava preslušavanje omiljenih
+pjesama. Za pristup glazbenom playeru dodirnite 0 > [] > karticu Aplikacije >
+Glazba.
+
+Dodavanje glazbenih datoteka na telefon
+Započnite prijenosom glazbenih datoteka na telefon:
+
+. Prenesite glazbu pomoću Medijskog uređaja (MTP).
+
+. Bežično preuzimanje s interneta.
+
+. Sinkronizacija telefona s računalom.
+
+. Primanje datoteka putem Bluetooth veze.
+
+Prenesite glazbu pomoću Medijskog uređaja (MTP)
+
+1 Povežite telefon s računalom putem USB kabela.
+
+2 Odaberite opciju Medijski uređaj (MTP). Telefon će se na računalu prikazati kao
+tvrdi disk. Za prikaz sadržaja pritisnite na disk. Kopirajte datoteke s računala u
+željenu mapu.
+
+3 Nakon prijenosa datoteka povucite statusnu traku prema dolje i dodirnite USB PC
+povezivanje > Napuni bateriju. Sada možete sigurno iskopčati uređaj.
+
+Reprodukcija pjesme
+
+1 Dodirnite O >E > karticu Aplikacije > Glazba.
+2 Dodirnite Pjesme.
+
+3 Odaberite pjesmu koju želite reproducirati.
+
+ 
+
+.“ Dodirnite za pauziranje reprodukcije.
+
+ 
+
+# Dodirnite za nastavak reprodukcije.
+
+ 
+
+Dodirnite za prelazak na sljedeću pjesmu u albumu, na popisu pjesama ili u
+nasumičnoj reprodukciji. Dodirnite i zadržite dodir za premotavanje unaprijed.
+
+ 
+
+ 
+
+ 
+
+__ Dodirnite kako biste ponovno pokrenuli trenutni zapis ili prešli na prethodni
+fl«f. zapis u albumu, popis pjesama ili nasumičnu reprodukciju. Dodirnite i
+zadržite dodir za premotavanje unatrag.
+
+ 
+
+Dodirnite za prikaz klizača za glasnoću, a zatim klizačem podesite glasnoću
+reprodukcije.
+
+ 
+
+Dodirnite za postavljanje zvučnih efekata.
+
+ 
+
+ 
+
+E Dodirnite za prikaz trenutnog popisa pjesama.
+. Dodirnite kako biste pjesmu dodali u favorite.
+
+ 
+
+Dodirnite za reprodukciju trenutnog popisa pjesama u nasumičnoj
+reprodukciji (pjesme se reproduciraju slučajnim redoslijedom).
+
+ 
+
+Dodirnite za odabir ponavljanja svih pjesama, ponavljanja trenutne pjesme ili
+isključivanje ponavljanja.
+
+ 
+
+Dodirnite kako biste glazbu podijelili putem funkcije SmartShare.
+
+ 
+
+ 
+
+Želite li promijeniti glasnoću tijekom slušanja glazbe, to možete učiniti pomoću gumba
+za pojačavanje/stišavanje zvuka na poleđini telefona.
+
+Dodirnite i držite bilo koju pjesmu na popisu. Prikazat će se opcije Reprodukcija, Dodaj
+na popis, Izbriši, Dijeli, Postavi za melodiju | Traži.
+
+NAPOMENA:
+
+. Neki formati datoteka nisu podržani, ovisno o softveru uređaja.
+
+. Ako veličina dokumenta prekorači dostupnu memoriju, može doći do
+pogreške prilikom otvaranja dokumenata.
+
+NAPOMENA: Autorska prava za glazbene datoteke mogu biti zaštićena
+međunarodnim sporazumima i državnim zakonima o autorskim pravima.
+Stoga će možda biti potrebno dobiti dopuštenje ili licencu za reproduciranje ili
+kopiranje glazbe.
+
+U nekim državama lokalni zakoni zabranjuju privatno kopiranje materijala
+zaštićenog autorskim pravima. Prije preuzimanja ili kopiranja datoteke
+provjerite lokalne zakone odgovarajuće države koji se tiču upotrebe takvog
+materijala.
+
+Uslužne značajke
+
+Postavljanje alarma
+
+1 Dodirnite 0 > [] > karticu Aplikacije > . Sat > 0.
+
+2 Kada postavite alarm, telefon će vas obavijestiti koliko je vremena preostalo do
+oglašavanja alarma.
+
+3 Postavite opcije Ponovi, Trajanje odgode, Vibriraj kada se začuje alarm, Zvuk
+alarma, Glasnoća alarma, Aplikacija automatskog pokretanja, Zaključavanje
+slagalice i Bilješka. Dodirnite SPREMI.
+
+NAPOMENA: Postavke alarma na zaslonu s popisom alarma možete
+promijeniti tako da dodirnete tipku izbornika " i odaberete Postavke.
+
+Korištenje kalkulatora
+
+1 Dodirnite () > D > karticu Aplikacije > Kalkulator.
+
+2 Za unos brojeva dodirnite numeričke tipke.
+
+3 Za jednostavne izračune dodirnite željenu funkciju (+, —, x ili +), a zatim :.
+
+4 Za pregled prethodnih izračuna dodirnite ikonu E, a zatim dodirnite Povijest
+lzracuna.
+
+5 Za složenije izračune dodirnite tipku izbornika E, a zatim dodirnite Znanstveni
+kalkulator.
+
+Dodavanje događaja u kalendar
+
+1 Dodirnite 0 > [] > karticu Aplikacije > lil Kalendar.
+
+2 Na zaslonu možete pronaći različite vrste prikaza kalendara (dan, tjedan, mjesec,
+godina, raspored).
+
+3 Dodirnite datum kojemu želite pridružiti događaj i dodirnite &.
+
+4 Dodirnite Naziv događaja i unesite naziv događaja.
+
+5 Dodirnite Lokacija i unesite lokaciju. Provjerite datum i unesite željeno vrijeme
+početka i završetka događaja.
+
+6 Želite li postaviti ponavljanje alarma, postavite PONOVI, a zatim postavite značajku
+PODSJETNICI ako je to potrebno.
+
+7 Dodirnite Spremi za spremanje događaja u kalendar.
+
+Snimanje glasa
+Koristite snimač glasa za snimanje glasovnih podsjetnika ili drugih zvučnih datoteka.
+
+Snimanje zvuka ili glasa
+
+1 Dodirnite 0 > [] > karticu Aplikacije > u Snimač glasa.
+2 Za početak snimanja dodirnite ' .
+
+3 Dodirnite I za prekid snimanja.
+
+4 Dodirnite > za slušanje snimke.
+
+NAPOMENA: Dodirnite 55 za pristup albumu. Sada možete slušati snimljeni
+zapis. Dostupno vrijeme snimanja može se razlikovati od stvarnog vremena.
+
+Slanje glasovnog zapisa
+
+1 Po završetku snimanja možete poslati zvučni zapis dodirom na ..
+
+2 Odaberite E-pošta, Poruke, Capture+, Bluetooth, Gmail, SmartShare Beam,
+Disk ili Android Beam. Nakon što odaberete E-pošta, Poruke, Capture+,
+Bluetooth, Gmail, SmartShare Beam, Disk ili Android Beam, poruci će se dodati
+glasovni zapis. Nakon toga možete napisati i poslati poruku na uobičajeni način.
+
+Zadaci
+
+Ovaj zadatak može se sinkronizirati s računom MS Exchange. Možete stvoriti zadatak,
+promijeniti ga i izbrisati u alatima MS Outlook ili MS Office Outlook Web Access.
+
+Sinkroniziranje s MS Exchange
+
+1 Na početnom zaslonu dodirnite 0 > [] > karticu Aplikacije > & Postavke.
+2 Dodirnite karticu Standardno > Računi i sinkronizacija > Dodaj račun.
+
+3 Dodirnite Microsoft Exchange kako biste izradili adresu e-pošte i lozinku.
+
+4 Obavezno označite zadatak Sinkronizacija.
+
+NAPOMENA: Ovisno o poslužitelju e-pošte, možda će izostati podrška za MS
+Exchange.
+
+Google+
+
+Pomoću ove aplikacije možete ostati u vezi s ljudima putem usluge društvene mreže
+Google.
+
+. Dodirnite 0 > [] > karticu Aplikacije > E Google > © Google+.
+
+NAPOMENA: Ovisno o regiji ili davatelju usluga, ova aplikacija možda neće
+biti dostupna.
+
+Glasovna pretraga
+
+Pomoću ove aplikacije web-stranice možete pretraživati putem glasovnih naredbi.
+
+1 Dodirnite 0 > [] > karticu Aplikacije > H Google > ' .!. Glasovna pretraga.
+
+2 Nakon što se na zaslonu prikaže izraz Slušanje..., izgovorite ključnu riječ ili frazu.
+Odaberite jednu od predloženih ključnih riječi.
+
+NAPOMENA: Ovisno o regiji ili davatelju usluga, ova aplikacija možda neće
+biti dostupna.
+
+Preuzimanja
+
+Putem ove aplikacije možete vidjeti koje ste datoteke preuzeli pomoću aplikacija.
+. Dodirnite 0 > [] > karticu Aplikacije > : Preuzeto.
+
+NAPOMENA: Ovisno o regiji ili davatelju usluga, ova aplikacija možda neće
+biti dostupna.
+
+Web
+
+Internet
+
+Pomoću ove aplikacije možete pretraživati internet. Preglednik donosi brz i bojom
+dojmljiv svijet igara, glazbe, novosti, sporta, zabave i još mnogo toga izravno na mobitel,
+gdje god se nalazili i što god vas zanimalo.
+
+NAPOMENA: Spajanje na ove usluge i preuzimanje sadržaja se dodatno
+naplaćuje. Provjerite naknade za prijenos podataka kod svog davatelja usluga
+mobilne mreže.
+
+1 Dodirnite 0 > [] > karticu Aplikacije > mWeb preglednik.
+
+Upotreba alatne trake za web
+Prstom je povucite prema gore kako biste je otvorili.
+
+ 
+
+Dodirnite za prelazak na prethodnu stranicu.
+
+ 
+
+Dodirnite za odlazak jednu stranicu naprijed, na stranicu s kojom ste se
+povezali nakon stranice na kojoj se trenutno nalazite. Kada dodirnete <],
+događa se suprotno.
+
+ 
+
+E Dodirnite za prelazak na početnu stranicu.
+
+ 
+
+Dodirnite za otvaranje novog prozora.
+
+ 
+
+Dodirnite za pristup oznakama.
+
+ 
+
+ 
+
+Pregled web-stranica
+Dodirnite polje za adresu, unesite web-adresu i dodirnite Idi.
+
+Otvaranje stranice
+
+Želite li prijeći na novu stranicu, dodirnite —> ..
+
+Želite li prijeći na drugu web-stranicu, dodirnite ., pomaknite se prema gore ili dolje i
+dodirnite stranicu kako biste je odabrali.
+
+Glasovno pretraživanje weba
+
+Dodirnite polje za adresu, dodirnite G.:, izgovorite ključnu riječ i zatim odaberite jednu od
+predloženih ključnih riječi koje će se prikazati.
+
+NAPOMENA: Ovisno o regiji ili davatelju usluga, ova značajka možda neće
+biti dostupna.
+
+Oznake
+Kako biste označili trenutnu web-stranicu, dodirnite H > Dodaj oznaku > SPREMI.
+Kako biste otvorili označenu web-stranicu, dodirnite i odaberite stranicu.
+
+Prethodno
+
+Želite li otvoriti web-stranicu s popisa web-stranica koje ste nedavno posjetili, dodirnite
+> Prethodne stranice. Za potpuno brisanje povijesti dodirnite E;] —> Da.
+
+Korištenje skočnog preglednika
+
+Pomoću ove značajke možete pristupiti internetu bez zatvaranja trenutno otvorene
+aplikacije ..
+
+Dok pregledavate sadržaj, npr. kontakte ili napomene koje sadrže web-adrese, odaberite
+web-adresu i zatim dodirnite skočni preglednik kako biste ga otvorili. Dodirnite
+pregledniki povucite ga na drugu lokaciju.
+
+Za prikaz preglednika preko cijelog zaslona dodirnite [Ej
+
+Kako biste zatvorili preglednik, dodirnite ..
+
+Chrome
+
+Pomoću preglednika Chrome možete tražiti informacije i pregledavati web-stranice.
+1 Dodirnite 0 > [] > karticu Aplikacije > 6 Chrome.
+
+NAPOMENA: Ovisno o regiji i davatelju usluga, ova aplikacija možda neće
+biti dostupna.
+
+Pregled web-stranica
+Dodirnite polje za adresu i unesite web-adresu ili kriterije za pretraživanje.
+
+Otvaranje stranice
+Želite li prijeći na novu stranicu, dodirnite tipku izbornika ; —> Nova kartica.
+
+Želite li prijeći na drugu web-stranicu, dodirnite |], pomaknite se prema gore ili dolje i
+dodirnite stranicu kako biste je odabrali.
+
+Sinkronizacija s drugim uređajima
+
+Možete sinkronizirati otvorene kartice i web-oznake kako biste ih pomoću aplikacije
+Chrome mogli koristiti na drugom uređaju ako ste prijavljeni sa svojim Google računom.
+Za prikaz otvorenih kartica na drugim uređajima dodirnite tipku izbornika : —>
+Nedavne kartice.
+
+Odaberite web-stranicu koju želite otvoriti.
+
+Za dodavanje web oznaka dodirnite gumb izbornika 5 —> .:..
+
+U ovom odjeljku možete vidjeti prikaz stavki koje možete mijenjati putem izbornika
+telefona Postavke sustava.
+
+Za pristup izborniku Postavke:
+
+Dodirnite O > dodirnite i zadržite [:| > Postavke sustava.
+
+— ili —
+
+Dodirnite 0 > E > karticu Aplikacije > & Postavke.
+
+Mreža
+
+< Wi-Fi >
+Wi-Fi — uključuje Wi-Fi radi povezivanja s dostupnim Wi-Fi mrežama.
+
+SAVJET! Kako dobiti MAC adresu
+
+Za postavljanje veze u nekim bežičnim mrežama s MAC filtrom možda ćete u
+usmjerivač morati unijeti MAC adresu telefona.
+
+MAC adresu možete pronaći u sljedećem korisničkom sučelju: dodirnite 0
+> [] > karticu Aplikacije > E] Postavke > karticu Mreža > Wi-Fi > “ >
+Napredni Wi-Fi > MAC adresa.
+
+< Bluetooth >
+Uključivanje/isključivanje značajke Bluetooth radi korištenja Bluetooth veze.
+
+< Mobilni podaci >
+Prikazuje uporabu podataka i postavlja ograničenje uporabe za mobilne podatke.
+
+< Pozivi >
+
+Možete konfigurirati postavke poziva kao što su prosljeđ ivanje poziva i ostale posebne
+značajke koje nudi vaš davatelj usluga.
+
+Govorna pošta — omogućavanje odabira usluge govorne pošte davatelja usluga.
+
+Fiksni brojevi — uključivanje i sastavljanje popisa brojeva koji se mogu pozivati s vašeg
+telefona. Trebat će vam PiN2 šifra koju možete dobiti od operatera. S vašeg telefona
+mogu se pozivati samo brojevi s fiksnog popisa za biranje.
+Skočni okvir dolaznog poziva — skočni prozor dolaznog glasovnog poziva prikazat će
+se tijekom korištenja aplikacije.
+Odbijanje poziva — omogućuje postavljanje funkcije odbijanja poziva. Odaberite Mod
+odbijanja poziva ili Odbacite pozive od.
+Odbaci s porukom — kada želite odbiti poziv, pomoću ove funkcije možete brzo poslati
+poruku. To je korisno ako na poruku morate odgovoriti tijekom sastanka.
+Prosljeđivanje poziva — odabir preusmjeravanja svih poziva, preusmjeravanja kad je
+linija zauzeta, kad nema odgovora ili kad nema signala.
+Auto.odgovor — postavite vrijeme nakon kojeg će hands-free uređaj automatski
+odgovoriti na dolazni poziv. Odaberite Isključeno, 1 sek, 3 sek i 5 sek.
+Vibracija spajanja — vibracija telefona kada se sugovornik javi na poziv.
+Smanjenje buke — utišavanje okolne buke prilikom poziva.
+Poboljšanje glasa — poboljšava kvalitetu glasa u bučnim okruženjima kako biste jasnije
+čuli govor.
+Spremi nepoznate brojeve — za dodavanje nepoznatih brojeva kontaktima po
+završetku poziva.
+Gumb napajanja prekida poziv — omogućava odabir završetka poziva.
+Javite se na dolazni poziv — označite kako biste omogućili automatsko prihvaćanje
+dolaznog poziva nakon što uređaj približile uhu.
+Dolazni poziv na čekanju — omogućite funkciju kako biste utišati zvuk zvona dolaznog
+poziva okretanjem uređaja.
+Zabrana poziva — blokiranje dolaznih, izlaznih ili međunarodnih poziva.
+Trajanje poziva — pregled trajanja poziva, uključujući opcije Posljednji poziv, Odlazni
+pozivi, Dolazni pozivi | Svi pozivi.
+Dodatne postavke poziva — omogućivanje promjene sljedećih postavki:
+
+ID pozivatelja: odaberite želite li prikazati svoj broj telefona pri izlaznom pozivu.
+
+Poziv na čekanju: ako se aktivira poziv na čekanju, telefon će vas obavijestiti o
+dolaznom pozivu dok telefonirate (ovisno o davatelju usluga mreže).
+< Dijeli i spoji >
+NFC — vaš telefon podržava NFC. NFC (Near Field Communication, komunikacija na
+kratkom dometu) tehnologija je bežične komunikacije koja omogućuje dvosmjernu
+komunikaciju između elektroničkih uređaja. Radi na udaljenosti od nekoliko centimetara.
+Svoj sadržaj možete podijeliti s NFC oznakom ili drugim uređajem koji podržava NFC
+tako da ih jednostavno dodirnete svojim telefonom. Ako NFC oznaku dodirnete svojim
+telefonom, sadržaj oznake prikazat će se na vašem uređaju.
+Uključivanje i isključivanje aplikacije NFC: Na početnom zaslonu dodirnite prozor
+s obavijestima i povucite prstom prema dolje te odaberite ikonu NFC-a kako biste
+pokrenuli aplikaciju.
+
+NAPOMENA: Aplikaciju NFC možete koristiti kada je uključen način rada u
+zrakoplovu.
+
+Korištenje aplikacije NFC: Za korištenje aplikacije NFC provjerite je li uređaj uključen
+te aktivirajte aplikaciju NFC ako je onemogućena.
+Android Beam — nakon što aktivirate ovu značajku, moći ćete prenijeti sadržaj
+aplikacije na drugi uređaj koji podržava NFC tako da uređaje prisionite jedan na drugi.
+Jednostavno prisionite dva uređaja jedan na drugi i dodirnite svoj zaslon. Aplikacija će
+odrediti koji će se sadržaji prenijeti.
+SmartShare Beam — Uključite kako biste primili multimedijski sadržaj putem značajke
+SmartShare Beam za LG telefone ili tablete.
+Medijski poslužitelj — Dijelite multimedijske sadržaje s uređajima u blizini pomoću
+funkcije DLNA.
+Miracast — bežično zrcaljenje zaslona i zvuka telefona na hardverski dodatak Miracast
+ili televizor.
+LG PC Suite — povežite LG PC Suite sa svojim telefonom i s lakoćom upravijajte
+multimedijskim sadržajima i aplikacijama.
+
+88
+
+Ispis — postavljanje bežičnog pisača.
+
+< Tethering >
+
+USB tethering povezivanje — spojite USB kabel kako biste s računalom dijelili
+internetsku vezu.
+
+Wi-Fi hotspot — telefon možete koristiti i za pružanje mobilne širokopojasne veze.
+Stvorite hotspot i podijelite vašu vezu. Dodatne informacije potražite u odjeljku
+"Dijeljenje podatkovne veze telefona".
+
+Bluetooth tethering — omogućava postavljanje telefona bez obzira na to dijelite ii
+internetsku vezu ili ne.
+
+Pomoć — Dodirnite za prikaz informacija pomoći o Wi-Fi hotspotu, USB tethering
+povezivanju i Bluetooh tetheringu.
+
+< Više >
+
+Zrakoplovni mod — nakon prijelaza u taj način rada bežične se komunikacije
+onemogućuju.
+
+Mobilne mreže — postavljanje opcija za prijenos podataka u roamingu, način rada
+mreže i davatelje usluga, nazive pristupnih točaka (APN) itd.
+
+VPN — prikaz popisa virtualnih privatnih mreža (VPN) koje ste prethodno konfiguriraii.
+Omogućuje dodavanje različitih vrsta VPN-ova.
+
+Zvuk & Obavijest
+
+Profil zvona — Odaberite Zvuk i Samo vibracija ili Nečujno.
+
+Glasnoća — prilagodite postavke glasnoće telefona vašim potrebama i okruženju.
+Zvono — postavljanje melodije zvona za pozive. Melodiju zvona možete dodati i dodirom
+ikone u gornjem desnom kutu zaslona.
+
+ID melodije zvona — omogućuje vam automatsko stvaranje melodija ovisno
+telefonskom broju dolaznog poziva.
+
+Jačina vibriranja — omogućuje postavljanje jačine vibriranja za pozive, obavijesti i
+opciju Vibriraj na dodir.
+
+Zvuk s vibracijom — označite ako za primanje poziva želite odabrati vibraciju telefona
+uz melodiju zvona.
+Vrsta vibracije — omogućuje postavljanje vibracije za dolazne pozive. Na raspolaganju
+su vam opcije Brzo, Dugotrajno, Kratko ponavljanje, Standardno ili Tik-tak.
+Ne smetaj — postavite vrijeme i način rada kada vas telefon neće obavještavati o
+dolaznim obavijestima. Odaberite Samo prioriteti ili Potpuna tišina.
+Zaključani zaslon — postavite kako biste pokazali ili sakrili sve obavijesti na
+zaključanom zaslonu.
+Aplikacije — postavite obavijest koju šalje značajka Aplikacije. Odaberite Ništa kako
+se ne bi prikazivale obavijesti iz značajke Aplikacije ili Prioritet kako bi se iznad ostalih
+prikazale obavijesti s prioritetom kada je opcija Ne smetaj postavljena na Samo prioriteti.
+Obavijesno LED svjetlo — dodirnite opciju kako biste je aktivirali/deaktiviraii. Ako je
+aktivirate, zasvijetlit će LED indikator za odabrane obavijesti u odabranoj boji.
+< Više >
+Zvukovi obavijesti — omogućuje vam postavljanje zvuka obavijesti. Melodiju zvuka
+obavijesti možete dodati i dodirom ikone u gornjem desnom kutu zaslona.
+Vibriraj na dodir — označite ako želite da telefon vibrira nakon dodirivanja početnog
+gumba i djelovanja u korisničkom sučelju.
+Zvučni efekt — dodirnite za postavljanje tonova tipkovnice za biranje, zvukova dodira i
+zvuka zaključavanja zaslona.
+Zvukovi dodira tipkovnice telefona — označite za postavljanje zvuka kod upotrebe
+tipkovnice za biranje brojeva.
+Zvuk kod dodira — dodirnite za postavljanje zvuka kod odabira stavki na zaslonu.
+Zvuk zaključavanja zaslona — dodirnite za postavljanje zvuka prilikom zaključavanja
+i otključavanja zaslona.
+Glasovne obavijesti o poruci/pozivu — dodirnite prekidač za Glasovne obavijesti
+o poruci/pozivu kako biste opciju aktivirali/deaktivirati. Aktivacijom ćete omogućili
+automatsko obavještavanje o dolaznim pozivima i porukama.
+
+Zaslon
+
+< POČETNI l ZAKLJUČANI ZASLON >
+
+Početni zaslon
+
+Odaberi home — postavite Natrag ili EasyHome kao zadani početni zaslon.
+Smart Bulletin — dodirnite prekidač Smart Bulletin kako biste opciju aktivirali/
+deaktivirati. Značajka uključuje dodatni početni zaslon koji prikazuje prilagođene
+informacije. Označite Kalendar, LG Health, Smart Tips, Glazba ili QuickRemote.
+Tema — postavljanje teme na zaslonu uređaja. Možete ih preuzeti s aplikacije LG
+SmartWorld.
+
+Pozadina — postavljanje pozadine na početnom zaslonu. Odaberite je iz izbornika
+Galerija, Galerija pozadina, Animirane pozadine, Višestruke fotografije ili
+Fotografije.
+
+Efekt zaslona — postavljanje efekta koji prilikom povlačenja prstom mijenja zaslone.
+Odaberite Stranica, Breeze, Harmonika, Panorama, Vrtuijak, Sloj ili Domino.
+Dozvolite primjenu petlje na početnom zaslonu — označite za kontinuirano
+pomicanje početnih zaslona (nakon zadnjeg, ponovno se prikazuje prvi zaslon).
+Pomoć — prikazuje informacije o stavkama i funkcijama početnog zaslona.
+
+Zaključani zaslon
+
+Odaberi zaključavanje zaslona — postavljanje vrste zaključavanja zaslona kako biste
+zaštitili telefon. Otvorite skup zaslona koji vas vode kroz gestu za otključavanje zaslona.
+Postavite Ništa, Povuci, Knock Code, Uzorak, PIN ili Lozinka.
+
+Ako omogućite vrstu uzorka za zaključavanje, nakon što uključite telefon ili aktivirate
+zaslon trebat ćete nacrtati uzorak za otključavanje kako biste otključati zaslon.
+
+Smart Lock — Postavite kada će Provjereni uređaji (BT uređaj ili NFC) ili Provjereno lice
+automatski otključati telefon. Ova je funkcija dostupna kada je opcija Zaključani zaslon
+postavljena na Knock Code, Uzorak, PIN ili Lozinka.
+
+NAPOMENA: Kako biste aktivirali ovu funkciju, funkcija Pametno
+zaključavanje mora biti uključena.
+Postavke > Standardno > Sigurnost > Trust agents > Smart Lock.
+
+Efekt zaslona — postavljanje opcija za efekt zaslona. Odaberite Hula—hop, Zaokruži
+mozaik, Cestica svjetla, Vektorski krug ili Soda.
+
+NAPOMENA: naziv postavke može biti Efekt uzorka ako za Zaključavanje
+zaslona odaberete Uzorak.
+
+Pozadina — postavljanje pozadine za zaključani zaslon. Odaberite je iz izbornika
+Galerija ili Galerija pozadina.
+
+Prečaci — možete mijenjati prečace na zaslonu Povuci pokretom prsta.
+
+Animacija vremena — označite za prikaz animacije vremena za trenutnu lokaciju na
+zaključanom zaslonu.
+
+Kontaktni podaci izgubljenog telefona — označite za prikaz imena vlasnika uređaja
+na zaključanom zaslonu. Unesite tekst koji će se prikazivati u obliku informacija o
+vlasniku.
+
+Odgoda zaključavanja — postavljanje vremena do automatskog zaključavanja zaslona
+nakon isteka vremena.
+
+Trenutno zaključavanje gumba napajanja — označite ako želite trenutno
+zaključavanje zaslona pri pritisku na tipku za ukijučivanje/iskijučivanje/napajanje. Ova
+postavka ima prednost u odnosu na postavku Osiguravanja mjerača vremena za
+zaključavanje.
+
+Gumbi osjetljivi na dodir na početnom zaslonu
+
+Kombinacija gumba — povucite ikonu kako biste promijenili raspored početnih gumba
+osjetljivih na dodir. Možete rasporediti najviše 5 početnih gumba osjetljivih na dodir.
+Boja — postavljanje boje pozadine za početne gumbe osjetljive na dodir. Odaberite Bijela
+ili Crna.
+
+Skrivanje gumba osjetljivih na dodir na početnom zaslonu — postavite prikaz
+početnih gumba na dnu svih zaslona. Možete Odabrati koji će se od njih prikazivati,
+njihov položaj na traci i izgled. Odaberite tipke i njihov redoslijed, temu i pozadinu.
+
+< FONT >
+Vrsta slova — postavljanje vrste slova za prikaz na telefonu i u izbornicima.
+Veličina fonta — postavljanje veličine fonta za prikaz na telefonu i u izbornicima.
+
+< OSNOVNE POSTAVKE >
+Osvjetljenje — podešavanje svjetline zaslona. Radi čuvanja
+baterije odaberite najmanju svjetlinu na kojoj vam je ugodno raditi.
+
+Orijentacija — označite kako biste odabrali automatsko zakretanje zaslona telefona s
+obzirom na njegovu orijentaciju (uspravna ili bočna).
+
+Vrijeme gašenja zaslona — postavljanje vremena koje treba proći prije isključivanja
+zaslona.
+
+Pametni zaslon — označite ako želite da zaslon ostane uključen kad telefon prepozna
+vaše lice.
+
+< Više >
+
+Sanjarenje — dodirnite opciju Sanjarenje kako biste je aktivirali/deaktivirati. Kad je
+aktivirana, omogućava se prikaz postavljenog čuvara zaslona ako je telefon u stanju
+mirovanja (dokje u baznoj stanici i/iii se puni). Odaberite Sat ili Google fotografije.
+
+Kalibracija senzora pokreta — omogućuje poboljšavanje preciznosti nagiba i brzine
+senzora.
+
+Standardno
+
+< Jezik i tipkovnica >
+
+Postavke Jezik i tipkovnica možete koristiti za odabir jezika koji želite koristiti na telefonu
+te konfiguraciju zaslonske tipkovnice, uključujući riječi koje ste sami dodati u rječnik.
+
+Jezik — postavljanje jezika za korištenje na uređaju.
+
+Trenutna tipkovnica — prikazuje koja se tipkovnica trenutno koristi.
+LG tipkovnica — Za unos podataka Odaberite LG tipkovnica.
+Google unos teksta govorom — Za unos podataka odaberite Google diktiranje.
+
+Izlaz za pretvorbu teksta u govor — postavljanje preferiranog programa za govor i
+brzinu govora (vrlo polako do vrlo brzo). Reproducira i kratki prikaz sinteze govora.
+
+Brzina pokazivača — postavljanje brzine pokazivača na klizaču za odabir.
+
+Gumbi Obrnuto — preokrenite tipke miša kako biste koristili primarnu tipku na desnoj
+strani.
+
+< Lokacija >
+Uključivanje usluge lociranja. Telefon određuje vašu približnu lokaciju koristeći GPS,
+Wi-Fi mrežu i mobilne mreže.
+Način rada — postavite način rada lokacije.
+Visoka točnost (GPS i mreže) — korištenje GPS-a, Wi-Fi mreže i mobilnih mreža za
+određivanje lokacije.
+Ušteda baterije (samo mreže) — korištenje Wi-Fi mreže i mobilnih mreža za
+određivanje lokacije.
+Samo senzori uređaja (Samo GPS) — korištenje GPS-a za označavanje lokacije.
+
+ZAHTJEV ZA NEDAVNOM LOKACIJOM — prikaz aplikacija koje su nedavno zatražile
+informacije o lokaciji.
+
+USLUGA LOCIRANJA
+
+Fotoaparat — označite za dodavanje oznake lokacije fotografijama ili videozapisima.
+Googleovo izvješćivanje O lokaciji — odaberite želite li uključiti ili isključiti opcije
+za izvještavanje 0 Google lokaciji. Dodatne informacije potražite dodirom ikone B >
+Pomoć.
+
+< Računi i sinkronizacija >
+
+Apiikacijama omogućava sinkronizaciju podataka u pozadini, bez obzira na to radite ii
+trenutno na njima. isključivanjem odabira ove postavke štedi se baterija i smanjuje (ali
+ne isključuje) promet podataka.
+
+94
+
+< Oblak >
+
+Za brzu i jednostavnu upotrebu usluge oblaka za aplikacije tvrtke LG, dodajte račun za
+oblak.
+
+< Korisnik >
+Označite kako biste dodali korisnike kada je telefon zaključan.
+
+NAPOMENA: Dodajte korisnika koji će zajednički koristiti telefon s ostalima.
+Svaki korisnik može imati vlastite aplikacije i sadržaj u svom vlastitom
+prostoru. Svi korisnici telefona mogu promijeniti postavke kao što je Wi-Fi
+
+i primati ažuriranja aplikacija koja se odnose na sve korisnike. Kako bi novi
+korisnici mogli koristiti telefon, potrebno je početno postavljanje.
+
+< Pristupačnost >
+Koristite opciju Pristupačnost kako biste konfigurirati programske dodatke za
+dostupnost koji su instalirani na telefonu.
+Vid
+TalkBack — omogućuje postavljanje funkcije TalkBack koja govornim funkcijama
+pomaže osobama s oštećenim vidom.
+Glasovne obavijesti o poruci/pozivu — dodirnite a] kako biste opciju aktivirali/
+deaktivirati. Kad je opcija aktivirana čut ćete automatske govorne obavijesti o dolaznim
+pozivima i porukama.
+Zatamnjenje zaslona — omogućite kako biste zatamniii zaslon.
+Veličina fonta — postavljanje veličine fonta.
+Zum osjetljiv na dodir — omogućuje zumiranje nakon trostrukog dodirivanja zaslona.
+Inverzija boje zaslona — omogućite kako biste zamijenili boje zaslona i sadržaja.
+Podešavanje boje zaslona — omogućuje prilagođavanje boje zaslona i sadržaja.
+Filtar boje zaslona — omogućuje promjenu boje zaslona i sadržaja.
+Gumb napajanja prekida poziv — omogućite kako biste govorni poziv mogli završiti
+pritiskom na tipku za napajanje/zaključavanje.
+
+Sluh
+Opis — omogućuje prilagodbu postavki naslova za osobe s oštećenjem sluha.
+
+Obavijesno LED svjetlo — omogućuje aktiviranje LED svjetla za dolazne pozive i
+obavijesti.
+
+Treperava upozorenja — omogućite za uključivanje treperavog svjetla koje označava
+dolazne pozive i obavijesti.
+Isključi sve zvukove — omogućite za isključivanje svih zvukova uređaja.
+Audio traka — postavljanje vrste zvuka.
+Balans zvuka — postavljanje rute prijenosa zvuka. Pomaknite klizač na traci kako
+biste ga postavili.
+Motorika i kognicija
+Vrijeme reakcije na dodir — postavljanje vremena reakcije na dodir.
+Touch assistant — prikazuje ploču osjetljivu na dodir za jednostavan pristup
+uobičajenim radnjama.
+Vrijeme gašenja zaslona — postavljanje vremena koje treba proći prije automatskog
+isključivanja zaslona.
+Područje kontrole na dodir — omogućuje odabir područja na zaslonu koje će jedino
+biti osjetljivo na dodir.
+Prečac funkcije dostupnosti — omogućuje brzi pristup odabranim značajkama kada
+se triput dodirne početni gumb.
+Orijentacija — omogućite kako biste omogućili okretanje zaslona ovisno o orijentaciji
+telefona (okomita ili vodoravna).
+Promjena pristupa — omogućuje interakciju s uređajem pomoću jednog ili više
+prekidača koji funkcioniraju kao tipke tipkovnice. Ovaj izbornik može pomoći osobama s
+poteškoćama u pokretljivosti koje im onemogućavaju izravnu interakciju s uređajem.
+
+< Gumb prečaca >
+
+Brzo pristupite aplikacijama pritiskom i držanjem tipki za glasnoću kad je zaslon
+isključen ili zaključan. Dodirnite prekidač tipke prečaca [5] u gornjem desnom kutu
+
+kako biste je Uključeno ili Isključeno.
+
+< Google >
+Omogućuje upravljanje postavkama za Google aplikacije i usluge.
+
+< Sigurnost >
+Zaključavanje sadržaja — Zaključavanje datoteka za aplikaciju Galerija | bilješki za
+aplikaciju Capture+.
+Kodirati telefon — omogućava šifriranje podataka na telefonu iZ sigurnosnih razloga.
+Prilikom svakog uključivanja telefona, od vas će se zatražiti unos PIN-a ili lozinke za
+dešifriranje telefona.
+Enkripcija SD kartice — omogućivanje šifriranja podataka na SD kartici kako podaci ne
+bi bili dostupni drugim uređajima.
+Vidljiv upis lozinke — prikaz zadnjeg znaka skrivene lozinke dok tipkate.
+Administratori uređaja — pregled ili deaktiviranje administratora uređaja.
+Nepoznati izvori — zadana postavka za instalaciju aplikacija koje ne potječu iZ usluge
+Play Store.
+Potvrdite aplikacije — onemogućavanje instalacije ili prikaz upozorenja prije instalacije
+aplikacija koje bi mogle bit štetne.
+Tip pohrane — samo softver.
+Upravljanje potvrdama
+
+Pouzdane vjerodajnice — prikaz pouzdanih CA certifikata.
+
+lnstaliraj iz memorije — odabir instaliranja kodiranih certifikata.
+
+Ukloni vjerodajnice — uklanja sve certifikate.
+Trust agents — odabir aplikacija koje se mogu koristiti bez otključavanja zaslona.
+Dodavanje na zaslon — omogućivanje korištenja samo jedne aplikacije kada prikvačite
+zaslon aplikacije.
+Aplikacije s pristupom korištenja — omogućuje prikaz informacija o korištenju
+aplikacija na telefonu.
+
+< OuickCircie navlaka >
+Aktivirajte kako bi značajke poput Prethodno, Fotoaparat, LG Health, Poruke | Glazba
+bile dostupne u malom prikazu pri korištenju OuickCircie kućišta.
+
+< Dvostruki prozor >
+Oba dijela podijeljenog zaslona mogu se prikazivati istovremeno.
+1. Dodirnite i zadržite gumb Natrag kako biste podijelili zaslon.
+2. Dodirnite ili povucite ikonu aplikacije koju želite koristiti.
+- - — prebacivanje između dva zaslona.
+:: — prikaz popisa aplikacija.
+— otvaranje na cijelom zaslonu.
+— zatvaranje zadnje korištene aplikacije.
+
+Podijeljeni prikaz — označite kako biste dodirnuti vezu na punom zaslonu ili privitak
+poruke e-pošte i automatski pokrenuli podijeljene prozore.
+
+Pomoć — prikaz savjeta za korištenje podijeljenog prikaza.
+
+< Datum i vrijeme >
+
+Način prikaza datuma odaberite u postavkama Datum i vrijeme. Te postavke također
+možete koristiti za postavljanje vremena i vremenske zone u kojoj se nalazite umjesto
+da te podatke dobijete od mreže koju koristite.
+
+< Pohrana i USB >
+UNUTARNJA POHRANA — prikaz korištenja unutarnje pohrane.
+
+SD KARTICA — Provjerite ukupan raspoloživ prostor na SD kartici. Dodirnite isključivanje
+SD kartice radi sigurnog uklanjanja.
+
+< Ušteda baterije i potrošnje energije >
+
+PODACI O BATERIJI
+
+informacije o napunjenosti baterije prikazane su na grafičkom prikazu baterije uz
+postotak preostalog kapaciteta i status.
+
+Dodirnite ikonu napunjenosti baterije za prikaz zaslona Korištenje baterije kako biste
+mogli vidjeti razinu iskorištenosti baterije i pojedinosti o njenom korištenju. Prikazuje
+koje komponente i aplikacije najviše crpe bateriju. Za prikaz detaljnih informacija
+dodirnite neki od unosa.
+
+Korištenje baterije — prikazuje grafikon preostale razine napunjenosti baterije na
+temelju korištenja tijekom prethodna tri sata. Također prikazuje koje komponente i
+aplikacije najviše troše bateriju.
+
+Postotak baterije na statusnoj traci — označite za prikaz razine napunjenosti baterije
+na statusnoj traci, pokraj ikone baterije.
+
+UŠTEDA ENERGIJE
+
+Dodirnite opciju Ušteda energije kako biste je aktivirali/deaktivirati. Dodirnite opciju
+Ušteda energije za pristup sljedećim postavkama:
+
+Ušteda energije — postavljanje razine napunjenosti baterije nakon koje će se
+automatski aktivirati Ušteda energije. Odaberite Odmah, 5% baterija ili 15% baterija.
+
+Optimizator igre — prilagođavanje loraiitete videozapisa u igrama za štednju baterije.
+
+< Memorija >
+Prikaz prosječnog korištenja memorije.
+
+< Smart cleaning >
+
+Prikaz slobodnog i iskorištenog prostora u memoriji telefona. Dodirnite H u gornjem
+desnom kutu zaslona za postavljanje intervala obavijesti i vremena neaktivnosti.
+
+< Aplikacije >
+Pregled i upravljanje aplikacijama.
+
+< Zadana aplikacija poruka >
+Postavite aplikaciju Poruke ili Hangouts kao zadanu aplikaciju.
+
+< Arhiviranje i reset >
+
+Promjena postavki za upravljanje postavkama i podacima.
+
+Arhiviraj moje podatke — ovu postavku odaberite za izradu sigurnosne kopije postavki
+i podataka aplikacija na poslužitelj tvrtke Google.
+
+Račun arhive — odaberite za izradu sigurnosne kopije računa.
+
+Automatsko obnavljanje — odaberite za povrat postavki i podataka aplikacije nakon
+ponovne instalacije aplikacija na uređaj.
+
+Resetiranje mrežnih postavki — ponovno postavljanje svih mrežnih postavki,
+uključujući postavke za Wi-Fi i Bluetooth.
+
+Reset podataka — ponovno vraćanje postavki na tvornički zadane vrijednosti i brisanje
+svih podataka. Ako na ovaj način ponovo postavite telefon, od vas se traži unošenje
+informacija jednakih onima kod prvog postavljanja sustava Android.
+
+< 0 telefonu >
+Pregled pravnih informacija uz provjeru statusa telefona i verzije softvera.
+
+100
+
+Računalni softver (LG PC Suite)
+
+Računalni softver "LG PC Suite" program je koji omogućuje povezivanje uređaja s
+
+računalom putem USB kabela za prijenos podataka ili Wi-Fi veze. Nakon spajanja,
+
+funkcije uređaja možete koristiti na računalu.
+
+Pomoću aplikacije "LG PC Suite" možete...
+
+. Upravijati multimedijskim sadržajem (glazba, filmovi, slike) i reproducirati ga putem
+svog računala.
+
+. Stati multimedijski sadržaj na uređaj.
+
+. Sinkronizirati podatke (rasporede, kontakte, web oznake) na uređaju i na računalu.
+
+. izrađivati sigurnosne kopije aplikacija na uređaju.
+
+. Ažurirati softver instaliran na uređaju.
+
+. Reproducirati multimedijski sadržaj računala na vašem uređaju.
+
+. Arhiviranje, sastavljanje i uređivanje bilješki u uređaju
+
+NAPOMENA: Pomoću izbornika Pomoć u aplikaciji možete saznati kako
+koristiti računalni softver "LG PC Suite".
+
+instalacija računalne aplikacije "LG PC Suite"
+
+Računalnu aplikaciju "LG PC Suite" možete preuzeti s LG web-mjesta.
+
+1 Posjetite adresu WWW.ig.com i odaberite željenu državu.
+
+2 Odaberite Support (Podrška) > MOBILE SUPPORT (Podrška za mobilne telefone)
+> LG Mobile Phones (Mobilni telefoni LG) > odaberite model
+ili
+Odaberite Support (Podrška) > Mobile (Mobitel) > odaberite model.
+
+3 Pritisnite PC SYNC (Sinkroniziranje s računalom) u značajki MANUALS &
+DOWNLOAD (Priručnici i preuzimanje) i pritisnite DOWNLOAD (Preuzimanje) kako
+biste preuzeli program "LG PC Suite".
+
+101
+
+Sistemski preduvjeti za program "LG PC Suite"
+
+. Operacijski sustav: Windows XP (Service pack 3) 32bitni, Windows Vista, Windows 7,
+Windows 8
+
+. Procesor: 1 GHZ ili jači procesor
+
+. Memorija: 512 MB ili veća količina RAM-a
+
+. Grafička kartica: Razlučivost 1024 x 768, 32-bitna boja ili dublja
+
+. Tvrdi disk: 500 MB ili više slobodnog prostora na disku (može biti potrebna i veća
+količina prostora na disku, ovisno o količini pohranjenih podataka).
+
+. Potreban softver: integrirani upravljački programi tvrtke LG, Windows Media Player 10
+ili novija verzija
+NAPOMENA: Integrirani upravljački program tvrtke LG za USB
+
+integrirani upravljački program tvrtke LG za USB potreban je za povezivanje
+uređaja tvrtke LG i računala, a instalira se automatski pri instaliranju računalne
+aplikacije "LG PC Suite".
+
+Sinkronizacija uređaja s računalom
+
+Podaci na uređaju mogu se jednostavno sinkronizirati s podacima na računalu pomoću
+
+računalnog softvera "LG PC Suite". Možete sinkronizirati kontakte, rasporede i web-
+
+oznake.
+
+Zato se koristi sljedeći postupak:
+
+1 Priključite uređaj na osobno računalo. (upotrijebite USB kabel ili Wi-Fi vezu)
+
+2 Povucite statusnu traku prema dolje > odaberite Medijski uređaj (MTP).
+
+3 Nakon priključivanja pokrenite program i odaberite odjeljak uređaja među
+kategorijama na lijevoj strani zaslona.
+
+4 Pritisnite Personal information (Osobni podaci) kako biste odabrali željeni sadržaj.
+
+5 Označite potvrdni okvir sadržaja kako bi se sinkronizirao te pritisnite gumb
+Sinkronizacija.
+
+102
+
+NAPOMENA: Za sinkronizaciju telefona s računalom potrebno je na računalo
+instalirati program LG PC Suite. Detaljne informacije o instalaciji programa LG
+PC Suite potražite na prethodnim stranicama.
+
+Premještanje kontakata sa starog na novi uređaj
+
+1 Pomoću programa za sinkronizaciju s računalom izvezite imenik sa starog uređaja
+na računalo u obliku CSV datoteke.
+
+2 Najprije instalirajte program "LG PC Suite" na računalo. Pokrenite program i
+povežite mobilni telefon sa sustavom Android s računalom pomoću USB kabela.
+
+3 Na početnom izborniku odaberite telefon > Uvozi izvoz kontakta > Izvoz na
+telefon.
+
+4 Prikazat će se skočni prozor za odabir vrste datoteke i datoteke za izvoz.
+
+5 U skočnom prozoru pritisnite Select a file (Odabir datoteke) i otvorit će se Windows
+Explorer.
+
+6 Odaberite datoteku kontakata koju želite izvesti u Windows Explorer i pritisnite
+Otvori.
+
+7 Pritisnite Izvezi.
+
+8 Prikazat će se skočni prozor Field mapping (Mapiranje polja) za povezivanje
+kontakata na vašem uređaju i podataka o novim kontaktima.
+
+9 Ako dođe do neslaganja između računalnih podataka o kontaktima i kontakata s
+uređaja, iwršite potrebne odabire ili izmjene u aplikaciji LG PC Suite.
+10 Pritisnite U redu.
+
+103
+
+Ažuriranje softvera telefona
+
+Ažuriranje softvera telefona
+
+Ažuriranje softvera mobilnog telefona LG preko Interneta
+
+Dodatne informacije o korištenju ove funkcije potražite na adresi http://WWW.ig.com/
+common/indexjsp + (odaberite državu i jezik).
+
+Ova značajka omogućava ažuriranje programskih datoteka vašeg telefona na najnoviju
+verziju preko interneta, bez potrebe za odlaskom u servisni centar. Ta je značajka
+dostupna samo ako i kada tvrtka LG izradi noviju verziju firmwarea za vaš uređaj.
+Kako ažuriranje programskih datoteka mobilnog telefona zahtijeva punu pažnju
+korisnika, provjerite sve upute i napomene koji se prikazuju za svaki od koraka prije
+nego što nastavite na sljedeći korak. Napominjemo kako isključivanje USB kabela za
+prijenos podataka tijekom nadogradnje može uzrokovati ozbiljan lwar telefona.
+
+NAPOMENA: LG pridržava pravo da programske datoteke ažurira samo
+za odabrane modele i po vlastitom nahođenju te ne jamči dostupnost novije
+verzije programskih datoteka za sve modele telefona.
+
+Ažuriranje softvera LG mobilnog telefona zračnim putem (Over-the-Air, OTA)
+Ta značajka omogućuje ažuriranje softvera na telefonu novijom verzijom pomoću
+značajke OTA, bez priključivanja USB podatkovnog kabela. Ta je značajka dostupna
+samo ako i kada tvrtka LG izradi noviju verziju firmwarea za vaš uređaj.
+
+Najprije provjerite verziju softvera na mobilnom telefonu: Postavke > kartica
+Standardno > O telefonu > Centar za ažuriranje > Nadogradnja softvera >
+Provjerite odmah za ažuriranje.
+
+104
+
+NAPOMENA: Uslijed ažuriranja softvera telefona vaši bi osobni podaci
+
+s interne memorije telefona—uključujući podatke 0 Google korisničkom
+računu i svim drugim računima, podatke sustava/aplikacija i postavke,
+preuzete aplikacije i DRM licence—mogli biti izgubljeni. Zbog toga, tvrtka LG
+preporučuje da napravite rezervnu kopiju osobnih podataka prije nego što
+ažurirate softver telefona. Tvrtka LG ne preuzima odgovornost za gubitak
+osobnih podataka.
+
+NAPOMENA: Ova značajka ovisi o davatelju mrežnih usluga, regiji i državi.
+
+105
+
+O korisničkom priručniku
+
+106
+
+O korisničkom priručniku
+
+. Prije korištenja uređaja pažljivo pročitajte priručnik. Tako ćete telefon moći koristiti na
+siguran i ispravan način.
+
+. Neke slike i snimke zaslona iz priručnika na telefonu bi mogle izgledati drugačije.
+
+. Vaš bi se sadržaj mogao razlikovati od onoga na gotovom proizvodu ili od softvera koji
+pružaju davatelji usluga. Taj je sadržaj podložan promjenama bez prethodne najave.
+Najnoviju verziju ovog priručnika možete pronaći na web-mjestu tvrtke LG, WWW.
+lg.com.
+
+. Aplikacije vašeg telefona i njihove funkcije mogle bi se razlikovati u različitim
+državama, regijama ili ovisno o hardverskim specifikacijama. Tvrtka LG ne preuzima
+odgovornost za poteškoće u radu uređaja koje su uzrokovane upotrebom aplikacija
+koje su ran/ili drugi davatelji usluga.
+
+. Tvrtka LG ne preuzima odgovornost za poteškoće u radu uređaja ili nekompatibilnosti
+koje su uzrokovane mijenjanjem postavki registra ili izmjenama operacijskog sustava.
+Svaki pokušaj izmjene operacijskog sustava može uzrokovati nepravilan rad uređaja
+ili aplikacija.
+
+. Softver, zvukovi, pozadine, slike i ostali sadržaji s uređaja dostupni su s licencom za
+ograničeno korištenje. izdvajanjem tih materijala i njihovom upotrebom u komercijalne
+ili druge svrhe možda kršite zakone o autorskim pravima. Vi kao korisnik snosite punu
+odgovornost u slučaju protuzakonite upotrebe sadržaja.
+
+. Mogle bi vam se zaračunati dodatne naknade za podatkovne usluge, npr. za slanje
+poruka, prijenos i preuzimanje sadržaja, automatsku sinkronizaciju ili pak korištenje
+usluga lociranja. Kako biste izbjegli dodatne naknade, odaberite podatkovnu tarifu
+u skladu sa svojim potrebama. Za dodatne pojedinosti obratite se svom davatelju
+usluga.
+
+Trgovački znakovi
+
+. LG i LG logotip registrirani su zaštitni znakovi tvrtke LG Electronics.
+
+. Bluetooth© je registrirani zaštitni znak tvrtke Bluetooth SIG, inc. širom svijeta.
+
+. Wi-Fi© i Wi-Fi logotip registrirani su zaštitni znakovi tvrtke Wi-Fi Alliance.
+
+. Svi ostali zaštitni znakovi i autorska prava vlasništvo su odgovarajućih vlasnika.
+
+DivX HD HDD'W-
+
+Ovaj DivX Certified© uređaj podvrgnut je strogim ispitivanjima kako bi se provjerila
+njegova mogućnost reprodukcije DivXP videozapisa.
+
+Za reprodukciju kupljenih DivX filmova najprije registrirajte uređaj na web-mjestu vod.
+divx.com. Registracijsku šifru potražite u odjeljku DivX VOD u izborniku za postavljanje
+uređaja.
+
+Ima oznaku DivX Certified© kao uređaj koji može reproducirati DivXP videozapise
+do visoke razlučivosti 720p, uključujući premium sadržaje.
+
+DivXP, DivX CertifiedP i odgovarajući logotipi zaštitni su znakovi tvrtke DivX, LLC i
+koriste se u skladu s licencom.
+
+Dolby Digital Plus B&Ráus
+
+Proizvedeno pod licencom tvrtke Dolby Laboratories. Dolby, Dolby Digital Plus i
+simbol dvostrukog slova D zaštitni su znakovi tvrtke Dolby Laboratories.
+
+107
+
+108
+
+Obavijest s informacijama o softveru s otvorenim izvornim kodom
+
+Za pristup otvorenom kodu prema iicencama GPL, LGPL, MPL i ostalim
+iicencama za softver s otvorenim kodom sadržan u ovom uređaju posjetite
+http://opensource.lge.com.
+
+Osim izvornog koda, možete preuzeti sve predmetne uvjete licence, izjave o
+odricanju odgovornosti i napomene o autorskim pravima.
+
+LG Electronics isporučit će vam otvoreni izvorni kod na CD-ROM mediju
+
+pri čemu će se naplatiti dostava takvog medija (tj. trošak nabave medija,
+poštarina i dostava) ako e-poštom uputite zahtjev na opensource©ige.com.
+Ta ponuda vrijedi tri (3) godine od datuma nabave proizvoda.
+
+DODATNA OPREMA
+
+Za korištenje s telefonom dostupna je sljedeća dodatna oprema (stavke opisane u
+nastavku mogu se ubrajati u neobaveznu dodatnu opremu).
+
+Putni punjač Stereo slušalice
+
+Vodič za početak « Podatkovni kabel
+korištenja
+Baterija Š
+
+ 
+
+NAPOMENA:
+
+. Uvijek koristite originalnu LG dodatnu opremu.
+
+. Ako to ne učinite, garancija može prestati biti valjana.
+
+. Dodatna oprema može se razlikovati u pojedinim regijama.
+
+109
+
+Rješavanje problema
+
+U ovom se poglavlju spominju neki od problema na koje možete naići prilikom korištenja
+telefona. Zbog nekih se problema morate obratiti svom davatelju usluga, ali većinu
+možete riješiti i sami.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dvije šifre koje
+ste unijeli se ne
+podudaraju.
+
+ 
+
+Poruka Mogući uzroci Moguće korektivne mjere
+v U telefonu nema
+583533 Micro-SIM kartice Provjerite je li Micro-SIM kartica
+kartice ili nije ispravno ispravno umetnuta.
+umetnuta.
+Signal je slab ili
+se nalazite izvan Pomaknite se do prozora ili na
+dometa mreže otvoreno područje. Provjerite kartu
+Nema veze davatelja bežičnih pokrivenosti mrežnog operatera.
+s mrežom usluga.
+993152“ Provjerite je li Micro-SIM kartica starija
+g Davatelj usluga od 6—1 2 mjeseci. Ako jest, zamijenite
+koristi nove je u nekom od centara davatelja usluga
+usluge. mobilne mreže. Obratite se svom
+davatelju usluga.
+Želite li promijeniti
+sigurnosnu šifru,
+ponovnim unosom
+Šifre se ne nmoratefpotvrdltl U slučaju da zaboravite šifru, obratite
+podudaraju OVU S' ru. se davatelju usluga.
+
+ 
+
+110
+
+ 
+
+ 
+
+Poruka
+
+Mogući uzroci
+
+Moguće korektivne mjere
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ne može Ne podržava
+se postaviti davatelj usluga . .
+niti jedna ili je potrebna Obratite se svom davatelju usluga.
+aplikacija registracija.
+Pogreška u biranju Nova mreža nije autorizirana.
+Umetnuta je “Wa Provjerite nova ograničenja
+Pozivi nisu Micro-SIM kartica. '
+dostupni
+Dosegnuta Obratite se davatelju usluga ili ponovo
+unaprijed plaćena postavite ograničenje pomoću PIN 2
+svota. šifre.
+Tipka za
+uključivanje/ Pritisnite tipku za uključivanje/
+Telefon se isključivanje isključivanje i držite je najmanje dvije
+ne može pritisnuta je sekunde.
+uklju čiti prekratko.
+
+ 
+
+ 
+
+Baterija nije
+napunjena.
+
+ 
+
+Napunite bateriju. Provjerite pokazatelj
+punjenja na zaslonu.
+
+ 
+
+ 
+
+W
+
+ 
+
+Poruka
+
+Mogući uzroci
+
+Moguće korektivne mjere
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Baterija mje Napunite bateriju.
+napunjena.
+Temperatura
+okruženja je Telefon se mora puniti u okruženju
+previsoka ili normalne temperature.
+preniska.
+
+Pogreška Problemi s
+
+punjenja kontaktom Provjerite punjač i vezu s telefonom.
+Nema napajanja Uključite punjač u drugu utičnicu.
+Punjač u kvaru Zamijenite punjač.
+
+. . v Koristite samo originalnu LG dodatnu
+
+Pogresan punjac opremu.
+
+. .. Funkcija fiksnog . . . . . . . v.
+Broj nije . . . . PrOVjerlte izbornik Postavke l isklju0lte
+dopušten broja za biranje je funkciju
+
+uključena. '
+Nemogućnost
+primanja/
+slanja SMS Memorija je puna izbrišite neke od poruka iz telefona.
+porukai
+fotografija
+
+ 
+
+ 
+
+Datoteke se
+ne otvaraju
+
+ 
+
+Nepodržan
+datotečni format
+
+ 
+
+Provjerite podržane formate datoteka.
+
+ 
+
+112
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Poruka Mogući uzroci Moguće korektivne mjere
+ŽŽSJŽPUŽC Koristite ii zaštitnu vrpcu ili futrolu,
+kada ijmarit Problem sa provjerite prekriva ii područje oko
+dolazni senzorom blizine senzora blizine. Provjerite je li područje
+
+. oko senzora blizine čisto.
+poZlv.
+
+.. Provjerite postavke u izborniku zvuka
+ZNVŽTŽ \IŽiŠrCarči'rŠda za kako biste provjerili ne koristite ti
+1 vibracije ili tihi način rada.
+Prekid. Povremeni Pokušajte izvršiti ažuriranje softvera
+vezelh . .
+. softverski problem putem web-mjesta.
+
+zamrzavanje
+
+ 
+
+ 
+
+ 
+
+ 
+
+113
+
+Često postavljana pitanja
+
+ 
+
+ 
+
+Kategorija
+
+ 
+
+ 
+
+ 
+
+ 
+
+Potkategorija Pitanje Odgovor
+Možete priključiti Bluetooth audio
+BI t th " uređaj poput stereo/mono slusalica.
+ue oo FunkClje dostupne Također, kada je FTP poslužitelj
+Bluetooth . . . .
+U đ .. putem Bluetooth veze povezan s kompatibilnim uređajem,
+re a“ možete dijeliti sadržaj s medija za
+pohranu.
+Ako je moja Bluetooth
+slušalica povezana, Ako je Bluetooth slušalica spojena, svi
+Bluetooth . v . . . .
+Bluetooth mogu li slusati glazbu se zvukon sustava reprodUClraju preko
+Si , |. putem žičnih slušalica nje. Stoga glazbu nećete moći slušati
+usa ica s utikačem od 3,5 putem žičnih slušalica.
+mm?
+Podaci . . .
+Kontakti Kako mogu stvoriti PodaCl kontakata na telefonu mogu se
+S' sigurnosnu kopiju sinkronizirati s podacima kontakata u
+'QUFPOSPO kontakata? aplikaciji GmailTM.
+kopiranje
+Može li se postaviti
+Podaci jednosmjerna Dostupna je samo dvosmjerna
+Sinkronizacija sinkronizacija za sinkronizacija.
+GmailTM?
+
+ 
+
+Podaci
+Sinkronizacija
+
+Mogu li se sinkronizirati
+sve mape e—pošte?
+
+Ulazni spremnik se sinkronizira
+automatski. Druge mape možete vidjeti
+ako dodirnete tipku izbornika “ i
+odaberete Mape za odabir mape.
+
+ 
+
+114
+
+ 
+
+Kategorija
+Potkategorija
+
+Pitanje
+
+Odgovor
+
+ 
+
+GoogleTM
+
+Moram li se prijaviti
+u aplikaciju Gmail
+
+Nakon što se jednom prijavite u
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pirić/gi svaki put kada želim Gmail, više se nećete morati ponovno
+Gmail pristupiti aplikaCljl prijavljivati.
+Gmail?
+GoogleTM
+usluga Mogu li se poruke Ne, telefon ne podržava opciju filtriranja
+Google e-pošte filtrirati? e-pošte.
+račun
+Funkcija Što će se dogoditi ako v v .
+telefona pokrenem jos jednu Vasa se poruka e-poste automatski
+E-pošta aplikaciju dok pisem sprema kao skica.
+poruku e-pošte?
+Funkcija Postojtti ograničenje
+telefona za velicinu da???“ .v . ...
+Melo dija ako zelim koristiti MP3 Nema ogranicenja velicine datoteke.
+zvona datoteku kao melodiju
+zvona?
+Funkcija M9] telefon..“e
+telefona prtkazuje vrijeme .. . . v . . .
+Vrijeme primanja poruke ako Vrijeme primanja poruke mozete Vidjeti
+. . je poruka starija od 24 samo za poruke primijene isti dan.
+primanja sata. Kako to mogu
+poruke promijeniti?
+Funkcija Može li .se na . Mogu se instalirati i koristiti sve
+telefona telefon instalirati aplikacue k0je su dostupne na vveb-
+Navigacija druga aplikacija za mjestu Play StoreT'V', a kompatibilne su
+
+navigaciju?
+
+s hardverom uređaja.
+
+ 
+
+115
+
+ 
+
+Kategorija
+
+ 
+
+Potkategorija Pitanje Odgovor
+Funkcija Mogu li sinkronizirati Sinkronizirati se mogu samo kontakti
+telefona kontakte iz svih svojih na poslužiteljima za Gmail i MS
+
+Sinkronizacija
+
+računa e-pošte?
+
+Exchange (poslužitelj e-pošte tvrtke).
+
+ 
+
+Ako ste prenijeli kontakt s funkcijama
+W & P spremljenim u samom broju, te
+značajke nećete moći koristiti. Svaki
+ćete broj morati ponovo spremiti.
+
+ 
+
+Funkcija Mogu “ se spremati Spremanje kontakata s čekanjem i
+telefona kontakti koji u stankom:
+Čekanje i brojevima sadrže 1. Na početnom zaslonu dodirnite
+stanka čekanje i stanku? ikonu telefona ..
+2. Birajte broj te dodirnite tipku
+izbornika H.
+3. Dodirnite Dodaj pauzu od 2
+sekunde ili Dodaj čekanje.
+Funkcija Kojim je sigurnosnim Možete postaviti obavezan unos
+telefona funkcijama uređaj uzorka za otključavanje prije pristupanja
+Sigurnost opremljen? uređaju ili korištenja uređaja.
+
+ 
+
+116
+
+ 
+
+Kategorija
+
+Potkategorija Pitanje
+
+Odgovor
+
+ 
+
+Funkcija
+telefona
+
+Uzorak za
+otključavanje
+
+Kako da stvorim
+uzorak za
+otključavanje?
+
+1. Na početnom zaslonu dodirnite i
+držite tipku Nedavno U.
+
+2. Dodirnite Postavke sustava >
+karticu Zaslon > Zaključani zaslon.
+
+3. Dodirnite Odaberi zaključavanje
+zaslona > Uzorak. Pri prvom
+odabiru te mogućnosti prikazat će
+se kratke upute za stvaranje uzorka
+za otključavanje.
+
+4. Postavite uzorak tako da ga jednom
+nacrtate, a zatim ga ponovo unesete
+za potvrdu.
+
+Mjere opreza prilikom korištenja uzorka
+
+za zaključavanje.
+
+Vrlo je važno ne zaboraviti gestu
+
+uzorka za otključavanje koji postavite.
+
+Telefonu nećete moći pristupiti ako
+
+neispravan uzorak unesete pet puta.
+
+imate pet mogućnosti za unos uzorka
+za otključavanje, PIN šifre ili lozinke.
+
+Ako ste iskoristili svih 5 mogućnosti,
+
+možete pokušati ponovo nakon 80
+
+sekundi. (Osim toga, ako postavite
+
+rezervni PIN, moći ćete ga koristiti za
+otključavanje uzorka.)
+
+ 
+
+117
+
+ 
+
+Kategorija
+
+ 
+
+Potkategorija Pitanje Odgovor
+Ako ste zaboravili uzorak:
+v . Ako ste se na svoj Google račun
+Funkcija Sto da napraVIm ako prijavili putem telefona te iz pet
+
+telefona
+Uzorak za
+otključavanje
+
+zaboravim uzorak
+
+za otključavanje, a
+nemam Google račun
+na telefonu?
+
+pokušaja niste unijeli ispravan uzorak,
+dodirnite gumb Zaboravljen uzorak.
+Od vas će se zatim zatražiti prijava
+pomoću Google računa čime ćete
+otključati telefon.
+
+ 
+
+ 
+
+ 
+
+Funkcija Hoću li znati da je
+telefona memorija puna? Da, primit cete obaVljest.
+Memorija
+Telefon ima višejezične mogućnosti.
+Promjena jezika:
+Funkcija 1. Na početnom zaslonu dodirnitei
+telefona Mogu li promijeniti jezik držite tipku Nedavno I:] i dodirnite
+Podrška za telefona? Postavke sustava.
+jezik 2. Dodirnite karticu Standardno >
+Jezik i tipkovnica > Jezik.
+3. Dodirnite željeni jezik.
+Konfiguracija VPN pristupa razlikuje se
+Funkcija . od tvrtke do tvrtke. Za konfiguraciju
+telefona 535293 postaVlm VPN pristupa s telefona morate zatražiti
+VPN ' podatke od mrežnog administratora
+
+tvrtke.
+
+ 
+
+118
+
+ 
+
+Kategorija
+
+ 
+
+ 
+
+ 
+
+ 
+
+mogu ukloniti?
+
+Potkategorija Pitanje Odgovor
+Moj se zas|on 1. Na početnom zaslonu dodirnite i
+Funkcija isključuje nakon samo držite tipku Nedavno D.
+telefona 15 sekundi. Kako 2. Dodirnite Postavke sustava >
+istek mogu promijeniti karticu Zaslon.
+vremena za vrijeme nakon kojeg se 3. Dodirnite Vrijeme gašenja zaslona.
+ZáSlOO isključuje pozadinsko 4. Dodirnite željeno vrijeme isteka
+osvjetljenje? pozadinskog osvjetljenja.
+Kada koristite podatkovnu vezu, vaš
+uređaj automatski uspostavlja Wi-Fi
+Funkci'a . . . . vezu (ako je opcija Wi-Fi povezivanje
+teleforia Ako su dOStUQn' ' VWH uključena na vašem telefonu). Nećete,
+Wi-Fi i ',mObillna mrezalkioju međutim, primiti obavijest kada uređaj
+mobilna [Žrijsžiiigu moj e e on prelazi sjedne veze na drugu.
+mreža ' Ako se koristi Wi-Fi podatkovna veza,
+na vrhu zaslona prikazat će se samo
+ikona za Wi-Fi bez mobilne mreže.
+Funkcija . . . Da. Jednostavno dodirnite i držite
+telefona Mogu li'ukionltlv lkonu do p0javijlvanja ikone kante
+Početni aplikaciju s pocetnog za smece na vrhu središnjeg dijela
+zaslona? zaslona. Odvucite ikonu u kantu za
+zaslon smeće bez podizanja prsta.
+1. Na početnom zaslonu dodirnite i
+Preuzeo /la sam držite tipku Nedavno El.
+
+Funkcija . .. . . 2. Dodirnite Postavke sustava >
+telefona aplikaClju koja UZTOkUJe karticu Standardno > A likaci'e >
+. .. ogreške. Kako je p ]
+
+ApiikaCija p PREUZEl'O.
+
+3. Dodirnite aplikaciju, a zatim dodirnite
+Deinstaiiraj.
+
+ 
+
+119
+
+ 
+
+Kategorija
+
+ 
+
+ 
+
+ 
+
+ 
+
+Potkategorija Pitanje Odgovor
+Je li moguće puniti
+telefon putem USB
+Funkcija podatkovnog kabela Da, telefon se može puniti putem USB
+telefona bez instaliranja upravljačkog kabela bez obzira jesu li
+Punjač neophodnog upravljački programi instalirani ili ne.
+upravljačkog programa
+za USB?
+Da. Nakon spremanja glazbene
+datoteke kao zvona, možete je koristiti
+za alarm.
+1. Dodirnite i držite pjesmu s
+Funkcija Mogu li za alarm knjižničnog popisa. U izborniku koji
+telefona koristiti glazbene će se otvoriti dodirnite Postavi za
+Alarm datoteke? melodiju > Zvuk zvona telefona ili
+Melodija za kontakt.
+2. Na zaslonu za postavljanje sata
+za alarm odaberite tu pjesmu kao
+zvono.
+teAliešonrila isključiti ako je telefon Ne, ta funkcija nije podrzana.
+isključen?
+Funkcija Ako je jakost zvona . . .
+telefona postavvijenana " Alarm je programiran tako da se oglaSI
+Alarm iskljuceno lil VibraClja, ! u talem slucajeVlma.
+
+hoću li čuti alarm?
+
+ 
+
+120
+

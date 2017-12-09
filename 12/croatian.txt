@@ -1,0 +1,1364 @@
+HRVATSKI
+
+PRIRUČNIK ZA KORISNIKE
+
+MIKRO Hi-Fi SUSTAV
+Molimo, prije korištenja uređaja pažljivo pročitajte priručnik te ga
+sačuvajte za buduću upotrebu.
+
+FA162 (FA162N, FAS162F)
+
+FA162N-D0U_DHUNLL_CRO_4478.indd 1
+
+2015-04-08
+
+5:01:37
+
+Sigurnosne informacije
+OPREZ
+OPASNOST OD STRUJNOG UDARA
+NE OTVARAJ
+
+OPREZ: KAKO BISTE SMANJILI RIZIK OD STRUJNOG
+UDARA NE SKIDAJTE POKLOPAC (ILI ZADNJU
+PLOČU). UREĐAJ NEMA DIJELOVE KOJE KORISNIK
+MOŽE SERVISIRATI, SERVISIRANJE PREPUSTITE
+KVALIFICIRANOM OSOBLJU.
+Znak munje sa simbolom
+strelice unutar istostraničnog
+trokuta upozorava na postojanje
+neizoliranog opasnog napona u
+kućištu uređaja koji je dovoljno jak
+da za ljude predstavlja opasnost
+od strujnog udara.
+Znak uskličnika unutar
+istostranačnog trokuta upozorava
+korisnika na prisutnost važnih
+informacija za rad i održavanje
+(servisiranje) uređaja u pisanim
+materijalima koji prate uređaje.
+UPOZORENJE: U CILJU SPREČAVANJA OPASNOSTI
+OD POŽARA ILI STRUJNOG UDARA, ČUVAJTE
+PROIZVOD OD KIŠE I VLAGE.
+UPOZORENJE: Ne postavljajte ovu opremu u
+zatvorenim prostorima kao što su zatvorene police
+za knjige i slično.
+OPREZ: Ne zatvarajte otvore za ventilaciju. Uređaj
+instalirajte u skladu s uputama proizvođača.
+Utori i otvori na kućištu su namijenjeni za ventilaciju
+i osiguravaju pouzdan rad uređaja te ga štite od
+pregrijavanja. Otvori se ne smiju nikada zatvoriti
+postavljanjem uređaja na krevet, fotelju, tepih ili
+neku drugu sličnu površinu. Uređaj se ne smije
+stavljati u ugradbene prostore kao što su police za
+knjige ili ormari osim u slučaju kada je osigurana
+kvalitetna ventilacija ili u slučaju kada se to predlaže
+u priručniku proizvođača.
+
+FA162N-D0U_DHUNLL_CRO_4478.indd 2
+
+OPREZ: Ovaj proizvod koristi laserski sustav.
+Kako biste osigurali pravilnu upotrebu proizvoda,
+molimo pažljivo pročitajte priručnik za korisnika i
+sačuvajte ga za buduće potrebe. Ukoliko ured-aj
+zahtijeva održavanje, kontaktirajte ovlašteni servisni
+centar. Korištenje upravljačkih funkcija, podešavanja
+ili izvod-enje procedura koje nisu navedene u ovom
+priručniku može dovesti do opasanog izlaganje
+zračenju. Ne pokušavajte otvoriti kućište kako biste
+spriječili izravno izlaganje laserskoj zraci.
+OPREZ u odnosu na električni kabel
+Za većinu se ured-aja preporučuje da imaju zaseban
+strujni krug za napajanje;
+Drugim riječima, potrebna je zasebna utičnica sa
+zasebnim osiguračem na kojem neće biti drugih
+utičnica ili strujnih krugova. Za potvrdu provjerite
+stranicu sa specifikacijama proizvoda u ovom
+priručniku.
+Ne preopterećujte zidnu utičnicu. Preopterećene
+zidne utičnice, slabo pričvršćene ili oštećene
+zidne utičnice, produžni kablovi, presavijeni
+električni kablovi, oštećena ili napuknuta izolacija
+na žicama predstavljaju opasnost. Bilo koji od
+ovih slučajeva može dovesti do strujnog udara
+ili požara. S vremena na vrijeme pregledajte
+električni kabel na ured-aju, ako ustanovite
+njegovo oštećenje ili propadanje, iskopčajte kabel,
+prekinite korištenje proizvoda i uredite da se kabel
+zamijeni odgovarajućim kabelom kod ovlaštenog
+servisnog centra Električni kabel zaštitite od
+fizičkih i mehaničkih oštećenja, kao što su savijanja,
+lomljenja, uklještenja, gaženja i drugo. Posebnu
+pažnju obratite na utikače, utičnice i na mjesto na
+kojem kabel izlazi iz ured-aja.
+Za iskapčanje glavnog napajanja, iskopčajte utikač
+iz utičnice na zidu. Kod instaliranja proizvoda, pazite
+da utikač bude pristupačan.
+
+2015-04-08
+
+5:01:38
+
+Uređaj je opremljen prijenosnom baterijom ili
+akumulatorom.
+
+Odlaganje starih baterija/akumulatora na otpad
+1. Taj simbol može biti otisnut u
+kombinaciji s kemijskim simbolima
+za živu (Hg), Kadmij (Cd) ili olovo
+(Pb) ako baterija sadrži više od
+0,0005% žive, 0,002% kadmija ili
+0,004% olova.
+
+Siguran način vađenja baterije iz uređaja:
+Izvadite staru bateriju, slijedite korake obrnutim
+redoslijedom u odnosu na stavljanje. Staru bateriju
+odložite u odgovarajući spremnik u određenim
+odlagalištima, kako bi spriječili zagađenje okoliša
+i moguće opasnosti za zdravlje ljudi i životonja.
+Baterije ne odlažite zajedno s drugim otpadom.
+Za baterije i akumulatore se preporučuje uporaba
+lokalnih sustava, bez plaćanja nadoknade. Baterija
+se ne smije izlagati prevelikoj temperaturi sunca,
+vatre i drugih izvora topline.
+
+Pb
+
+2. Sve baterije/akumulatore treba
+odložiti zasebno od kućanskog
+otpada te pri tome treba koristiti
+odlagališta koja je odredila vlada ili
+lokalna uprava.
+
+OPREZ: Uređaj se ne smije izlagati vodi (kapanju ili
+pljuskanju) i na uređaj se ne smiju stavljati predmeti
+ispunjeni tekućinama, kao što su na primjer vaze.
+
+3. Ispravno odlaganje starih baterija/
+akumulatora doprinijet će
+sprječavanju negativnih posljedica
+po okoliš, zdravlje životinja i ljudi.
+
+Uklanjanje starog aparata
+
+4. Dodatne informacije o odlaganju
+starih baterija/akumulatora zatražite
+od gradske uprave, službe za
+zbrinjavanje otpada ili trgovine u
+kojoj ste proizvod kupili.
+
+1. Električni i elektronski proizvodi
+ne smiju se odlagati zajedno s
+komunalnim otpadom, već u
+posebna odlagališta koja je odredila
+vlada ili lokalne vlasti.
+2. Pravilno odlaganje starog proizvoda
+sprečit če potencijalne negativne
+posljedice po okoliš i zdravlje ljudi.
+3. Podrobnije informacije o odlaganju
+starog proizvoda potražite u
+gradskom uredu, službi za odlaganje
+otpada ili u trgovini u kojoj ste kupili
+proizvod.
+
+FA162N-D0U_DHUNLL_CRO_4478.indd 3
+
+2015-04-08
+
+5:01:38
+
+Tvrtka LG Electronics izjavljuje da je/su ovaj/ovi
+proizvod(i) u skladu s osnovnim zahtjevima i drugim
+relevantnim odredbama Direktiva 2004/108/EZ,
+2006/95/EZ, 2009/125/EZ i 2011/65/EU.
+Za usklađenost proizvoda kontaktirajte ured :
+
+Kada formatirate diskova na kojima se može
+ponovo snimati (rewritable), opciju za format diska
+morate postaviti na [Mastered] kako bi disk učinili
+kompatibilnim s LG player-ima. Kada postavljate
+opciju na Live File System, disk ne možete koristiti
+na LG player-ima.
+(Mastered/ Live File System : Disk format sustav za
+Windows Vista)
+
+LG Electronics Inc.
+EU Representative, Krijgsman 1,
+1186 DM Amstelveen, The Netherlands
+ Imajte na umu kako se NE radi o mjestu za
+kontakt s Korisničkom službom. Za informacije o
+Korisničkoj službi pogledajte jamstveni list ili se
+obratite trgovcu od kojega ste kupili proizvod.
+
+FA162N-D0U_DHUNLL_CRO_4478.indd 4
+
+2015-04-08
+
+5:01:38
+
+Sadržaj
+Prije upotrebe
+O simbolima s uputama /
+Napomene o diskovima . . . . . . . . . . . . . . . . . .5
+Prednja / zadnja ploča . . . . . . . . . . . . . . . . . . .6
+Daljinski upravljač . . . . . . . . . . . . . . . . . . . . .7
+
+O simbolima s uputama
+Označava opasnost koja bi mogla prouzročiti
+štetu na ured-aju ili drugu materijalnu štetu.
+Napomena
+
+Označava posebne funkcije ovog
+ureœaja.
+
+Priključivanja
+Priključivanje sustava zvučnika /
+Funkcija dodatni ureœaj (Auxiliary) . . . . . . . . .8
+Priključivanje antene (Aerial) . . . . . . . . . . . . . .9
+
+Operacija
+USB funkcija . . . . . . . . . . . . . . . . . . . . . . . . . . . .9
+Funkcija podešavanja sata / Timer funkcija /
+Funkcija timer-a za spavanje . . . . . . . . . . . . .10
+Audio podešavanje . . . . . . . . . . . . . . . . . . . . .12
+Spremanje radio stanica u memoriju /
+Slušanje radija . . . . . . . . . . . . . . . . . . . . . . . .14
+RDS funkcija - DODATNA MOGUĆNOST . .15
+CD reprodukcija . . . . . . . . . . . . . . . . . . . . . . .16
+Programirana reprodukcija /
+Više o MP3/WMA . . . . . . . . . . . . . . . . . . . . .17
+
+Reference
+Robne marke i licence . . . . . . . . . . . . . . . . . .18
+Otklanjanje teškoća . . . . . . . . . . . . . . . . . . . .18
+Specifikacija . . . . . . . . . . . . . . . . . . . . . . . . .19
+
+U priručniku se nalaze detaljna objašnjenja
+o tome kako se upravlja ureœajem pomoću
+daljinskog upravljača.
+
+Napomene o diskovima
+Rukovanje diskovima
+Ne dirajte stranu diska koja služi za reprodukciju.
+Držite disk za rubove tako da na površini ne ostanu
+otisci prstiju. Na disk ne lijepite papir ili ljepljivu
+traku. Nikada ne lijepite papir ili naljepnice na disk.
+
+Čuvanje diskova
+Nakon puštanja, disk spremite u kutiju. Ne izlažite
+disk izravnoj sunčevoj svjetlosti ili izvorima topline,
+te ga nikada ne ostavljajte u automobilu izloženog
+izravnoj sunčevoj svjetlosti.
+Čišćenje diskova
+Otisci pristiju i prašina na disku mogu prouzročiti
+lošu kvalitetu slike i zvuka.
+Prije reprodukcije disk očistite čistom krpom. Disk
+brišite od sredine prema vanjskom dijelu.
+
+Predostrožnosti kod upotrebe dodirnih tipki
+• Dodirne tipke upotrebljavajte suhim i čistim rukama.
+- U vlažnoj sredini, prije dodirivanja tipki obrišite
+vlagu s dodirnih tipki
+• Ne pritišćite jako dodirne tipke kako bi radile.
+- Ako primijenite previše snage, možete oštetiti
+senzor dodirnih tipki.
+
+Ne upotrebljavajte agresivne otopine poput alkohola,
+benzina, razrjeœivača, komercijalnih sredstava za
+čišćenje ili antistatičkog raspršivača namijenjenog
+čišćenju starih vinilnih ploča.
+
+• Dodirnite tipku koju želite uključiti kako bi
+pokrenuli željenu funkciju.
+• Pazite da na dodirnim tipkama ne upotrebljavate
+vodiče kao što su metalni predmeti, tako može doći
+do kvara na ureœaju.
+
+5
+
+Prije upotrebe
+
+Prije upotrebe
+
+Prednja / zadnja ploča
+
+19
+1
+
+12
+
+2
+3
+
+13
+14
+
+4
+
+15
+
+5
+
+16
+
+22
+20
+21
+
+6
+7
+OTVOREN
+
+8
+9
+10
+11
+1. 1 (POWER)
+
+17
+18
+
+2. VOLUME*
+
+15. > (SKIP)
+TUN. (+) (TUNER)
+
+3. FUNC. (FUNKCIJA)
+(FM, CD, USB, AUX)
+
+16. Z (OPEN/CLOSE)
+17.
+USB konektor
+
+4. .(SKIP)
+TUN. (-) (TUNER)
+
+18. PHONES (SLUŠALICE)
+(Priključak za slušalice : 3.5mm)
+
+5. XTS pro
+
+19. Kabel za električno napajanje
+
+6. x (STOP)
+MO./ ST. (MONO/ STEREO)
+
+20. PRIKLJUČAK ZA ANTENU
+
+7. PLADANJ ZA DISK
+
+21. AUX IN (Dodatni vanjski ulaz) konektor
+22. PRIKLJUČAKZA ZVUČNIKE
+
+8. Tipka EQ master (DEMO)
+9. Tipka CLOCK
+
+*Podešavanje GLASNOĆE (VOLUME)
+
+10. Tipka TIMER
+11. Tipka SET/ RDS(OPCIJSKI)
+12. KABEL ZA NAPAJANJE ELEKTRIČNOM
+ENERGIJOM
+13. B/[] (PLAY/PAUSE)
+14. XDSS plus /(MP3 Optimizer)
+
+6
+
+Pomaknite svoj prst oko
+dodirnog kotačića.
+
+Prije upotrebe
+
+Daljinski upravljač
+
+Tipka OPEN/CLOSE
+Tipka POWER
+Tipka PRESET/ FOLDER (
+
+)
+
+Tipka SLEEP
+Tipka PLAY/PAUSE (B
+B/[]) •
+Tipka STOP (x)/ MO./ST. •
+Tipka SKIP/ SEARCH •
+bb/ BB>)
+(.b
+Tipka TUN. (-/+) •
+Tipka REPEAT •
+Tipka RDS (Radio Data System) FUNKCIJA
+Tipka RDS : OPCIJSKI •
+Tipka PTY : OPCIJSKI •
+Tipka PTY SEARCH : OPCIJSKI •
+Tipka BROJEVIMA
+
+Zamjena baterije
+
+• Tipka FUNCTION
+• Tipka MUTE
+Tipka VOLUME (
+
+)
+
+Tipka DISP.MODE (DISPLAY MODE)
+
+Tipka CLOCK
+Tipka DIMMER
+• Tipka EQ master
+• Tipka XDSS plus
+• Tipka XTS Pro
+Tipka INFO
+(Tipka za prikaz MP3/WMA informacija)
+Tipka PROGRAM/ MEMO
+
+Raspon funkcioniranja daljinskog upravljača
+Skinite poklopac sa stražnje
+strane daljinskog upravljača,u
+3 i # umetnite dvije R03
+(veličina AAA) baterije u
+ispravnom smjeru.
+
+Daljinski upravljač usmjerite prema senzoru i
+pritišćite tipke.
+• Udaljenost: Oko 7 m od prednjeg dijela senzora
+daljinskog upravljača.
+• Kut
+: Oko 30 °u svakom smjeru od prednjeg
+dijela senzora daljinskog upravljača.
+
+Oprez
+: Nemojte miješati stare i nove baterije. Nikad ne
+koristite različite vrste baterija
+(standardne, alkalne itd.).
+
+7
+
+Priključivanja
+Priključivanje sustava zvučnika
+Priključite kablove zvučnika na priključak zvučnika.
+
+Desni zvučnik
+
+Lijevi zvučnik
+
+Napomene:
+• Spojite crni dio svake žice na stezaljke označene s – (minus), a njezin drugi kraj na stezaljke označene s +
+(plus).
+• Ispravno priključite lijevi / desni zvučnik. U slučaju zamjene može doći do izobličenja zvuka.
+
+Funkcija dodatni ureœaj (Auxiliary)
+Spojite pomoćni ureœaj, kao što je TV ili videosnimač, putem stražnjeg AUX priključka pa pritisnite tipku
+FUNCTION (pogledajte 1. i 2. sliku s primjerima prikazane u nastavku).
+
+Prijenosni ureœaj
+
+Na Audio IN
+Pomoćni ureœaj
+Primjer (1)
+
+Primjer (2)
+Kabel prijenosnog ureœaja
+
+Na Audio OUT
+
+Napomena:
+Isključite ureœaj i priključite dodatni (pomoćni) ureœaj prije nego uključite glavni ureœaj.
+U protivnom može doći do jakih zvukova.
+
+8
+
+Priključite dostavljene FM antene da bi slušali radio.
+FM žičana antena (dostavljena)
+
+Napomene:
+Budite sigurni da je FM žičana antena potpuno
+raširena
+
+Operacija
+USB funkcija
+Možete uživati u medijskim datotekama kao što je
+glazba (MP3/WMA) spremljena na MP3 playeru ili
+USB memoriji priključivanjem medija za pohranu na
+USB priključak na ureœaju.
+
+Kompatibilni ureœaji
+1. Ureœaji koji zahtijevaju instalaciju dodatnog
+programa kada ste spojeni na računalo, nisu
+podržani.
+2. MP3 Player : Flash vrsta MP3 player-a.
+• MP3 player koji zatijeva instaliranje pogona
+nije podržan.
+3. USB Flash Drive : Ureœaji koji podržavaju
+USB1.1.
+Osnovna reprodukcija
+1. Priključite USB ureœaj na USB konektor na
+vašem ureœaju.
+2. Pritisnite FUNCTION da uœete u USB modus
+rada.
+“SEARCH” se pojavljuje u prozoru displeja, a
+zatim je prikazan ukupan broj datoteka.
+3. Pritisnite PLAY/ PAUSE (B/[]).
+Dodatno, reprodukciju možete počinjati i
+pomoću brojčanih (NUMBER) tipki.
+Vaœenje USB-a iz ureœaja
+1. Odaberite drugu funkciju koja nije USB funkcija
+kako bi izvadili USB napravu.
+2. Izvadite USB iz ureœaja.
+Napomene:
+• Osim osnovne reprodukcije, ako želite raditi s
+drugim funkcijama, pogledajte odjeljak za CD
+reprodukciju.
+• Ne vadite USB ureœaj za vrijeme dok radi.
+• Zahtjeva se back up kako bi se spriječilo oštećenje
+podataka.
+• Ako upotrebljavate produžni kabel za USB ili USB
+hub, može se desiti da se ne prepozna USB ureœaj.
+• Ureœaj koji upotrebljava sustav za datoteke NTFS
+nije podržan (Podržan je samo FAT (16/32) sustav
+za datoteke.).
+• USB funkcija ovog ureœaja ne podržava sve USB
+ureœaje.
+• Digitalna kamera i mobilni telefon nisu podržani.
+• Ovaj ureœaj se ne podržava kada je broj datoteka
+1000 ili više.
+
+9
+
+Operacija
+
+Priključivanje antene (Aerial)
+
+Funkcija podešavanja sata
+
+Timer funkcija
+
+1. (Uključite ureœaj.) Pritisnite tipku CLOCK za
+sat.
+2. Odaberite 24 satni sistem za vrijeme ili 12 satni
+sistem dodirom na ./>
+v v
+
+v v
+
+v v v v v v v v
+
+ili
+
+v v v v v v v
+
+(12-satni ciklus)
+
+(24-satni ciklus)
+
+3. Pritisnite SET kako bi potvrdili odabrani sistem
+za vrijeme.
+4. Dodirnite ./> na prednjoj ploči kako bi
+postavili ispravne sate.
+5. Pritisnite SET.
+6. Dodirnite ./> na prednjoj ploči kako bi
+postavili ispravne minute.
+7. Pritisnite SET i na prozoru displeja je prikazano
+ispravno vrijeme.
+8. Svaki put kad pritisnete tipku sata CLOCK,
+vrijeme se pojavljuje na pokazivaču za oko 5
+sekunde.
+Napomena:
+Ako sat želite resetirati, pritisnite i držite CLOCK
+duže od 2 sekunde.
+
+10
+
+S TIMER funkcijom možete primati radio prijenos,
+CD reprodukciju i USB reprodukciju koje se
+uključuju i isključuju u željeno vrijeme.
+1. (Uključite ureœaj.) Pritisnite CLOCK da bi
+provjerili tekuće vrijeme.
+(Ako ne podesite sat, timer funkcija neće raditi.)
+2. Pritisnite TIMER da uœete u mod podešavanja
+tajmera. Ako želite promijeniti prije memorirane
+postavke za TIMER, pritisnite i držite TIMER
+duže od 2 sekunde.
+- Prethodno upamćeno vrijeme uključivanja
+timer-a i “ ” indikacije se pojavljuju u displeju.
+3. Svaka funkcija (TUNER → CD → USB)
+zasvijetlit će na displeju po redoslijedu. Pritisnite
+tipki SET kad zasvijetli željena funkcija.
+4. a. Kada odabirete TUNER funkciju, odaberite
+prethodno memorirane preset brojeve
+dodirivanjem ./ > a zatim pritisnite SET.
+- Ako ne postavite neku od memoriranih stanica, postavlja se na trenutačnu radijsku
+frekvenciju.
+b. Kad odaberete funkciju CD ili USB,
+- “ON TIME” indikator se pojavljuje za oko
+0,5 sekundi u prozoru displeja i onda nestaje.
+5. Postavite sat da se uključi dodirivanjem
+./> na prednjoj ploči.
+6. Pritisnite SET.
+7. Postavite minute da se uključe dodirivanjem
+./> na prednjoj ploči.
+8. Pritisnite SET.
+- “OFF TIME” indikator se pojavljuje za oko 0,5
+sekundi u prozoru displeja i onda nestaje.
+9. Postavite sat da se isključi dodirivanjem
+./> na prednjoj ploči.
+10. Pritisnite SET.
+11. Postavite minute da se isključe dodirivanjem
+./> na prednjoj ploči.
+12. Pritisnite SET.
+13. Podesite jačinu glasnoće dodirivanjem
+./> na prednjoj ploči.
+14. Pritisnite SET.
+“ ” se pojavljuje u prozoru displeja i
+podešavanje tajmera je završeno.
+15. Odabrana funkcija se automatski uključuje i
+isključuje u podešeno vrijeme.
+
+Poništavanje ili provjeravanje timer-a
+Svaki put kada se pritisne TIMER možete odabrati
+postavke za timer ili poništavanje. Takoœe Vi možete
+proveriti status podešavanja tajmera.
+Za aktiviranje ili provjeravanje timera, pritisnite
+TIMER tako da se “ ” pojavi na prozoru displeja.
+Za poništenje funkcije TIMER, pritisnite TIMER
+tako da “ ”nestane na prozoru displeja.
+
+Funkcija timer-a za spavanje
+
+Operacija
+
+Pri korištenju funkcije “timer-a za spavanje” ureœaj se
+automatski isključuje nakon odbrojavanja zadanog
+vremena reproduciranja.
+1. Pritisnite SLEEP da podesite željeno vrijeme
+spavanja.
+Indikator SLEEP i vrijeme koje preostaje do
+“spavanja” će se pojaviti u displeju.
+2. Svaki put kada pritisnite tipku SLEEP
+podešavanje se mijenja prema sljedećem
+redoslijedu.
+SLEEP 180 → 150 → 120 → 90 → 80
+→ 70 → 60 → 50 → 40 → 30 → 20 → 10
+→ OFF (Nema prikaza na displeju)
+Napomena:
+Ako pritisnete tipku spavanja (Sleep) dok se na
+pokazivaču vidi vrijeme do spavanja, to vrijeme se briše.
+Za poništavanje modusa timer-a za spavanje
+Ako trebate prekinuti funkciju, pritisnite više puta tipku
+SLEEP sve dok se ne pojavi “SLEEP 10”, a zatim
+pritisnite SLEEP još jednom dok se ne pokaže
+“SLEEP 10”.
+
+11
+
+Priključak za slušalice
+
+[MP3 -- OPT]
+Ova funkcija je prilagoœena za komprimiranu MP3
+datoteku. Poboljšava visoke tonove.
+
+Spojite napojni kabel slušalica ( 3.5mm) na priključak
+za slušalice kako biste zvuk slušali preko slušalica.
+Zvučnici se automatski iskopčaju kad spojite slušalice
+(nisu u paketu).
+
+[XDSS]
+Tijekom reprodukcije pojačava visoke tonove, bas i
+surround zvučni efekt.
+
+Audio podešavanje
+
+MUTE
+Pritisnite tipku MUTE kako biste privremeno
+isključili ton, na primjer dok razgovarate na telefon.
+Indikator “ ” zatreperit će na displeju.
+Kako biste poništili ovaj modus, pritisnite ponovo
+tipku VOLUME (
+
+[BYPASS]
+Možete slušati zvuk bez efekta evolizatora.
+
+) ili MUTE.
+
+DIMMER (Zatamnjenje)
+Ova funkcija isključuje LED (dioda koja emitira
+svjetlo) diode na prednjoj ploči i zatamnjuje prozor
+displeja za pola u statusu uključeno.
+Pritisnite jedanput tipku DIMMER.
+Kako biste poništili ovaj modus, pritisnite ponovo
+tipku DIMMER.
+
+EQUALIZER efekt
+Sustav u sebi ima brojna unaprijed postavljena surround zvučna polja. Možete odabrati željeni način
+reprodukcije zvuka s pomoću tipke EQ master.
+Prikazane stavke za ekvolizator se mogu razlikovati
+ovisno o izvorima zvuka i efektima.
+[XTS PRO]
+Uživati možete u prirodnom zvuku.
+[Lokalno specijalizirani ekvolizator]
+Regionalno prilagoœeni efekt zvuka.
+(FORRO/FUNK/SERTANEJO/DANGDUT/
+ARABIC/PERSIAN/INDIA/REGUETON/MERENG
+UE/SALSA/SAMBA/CUMBIA/AFRO HIP HOP)
+[AUTO EQ]
+Postavite ekvolizator zvuka u modus koji je najsličniji
+žanru koji se nalazi u MP3 ID3 podacima u datoteci
+pjesme.
+[POP CLASSIC JAZZ ROCK]
+Program koji stvara entuzijastičnu atmosferu zvuka,
+stvarajući osjećaj da se nalazite na pravom rock, pop,
+jazz ili klasičnom koncertu.
+
+12
+
+[LOUDNESS]
+Poboljšava visoke i niske tonove.
+
+Napomena:
+• Na nekim zvučnicima, zvuk se možda neće čuti
+kod niskih zvukova, ovisno o režimu zvuka.
+• Možda ćete morati ponovno pokrenuti stereo način
+rada, nakon prebacivanja priključka, nekad čak i
+kad se promijeni zvučni zapis.
+
+DISPLEJ MODUS
+
+Pritisnite XDSS plus da pojačate visoke tonove, bas i
+surround efekt.
+Audio CD, Tuner, AUX : XDSS ON ↔ BYPASS
+MP3/WMA : XDSS ON → MP3 -- OPT ON
+→ BYPASS → XDSS ON ...
+
+MP3 Optimizer
+Ova je funkcija prilagoœena za MP3 datoteke. Ova
+funkcija poboljšava bas zvuk kako bi se dobio mekši
+zvuk. Svaki put pritisnite XDSS plus.
+Postavke se mijenjaju prema sljedećem redoslijedu.
+XDSS ON → MP3 -- OPT ON →
+
+BYPASS
+
+XTS Pro
+Ova jedinstvena kvaliteta zvuka koju je razvila naša
+tehnologija, stvara za vas optimalni zvuk kako biste
+imali savršenu reprodukciju originalnog zvuka i kako
+bi ste doživjeli izvor živog zvuka.
+Svaki put kada pritisnete XTS Pro postavke se
+mijenjaju prema sljedećem redoslijedu:
+XTS -- PRO ON ↔ XTS -- PRO OFF
+
+Uvijek kad pritisnete DISP. MODE (DISPLEJ
+MODUS), vi ćete imati promjenu spektra u prozoru
+displeja na 6 vrsta.
+
+DEMO
+Pritisnite tipku EQ master na prednjoj ploči dok je
+ureœaj isključen kako bi se na zaslonu prikazala ova
+funkcija. Za otkazivanje funkcije ponovo pritisnite EQ
+master.
+
+AUTOMATSKO NAPAJANJE
+ISKLJUČENO
+Ovaj ureœaj će se automatski isključiti radi uštede
+energije ukoliko se ne priključi na vanjski ureœaj i ne
+upotrijebi u roku od oko 25 minuta. Isto radi i ova
+jedinica i to 6 sati nakon što je glavna jedinica
+priključena na drugi ureœaj pomoću analognog ulaza.
+
+13
+
+Operacija
+
+XDSS
+(Extreme Dynamic Sound System)
+
+Spremanje radio stanica u memoriju
+Možete podesiti 50 stanica za FM.
+Prije podešavanja provjerite je li nivo glasnoće snižen
+do minimuma.
+1. Pritisnite FUNCTION da odaberete frekvenciju
+koju želite.
+2. Odaberite stanicu koju želite pritiskom na
+TUN. (-/+).
+Automatsko podešavanje stanica
+- Pritisnite TUN. (-/+) duže od 0,5 sekundi.
+Skeniranje prestaje kad ureœaj pohrani stanice.
+Ručno podešavanje stanica
+- Pritisnite kratko i više puta TUN. (-/+).
+3. Pritisnite PROGRAM/ MEMO.
+Na zaslonu treperi broj za pohranjivanje.
+4. Pritisnite PRESET/ FOLDER (
+) da
+odaberete preset broj koji želite.
+5. Ponovno pritisnite tipku PROGRAM/ MEMO
+Stanica je pohranjena.
+6. Za pohranjivanje ostalih stanica ponovite korake
+1 (ili 2) do 5.
+Brisanje svih memoriranih stanica
+Pritisnite i držite PROGRAM/ MEMO otprilike
+dvije sekunde, “ERASE ALL” se pojavljuje u
+prozoru displeja, a zatim ponovo pritisnite
+PROGRAM/ MEMO, stanice su obrisane.
+Za Vašu informaciju
+Ako su sve stanice već memorirane, na displeju će se na
+nekoliko trenutaka pojaviti “FULL”, a tipke za odabir
+(preset) će početi treptati. Za promjenu broja uz pohranjenu stanicu ponovite korake 4 i 5.
+Pozivanje memoriranih stanica
+Pritisnite i držite PRESET/ FOLDER (
+) dok
+se ne pojavi željeni preset broj ili ponovo pritisnite
+isti.
+
+14
+
+Slušanje radija
+1. Pritisnite FUNCTION da odaberete frekvenciju
+koju želite.
+Pohranjena je stanica koju je ureœaj posljednju
+primio.
+2. Pritisnite PRESET/ FOLDER (
+) više
+puta da odaberete preset stanicu koju želite.
+- Svaki puta kad pritisnete tipku, ureœaj uključuje jednu po jednu pohranjenu stanicu.
+3. Glasnoću podesite tako da više puta pritisnete
+VOLUME (
+).
+Da bi slušali prethodno nememorirane radio stanice
+• Za ručno traženje stanica, pogledajte “Ručno
+podešavanje stanica” u koraku 2 na lijevoj strani.
+• Za automatsko traženje stanica, pogledajte
+“Automatsko podešavanje stanica” u koraku 2 na
+lijevoj strani.
+Da bi isključili radio
+Pritisnite tipku za napajanje 1(POWER) da bi
+isključili ureœaj, ili izaberitedrugi režim
+funkcioniranja (CD, USB, AUX).
+Za vašu informaciju
+• Ako neka FM stanica šumi;
+Pritisnite MO./ ST. tako da se “MONO” pojavi na
+prozoru displeja. Neće biti stereo efekta, ali će se
+prijem poboljšati.
+Pritisnite MO./ ST. ponovo kako biste vratili stereo
+efekt.
+• Da bi poboljšali prijem;
+Podesite dostavljene antene.
+
+O funkciji RDS
+Vaš je ureœaj opremljen funkcijom RDS (Radio Data
+Dystem- sitemom radijskih podataka) koji na vaš radio
+ureœaj dostavlja širok spektar informacija. RDS sistem
+se već koristi u mnogim zemljama za prijenos
+pozivnih signala radio stanica ili informacija o mreži,
+te za opis programa stanice tekstualnim porukama o
+stanici, specifičnom glazbenom izboru i za točno
+vrijeme.
+
+Ugaœanje RDS sistema
+Kada pronaœete FM stanicu a ona sadrži podatke za
+RDS, na ureœaju će se automatski pojaviti pozivni
+znak te stanice i na displeju će se pojaviti svjetlo RDS
+indikatora kao i indikatori vrste programa koji se
+prepoznaje (PTY), Radio Tekst (RT), Vrijeme (CT) te
+RDS programska usluga (PS) ako je omogućena i ako
+se prenosi.
+
+Opcije RDS displeja
+RDS sistem može prenositi široki spektar podataka uz
+osnovne pozivne signale koji se pojavljuju na početku
+kad uključite odreœenu stanicu. Prilikom uobičajenih
+RDS operacija na displeju će se pojaviti ime stanice,
+prijenosna mreža ili pozivna slova. Pritiskanje tipke
+RDS na daljinskom upravljaču vam omogućuje da
+kružite kroz razne vrste podataka prema sljedećem
+redoslijedu:
+(FREQUENCY → PTY → RT → CT → PS )
+
+• PTY (Prepoznavanje vrste programa) – Na
+displeju će se prikazati naziv vrste programa
+
+• RT (Prepoznavanje Radio teksta) – Na displeju će
+se prikazati naziv radio teksta
+
+• CT (Vrijeme koje kontrolira kanal) – Omogućuje
+ureœaju da prima točno vrijeme i prikazuje ga na
+displeju.
+• PS (Programska usluga) – Na displeju će se
+prikazati naziv programa
+Napomena:
+Neke RDS stanice možda neće uključiti neke od
+dodatnih mogućnosti. Ako nešto od toga neće biti
+dostupno, na displeju će se prikazati natpisi PTY
+NONE, RT NONE, CT NONE, PS NONE.
+
+Pretraživanje programa (PTY)
+Najbolja strana RDS funkcije je mogućnost da se
+pronaœu stanice s navodima o kojoj se vrsti programa
+radi. Slijedi popis kratica koje se koriste za vrste
+programa.
+NEWS
+AFFAIRS
+INFO
+SPORT
+EDUCATE
+DRAMA
+CULTURE
+SCIENCE
+VARIED
+POP M
+ROCK M
+EASY M
+LIGHT M
+CLASSICS
+OTHER M
+WEATHER
+FINANCE
+CHILDREN
+SOCIAL
+RELIGION
+PHONE IN
+TRAVEL
+LEISURE
+JAZZ
+COUNTRY
+NATION M
+OLDIES
+FOLK M
+DOCUMENT
+TEST
+ALARM !
+
+Vijesti
+Trenutne novosti
+Informacije
+Sport
+Obrazovni program
+Drama
+Kultura
+Znanost
+Razni govorni programi
+Pop glazba
+Rock glazba
+Lake note
+Klasična glazba
+Ozbiljna klasična glazba
+Ostala glazba
+Informacije o vremenu
+Programi o financijama
+Dječji programi
+Programi o socijalnim problemima
+Religija u eteru
+Programi s telefonskim kontaktima
+Putovanja i proputovanja
+Odmor i hobi
+Jazz glazba
+County glazba
+Nacionalna glazba
+Stara glazba
+Narodna glazba
+Dokumentarni programi
+Test poruka alarma stanice
+Hitne informacije u eteru
+
+Operacija
+
+RDS funkcija
+- DODATNA MOGUĆNOST
+
+Slijedećim koracima možete tražiti odreœenu vrstu
+programa (PTY).
+1. Pritisnite FUNCTION da odaberete FM modus
+rada.
+2. Pritisnite PTY, displej će prikazati zadnje
+korišteni PTY.
+3. Pritisnite tipku PTY više puta kako biste
+odabrali željeni PTY.
+4. Kada je odabran PTY, pritisnete tipku
+PTY SEARCH.
+Ureœaj će prijeći u automatsko traženje. Kada
+naœe stanicu, traženje će se zaustaviti.
+
+15
+
+Repeat (Ponovi)
+
+Osnovna reprodukcija
+
+Pritisnite REPEAT tijekom reprodukcije.
+
+1. Upotrijebite FUNCTION da odaberete CD
+funkciju.
+Ako u pretincu CD-a nema diska, na zaslonu će
+se pojaviti poruka “NO DISC”.
+2. Dodirnite Z (OPEN/ CLOSE) i stavite disk u
+pladanj diska.
+Napomena:
+Ako želite pokrenuti disk od 8 cm, stavite ga na
+unutarnji obruč u pretincu diska.
+3. Dodirnite Z (OPEN/ CLOSE) da zatvorite
+pretinac za disk.
+Audio CD : Na displeju će se pojaviti natpis
+CD READ, a zatim će se pojaviti
+ukupni broj snimki i vrijeme
+reprodukcija.
+MP3/WMA CD : Na displeju će se pojaviti
+natpis CD READ, a zatim će
+se pojaviti ukupni broj datoteka.
+4. Pritisnite PLAY/ PAUSE (B/[]).
+Uz to, Audio CD i MP3 CD možete reproducirati
+pomoću tipki s BROJEVIMA.
+
+Audio CD
+→ RPT 1
+
+OFF
+
+RPT DIR
+RPT ALL
+→
+
+: Za ponavljanje reprodukcije svih
+datoteka.
+
+RANDOM : Za nasumičnu reprodukciju datoteka.
+OFF
+
+: Za poništavanje funkcije ponavljanja
+zapisa.
+
+Ponavljanje programirane reprodukcije
+→ RPT 1
+→
+RPT ALL
+→
+
+Držite .bb/BB> tijekom reprodukcije, a
+zatim otpustite na željenoj točci.
+
+: Za ponovnu reprodukciju foldera.
+
+→
+
+Pretraživanje snimke
+
+: Za ponavljanje reprodukcije jedne
+datoteke.
+
+→
+
+• Pritisnite BB> za prelazak na sljedeću snimku.
+• Kada se usred snimke jednom pritisne .bb
+player se vraća na početak te snimke. Kada se tipka
+ponovo pritisne, svaki put kada se tipka pritisne
+preskače se snimka. Ako tipku pritisnete još
+jednom, svakim pritiskom se preskače jedan zapis.
+
+: Za poništavanje funkcije ponavljanja
+zapisa.
+
+MP3/WMA
+→ RPT 1
+→
+
+Preskakanje snimke
+
+: Za ponavljanje reprodukcije svih
+zapisa.
+
+RANDOM : Za nasumičnu reprodukciju zapisa.
+
+Prekidanje reprodukcije
+Pritisnite STOP(x) tijekom reprodukcije.
+
+: Za ponavljanje reprodukcije jednog
+zapisa.
+
+→
+
+Pritisnite ponovo tu tipku da nastavite reprodukciju.
+
+RPT ALL
+→
+
+Zaustavljanje reprodukcije
+Pritisnite PLAY/ PAUSE (B/[]) tijekom reprodukcije.
+
+→
+
+CD reprodukcija
+
+OFF
+
+: Za ponavljanje reprodukcije jednog
+zapisa/ datoteke.
+: Za ponovnu reprodukciju
+cjelokupnog programa.
+: Za poništavanje funkcije ponavljanja
+zapisa.
+
+Provjeravanje informacija MP3 datoteke
+Pritisnite MP3 Info tijekom reprodukcije MP3
+datoteke.
+- Informacije (Naslov, Izvoœač ili Album) MP3
+datoteke pojavit će se na displeju.
+- Ako nema podataka o MP3 datoteci, prikazat će se
+njezin naziv.
+Napomena:
+Ovaj ureœaj može svirati CD-R ili CD-RW koji
+sadržava audio naslove ili MP3 datoteke.
+
+16
+
+Više o MP3/ WMA
+
+Pritisnite PRESET/ FOLDER (
+) na
+daljinskom upravljaču kako biste odabrali željeni folder.
+Napomena:
+Primjenjuje se u slučaju kada ima nekoliko foldera s
+MP3/WMA datotekom.
+
+Kompatibilnost MP3/ WMA diska s ovim ureœajem ograničena je prema slijedećem:
+1. Frekvencija uzorka
+8 - 48 kHz(MP3), 32 - 48 kHz(WMA)
+2. Bit brzina
+8 - 320 kbps(MP3), 48 - 320 kbps(WMA)
+3. CD-R fizički format trebao bi biti “ISO 9660”
+4. Ako snimite MP3/ WMA datoteku pomoću software-a koji ne može načiniti sistem datoteke, na
+primjer “Direct CD”, itd, MP3 datoteku bit će
+nemoguće puštati. Preporučujemo da koristite
+program “Easy-CD Creator”, koji stvara sistem
+datoteka ISO 9660.
+5. Nazivi datoteka trebaju se pisati pomoću 30
+slova ili manje i moraju sadržavati ekstenzije
+“.mp3”,“.wma”, na pr. “********.MP3” ili
+“********.WMA”
+6. Ne upotrebljavajte posebne znakove kao što su
+“/ : * ? “ < >” i slično.
+7. Čak i ako je ukupni broj datoteka na disku iznad
+1000, bit će prikazano samo do 999 datoteka.
+
+Programirana reprodukcija
+Možete odabrati redoslijed zapisa za reprodukciju i
+tako stvoriti vlastiti program reprodukcije. Taj program može sadržavati do 20 zapisa.
+1. Pritisnite PROGRAM/ MEMO u stop modusu
+rada.
+Na displeju se pojavljuje natpis “PROG.”
+2. Pritisnite .bb/ BB> da odaberete
+snimku.
+EX) “P01 001” prikazat će se na displeju.
+Broj zapisa/datoteke
+Broj programa
+3. Pritisnite PROGRAM/ MEMO.
+4. Ponovite korake 1 - 3 gore.
+5. Pritisnite PLAY/ PAUSE (B/[]).
+Provjera sadržaja programa
+Pritisnite PROGRAM/ MEMO u stop modusu rada.
+- Na zaslonu će se ispisati broj zapisa i programa.
+Za brisanje sadržaja programa
+Pritisnite PROGRAM/ MEMO u stop modusu rada.
+Zatim pritisnite STOP(x).
+Za dodavanje novog sadržaja u program
+1. Pritisnite PROGRAM/ MEMO više puta u
+program stop modusu rada sve dok ne zatrepće
+broj snimke (Track Number).
+2. Ponovite korake 2 - 4 gore.
+
+O funkciji MULTI SESSION
+- Ova funkcija prepoznaje multi session disk prema
+tipu CD-ROM-a diska.
+na primjer) Ako u prvom session-u postoji datoteka
+MP3/ WMA, pušta se samo MP3/ WMA
+datoteka prvog session-a.
+Ako u cijelom session-u postoji datoteka
+MP3/ WMA, pušta se MP3/ WMA
+datoteka svakog session-a.
+Ako u prvom session-u postoji Audio CD,
+pušta se samo Audio CD prvog session-a.
+
+Za mijenjanje sadržaja programa
+1. Pritisnite PROGRAM/ MEMO kako bi
+prikazali program broj koji želite modificirati.
+2. Ponovite korake 2 - 4 gore.
+
+17
+
+Operacija
+
+MP3/WMA datoteka, folder funkcija
+
+Reference
+Robne marke i licence
+
+Otklanjanje teškoća
+Simptomi
+
+Korekcija
+
+Razlog
+
+Nema struje.
+
+Kabl el.napajanja je iskopčan.
+
+Utikač dobro ukopčajte u utičnicu.
+
+Nema zvuka.
+
+Oprema za vanjski izvor nije uključena.
+
+Uključite opremu za vanjski izvor.
+
+Ureœaj ne počinje
+sa reprodukcijom.
+
+Nije umetnut disk.
+
+Umetnite disk.
+
+Umetnut je disk koji se ne moze reproducirati.
+
+Umetnite disk koji se može reproducirati.
+
+Disk je postavljen obrnuto.
+
+Postavite disk u pretincu za disk pravilno
+prema čitaču.
+
+Disk nije postavljen pravilno.
+
+Postavite disk pravilno u vodilicu za disk u
+pravcu čitača.
+
+Disk je uprljan
+
+Počistite disk.
+
+Daljinski upravljač Daljinski nije uperen ka daljinskom senzoru na Uperite daljinski ka senzoru na ureœaju.
+uredu.
+ne radi pravilno.
+
+18
+
+Daljinski je previše udaljen.
+
+Koristite daljinski na manjoj od 7m.
+
+Ima prepreka na putu izmeœu daljinskog i
+ureœaja.
+
+Uklonite prepreku.
+
+Baterije u daljinskom su istrošene.
+
+Zamijenite baterije.
+
+Napajanje
+
+Vidi naljepnicu na zadnjoj ploči.
+
+Potrošnja električne energije
+
+Vidi naljepnicu na zadnjoj ploči.
+
+Neto težina
+
+3.31 kg
+
+Vanjske dimenzije(ŠxVxD)
+
+(170 X 253 X 265) mm
+
+Raspon frekvencije
+
+65 - 20000 Hz
+
+Omjer signala i šuma
+
+75 dB
+
+Dinamički raspon
+
+75 dB
+
+Opseg tjunera
+
+87.5 - 108.0 MHz ili 65 - 74 MHz, 87.50 - 108.00 MHz
+
+Srednja frekvencija
+
+10.7 MHz
+
+Omjer signala i šuma
+
+60/55 dB (Mono)
+
+Raspon frekvencije
+
+65 - 10000 Hz
+
+Izlazna snaga
+
+80 W + 80 W
+
+T.H.D
+
+0.5 %
+
+Raspon frekvencije
+
+65 - 20000 Hz
+
+Omjer signala i šuma
+
+75 dB
+
+Tip
+
+3 puta 3 zvuč
+
+Otpor
+
+4Ω
+
+Raspon frekvencije
+
+70 - 20000 Hz
+
+Nivo zvučnog pritiska
+
+83 dB/W (1 m)
+
+Ulazna snaga
+
+80 W
+
+Najveća ulazna snaga
+
+160 W
+
+Neto dimenzije(ŠxVxD)
+
+(128 x 295 x 240) mm
+
+Neto težina
+
+4.0 kg
+
+Reference
+
+[Zvučnici]
+
+[Pojačalo]
+
+FM
+
+[Tuner]
+
+[CD]
+
+[Općenito]
+
+Specifikacija
+
+Dizajn i specifikacije su predmet podložan promjenama bez upozorenja.
+
+19

@@ -1,0 +1,6039 @@
+OWNER’S MANUAL
+
+Network 3D Blu-ray™
+Sound Bar
+Please read this manual carefully before operating
+your set and retain it for future reference.
+
+BB5520A (BB5520A, SHX56-D)
+
+2
+
+Getting Started
+
+Safety Information
+1
+
+CAUTION
+
+Getting Started
+
+RISK OF ELECTRIC SHOCK
+DO NOT OPEN
+
+CAUTION: TO REDUCE THE RISK OF ELECTRIC
+SHOCK DO NOT REMOVE COVER (OR BACK) NO
+USER-SERVICEABLE PARTS INSIDE REFER SERVICING
+TO QUALIFIED SERVICE PERSONNEL.
+This lightning flash with arrowhead
+symbol within an equilateral triangle
+is intended to alert the user to the
+presence of uninsulated dangerous
+voltage within the product’s
+enclosure that may be of sufficient magnitude to
+constitute a risk of electric shock to persons.
+The exclamation point within an
+equilateral triangle is intended
+to alert the user to the presence
+of important operating and
+maintenance (servicing)
+instructions in the literature accompanying the
+product.
+WARNING: TO PREVENT FIRE OR ELECTRIC SHOCK
+HAZARD, DO NOT EXPOSE THIS PRODUCT TO RAIN
+OR MOISTURE.
+WARNING: Do not install this equipment in a
+confined space such as a book case or similar unit.
+CAUTION: Do not block any ventilation openings.
+Install in accordance with the manufacturer’s
+instructions.
+Slots and openings in the cabinet are provided for
+ventilation and to ensure reliable operation of the
+product and to protect it from over heating. The
+openings shall be never be blocked by placing
+the product on a bed, sofa, rug or other similar
+surface. This product shall not be placed in a builtin installation such as a bookcase or rack unless
+proper ventilation is provided or the manufacturer’s
+instruction has been adhered to.
+
+CAUTION : CLASS 1M VISIBLE AND INVISIBLE LASER
+RADIATION WHEN OPEN. DO NOT VIEW DIRECTLY
+WITH OPTICAL INSTRUMENTS
+Use of controls, adjustments or the performance of
+procedures other than those specified herein may
+result in hazardous radiation exposure.
+CAUTION concerning the Power Cord
+Most appliances recommend they be placed upon
+a dedicated circuit;
+That is, a single outlet circuit which powers only
+that appliance and has no additional outlets or
+branch circuits. Check the specification page of this
+owner’s manual to be certain. Do not overload wall
+outlets. Overloaded wall outlets, loose or damaged
+wall outlets, extension cords, frayed power cords, or
+damaged or cracked wire insulation are dangerous.
+Any of these conditions could result in electric
+shock or fire. Periodically examine the cord of your
+appliance, and if its appearance indicates damage
+or deterioration, unplug it, discontinue use of the
+appliance, and have the cord replaced with an
+exact replacement part by an authorized service
+center. Protect the power cord from physical or
+mechanical abuse, such as being twisted, kinked,
+pinched, closed in a door, or walked upon. Pay
+particular attention to plugs, wall outlets, and
+the point where the cord exits the appliance. To
+disconnect power from the mains, pull out the
+mains cord plug. When installing the product,
+ensure that the plug is easily accessible.
+
+Getting Started
+This device is equipped with a portable battery or
+accumulator.
+
+CAUTION: The apparatus shall not be exposed to
+water (dripping or splashing) and no objects filled
+with liquids, such as vases, shall be placed on the
+apparatus.
+Disposal of your old appliance
+1.	 When this crossed-out wheeled bin
+symbol is attached to a product it
+means the product is covered by the
+European Directive 2002/96/EC.
+2.	 All electrical and electronic products
+should be disposed of separately
+from the municipal waste stream
+via designated collection facilities
+appointed by the government or the
+local authorities.
+3.	 The correct disposal of your old
+appliance will help prevent potential
+negative consequences for the
+environment and human health.
+4.	 For more detailed information about
+disposal of your old appliance, please
+contact your city office, waste disposal
+service or the shop where you
+purchased the product.
+
+Disposal of waste batteries/accumulators
+1.	When this crossed-out wheeled
+bin symbol is attached to batteries/
+accumulators of Your product it means
+they are covered by European Directive
+2006/66/EC.
+2. This symbol may be combined with
+chemical symbols for mercury(Hg),
+cadmium(Cd) or lead(Pb) if the battery
+Contains more that 0.0005% of
+mercury,0.002% of cadmium or 0.004%
+of lead.
+3. All batteries/accumulators should be
+disposed separately from the municipal
+waste stream via designated collection
+facilities appointed by the government
+or the local authorities.
+4. The correct disposal of Your old
+batteries/accumulators will help
+to prevent potential negative
+consequences for the environment,
+animal and human health.
+5. For more detailed information
+about disposal of Your old batteries/
+accumulators, please contact Your
+city office, waste disposal service or
+the shop where You purchased the
+product.
+
+1
+Getting Started
+
+Safety way to remove the battery or the
+battery from the equipment: Remove the
+old battery or battery pack, follow the steps
+in reverse order than the assembly. To prevent
+contamination of the environment and bring on
+possible threat to human and animal health, the
+old battery or the battery put it in the appropriate
+container at designated collection points. Do
+not dispose of batteries or battery together with
+other waste. It is recommended that you use
+local, free reimbursement systems batteries and
+accumulators. The battery shall not be exposed to
+excessive heat such as sunshine, fire or the like.
+
+3
+
+4
+
+1
+
+Getting Started
+
+Getting Started
+
+For Wireless product European Union Notice
+
+Notes on Copyrights
+
+LG Electronics hereby
+declares that this/
+these product(s) is/are
+in compliance with the essential requirements and
+other relevant provisions of Directive 1999/5/EC,
+2004/108/EC, 2006/95/EC and 2009/125/EC.
+
+yy Because AACS (Advanced Access Content
+System) is approved as content protection
+system for Blu-ray Disc format, similar to use of
+CSS (Content Scramble System) for DVD format,
+certain restrictions are imposed on playback,
+analog signal output, etc., of AACS protected
+contents. The operation of this product and
+restrictions on this product may vary depending
+on your time of purchase as those restrictions
+may be adopted and/or changed by AACS after
+the production of this product.
+
+Please contact to the following address for
+obtaining a copy of the DoC (Declaration of
+Conformity).
+European Standards Centre:
+Veluwezoom 15, 1327 AE Almere, The Netherlands
+(Tel : +31-(0)36-547-8888)
+yy Please note that this is NOT a Customer Service
+contact point. For Customer Service Information,
+see Warranty Card or contact the dealer that you
+purchased this product.
+Indoor use only.
+RF Radiation Exposure Statement
+This equipment should be installed and operated
+with minimum distance 20cm between the radiator
+and your body.
+
+yy Furthermore, BD-ROM Mark and BD+ are
+additionally used as content protection systems
+for Blu-ray Disc format, which imposes certain
+restrictions including playback restrictions for
+BD-ROM Mark and/or BD+ protected contents.
+To obtain additional information on AACS, BDROM Mark, BD+, or this product, please contact
+an authorized Customer Service Centre.
+yy Many BD-ROM/DVD discs are encoded with
+copy protection. Because of this, you should only
+connect your player directly to your TV, not to a
+VCR. Connecting to a VCR results in a distorted
+picture from copy-protected discs.
+yy This product incorporates copyright protection
+technology that is protected by U.S. patents
+and other intellectual property rights. Use of
+this copyright protection technology must be
+authorized by Rovi, and is intended for home and
+other limited viewing uses only unless otherwise
+authorized by Rovi. Reverse engineering or
+disassembly is prohibited.
+yy Under the U.S. Copyright laws and Copyright
+laws of other countries, unauthorized recording,
+use, display, distribution, or revision of television
+programs, videotapes, BD-ROM discs, DVDs, CDs
+and other materials may subject you to civil and/
+or criminal liability.
+
+Getting Started
+
+5
+
+Important Notice for TV colour
+system
+The colour system of this player differs according to
+currently playing discs.
+
+Only the multi system colour TV can receive all
+signals output from the player.
+yy If you have a PAL colour system TV, you will see
+just distorted images when using discs or video
+contents recorded in NTSC.
+yy The multi system colour TV changes the colour
+system automatically according to input signals.
+In case that the colour system is not changed
+automatically, turn it off and then on to see
+normal images on screen.
+yy Even if the disc recorded in NTSC colour system
+are well displayed on your TV, these may not be
+recorded correctly on your recorder.
+
+>>Caution
+
+yy Watching a 3D content for a long period
+time may cause dizziness or tiredness.
+yy It is not recommended to watch a movie
+in 3D mode for infirm, child and pregnant
+woman.
+yy If you are experiencing headache, tiredness
+or dizziness while viewing contents in 3D,
+it is strongly recommended to stop the
+playback and rest until you feel normal.
+
+1
+Getting Started
+
+For example, when the player plays the disc
+recorded in the NTSC colour system, the image is
+output as an NTSC signal.
+
+6
+
+Table of Contents
+
+Table of Contents
+1	
+
+Getting Started
+
+2	
+Safety Information
+8	Introduction
+8	
+–  Playable Discs and symbols used in
+this manual
+9	
+–  About the “7” Symbol Display
+9	
+–  Compatibility Notes
+10	 –  File compatibility
+11	 –  AVCHD (Advanced Video Codec High
+Definition)
+12	 –  About DLNA
+12	 –  Certain System Requirements
+12	 –  Regional Code
+12	 –  System Select
+13	 Remote control
+14	 Front panel
+15	 Rear panel
+
+2	Connecting
+16	
+18	
+18	
+19	
+20	
+20	
+21	
+21	
+22	
+23	
+23	
+23	
+24	
+24	
+25	
+25	
+26	
+27	
+27	
+30	
+30	
+
+Mounting the main unit on a wall
+Setting up
+–  Wireless connection
+Connecting to Your TV
+–  HDMI Connection
+–  What is SIMPLINK?
+–  ARC (Audio Return Channel) function
+–  Video Connection
+–  Resolution Setting
+Antenna connection
+Connections with external device
+–  PORT. IN connection
+–  OPTICAL IN connection
+–  HDMI IN 1/2 connection
+Connecting to your Home Network
+–  Wired network connection
+–  Wired Network Setup
+–  Wireless Network Connection
+–  Wireless Network Setup
+USB device connection
+–  Playback content in the USB device
+
+3	 System Setting
+31	Settings
+31	 –  Initial Setup
+32	 –  Adjust the Setup Settings
+32	 –  [DISPLAY] Menu
+34	 –  [LANGUAGE] Menu
+34	 –  [AUDIO] Menu
+36	 –  [LOCK] Menu
+37	 –  [NETWORK] Menu
+37	 –  [OTHERS] Menu
+39	 Sound Effect
+39	 3D Sound Effect
+
+4	 Operating
+40	
+40	
+40	
+40	
+41	
+41	
+42	
+42	
+44	
+45	
+45	
+45	
+45	
+46	
+46	
+46	
+46	
+47	
+47	
+48	
+48	
+49	
+49	
+50	
+50	
+50	
+50	
+51	
+51	
+
+General Playback
+–  Using [HOME] menu
+–  Playing a Disc
+–  Playing a file on a disc/USB device
+–  Playing Blu-ray 3D disc
+–  Enjoying BD-Live™
+–  Playing a file on a network server
+–  Wi-Fi Direct™ Connection
+–  Basic operations for video and audio
+content
+–  Basic operations for photo content
+–  Using the disc menu
+–  Resume playback
+–  Last Scene Memory
+Advanced Playback
+–  Repeat Playback
+–  Repeating a specific portion
+–  Viewing content information
+–  Changing content list view
+–  Selecting a subtitle file
+–  Options while viewing a photo
+–  Listening to music while slide show
+On-Screen display
+–  Displaying content information onscreen
+–  Playing from selected time
+–  Selecting a subtitle language
+–  Hearing a different audio
+–  Watching from a different angle
+–  Changing the TV Aspect Ratio
+–  Changing subtitle code page
+
+Table of Contents
+51	 –  Changing the Picture Mode
+52	 Audio CD Recording
+53	 Viewing information from Gracenote
+Media Database
+54	 Playing the iPod
+54	 –  Enjoying iPod on the screen
+54	 –  Enjoying the iPod IN mode
+56	 Radio Operations
+56	 –  Listening to the radio
+56	 –  Presetting the Radio Stations
+56	 –  Deleting a saved station
+56	 –  Deleting all the saved stations
+56	 –  Improving poor FM reception
+56	 –  See information about a radio station
+57	 Using the Premium
+57	 Using the LG Apps
+58	 –  Signing in
+58	 –  Managing my Apps
+59	 Using Bluetooth technology
+59	 –  Listening to music stored on the
+Bluetooth devices
+
+5	Troubleshooting
+61	Troubleshooting
+61	 – General
+62	 – Network
+63	 – Picture
+63	 – Sound
+63	 –  Customer Support
+63	 –  Open source software notice
+
+6	Appendix
+64	 Controlling a TV with the Supplied
+Remote Control
+64	 –  Setting up the remote to control your
+TV
+65	 Network Software Update
+65	 –  Network update notification
+65	 –  Software Update
+67	 About Nero MediaHome 4 Essentials
+67	 –  System Requirements
+68	 –  Installing Nero MediaHome 4
+Essentials
+68	 –  Sharing files and folders
+69	 Area Code List
+
+70	 Language code List
+71	 Trademarks and Licenses
+74	 Audio Output Specifications
+75	Specifications
+77	Maintenance
+77	 –  Handling the Unit
+77	 –  Notes on Discs
+78	 Important Information Relating to
+Network Services
+
+7
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+8
+
+Getting Started
+
+Introduction
+1
+
+Playable Discs and symbols used in this manual
+
+Getting Started
+
+Media/Term
+
+Logo
+
+Symbol
+
+e
+
+Description
+yy Discs such as movies that can be purchased or
+rented.
+yy “Blu-ray 3D” discs and “Blu-ray 3D ONLY” discs.
+yy BD-R/RE discs that are recorded in BDAV format.
+
+Blu-Ray
+
+y
+u
+i
+r
+
+DVD-ROM
+
+yy BD-R/RE discs that contain Movie, Music or
+Photo files.
+yy ISO 9660+JOLIET, UDF and UDF Bridge format
+yy Discs such as movies that can be purchased or
+rented.
+yy Movie mode and finalized only
+yy Supports the dual layer disc also
+
+DVD-R
+DVD-RW
+DVD+R
+DVD+RW
+(12 cm)
+
+o
+
+Finalized AVCHD format
+
+y
+u
+i
+
+yy DVD±R/RW discs that contain Movie, Music or
+Photo files.
+yy ISO 9660+JOLIET, UDF and UDF Bridge format
+
+DVD-RW
+(VR)
+(12 cm)
+
+r
+
+Audio CD
+(12 cm)
+
+t
+
+CD-R/RW
+(12 cm)
+
+y
+u
+i
+
+yy CD-R/RW discs that contain Movie, Music or
+Photo files.
+
+,
+>
+
+Indicates special notes and operating features.
+
+Note
+
+–
+
+Caution
+
+–
+
+VR mode and finalized only
+
+Audio CD
+
+yy ISO 9660+JOLIET, UDF and UDF Bridge format
+
+Indicates cautions for preventing possible
+damages from abuse.
+
+Getting Started
+
+,,Note
+
+yy Depending on the recording software & the
+finalization, some recorded discs (CD-R/RW,
+DVD±R/RW, BD-R/RE) may not be playable.
+yy BD-R/RE, DVD±R/RW and CD-R/RW discs
+recorded using a personal computer or a
+DVD or CD Recorder may not play if the
+disc is damaged or dirty, or if there is dirt or
+condensation on the player’s lens.
+yy If you record a disc using a personal
+computer, even if it is recorded in a
+compatible format, there are cases in which
+it may not play because of the settings of
+the application software used to create the
+disc. (Check with the software publisher for
+more detailed information.)
+yy This player requires discs and recordings to
+meet certain technical standards in order to
+achieve optimal playback quality.
+yy Pre-recorded DVDs are automatically set to
+these standards. There are many different
+types of recordable disc formats (including
+CD-R containing MP3 or WMA files) and
+these require certain pre-existing conditions
+to ensure compatible playback.
+yy Customers should note that permission
+is required in order to download MP3 /
+WMA files and music from the Internet.
+Our company has no right to grant such
+permission. Permission should always be
+sought from the copyright owner.
+yy You have to set the disc format option
+to [Mastered] in order to make the discs
+compatible with the LG players when
+formatting rewritable discs. When setting
+the option to Live System, you cannot use
+it on LG player. (Mastered/Live File System :
+Disc format system for windows Vista)
+
+About the “7” Symbol Display
+“7” may appear on your TV display during
+operation and indicates that the function explained
+in this owner’s manual is not available on that
+specific media.
+
+Compatibility Notes
+yy Because BD-ROM is a new format, certain disc,
+digital connection and other compatibility issues
+are possible. If you experience compatibility
+problems, please contact an authorized
+Customer Service Center.
+yy This unit allows you to enjoy functions such
+as picture-in-picture, secondary audio and
+Virtual packages, etc., with BD-ROM supporting
+BONUSVIEW (BD-ROM version 2 Profile 1 version
+1.1). Secondary video and audio can be played
+from a disc compatible with the picture-inpicture function. For the playback method, refer
+to the instructions in the disc.
+yy Viewing high-definition content and upconverting standard DVD content may require a
+HDMI-capable input or HDCP-capable DVI input
+on your display device.
+yy Some BD-ROM and DVD discs may restrict the
+use of some operation commands or features.
+yy Dolby TrueHD, Dolby Digital Plus and DTS-HD are
+supported with maximum 4.1 channels if you
+use HDMI connection for the audio output of the
+unit.
+yy You can use a USB device to store some disc
+related information, including downloaded online content. The disc you are using will control
+how long this information is retained.
+
+1
+Getting Started
+
+yy Depending on the conditions of the
+recording equipment or the CD-R/RW (or
+DVD±R/RW) disc itself, some CD-R/RW (or
+DVD±R/RW) discs cannot be played on the
+unit.
+
+9
+
+10
+
+Getting Started
+
+File compatibility
+Movie files
+
+1
+Getting Started
+
+File
+Location
+
+File
+Extension
+
+Codec Format
+
+Disc,
+USB
+
+“.avi”, “.divx”,
+“.mpg”, “.mpeg”,
+“.mkv”, “.mp4”,
+“.asf”, “.wmv”,
+“.m4v” (DRM
+free), “.vob”,
+“.3gp”
+
+DIVX3.xx, DIVX4.xx,
+DIVX5.xx, DIVX6.xx
+(Standard playback
+only), XVID, MPEG1 SS,
+H.264/MPEG-4 AVC,
+MPEG2 PS, MPEG2 TS,
+VC-1 SM (WMV3)
+
+Dolby Digital,
+DTS, MP3,
+WMA, AAC,
+AC3
+
+SubRip (.srt / .txt), SAMI (.smi),
+SubStation Alpha (.ssa/.txt),
+MicroDVD (.sub/.txt), VobSub
+(.sub), SubViewer 1.0 (.sub),
+SubViewer 2.0 (.sub/.txt), TMPlayer
+(.txt), DVD Subtitle System (.txt)
+
+DLNA
+
+“.avi”, “.divx”,
+“.mpg”, “.mpeg”,
+“.mkv”, “.mp4”,
+“.asf”, “.wmv”,
+".m4v (DRM
+free)
+
+DIVX3.xx, DIVX4.xx,
+DIVX5.xx, DIVX6.xx,
+XVID, MPEG1 SS,
+H.264/MPEG-4 AVC,
+MPEG2 PS, MPEG2 TS,
+VC-1 SM (WMV3)
+
+Dolby Digital,
+DTS, MP3,
+WMA, AAC,
+AC3
+
+SubRip (.srt / .txt), SAMI (.smi),
+SubStation Alpha (.ssa/.txt),
+MicroDVD (.sub/.txt), SubViewer
+1.0 (.sub), SubViewer 2.0 (.sub/.
+txt), TMPlayer (.txt), DVD Subtitle
+System (.txt)
+
+Audio Format
+
+Subtitle
+
+Music files
+File
+Location
+
+File
+Extension
+
+Disc,
+USB
+
+“mp3”, “.wma”,
+“.wav”, “.m4a”
+(DRM free),
+“.flac”
+
+within 32 - 48 kHz
+(WMA), within 16 - 48
+kHz (MP3)
+
+within 32 - 192
+kbps (WMA), within
+32 - 320 kbps (MP3)
+
+Some wav files are
+not supported on this
+player.
+
+“mp3”, “.wma”,
+“.wav”, “.m4a”
+(DRM free)
+
+within 32 - 48 kHz
+(WMA), within 16 - 48
+kHz (MP3)
+
+within 32 - 192
+kbps (WMA), within
+32 - 320 kbps (MP3)
+
+Some wav files are
+not supported on this
+player.
+
+DLNA
+
+Sampling Frequency
+
+Bitrate
+
+Note
+
+Photo files
+File
+Location
+Disc,
+USB,
+DLNA
+
+File
+Extension
+“.jpg”, “.jpeg”,
+“.png”, “.gif”
+
+Recommended
+Size
+
+Note
+
+Less than 4,000 x 3,000 x 24 bit/pixel Progressive and lossless
+Less than 3,000 x 3,000 x 32 bit/pixel compression photo image files
+are not supported.
+
+yy Supplied bundle DLNA server for Macintosh edition has limitations in file compatibility, such as ASF, WMA
+and WMV.
+
+Getting Started
+
+,,Note
+
+yy The file name is limited to 180 characters.
+yy Maximum files/folder: Less than 2 000
+(total number of files and folders)
+
+yy File compatibility may differ depending on
+the server.
+yy Because the compatibility on DLNA server
+are tested on the bundle DLNA server
+(Nero MediaHome 4 Essentials Windows
+edition) environment, file requirements and
+playback functions may differ depending on
+media servers.
+yy The file requirements on page 10 are
+not always compatible. There may have
+some restrictions by file features and media
+server’s ability.
+
+,,Note
+
+yy A “avi” file which is encoded “WMV 9 codec”
+is not supported.
+yy This player supports UTF-8 files even it
+contains Unicode subtitle contents. This
+player can not support the pure Unicode
+subtitle files.
+yy Depending on the types of file or ways of
+recording, it may not play back.
+yy A disc which was recorded by multi-session
+on normal PC is not supported on this
+player.
+yy To be playback a movie file, movie file name
+and Subtitle file name must be the same.
+yy If video codec is MPEG2 TS or MPEG2 PS,
+subtitle does not play back.
+yy The total playback time of music file
+indicated on the screen may not correct for
+VBR files.
+
+yy Playing a movie subtitle files are only
+available on share folder of a PC or DLNA
+media server created by supplied Nero
+MediaHome 4 Essentials software on this
+player package.
+
+AVCHD (Advanced Video
+Codec High Definition)
+
+yy The files from removable media such as USB
+drive, DVD-drive etc. on your media server
+may not be shared properly.
+
+yy This player can playback AVCHD format discs.
+These discs are normally recorded and used in
+camcorders.
+
+yy This unit cannot support the ID3 Tag
+embedded MP3 file.
+
+yy The AVCHD format is a high definition digital
+video camera format.
+
+yy The total playback time of audio file
+indicated on the screen may not correct for
+VBR files.
+
+yy The MPEG-4 AVC/H.264 format is capable of
+compressing images at higher efficiency than
+that of the conventional image compressing
+format.
+
+yy HD movie files contained on the CD/DVD or
+USB 1.0/1.1 may not played properly.
+Blu-ray Disc or USB 2.0 are recommended to
+play back HD movie files.
+yy This player supports H.264/MPEG-4 AVC
+profile Main, High at Level 4.1. For a file
+with higher level, the warning message will
+appear on the screen.
+yy This player does not support files that are
+recorded with GMC*1 or Qpel*2.
+*1	 GMC – Global Motion Compensation
+*2	 Qpel – Quarter pixel
+
+yy This player can playback AVCHD discs using
+“x.v.Color” format.
+yy Some AVCHD format discs may not play
+depending on the recording condition.
+yy AVCHD format discs need to be finalized.
+yy “x.v.Color” offers a wider color range than normal
+DVD camcorder discs.
+
+1
+Getting Started
+
+yy Depending on the size and number of the
+files, it may take several minutes to read the
+contents on the media.
+
+11
+
+12
+
+1
+
+Getting Started
+
+Getting Started
+
+About DLNA
+
+Regional Code
+
+This Player is a DLNA Certified digital media player
+that can display and play movie, photo and music
+content from your DLNA-compatible digital media
+server (PC and Consumer Electronics).
+
+This unit has a regional code printed on the rear of
+the unit. This unit can play only BD-ROM or DVD
+discs labeled same as the rear of the unit or “ALL”.
+
+The Digital Living Network Alliance (DLNA) is a
+cross-industry organization of consumer electronics,
+computing industry and mobile device companies.
+Digital Living provides consumers with easy sharing
+of digital media through your home network.
+
+System Select
+
+The DLNA certification logo makes it easy
+to find products that comply with the DLNA
+Interoperability Guidelines. This unit complies with
+DLNA Interoperability Guidelines v1.5.
+When a PC running DLNA server software or
+other DLNA compatible device is connected to
+this player, some setting changes of software or
+other devices may be required. Please refer to the
+operating instructions for the software or device for
+more information.
+
+Certain System Requirements
+For high definition video playback:
+yy High definition display that has HDMI input jack.
+yy BD-ROM disc with high definition content.
+yy HDMI or HDCP capable DVI input on your display
+device is required for some content (as specified
+by disc authors).
+
+Press B (OPEN/CLOSE) when a disc is inserted,
+and do not remove the disc. Press and hold M
+(PAUSE) for more than five seconds while [OPEN] is
+displayed in the display window.
+
+Getting Started
+
+Remote control
+
+• • • • • • a •  •  •  •  •  • 
+
+B (OPEN/CLOSE): Ejects a disc.
+FUNCTION: Changes input mode.
+0-9 numerical buttons: Selects
+numbered options in a menu.
+CLEAR: Removes a mark on the
+search menu or a number when
+setting the password.
+REPEAT (h): Repeats a desired
+section or sequence.
+• • • • • • b •  •  •  •  •  •
+c/v (SCAN): Searches
+backward or forward.
+C/V (SKIP): Goes to the
+next or previous chapter / track /
+file.
+Z (STOP): Stops playback.
+d (PLAY): Starts playback.
+
+TITLE/POPUP: Displays the DVD
+title menu or BD-ROM’s pop-up
+menu, if available.
+DISC MENU: Accesses menu on a
+disc.
+• • • • • • d •  •  •  •  •  •
+Colored (R, G, Y, B) buttons:
+- Use to navigate BD-ROM menus.
+They are also used for [MOVIE],
+[PHOTO], [MUSIC], [Premium] and
+[LG Apps] menu.
+- B button: Selects mono/ stereo
+in FM mode.
+RDS: Radio Data System.
+PTY: Views the programme type
+of the RDS.
+PTY SEARCH:
+Searches programme type.
+
+SPEAKER LEVEL: Sets the sound
+level of desired speaker.
+
+SUBTITLE: Selects a subtitle
+language.
+
+SOUND EFFECT: Selects a sound
+effect mode.
+
+AUDIO: Selects an audio language
+or audio channel.
+
+VOL +/-: Adjusts speaker volume.
+
+SLEEP: Sets a certain period of
+time after which the unit will
+switch to off.
+
+MUTE: Mute the unit.
+• • • • • • c •  •  •  •  •  •
+HOME ( ): Displays or exits the
+[Home Menu].
+3D SOUND: Selects a 3D sound
+effect mode.
+INFO/MENU (m): Displays or
+exits On-Screen Display.
+Remove the battery cover on the
+rear of the Remote Control, and
+insert two R03 (size AAA) batteries
+with 4 and 5 matched correctly.
+
+BACK (1): Exits the menu or
+returns to the previous screen.
+
+M (PAUSE): Pauses playback.
+
+OPTICAL: Changes input mode to
+optical directly.
+
+Battery Installation
+
+ENTER (b): Acknowledges menu
+selection.
+
+Direction buttons: Selects an
+option in the menu.
+PRESET +/-: Selects programme
+of Radio.
+TUNING +/-: Tunes in the desired
+radio station.
+
+MUSIC ID: When connected
+to the network, can provide
+information about the current
+song while movie playback.
+? : Marked button is not available.
+X (REC): Records an audio CD.
+TV Control Buttons: See page
+64.
+
+1
+Getting Started
+
+1 (POWER): Switches the player
+ON or OFF.
+
+13
+
+14
+
+Getting Started
+
+Front panel
+1
+Getting Started
+a	 iPod/ iPhone/ iPad/ USB Port
+
+>>Caution
+
+b	 Disc Slot
+
+Precautions in using the touch buttons
+
+c	 Display Window
+
+yy Use the touch buttons with clean and dry
+hands.
+- In a humid environment, wipe out any
+moisture on the touch buttons before
+using.
+
+d	 Operation buttons
+1/! (POWER)
+R (OPEN/CLOSE)
+F (Function)
+Changes the input source or function.
+D/M (PLAY / PAUSE)
+I (STOP)
+-/+ (Volume)
+
+yy Do not press the touch buttons hard to
+make it work.
+- If you apply too much strength, it can
+damage the sensor of the touch buttons.
+yy Touch the button that you want to work in
+order to operate the function correctly.
+yy Be careful not to have any conductive
+material such as metallic object on the
+touch buttons. It can cause malfunctions.
+
+Getting Started
+
+15
+
+Rear panel
+1
+Getting Started
+
+a	 Antenna Connector
+
+e	 LAN port
+
+b	 PORT. IN
+
+f	 HDMI IN 1/2
+
+c	 OPTICAL IN
+
+g	 HDMI OUT TO TV
+
+d	 VIDEO OUT
+
+h	 AC power cord
+
+16
+
+Connecting
+
+Mounting the main
+unit on a wall
+
+2.	 When you mount it on a wall (concrete), use the
+wall plugs (Not supplied). You should drill some
+holes. A guide sheet (WALL BRACKET INSTALL
+GUIDE) is supplied to drill. Use the sheet to
+check the point to drill.
+
+You can mount the main unit on a wall.
+Prepare screws and brackets supplied.
+
+Preperation
+
+2
+Connecting
+
+Wall bracket
+
+Unit
+
+WALL BRACKET
+INSTALL GUIDE
+
+1.	 Match the TV BOTTOM LINE of WALL BRACKET
+INSTALL GUIDE with the bottom of TV and
+attach to the position.
+
+TV
+
+,,Note
+
+Screws and Wall Plugs are not supplied for
+mounting the unit. We recommend the Hilti
+(HUD-1 6 x 30) for the mounting. Please
+purchase it.
+3.	 Remove the WALL BRACKET INSTALL GUIDE.
+4.	 Fix it with screws (not supplied) as shown in the
+illustration below.
+
+Connecting
+5.	 Hang the main unit onto the brackets, as shown
+below.
+
+17
+
+>>Caution
+
+yy Do not hang onto the installed unit and
+avoid any impact to the unit.
+yy Secure the unit firmly to the wall so that it
+does not fall off. If the unit falls off, it may
+result in an injury or damage to the product.
+yy When the unit is installed on a wall, please
+make sure that a child does not pull any of
+connecting cables, as it may cause it to fall.
+
+,,Note
+
+You can arrange cables with the cable holder
+as shown below.
+To TV
+
+To external devices etc
+
+Connecting
+
+,,Note
+
+Detach the unit from the bracket as shown
+below.
+
+2
+
+18
+
+Connecting
+
+Setting up
+
+Setting an ID for the wireless
+subwoofer
+
+Wireless connection
+
+When the unit is manufactured, the ID is
+already set. If interference occurs or you use
+a new wireless subwoofer, an ID should be set
+again.
+
+LED indicator of wireless subwoofer
+
+2
+
+1.	 Press HOME (
+
+).
+
+Connecting
+
+LED Color
+
+Operation
+
+Blue or yellow
+
+The wireless subwoofer is
+receiving the signal of the
+unit.
+
+2.	Use I/i to select the [Setup] and
+press ENTER (b). The [Setup] menu
+appears.
+
+Blue or yellow
+(blink)
+
+The wireless subwoofer is
+trying to connect.
+
+3.	Use U/u to select [AUDIO] option then
+press i to move to the second level.
+
+Red
+
+The Wireless subwoofer is
+in standby mode.
+
+Off (No
+display)
+
+The Wireless subwoofer is
+turned off.
+
+4.	Use U/u to select the [Connect wireless
+speakers] option then press ENTER (b) or
+i to move to the third level.
+The [Wireless Speaker Connection Guide]
+appears.
+
+Initial setting of an ID for the
+wireless subwoofer
+
+5.	 Press PAIRING button on the subwoofer.
+- If you see the blue or yellow LED
+indicator light, pairing was successful.
+
+1.	 Connect the power cord of the Wireless
+subwoofer to the outlet.
+
+6.	Use I/i to select the [Speaker test] and
+press ENTER (b) for wireless speaker
+connection test.
+
+2.	 Turn on the main unit : The main unit and
+wireless subwoofer will be automatically
+connected.
+
+Connecting
+
+,,Note
+
+yy If there is a strong electromagnetic wave
+product nearby, interference may occur. Put
+the unit (Wireless subwoofer and main unit)
+away from there.
+yy If you operate main unit then wireless
+subwoofer (rear speakers) sound within a
+few seconds in standby mode.
+yy Set the distance between this unit and
+subwoofer Receiver within 10 m (32 ft.).
+
+yy It takes a few seconds (and may take longer)
+for the Wireless Transmitter and subwoofer
+to communicate with each other.
+
+Connecting to Your TV
+Make one of the following connections, depending
+on the capabilities of your existing equipment.
+yy HDMI connection (page 20)
+yy Video connection (page 21)
+
+,,Note
+
+yy Depending on your TV and other
+equipment you wish to connect, there are
+various ways you could connect the player.
+Use only one of the connections described
+in this manual.
+yy Please refer to the manuals of your TV,
+stereo system or other devices as necessary
+to make the best connections.
+yy Make sure the player is connected directly
+to the TV. Tune the TV to the correct video
+input channel.
+yy Do not connect your player via your VCR.
+The image could be distorted by the copy
+protection system.
+
+2
+Connecting
+
+yy Optimum performance can be
+implemented only when the unit and
+the Wireless subwoofer within distance
+of 2 m (6 ft.) to 10 m (32 ft.) is used since
+communication failure may occur if longer
+distance is used.
+
+19
+
+20 Connecting
+
+,,Note
+
+HDMI Connection
+If you have a HDMI TV or monitor, you can connect
+it to this player using a HDMI cable (Type A, High
+speed HDMI™ cable with Ethernet). Connect the
+HDMI jack on the player to the HDMI jack on a
+HDMI compatible TV or monitor.
+
+Rear of the unit
+
+2
+Connecting
+
+HDMI cable
+
+TV
+
+Set the TV’s source to HDMI (refer to TV’s Owner’s
+manual).
+
+Additional Information for HDMI
+yy When you connect a HDMI or DVI compatible
+device make sure of the following:
+-- Try switching off the HDMI/DVI device and
+this player. Next, switch on the HDMI/DVI
+device and leave it for around 30 seconds,
+then switch on this player.
+-- The connected device’s video input is set
+correctly for this unit.
+-- The connected device is compatible with
+720x576p, 1280x720p, 1920x1080i or
+1920x1080p video input.
+yy Not all HDCP-compatible HDMI or DVI devices
+will work with this player.
+-- The picture will not be displayed properly
+with non-HDCP device.
+
+yy If a connected HDMI device does not accept
+the audio output of the player, the HDMI
+device’s audio sound may be distorted or
+may not output.
+yy When you use HDMI connection, you can
+change the resolution for the HDMI output.
+(Refer to “Resolution Setting” on page 22.)
+yy Select the type of video output from the
+HDMI OUT jack using [HDMI Color Setting]
+option on the [Setup] menu (see page
+33).
+yy Changing the resolution when the
+connection has already been established
+may result in malfunctions. To solve the
+problem, turn off the player and then turn it
+on again.
+yy When the HDMI connection with HDCP
+is not verified, TV screen is changed to
+black screen. In this case, check the HDMI
+connection, or disconnect the HDMI cable.
+yy If there are noises or lines on the screen,
+please check the HDMI cable (length is
+generally limited to 4.5 m(15 ft.)).
+
+What is SIMPLINK?
+Some functions of this unit are controlled by the
+TV’s remote control when this unit and LG TV’s with
+SIMPLINK are connected through HDMI connection.
+Controllable functions by LG TV’s remote control;
+Play, Pause, Scan, Skip, Stop, Power Off, etc.
+Refer to the TV owner’s manual for the details of
+SIMPLINK function.
+LG TV’s with SIMPLINK function has the logo as
+shown above.
+
+,,Note
+
+Depending on the disc type or playing status,
+some SIMPLINK operation may differ from your
+purpose or not work.
+
+Connecting
+
+ARC (Audio Return Channel)
+function
+The ARC function enables an HDMI capable TV to
+send the audio stream to HDMI OUT of this player.
+
+Video Connection
+Connect the VIDEO OUT jack on the player to the
+video in jack on the TV using a video cable. You can
+hear the sound through the system’s speakers.
+
+Rear of the unit
+
+2
+Connecting
+
+To use this function:
+-- Your TV must support the HDMI-CEC and ARC
+function and the HDMI-CEC and ARC must be
+set to On.
+-- The setting method of HDMI-CEC and ARC may
+differ depending on the TV. For details about
+ARC function, refer to your TV manual.
+
+21
+
+-- You must use the HDMI cable (Type A, High
+Speed HDMI™ cable with Ethernet).
+-- You must connect with the HDMI IN that
+supports the ARC function using the HDMI OUT
+on this player.
+-- You can connect only one Home Theater to TV
+compatible with ARC.
+
+Video cable
+
+TV
+
+22 Connecting
+
+Resolution Setting
+The player provides several output resolutions for
+HDMI OUT jack. You can change the resolution
+using [Setup] menu.
+1.	 Press HOME ( ).
+2.	 Use A/D to select the [Setup] and press ENTER
+(b). The [Setup] menu appears.
+
+2
+
+3.	 Use W/S to select [DISPLAY] option then
+press D to move to the second level.
+
+Connecting
+
+4.	 Use W/S to select the [Resolution] option
+then press ENTER (b) to move to the third level.
+
+5.	Use W/S to select the desired resolution then
+press ENTER (b) to confirm your selection.
+
+,,Note
+
+yy If your TV does not accept the resolution
+you have set on the player, you can set
+resolution to 576p as follows:
+1.	 Press HOME ( ) to disappear the HOME
+menu.
+2	Press Z (STOP) for more than 5 seconds.
+yy When you set the resolution to 576i with
+HDMI connection, actual resolution is
+outputted to 576p.
+yy If you select a resolution manually and then
+connect the HDMI jack to TV and your TV
+does not accept it, the resolution setting is
+set to [Auto].
+yy If you select a resolution that your TV
+does not accept, the warning message
+will appear. After resolution change,
+if you cannot see the screen, please
+wait 20 seconds and the resolution will
+automatically revert back to the previous
+resolution.
+yy The 1080p video output frame rate may
+be automatically set to either 24 Hz or
+50 Hz depending both on the capability
+and preference of the connected TV and
+based on the native video frame rate of the
+content on the BD-ROM disc.
+yy The resolution of the VIDEO OUT jack is
+always outputted at 576i resolution.
+
+Connecting 23
+
+Antenna connection
+Connect the supplied antenna for listening to the
+radio.
+
+Connections with
+external device
+PORT. IN connection
+You can enjoy the sound from your portable audio
+player through the speakers of this system.
+
+You can also use the F (Function) button on the
+front panel to select the input mode.
+
+Rear of the unit
+
+,,Note
+
+After connecting the FM wire antenna, keep
+it as horizontal as possible. Be sure to fully
+extend the FM wire antenna.
+
+MP3 player, etc...
+
+2
+Connecting
+
+Connect the headphones (or line out ) jack of the
+portable audio player into the PORT. IN socket of
+this unit. And then select the [PORTABLE] option by
+pressing FUNCTION and ENTER (b).
+
+24 Connecting
+
+OPTICAL IN connection
+
+HDMI IN 1/2 connection
+
+You can enjoy the sound from your component
+with a digital optical connection through the
+speakers of this system.
+
+You can enjoy the pictures and sound from your
+component through this connection.
+
+Connect the optical output jack of your component
+into the OPTICAL IN jack on the unit. And then
+select the [OPTICAL] option by pressing FUNCTION
+and ENTER (b). Or press OPTICAL to select directly.
+
+2
+
+You can also use the F (Function) button on the
+front panel to select the input mode.
+
+Connect the HDMI OUT jack of your component
+into the HDMI IN 1 or 2 jack on this unit. And
+then select the [HDMI IN 1/2] option by pressing
+FUNCTION and ENTER (b).
+You can also use the F (Function) button on the
+front panel to select the input mode.
+
+Connecting
+
+Rear of the unit
+Rear of the unit
+
+To the HDMI OUT jack of
+your component
+(set-top box, digital
+satellite receiver, video
+game machine, etc.)
+To the digital
+optical output jack
+of your component
+
+,,Note
+
+yy You cannot change the video resolution in
+the HDMI IN 1/2 mode. Change the video
+resolution of the connected component.
+yy If the video output signal is abnormal when
+your personal computer is connected to
+HDMI IN 1/2 jack, change the resolution
+of your personal computer to 576p, 720p,
+1080i or 1080p.
+yy The video signal from the HDMI input
+cannot be output from the component or
+composite video outputs.
+yy The player sends audio from the HDMI
+inputs to both the HDMI output and to the
+unit’s speakers.
+
+Connecting 25
+
+Connecting to your
+Home Network
+
+Wired network connection
+
+Broadband
+service
+
+2
+Router
+
+Using a wired network provides the best
+performance, because the attached devices
+connect directly to the network and are not subject
+to radio frequency interference.
+Please refer to the documentation for your network
+device for further instructions.
+Connect the player’s LAN port to the corresponding
+port on your Modem or Router using a
+commercially available LAN or Ethernet cable.
+
+DLNA certified servers
+
+,,Note
+
+yy When plugging or unplugging the LAN
+cable, hold the plug portion of the cable.
+When unplugging, do not pull on the LAN
+cable but unplug while pressing down on
+the lock.
+yy Do not connect a modular phone cable to
+the LAN port.
+yy Since there are various connection
+configurations, please follow the
+specifications of your telecommunication
+carrier or internet service provider.
+yy If you want to access content from DLNA
+servers, this player must be connected to
+the same local area network with them via a
+router.
+yy To set your PC as a DLNA server, install the
+supplied Nero MediaHome 4 on your PC.
+(see page 67)
+
+Rear of the unit
+
+Connecting
+
+This player can be connected to a local area
+network (LAN) via the LAN port on the rear panel or
+the internal wireless module.
+By connecting the unit to a broadband home
+network, you have access to services such as
+software updates, BD-LIVE interactivity and on-line
+content services.
+
+26 Connecting
+
+Wired Network Setup
+
+Advanced Setting
+
+If there is a DHCP server on the local area network
+(LAN) via wired connection, this player will
+automatically be allocated an IP address. After
+making the physical connection, a small number of
+home networks may require the player’s network
+setting to be adjusted. Adjust the [NETWORK]
+setting as follow.
+
+If you want to set the network settings manually,
+use W/S to select [Advanced Setting] on the
+[Network Setting] menu and press ENTER (b).
+
+2
+
+Preparation
+
+Connecting
+
+Before setting the wired network, you need to
+connect the broadband internet to your home
+network.
+1.	 Select [Connection Setting] option in the
+[Setup] menu then press ENTER (b).
+
+2.	 Read the preparations for the network settings
+and then press ENTER (b) while [Start] is
+highlighted.
+
+Network will automatically be connected to the
+unit.
+
+1.	 Use W/S to select [Wired] and press ENTER
+(b).
+
+2.	Use W/S/A/D to select the IP mode
+between [Dynamic] and [Static].
+Normally, select [Dynamic] to allocate an IP
+address automatically.
+
+,,Note
+
+If there is no DHCP server on the network and
+you want to set the IP address manually, select
+[Static] then set [IP Address], [Subnet Mask],
+[Gateway] and [DNS Server] using
+W/S/A/D and numerical buttons. If you
+make a mistake while entering a number, press
+CLEAR to clear the highlighted part.
+3.	 Select [Next] and press ENTER (b) to apply
+network settings.
+
+Network connection status is displayed on the
+screen.
+4.	 Press ENTER (b) while [Close] is highlighted to
+finish the wired network settings.
+
+Connecting 27
+
+Wireless Network Connection
+
+Wireless Network Setup
+
+Another connection option is to use an Access Point
+or a wireless router. The network configuration and
+connection method may vary depending on the
+equipment in use and the network environment.
+
+For the wireless network connection, the player
+needs to be set up for network communication.
+This adjustment can be done from the [Setup]
+menu. Adjust the [NETWORK] setting as follow.
+Setting up the access point or the wireless router
+is required before connecting the player to the
+network.
+Preparation
+
+-- connect the broadband internet to the
+wireless home network.
+DLNA certified servers
+Access Point or
+Wireless Router
+
+Broadband
+service
+
+-- set the access point or wireless router.
+-- note the SSID and security code of the
+network.
+1.	 Select [Connection Setting] option in the
+[Setup] menu then press ENTER (b).
+2.	 Read the preparations for the network settings
+and then press ENTER (b) while [Start] is
+highlighted.
+
+Refer to the setup instructions supplied with
+your access point or wireless router for detailed
+connection steps and network settings.
+For best performance, a direct wired connection
+from this player to your home network’s router or
+cable/DSL modem is always the best option.
+If you do chose to use the wireless option, note that
+performance can sometimes be affected by other
+electronic devices in the home.
+
+If wired network is not connected to the unit, all
+available networks are displayed on the screen.
+3.	Use W/S to select a desired SSID of wireless
+network and press ENTER (b).
+
+If you have security on your access point, you
+need to input the security code as necessary.
+
+Connecting
+
+Before setting the wireless network, you need
+to:
+
+Wireless
+Communication
+
+2
+
+28 Connecting
+
+Advanced Setting
+If you want to set the network settings manually,
+use W/S to select [Advanced Setting] on the
+[Network Setting] menu and press ENTER (b).
+1.	 Use W/S to select [Wireless] and press ENTER
+(b).
+
+,,Note
+
+2
+Connecting
+
+yy WEP security mode generally have 4 keys
+available on an access point setting. If your
+access point or wireless router use WEP
+security, enter the security code of the key
+“No.1” to connect on your home network.
+yy An Access Point is a device that allows you
+to connect to your home network wirelessly.
+4.	Use W/S/A/D to select the IP mode
+between [Dynamic] and [Static].
+Normally, select [Dynamic] to allocate an IP
+address automatically.
+
+,,Note
+
+If there is no DHCP server on the network and
+you want to set the IP address manually, select
+[Static] then set [IP Address], [Subnet Mask],
+[Gateway] and [DNS Server] using
+W/S/A/D and numerical buttons. If you
+make a mistake while entering a number, press
+CLEAR to clear the highlighted part.
+5.	 Select [Next] and press ENTER (b) to apply
+network settings.
+
+[AP List] - Scans all available access points or
+wireless routers within range and display them
+as a list.
+[Network name (SSID)] – Your access point
+may not be broadcasting its network name
+(SSID). Check your access point settings through
+your computer and either set your access
+point to broadcast SSID, or manually enter the
+network name in [Network name(SSID)].
+[PBC] – If your access point or wireless
+router that supports the PBC (Push Button
+Configuration) method, select this option and
+press the Push Button on your access point
+within 120 counts. You do not need to know the
+network name (SSID) and security code of your
+access point.
+[PIN] – If your access point supports the PIN
+Code configuration method based on WPS(WiFi Protected Setup), select this option and
+note the code number on the screen. And
+then, enter the PIN number on a setting menu
+of your access point to connect. Refer to the
+documentation for your network device.
+2.	 Follow the instructions of each connection
+method on the screen.
+
+Network connection status is displayed on the
+screen.
+6.	 Select [Close] and press ENTER (b) to complete
+the network connection.
+
+,,Note
+
+To use PBC and PIN network connection,
+security mode of your access point must be
+set to OPEN or AES.
+
+Connecting 29
+
+Notes on Network Connection:
+yy Many network connection problems during
+set up can often be fixed by re-setting the
+router or modem. After connecting the player
+to the home network, quickly power off and/
+or disconnect the power cable of the home
+network router or cable modem. Then power on
+and/or connect the power cable again.
+
+yy Our company is not responsible for any
+malfunction of the player and/or the internet
+connection feature due to communication
+errors/malfunctions associated with your
+broadband internet connection, or other
+connected equipment.
+yy The features of BD-ROM discs made available
+through the Internet Connection feature are not
+created or provided by our company, and our
+company is not responsible for their functionality
+or continued availability. Some disc related
+material available by the Internet Connection
+may not be compatible with this player. If you
+have questions about such content, please
+contact the producer of the disc.
+yy Some internet contents may require a higher
+bandwidth connection.
+yy Even if the player is properly connected and
+configured, some internet contents may not
+operate properly because of internet congestion,
+the quality or bandwidth of your internet service,
+or problems at the provider of the content.
+yy Some internet connection operations may not
+be possible due to certain restrictions set by the
+Internet service provider (ISP) supplying your
+broadband Internet connection.
+yy Any fees charged by an ISP including, without
+limitation, connection charges are your
+responsibility.
+yy A 10 Base-T or 100 Base-TX LAN port is required
+for wired connection to this player. If your
+internet service does not allow for such a
+connection, you will not be able to connect the
+player.
+yy You must use a Router to use xDSL service.
+
+yy The use of a “Router” may not be allowed or its
+usage may be limited depending on the policies
+and restrictions of your ISP. For details, contact
+your ISP directly.
+yy The wireless network operate at 2.4GHz
+radio frequencies that are also used by other
+household devices such as cordless telephone,
+Bluetooth® devices, microwave oven, and can be
+affected by interference from them.
+yy Turn off all unused network equipment in
+your local home network. Some devices may
+generate network traffic.
+yy For the purpose of the better transmission,
+placing the player from the access point as close
+as possible.
+yy In some instances, placing the access point or
+wireless router at least 0.45 m (1.5 ft.) above the
+floor may improve the reception.
+yy Move closer to the access point if possible or reorient the player so there is nothing between it
+and the access point.
+yy The reception quality over wireless depends on
+many factors such as type of the access point,
+distance between the player and access point,
+and the location of the player.
+yy Set your access point or wireless router to
+Infrastructure mode. Ad-hoc mode is not
+supported.
+
+2
+Connecting
+
+yy Depending on the internet service provider (ISP),
+the number of devices that can receive internet
+service may be limited by the applicable terms
+of service. For details, contact your ISP.
+
+yy A DSL modem is required to use DSL service and
+a cable modem is required to use cable modem
+service. Depending on the access method of and
+subscriber agreement with your ISP, you may not
+be able to use the internet connection feature
+contained in this player or you may be limited
+to the number of devices you can connect at
+the same time. (If your ISP limits subscription to
+one device, this player may not be allowed to
+connect when a PC is already connected.)
+
+30 Connecting
+
+USB device connection
+This player can play movie, music and photo files
+contained in the USB device.
+
+Playback content in the USB
+device
+2
+
+1.	 Insert a USB device to the USB port until it fits
+into place.
+
+,,Note
+
+yy This player supports USB flash drive/external
+HDD formatted in FAT16, FAT32 and NTFS
+when accessing files (music, photo, movie).
+However, for BD-Live, only FAT16 and FAT32
+formats are supported. Use the USB flash
+drive/external HDD formatted in either
+FAT16 or FAT32 when using BD-Live.
+yy The USB device can be used for the local
+storage for enjoying BD-LIVE discs with
+Internet.
+
+Connecting
+
+yy This unit can support up to 4 partitions of
+the USB device.
+yy Do not extract the USB device during
+operation (play, etc.).
+yy A USB device which requires additional
+program installation when you have
+connected it to a computer, is not
+supported.
+When you connect the USB device on the HOME
+menu, the player plays a music file contained in the
+USB storage device automatically. If the USB storage
+device is containing various types of files, a menu
+for the file type selection will appear.
+File loading may takes few minutes depending on
+the number of content stored in the USB storage
+device. Press ENTER (b) while [Cancel] is selected
+to stop loading.
+2.	 Press HOME ( ).
+3.	 Select [Movie], [Photo] or [Music] using A/D,
+and press ENTER (b).
+4.	 Select the [USB] option using W/S, and press
+ENTER (b).
+
+5.	 Select a file using W/S/A/D, and press
+PLAY or ENTER (b) to play the file.
+6.	 Withdraw the USB device carefully.
+
+yy USB device: USB device that supports
+USB1.1 and USB2.0.
+yy Movie, music and photo files can be played.
+For details of operations on each file, refer to
+relevant pages.
+yy Regular back up is recommended to
+prevent data loss.
+yy If you use a USB extension cable, USB HUB
+or USB Multi-reader, the USB device may not
+be recognized.
+yy Some USB device may not work with this
+unit.
+yy Digital camera and mobile phone are not
+supported.
+yy USB Port of the unit cannot be connected
+to PC. The unit cannot be used as a storage
+device.
+
+System Setting
+
+Settings
+Initial Setup
+
+31
+
+5.	Use W/S/A/D to select the IP mode
+between [Dynamic] and [Static].
+Normally, select [Dynamic] to allocate an IP
+address automatically.
+
+When you turn on the unit for the first time, the
+initial setup wizard appears on the screen. Set the
+display language, network settings and speaker
+setup on the initial setup wizard.
+1.	Press 1 (POWER).
+The initial setup wizard appears on the screen.
+2.	Use W/S/A/D to select a display language
+and press ENTER (b).
+
+6.	 Select [Next] and press ENTER (b) to apply
+network settings.
+
+3
+
+Network connection status is displayed on the
+screen.
+For details on network settings, refer to
+"Connecting to your Home Network" on page
+25.
+7.	 Select [Next] and press ENTER (b).
+8.	 Check all the settings that you have set in the
+previous steps.
+
+If wired network is connected , the network
+connection setting will automatically be
+finished.
+4.	 All available networks are displayed on the
+screen. Use W/S to select [Wired Network]
+or desired SSID of wireless network and press
+ENTER (b).
+
+If you have security on your access point, you
+need to input the security code as necessary.
+
+Press ENTER (b) while [Finish] is highlighted
+to finish the initial setup settings. If there is any
+settings to be changed, use A/D to select
+[Previous] and press ENTER (b).
+
+System Setting
+
+3.	 Read and prepare the preparations for the
+network settings and then press ENTER (b)
+while [Start] is highlighted.
+
+32 System Setting
+
+Adjust the Setup Settings
+
+[DISPLAY] Menu
+
+You can change the settings of the player in the
+[Setup] menu.
+
+TV Aspect Ratio
+
+1.	 Press HOME ( ).
+
+Select a TV aspect ratio option according to your TV
+type.
+[4:3 Letter Box]
+Select when a standard 4:3 TV is connected.
+Displays theatrical images with masking bars
+above and below the picture.
+
+2.	Use A/D to select the [Setup] and press ENTER
+(b). The [Setup] menu appears.
+
+3
+
+[4:3 Pan Scan]
+Select when a standard 4:3 TV is connected.
+Displays pictures cropped to fill your TV screen.
+Both sides of the picture are cut off.
+
+System Setting
+
+[16:9 Original]
+Select when a 16:9 wide TV is connected. The
+4:3 picture is displayed with an original 4:3
+aspect ratio, with black bars appearing at the
+left and right sides.
+3.	Use W/S to select the first setup option, and
+press D to move to the second level.
+
+[16:9 Full]
+Select when a 16:9 wide TV is connected. The
+4:3 picture is adjusted horizontally (in a linear
+proportion) to fill the entire screen.
+
+,,Note
+
+You cannot select [4:3 Letter Box] and
+[4:3 Pan Scan] option when the resolution is
+set to higher than 720p.
+4.	Use W/S to select a second setup option, and
+press ENTER (b) to move to the third level.
+
+5.	Use W/S to select a desired setting, and press
+ENTER (b) to confirm your selection.
+
+System Setting 33
+
+Resolution
+
+HDMI Color Setting
+
+Sets the output resolution of the HDMI video signal.
+Refer to page 22 for details about the resolution
+setting.
+
+Select the type of output from the HDMI OUT jack.
+For this setting, please refer to the manuals of your
+display device.
+
+[Auto]
+
+[YCbCr]
+
+If the HDMI OUT jack is connected to
+TVs providing display information (EDID),
+automatically selects the resolution best suited
+to the connected TV.
+
+Select when connecting to a HDMI display
+device.
+
+[1080p]
+
+[RGB]
+Select when connecting to a DVI display
+device.
+
+Outputs 1080 lines of progressive video.
+
+3D Mode
+
+Outputs 1080 lines of interlaced video.
+
+Select the type of output mode for Blu-ray 3D disc
+playback.
+
+[720p]
+Outputs 720 lines of progressive video.
+
+[Off]
+
+[576p]
+
+Blu-ray 3D disc playback will output as 2D
+mode like a normal BD-ROM disc playback.
+
+Outputs 576 lines of progressive video.
+[576i]
+Outputs 576 lines of interlaced video.
+
+[On]
+Blu-ray 3D disc playback will output as 3D
+mode.
+
+1080p Display Mode
+
+Wallpaper
+
+When the resolution is set to 1080p, select
+[24 Hz] for smooth presentation of film material
+(1080p/24 Hz) with a HDMI-equipped display
+compatible with 1080p/24 Hz input.
+
+Changes the background of the initial screen.
+
+,,Note
+
+yy When you select [24 Hz], you may
+experience some picture disturbance when
+the video switches video and film material.
+In this case, select [50 Hz].
+yy Even when [1080p Display Mode] is set to
+[24 Hz], if your TV is not compatible with
+1080p/24 Hz, the actual frame frequency of
+the video output will be 50 Hz to match the
+video source format.
+
+Home Menu Guide
+This function allows you to display or delete the
+guide bubble on the Home Menu. Set this option
+to [On] for displaying guide.
+
+3
+System Setting
+
+[1080i]
+
+34 System Setting
+
+[LANGUAGE] Menu
+
+[AUDIO] Menu
+
+Display Menu
+
+Each disc has a variety of audio output options. Set
+the player’s Audio options according to the type of
+audio system you use.
+
+Select a language for the [Setup] menu and onscreen display.
+
+Disc Menu/Disc Audio/
+Disc Subtitle
+Select the language you prefer for the audio track
+(disc audio), subtitles, and the disc menu.
+[Original]
+
+3
+
+Refers to the original language in which the
+disc was recorded.
+
+System Setting
+
+[Other]
+Press ENTER (b) to select another language.
+Use number buttons then press ENTER (b)
+to enter the corresponding 4-digit number
+according to the language code list on page
+70.
+[Off] (Disc Subtitle only)
+Turn off Subtitle.
+
+,,Note
+
+Depending on the disc, your language setting
+may not work.
+
+,,Note
+
+Since many factors affect the type of audio
+output, see “Audio Output Specifications” on
+page 74 for details.
+
+Digital Output
+[PCM Stereo] (HDMI only)
+Select if you connect this unit’s HDMI OUT jack
+to a device with two-channel digital stereo
+decoder.
+[PCM Multi-Ch] (HDMI only)
+Select if you connect this unit’s HDMI OUT jack
+to a device with multi-channel digital decoder.
+[DTS Re-Encode] (HDMI only)
+Select if you connect this unit’s HDMI OUT jack
+to a device with DTS decoder.
+[BitStream] (HDMI only)
+Select if you connect this unit’s HDMI OUT jack
+to a device with LPCM, Dolby Digital, Dolby
+Digital Plus, Dolby TrueHD, DTS and DTS-HD
+decoder.
+
+,,Note
+
+yy When [Digital Output] option is set to [PCM
+Multi-Ch], the audio may output as PCM
+Stereo if the PCM Multi-Ch information is
+not detected from HDMI device with EDID.
+yy If the [Digital Output] option is set to [DTS
+Re-Encode], the DTS Re-Encode audio is
+outputted for BD-ROM discs with secondary
+audio and the original audio is outputted
+for the other discs (like [BitStream]).
+yy This setting is not available on the input
+signal from an external device.
+
+System Setting 35
+
+HD AV Sync
+Sometimes Digital TV encounters a delay between
+picture and sound. If this happens you can
+compensate by setting a delay on the sound so
+that it effectively ‘waits’ for the picture to arrive: this
+is called HD AV Sync. Use W S to scroll up and
+down through the delay amount, which you can
+set at anything between 0 and 300 ms.
+
+DRC (Dynamic Range Control)
+This function allows you to listen to a movie at a
+lower volume without losing clarity of sound.
+[Off]
+Turns off this function.
+Compress the dynamic range of the Dolby
+Digital, Dolby Digital Plus or Dolby TrueHD
+audio output.
+[Auto]
+The dynamic range of the Dolby TrueHD audio
+output is specified by itself.
+And the dynamic range of the Dolby Digital
+and Dolby Digital Plus are operated as same as
+the [On] mode.
+
+,,Note
+
+The DRC setting can be changed only when a
+disc is not inserted or the unit is in complete
+stop mode.
+
+Connect wireless speakers
+You can set up wireless connection manually, when
+your connection is not completed. Refer to page
+"Wireless connection" on page 18.
+
+3
+System Setting
+
+[On]
+
+36 System Setting
+
+[LOCK] Menu
+
+DVD Rating
+
+The [LOCK] settings affect only BD-ROM and DVD
+playback.
+
+Blocks playback of rated DVD based on their
+content. (Not all discs are rated.)
+
+To access the any features in [LOCK] settings, you
+must enter the 4-digit security code you have
+created.
+If you have not entered a password yet, you are
+prompted to do so. Enter a 4-digit password twice,
+and press ENTER (b) to create a new password.
+
+Password
+You can create or change the password.
+
+3
+
+[None]
+
+System Setting
+
+Enter a 4-digit password twice, and press
+ENTER (b) to create a new password.
+[Change]
+Enter the current password and press ENTER
+(b). Enter a 4-digit password twice, and press
+ENTER (b) to create a new password.
+If you forget your password
+If you forget your password, you can clear it using
+the following steps:
+1.	 Remove any disc that might be in the player.
+2.	 Select [Password] option in the [Setup] menu.
+3.	 Use Number buttons to enter “210499”. The
+password is cleared.
+
+,,Note
+
+If you make a mistake before pressing ENTER
+(b), press CLEAR. Then input the correct
+password.
+
+[Rating 1-8]
+Rating one (1) has the most restrictions and
+rating eight (8) is the least restrictive.
+[Unlock]
+If you select [Unlock], parental control is not
+active and the disc plays in full.
+
+Blu-ray Disc Rating
+Set an age limit of BD-ROM play. Use number
+buttons to input an age limit for BD-ROM viewing.
+[255]
+All BD-ROM can be played.
+[0-254]
+Prohibits play of BD-ROM with corresponding
+ratings recorded on them.
+
+,,Note
+
+The [Blu-ray Disc Rating] will be applied only
+for the BD disc that containing the Advanced
+Rating Control.
+
+Area Code
+Enter the code of the area whose standards were
+used to rate the DVD video disc, based on the list
+on page 69.
+
+System Setting 37
+
+[NETWORK] Menu
+The [NETWORK] settings are needed to use the
+software update, BD Live and on-line content
+services.
+
+Connection Setting
+
+Premium/LG Apps
+[Country Setting]
+Select your area for displaying proper services
+and contents on the [Premium] and [LG Apps]
+feature.
+
+If your home network environment is ready to
+connect the player, the player needs to be set the
+wired or wireless network connection for network
+communication. (See “Connecting to your Home
+Network” on page 25.)
+
+Device Name
+
+Connection Status
+
+Wi-Fi Direct
+
+If you want to check the network status on this
+player, select the [Connection Status] options and
+press ENTER (b) to check whether a connection
+to the network and the internet have been
+established.
+
+This player is a Wi-Fi Direct™ certified device. Wi-Fi
+Direct™ is the technology that devices to connect
+each other without connecting to an Access point
+or a router. Set this option to [On] for activating
+the Wi-Fi Direct™ mode. Refer to page 42 for the
+device connection.
+
+You can restrict Internet access when BD-LIVE
+functions are used.
+[Permitted]
+Internet access is permitted for all BD-LIVE
+contents.
+[Partially permitted]
+Internet access is permitted only for BDLIVE contents which have content owner
+certificates. Internet access and AACS Online
+functions are prohibited for all BD-LIVE
+contents without a certificate.
+[Prohibited]
+Internet access is prohibited for all BD-LIVE
+contents.
+
+[OTHERS] Menu
+DivX VOD
+ABOUT DIVX VIDEO: DivX® is a digital video format
+created by DivX, LLC, a subsidiary of Rovi Corporation.
+This is an official DivX Certified® device that plays
+DivX video. Visit divx.com for more information and
+software tools to convert your files into DivX videos.
+ABOUT DIVX VIDEO-ON-DEMAND: This DivX
+Certified® device must be registered in order to play
+purchased DivX Video-on-Demand (VOD) movies.
+To obtain your registration code, locate the DivX
+VOD section in your device setup menu. Go to vod.
+divx.com for more information on how to complete
+your registration.
+[Register]
+Displays the registration code of your player.
+[Deregister]
+Deactivate your player and display the
+deactivation code.
+
+,,Note
+
+All the downloaded videos from DivX(R) VOD
+with this player’s registration code can only be
+played on this unit.
+
+3
+System Setting
+
+BD-LIVE connection
+
+You can make a network name using virtual
+keyboard. This player will be recognised by the
+name you are entering on your home network.
+
+38 System Setting
+
+Network Play
+This function allows you to control the playback
+of media streamed from DLNA media server by a
+DLNA certified smartphone. Most DLNA certified
+smartphone has a function to control the playback
+media on your home network. Set this option to
+[On] for allowing your smartphone to control this
+unit. Refer to instructions of your DLNA certified
+smartphone or the application for more detailed
+information.
+
+,,Note
+
+3
+System Setting
+
+yy This unit and the DLNA Certified Smartphone
+must be connected to the same network.
+yy To use the [Network Play] function using a
+DLNA certified smartphone, press HOME
+( ) to display the home menu before
+connecting to this unit.
+yy While controlling the unit using the [Network
+Play] function, the remote control may not work.
+yy Available file formats described on page
+10 are not always supported on [Network
+Play] function.
+
+Auto Power Off
+The screen saver appears when you leave the
+player in Stop mode for about five minutes. If
+you set this option to [On], the unit automatically
+turns off within 25 minutes since the Screen Saver
+is displayed. Set this option to [Off ] to leave the
+screen saver until the unit is operated by the user.
+
+,,Note
+
+Depending on the function, this function may
+not be available.
+
+Initialize
+[Factory Set]
+You can reset the player to its original factory
+settings.
+[Blu-ray Storage Clear]
+Initializes the BD-Live contents from the
+connected USB storage.
+
+,,Note
+
+If you reset the player to its original factory
+settings using [Factory Set] option, you have
+to set all the activation for the on-line services
+and network settings again.
+
+Software
+[Information]
+Displays the current software version.
+[Update]
+You can update the software by connecting
+the unit directly to the software update server
+(see page 59).
+
+Disclaimer Notice
+Press ENTER (b) to view the notice of Network
+Service Disclaimer.
+
+System Setting 39
+
+Sound Effect
+
+Setting the [User EQ]
+
+You can select a suitable sound mode. Press SOUND
+EFFECT repeatedly until the desired mode appears
+on the front panel display or the TV screen. The
+displayed items for the equalizer maybe different
+depending on sound sources and effects.
+[Natural Plus]: You can enjoy the natural sound
+effect same as 4.1 channel.
+[Natural]: You can enjoy comfortable and natural
+sound.
+
+1.	Use W/S to select the desired frequency.
+
+[Bypass]: Software with multichannel surround
+audio signals is played according to the way it was
+recorded.
+
+Select [Cancel] option then press ENTER (b) to
+cancel the setting.
+Select [Reset] option then press ENTER (b) to reset
+the all adjustments.
+
+[Clear Voice]: This mode makes voice sound clear,
+improving the quality of voice sound.
+[Game]: You can enjoy more virtual sound while
+playing video games.
+[Night]: This may be useful when you want to
+watch movies at low volumes late at night.
+[Up Scaler]: When listening to MP3 files or other
+compressed music, you can enhance the sound.
+This mode is available only to 2 channel sources.
+[Loudness]: Improves bass and treble sound.
+[User EQ]: You can adjust the sound by raising or
+lowering the level of specific frequency.
+
+3D Sound Effect
+3D Sound features create a wider spot so you can
+enjoy more immersive and cinematic surround
+sound. Press 3D SOUND repeatedly until the desired
+mode appears on the front panel display or the TV
+screen.
+[3D Music]: This mode delivers outstanding
+surround sound, providing a concert hall-like music
+experience in your home.
+[3D Movie]: This mode delivers outstanding
+surround sound, providing a theater-like movie
+experience in your home.
+
+3
+System Setting
+
+[Bass Blast]: Reinforce the bass sound effect from
+front left and right speaker and subwoofer.
+
+2.	Use A/D to select the desired level.
+
+40 Operating
+
+General Playback
+
+Playing a Disc
+erot
+
+Using [HOME] menu
+
+1.	 Insert a disc in the disc slot.
+
+The home menu appears when you press HOME
+( ). Use W/S/A/D to select a category and
+press ENTER (b).
+
+For the most Audio CD, BD-ROM and
+DVD-ROM discs, playback starts automatically.
+2.	Press HOME ( ).
+3.	 Select [Movie] or [Music] using A/D, and press
+ENTER (b).
+4.	 Select [Blu-ray Disc], [DVD], [VR] or [Audio]
+option using W/S, and press ENTER (b).
+
+,,Note
+
+yy Playback functions described in this manual
+are not always available in every files and
+media. Some functions can be restricted
+depending on many factors.
+
+,,Note
+
+4
+
+k
+
+Operating
+
+Depending on the region, [LG Apps] service
+and [Search] function may not be available
+at the moment. The service may become
+available in these regions through at software
+update later.
+a [Music] - Plays audio contents.
+b [Movie] - Plays video contents.
+c [Photo] - Plays photo contents.
+d
+
+[Premium] - Displays the Premium Home
+screen.
+
+e [LG Apps] - Displays the [LG Apps] screen.
+f [Input] - Changes input mode.
+g [Setup] - Adjusts the system settings.
+h
+
+[Search] - Searching an on-line content by
+inputting a keyword on the search menu.
+
+i [LG Apps] - Displays the [LG Apps] screen.
+[Favorite Apps] - Shortcut for user’s favorite
+j
+Apps.
+k [My Apps] - Displays the My Apps screen.
+
+yy Depending on the BD-ROM titles, a USB
+device connection may be needed for the
+proper playback.
+yy Unfinalized DVD VR format discs may not be
+played in this player.
+yy Some DVD-VR discs are made with CPRM
+data by DVD RECORDER. This unit cannot
+support these kinds of discs.
+
+Playing a file on a disc/USB
+device
+yui
+This player can play movie, music and photo files
+contained in the disc or USB device.
+1.	 Insert a data disc in the disc slot or connect a
+USB device.
+2.	Press HOME ( ).
+3.	 Select [Movie], [Photo] or [Music] using A/D,
+and press ENTER (b).
+4.	 Select [Data] or [USB] option using W/S, and
+press ENTER (b).
+5.	 Select a file using W/S/A/D, and press
+d(PLAY) or ENTER (b) to play the file.
+
+Operating
+
+41
+
+Playing Blu-ray 3D disc
+e
+
+Enjoying BD-Live™
+e
+
+This player can play the Blu-ray 3D discs which
+contains separate views for the left and right eyes.
+
+BD-ROM supporting BD-Live that has a network
+extension function allows you to enjoy more
+functions such as downloading new movie trailers
+by connecting this unit to the internet.
+
+Preparation
+In order to playback Blu-ray 3D title in
+stereoscopic 3D mode, you need to:
+yy 	Check your TV is 3D capable and has HDMI
+input(s).
+	 ear 3D glasses to enjoy the 3D experience
+yy W
+if it is necessary.
+yy 	Check whether the BD-ROM title is the Bluray 3D disc or not.
+yy 	Connect an HDMI cable (High Speed HDMI™
+Cable with Ethernet) between the player’s
+HDMI output and TV’s HDMI input.
+
+2.	 Insert a disc in the disc slot.
+The playback starts automatically.
+3.	 Refer to the owner’s manual of your 3D-ready
+TV for the further instruction.
+You may need to adjust the display settings and
+focus on your TV’s setting for the improved 3D
+effect.
+
+>>Caution
+
+yy Watching a 3D content for a long period
+time may cause dizziness or tiredness.
+yy It is not recommended to watch a movie
+in 3D mode for infirm, child and pregnant
+woman.
+yy If you are experiencing headache, tiredness
+or dizziness while viewing contents in 3D,
+it is strongly recommended to stop the
+playback and rest until you feel normal.
+
+2.	 Insert a USB storage device to the USB port on
+the front panel.
+A USB storage device is needed to download
+bonus content.
+3.	Press HOME ( ), and set the [BD-LIVE
+connection] option on the [Setup] menu (page
+37).
+Depending on a disc, the BD-Live function may
+not be operated if [BD-LIVE connection] option
+is set to [Partially Permitted].
+4.	 Insert a BD-ROM with BD-Live.
+The operations are differ depending on the disc.
+Refer to the manual supplied with the disc.
+
+>>Caution
+
+Do not extract the connected USB device
+while content is being downloaded or a Bluray disc is still in the disc slot. Doing so may
+damage the connected USB device and BDLive features may not operate properly with
+the damaged USB device anymore. If the
+connected USB device seems damaged from
+such an action, you can format the connected
+USB device from the PC and reuse it with this
+player.
+
+,,Note
+
+yy Some BD-Live contents may be restrictively
+accessed in some territories by contents
+provider’s own decision.
+yy It may take up to several minutes to load
+and start enjoying BD-Live contents.
+
+4
+Operating
+
+1.	Press HOME ( ), and set the [3D Mode] option
+on the [Setup] menu to [On] (page 33).
+
+1.	 Check the network connection and settings
+(page 25).
+
+42 Operating
+
+Playing a file on a network
+server
+yui
+
+Wi-Fi Direct™ Connection
+
+This player can play video, audio and photo files
+located in a DLNA server through your home
+network.
+
+yui
+
+1.	 Check the network connection and settings
+(page 25).
+2.	Press HOME ( ).
+3.	 Select [Movie], [Photo] or [Music] using A/D,
+and press ENTER (b).
+4.	 Select a DLNA media server on the list using
+W/S, and press ENTER (b).
+
+Connecting to a Wi-Fi Direct™
+certified device
+This player can play movie, music and photo files
+located in a Wi-Fi Direct™ certified device. The Wi-Fi
+Direct™ technology make the player to be directely
+connected to a Wi-Fi Direct™ certified device
+without connecting to a network device such as an
+access point.
+1.	 Set the [Wi-Fi Direct] option on the [Setup]
+menu to [On] (page 37).
+2.	Press HOME ( ).
+3.	 Select [Movie], [Photo] or [Music] using A/D,
+and press ENTER (b).
+4.	 Select [Wi-Fi Direct] option using W/S, and
+press ENTER (b).
+
+4
+Operating
+
+If you want to rescan available media server,
+press the green (G) colored button.
+5.	 Select a file using W/S/A/D, and press
+ENTER (b) to play the file.
+
+,,Note
+
+yy The file requirements are described on page
+10.
+yy The thumbnail of the unplayable files can
+be displayed, but those cannot be played
+on this player.
+
+5.	 Select a Wi-Fi Direct™ device on the list using
+W/S, and press ENTER (b).
+Wi-Fi Direct™ connection will be automatically
+proceeded.
+
+yy The subtitle file name and movie file name
+have to be the same and located at the
+same folder.
+yy The playback and operating quality may be
+affected by your home network condition.
+yy You may experience connection problems
+depending on your server’s environment.
+yy To set your PC as a DLNA server, install the
+supplied Nero MediaHome 4 on your PC.
+(see page 67)
+
+If the Wi-Fi Direct™ device supports the PIN
+Code configuration method based on WPS(WiFi Protected Setup), select a device on the list
+and press yellow (Y) coloured button. Note the
+PIN number on the screen. And then, enter the
+PIN number on a setting menu of the device to
+connect.
+If you want to rescan available Wi-Fi Direct™
+device, press the green (G) coloured button.
+
+Operating 43
+
+,,Note
+
+When you connect this unit from other Wi-Fi
+Direct™ devices, PIN connection method is not
+available.
+6.	 Select a server that shared from the connected
+Wi-Fi Direct™ device using W/S, and press
+ENTER (b) to navigate the server.
+
+Connecting to a Wi-Fi available
+devices
+
+yui
+This player can connect to a general Wi-Fi device
+using Wi-Fi Direct™ function.
+1.	 Set the [Wi-Fi Direct] option on the [Setup]
+menu to [On] (page 37).
+2.	Press HOME ( ).
+3.	 Select [Movie], [Photo] or [Music] using A/D,
+and press ENTER (b).
+4.	 Select [Wi-Fi Direct] option using W/S, and
+press ENTER (b).
+
+To select a server from the device list, files or
+folders must be shared by DLNA server from the
+connected Wi-Fi Direct™ device.
+
+4
+
+,,Note
+
+yy For the purpose of the better transmission,
+placing the player from the Wi-Fi Direct™
+certified server as close as possible.
+
+5.	 Press red (R) coloured button to display the
+[SSID], [Security Option] and [Encryption] of the
+player.
+
+yy This unit can connect only 1 device at a
+time. Multiple connection is not available.
+yy If you try to connect wireless network while
+a device is connected by Wi-Fi Direct™
+function , Wi-Fi Direct™ connection will be
+force disconnected.
+yy If this player and a Wi-Fi Direct™ device
+are connected to the different local area
+network, Wi-Fi Direct™ connection may not
+available.
+
+6.	 On your Wi-Fi device, make a network
+connection to this player, using [Network name
+(SSID)], [Security Option] and [Encryption] at
+step 5 above.
+
+yy If a Wi-Fi Direct™ certified device is not in
+Wi-Fi direct standby mode, this product
+can’t find the device.
+
+7.	 Press BACK (1) twice to display the device list.
+
+yy This product cannot connect to a
+Wi-Fi direct™ device which is in Group
+Owner mode.
+
+Operating
+
+7.	 Select a file using W/S/A/D, and press
+ENTER (b) to play the file.
+
+44 Operating
+8.	 Select a server that shared from the connected
+Wi-Fi device using W/S, and press ENTER (b)
+to navigate the server.
+
+Basic operations for video and
+audio content
+To stop playback
+Press Z (STOP) while playback.
+
+To pause playback
+Press M (PAUSE) while playback.
+Press d (PLAY) to resume playback.
+To select a server from the device list, files or
+folders must be shared by DLNA server from the
+connected device.
+9.	 Select a file using W/S/A/D, and press
+ENTER (b) to play the file.
+
+,,Note
+
+4
+
+In case of connection to a Wi-Fi equipped
+device, PIN connection does not work.
+
+To play frame-by-frame (Video)
+Press M (PAUSE) while movie playback.
+Press M (PAUSE) repeatedly to play Frame-by-Frame
+playback.
+
+To scan forward or backward
+Press c or v to play fast forward or fast reverse
+during playback.
+
+Operating
+
+You can change the various playback speeds by
+pressing c or v repeatedly.
+
+To slow down the playing speed
+While the playback is paused, press v repeatedly
+to play various speeds of slow motion.
+
+To skip to the next/previous
+chapter/track/file
+During playback, press C or V to go to the
+next chapter/track/file or to return to the beginning
+of the current chapter/track/file.
+Press C twice briefly to step back to the previous
+chapter/track/file.
+In the file list menu of a server, there may have
+many types of contents in a folder together. In this
+case, press C or V to go to the previous or
+next content with same type.
+
+Operating 45
+
+Basic operations for photo
+content
+To play a slide show
+Press d (PLAY) to start slide show.
+
+To stop a slide show
+Press Z (STOP) while slide show.
+
+To pause a slide show
+Press M (PAUSE) while slide show.
+Press d (PLAY) to re-start the slide show.
+
+To skip to the next/previous photo
+While viewing a photo in full screen, press A or D
+to go to the previous or next photo.
+
+The unit records the point where you pressed the
+Z (STOP) depending on the disc.
+If “MZ (Resume Stop)” appears on the screen briefly,
+press d (PLAY) to resume playback (from the scene
+point).
+If you press Z (STOP) twice or unload the disc,
+“Z(Complete Stop)” appears on the screen. The unit
+will clear the stopped point.
+
+,,Note
+
+yy The resume point may be cleared when a
+button is pressed (for example; 1 (POWER),
+B (OPEN/CLOSE), etc).
+yy On BD-ROM discs with BD-J, the resume
+playback function does not work.
+yy If you press Z (STOP) once during BD-ROM
+interactive title playback, the unit will be in
+Complete Stop mode .
+
+To display the disc menu
+The menu screen may be displayed first after
+loading a disc which contains a menu. If you want
+to display the disc menu while playback, press DISC
+MENU.
+Use W/S/A/D buttons to navigate through
+menu items.
+
+To display the Pop-up menu
+Some BD-ROM discs contain Pop-up menu that
+appears while playback.
+Press TITLE/POPUP while playback, and use W/S/
+A/D buttons to navigate through menu items.
+
+Last Scene Memory
+er
+This unit memorizes the last scene from the last disc
+that is viewed. The last scene remains in memory
+even if you remove the disc from the unit or switch
+off the unit. If you load a disc that has the scene
+memorized, the scene is automatically recalled.
+
+,,Note
+
+yy Last Scene Memory function for a previous
+disc is erased once a different disc is played.
+yy This function may not work depending on
+the disc.
+yy On BD-ROM discs with BD-J, the last scene
+memory function does not work.
+yy This unit does not memorize settings of
+a disc if you switch off the unit before
+commencing to play it.
+
+4
+Operating
+
+Using the disc menu
+ero
+
+Resume playback
+eroyt
+u
+
+46 Operating
+
+Advanced Playback
+
+Repeating a specific portion
+erot
+
+Repeat Playback
+erotu
+y
+
+This player can repeat a portion you have selected.
+
+During playback, press REPEAT (h) repeatedly to
+select a desired repeat mode.
+Blu-ray Disc / DVD / Movie files
+jA- – Selected portion will be repeated continually.
+jChapter – The current chapter will be played
+back repeatedly.
+jTitle – The current title will be played back
+repeatedly.
+jAll – All the tracks or files will be played back
+repeatedly.
+
+4
+Operating
+
+To return to normal playback, press REPEAT (h)
+repeatedly to select [Off ].
+Audio CDs/Music files
+;Track– The current track or file will be played
+back repeatedly.
+:All – All the tracks or files will be played back
+repeatedly.
+l – The tracks or files will be played back in
+random order.
+l:All – All the tracks or files will be played
+back repeatedly in random order.
+kA-B – Selected portion will be repeated
+continually. (Audio CD only)
+To return to normal playback, press CLEAR.
+
+,,Note
+
+yy If you press V once during Repeat
+Chapter/Track playback, the repeat playback
+cancels.
+yy This function may not work on some disc or
+title.
+
+1.	 While playback, press REPEAT (h) to select
+[A-] at the beginning of the portion you wish to
+repeat.
+2.	Press ENTER (b) at the end of the portion. Your
+selected portion will be repeated continually.
+3.	 To return to normal playback, press REPEAT
+(h) repeatedly to select [Off ].
+
+,,Note
+
+yy You cannot select a portion less than 3
+seconds.
+yy This function may not work on some disc or
+title.
+
+Viewing content information
+y
+The player can display the content information.
+1.	 Select a file using W/S/A/D.
+2.	 Press INFO/MENU (m) to display the option
+menu.
+3.	 Select the [Information] option using W/S,
+and press ENTER (b).
+The file information appears on the screen.
+While movie playback, you can display the file
+information by pressing TITLE/POPUP.
+
+,,Note
+
+The information displayed on the screen
+may not correct comparing actual content
+information.
+
+Operating 47
+
+Changing content list view
+yui
+
+Selecting a subtitle file
+y
+
+On the [Movie], [Music] or [Photo] menu, you can
+change the content list view.
+
+If the subtitle file name is different from the movie
+file name, you need to select the subtitle file on the
+[Movie] menu before playing the movie.
+
+Method 1
+Press red (R) colored button repeatedly.
+
+1.	Use W/S/A/D to select the subtitle file you
+wish to play in the [Movie] menu.
+2.	Press ENTER (b).
+
+,,Note
+
+yy If you press Z (STOP) while playback, the
+subtitle selection is cancelled.
+yy This function is not available for playing file
+on a server via home network.
+
+Method 2
+1.	 On the content list, press INFO/MENU (m) to
+display the option menu.
+2.	Use W/S to select the [View Change] option.
+3.	Press ENTER (b) to change the content list
+view.
+
+4
+Operating
+
+Press ENTER (b) again to deselect the subtitle
+file. Selected subtitle file will be displayed when
+you play the movie file.
+
+48 Operating
+
+Options while viewing a photo
+i
+You can use various options during viewing a
+photo in full screen.
+1.	 While viewing a photo in full screen, press INFO/
+MENU (m) to display the option menu.
+2.	 Select an option using W/S.
+
+Listening to music while slide
+show
+i
+You can display photo files while listening to music
+files.
+1.	 While viewing a photo in full screen, press INFO/
+MENU (m) to display the option menu.
+2.	Use W/S to select [Music Select] option, and
+press ENTER (b) to display the [Music Select]
+menu.
+3.	Use W/S to select a device, and press ENTER
+(b).
+Device that you can select are differ depending
+on the location of the photo file you are
+displaying in full screen.
+
+4
+Operating
+
+a Current photo/Total number of photos
+– Use A/D to view previous/next photo.
+b Slide Show – Press ENTER (b) to start or
+pause slide show.
+
+Photo location
+
+Available Device
+
+Disc, USB
+
+Disc, USB
+
+DLNA server
+
+DLNA server
+
+4.	Use W/S to select a file or a folder you wish to
+play.
+
+c Music Select – Select the background
+music for the slide show (page 48).
+d Music –Press ENTER (b) to start or pause
+background music.
+e Rotate – Press ENTER (b) to rotate the
+photo clockwise.
+f Zoom – Press ENTER (b) to display the
+[Zoom] menu.
+g Effect – Use A/D to select a transition
+effect between photos in a slide show.
+h Speed – Use A/D to select a delaying
+speed between photos in a slide show.
+3.	 Press BACK (1) to exit the option menu.
+
+Select g and press ENTER (b) to display the
+upper directory.
+
+,,Note
+
+When selecting music file from a server, folder
+selection is not available. Only file selection is
+available.
+5.	Use D to select [OK], and press ENTER (b) to
+complete music selection.
+
+Operating 49
+
+On-Screen display
+
+2.	 Select an option using W/S.
+
+You can display and adjust various information and
+settings about the content.
+
+4.	 Press BACK (1) to exit the On-Screen display.
+
+Displaying content information
+on-screen
+eroy
+1.	 While playback, press INFO/MENU (m) to show
+various playback information.
+
+3.	Use A/D to adjust the selected option value.
+
+,,Note
+
+yy If no button is pressed for a few seconds,
+the on-screen display disappears.
+yy A title number cannot be selected on some
+discs.
+yy Available items may differ depending on
+discs or titles.
+yy If an interactive Blu-ray Disc is playing back,
+some setting information is displayed on
+the screen but prohibited to be changed.
+yy To use the [Movie Information] option, the
+player must be connected to the broadband
+internet for accessing the Gracenote Media
+Database.
+
+a Title – current title number/total number of
+titles
+b Chapter – current chapter number/total
+number of chapters
+c Time – elapsed playing time/total playback
+time
+d Audio – selected audio language or channel
+e Subtitle – selected subtitle.
+f Angle – selected angle/total number of
+angles
+g TV Aspect Ratio – selected TV aspect Ratio
+h Picture Mode – selected picture mode
+i Movie Information – Select this option and
+press ENTER (b) to display movie information
+from Gracenote Media Database (BD-ROM/
+DVD only).
+
+4
+Operating
+
+yy LG is a licensee of Gracenote technology
+and is not responsible or liable for
+information from the Gracenote Media
+Database.
+
+50 Operating
+
+Playing from selected time
+eroy
+
+Hearing a different audio
+eroy
+
+1.	 Press INFO/MENU (m) during playback. The
+time search box shows the elapsed playing
+time.
+
+1.	 During playback, press INFO/MENU (m) to
+display the On-Screen display.
+
+2.	 Select the [Time] option and then input the
+required start time in hours, minutes, and
+seconds from left to right.
+For example, to find a scene at 2 hours, 10
+minutes, and 20 seconds, enter “21020”.
+Press A/D to skip the playback 60 seconds
+forward or backward.
+3.	Press ENTER (b) to start playback from selected
+time.
+
+,,Note
+
+yy This function may not work on some disc or
+titles.
+
+4
+
+yy This function may not work depending on
+the file type and ability of the DLNA server.
+
+Operating
+
+Selecting a subtitle language
+eroy
+1.	 During playback, press INFO/MENU (m) to
+display the On-Screen display.
+2.	Use W/S to select the [Subtitle] option.
+3.	Use A/D to select desired subtitle language.
+4.	 Press BACK (1) to exit the On-Screen display.
+
+,,Note
+
+yy Some discs allow you to change subtitle
+selections only via the disc menu. If this is
+the case, press TITLE/POPUP or DISC MENU
+button and choose the appropriate subtitle
+from the selections on the disc menu.
+yy You can select the [Subtitle] option on the
+On-Screen display directely by pressing
+SUBTITLE button.
+
+2.	Use W/S to select the [Audio] option.
+3.	Use A/D to select desired audio language,
+audio track or audio channel.
+
+,,Note
+
+yy Some discs allow you to change audio
+selections only via the disc menu. In this
+case, press TITLE/POPUP or DISC MENU
+button and choose the appropriate audio
+from the selections on the disc menu.
+yy Immediately after you have switched sound,
+there may be a temporary discrepancy
+between the display and actual sound.
+yy You can select the [Audio] option on the
+On-Screen display directely by pressing
+AUDIO button.
+
+Watching from a different
+angle
+er
+If the disc contains scenes recorded at different
+camera angles, you can change to a different
+camera angle during playback.
+1.	 During playback, press INFO/MENU (m) to
+display the On-Screen display.
+2.	Use W/S to select the [Angle] option.
+3.	Use A/D to select desired angle.
+4.	 Press BACK (1) to exit the On-Screen display.
+
+Operating
+
+51
+
+Changing the TV Aspect Ratio
+eoy
+
+Changing the Picture Mode
+eroy
+
+You can change the TV aspect ratio setting while
+playback.
+
+You can change the [Picture mode] option while
+playback.
+
+1.	 During playback, press INFO/MENU (m) to
+display the On-Screen display.
+
+1.	 During playback, press INFO/MENU (m) to
+display the On-Screen display.
+
+2.	Use W/S to select the [TV Aspect Ratio]
+option.
+
+2.	Use W/S to select the [Picture Mode] option.
+
+3.	Use A/D to select desired option.
+
+4.	 Press BACK (1) to exit the On-Screen display.
+
+4.	 Press BACK (1) to exit the On-Screen display.
+
+,,Note
+
+Even if you change the value of the [TV Aspect
+Ratio] option in On-Screen display, the [TV
+Aspect Ratio] option in the [Setup] menu is
+not changed.
+
+3.	Use A/D to select desired option.
+
+Setting the [User setting] option
+1.	 During playback, press INFO/MENU (m) to
+display the On-Screen display.
+2.	Use W/S to select the [Picture Mode] option.
+3.	Use A/D to select the [User setting] option,
+and press ENTER (b).
+
+Changing subtitle code page
+y
+
+4
+Operating
+
+If the subtitle is displayed in broken letter, you can
+change the subtitle code page to view the subtitle
+file properly.
+1.	 During playback, press INFO/MENU (m) to
+display the playback menu.
+2.	Use W/S to select the [Code Page] option.
+3.	Use A/D to select desired code option.
+
+4.	Use W/S/A/D to adjust the [Picture Mode]
+options.
+Select [Default] option then press ENTER (b) to
+reset the all video adjustments.
+5.	Use W/S/A/D to select the [Close] option,
+and press ENTER (b) to finish setting.
+
+4.	 Press BACK (1) to exit the On-Screen display.
+
+52 Operating
+
+Audio CD Recording
+You can record one desired track or all of the tracks
+in Audio CD to a USB storage device.
+1.	 Insert a USB storage device to the USB port on
+the front panel.
+2.	 Insert an Audio CD in the disc slot.
+The playback starts automatically.
+3.	 Press INFO/MENU (m) to display the option
+menu.
+Or
+Press X REC button on the remote control.
+You can record all musics in the audio CD.
+4.	Use W/S to select [CD Recording] option, and
+press ENTER (b).
+5.	Use W/S to select a track you wish to copy on
+the menu, and press ENTER (b).
+
+4
+
+Repeat this step to select tracks as many as you
+can.
+
+Operating
+
+Selects all the tracks on an
+Audio CD.
+Selects an encoding option
+from the pop-up menu
+(128kbps, 192kbps or 320kbps).
+Cancels the recording and
+returns to the previous screen.
+6.	Use W/S/A/D to select [Start], and press
+ENTER (b).
+7.	Use W/S/A/D to select a destination folder
+to be copied.
+
+If you want to create a new folder, use
+W/S/A/D to select [New Folder] and press
+ENTER (b).
+
+Enter a folder name using virtual keyboard, and
+press ENTER (b) while [OK] is selected.
+8.	Use W/S/A/D to select [OK], and press
+ENTER (b) to start Audio CD recording.
+If you want to stop in progressing Audio CD
+recording, press ENTER (b) while [Cancel] is
+highlighted.
+9.	 A message appears when Audio CD recording is
+completed. Press ENTER (b) to check the audio
+file created in the destination folder.
+
+,,Note
+
+yy The table below shows the average
+recording time from an music track with 4
+minutes of playback time to a audio file with
+192 kbps as an example.
+stop mode
+
+while playback
+
+1 min.
+
+4 min.
+
+yy Recording times in the table above are
+approximate.
+yy Actual recording time for USB storage
+device varies depending on the USB storage
+device’s ability.
+yy Make sure that there is minimum of 50 MB
+free space is needed when recording into
+the USB storage device.
+yy The length of the audio should be longer
+than 20 seconds for the proper recording.
+yy Do not turn off this player or extract the
+connected USB storage device during Audio
+CD recording.
+
+>>Caution
+
+The recording or copying features on this
+player are provided for your personal and noncommercial use. The making of unauthorized
+copies of copy-protected material, including
+computer programs, files, broadcasts and
+sound recordings, may be an infringement of
+copyrights and constitute a criminal offense.
+This equipment should not be used for
+such purposes. LG expressly disclaims any
+responsibility for illegal distribution or use of
+unauthorized content in commercial purpose.
+Be Responsible
+Respect Copyrights
+
+Operating 53
+
+Viewing information
+from Gracenote Media
+Database
+The player can access the Gracenote Media
+Database and loads the music information so that
+Track name, Artist Name, Genre and other text
+information can be displayed on the list.
+
+Audio CD
+When you insert an Audio CD, the player starts
+playback automatically and load the music title
+from the Gracenote Media Database.
+If there is no music information from the database,
+music titles will not appear on the screen.
+
+Music file
+2.	 Press INFO/MENU (m) to display the option
+menu.
+3.	 Select the [Information] option using W/S,
+and press ENTER (b).
+The player accesses to Gracenote Media
+Database for the music information.
+
+Blu-ray Disc/DVD/Movie file
+While listening to a music from the movie being
+played, press MUSIC ID to start loading the music
+information from the Gracenote Media Database.
+
+yy If the music information is not in the
+Gracenote Media Database, message
+appears on the screen.
+yy Depending on the cases, it will takes a few
+minutes to load music information from the
+Gracenote Media Database.
+yy Information may be displayed in broken
+letters, if the language you selected is not
+available on the Gracenote Media Database.
+yy This function is not available for on-line
+content and content in DLNA servers.
+yy LG is a licensee of Gracenote technology
+and is not responsible or liable for
+information from the Gracenote Media
+Database.
+yy Audio CDs that users made for their only
+private purposes cannot be supported in
+this feature because they are not in the
+Gracenote Media Database.
+yy Supported music file extensions :
+mp3, wma, m4a
+
+4
+Operating
+
+1.	 Select a music file or audio track using W/S/
+A/D.
+
+,,Note
+
+yy The player must be connected to the
+broadband internet for accessing the
+Gracenote Media Database.
+
+54 Operating
+
+Playing the iPod
+You can enjoy the sound with your iPod. For details
+about iPod, refer to the iPod’s User Guide.
+
+Preparation
+Before connecting the iPod, turn this unit off and
+reduce the volume of this unit to its minimum.
+
+,,Note
+
+Use the iPod cable supplied with your iPod.
+1.	 Connect the iPod to the USB port.
+If you turn this unit on, your iPod is
+automatically turned on and recharging starts.
+	
+
+4
+
+When you connect the iPod on the HOME
+menu, the player plays a music automatically.
+
+2.	 Select a file using W/S/A/D, and press
+ENTER (b) to play the file.
+
+Operating
+
+Enjoying iPod on the screen
+1.	 Connect the iPod to the USB port.
+2.	Press HOME ( ).
+3.	 Select [Music] using A/D, and press ENTER
+(b).
+If you connected the other device
+(CD or USB), select the iPod on the menu.
+4.	 Select a content using W/S/A/D, and press
+ENTER (b) to play.
+Power scroll
+
+You can search easily a content by power scroll
+on the screen.
+Select a power scroll using D and select the
+initial of the desired content.
+
+Press REPEAT (h) to select a desired repeat
+mode :Track (;), All (:), Shuffle All (l :),
+Shuffle (l), Off (No display)
+
+,,Note
+
+If the iPod’s OSD language is selected to
+simple chinese, the power scroll function is not
+operated correctly.
+
+Enjoying the iPod IN mode
+You can operate your iPod by using the supplied
+remote control and controls on your iPod.
+1.	 Connect the iPod to the USB port.
+If you turn this unit on, your iPod is
+automatically turned on and recharging starts.
+2.	 Press FUNCTION to select iPod IN mode.
+W/S/A/D
+
+Selects an option in the menu.
+
+ENTER (b)
+
+Starts playback the music.
+
+M or d (PLAY)
+
+To pause while it is playing. To
+resume playing, press M or d
+(PLAY) again.
+
+(Press and hold)
+c/v
+
+Fast-forward or rewind a song
+
+C/V
+
+Skip the playback forward or
+backward .
+
+Operating 55
+
+,,Note
+
+yy An error message “CHECK” or “Connected
+iPod model is not supported.” appears when:
+-- your iPod is not available for the function
+to be operated.
+yy An error message “CHECK” or “Please update
+your iPod’s software.” appears when:
+-- your iPod has an old software version.
+/	Update your iPod software to latest
+version.
+
+yy Compatibility with your iPod may vary
+depending on the type of your iPod.
+yy iPod touch, iPhone and iPad have any
+difference in operation other than iPod.
+You may need any additional control to use
+them with this unit. (e.g. “slide to unlock”)
+yy If you use an application, make a call, or
+send and receive SMS text message, etc. on
+iPod touch, iPhone or iPad, disconnect it
+from to the USB port of this unit and then
+use it.
+yy Depending on your iPod’s software version,
+it may not be possible to control your iPod
+from this unit. We recommend installing the
+latest software version.
+yy This unit supports the models as follows.
+- iPad nano 2G, 3G, 4G, 5G, 6G
+- iPod classic
+- iPod touch 1G, 2G, 3G, 4G
+- iPhone 3G, 3GS, 4, 4S
+- iPad, iPad2
+yy If you have a problem with your iPod, please
+visit www.apple.com/support/ipod.
+
+4
+Operating
+
+yy If this unit displays an error message, follow
+the message. An error message “CHECK” or
+“Please check your iPod.” appears when:
+-- the communication between this unit
+and your iPod is failed.
+/	Connect & reconnect your iPod in this
+unit.
+-- your iPod is not connected firmly.
+-- this unit recognises your iPod as
+unknown device.
+yy Your iPod is exceptionally low on power.
+/	The battery needs to be charged.
+/	If you charge the battery while iPod
+is extremely low in power, it may take
+longer to charge.
+
+56 Operating
+
+Radio Operations
+Be sure that the antennas are connected.
+(Refer to the page 23)
+
+Listening to the radio
+1.	 Press FUNCTION until TUNER (FM) appears in
+the display window. The last received station is
+tuned in.
+
+4
+
+Deleting a saved station
+1.	 Press PRESET (- / +) to select a preset number
+you want to delete.
+2.	 Press CLEAR, the preset number will blink in the
+display window.
+3.	 Press CLEAR again, to delete the selected preset
+number.
+
+Deleting all the saved stations
+
+2.	 Press and hold TUNING (-/+) for about two
+seconds until the frequency indication starts to
+change. Scanning stops when the unit tunes in
+a station. Or Press TUNING (-/+) repeatedly.
+
+Press and hold CLEAR for two seconds.
+“ERASE ALL” will flash up. Press CLEAR again. Then all
+the saved stations are deleted.
+
+3.	 Adjust the volume by pressing VOL (+/-).
+
+Improving poor FM reception
+
+Presetting the Radio Stations
+
+Press B (blue) (MONO/STEREO) colored button on
+the remote control. This will change the tuner from
+stereo to mono and usually improve the reception.
+
+You can preset 50 stations for FM.
+Before tuning, make sure that you have turned
+down the volume.
+
+Operating
+
+1.	 Press FUNCTION until the TUNER (FM) appears
+in the display window.
+2.	 Select the desired frequency by using TUNING
+(-/+).
+3.	 Press ENTER (b) a preset number will flash in
+the display window.
+4.	 Press PRESET (-/+) to select the preset number
+you want.
+
+See information about a radio
+station
+The FM tuner is supplied with the RDS (Radio Data
+System) facility. This shows information about the
+radio station being listened to. Press RDS repeatedly
+to cycle through the various data types:
+PS
+
+(Programme Service Name)
+The name of the channel will appear in
+the display
+
+PTY
+
+(Programme Type Recognition)
+The programme type (e.g. Jazz or News)
+will appear in the display.
+
+RT
+
+(Radio Text)
+A text message contains special
+information from the broadcast station.
+This text may scroll across the display.
+
+CT
+
+(Time controlled by the channel)
+This shows the time and date as
+broadcast by the station.
+
+5.	 Press ENTER (b). The station is stored.
+6.	 Repeat the steps 2 to 5 to store other stations.
+
+Operating 57
+
+Using the Premium
+
+Using the LG Apps
+
+You can use various content services via Internet
+with the Premium feature.
+
+You can use the LG application services on
+this player via Internet. You can easily find and
+download various applications from LG App store.
+
+1.	 Check the network connection and settings
+(page 25).
+2.	Press HOME ( ).
+3.	 Select the [Premium] using A/D, and press
+ENTER (b).
+
+Depending on the region, the LG Apps service
+may not be available at the moment. The
+service will become available in these regions
+through at software update.
+1.	 Check the network connection and settings
+(page 25).
+2.	Press HOME ( ).
+
+4.	 Select an on-line service using W/S/A/D,
+and press ENTER (b).
+
+3.	 Select the [LG Apps] using A/D, and press
+ENTER (b).
+
+,,Note
+
+4
+
+yy The content of Premium services and
+service related information, including user
+interface, is subject to changes. Please refer
+to the web site of each service for most upto-date information.
+yy Using Premium features with wireless
+network connection may result in improper
+streaming speed by interference from
+household devices that are using radio
+frequencies.
+yy When you are first time to access [Premium]
+or [LG Apps] feature, current country setting
+appears. If you want to change the country
+setting, select [EDIT] and press ENTER (b).
+
+4.	 Select a category using A/D, and press ENTER
+(b).
+5.	Use W/S/A/D to select an application, and
+press ENTER (b) to display the information.
+6.	 Press ENTER (b) while [Install] icon is
+highlighted. The application will be installed to
+the player.
+To install an application to the player, user
+needs to sign in. Refer to page 58 for more
+information of signning in.
+7.	 Press yellow (Y) colored button to display the
+[My Apps] screen.
+8.	 Select the installed application and press ENTER
+(b) to excute it.
+
+,,Note
+
+To install a paid application, you need to be
+a paid member. Visit www.lgappstv.com for
+more information.
+
+Operating
+
+yy Detailed information of each service,
+contact to the content provider or visit
+suppot link of the service.
+
+58 Operating
+
+Signing in
+
+Managing my Apps
+
+To use the [LG Apps] feature, you need to sign in
+with your account.
+
+You can move or delete an installed application in
+the [My Apps] menu.
+
+1.	 On the [LG Apps] or [My Apps] screen, press red
+(R) colored button.
+
+Move an application
+
+2.	 Fill the [ID] and [Password] field using the virtual
+keyboard.
+
+1.	 Select an application, and press green (G)
+colored button to display the options.
+
+If you do not have an account, press red (R)
+colored button to register.
+3.	Use W/S/A/D to select [OK], and press
+ENTER (b) to sign in with your account.
+If you select the [Auto Sign In] check box,
+your ID and password are remembered and
+automatically signed in without entering them.
+
+,,Note
+
+4
+
+yy If you want to sign in with other account,
+press red (R) colored button on [LG Apps] or
+[My Apps] screen, and select [Change User]
+option.
+
+Operating
+
+yy To view the information of your account and
+applications, press red (R) colored button on
+[LG Apps] or [My Apps] screen, and select
+[Account Setting] option.
+
+2.	Use W/S to select [Move], and press
+ENTER(b).
+3.	Use W/S/A/D to select a position you want
+to move to, and press ENTER (b).
+
+Delete an application
+1.	 Select an application, and press green (G)
+colored button to display the options.
+2.	Use W/S to select [Delete], and press
+ENTER(b).
+3.	Use A/D to select [Yes], and press ENTER (b)
+to confirm.
+
+Operating 59
+
+Using Bluetooth
+technology
+About Bluetooth
+Bluetooth® is wireless communication technology
+for short range connection.
+The available range is within 10 meters.
+(The sound may be interrupted when the
+connection interfered by the other electronic wave
+or you connect the bluetooth in the other rooms.)
+Connecting individual devices under
+Bluetooth® wireless technology does not incur any
+charges. A mobile phone with
+Bluetooth® wireless technology can be operated
+via the Cascade if the connection was made via
+Bluetooth® wireless technology.
+Available Devices : Mobile phone, MP3, Laptop,
+PDA
+
+In order to use Bluetooth wireless technology,
+devices must be able to interpret certain profiles.
+This unit is compatible with following profile.
+A2DP (Advanced Audio Distribution Profile)
+
+Pairing your unit and Bluetooth
+device
+Before you start the pairing procedure, make
+sure the Bluetooth feature is turned on in to your
+Bluetooth device. Refer to your Bluetooth device’s
+user guide. Once a pairing operation is performed,
+it does not need to be performed again.
+1.	 Select the Bluetooth function by using the
+FUNCTION.
+Appears “BT READY” in display window.
+2.	 Operate the Bluetooth device and perform the
+pairing operation. When searching for this unit
+with the Bluetooth device, a list of the devices
+found may appear in the Bluetooth device
+display depending on the type of Bluetooth
+device.Your unit appears as “LG Audio”.
+3.	 When this unit successfully paired with your
+Bluetooth device, Bluetooth LED of this unit
+lights up and "BTPAIRED" appears in the display
+window.
+
+,,Note
+
+Depending on the Bluetooth device type,
+some device have a different pairing way.
+4.	 Listen to music.
+To play a music stored on your Bluetooth device,
+refer to your Bluetooth device’s user guide.
+
+,,Note
+
+If you change the function of the unit, the
+Bluetooth function is disconnected, operate
+pairing again.
+
+4
+Operating
+
+Bluetooth Profiles
+
+Listening to music stored on
+the Bluetooth devices
+
+60 Operating
+
+,,Note
+
+yy The sound may be interrupted when
+the connection interfered by the other
+electronic wave.
+yy You cannot control the Bluetooth device
+with this unit.
+yy Pairing is limited one Bluetooth device per
+one unit and multi-pairing is not supported.
+yy Although the distance between your
+Bluetooth and the set is less than 10m, there
+are obstacles between both, your Bluetooth
+device cannot be connected.
+yy Depending on the type of the device,
+you may not be able to use the Bluetooth
+function.
+yy When not connected the Bluetooth, “BT
+READY” appears on the display window.
+
+4
+Operating
+
+yy The Electrical malfunction due to devices
+using same frequency such as Medical
+equipment, Microwaves or wireless
+LAN devices, the connection will be
+disconnected.
+yy When someone stands and interrupts
+communication between Bluetooth device
+and the player, the connection will be
+disconnected.
+yy If the gotten away of the distance between
+Bluetooth and the unit, the sound quality
+is lower and lower the connection will
+disconnect when the space between the
+Bluetooth and the unit gets out of the
+operating range of Bluetooth.
+yy The device with Bluetooth wireless
+technology is disconnected, if you turn off
+the main unit or put the device away from
+the main unit more than 10m.
+
+Troubleshooting
+
+61
+
+Troubleshooting
+General
+Symptom
+
+Cause & Solution
+
+The Power does not turned on.
+
+yy Plug the power cord into the wall outlet securely.
+
+The unit does not start
+playback.
+
+yy Insert a playable disc. (Check the disc type, color system, and regional
+code.)
+yy Insert the disc with the playback side down.
+yy Clean the disc.
+yy Cancel the Rating function or change the rating level.
+
+The angle cannot be changed.
+
+yy Multi-angles are not recorded on the DVD Video being played.
+
+Cannot play movie, photo or
+music files.
+
+yy The files are not recorded in a format that the unit can play.
+
+The remote control does not
+work properly.
+
+yy The remote control is not pointed at the remote sensor of the unit.
+
+yy The unit does not support the codec of the movie file.
+yy The remote control is too far from the unit.
+yy There is an obstacle in the path of the remote control and the unit.
+yy The batteries in the remote control are exhausted.
+
+The unit is not operating
+normally.
+
+You can reset the unit as follows.
+yy Unplug the power cord, wait at least five seconds, and then plug it in
+again.
+
+5
+Troubleshooting
+
+The unit is plugged in, but the
+power will not turn on or off.
+
+62 Troubleshooting
+
+Network
+Symptom
+
+Cause & Solution
+
+BD-Live feature does not work.
+
+yy The connected USB storage may not have enough space. Connect
+the USB storage with at least 1GB free space.
+yy Ensure that the unit is correctly connected to the local area network
+and can access the internet (see page 25).
+yy Your broadband speed may not fast enough to use the BD-LIVE
+features. Contact your Internet Service Provider (ISP) and increase the
+broadband speed is recommended.
+yy The [BD-LIVE connection] option in the [Setup] menu is set to
+[Prohibited]. Set the option to [Permitted].
+
+Streaming video services (such
+as YouTube™, etc.) are often
+stopped or “buffer” during
+playback.
+
+yy Your broadband service speed may not be fast enough to stream
+video services. Contact your Internet Service Provider (ISP) and
+increase the broadband speed is recommended.
+
+Shared folder or files from your
+PC or a Media servers are not
+displayed on the device list.
+
+yy The firewall or anti-virus software on your media server is running.
+Turn off the firewall or anti-virus software running on your media
+server.
+yy The player is not connected to the local area network that your media
+server is connected.
+
+5
+Troubleshooting
+
+Cannot connect the player to
+the access point or wireless
+LAN router.
+
+yy The wireless communication may be interrupted from household
+devices that are using radio frequencies. Move the player away from
+them.
+
+Access point is not displayed
+on the “Access point name” list.
+
+yy The access point or wireless LAN router may not broadcast its SSID.
+Set your access point to broadcast its SSID through your computer.
+yy Your network device such as access point may not set with available
+frequency range and channel that this player can support.
+Try setting the frequency range and channel on the network device
+setting.
+
+Troubleshooting 63
+
+Picture
+Symptom
+
+Cause & Solution
+
+There is no picture.
+
+yy Select the appropriate video input mode on the TV so the picture
+from the unit appears on the TV screen.
+yy Connect the video connection securely.
+yy Check the [HDMI Color Setting] in the [Setup] menu is set to the
+appropriate item that conforms to your video connection.
+yy Your TV may not support the resolution you have set on the player.
+Change the resolution that your TV accepts.
+yy The player’s HDMI OUT jack is connected to a DVI device that does
+not support copyright protection.
+
+Picture noise appears
+
+yy You are playing a disc recorded in a colour system that is different
+from your TV.
+yy Set the resolution which your TV accepts.
+
+Blu-ray 3D disc playback does
+not output 3D views.
+
+yy Connect the player to your TV with HDMI cable (Type A, High Speed
+HDMI™ Cable with Ethernet).
+yy Your TV may not support “HDMI 3D mandatory format”.
+yy The [3D Mode] option in the [Setup] menu is set to [Off ].
+Set the option to [On].
+
+Sound
+
+5
+Cause & Solution
+
+There is no sound or the sound
+is distorted.
+
+yy The unit is in scan, slow motion, or pause mode.
+yy The sound volume is low.
+
+Customer Support
+You can update the Player using the latest software to enhance the products operation and/or add new
+features. To obtain the latest software for this player (if updates have been made), please visit
+http://www.lg.com/global/support or contact LG Electronics customer care centre.
+
+Open source software notice
+To obtain the corresponding source code under GPL, LGPL, MPL and other open source licenses, please
+visit http://opensource.lge.com. All referred license terms, warranty disclaimers and copyright notices are
+available to download with the source code.
+
+Troubleshooting
+
+Symptom
+
+64 Appendix
+
+Controlling a TV with
+the Supplied Remote
+Control
+You can control your TV using the buttons below.
+
+You can operate your TV with the supplied remote
+control.
+If your TV is listed in the table below, set the
+appropriate manufacturer code.
+1.	 While holding down 1 (TV POWER) button, and
+press the manufacturer code for your TV with
+the numerical buttons (see the table below).
+Manufacturer
+
+Code Number
+
+LG
+
+1(Default), 2
+
+Zenith
+
+1, 3, 4
+
+GoldStar
+
+1, 2
+
+By pressing
+
+You can
+
+Samsung
+
+6, 7
+
+1 (TV POWER)
+
+Turn the TV on or off.
+
+Sony
+
+8, 9
+
+AV/INPUT
+
+Switch the TV’s input source
+between the TV and other
+input sources.
+
+Hitachi
+
+4
+
+PR/CH W/S
+
+Scan up or down through
+memorized channels.
+
+VOL +/–
+
+Adjust the volume of the TV
+
+,,Note
+
+6
+
+Setting up the remote to
+control your TV
+
+Depending on the unit being connected, you
+may not be able to control your TV using some
+of the buttons.
+
+2.	 Release the 1 (TV POWER) button to complete
+setting.
+Depending on your TV, some or all buttons may not
+function on the TV, even after entering the correct
+manufacturer code. When you replace the batteries
+of the remote, the code number you have set may
+be reset to the default setting. Set the appropriate
+code number again.
+
+Appendix
+
+Appendix 65
+
+Network Software
+Update
+Network update notification
+From time to time, performance improvements
+and/or additional features or services may be
+made available to units that are connected to a
+broadband home network. If there is new software
+available and the unit is connected to a broadband
+home network, the player will inform you about the
+update as follows.
+
+Option 1:
+1.	 The update menu will appear on the screen
+when you turn off the player.
+2.	Use A/D to select a desired option and then
+press ENTER (b).
+
+Software Update
+You can update the player using the latest software
+to enhance the products operation and/or add
+new features. You can update the software by
+connecting the unit directly to the software update
+server.
+
+,,Note
+
+yy Before updating the software in your player,
+remove any disc and USB Device from the
+player.
+yy Before updating the software in your player,
+turn the player off and then turn it back on.
+yy During the software update procedure,
+do not turn off the player or disconnect
+AC power, or do not press any button.
+yy If you cancel the update, turn off the power
+and turn it on for stable performance.
+yy This unit cannot be updated to previous
+software version.
+1.	 Check the network connection and settings
+(page 25).
+2.	 Select [Software] option in the [Setup] menu
+then press ENTER (b).
+3.	 Select [Update] option, and press ENTER (b).
+
+[OK]
+
+Starts the software update.
+
+[Cancel]
+
+Exits the update menu and turns
+the power off.
+
+6
+
+If the software update is available from the update
+server, the “Update” icon appears in the Home
+menu. Press blue (B) colored button to start the
+update procedure.
+
+The player will check for the newest update.
+
+,,Note
+
+yy Pressing ENTER (b) while checking for the
+update will end the process.
+yy If there is no update available, the Message,
+“No update is found.” appears. Press ENTER
+(b) to return to the [Home Menu].
+
+Appendix
+
+Option 2:
+
+66 Appendix
+4.	 If newer version exists, the message “Do you
+want to download it?” appears.
+5.	 Select [OK] to start update. (Selecting [Cancel]
+will end the update.)
+6.	 The player starts downloading the newest
+update from the server. (Downloading will
+takes several minutes depending on your home
+network condition)
+7.	 When downloading is completed, the message,
+“Download is complete. Do you want to
+update?” appears.
+8.	 Select [OK] to start updating. (Selecting [Cancel]
+will end the update and downloaded file will
+not be re-usable. To update software the next
+time, the software update procedure has to be
+started from the beginning again.)
+
+>>Caution
+
+Do not turn off the power during the software
+update.
+9.	 When update is completed, the power will be
+turned automatically in a few seconds.
+10.	Turn the power back on. The system now
+operates with the new version.
+
+,,Note
+
+6
+Appendix
+
+The Software Update function may not
+work properly depending on your internet
+environment. In this case, you can obtain
+the latest software from the authorized LG
+Electronics Service Centre then update your
+player. Refer to “Customer Support” on page
+57.
+
+Appendix 67
+
+About Nero
+MediaHome 4
+Essentials
+Nero MediaHome 4 Essentials is a software for
+sharing movie, music and photo files stored on your
+computer to this player as a DLNA-compatiable
+digital media server.
+
+,,Note
+
+yy The Nero MediaHome 4 Essentials CDROM is designed for PCs and should not
+be inserted in this player or in any product
+other than a PC.
+yy The supplied Nero MediaHome 4 Essentials
+CD-ROM is a customized software edition
+only for sharing files and folders to this
+player.
+yy The supplied Nero MediaHome 4 Essentials
+software does not support following
+functions: Transcoding, Remote UI, TV
+control, Internet services and Apple iTunes
+
+System Requirements
+Windows PC
+yy Windows® XP (Service Pack 2 or higher), Windows
+Vista® (no Service Pack required), Windows® 7
+(no Service Pack required), Windows® XP Media
+Center Edition 2005 (Service Pack 2 or higher),
+Windows Server® 2003
+yy Windows Vista® 64-bit edition (application runs
+in 32-bit mode)
+yy Windows® 7 64-bit edition (application runs in
+32-bit mode)
+yy Hard drive space: 200 MB hard drive space for a
+typical installation of Nero MediaHome standalone
+yy 1.2 GHz Intel® Pentium® III or AMD
+Sempron™ 2200+ processors
+yy Memory: 256 MB RAM
+yy Graphics card with at least 32 MB video memory,
+minimum resolution of 800 x 600 pixels, and 16bit color settings
+yy Windows® Internet Explorer® 6.0 or higher
+
+yy The supplied Nero MediaHome 4 Essentials
+software can be downloaded at http://www.
+lg.com/global/support. Find the download
+link on the web page of this product.
+
+yy DirectX® 9.0c revision 30 (August 2006) or higher
+
+yy This manual explains operations with
+the English version of Nero MediaHome
+4 Essentials as examples. Follow the
+explanation referring to the actual
+operations of your language version.
+
+yy Mac OS X 10.5 (Leopard) or 10.6 (Snow Leopard)
+
+yy Network environment: 100 Mb Ethernet, WLAN
+
+Macintosh
+yy Macintosh computer with an Intel x86 processor
+
+yy Memory: 256 MB RAM
+
+6
+Appendix
+
+yy Hard drive space: 200 MB hard drive space for a
+typical installation of Nero MediaHome standalone
+
+68 Appendix
+
+Installing Nero MediaHome 4
+Essentials
+Windows
+Start up your computer, and insert the supplied CDROM disc into your computer’s CD-ROM drive. An
+installation wizard will walk you through the quick
+and uncomplicated installation process. To install
+Nero MediaHome 4 Essentials, proceed as follows:
+1.	 Close all Microsoft Windows programs and exit
+any anti-virus software that may be running.
+2.	 Insert the supplied CD-ROM disc into your
+computer’s CD-ROM drive.
+3.	 Click [Nero MediaHome 4 Essentials].
+4.	 Click [Run] to start installation.
+5.	 Click [Nero MediaHome 4 Essentials]. The
+installation is prepared and the installation
+wizard appears.
+6.	 Click the [Next] button to display the serial
+number input screen. Click [Next] to go to the
+next step.
+7.	 If you accept all conditions, click [I accept
+the License Conditions] check box and click
+[Next]. Installation is not possible without this
+agreement.
+8.	 Click [Typical] and click [Next]. The installation
+process is started.
+
+6
+
+9.	 If you want to take part in the anonymous
+collection of data, select the check box and click
+the [Next] button.
+
+Appendix
+
+10.	Click the [Exit] button to complete the
+installation.
+
+Mac OS X
+1.	 Start up your computer, and insert the supplied
+CD-ROM disc into your computer’s CD-ROM
+drive.
+2.	 Browse the CD-ROM drive and open the
+“MediaHome_4_Essentials_MAC” folder.
+3.	 Double-click the “Nero MediaHome.dmg” image
+file. The Nero MediaHome window is opened.
+4.	 In the Nero MediaHome window, drag the Nero
+MediaHome icon either to the Applications
+folder within the window or to any other
+desired location.
+5.	 You can now start the application by doubleclicking the Nero MediaHome icon in the
+location you dragged it to.
+
+Sharing files and folders
+On your computer, you must share the folder
+contained movie, music and/or photo content to
+play them on this player.
+This parts explains the procedure for selecting the
+shared folders on your computer.
+1.	 Double-click the “Nero MediaHome 4 Essentials”
+icon.
+2.	 Click [Network] icon on the left and define your
+network name in the [Network name] field. The
+Network name you enter will be recognized by
+your player.
+3.	 Click [Shares] icon on the left.
+4.	 Click [Local Folders] tab on the [Shares] screen.
+5.	 Click [Add] icon to open the [Browse Folder]
+window.
+6.	 Select the folder containing the files you want
+to share. The selected folder is added to the list
+of shared folders.
+7.	 Click [Start Server] icon to start the server.
+
+,,Note
+
+yy If the shared folders or files are not displayed
+on the player, click the folder on the [Local
+Folders] tab and click [Rescan Folder] at the
+[More] button.
+yy Visit www.nero.com for more information
+and software tools
+
+Appendix 69
+
+Area Code List
+Choose an area code from this list.
+Area	Code Area	Code Area	Code Area	Code
+Afghanistan 	
+
+AF Fiji 	
+
+FJ Monaco 	
+
+MC Singapore 	
+
+SG
+
+Argentina 	
+
+AR Finland 	
+
+FI Mongolia 	
+
+MN Slovak Republic 	
+
+SK
+
+Australia 	
+
+AU France 	
+
+FR Morocco 	
+
+MA Slovenia 	
+
+SI
+
+Austria 	
+
+AT Germany 	
+
+DE Nepal 	
+
+NP South Africa 	
+
+ZA
+
+Belgium 	
+
+BE Great Britain 	
+
+GB Netherlands 	
+
+NL South Korea 	
+
+KR
+
+Bhutan 	
+
+BT Greece 	
+
+GR Antilles 	
+
+AN Spain 	
+
+ES
+
+Bolivia 	
+
+BO Greenland 	
+
+GL New Zealand 	
+
+NZ Sri Lanka 	
+
+LK
+
+Brazil 	
+
+BR Hong Kong 	
+
+HK Nigeria 	
+
+NG Sweden 	
+
+SE
+
+Cambodia 	
+
+KH Hungary 	
+
+HU Norway 	
+
+NO Switzerland 	
+
+CH
+
+Canada 	
+
+CA India 	
+
+IN Oman 	
+
+OM Taiwan 	
+
+TW
+
+Chile 	
+
+CL Indonesia 	
+
+ID Pakistan 	
+
+PK Thailand 	
+
+China 	
+
+CN Israel 	
+
+IL Panama 	
+
+PA Turkey 	
+
+TR
+
+Colombia 	
+
+CO Italy 	
+
+IT Paraguay 	
+
+PY Uganda 	
+
+UG
+
+Congo 	
+
+CG Jamaica 	
+
+JM Philippines 	
+
+PH Ukraine 	
+
+UA
+
+Costa Rica 	
+
+CR Japan 	
+
+JP Poland 	
+
+PL United States 	
+
+US
+
+Croatia 	
+
+HR Kenya 	
+
+KE Portugal 	
+
+PT Uruguay 	
+
+UY
+
+Czech Republic 	
+
+CZ Kuwait 	
+
+KW Romania 	
+
+RO Uzbekistan 	
+
+UZ
+
+Denmark 	
+
+DK Libya 	
+
+Ecuador 	
+
+EC Luxembourg 	
+
+Egypt 	
+
+EG Malaysia 	
+
+El Salvador 	
+
+SV Maldives 	
+
+MY Saudi Arabia 	
+MV Senegal 	
+
+Ethiopia 	
+
+ET Mexico 	
+
+MX
+
+LY Russian
+LU Federation 	
+
+Vietnam 	
+RU Zimbabwe 	
+SA
+SN
+
+TH
+
+VN
+ZW
+
+6
+Appendix
+
+70 Appendix
+
+Language code List
+Use this list to input your desired language for the following initial settings: [Disc Audio],
+[Disc Subtitle] and [Disc Menu].
+
+6
+Appendix
+
+Language	Code
+
+Language	Code
+
+Language	Code
+
+Language	Code
+
+Afar 	
+
+6565
+
+French 	
+
+7082
+
+Lithuanian 	
+
+7684
+
+Sindhi 	
+
+8368
+
+Afrikaans 	
+
+6570
+
+Frisian 	
+
+7089
+
+Macedonian 	
+
+7775
+
+Singhalese 	
+
+8373
+
+Albanian 	
+
+8381
+
+Galician 	
+
+7176
+
+Malagasy 	
+
+7771
+
+Slovak 	
+
+8375
+
+Amharic 	
+
+6577
+
+Georgian 	
+
+7565
+
+Malay 	
+
+7783
+
+Slovenian 	
+
+8376
+
+Arabic 	
+
+6582
+
+German 	
+
+6869
+
+Malayalam 	
+
+7776
+
+Spanish 	
+
+6983
+
+Armenian 	
+
+7289
+
+Greek 	
+
+6976
+
+Maori 	
+
+7773
+
+Sudanese 	
+
+8385
+
+Assamese 	
+
+6583
+
+Greenlandic 	
+
+7576
+
+Marathi 	
+
+7782
+
+Swahili 	
+
+8387
+
+Aymara 	
+
+6588
+
+Guarani 	
+
+7178
+
+Moldavian 	
+
+7779
+
+Swedish 	
+
+8386
+
+Azerbaijani 	
+
+6590
+
+Gujarati 	
+
+7185
+
+Mongolian 	
+
+7778
+
+Tagalog 	
+
+8476
+
+Bashkir 	
+
+6665
+
+Hausa 	
+
+7265
+
+Nauru	7865
+
+Tajik 	
+
+8471
+
+Basque 	
+
+6985
+
+Hebrew 	
+
+7387
+
+Nepali 	
+
+7869
+
+Tamil 	
+
+8465
+
+Bengali; Bangla 	
+
+6678
+
+Hindi 	
+
+7273
+
+Norwegian 	
+
+7879
+
+Telugu 	
+
+8469
+
+Bhutani 	
+
+6890
+
+Hungarian 	
+
+7285
+
+Oriya 	
+
+7982
+
+Thai 	
+
+8472
+
+Bihari 	
+
+6672
+
+Icelandic 	
+
+7383
+
+Panjabi 	
+
+8065
+
+Tonga 	
+
+8479
+
+Breton 	
+
+6682
+
+Indonesian 	
+
+7378
+
+Pashto, Pushto 	
+
+8083
+
+Turkish 	
+
+8482
+
+Bulgarian 	
+
+6671
+
+Interlingua 	
+
+7365
+
+Persian 	
+
+7065
+
+Turkmen 	
+
+8475
+
+Burmese 	
+
+7789
+
+Irish 	
+
+7165
+
+Polish 	
+
+8076
+
+Twi 	
+
+8487
+
+Byelorussian 	
+
+6669
+
+Italian 	
+
+7384
+
+Portuguese 	
+
+8084
+
+Ukrainian 	
+
+8575
+
+Chinese 	
+
+9072
+
+Japanese 	
+
+7465
+
+Quechua 	
+
+8185
+
+Urdu 	
+
+8582
+
+Croatian 	
+
+7282
+
+Kannada 	
+
+7578
+
+Rhaeto-Romance 	 8277
+
+Uzbek 	
+
+8590
+
+Czech 	
+
+6783
+
+Kashmiri 	
+
+7583
+
+Rumanian 	
+
+8279
+
+Vietnamese 	
+
+8673
+
+Danish 	
+
+6865
+
+Kazakh 	
+
+7575
+
+Russian 	
+
+8285
+
+Volapük 	
+
+8679
+
+Dutch 	
+
+7876
+
+Kirghiz 	
+
+7589
+
+Samoan 	
+
+8377
+
+Welsh 	
+
+6789
+
+English 	
+
+6978 Korean 	
+
+7579
+
+Sanskrit 	
+
+8365
+
+Wolof 	
+
+8779
+
+6979
+
+Kurdish 	
+
+7585
+
+Scots Gaelic 	
+
+7168
+
+Xhosa 	
+
+8872
+
+Estonian 	
+
+6984
+
+Laotian 	
+
+7679
+
+Serbian 	
+
+8382
+
+Yiddish 	
+
+7473
+
+Faroese 	
+
+7079
+
+Latin 	
+
+7665
+
+Serbo-Croatian 	
+
+8372
+
+Yoruba 	
+
+8979
+
+Fiji 	
+
+7074
+
+Latvian, Lettish 	
+
+7686
+
+Shona 	
+
+8378
+
+Zulu 	
+
+9085
+
+Finnish 	
+
+7073
+
+Lingala 	
+
+7678
+
+Esperanto 	
+
+Appendix
+
+71
+
+Trademarks and
+Licenses
+
+Blu-ray Disc™, Blu-ray™, Blu-ray 3D™, BD-Live™,
+BONUSVIEW™ and the logos are trademarks of
+the Blu-ray Disc Association.
+
+“DVD Logo” is a trademark of DVD Format/Logo
+Licensing Corporation.
+
+Java is a trademark of Oracle and/or its affiliates.
+
+HDMI, the HDMI logo and High-Definition
+Multimedia Interface are trademarks or registered
+trademarks of HDMI Licensing LLC in the United
+States and other countries.
+
+DLNA®, the DLNA Logo and DLNA CERTIFIED® are
+trademarks, service marks, or certification marks
+of the Digital Living Network Alliance.
+
+The Wi-Fi CERTIFIED Logo is a certification mark
+of the Wi-Fi Alliance.
+
+The Wi-Fi Protected Setup Mark is a trademark of
+the Wi-Fi Alliance.
+
+“AVCHD” and the “AVCHD” logo are trademarks of
+Panasonic Corporation and Sony Corporation.
+
+6
+“Made for iPod,” “Made for iPhone,” and “Made for
+iPad” mean that an electronic accessory has been
+designed to connect specifically to iPod, iPhone,
+or iPad, respectively, and has been certified
+by the developer to meet Apple performance
+standards. Apple is not responsible for the
+operation of this device or its compliance with
+safety and regulatory standards. Please note that
+the use of this accessory with iPod, iPhone, or
+iPad may affect wireless performance.
+
+Appendix
+
+Manufactured under license from Dolby
+Laboratories. Dolby and the double-D symbol
+are trademarks of Dolby Laboratories.
+
+Manufactured under license under U.S. Patent Nos:
+5,956,674; 5,974,380; 6,226,616; 6,487,535; 7,392,195;
+7,272,567; 7,333,929; 7,212,872 & other U.S. and
+worldwide patents issued & pending. DTS-HD, the
+Symbol, & DTS-HD and the Symbol together are
+registered trademarks & DTS-HD Master Audio |
+Essential is a trademark of DTS, Inc. Product includes
+software. © DTS, Inc. All Rights Reserved.
+
+72 Appendix
+
+DivX®, DivX Certified® and associated logos are
+trademarks of Rovi Corporation or its subsidiaries
+and are used under license.
+
+Bluetooth® wireless technology is a system which
+allows radio contact between electronic devices
+within a max. range of 10 meters.
+Connecting individual devices under Bluetooth®
+wireless technology does not incur any charges.
+A mobile phone with Bluetooth® wireless technology can be operated via the Cascade if the
+connection was made via Bluetooth® wireless
+technology.
+The Bluetooth® word mark and logos are owned
+by the Bluetooth® SIG, Inc. and any use of such
+marks by LG Electronics is under license.
+Other trademarks and trade names are those of
+their respective owners.
+
+6
+Appendix
+
+ 
+Gracenote®, Gracenote logo and logotype,
+and the “Powered by Gracenote” logo are
+either registered trademarks or trademarks of
+Gracenote, Inc. in the United States and/or other
+countries.
+Music recognition technology and related data
+are provided by Gracenote®.
+Portions of the content is copyright © Gracenote
+or its providers.
+Gracenote® End User License Agreement
+This application or device contains software from
+Gracenote, Inc. of Emeryville, California
+(“Gracenote”). The software from Gracenote (the
+“Gracenote Software”) enables this application to
+perform disc and/or file identification and obtain
+music-related information, including name, artist,
+track, and title information (“Gracenote Data”) from
+online servers or embedded databases (collectively,
+“Gracenote Servers”) and to perform other
+functions. You may use Gracenote Data only by
+means of the intended End-User functions of this
+application or device.
+
+You agree that you will use Gracenote Data, the
+Gracenote Software, and Gracenote Servers for
+your own personal non-commercial use only. You
+agree not to assign, copy, transfer or transmit the
+Gracenote Software or any Gracenote Data to any
+third party. YOU AGREE NOT TO USE OR EXPLOIT
+GRACENOTE DATA, THE GRACENOTE SOFTWARE,
+OR GRACENOTE SERVERS, EXCEPT AS EXPRESSLY
+PERMITTED HEREIN.
+You agree that your non-exclusive license to use
+the Gracenote Data, the Gracenote Software, and
+Gracenote Servers will terminate if you violate
+these restrictions. If your license terminates, you
+agree to cease any and all use of the Gracenote
+Data, the Gracenote Software, and Gracenote
+Servers. Gracenote reserves all rights in Gracenote
+Data, the Gracenote Software, and the Gracenote
+Servers, including all ownership rights. Under
+no circumstances will Gracenote become liable
+for any payment to you for any information that
+you provide. You agree that Gracenote, Inc. may
+enforce its rights under this Agreement against you
+directly in its own name.
+The Gracenote service uses a unique identifier to
+track queries for statistical purposes. The purpose
+of a randomly assigned numeric identifier is to
+allow the Gracenote service to count queries
+without knowing anything about who you are.
+For more information, see the web page for the
+Gracenote Privacy Policy for the Gracenote service.
+The Gracenote Software and each item of
+Gracenote Data are licensed to you “AS IS.”
+Gracenote makes no representations or warranties,
+express or implied, regarding the accuracy of any
+Gracenote Data from in the Gracenote Servers.
+Gracenote reserves the right to delete data from
+the Gracenote Servers or to change data categories
+for any cause that Gracenote deems sufficient. No
+warranty is made that the Gracenote Software or
+Gracenote Servers are error-free or that functioning
+of Gracenote Software or Gracenote Servers will
+be uninterrupted. Gracenote is not obligated to
+provide you with new enhanced or additional data
+types or categories that Gracenote may provide in
+the future and is free to discontinue its services at
+any time.
+GRACENOTE DISCLAIMS ALL WARRANTIES EXPRESS
+OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+IMPLIED WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+NON-INFRINGEMENT. GRACENOTE DOES NOT
+WARRANT THE RESULTS THAT WILL BE OBTAINED
+
+Appendix 73
+BY YOUR USE OF THE GRACENOTE SOFTWARE
+OR ANY GRACENOTE SERVER. IN NO CASE WILL
+GRACENOTE BE LIABLE FOR ANY CONSEQUENTIAL
+OR INCIDENTAL DAMAGES OR FOR ANY LOST
+PROFITS OR LOST REVENUES.
+© Gracenote, Inc. 2009
+
+Cinavia Notice
+This product uses Cinavia technology to limit the
+use of unauthorized copies of some commerciallyproduced film and videos and their soundtracks.
+When a prohibited use of an unauthorized copy is
+detected, a message will be displayed and playback
+or copying will be interrupted.
+More information about Cinavia technology
+is provided at the Cinavia Online Consumer
+Information Center at http://www.cinavia.com. To
+request additional information about Cinavia by
+mail, send a postcard with your mailing address
+to: Cinavia Consumer Information Center, P.O. Box
+86851, San Diego, CA, 92138, USA.
+This product incorporates proprietary technology
+under license from Verance Corporation and is
+protected by U.S. Patent 7,369,677 and other U.S.
+and worldwide patents issued and pending as well
+as copyright and trade secret protection for certain
+aspects of such technology. Cinavia is a trademark
+of Verance Corporation. Copyright 2004-2010
+Verance Corporation. All rights reserved by Verance.
+Reverse engineering or disassembly is prohibited.
+
+6
+Appendix
+
+74 Appendix
+
+Audio Output Specifications
+Jack/Setting
+Source
+
+HDMI OUT
+PCM Stereo
+
+PCM Multi-Ch
+
+DTS Re-encode *3
+
+BitStream *1 *2
+
+Dolby Digital
+
+PCM 2ch
+
+PCM 4.1ch
+
+DTS
+
+Dolby Digital
+
+Dolby Digital Plus
+
+PCM 2ch
+
+PCM 4.1ch
+
+DTS
+
+Dolby Digital Plus
+
+Dolby TrueHD
+
+PCM 2ch
+
+PCM 4.1ch
+
+DTS
+
+Dolby TrueHD
+
+DTS
+
+PCM 2ch
+
+PCM 4.1ch
+
+DTS
+
+DTS
+
+DTS-HD
+
+PCM 2ch
+
+PCM 4.1ch
+
+DTS
+
+DTS-HD
+
+Linear PCM 2ch
+
+PCM 2ch
+
+PCM 2ch
+
+DTS
+
+Linear PCM 2ch
+
+Linear PCM 4.1ch
+
+PCM 2ch
+
+PCM 4.1ch
+
+DTS
+
+Linear PCM 4.1ch
+
+Linear PCM 7.1ch
+
+PCM 2ch
+
+PCM 4.1ch
+
+DTS
+
+Linear PCM 7.1ch
+
+*1	 The secondary and interactive audio may not
+be included in the output bitstream if [Digital
+Output] option is set to [BitStream]. (Except
+LPCM Codec : the output always include
+interactive and secondary audio.)
+*2	 This player automatically selects the HDMI audio
+according to the decoding capability of the
+connected HDMI device even though [Digital
+Output] option is set to [BitStream].
+
+6
+Appendix
+
+*3	 If the [Digital Output] option is set to [DTS reencode], the audio output is limited to 48 kHz
+and 5.1ch. If the [Digital Output] option is set
+to [DTS re-encode], the DTS Re-encode audio
+is outputted for BD-ROM discs, and the original
+audio is outputted for the other discs (like
+[BitStream]).
+
+yy The audio is outputted as PCM 48 kHz/16 bit for
+MP3/WMA file and PCM 44.1kHz/16 bit for Audio
+CD while playback.
+yy With digital audio connection (HDMI OUT),
+Disc Menu button sounds of BD-ROM may not
+be heard if the [Digital Output] option is set to
+[BitStream].
+yy If the audio format of the digital output does
+not match the capabilities of your receiver, the
+receiver will produce a strong, distorted sound
+or no sound at all.
+yy Multi-channel Digital Surround Sound via digital
+connection can only be obtained if your receiver
+is equipped with a Digital Multi-channel decoder.
+yy This setting is not available on the input signal
+from an external device.
+
+Appendix 75
+
+Specifications
+General
+Power requirements
+
+Refer to main label on the rear panel.
+
+Power consumption
+
+Refer to main label on the rear panel.
+
+Dimensions (W x H x D)
+
+Approx. 1020 x 165.5 x 100 mm
+
+Net Weight (Approx.)
+
+7.2 kg
+
+Operating temperature
+
+5 °C to 35 °C (41 °F to 95 °F)
+
+Operating humidity
+
+5 % to 90 %
+
+Inputs/Outputs
+VIDEO OUT
+
+1.0 V (p-p), 75 Ω, sync negative, RCA jack x 1
+
+HDMI IN/OUT (video/audio)
+
+19 pin (Type A, HDMI™ Connector)
+
+DIGITAL IN (OPTICAL)
+
+3 V (p-p), Optical jack x 1
+
+PORT. IN
+
+0.5 Vrms (3.5 mm stereo jack)
+
+Tuner
+FM Tuning Range
+
+87.5 to 108.0 MHz or 87.50 to 108.00 MHz
+
+Amplifier
+Power output, (RMS), THD 10 %
+430 W
+
+Front
+
+70 W x 2
+
+Rear
+
+70 W x 2
+
+Sub-Woofer
+
+150 W (Passive)
+
+6
+Appendix
+
+Total
+
+76 Appendix
+
+System
+Laser
+
+Semiconductor laser
+
+Wavelength
+
+405 nm / 650 nm
+
+Signal system
+
+Standard PAL/NTSC color TV system
+
+Frequency response
+
+20 Hz to 18 kHz (48 kHz, 96 kHz, 192 kHz sampling)
+
+Harmonic distortion
+
+Less than 0.05 %
+
+Dynamic range
+
+More than 80 dB
+
+LAN port
+
+Ethernet jack x 1, 10BASE-T / 100BASE-TX
+
+Wireless LAN (internal antenna)
+
+Integrated IEEE 802.11n (2.4 GHz bands) wireless networking access,
+compatible with 802.11 b/g Wi-Fi networks.
+
+Bus Power Supply (USB)
+
+DC 5 V 0 2.1 A
+
+Speakers
+Subwoofer
+Type
+Impedance Rated
+
+1 Way 1 speaker
+
+Max. Input power
+
+300 W
+
+3Ω
+
+Net Dimensions
+(W x H x D)
+
+196 x 390 x 398 mm
+
+Input Power
+
+150 W
+
+Net Weight
+
+7.7 kg
+
+Power
+requirements
+
+Refer to main label on the
+Subwoofer.
+
+Power
+consumption
+
+Refer to main label on the
+Subwoofer.
+
+yy Design and specifications are subject to change without notice.
+
+6
+Appendix
+
+Appendix 77
+
+Maintenance
+
+Notes on Discs
+Handling Discs
+
+Handling the Unit
+When shipping the unit
+Please save the original shipping carton and
+packing materials. If you need to ship the unit, for
+maximum protection, re-pack the unit as it was
+originally packed at the factory.
+Keeping the exterior surfaces clean
+
+Cleaning the unit
+To clean the player, use a soft, dry cloth. If the
+surfaces are extremely dirty, use a soft cloth lightly
+moistened with a mild detergent solution. Do not
+use strong solvents such as alcohol, benzine, or
+thinner, as these might damage the surface of the
+unit.
+yy Do not use volatile liquids such as insecticide
+spray near the unit.
+
+Do not touch the playback side of the disc. Hold
+the disc by the edges so that fingerprints do not
+get on the surface. Never stick paper or tape on the
+disc.
+
+Storing Discs
+After playing, store the disc in its case. Do not
+expose the disc to direct sunlight or sources of heat
+and never leave it in a parked car exposed to direct
+sunlight.
+
+Cleaning Discs
+Fingerprints and dust on the disc can cause poor
+picture quality and sound distortion. Before playing,
+clean the disc with a clean cloth. Wipe the disc from
+the center to out.
+Do not use strong solvents such as alcohol,
+benzine, thinner, commercially available cleaners,
+or anti-static spray intended for older vinyl records.
+
+yy Wiping with strong pressure may damage the
+surface.
+yy Do not leave rubber or plastic products in
+contact with the unit for a long period of time.
+
+Maintaining the Unit
+
+6
+Appendix
+
+The unit is a high-tech, precision device. If the
+optical pick-up lens and disc drive parts are dirty
+or worn, the picture quality could be diminished.
+For details, please contact your nearest authorized
+service center.
+
+78 Appendix
+
+Important Information
+Relating to Network
+Services
+All information, data, documents, communications,
+downloads, files, text, images, photographs,
+graphics, videos, webcasts, publications, tools,
+resources, software, code, programs, applets,
+widgets, applications, products and other content
+(“Content”) and all services and offerings (“Services”)
+provided or made available by or through any
+third party (each a “Service Provider”) is the sole
+responsibility of the Service Provider from whom it
+originated.
+The availability of and access to Content and
+Services furnished by the Service Provider through
+the LGE Device are subject to change at any time,
+without prior notice, including, but not limited to
+the suspension, removal or cessation of all or any
+part of the Content or Services.
+
+6
+
+Should you have any inquiry or problem related
+to the Content or Services, you may refer to the
+Service Provider’s website for the most up-todate information. LGE is neither responsible nor
+liable for customer service related to the Content
+and Services. Any question or request for service
+relating to the Content or Services should be made
+directly to the respective Content and Service
+Providers.
+
+Appendix
+
+Please note that LGE is not responsible for any
+Content or Services provided by the Service
+Provider or any changes to, removal of, or cessation
+of such Content or Services and does not warrant
+or guaranty the availability of or access to such
+Content or Services.

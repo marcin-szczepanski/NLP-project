@@ -1,0 +1,192 @@
+USER MANUAL
+
+CONTENTS
+Contents
+
+2
+
+Introduction
+
+3
+
+Get started
+
+4
+
+Speed sensor parts
+
+4
+
+Installing the speed sensor
+
+4
+
+Pairing
+
+5
+
+Important information
+
+6
+
+Care and maintenance
+
+6
+
+Battery
+
+6
+
+Frequently asked questions
+
+6
+
+Technical Specification
+
+7
+
+2
+
+INTRODUCTION
+Polar Speed Sensor is designed to measure speed and distance when cycling. The sensor is compatible with
+Bluetooth® Smart Ready devices that support Bluetooth® Cycling Speed Service.
+You can use your sensor with dozens of leading fitness apps as well as with Polar products using Bluetooth®
+Smart. Check the compatible products at www.polar.com/support.
+
+Register your Polar product at http://register.polar.fi to ensure we can keep improving our products and services to better meet your needs.
+The latest version of this user manual can be downloaded at www.polar.com/support.
+
+3
+
+GET STARTED
+SPEED SENSOR PARTS
+1. Speed sensor (pictures 1 A and 2 A)
+2. Spoke magnet (picture 2 B)
+Picture 1.
+
+Picture 2.
+
+INSTALLING THE SPEED SENSOR
+
+4
+
+To install the speed sensor and spoke magnet, you need cutters and a cross-head screwdriver.
+1. It is recommended to install the speed sensor on the front fork of your bicycle (as in picture 1 A).
+2. Attach the rubber part to the speed sensor (picture 3).
+Picture 3.
+
+3. Pass the cable ties over the speed sensor and rubber part (picture 2 A). Adjust the sensor to the front
+fork so that the POLAR logo faces outwards. Adjust the ties loosely. Do not tighten them fully yet.
+4. Attach the magnet to a spoke at the same level as the speed sensor (picture 2). There is a small caved
+dot on the backside of the sensor (picture 3 A), which indicates the spot the magnet should be pointing
+at when passing the sensor. Fasten the magnet to the spoke and tighten it lightly with a screwdriver.
+Do not tighten it fully yet.
+5. Fine-tune the positioning of both the magnet and the speed sensor so that the magnet passes close to
+the sensor but does not touch it (picture 2). Move the sensor towards the wheel/spokes as close as
+possible. The gap between the sensor and the magnet should be under 4 mm/0.16’’. The gap is correct
+when you can fit a cable tie between the magnet and the sensor.
+6. Rotate the front tire to test the speed sensor. The flashing red light on the sensor indicates that the magnet and the sensor are positioned correctly. If you keep rotating the tire, the light will stop flashing.
+Tighten the screw to the magnet with a screwdriver. Also tighten the cable ties securely and cut off any
+excess cable tie ends.
+Before you start cycling, set the wheel size of your bicycle into the receiving device or mobile application.
+
+PAIRING
+Your new sensor must be paired with the receiving device in order to receive data. For more information, see
+the user guidance material of the receiving device or mobile application.
+To ensure a good connection between the sensor and the receiving device, it is recommended to keep
+the device in a bike mount on the handlebar.
+
+5
+
+IMPORTANT INFORMATION
+CARE AND MAINTENANCE
+Keep the sensor clean. Clean it with a mild soap and water solution, and rinse off with clean water. Dry carefully with a soft towel. Never use alcohol or any abrasive material, such as steel wool or cleaning chemicals.
+Do not immerse the sensor in water.
+Your safety is important to us. Make sure that you can turn your handlebars normally and that the cable wires
+for brakes or gears do not catch the bike mount or sensor. Also, make sure that sensor does not disturb pedaling or using the brakes or gears. While riding your bike, keep your eyes on the road to prevent possible accidents and injury. Avoid hard hits as these may damage the sensor.
+Replacement magnet sets can be purchased separately.
+
+BATTERY
+The battery cannot be replaced. The sensor is sealed in order to maximize mechanical longevity and reliability. To purchase a new sensor, contact your authorized Polar Service or retailer. You can also purchase
+sensors online. Go to www.polar.com to find your own country's shoppolar online store.
+The battery level of your sensor is displayed on the receiving device if it supports Bluetooth® Battery Service.
+To increase battery life, the sensor goes into standby mode in thirty minutes if you stop cycling and the magnet is not passing the sensor.
+
+FREQUENTLY ASKED QUESTIONS
+What should I do if...
+...the speed reading is 0 or there is no speed reading while cycling?
+l
+
+l
+
+l
+
+l
+
+l
+
+Make sure the position and distance of the sensor to the magnet are appropriate.
+Check that you have activated the speed function in the receiving device. For further information, see
+the user guidance material of the receiving device or mobile application.
+Try keeping the receiving device in a bike mount on the handlebar. This may improve the connection.
+If the 0 reading appears irregularly, this may be due to temporary electromagnetic interference in your
+current surroundings.
+If the 0 reading is constant, the battery may be empty.
+
+...there are irregular speed, distance or heart rate readings?
+
+6
+
+l
+
+Disturbance may occur near microwave ovens and computers. Also WLAN base stations may cause
+interference when training with Polar Speed Sensor. To avoid erratic reading or misbehaviors, move
+away from possible sources of disturbance.
+
+... I want to pair the sensor with the receiving device before installation?
+l
+
+Follow the instructions in the user guidance material of the receiving device or mobile application.
+Instead of rotating the crank/wheel, activate the sensor by moving it back and forth close to the magnet. The flashing red light indicates that the sensor is activated.
+
+How do I know...
+... if the sensor is transmitting data to the receiving device?
+l
+
+When you begin cycling, a flashing red light indicates that the sensor is alive and it is transmitting
+speed signal. As you continue cycling, the light stops flashing.
+
+TECHNICAL SPECIFICATION
+Operating temperature:
+
+-10 ºC to +50 ºC / +14 ºF to +122 ºF
+
+Battery life:
+
+Average 1400 hours of use
+
+Accuracy:
+
+±1 %
+
+Material:
+
+Thermoplastic polymer
+
+Water resistance:
+
+Splash proof
+
+FCC ID: INWY6
+Speed Sensor Bluetooth QD ID: B021136
+Copyright © 2015 Polar Electro Oy, FI-90440 KEMPELE. All rights reserved. No part of this manual may be
+used or reproduced in any form or by any means without prior written permission of Polar Electro Oy. The
+names and logos marked with a ™ symbol in this user manual or in the package of this product are trademarks
+of Polar Electro Oy. The names and logos marked with a ® symbol in this user's manual or in the package of
+this product are registered trademarks of Polar Electro Oy. The Bluetooth® word mark and logos are
+registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Polar Electro Oy is under
+license.
+
+1.0 ENG 06/2015
+
+7

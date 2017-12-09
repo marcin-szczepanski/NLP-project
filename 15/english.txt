@@ -1,0 +1,2093 @@
+OWNER’S MANUAL
+
+Safety and Reference
+LED TV*
+
+*Disclaimer
+LG LED TV applies LCD screen with LED backlights.
+
+Please read this manual carefully before operating your TV
+and retain it for future reference.
+
+MT58* MT48*
+
+www.lg.com
+
+Table of contents
+ENG
+ENGLISH
+
+2
+
+3	Licenses
+
+8	
+
+Remote control
+
+3	
+
+Open source software notice
+information
+
+9	
+
+Settings
+
+13	
+
+To see web manual
+
+3	
+
+Preparing
+14	
+
+Maintenance
+
+4	
+
+Lifting and moving the TV
+
+4	
+
+Setting up the TV
+
+14	
+14	
+14	
+14	
+
+4	
+
+Using the joystick button
+
+-Cleaning your TV
+-Screen, frame, cabinet and stand
+-Power cord
+-Preventing “Image burn” or “Burn-in” on
+your TV screen
+
+4	
+5	
+
+-Basic functions
+-Adjusting the menu
+
+14	
+
+Troubleshooting
+
+5	
+
+Mounting on a table
+
+15	
+
+Specifications
+
+5	
+6	
+
+-Adjusting the angle of the TV to suit view
+-Using the kensington security system
+
+6	
+
+Mounting on a wall
+
+6	
+
+-Separate purchase
+(Wall mounting bracket)
+
+7	
+
+Connections (notifications)
+
+7	
+7	
+7	
+7	
+7	
+8	
+
+-Antenna connection
+-Satellite dish connection
+-CI module connection
+-Euro scart connection
+-Other connections
+-Connecting to a PC
+
+Licenses
+Supported licenses may differ by model. For more information about
+licenses, visit www.lg.com.
+
+The terms HDMI and HDMI High-Definition Multimedia Interface,
+and the HDMI logo are trademarks or registered trademarks of
+HDMI Licensing LLC in the United States and other countries.
+
+This DivX Certified® device has passed rigorous testing to ensure it
+plays DivX® video.
+To play purchased DivX movies, first register your device at vod.
+divx.com. Find your registration code in the DivX VOD section of
+your device setup menu.
+DivX Certified® to play DivX® video up to HD 1080p, including
+premium content.
+DivX®, DivX Certified® and associated logos are trademarks of DivX,
+LLC and are used under license.
+Covered by DivX Patents 7,295,673; 7,515,710; RE45,052; and
+others available at [www.divx.com/patents]
+
+Open source software
+notice information
+To obtain the source code under GPL, LGPL, MPL, and other open
+source licenses, that is contained in this product, please
+visit http://opensource.lge.com.
+
+NOTE
+yy Image shown may differ from your TV.
+yy Your TV’s OSD (On Screen Display) may differ slightly from that
+shown in this manual.
+yy The available menus and options may differ from the input
+source or product model that you are using.
+yy New features may be added to this TV in the future.
+yy The TV can be placed in standby mode in order to reduce the
+power consumption. And the TV should be turned off if it
+will not be watched for some time, as this will reduce energy
+consumption.
+yy The energy consumed during use can be significantly reduced
+if the level of brightness of the picture is reduced, and this will
+reduce the overall running cost.
+yy The items supplied with your product may vary depending on
+the model.
+yy Product specifications or contents of this manual may be
+changed without prior notice due to upgrade of product
+functions.
+yy For an optimal connection, HDMI cables and USB devices
+should have bezels less than 10 mm thick and 18 mm width.
+Use an extension cable that supports USB 2.0 if the USB cable
+or USB memory stick does not fit into your TV’s USB port.
+B
+
+B
+A
+
+A
+
+ENGLISH
+ENG
+
+Manufactured under license from Dolby Laboratories. Dolby and
+the double-D symbol are trademarks of Dolby Laboratories.
+
+Preparing
+
+*A <
+= 10 mm
+
+*B <
+= 18 mm
+
+yy Use a certified cable with the HDMI logo attached. If you do
+not use a certified HDMI cable, the screen may not display or a
+connection error may occur.
+yy Recommended HDMI cable types
+- High-Speed HDMI®/™ cable
+- High-Speed HDMI®/™ cable with Ethernet
+CAUTION
+yy Do not use any unapproved items to ensure the safety and
+product life span.
+yy Any damage or injuries caused by using unapproved items are
+not covered by the warranty.
+yy Some models have a thin film attached on to the screen and
+this must not be removed.
+
+In addition to the source code, all referred license terms, warranty
+disclaimers and copyright notices are available for download.
+LG Electronics will also provide open source code to you on CD-ROM
+for a charge covering the cost of performing such distribution (such
+as the cost of media, shipping, and handling) upon email request to
+opensource@lge.com. This offer is valid for three (3) years from the date
+on which you purchased the product.
+
+3
+
+Lifting and moving the TV
+ENG
+ENGLISH
+
+Please note the following advice to prevent the TV from being
+scratched or damaged and for safe transportation regardless of its
+type and size.
+yy It is recommended to move the TV in the box or packing
+material that the TV originally came in.
+yy Before moving or lifting the TV, disconnect the power cord and
+all cables.
+yy When holding the TV, the screen should face away from you to
+avoid damage.
+
+yy Hold the top and bottom of the TV frame firmly. Make sure not
+to hold the transparent part, speaker, or speaker grill area.
+
+yy When transporting the TV, do not expose the TV to jolts or
+excessive vibration.
+yy When transporting the TV, keep the TV upright, never turn the
+TV on its side or tilt towards the left or right.
+yy Do not apply excessive pressure to cause flexing /bending of
+frame chassis as it may damage screen.
+CAUTION
+yy Avoid touching the screen at all times, as this may result in
+damage to the screen.
+yy When handling the TV, be careful not to damage the
+protruding joystick button. (Depending on model)
+
+4
+
+Setting up the TV
+CAUTION
+yy When attaching the stand to the TV set, place the screen facing
+down on a cushioned table or flat surface to protect the screen
+from scratches.
+yy Do not carry the monitor upside-down by holding the stand
+body (or stand base) as this may cause it to fall off, resulting in
+damage or injury.
+NOTE
+yy Remove the stand before installing the TV on a wall mount
+by performing the stand attachment in reverse. (Only MT58*,
+MT48T)
+yy Lift up the latch at the bottom of the stand base and detach
+the stand base from the TV. (Only MT48D*, MT48V*, MT48U)
+
+Using the joystick button
+You can simply operate the TV functions, pressing or moving the
+joystick button up, down, left or right.
+yy Image shown may differ from your TV.
+
+Joystick Button
+
+Remote control
+sensor
+
+Basic functions
+When the TV is turned off, place
+your finger on the joystick button
+and press it once and release it.
+When the TV is turned on, place
+your finger on the joystick button
+and press it once for a few seconds
+Power Off
+and release it. (However, if the
+Menu button is on the screen,
+pressing and holding the joystick
+button will let you exit the Menu.)
+If you place your finger over the
+Volume
+joystick button and move it left or
+Control
+right, you can adjust the volume
+level you want.
+If you place your finger over the
+Programmes joystick button and move it up or
+Control
+down, you can scrolls through the
+saved programmes you want.
+Power On
+
+Adjusting the menu
+
+Adjusting the angle of the TV to suit view
+
+When the TV is turned on, press the joystick button one time. You
+can adjust the Menu items moving the joystick button up, down, left
+or right.
+
+-5°
+
+Clears on-screen displays and returns to TV viewing.
+
+ENGLISH
+ENG
+
+Turns the power off.
+
+yy Image shown may differ from your TV.
+(Only 22MT58*)
+Tilt from -5° to 20° degrees up or down to adjust the angle of the TV
+to suit your view.
+20°
+
+Changes the input source.
+Accesses the setting menu.
+NOTE
+yyIf you press the joystick button first, you may not be able to adjust
+the volume level and saved programmes.
+CAUTION
+yyWhen your finger over the joystick button and push it to the up,
+down, left or right, be careful not to press the joystick button.
+
+Rear
+
+Front
+
+(Only 24/27MT58*)
+Tilt from -2° to 15° degrees up or down to adjust the angle of the TV
+to suit your view.
+-2°
+
+15°
+
+Mounting on a table
+yy Image shown may differ from your TV.
+1	 Lift and tilt the TV into its upright position on a table. 
+-- Leave a 100 mm (minimum) space from the wall for proper
+ventilation.
+Front
+100 mm
+100 mm
+100 mm
+
+100 mm
+
+Rear
+
+CAUTION
+yy When you adjust the angle, do not hold the buttom of the TV
+frame as shown on the following illustration, as may injure
+your fingers.
+
+2	 Connect the AC-DC Adapter and Power Cord to a wall outlet.
+CAUTION
+yy Do not place the TV near or on sources of heat, as this may
+result in fire or other damage.
+yy Please be sure to connect the TV to the AC/DC power adapter
+before connecting the TV’s power plug to a wall power outlet.
+
+5
+
+Using the kensington security system
+(This is not available for all models.)
+yy Image shown may differ from your TV.
+ENG
+ENGLISH
+
+The Kensington security system connector is located at the rear of the
+TV. For more information of installation and using, refer to the manual
+provided with the Kensington security system or visit
+http://www.kensington.com. Connect the Kensington security system
+cable between the TV and a table.
+
+Separate purchase
+(Wall mounting bracket)
+
+Model
+
+20MT48*
+22MT58*
+22MT48*
+24MT58*
+24MT48*
+
+27MT58*
+28MT48*
+29MT48*
+
+75 x 75
+
+100 x 100
+
+Wall mount (A x B)
+A
+B
+
+Standard screw
+Number of screws
+Wall mount bracket
+(optional)
+
+M4 x L10
+4
+RW120
+
+CAUTION
+NOTE
+yy The Kensington security system is optional. You can obtain
+additional accessories from most electronics stores.
+
+Mounting on a wall
+For proper ventilation, allow a clearance of 100 mm on each side and
+from the wall. Detailed installation instructions are available from
+your dealer, see the optional Tilt Wall Mounting Bracket Installation
+and Setup Guide.
+
+yy Disconnect the power first, and then move or install the TV.
+Otherwise electric shock may occur.
+yy If you install the TV on a ceiling or slanted wall, it may fall and
+result in severe injury.
+yy Use an authorized LG wall mount and contact the local dealer
+or qualified personnel.
+yy Do not over tighten the screws as this may cause damage to
+the TV and void your warranty.
+yy Use the screws and wall mounts that meet the VESA standard.
+Any damages or injuries by misuse or using an improper
+accessory are not covered by the warranty.
+yy Screw length from outer surface of back cover should be under
+8 mm.
+Wall mount Pad
+
+100 mm
+
+Back Cover
+100 mm
+
+100 mm
+100 mm
+
+If you intend to mount the TV to a wall, attach Wall mounting
+interface (optional parts) to the back of the TV.
+When you install the TV using the wall mounting interface (optional
+parts), attach it carefully so it will not drop.
+1	 If you use screw longer than standard, the TV might be damaged
+internally.
+2	 If you use improper screw, the product might be damaged and
+drop from mounted position. In this case, LG Electronics is not
+responsible for it.
+
+6
+
+Wall mount Pad
+Back Cover
+Standard screw
+: M4 x L10
+Max.8 mm
+
+NOTE
+yy Use the screws that are listed on the VESA standard screw
+specifications.
+yy The wall mount kit includes an installation manual and
+necessary parts.
+yy The wall mount bracket is optional. You can obtain additional
+accessories from your local dealer.
+yy The length of screws may differ depending on the wall mount.
+Be sure to use the proper length.
+yy For more information, refer to the instructions supplied with
+the wall mount.
+
+Connections (notifications)
+
+NOTE
+yy The external device connection may differ from the model.
+yy Connect external devices to the TV regardless of the order of
+the TV port.
+yy If you record a TV programme on a DVD recorder or VCR, make
+sure to connect the TV signal input cable to the TV through a
+DVD recorder or VCR. For more information of recording, refer
+to the manual provided with the connected device.
+yy Refer to the external equipment’s manual for operating
+instructions.
+yy If you connect a gaming device to the TV, use the cable
+supplied with the gaming device.
+yy In PC mode, there may be noise associated with the resolution,
+vertical pattern, contrast or brightness. If noise is present,
+change the PC output to another resolution, change the refresh
+rate to another rate or adjust the brightness and contrast on
+the Picture menu until the picture is clear.
+yy In PC mode, some resolution settings may not work properly
+depending on the graphics card.
+
+(Depending on model)
+View the encrypted (pay) services in digital TV mode.
+ENGLISH
+ENG
+
+Connect various external devices to the TV and switch input modes
+to select an external device. For more information about an external
+device’s connection, refer to the manual supplied with each device.
+Available external devices are: HD receivers, DVD players, VCRs, audio
+systems, USB storage devices, PC, camcorders or cameras, gaming
+devices, and other external devices.
+
+CI module connection
+
+yy Check if the CI module is inserted into the PCMCIA card slot in
+the right direction. If the module is not inserted properly, this
+can cause damage to the TV and the PCMCIA card slot.
+yy If the TV does not display any video and audio when CI+ CAM
+is connected, please contact to the Terrestrial/Cable/Satellite
+Service Operator.
+
+Euro scart connection
+(Depending on model)
+Transmits the video and audio signals from an external device to the
+TV set. Connect the external device and the TV set with the euro scart
+cable.
+
+Current
+input mode
+Digital TV
+
+Output
+Type
+
+AV1
+(TV Out1)
+Digital TV
+
+Analogue TV
+AV, HDMI
+
+Analogue TV
+
+Component, RGB (Depending on model)
+1 Outputs Analogue TV or Digital TV signals.
+
+Antenna connection
+Connect the TV to a wall antenna socket with an RF cable (75 Ω).
+yy Use a signal splitter to use more than 2 TVs.
+yy If the image quality is poor, install a signal amplifier properly
+to improve the image quality.
+yy If the image quality is poor with an antenna connected, try to
+realign the antenna in the correct direction.
+yy An antenna cable and converter are not supplied.
+yy Supported DTV Audio: MPEG, Dolby Digital, Dolby Digital Plus,
+HE-AAC
+
+NOTE
+yy Any Euro scart cable used must be signal shielded.
+
+Other connections
+Connect your TV to external devices. For the best picture and audio
+quality, connect the external device and the TV with the HDMI cable.
+Some separate cable is not provided.
+yy USB port supports 0.5 A electric current. If you need more
+electric current in case of HDD, use the separate power adaptor.
+
+Satellite dish connection
+(Only satellite models)
+Connect the TV to a satellite dish to a satellite socket with a satellite
+RF cable (75 Ω).
+
+NOTE
+yy Supported HDMI Audio format :
+Dolby Digital (32 KHz, 44.1 KHz, 48 KHz),
+PCM (32 KHz, 44.1 KHz, 48 KHz, 96 KHz, 192 KHz)
+(Depending on model)
+
+7
+
+Remote control
+
+Connecting to a PC
+yy Image shown may differ from your TV.
+ENG
+ENGLISH
+
+Your TV supports the Plug and Play* feature and has the built-in
+speakers with Virtual Surround that reproduces sound clearly with a
+rich bass.
+* Plug and Play: The function when a PC recognizes a connected device
+that users connect to a PC and turn on, without device configuration
+or user intervention.
+
+The descriptions in this manual are based on the buttons on the remote
+control. Please read this manual carefully and use the TV correctly.
+To replace batteries, open the battery cover, replace batteries
+(1.5 V AAA) matching the and hri^Z`^\^_]
+ends to the label inside the
+compartment, and close the battery cover. To remove the batteries,
+perform the installation actions in reverse.
+CAUTION
+
+NOTE
+yy If you want to use HDMI-PC mode, you must set the Input
+Label to PC mode.
+yy The OSD (On Screen Display) is displayed on the screen as
+shown below.
+»»When turning the product on in HDMI input.
+»»When switching to HDMI input.
+
+yy Do not mix old and new batteries, as this may damage the
+remote control.
+yy The remote control will not be included for all sales market.
+Make sure to point the remote control toward the remote control
+sensor on the TV.
+
+A
+
+Is the input connected to your PC?
+
+Do not show message again
+
+YES
+
+NO
+
+yy If you select "YES" the size and image quality are optimised
+for your PC.
+yy If you select "NO" the size and image quality are optimised for
+the AV device (DVD player, set-top box).
+yy If you select "Do not show message again" this message
+does not appear until the TV is reset. You can change the set
+value in
+(Home) Inputs Input Label.
+yy The values set for HDMI1/HDMI2 are saved independently.
+(Only MT58*)
+
+B
+
+A
+(Power) Turns the TV on or off.
+Selects Radio, TV and DTV programme.
+Recalls your preferred subtitle in digital mode.
+Turns the PIP mode on or off. (Depending on model)
+By pressing the AD button, audio descriptions function will be
+enabled.
+Selects TV or PC mode.
+(Inputs) Changes the input source.
+
+B
+
+8
+
+Number buttons Enters numbers.
+Accesses the saved programme list.
+Returns to the previously viewed programme.
+Adjusts the volume level.
+Accesses your favourite programme list.
+Shows programme guide.
+Mutes all sounds.
+Scrolls through the saved programmes.
+Moves to the previous or next screen.
+
+Settings
+Automatically Setting Up Programme
+(Settings)
+
+Programmes
+
+ENGLISH
+ENG
+
+C
+
+Auto Tuning
+
+Automatically tunes the programmes.
+
+D
+
+yy If Input Source is not connected properly, programme
+registration may not work.
+yy Auto Tuning only finds programmes that are currently
+broadcasting.
+yy If Lock System is turned on, a pop-up window will appear
+asking for password.
+
+To select Picture Mode
+(Settings)
+Mode
+
+Picture
+
+Picture Mode Settings
+
+Picture
+
+Select the picture mode optimized for the viewing environment or the
+programme.
+
+C
+Teletext buttons (
+) These buttons are used for
+teletext.
+(Home) Accesses the Home menu.
+(Settings) Accesses the settings menu.
+Accesses the Quick menus.
+(Navigation buttons) Scrolls through menus or
+options.
+Selects menus or options and confirms your input.
+Returns to the previous level.
+Clears on-screen displays and returns to TV viewing.
+
+D
+Views the information of the current programme and
+screen.
+Not functional.
+(Control buttons) Controls the MY MEDIA
+menus, or the SIMPLINK compatible devices (USB, SIMPLINK).
+, , ,
+(Colour buttons) These access special
+functions in some menus.
+(Gaming mode) Turns the gaming mode on or off.
+(Backlight) Adjusts the brightness of the screen by
+controlling the screen backlight.
+
+yy Vivid : Heightens contrast, brightness and sharpness to display
+vivid images.
+yy Standard : Displays images in standard levels of contrast,
+brightness and sharpness.
+yy Eco/APS: [Depending on model]
+The Energy Saver feature changes settings on the TV to reduce
+power consumption.
+yy Cinema/Game : Displays the optimum picture for movie,
+game.
+yy Sports : [Depending on model]
+Optimizes the video image for high and dynamic actions by
+emphasizing primary colours such as white, grass, or sky blue.
+Expert 1,2 : Menu for adjusting picture quality that
+yy
+allows experts and amateurs to enjoy the best TV viewing.
+This is the adjustment menu provided for ISF-certified picture
+tuning professionals. (ISF logo can only be used on ISF-certified
+TVs.)
+ISFccc: Imaging Science Foundation Certified Calibration
+Control
+yy Depending on input signal, available range of picture modes
+may differ.
+Expert mode is for picture tuning professionals to
+yy
+control and fine-tune using a specific image. For normal
+images, the effects may not be dramatic.
+yy The ISF function is only available on some models.
+
+NOTE
+yy On MHEG programme, you cannot adjust the backlight with
+the yellow or blue key.
+
+9
+
+Fine-tuning Picture Mode
+(Settings)
+
+Picture
+
+Picture Mode Settings
+
+This feature allows you to adjust the selected picture mode in detail.
+ENG
+ENGLISH
+
+yy Backlight : Controls the level of screen brightness by adjusting
+the backlight. The closer to 100, the brighter the screen.
+yy Contrast : Adjusts the contrast of the bright and dark areas of
+the picture. The closer to 100, the higher the contrast.
+yy Brightness : Adjusts the overall screen brightness. The closer
+to 100, the brighter the screen.
+yy Sharpness : Adjusts the sharpness of the image. The closer to
+50, the sharper and clearer the image.
+yy Colour : Tones down or up the colours displayed on the screen.
+The closer to 100, the deeper the colour.
+yy Tint : Adjusts the colour balance between red and green
+displayed on the screen. The closer to Red 50, the more red
+the colour will be. The closer to Green 50, the more green the
+colour will be.
+yy Colour Temperature : Adjusts the colour temperature from
+cold to warm.
+yy Depending on input signal or other picture settings, the range
+of detailed items for adjustment may differ.
+
+To set advanced control
+(Settings) Picture Picture Mode Settings
+Advanced Control / Expert Control
+Calibrates the screen for each picture mode; or adjusts picture settings
+for a special screen.
+yy Dynamic Contrast : Adjusts the contrast to the optimal level
+according to the brightness of the image.
+yy Dynamic Colour : Adjusts colours to make the image appear
+in more natural colours.
+yy Preferred Colour : Adjust the colours of skin, grass and sky to
+your personal preferences.
+yy Gamma : Sets the gradation curve according to the output of
+picture signal in relation to the input signal.
+yy Colour Gamut : Selects the range of colours that can be
+expressed.
+yy Edge Enhancer : Shows clearer and distinctive yet natural
+edges of the video.
+yy Colour Filter : Filters a specific colour spectrum in RGB colours
+to fine-tune colour saturation and hue accurately.
+yy White Balance : Adjusts the overall tone of the screen as
+desired.
+yy Colour Management System : This is a system that experts
+use when they adjust colour with a test pattern. They can select
+from six colour areas (Red / Green / Blue / Cyan / Magenta /
+Yellow) without affecting other colours. For normal images,
+adjustments may not result in noticeable colour changes.
+yy Depending on input signal or other picture settings, the range
+of detailed items for adjustment may differ.
+
+10
+
+To set additional picture options
+(Settings) Picture
+Picture Options
+
+Picture Mode Settings
+
+Adjusts detailed setting for images.
+yy Noise Reduction : Eliminates noise in the picture.
+yy MPEG Noise Reduction : Eliminates noise generated while
+creating digital picture signals.
+yy Black Level : Adjusts the brightness and contrast of the
+screen to suit the black level of the input picture by using the
+blackness (black level) of the screen.
+yy Real Cinema : Optimizes the screen for movie viewing.
+yy Motion Eye Care : Automatically adjusts brightness and
+reduces image blur based on image data to reduce eyestrain.
+yy Depending on input signal or other picture settings, the range
+of detailed items for adjustment may differ.
+
+Resetting picture settings
+(Settings) Picture
+Picture Reset
+
+Picture Mode Settings
+
+Resets picture settings that the user customizes. Each picture mode is
+reset. Select the picture mode you wish to reset.
+
+To use Gaming Mode
+(Settings)
+
+Picture
+
+Gaming Mode
+
+[Available only for RGB/HDMI-PC]
+This mode allows you to optimize the picture quality for games.
+yy DAS Mode : [Depending on model]
+This mode minimizes the time taken to display the video signal
+received from the input device to ensure faster gameplay.
+(The screen will flicker when turning DAS Mode On or Off.)
+- DAS : Dynamic Action Sync
+yy Black Stabilizer : Objects can be seen more clearly on a dark
+screen by adjusting the black levels. Increasing the Black
+Stabilizer value brightens the low gray levels on the screen.
+(You can easily distinguish objects on a dark game screen.)
+Reducing the Black Stabilizer value darkens the low gray
+levels and increases the dynamic contrast on the screen.
+-- You can configure the detailed settings for Gaming Mode using
+the key on the remote control.
+-- You can set DAS Mode only when the frequency for vertical input
+is 50 Hz/60 Hz.
+-- When PIP is turned on, the DAS Mode is unavailable.
+
+To use Energy Saving feature
+(Settings)
+
+Picture
+
+Energy Saving
+
+Reduces power consumption by adjusting screen brightness.
+
+To use Eye Comfort Mode feature
+(Settings)
+
+Picture
+
+Eye Comfort Mode
+
+If you turn this option on, colour temperature will be automatically
+adjusted to reduce eye strain.
+yy On : Automatically adjusts the screen color temperature.
+yy Off : Turns off the Eye Comfort Mode.
+
+Select Sound Mode
+(Settings) Sound
+Sound Mode
+
+Sound Mode Settings
+
+(Settings)
+
+Standard : Optimizes the sound for all types of content.
+Clear Voice : Boosts voice clarity from the TV.
+Music : [Depending on model] Optimizes the sound for music.
+Cinema : Optimizes the sound for cinemas.
+Sports : [Depending on model] Optimizes the sound for sports.
+Game : Optimizes the sound for gameplay.
+
+Adjusting audio balance
+(Settings)
+Balance
+
+Sound
+
+Sound Mode Settings
+
+Adjust the volume of the left and right speakers.
+
+Using the Sound Effect function
+(Settings)
+
+Sound
+
+Sound Mode Settings
+
+The user can select various sound effects.
+yy Virtual Surround : Enjoy an immersive soundscape with the
+virtual multi-channel surround sound effect.
+yy Equalizer : Set the desired sound by adjusting the equalizer
+directly.
+yy Reset : Reset the sound effect settings.
+yy This is only available if Sound Mode is set to Standard.
+
+AV Sync Adjustment
+
+[Depending on model]
+Synchronizes video and audio directly when they do not match. If you
+set AV Sync Adjustment to On, you can adjust the sound output (TV
+speakers) to the screen image.
+yy If you select the Bypass, Outputs the broadcast signals or
+the sound from external devices without any audio delay. The
+audio may be output before the video because of the time the
+TV takes to process the video input.
+
+PIP Setting
+(Settings)
+
+General
+
+PIP
+
+[Depending on model]
+yy
+yy
+yy
+yy
+yy
+yy
+
+Adjusts TV audio to an optimal level based on a selected sound mode.
+yy
+yy
+yy
+yy
+yy
+yy
+
+Sound
+
+ENGLISH
+ENG
+
+yy Off : Turns off the Energy Saving mode.
+yy Minimum / Medium / Maximum : Applies the pre-set
+Energy Saving mode.
+yy Screen Off : Screen is turned off and only sound is played.
+Press any button except Power button on the remote control
+to turn the screen back on.
+
+To synchronize audio and video
+
+yy
+yy
+yy
+
+Mode : Shows or hides the sub-screen.
+Sub Input : Select the input on the sub-screen.
+Position : Adjusts the position of the sub-screen.
+Size : Adjusts the size of the sub-screen.
+Sound : Switches to the main screen sound or the sub screen
+sound.
+The PIP function is only available in the following mode:
+- Main : RGB-PC	
+Sub : DTV / ATV / HDMI
+- Main : HDMI	
+Sub : DTV / ATV / Component
+The PIP settings can also be set using Quick Menu.
+Press the PIP button on the remote control to show or hide
+the sub-screen.
+The PIP function is not available when SIMPLINK is activated.
+
+Setting USB AutoRun
+(Settings)
+
+General
+
+USB AutoRun
+
+Play photos or videos of USB automatically when TV is turned on or
+USB is connected.
+yy
+yy
+yy
+yy
+
+Off : Turn off the USB AutoRun.
+Videos : Play videos of USB automatically.
+Photos : Play photos of USB automatically.
+Only plays the files in the top level folder of the USB device in
+sequence.
+yy While playing, press the BACK or EXIT button on the remote
+control to end this function.
+yy If the files are invalid or corrupted, the following message
+appears before returning to the previous input status: "This file
+is invalid."
+yy When the USB device is reconnected after being disconnected
+during video playback, Continue watching starts automatically
+and resumes the video from the last viewed scene (only
+applies to the first video).
+
+11
+
+To use SIMPLINK
+
+To specify Factory Reset
+
+[Depending on model]
+SIMPLINK is a feature that enables you to control and manage various
+multimedia devices conveniently via the SIMPLINK menu.
+ENG
+ENGLISH
+
+1	 Connect the TV’s HDMI IN terminal and the SIMPLINK device’s HDMI
+output terminal using an HDMI cable.
+2	 Select (Settings) General
+SIMPLINK menu window appears.
+
+SIMPLINK.
+
+General
+
+Reset to Initial Settings
+
+All stored information is deleted and TV settings are reset.
+The TV turns itself off and back on, and all settings are reset.
+yy When Lock System is in place, a pop-up window appears and
+asks for password.
+yy Do not turn off the power during initialization.
+
+3	 In SIMPLINK Setting window, set SIMPLINK function to On.
+
+To remove the USB device
+
+4	 Configure the Auto Power Sync settings to On or Off.
+
+Select the connected USB HDD from
+(Home) Inputs and
+select the Eject button to disconnect the USB HDD storage device.
+When you see a message that the USB device has been removed,
+separate the device from the TV.
+
+5	 In SIMPLINK menu window, selects the device you want to control.
+(Home) Inputs
+yy You can also set the SIMPLINK in
+SIMPLINK.
+yy This function is only compatible with devices with the
+SIMPLINK logo.
+yy To use the SIMPLINK function, you need to use a highspeed HDMI® cable (with CEC (Consumer Electronics Control)
+feature added). High-speed HDMI® cables have the No. 13 pin
+connected for information exchange between devices.
+yy If you switch to another input, the SIMPLINK device will stop.
+yy If a third-party device with the HDMI-CEC function is also used,
+the SIMPLINK device may not work normally.
+yy If you select or play media from a the device with a home
+theatre function, the HT Speaker(Speaker) is automatically
+connected.
+
+SIMPLINK function description
+yy Direct Play : Plays the multimedia device on the TV instantly.
+yy Controlling devices with the TV remote control : Manages
+the multimedia device with the TV remote control.
+yy Main Power Off : If Auto Power Sync is set to On in the
+SIMPLINK settings and turn off your TV, the devices connected
+to your TV via SIMPLINK will also be turned off.
+yy Main Power On : If Auto Power Sync is set to On in the
+SIMPLINK settings, turning on a SIMPLINK-linked device will
+turn the TV on.
+
+(Settings)
+
+Safety
+
+yy Once a USB device has been selected for removal, it can no
+longer be read. Remove the USB storage device and then reconnect it.
+
+Using a USB storage device - warning
+yy If the USB storage device has a built-in auto recognition
+program or uses its own driver, it may not work.
+yy Some USB storage devices may not work or may work
+incorrectly.
+yy Use only USB storage devices formatted with the Windows
+FAT32 or NTFS File System.
+yy For external USB HDDs, it is recommended that you use devices
+with a rated voltage of less than 5 V and a rated current of less
+than 500 mA.
+yy It is recommended that you use USB memory sticks of 32 GB or
+less and USB HDDs of 2 TB or less.
+yy If a USB HDD with power-saving function does not work
+properly, turn the power off and on. For more information,
+refer to the user manual of the USB HDD.
+yy Data in the USB storage device can be damaged, so be sure to
+back up important files to other devices. Data maintenance
+is the user’s responsibility and the manufacturer is not
+responsible for data loss.
+
+My Media supporting file
+
+To set password
+Set Password
+
+Sets or changes the TV password.
+yy The initial password is set to ‘0000’.
+yy When France is selected for Country, password is not ‘0000’ but
+‘1234’.
+yy When France is selected for Country, password cannot be set to
+‘0000’.
+
+12
+
+(Settings)
+
+yy Maximum data transfer rate : 20 Mbps (Mega bit per second)
+yy External supported subtitle formats : *.srt (SubRip), *.smi
+(SAMI), *.sub (SubViewer, MicroDVD, DVDsubtitleSystem,
+SubIdx(Vobsub)), *.ass/*.ssa (SubStation Alpha), *.txt
+(TMplayer), *.psb (PowerDivX)
+yy Internal supported subtitle formats: *.dat/*.mpg/*.mpeg/
+*.vob (DVD Subtitle), *.ts/*.tp/*.m2ts (DVB Subtitle),
+*.mp4 (DVD Subtitle, UTF-8 Plain Text),
+*.mkv (ASS, SSA, UTF-8 Plain Text, Universal Subtitle Format,
+VobSub, DVD Subtitle), *.divx/*.avi (XSUB1, XSUB+)
+1 XSUB : Supports internal subtitles generated from DivX6
+
+Supported Video Formats
+
+Supported Audio Formats
+yy File type : mp3
+[Bit rate] 32 Kbps ~ 320 Kbps
+[Sample freq.] 16 kHz ~ 48 kHz
+[Support] MPEG1, MPEG2, Layer2, Layer3
+yy File Type : AAC
+[Bit rate] Free Format
+[Sample freq.] 8 kHz ~ 48 kHz
+[Support] ADIF, ADTS
+yy File Type : M4A
+[Bit rate] Free Format
+[Sample freq.] 8 kHz ~ 48 kHz
+[Support] MPEG-4
+
+yy File Type : WMA
+[Bit rate] 128 Kbps ~ 320 Kbps
+[Sample freq.] 8 kHz ~ 48 kHz
+[Support] WMA7, WMA8, WMA9 Standard
+yy File Type : WMA10 Pro
+[Bit rate] ~ 768 Kbps
+[Channel / Sample freq.]
+M0 : up to 2 Channel @ 48 kHz
+(Except LBR mode),
+M1 : up to 5.1 Channel @ 48 kHz,
+M2 : up to 5.1 Channel @ 96 kHz
+[Support] WMA10 Pro
+yy File Type : OGG
+[Bit rate] Free Format
+[Sample freq.] 8 kHz ~ 48 kHz
+[Support] OGG Vorbis
+yy File Type : WAV
+[Bit rate] 64 kbps ~ 1.5 Mbps
+[Sample freq.] 8 kHz ~ 48 kHz
+[Support] LPCM
+[Bitdepth] 8 bit / 16 bit / 24 bit
+
+ENGLISH
+ENG
+
+yy Maximum : 1920 x 1080 @ 30p (Only Motion JPEG 640 x 480 @
+30p)
+yy .asf, .wmv
+[Video] MPEG-4 Part2, XViD, H.264/AVC, VC1(WMV3, WVC1),
+MP43
+[Audio] WMA Standard, WMA9(Pro), MP3, AAC, AC3
+yy divx, .avi
+[Video] MPEG-2, MPEG-4 Part2, DivX3.11, DivX4, DivX5, DivX6,
+XViD, H.264/AVC
+[Audio] HE-AAC, LPCM, ADPCM, MPEG- 1 Layer I, MPEG-1 Layer
+II, Dolby Digital, MPEG-1 Layer III (MP3)
+yy .ts, .trp, .tp, .mts, .m2ts
+[Video] H.264/AVC, MPEG-2, H.265/HEVC
+[Audio] MPEG-1 Layer I, MPEG-1 Layer II, MPEG-1 Layer III
+(MP3), Dolby Digital, Dolby Digital Plus, AAC, HE-AAC
+yy .vob
+[Video] MPEG-1, MPEG-2
+[Audio] Dolby Digital, MPEG-1 Layer I, MPEG- 1 Layer II,
+DVD-LPCM
+yy .mp4, .m4v, .mov
+[Video] MPEG-2, MPEG-4 Part2, DivX3.11, DivX4, DivX5, XViD,
+H.264/AVC
+[Audio] AAC, MPEG-1 Layer III (MP3)
+yy .mkv
+[Video] MPEG-2, MPEG-4 Part2, XViD, H.264/AVC
+[Audio] HE-AAC, Dolby Digital, MPEG-1 Layer III (MP3), LPCM
+yy motion JPEG
+[Video] MJPEG
+[Audio] LPCM, ADPCM
+yy .mpg, .mpeg, .mpe
+[Video] MPEG-1, MPEG-2
+[Audio] MPEG-1 Layer I, MPEG-1 Layer II, Dolby Digital, LPCM
+yy dat
+[Video] MPEG-1, MPEG-2
+[Audio] MP2
+yy flv
+[Video] Sorenson H.263, H.264/AVC
+[Audio] MP3, AAC, HE-AAC
+yy 3gp, 3gp2
+[Video] H.264/AVC, MPEG-4 Part2
+[Audio] AAC, AMR(NB/WB)
+
+Supported Photo Formats
+yy Category : 2D (jpeg, jpg, jpe)
+[Available file type]
+SOF0: Baseline,
+SOF1 : Extend Sequential,
+SOF2 : Progressive
+[Photo size]
+Minimum : 64 x 64,
+Maximum (Normal Type) : 15360 (W) x 8640 (H),
+Maximum (Progressive Type) : 1920 (W) x 1440 (H)
+yy Category : BMP
+[Photo size] Minimum : 64 x 64, Maximum : 9600 x 6400
+yy Category : PNG
+[Available file type] Interlace, Non-Interlace
+[Photo size]
+Minimum : 64 x 64,
+Maximum (Interlace) : 1200 x 800,
+Maximum (Non-Interlace) : 9600 x 6400
+yy BMP and PNG format files may be slower to display than JPEG.
+
+To see web manual
+To obtain detailed User Guide information, please visit www.lg.com.
+
+13
+
+Maintenance
+
+Troubleshooting
+
+Cleaning your TV
+
+Cannot control the TV with the remote control.
+
+ENG
+ENGLISH
+
+Clean your TV regularly to keep the best performance and to extend
+the product lifespan.
+yy Make sure to turn the power off and disconnect the power cord
+and all other cables first.
+yy When the TV is left unattended and unused for a long time,
+disconnect the power cord from the wall outlet to prevent
+possible damage from lightning or power surges.
+
+Screen, frame, cabinet and stand
+To remove dust or light dirt, wipe the surface with a dry, clean, and
+soft cloth.
+To remove major dirt, wipe the surface with a soft cloth dampened in
+clean water or a diluted mild detergent. Then wipe immediately with
+a dry cloth.
+yy Avoid touching the screen at all times, as this may result in
+damage to the screen.
+yy Do not push, rub, or hit the screen surface with your fingernail
+or a sharp object, as this may result in scratches and image
+distortions.
+yy Do not use any chemicals as this may damage the product.
+yy Do not spray liquid onto the surface. If water enters the TV, it
+may result in fire, electric shock, or malfunction.
+
+Power cord
+Remove the accumulated dust or dirt on the power cord regularly.
+
+Preventing “Image burn” or “Burn-in” on
+your TV screen
+yy If a fixed image displays on the TV screen for a long period
+of time, it will be imprinted and become a permanent
+disfigurement on the screen. This is “image burn” or “burn-in”
+and not covered by the warranty.
+yy If the aspect ratio of the TV is set to 4:3 for a long period of
+time, image burn may occur on the letterboxed area of the
+screen.
+yy Avoid displaying a fixed image on the TV screen for a long
+period of time (2 or more hours for LCD) to prevent image
+burn.
+
+14
+
+yy Check the remote control sensor on the product and try again.
+yy Check if there is any obstacle between the product and the
+remote control.
+yy Check if the batteries are still working and properly installed
+( to , to ).
+No image display and no sound is produced.
+yy Check if the product is turned on.
+yy Check if the power cord is connected to a wall outlet.
+yy Check if there is a problem in the wall outlet by connecting
+other products.
+The TV turns off suddenly.
+yy Check the power control settings. The power supply may be
+interrupted.
+yy Check if the Auto Power Off (Depending on model) /
+Sleep Timer / Timer Power Off feature is activated in the
+Timers settings.
+yy If there is no signal while the TV is on, the TV will turn off
+automatically after 15 minutes of inactivity.
+When connecting to the PC (HDMI/RGB), 'No Signal', 'Check signal
+cable' or ‘Unsupported Format’ is displayed.
+yy Turn the TV off/on using the remote control.
+yy Reconnect the HDMI/RGB cable.
+yy Restart the PC with the TV on.
+If TV is turned off automatically.
+yy If Timer Power On is enabled, the TV will be turned on at the
+specified time. If you do not operate the TV for two hours, the
+TV will be turned off automatically.
+yy To disable this function, use your remote control to go to
+(Settings) Timers Timer Power On
+2 Hours Auto Power Off Off.
+
+Specifications
+Product specifications may be changed without prior notice due to upgrade of product functions.
+Weight (kg)
+
+Power
+consumption
+(Outgoing
+condition)
+
+Power
+requirement
+
+With stand
+
+Without stand
+
+With stand
+
+Without stand
+
+467.0 x 330.5 x 146.3
+
+467.0 x 278.0 x 52.7
+
+2.4
+
+2.2
+
+22 W
+
+19 V
+
+1.2 A
+
+507.6 x 410.5 x 198.2
+
+507.6 x 316.5 x 75.5
+
+3.1
+
+2.8
+
+26 W
+
+19 V
+
+1.6 A
+
+554.9 x 422.9 x 203.5
+
+554.9 x 342.3 x 92.8
+
+3.6
+
+3.2
+
+28 W
+
+19 V
+
+2.0 A
+
+642.0 x 473.7 x 203.5
+
+642.0 x 393.5 x 93.0
+
+5.0
+
+4.6
+
+32 W
+
+19 V
+
+2.0 A
+
+22MT48DF
+22MT48VF
+
+507.6 x 358.0 x 146.3
+
+507.6 x 316.5 x 52.7
+
+3.0
+
+2.9
+
+26 W
+
+19 V
+
+1.6 A
+
+24MT48DF
+24MT48VF
+24MT48U
+24MT48DW
+24MT48DG
+
+556 x 387.3 x 146.3
+
+556 x 345.2 x 53.1
+
+3.4
+
+3.2
+
+28 W
+
+19 V
+
+1.6 A
+
+28MT48DF
+
+641.5 x 435.5 x 186.1
+
+641.5 x 396.3 x 57.5
+
+4.7
+
+4.5
+
+28 W
+
+19 V
+
+1.6 A
+
+641.5 x 435.5 x 186.1
+
+641.5 x 396.3 x 57.5
+
+4.7
+
+4.5
+
+33 W
+
+19 V
+
+2.0 A
+
+665.8 x 444.5 x 186.1
+
+665.8 x 405.5 x 61.4
+
+4.8
+
+4.6
+
+33 W
+
+19 V
+
+2.0 A
+
+665.8 x 435 x 175
+
+665.8 x 405.5 x 61.4
+
+4.7
+
+4.5
+
+33 W
+
+19 V
+
+2.0 A
+
+20MT48DF
+20MT48VF
+22MT58DF
+22MT58VF
+24MT58DF
+24MT58VF
+27MT58DF
+27MT58VF
+
+28MT48VF
+28MT48U
+29MT48DF
+29MT48VF
+29MT48T
+
+AC/DC Adapter
+
+20MT48*
+
+24MT58* / 27MT58* / 29MT48*
+/ 28MT48VF / 28MT48U
+
+22MT58* / 22MT48* / 24MT48*
+/ 28MT48DF
+
+Manufacturer : Lien Chang
+Model : LCAP26-E, LCAP21
+Manufacturer : Honor
+Model : ADS-40FSG-19 19025GPG-1,
+ADS-40SG-19-3 19025G
+
+Manufacturer : Lien Chang
+Model : LCAP16B-E, LCAP21C
+Manufacturer : Honor
+Model : ADS-45FSN-19 19040GPG,
+ADS-45SN-19-3 19040G
+
+Manufacturer : Lien Chang
+Model : LCAP16A-E, LCAP21A
+Manufacturer : Honor
+Model : ADS-40FSG-19 19032GPG,
+ADS-40SG-19-3 19032G
+
+In : AC 100 – 240 V ~ 50/60 Hz
+Out : DC 19 V
+1.3 A
+
+In : AC 100 – 240 V ~ 50/60 Hz
+Out : DC 19 V
+2.1 A
+
+In : AC 100 – 240 V ~ 50/60 Hz
+Out : DC 19 V
+1.7 A
+
+CI module Size (W x H x D)
+
+Environment
+condition
+
+Operating Temperature
+Operating Humidity
+Storage Temperature
+Storage Humidity
+
+ENGLISH
+ENG
+
+Dimensions (W x H x D) (mm)
+Models
+
+100.0 mm x 55.0 mm x 5.0 mm
+0 °C to 40 °C
+Less than 80 %
+-20 °C to 60 °C
+Less than 85 %
+
+15
+
+ENG
+ENGLISH
+
+Satellite Digital TV
+(Depending on model)
+
+Digital TV
+(Depending on model)
+
+Television system
+
+DVB-S/S21
+
+DVB-T/T22
+DVB-C
+
+Programme coverage
+
+C-Band, Ku-Band
+
+VHF, UHF
+
+Maximum number of storable
+programmes
+
+6000
+
+External antenna impedance
+1 Only satellite models.
+2 Only DVB-T2 support models.
+
+16
+
+Analogue TV
+PAL/SECAM B/G/D/K/I,
+SECAM L/L’
+VHF : E2 to E12,
+UHF : E21 to E69,
+CATV : S1 to S20,
+HYPER : S21 to S47
+2000
+
+75 Ω
+
+RGB (PC) / HDMI (PC) supported mode
+
+HDMI (PC) supported mode
+
+(Only MT58*)
+
+(Only 22MT48*)
+Horizontal
+frequency(kHz)
+
+Vertical
+frequency(Hz)
+
+Resolution
+
+Horizontal
+frequency(kHz)
+
+Vertical
+frequency(Hz)
+
+720 x 400
+
+31.468
+
+70.080
+
+720 x 400
+
+31.468
+
+70.080
+
+31.469
+37.500
+37.879
+46.875
+
+59.940
+75.000
+60.317
+75.000
+
+1024 x 768
+
+48.363
+
+60.004
+
+1024 x 768
+(Only HDMI(PC))
+
+56.476
+
+70.069
+
+31.469
+37.500
+37.879
+46.875
+48.363
+56.476
+60.023
+
+59.940
+75.000
+60.317
+75.000
+60.004
+70.069
+75.029
+
+1024 x 768
+
+60.023
+
+75.029
+
+1152 x 864
+
+67.500
+
+75.000
+
+75.000
+
+1280 x 720
+
+45.000
+
+60.000
+
+60.000
+
+1280 x 800
+
+49.702
+
+59.810
+
+1280 x 1024
+
+63.981
+79.976
+
+60.020
+75.025
+
+1400 x 1050
+
+65.317
+
+59.978
+
+55.935
+
+59.887
+
+640 x 480
+800 x 600
+
+1152 x 864
+1280 x 720
+
+67.500
+45.000
+
+1280 x 800
+
+49.702
+
+59.810
+
+1280 x 1024
+
+63.981
+79.976
+
+60.020
+75.025
+
+640 x 480
+800 x 600
+1024 x 768
+
+1400 x 1050
+
+65.317
+
+59.978
+
+1440 x 900
+
+1440 x 900
+
+55.935
+
+59.887
+
+1600 x 900
+
+60.000
+
+60.000
+
+1600 x 900
+
+60.000
+
+60.000
+
+1680 x 1050
+
+59.883
+59.954
+
+59.883
+59.954
+
+1680 x 1050
+
+64.674
+65.290
+
+64.674
+65.290
+
+1920 x 1080
+
+67.500
+
+60.000
+
+66.590
+
+59.930
+
+(Only 20/24/28/29MT48*)
+
+67.500
+
+60.000
+
+Resolution
+
+Horizontal
+frequency(kHz)
+
+Vertical
+frequency(Hz)
+
+720 x 400
+
+31.468
+
+70.080
+
+31.469
+37.500
+37.879
+46.875
+48.363
+60.023
+
+59.940
+75.000
+60.317
+75.000
+60.004
+75.029
+
+1280 x 800
+
+49.702
+
+59.810
+
+1366 x 768
+
+47.717
+
+59.790
+
+1920 x 1080
+(Only RGB (PC))
+1920 x 1080
+(Only HDMI(PC))
+NOTE
+
+yy The optimal display resolution is 1920 x 1080 @ 60 Hz.
+yy The optimal timing in each mode is vertical frequency 60 Hz.
+
+640 x 480
+800 x 600
+1024 x 768
+
+ENGLISH
+ENG
+
+Resolution
+
+NOTE
+yy The optimal display resolution
+- 22MT48*: 1920 x 1080 @ 60 Hz.
+- 20/24/28/29MT48*: 1366 x 768 @ 60 Hz.
+yy The optimal timing in each mode is vertical frequency 60 Hz.
+
+17
+
+Component port connecting information
+
+HDMI (DTV) supported mode
+
+(Only MT58*, MT48T)
+Resolution
+ENG
+ENGLISH
+
+720 x 480
+720 x 576
+1280 x 720
+
+1920 x 1080
+
+Horizontal
+frequency(kHz)
+31.469
+31.500
+31.250
+
+Vertical
+frequency(Hz)
+59.940
+60.000
+50.000
+
+37.500
+44.960
+45.000
+33.720
+33.750
+28.125
+27.000
+33.750
+56.250
+67.430
+67.500
+
+50.000
+59.940
+60.000
+59.940
+60.000
+50.000
+24.000
+30.000
+50.000
+59.940
+60.000
+
+Component supported mode
+(Only MT58*, MT48T)
+Resolution
+
+720 x 480
+
+720 x 576
+1280 x 720
+
+1920 x 1080
+
+Horizontal
+frequency(kHz)
+
+Vertical
+frequency(Hz)
+
+15.730
+15.750
+31.470
+31.500
+15.625
+31.250
+44.960
+45.000
+37.500
+33.720
+33.750
+28.125
+56.250
+67.432
+67.500
+
+59.940
+60.000
+59.940
+60.000
+50.000
+50.000
+59.940
+60.000
+50.000
+59.940
+60.000
+50.000
+50.000
+59.940
+60.000
+
+NOTE
+yy The optimal display resolution
+- MT58*, 22MT48*: 1920 x 1080 @ 60 Hz.
+- 20/24/28/29MT48*: 1366 x 768 @ 60 Hz.
+yy The optimal timing in each mode is vertical frequency 60 Hz.
+
+18
+
+Component ports on the TV
+
+Video output ports
+on DVD player
+
+Y
+
+PB
+
+PR
+
+Y
+Y
+
+PB
+B-Y
+
+PR
+R-Y
+
+Y
+
+Cb
+
+Cr
+
+Y
+
+Pb
+
+Pr
+
+WARNING!
+
+ENGLISH
+ENG
+
+Never place a television set in an unstable location. A television set
+may fall, causing serious personal injury or death. Many injuries,
+particularly to children, can be avoided by taking simple precautions
+such as:
+yy Using cabinets or stands recommended by the manufacturer
+of the television set.
+yy Only using furniture that can safely support the television set.
+yy Ensuring the television set is not overhanging the edge of the
+supporting furniture.
+yy Not placing the television set on tall furniture (for example,
+cupboards or bookcases) without anchoring both the furniture
+and the television set to a suitable support.
+yy Not placing the television set on cloth or other materials that
+may be located between the television set and supporting
+furniture.
+yy Educating children about the dangers of climbing on furniture
+to reach the television set or its controls.
+If your existing television set is being retained and relocated, the same
+considerations as above should be applied.
+
+Symbols
+Refers to alternating current(AC).
+Refers to direct current(DC).
+Refers to class II equipment.
+Refers to stand-by.
+Refers to “ON” (power).
+Refers to dangerous voltage.
+
+19
+
+Make sure to read the Safety Precautions
+before using the product.
+Keep the Owner’s Manual (CD) in an
+accessible place for future reference.
+The model and serial number of the TV is
+located on the back and one side of the
+TV. Record it below should you ever need
+service.
+MODEL
+SERIAL

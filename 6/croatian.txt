@@ -1,0 +1,3477 @@
+PRIRUČNIK ZA VLASNIKA
+
+Molimo, prije korištenja uređaja pažljivo pročitajte priručnik i sačuvajte ga
+kao referencu za slučaj potrebe.
+
+DH4220S (DH4220S, S42S1-S/ W)
+
+HRVATSKI
+
+DVD kućno kino
+
+2
+
+Početak
+
+Sigurnosne informacije
+1
+
+OPREZ
+
+Početak
+
+OPASNOST OD STRUJNOG
+UDARA! NE OTVARAJ
+
+OPREZ: NE SKIDAJTE POKLOPAC (ILI ZADNJU
+STRANU) URE-DAJA KAKO BISTE SMANJILI
+OPASNOST OD STRUJNOG UDARA. URE-DAJ
+NE SADRŽI DIJELOVE KOJE BI KORISNIK MOGAO
+SAM POPRAVLJATI. SERVISIRANJE PREPUSTITE
+KVALIFICIRANOM OSOBLJU ZA SERVISIRANJE.
+Simbol munje sa strelicom na vrhu
+unutar jednakostraničnog trokuta
+ima za cilj upozoriti korisnika na
+prisutnost opasnog neizoliranog
+napona unutar kućišta proizvoda
+koji može imati dovoljnu jakost da
+za osobe predstavlja opasnost od
+strujnog udara.
+Uskličnik unutar jednakostraničnog trokuta ima za cilj
+upozoriti korisnika na prisutnost
+važnih uputa za rad i održavanje
+(servisiranje) proizvoda u
+knjižicama koje prate proizvod.
+UPOZORENJE: NE IZLAŽITE PROIZVOD UTJECAJIMA
+KIŠE I VLAGE U CILJU SPREČAVANJA POŽARA ILI
+STRUJNOG UDARA.
+UPOZORENJE: Ne postavljajte ovu opremu u
+zatvorena mjesta kako što su to police za knjige ili
+slično.
+OPREZ: Ne začepljujete otvore za ventilaciju.
+Postavite uređaj u skladu s uputama proizvođača.
+Otvori na kućištu uređaja su postavljeni zbog
+ventilacije kako bi osigurali pouzdan rad proizvoda i
+kako bi zaštitili proizvod od pregrijavanja. Otvori se
+nikada ne smiju začepiti tako da se proizvod stavi
+na pr. na krevet, fotelju, tepih ili neku drugu sličnu
+površinu. Proizvod se ne smije stavljati u ugradbena
+tijela kao što su police za knjige, osim ako nije
+osigurana dobra ventilacija ili u slučaju da se to
+navodi u uputama proizvođača.
+
+OPREZ: Ovaj proizvod koristi laserski sustav.
+Kako biste osigurali pravilnu upotrebu proizvoda,
+molimo pažljivo pročitajte priručnik za korisnika i
+sačuvajte ga za buduće potrebe. Ukoliko ured-aj
+zahtijeva održavanje, kontaktirajte ovlašteni servisni
+centar. Korištenje upravljačkih funkcija, podešavanja
+ili izvod-enje procedura koje nisu navedene u ovom
+priručniku može dovesti do opasanog izlaganje
+zračenju. Ne pokušavajte otvoriti kućište kako biste
+spriječili izravno izlaganje laserskoj zraci.
+OPREZ u odnosu na električni kabel
+Za većinu se ured-aja preporučuje da imaju zaseban
+strujni krug za napajanje;
+Drugim riječima, potrebna je zasebna utičnica sa
+zasebnim osiguračem na kojem neće biti drugih
+utičnica ili strujnih krugova. Za potvrdu provjerite
+stranicu sa specifikacijama proizvoda u ovom
+priručniku. Ne preopterećujte zidnu utičnicu.
+Preopterećene zidne utičnice, slabo pričvršćene
+ili oštećene zidne utičnice, produžni kablovi,
+presavijeni električni kablovi, oštećena ili napuknuta
+izolacija na žicama predstavljaju opasnost. Bilo
+koji od ovih slučajeva može dovesti do strujnog
+udara ili požara. S vremena na vrijeme pregledajte
+električni kabel na ured-aju, ako ustanovite
+njegovo oštećenje ili propadanje, iskopčajte kabel,
+prekinite korištenje proizvoda i uredite da se kabel
+zamijeni odgovarajućim kabelom kod ovlaštenog
+servisnog centra. Električni kabel zaštitite od
+fizičkih i mehaničkih oštećenja, kao što su savijanja,
+lomljenja, uklještenja, gaženja i drugo. Posebnu
+pažnju obratite na utikače, utičnice i na mjesto na
+kojem kabel izlazi iz ured-aja. Za iskapčanje glavnog
+napajanja, iskopčajte utikač iz utičnice na zidu.
+Kod instaliranja proizvoda, pazite da utikač bude
+pristupačan.
+
+Početak
+Uređaj je opremljen prijenosnom baterijom ili
+akumulatorom.
+
+Odlaganje starih baterija/akumulatora na otpad
+1.	 Kada su baterije/akumulatori za
+vaš uređaj označene prekriženom
+kantom za smeće, to znači da se
+na njih odnosi Europska direktiva
+2006/66/EC.
+
+OPREZ: Uređaj se ne smije izlagati vodi (kapanju ili
+pljuskanju) i na uređaj se ne smiju stavljati predmeti
+ispunjeni tekućinama, kao što su na primjer vaze.
+
+3.	 Sve baterije/akumulatore treba
+odložiti zasebno od kućanskog
+otpada te pri tome treba koristiti
+odlagališta koja je odredila vlada ili
+lokalna uprava.
+
+(Mastered/ Live File System : Disk format sustav za
+Windows Vista)
+Uklanjanje starog aparata
+1.	 Ako se na proizvodu nalazi simbol
+prekrižene kante za smeće, to znači
+da je proizvod pokriven europskom
+direktivom 2002/96/EC.
+2.	 Električni i elektronski proizvodi
+ne smiju se odlagati zajedno s
+komunalnim otpadom, već u
+posebna odlagališta koja je odredila
+vlada ili lokalne vlasti.
+3.	 Pravilno odlaganje starog proizvoda
+sprečit če potencijalne negativne
+posljedice po okoliš i zdravlje ljudi.
+4.	 Podrobnije informacije o odlaganju
+starog proizvoda potražite u
+gradskom uredu, službi za odlaganje
+otpada ili u trgovini u kojoj ste kupili
+proizvod.
+
+2.	 Taj simbol može biti otisnut u
+kombinaciji s kemijskim simbolima
+za živu (Hg), Kadmij (Cd) ili olovo
+(Pb) ako baterija sadrži više od
+0,0005% žive, 0,002% kadmija ili
+0,004% olova.
+
+4.	 Ispravno odlaganje starih baterija/
+akumulatora doprinijet će
+sprječavanju negativnih posljedica
+po okoliš, zdravlje životinja i ljudi.
+5.	 Dodatne informacije o odlaganju
+starih baterija/akumulatora zatražite
+od gradske uprave, službe za
+zbrinjavanje otpada ili trgovine u
+kojoj ste proizvod kupili.
+
+Tvrtka LG Electronics izjavljuje da je/su
+ovaj/ovi proizvod(i) u skladu s osnovnim
+zahtjevima i drugim relevantnim
+odredbama Direktiva 2004/108/EZ,
+2006/95/EZ i 2009/125/EZ.
+Centar za europske standarde:
+Krijgsman 1, 1186 DM Amstelveen
+The Netherlands
+yy Imajte na umu kako se NE radi o
+mjestu za kontakt s Korisničkom
+službom. Za informacije o Korisničkoj
+službi pogledajte jamstveni list ili se
+obratite trgovcu od kojega ste kupili
+proizvod.
+
+1
+Početak
+
+Siguran način vađenja baterije iz uređaja:
+Izvadite staru bateriju, slijedite korake obrnutim
+redoslijedom u odnosu na stavljanje. Staru bateriju
+odložite u odgovarajući spremnik u određenim
+odlagalištima, kako bi spriječili zagađenje okoliša
+i moguće opasnosti za zdravlje ljudi i životonja.
+Baterije ne odlažite zajedno s drugim otpadom.
+Za baterije i akumulatore se preporučuje uporaba
+lokalnih sustava, bez plaćanja nadoknade. Baterija
+se ne smije izlagati prevelikoj temperaturi sunca,
+vatre i drugih izvora topline.
+
+Kada formatirate diskova na kojima se može
+ponovo snimati (rewritable), opciju za format diska
+morate postaviti na [Mastered] kako bi disk učinili
+kompatibilnim s LG player-ima. Kada postavljate
+opciju na Live File System, disk ne možete koristiti
+na LG player-ima.
+
+3
+
+4
+
+Sadržaj
+
+Sadržaj
+1	Početak
+
+3	 Postavke sustava
+
+2	
+Sigurnosne informacije
+6	
+Jedinstvene funkcije
+6	
+–  Ulaz za prijenosni uređaj
+6	
+–  Izravno snimanje na USB
+6	
+–  Skaliranje za puni HD
+6	
+Dodatna oprema
+7	Uvod
+7	
+–  Diskovi za reprodukciju
+7	 – O & simbolu na displeju
+7	
+–  Simboli korišteni u ovom priručniku
+7	
+–  Regionalni kodovi
+8	
+Zahtjevi u odnosu na datoteke za
+reprodukciju
+9	
+Daljinski upravljač
+10	 Prednja ploča
+11	 Zadnja ploča
+
+18	
+18	
+
+2	Spajanje
+12	
+13	
+13	
+13	
+14	
+14	
+14	
+15	
+16	
+16	
+16	
+16	
+17	
+17	
+
+Priključivanje zvučnika na uređaj
+Postavljanje sustava
+Priključivanje na vaš TV
+–  Priključivanje komponentnog videa
+–  Priključivanje videa
+–  Podešavanje rezolucije
+–  Rezolucija Video izlaza
+–  HDMI izlaz priključivanje
+Priključivanje dodatne opreme
+–  AUX IN priključivanje
+–  PORT IN(Portable in) priključivanje
+–  Slušanje glazbe s prijenosnog playera
+ili vanjskog uređaja
+–  Priključivanje USB-a
+–  Priključivanje antene
+
+Podešavanje postavki za podešavanje
+–  OSD podešavanje početnog jezika dodatna mogućnost
+18	 –  Za prikaz i izlazak iz izbornika Setup
+(Postavke)
+19	 –  Language (JEZIK)
+19	 –  Display (ZASLON)
+20	 –  Resolution (Rezolucija)
+20	 – Audio
+21	 –  DRC (Dynamic Range Control)
+21	 –  Lock (ZAKLJUČAVANJE) (Roditeljska
+kontrola)
+22	 –  Others (DRUGO)
+
+Sadržaj
+
+4	Rad
+
+5	 Otklanjanje teškoća
+
+23	
+23	
+24	
+24	
+24	
+24	
+24	
+24	
+25	
+
+32	 Otklanjanje teškoća
+
+25	
+25	
+26	
+27	
+28	
+28	
+28	
+28	
+28	
+28	
+29	
+29	
+29	
+29	
+29	
+29	
+29	
+30	
+30	
+31	
+31	
+
+Korištenje [Home Menu] izbornika
+Osnovne operacije
+Druge operacije
+–  Prikaz disk informacija na zaslonu
+–  Prikaz DVD izbornika
+–  Prikaz DVD naslova
+–  1,5 puta brzina reprodukcije DVD-a
+–  Zaštita ekrana
+–  Pokretanje reprodukciji od odabranog
+vremena
+–  Nastavljanje reprodukcije
+–  Mijenjanje stranice za titl kod
+–  Označena reprodukcija
+–  Prikaz PHOTO JPG datoteke
+–  Podešavanje samo-isključivanja
+– ZATAMNJENJE
+–  Privremeno isključivanje zvuka
+–  Memoriranje zadnje scene
+–  Odabir sustava - dodatna mogućnost
+–  Podešavanje postavki za glasnoću
+zvučnika
+Radio operacije
+–  Slušanje radija
+–  Memoriranje radio stanica
+–  Brisanje svih spremljenih stanica
+–  Brisanje spremljene stanice
+–  Poboljšanje lošeg FM prijema
+–  Gledanje informacija o radio stanici
+Podešavanje zvuka
+–  Postavljanje surround modusa
+Napredne operacije
+–  Snimanje na USB
+
+5
+
+6	Dodatak
+33	 Upravljanje TV-om pomoću
+33	 –  Podešavanje daljinskog za upravljanje
+s TV-om
+34	Održavanje
+34	 –  Rukovanje uređajem
+34	 –  Napomene o diskovima
+35	 Kodovi područja
+36	 Kodovi jezika
+37	 Robne marke i licence
+38	Specifikacija
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+6
+
+Početak
+
+Jedinstvene funkcije
+1
+
+Ulaz za prijenosni uređaj
+
+Dodatna oprema
+Molimo provjerite isporučenu opremu.
+
+Početak
+
+Slušanje glazbe s vašeg prijenosnog uređaja. (MP3,
+prijenosno računalo i sl.)
+
+Izravno snimanje na USB
+Snimanje glazbe s CD-a na vaš USB uređaj.
+
+Daljinski upravljač (1)
+
+baterija (1)
+
+FM antena (1)
+
+video kabel (1)
+
+Skaliranje za puni HD
+Prikaz slike pune HD kvalitete uz jednostavno
+podešavanje.
+
+Početak
+
+Uvod
+
+7
+
+Simboli korišteni u ovom
+priručniku
+
+Diskovi za reprodukciju
+
+DVD-VIDEO (8 cm/12 cm disk)
+Diskovi kao što su filmovi koji se
+mogu kupiti ili iznajmiti.
+DVD±R (8 cm / 12 cm disk)
+Samo Video modus i finalizirani.
+DVD-RW (8 cm / 12 cm disk)
+Samo Video modus i finalizirani.
+
+DVD+R: Samo Video
+modus. Takod-er podržava
+diskove s dva sloja.
+DVD+RW (8 cm / 12 cm disk)
+Samo Video modus.
+Audio CD: Glazbeni CD-i ili CD-R/
+CD-RW u glazbenom CD formatu
+koji se mogu kupiti.
+
+O & simbolu na displeju
+Tijekom rada se na TV-u može prikazati “ & ” simbol
+koji pokazuje da funkcija objašnjena u ovom
+priručniku za vlasnika nije moguća na tom disku.
+
+DVD-Video, DVD±R/RW u
+Video modusu ili VR modusu i
+finalizirani
+
+t
+
+Audio CDs
+
+y
+
+Filmske datoteke na USB-u/
+disku
+
+u
+
+Glazbene datoteke na USB-u/
+disku
+
+i
+
+Glazbene datoteke na USB-u/
+disku
+
+,,Napomena
+Ukazuje na posebne napomene i funkcije za rad.
+
+,,SAVJET
+Ukazuje na savjete i napomene za lakše izvršavanje
+zadaće.
+
+>>OPREZ
+Ukazuje na oprez u cilju sprečavanja mogućeg
+ozljeđivanja i oštećivanja.
+
+Regionalni kodovi
+Ovaj ured-aj ima regionalni kod otisnut na zadnjoj
+strani ured-aja. Ured-aj može reproducirati samo
+DVD diskove koji imaju isti regionalni kod ili “ALL”.
+yy Većina DVD diskova ima na omotnici vidljivi
+globus s jednim ili više brojeva unutar globusa.
+Taj broj mora odgovarati regionalnom kodu
+ured-aja ili se disk ne će moći reproducirati.
+yy Ako pokušate reproducirati DVD s različitim
+regionalnim kodom u odnosu na kod playar-a, na
+TV ekranu će se pojaviti poruka “Check Regional
+Code” (Provjeri regionalni kod).
+
+1
+Početak
+
+Ovaj ured-aj reproducira DVD±R/ RW i CD-R/ RW
+diskove koji sadrže audio naslove, DivX, MP3, WMA
+i/ ili JPEG datoteke. Neki DVD±RW/ DVD±R ili CDRW/ CD-R diskovi se ne mogu reproducirati na
+ovom ured-aju zbog kvalitete snimanja ili fizičkog
+stanja diska, ili karakteristika ured-aja za snimanje i
+softvera.
+
+r
+
+8
+
+1
+
+Početak
+
+Zahtjevi u odnosu
+na datoteke za
+reprodukciju
+
+Početak
+
+Zahtjevi u odnosu na MP3/ WMA
+glazbene datoteke
+Kompatibilnost MP3/ WMA diska s ovim playerom
+je ograničena na dolje prikazani način :
+yy Frekvencija uzorka : unutar 32 kHz do 48 kHz
+(MP3), unutar 32 kHz do 48kHz (WMA)
+yy Bit brzina : unutar 32 kbps do 320 kbps (MP3), 40
+kbps do 192kbps (WMA)
+yy Podržane verzije : v2, v7, v8, v9
+yy Najviše datoteka: Manje od 999.
+yy Ekstenzija datoteka : “.mp3”/ “.wma”
+yy Format CD-ROM datoteka: ISO9660/ JOLIET
+yy Preporučujemo upotrebu Easy-CD Creator, koji
+kreira ISO 9660 sustav datoteka.
+
+Zahtjevi u odnosu na DivX datoteku
+Kompatibilnost DivX diska s ovim player-om je
+ograničena prema sljedećem :
+yy Moguća veličina rezolucije : within 720x576 (Š x
+V) piksela
+yy Naziv datoteke za DivX titl treba biti manji od 45
+znakova.
+yy Ako u nazivu DivX datoteke postoji kod koji se ne
+može prikazati, on će se možda prikazati kao “ _ “
+znak na displeju.
+yy Brzina okvira: manje od 30 fps
+yy Ako video i audio struktura snimljenih datoteka
+nije interleaved, na izlazu će biti ili video ili audio
+signal.
+yy DivX datoteke koje se mogu reproducirati : “.avi “,
+“.mpg “, “.mpeg “, “.divx”
+yy Titl format koji se može reproducirati : SubRip(*.
+srt/*.txt), SAMI(*.smi), SubStation Alpha(*.ssa/*.
+txt), MicroDVD(*.sub/*.txt), SubViewer 2.0(*.sub/*.
+txt), Vobsub (*.sub)
+yy Kodek formati koji se mogu reproducirati :
+“DIVX3.xx”, “DIVX4.xx”, “DIVX5.xx”, “MP4V3”, “3IVX”.
+
+Zahtjevi u odnosu na foto datoteku
+
+yy Audio formati koji se mogu reproducirati : “AC3”,
+“PCM”, “MP3”, “WMA”.
+
+Kompatibilnost foto datoteka s ovim uređajem je
+ograničene prema sljedećem:
+
+yy Frekvencija uzorka : unutar 32 kHz do 48 kHz
+(MP3), unutar 32 kHz do 48kHz (WMA)
+
+yy Maksimalni broj piksela po dužini: 2760 x 2048
+piksela
+
+yy Bit brzina : unutar 32 kbps do 320 kbps (MP3), 40
+kbps do 192kbps (WMA)
+
+yy Najviše datoteka: Manje od 999.
+
+yy Diskovi formatirani u Live file sustavu se ne mogu
+reproducirati na ovom player-u.
+
+yy Neki diskovi možda neće raditi zbog različitog
+formata snimanja ili stanja samog diska.
+yy Ekstenzije datoteke : “.jpg”
+yy Format CD-ROM datoteka: ISO9660/ JOLIET
+
+yy Ako se naziv filmske datoteke razlikuje od naziva
+titl datoteke tijekom reprodukcije DivX datoteke,
+možda se neće prikazati titl.
+yy Ako reproducirate DivX datoteku koja se razlikuje
+od DivXspec, možda neće normalno raditi.
+
+Početak
+
+9
+
+Daljinski upravljač
+
+m INFO/DISPLAY: Otvara displej
+na ekranu.
+n HOME: Prikazuje [Home
+Menu].
+
+MUTE: Isključivanje zvuka.
+
+0 do 9 brojčane tipke : Odabiru
+brojčane opcije u izborniku.
+
+• • • • • • e •  •  •  •  •  •
+
+h REPEAT: Odabir načina
+reprodukcije. (Ponavljanje/
+Slučajan)
+CLEAR: Uklanja oznaku s
+označenog popisa ili broj kod
+postavljanja lozinke.
+
+b ENTER: Potvrd-uje odabir u
+izborniku.
+Memoriranje radio stanica.
+
+• • • • • • f •  •  •  •  •  •
+
+x BACK: Kretanje unazad u
+izborniku ili zatvaranje izbornika
+za podešavanje.
+
+RDS : Система за пренос на
+данни по радиото.
+
+TITLE: Ako trenutni DVD naslov
+ima izbornik, na ekranu će se
+pojaviti izbornik naslova. U
+protivnom se može pojaviti disk
+izbornik.
+• • • • • • c •  •  •  •  •  •
+Z STOP: Zaustavlja reprodukciju
+ili snimanje.
+
+P RADIO&INPUT: Mijenja izvor
+ulaza.
+
+d PLAY, MONO/STEREO: Pokreće
+reprodukciju. Odabire Mono/
+Stereo.
+
+MARKER: Označava popis za
+reprodukciju.
+
+M PAUSE/STEP: Pauziranje
+reprodukcije.
+
+1 POWER: Odabir funkcije i
+ulaznog izvora.
+
+C/V SKIP: Prijeœi na
+sljedeće ili prethodno poglavlje/
+snimku/ datoteku.
+
+B OPEN/CLOSE: Otevře nebo
+zavře nosič disku.
+
+VOL -/+ (Volume): Podešava
+glasnoću zvučnika.
+
+• • • • • • b •  •  •  •  •  •
+
+TUNING +/-: Bira željenu radio
+stanicu.
+
+• • • • • • a •  •  •  •  •  •
+
+SOUND EFFECT: Postavlja modus
+zvučnog efekta.
+
+DISC MENU: Otvara izbornik na
+DVD disku.
+
+PRESET +/-: Odabire program
+radija.
+
+Skinite poklopac baterije na
+stražnjoj strani daljinskog
+upravljača i umetnite jednu
+bateriju (veličine AAA) s pravilno
+umetnutim 4 i 5.
+
+SPEAKER LEVEL: Postavlja
+glasnoću za željeni zvučnik.
+
+X REC: USB izravno snimanje.
+
+W/S/A/D (gore/ dolje/ lijevo/
+desno): Koristi se za navigaciju
+kroz displej na ekranu.
+
+Instaliranje baterije
+
+• • • • • • d •  •  •  •  •  •
+
+c/v SCAN: Traženje nazad
+ili naprijed.
+
+Tipke za upravljanje TV-om:
+Pogledajte stranicu 33.
+
+PTY : Показва различни дисплеи
+на RDS.
+
+1
+Početak
+
+SLEEP: Podešava sistem da
+se automatski isključi nakon
+odred-enog vremena. (Dimmer
+(Prigušenje) : Prozor zaslona će se
+zatamniti za polovicu.)
+
+10
+
+Početak
+
+Prednja ploča
+1
+Početak
+
+1
+
+3
+
+2
+
+4
+
+a Ladica za DVD/CD
+b Prozor zaslona
+Prikazuje trenutno stanje uređaja.
+c PORT. IN (Portable in)
+Můžete si dopřávat přehrávání hudby z
+přenosného zařízení na vašem přístroji.
+
+5 6
+
+7 8
+
+9
+
+10
+
+f T (OTVORI/ZATVORI)
+Pokreće reprodukciju.
+Privremeno pauzira reprodukciju, ponovo
+pritisnite za izlazak iz stanja pauze.
+g I (Stop)
+Zaustavlja reprodukciju.
+
+d USB priključak
+Spajanjem USB uređaja s njega se mogu se
+reproducirati videozapisi te slikovne i zvukovne
+datoteke.
+
+h F (Funkce)
+
+e R (OTVORI/ZATVORI)
+Otvara ili zatvara pladanj za disk.
+
+j 1 (ELEKTRIČNO NAPAJANJE)
+Uključuje ili isključuje uređaj.
+
+	
+
+Zvolí funkci a zdroj vstupu.
+
+i VOL . (Hlasitost)
+Podešava glasnoću zvučnika.
+
+Početak
+
+11
+
+Zadnja ploča
+1
+2
+
+4
+
+3
+
+5
+a Strujni kabel
+b Terminal zvučnika
+c Priključak antene
+FM – služi za spajanje žičane FM antene
+d	Priključak VIDEO OUT
+- Služi za spajanjen s televizorom koji ima
+videoulaze
+e	Prikljkučak AUX(L/R) INPUT
+- Služi za spajanje vanjskog izvora s dvokanalnim
+audioizlazima
+
+Početak
+
+1
+
+6
+
+7
+
+f KOMPONENTNI VIDEOIZLAZ
+Služi za spajanje na televizor s Y PB PR ulazima.
+g Priključak HDMI OUT
+Služi za spajanje televizora s HDMI ulazima.
+(Sučelje za digitalni audio i videosadržaj)
+
+12
+
+Spajanje
+
+Priključivanje zvučnika
+na uređaj
+1.	 Za priključivanje žice na uređaj, pritisnite
+plastičnu pločicu kako bi otvorili priključak.
+Umetnite žicu i otpustite plastičnu pločicu.
+
+2
+Spajanje
+2.	 Spojite crnu traku svake žice na kleme označene
+s – (minus) a drugi kraj na kleme označene s +
+(plus).
+Zvučnik
+
+Položaj
+
+Nazad R
+
+Nazad desno
+
+Nazad L
+
+Nazad desno
+
+Sredina
+
+Sredina
+
+Subwoofer
+
+Bilo koji položaj
+naprijed
+
+Naprijed R
+
+Naprijed desno
+
+Naprijed L
+
+Naprijed lijevo
+
+>>OPREZ
+
+yy Pripazite da djeca ne guraju ruke ni
+predmete u *odvod zvučnika.
+*Odvod zvučnik : Rupa za bogatiju bas zvuk
+na sanduku zvučnika (u prilogu).
+yy Zvučnici sadrže magnetne dijelove, tako
+da se na TV zaslonu ili monitoru računala
+mogu pojaviti nepravilnosti u boji. Molimo,
+zvučnike postavite dalje od TV zaslona il
+računala.
+
+Spajanje
+
+Postavljanje sustava
+Sljedeća slika prikazuje primjer postavljanja sustava.
+Napominjemo da se slike u ovim uputama razlikuju
+od stvarnog uređaja u svrhu objašnjavanja. Za
+najbolji mogući surround zvuk, svi zvučnici izuzev
+subwoofera trebaju se postaviti na istu udaljenost u
+odnosu na mjesto slušanja ( ).
+
+A
+
+A
+
+A
+
+A
+
+D
+
+E
+
+A
+
+A ABCD E F G
+
+Prednji lijevi zvučnik (L)/ Prednji desni
+zvučnik (R): Prednje zvučnike postavite sa strane
+monitora ili ekrana i u što je više moguće u
+ravnini s površinom ekrana.
+Srednji zvučnik: Srednji zvučnik postavite iznda ili
+ispod monitora ili ekrana.
+Surround lijevi zvučnik (L)/ Surround desni
+zvučnik (R): Ove zvučnike postavite iza mjesta
+slušanja, okrenute malo prema unutra.
+Subwoofer: Položaj subwoofera nije toliko
+kritičan, zato jer niski bas tonovi nisu visoko
+usmjereni. Međutim, subwoofer je polje postaviti
+blizu prednjih zvučnika. Zvučnik zakrenite malo
+prema sredini sobe kako biste smanjili odbijanja
+od zidova.
+Uređaj
+
+Izvršite jedno od sljedećih priključivanja ovisno o
+mogućnostima vaše postojeće opreme.
+
+,,Napomena
+
+yy Ovisno o vašem TV-u i drugoj opremi koju
+želite priključiti, player možete priključiti
+na više načina. Koristite samo jedan od
+načina priključivanja koji su opisani u ovom
+priručniku.
+yy Molimo pogledajte priručnike za vaš TV,
+stereo sustav ili druge uređaje kako bi izvršili
+najbolja priključivanja.
+
+G
+F
+A
+
+Priključivanje na vaš
+TV
+
+>>OPREZ
+
+yy Pazite da player bude izravno priključen na
+TV. Podesite TV na pravilni kanal za video
+ulaz.
+yy Ne priključujte svoj player preko vašeg VCR.
+Slika se može izobličiti uslijed zaštite protiv
+kopiranja.
+
+Priključivanje komponentnog
+videa
+Priključite COMPONENT VIDEO OUTPUT priključke
+na uređaju na odgovarajuće ulazne priključke na
+TV-u pomoću komponentnih kablova.
+Preko zvučnika sustava možete čuti zvuk.
+
+2
+Spajanje
+
+B
+C
+
+13
+
+14
+
+Spajanje
+
+Priključivanje videa
+
+Podešavanje rezolucije
+
+Priključite VIDEO OUT priključak na uređaju na
+priključak za video ulaz na TV-u pomoću video
+kabla.
+
+Uređaj omogućuje nekoliko izlaznih rezolucija za
+HDMI OUT i COMPONENT VIDEO OUT priključke.
+Rezoluciju možete promijeniti pomoću [Setup]
+izbornika.
+
+Preko zvučnika sustava možete čuti zvuk.
+
+2
+
+1.	Pritisnite n HOME.
+2.	Koristite A/D za odabir [Setup], a zatim
+pritisnite b ENTER. Prikazuje se [Setup]
+izbornik.
+
+Spajanje
+3.	Koristite W/S za odabir [DISPLAY] opcije, a
+zatim pritisnite D za prijelaz na drugu razinu.
+4.	Koristite W/S za odabir [Resolution] opcije, a
+zatim pritisnite D za prijelaz na treću razinu.
+5.	Koristite W/S za odabir željene rezolucije,
+a zatim pritisnite b ENTER za potvrdu svog
+odabira.
+
+,,Napomena
+
+Ako vaš TV ne prihvaća rezoluciju koju ste
+postavili na playeru, rezoluciju možete postaviti
+na 480p (ili 576p) na sljedeći način:
+Pritisnite Z STOP dulje od 5 sekundi.
+
+Rezolucija Video izlaza
+Rezolucija prikazana na prozoru zaslona i rezolucija
+koja se prosljeđuje na izlaz se mogu razlikovati
+ovisno o vrsti priključivanja.
+[HDMI OUT]: 1080p, 1080i, 720p i 480p (ili 576p) i
+480i (ili 576i)
+[COMPONENT VIDEO OUT]: 480p (ili 576p) i 480i (ili
+576i)
+[VIDEO OUT]: 480i (ili 576i)
+
+Spajanje
+
+HDMI izlaz priključivanje
+Imate li HDMI TV ili monitor, možete ga priključiti na
+ovaj uređaj koristeći HDMI kabel(Tip A, Brzi HDMI™
+kabel).
+Priključite HDMI OUT priključak na uređaju na
+HDMI IN priključak na HDMI kompatibilnom TV-u ili
+monitoru.
+Postavite TV izvor na HDMI (Pogledajte TV priručnik
+za vlasnika)
+
+,,Napomena
+
+yy Ako priključeni HDMI uređaj ne prihvaća
+audio izlaz uređaja, audio zvuk s HDMI
+uređaja može biti izobličen ili ga možda
+neće biti.
+yy Kada priključite HDMI ili DVI kompatibilni
+uređaj pazite na sljedeće:
+	
+
+	
+
+- Je li video ulaz priključenog uređaja
+pravilno postavljen za ovaj uređaj.
+
+	
+
+- Priključeni uređaj je kompatibilan s
+720x480i (ili 576i), 720x480p (ili 576p),
+1280x720p,1920x1080i ili 1920x1080p
+video ulazom.
+
+	
+
+- Slika se neće pravilno prikazati s ne-HDCP
+uređajem.
+
+	
+
+-U
+ ređaj neće vršiti reprodukciju i TV zaslon
+će se zatamniti ili pozeleniti, ili se na
+zaslonu mogu pojaviti smetnje.
+
+yy Ako se na zaslonu javljaju smetnje ili linije,
+provjerite HDMI kabel (HDMI™ kabel velike
+brzine).
+
+yy Pomoću HDMI priključivanja možete u
+potpunosti zajedno reproducirati signale za
+digitalni video i audio.
+yy Kada koristite HDMI priključivanje, možete
+promijeniti rezoluciju za HDMI izlaz.
+(Pogledajte “Podešavanje rezolucije” na
+stranici 14.)
+
+>>OPREZ
+
+yy Mijenjanje rezolucije nakon što je već
+izvedeno priključivanja može imati za
+posljedicu nepravilnosti u radu. Problem
+ćete riješiti isključivanjem i ponovnim
+uključivanjem uređaja.
+yy Kada HDMI priključivanje s HDCP-om nije
+ovjereno, TV zaslon može potamniti ili
+pozeleniti, ili se na zaslonu mogu pojaviti
+smetnje. U tom slučaju, provjerite HDMI
+priključivanje ili iskopčajte HDMI kabel.
+
+2
+Spajanje
+
+- Pokušajte isključiti HDMI/DVI uređaj i ovaj
+uređaj. Zatim, uključite HDMI/DVI uređaj,
+pustite da prođe 30 sekundi, a zatim
+uključite ovaj uređaj.
+
+yy Svi HDCP-kompatibilni HDMI ili DVI uređaji
+neće raditi s ovim uređajem.
+
+,,SAVJET
+
+15
+
+16
+
+Spajanje
+
+Priključivanje dodatne
+opreme
+AUX IN priključivanje
+
+PORT IN(Portable in)
+priključivanje
+Spojite izlaz prijenosnog uređaja (MP3, PMP i
+drugo) na ulazni priključak PORT. IN (ULAZ ZA
+PRIJENOSNE UREĐAJE).
+
+Priključite izlaz dodatnog uređaja na konektor za
+AUX ulaz (L/R).
+
+2
+Spajanje
+
+MP3 player i slično
+
+Slušanje glazbe s prijenosnog
+playera ili vanjskog uređaja
+Uređaj se može koristiti za reprodukciju glazbe s
+brojnih vrsta prijenosnih playera ili vanjskih uređaj.
+1.	 Priključite prijenosni player na PORT.IN
+(PORTABLE IN) priključak na uređaju.
+Ili
+	
+
+priključite vanjski uređaj na AUX priključak na
+uređaju.
+
+2.	 Uključite uređaj pritiskom na 1 (POWER).
+3.	 Odaberite PORTABLE ili AUX funkciju pritiskom
+na P RADIO&INPUT.
+
+,,Napomena
+
+Ako televizor (pomoćni uređaj) ima samo
+jedan ulaz za zvuk (mono), spojite ga u lijevu
+(bijelu) audioutičnicu na uređaju.
+
+4.	Uključite prijenosni player ili vanjski uređaj i
+pokrenite reprodukciju.
+
+Spajanje
+
+Priključivanje USB-a
+Priključite USB priključak USB memorije (ili MP3
+playera i sl.) na USB priključak na prednjoj ploči
+uređaja.
+
+17
+
+ SB priključak na uređaju se ne može koristiti za
+yy U
+priključivanje na PC računalo. Uređaj se ne može
+koristiti za spremanje podataka.
+
+Priključivanje antene
+Priključite isporučenu FM antenu za slušanje radija.
+Priključite FM žičanu antenu na FM antenski
+priključak.
+
+2
+Spajanje
+
+Vađenje USB uređaja iz playera
+1.	 Odaberite neku drugu funkciju za rad uređaja ili
+pritisnite dva puta za redom Z STOP.
+2. 	Izvadite USB uređaj iz playera.
+
+Kompatibilni USB uređaji
+yy MP3 player: Flash vrsta MP3 playera
+yy USB Flash pogon: Uređaji koji podržavaju USB 2.0
+ili USB 1.1
+yy USB funkcija ovog uređaja ne podržava neke USB
+uređaje.
+
+Zahtjevi u odnosu na USB uređaj
+yy Ne podržavaju se uređaji koji zahtijevaju
+instaliranje dodatnog programa kada se priključe
+na računalo.
+yy Ne vadite USB uređaj tijekom njegovog rada.
+yy Za USB uređaje velikog kapaciteta, bit će
+potrebno više od nekoliko minuta za njihovo
+pretraživanje.
+yy Napravite sigurnosnu kopiju podataka kako ne bi
+izgubili podatke.
+ ko koristite produžni kabel za USB ili USB hub,
+yy A
+USB uređaj se možda neće moći prepoznati.
+ e podržava se upotreba NTFS sustava datoteka.
+yy N
+(Podržava se samo FAT (16/32) sustav datoteka.)
+yy Uređaj se ne podržava ako je ukupan broj
+datoteka 1 000 ili više.
+ e podržavaju se vanjski HDD, zaključani uređaji
+yy N
+ili vrsta tvrdih USB uređaja.
+
+,,Napomena
+
+Pazite da FM žičanu antenu raširite do kraja.
+Nakon priključivanja FM žičane antene, antenu
+držite vodoravno što je više moguće.
+
+18
+
+Postavke sustava
+
+Podešavanje postavki
+za podešavanje
+Pomoću izbornika za podešavanje (Setup), možete
+izvršiti razna podešavanja stavki kao što su slika i
+zvuk.
+Isto tako, između brojnih drugih stvari, možete
+postaviti jezik za titlove i izbornik za podešavanje.
+Za pojedinosti o svakoj stavci u izborniku za
+podešavanje, pogledajte stranice 18 to 22.
+
+3
+
+OSD podešavanje početnog
+jezika - dodatna mogućnost
+
+Postavke sustava
+
+Tijekom prve upotrebe uređaja, na TV ekranu će
+se pojaviti izbornik za početno podešavanje jezika.
+Prije upotrebe uređaja morate dovršiti odabir
+početnog jezika. U protivnom će se odabrati
+engleski kao početni jezik.
+1.	Pritisnite 1 (POWER) za uključivanje uređaja. Na
+zaslonu će se pojaviti izbornik za podešavanje
+jezika.
+
+Za prikaz i izlazak iz izbornika
+Setup (Postavke)
+1.	Pritisnite n HOME.
+Prikazuje [Home Menu].
+
+2.	 Odaberite [Setup] koristeći AD.
+3.	Pritisnite b ENTER.
+Prikazuje [Setup]
+4.	Pritisnite n HOME ili x BACK za izlaz iz
+[Setup] izbornika.
+O izborniku za pomoć za podešavanje
+Izbornik
+ws
+Move
+
+,,Napomena
+
+Ako su spojeni medijski uređaji (DISC/USB),
+možda se neće prikazati izbornik na izvornom
+jeziku, jer se mediji mogu automatski
+reproducirati ovisno o njihovom sadržaju.
+
+WS
+A
+
+Prijelaz na
+prethodnu razinu.
+
+d
+Move
+
+D
+
+Prijelaz na sljedeću
+razinu ili odabir
+izbornika.
+
+Close
+
+3.	Koristite AD za odabir [Enter], a zatim pritisnite
+b ENTER za završetak podešavanja jezika.
+
+Operacija
+Prijelaz u drugi
+izbornik.
+
+a
+Move
+
+x
+
+2.	Koristite WSAD za odabir jezika, a zatim
+pritisnite b ENTER.
+Otvara se izbornik za potvrdu.
+
+Tipke
+
+b
+Select
+
+x BACK
+b ENTER
+
+Zatvara [Setup]
+izbornika ili [5.1
+Speaker Setup].
+Otvara izbornik za
+potvrdu.
+
+Postavke sustava
+
+19
+
+Language (JEZIK)
+
+Display (ZASLON)
+
+Menu Language
+
+TV Aspect
+
+Odaberite jezik za Setup izbornik i displej na ekranu.
+
+Odabir izgleda ekrana koji će se koristiti na osnovu
+oblika ekrana vašeg TV-a.
+
+Disc Audio / Disc Subtitle / Disc
+Menu
+Odaberite svoj jezik za audio snimku (disk audio),
+titlovi i izbornik diska.
+[Original]
+Odnosi se na originalni jezik na kojem je disk
+snimljen.
+
+[4:3]
+Odaberite u slučaju kada je priključen
+standardni 4 : 3 TV.
+[16:9]
+Odaberite u slučaju kada je priključen 16 : 9
+široki TV.
+
+Display Mode
+
+Za odabir drugog jezika pritisnite numeričke
+tipke, a zatim unesite b ENTER za unos
+odgovarajućeg 4-znamenkastog broja u
+skladu s popisom kodova jezika na stranici 36.
+Ako unesete pogrešan kod za jezik, pritisnite
+CLEAR.
+
+Ako odaberete 4 : 3, bit će potrebno definirati način
+na koji želite prikazivati programe i filmove širokog
+ekrana na vašem TV-u.
+
+[Off (Za disk titl)]
+Isključuje titl.
+
+[Letterbox]
+Prikazuje široku sliku s pojasima na gornjem i
+donjem dijelu zaslona.
+[Panscan]
+Automatski prikazuje široku sliku na cijelom
+zaslonu i odsijeca dijelove slike koji se ne
+uklapaju. (Ako disk/datoteka nije kompatibilan
+s Pan Scan-om slika će se prikazivati u omjeru
+omotnice.)
+
+3
+Postavke sustava
+
+[Other]
+
+20 Postavke sustava
+
+Resolution (Rezolucija)
+Postavlja rezoluciju izlaza za Komponentni i HDMI
+video signal. Pogledajte „Podešavanje rezolucije“ za
+pojedinosti o rezoluciji (stranica 14).
+[Auto]
+Ako je HDMI OUT priključak priključen na TV
+koji pruža informaciju o zaslonu (EDID), tada
+se automatski odabire rezolucija koja najviše
+odgovara priključenom TV-u. Ako je priključen
+samo COMPONENT VIDEO OUT priključak,
+rezolucija se postavlja kao zadana 480i (ili 576i)
+rezolucija.
+
+3
+
+3.	Koristite AD za odabir željenog zvučnika.
+4.	 Opcije podesite koristeći WSAD tipke.
+5.	 Na prethodni izbornik se vraćate kada pritisnete
+x BACK.
+
+Postavke sustava
+
+[1080p]
+
+[Speaker]
+
+Prosljeđuje na izlaz 1080 linija progresivnog
+videa.
+
+Odaberite zvučnik koji želite podešavati.
+
+[1080i]
+Prosljeđuje na izlaz 1080 linija interlaced videa.
+
+,,Napomena
+
+Određene postavke za zvučnik je zabranila
+kompanija Dolby Digital u licenčnom
+ugovoru.
+
+[720p]
+Prosljeđuje na izlaz 720 linija progresivnog
+videa.
+[480p (ili 576p)]
+
+[Size]
+Budući da je postavka za zvučnik fiksirana,
+postavku ne možete mijenjati.
+
+Prosljeđuje na izlaz 480 (ili 576) linija
+progresivnog videa.
+
+[Volume]
+
+[480i (ili 576i)]
+
+[Distance]
+
+Prosljeđuje na izlaz 480 (ili 576) linija interlaced
+videa.
+
+Nakon što ste priključili zvučnike na vaš DVD
+Receiver, postavite udaljenost između zvučnika
+i vašeg mjesta slušanja ako je udaljenost
+srednjeg i zadnjih zvučnika veća od udaljenosti
+prednjih zvučnika. Tako se postiže da zvuk
+sa svakog zvučnika istovremeno stigne do
+slušatelja. Pritisnite AD za podešavanje
+udaljenosti odabranog zvučnika. Ova
+udaljenost je jednaka razlici udaljenosti između
+srednjeg i zadnjih zvučnika i prednjih zvučnika.
+
+Audio
+5.1 Speaker Setup (Podešavanje 5.1
+zvučnika)
+Izvršite sljedeće podešavanje za ugrađeni 5.1
+kanalni surround dekoder.
+1.	 Odaberite [5.1 Speaker Setup] u [Audio]
+izborniku.
+2.	Pritisnite b ENTER.
+Prikazuje se [5.1 SPEAKER].
+
+Prilagodite razinu glasnoće svih zvučnika.
+
+[Test]
+Odaberite [Speaker Test Start] koristeći WS,
+a zatim pritisnite b ENTER. Za stop ponovo
+pritisnite b ENTER. Podesite glasnoću
+i uskladite je s glasnoćom test signala
+memoriranih u sustavu.
+
+Postavke sustava
+
+DRC (Dynamic Range Control)
+Kada se zvuk smanji zvuk biva jasniji (Dolby Digital
+samo). Postavite [On] za ovaj efekt.
+
+HD AV Sync
+Digitalni TV ponekad može imati kašnjenja između
+slike i zvuka. Ukoliko se to dogodi, kašnjenje možete
+kompenzirati određujući postavku kašnjenja zvuka
+tako da zvuk ‘čeka’ dolazak slike: to se zove HD AV
+Sync. Koristite WS (na daljinskom upravljaču) za
+kretanje gore i dolje i odabir vrijednosti kašnjenja,
+koje možete postaviti od 0 do 300 ms.
+
+21
+
+Lock (ZAKLJUČAVANJE)
+(Roditeljska kontrola)
+Početno podešavanje koda zemlje
+Kada uređaj koristite po prvi put, potrebno je
+podesiti kod područja (Area Code).
+1.	 Odaberite [Lock] izbornik, a zatim pritisnite D.
+2.	Pritisnite D.
+Za pristup do [Lock] opcija, morate unijeti
+lozinku koju ste sami kreirali. Unesite lozinku i
+pritisnite b ENTER. Unesite ponovo lozinku,
+a zatim pritisnite b ENTER za potvrdu. Ako
+pogriješite prije pritiska b ENTER, pritisnite
+CLEAR.
+4.	Pritisnite b ENTER, a zatim odaberite drugi
+znak pomoću WS tipki.
+5.	Pritisnite b ENTER za potvrdu odabira koda
+područja.
+
+Rating (Ocjenjivanje)
+Blokira reprodukciju ocijenjenih DVD-a na osnovu
+njihovih sadržaja. Svi diskovi nisu ocijenjeni.
+1.	 Odaberite [Rating] u [Lock] izborniku, a zatim
+pritisnite D.
+2.	 Unesite lozinku i pritisnite b ENTER.
+3.	 Odaberite ocjenu od 1 do 8 koristeći WS
+tipke.
+[Rating 1-8]
+Ocjena (1) ima najveća ograničenja, a ocjena (8)
+ima najmanja ograničenja.
+[Unlock]
+Ako odaberete otključano, roditeljska kontrola
+neće biti aktivna, a disk će se reproducirati u
+cijelosti.
+4.	Pritisnite b ENTER za potvrdu odabrane
+ocjene.
+
+3
+Postavke sustava
+
+3.	 Odaberite prvi znak pomoću WS tipki.
+
+22 Postavke sustava
+
+Password (Lozinka)
+
+Others (DRUGO)
+
+Možete unijeti ili promijeniti lozinku.
+1.	 Odaberite [Password] u [Lock] izborniku, a zatim
+pritisnite D.
+2.	 Unesite lozinku i pritisnite b ENTER.
+	
+
+Za promjenu lozinke, pritisnite b ENTER kada
+je jače osvijetljena opcija [Change]. Unesite
+lozinku i pritisnite b ENTER. Ponovite unos i
+pritisnite b ENTER za potvrdu.
+
+3.	Pritisnite n HOME za zatvaranje izbornika.
+
+,,Napomena
+
+3
+
+Ako ste zaboravili lozinku, lozinku možete
+obrisati na sljedeći način:
+
+Postavke sustava
+
+1.	 Odaberite izbornik [Setup] na izborniku
+[Home Menu].
+2.	 Unesite 6-znamenkasti broj “210499” i
+pritisnite b ENTER . Lozinka je obrisana.
+
+DivX VOD
+O DIVX VIDEU: DivX® je digitalni video format koji je
+kreirao DivX, LLC, podružnica Rovi Corporation. Ovo
+je službeni DivX Certified® uređaj koji reproducira
+DivX video. Za više informacija i softverskih alata za
+prebacivanje vaših datoteka u DivX video, posjetite
+divx.com.
+O DIVX VIDEU NA ZATHJEV: Ovaj DivX Certified®
+uređaj se mora registrirati kako bi mogao
+reproducirati kupljene DivX video na zahtjev
+(Video on Demand (VOD)) filmove. Za dobivanje
+registracijskog koda, potražite DivX VOD odjeljak u
+izborniku za podešavanje vašeg uređaja. Posjetite
+vod.divx. com za više informacija o tome kako
+dovršiti svoju registraciju.
+[Register]
+Prikazuje registracijski kod vašeg playera.
+
+Area Code
+Unesite kod područja čije se standardi koriste za
+ocjenjivanje DVD video diska, na osnovu popisa na
+stranici 35.
+1.	 Odaberite [Area Code] u [Lock] izborniku, a
+zatim pritisnite D.
+2.	 Unesite lozinku i pritisnite b ENTER.
+3.	 Odaberite prvi znaka pomoću WS tipki.
+4.	Pritisnite b ENTER i odaberite drugi znak
+pomoću WS tipki.
+5.	Pritisnite b ENTER za potvrdu odabira koda
+područja.
+
+[Deregister]
+Deaktivira vaš player i prikazuje kod za
+deaktiviranje.
+
+,,Napomena
+
+Svi video sadržaji preuzeti s DivX VOD-a
+koristeći registracijski kod ovog playera, mogu
+se reproducirati samo na ovom uređaju.
+
+Rad 23
+
+Korištenje [Home
+Menu] izbornika
+1.	Pritisnite n HOME.
+Prikazuje [Home Menu].
+
+Za
+Stop
+
+Pritisnite d PLAY, MONO/
+STEREO.
+
+Pauza
+
+Pritisnite M PAUSE/STEP.
+
+2.	 Odaberite opciju koristeći AD.
+
+[Music]: Prikazuje [MUSIC] izbornik.
+[Movie]: Pokreće reprodukciju vide s medija ili
+prikazuje [MOVIE] izbornik.
+[Photo]: Prikazuje [PHOTO] izbornik.
+[Setup]: Prikazuje [Setup] izbornik.
+
+Kada USB nije priključen ili kad nije umetnut
+disk ne možete odabrati [Music], [Movie] ili
+[Photo] opciju.
+
+Osnovne operacije
+1.	 Umetnite disk koristeći B OPEN/CLOSE ili
+priključite USB uređaj na USB priključak.
+2.	Pritisnite n HOME.
+Prikazuje [Home Menu].
+3.	 Odaberite opciju koristeći AD.
+Ako odaberete [Movie], [Photo] ili [Music] opciju
+kada je priključen USB uređaj, a istovremeno je
+umetnut i disk, prikazat će se izbornik za odabir
+medija. daberite medij, a zatim pritisnite b
+ENTER.
+
+4.	Pritisnite b ENTER, a zatim odabrani izbornik s
+opcijama.
+
+,,Napomena
+
+yy Za većinu Audio CD-a i DVD-ROM diskova,
+reprodukcija započinje automatski.
+yy Uređaj automatski reproducira samo
+glazbene datoteke na USB uređaju za
+pohranu ili disku.
+
+Preskakanje
+na sljedeće/
+prethodno
+poglavlje/
+snimku/
+datoteku.
+Brzo odredite
+točku
+reprodukcijom
+datoteke
+ubrzano
+naprijed ili
+ubrzano nazad.
+
+Ponavljana ili
+nasumična
+reprodukcija
+
+Pritisnite više puta M PAUSE/
+STEP. za reprodukciju naslova
+okvir-po-okvir. (samo DVD,
+DivX)
+Tijekom reprodukcije pritisnite
+C/ V SKIP za prelazak
+na sljedeće poglavlje/snimku
+ili za povratak na početak
+trenutnog poglavlja/snimke.
+Pritisnite dvaput kratko C
+SKIP za povratak na prethodno
+poglavlje/snimku.
+Tijekom reprodukcije pritisnite
+više puta c/v SCAN
+za odabir potrebne brzine
+traženja. Za povratak na
+normalnu brzinu, pritisnite d
+PLAY, MONO/STEREO.
+Pritisnite više puta h
+REPEAT i trenutno poglavlje
+ili snimka će se reproducirati
+ponavljano ili nasumično.
+- DVD : Chapter/ Title/ Off
+- DivX : Title/ All/ Off
+- Audio CD/ MP3/ WMA : Track/
+All/ Random/ Off
+
+Usporavanje
+brzine
+reprodukcije
+
+U modusu pauze, pritisnite
+SLOW (c ili v) za odabir
+potrebne brzine. (samo DVD,
+DivX) DivX datoteka se ne
+može usporiti kod reprodukcije
+unazad.
+
+4
+Rad
+
+,,Napomena
+
+Pritisnite Z STOP.
+
+Reprodukcija
+
+Reprodukcija
+okvir-po-okvir
+
+3.	Pritisnite b ENTER, a zatim odabrani izbornik s
+opcijama.
+
+Učinite
+
+24 Rad
+
+Druge operacije
+Prikaz disk informacija na
+zaslonu
+Na zaslonu možete prikazati razne informacije o
+umetnutom disku.
+1.	Pritisnite m INFO/DISPLAY za prikaz raznih
+informacija o reprodukciji.
+Prikazane stavke se razlikuju ovisno o vrsti diska
+ili stanju reprodukcije.
+2.	 Stavku možete odabrati pritiskom na WS
+promijeniti ili odabrati postavku pritiskom na
+AD.
+
+4
+
+Prikaz DVD izbornika
+r
+Kada reproducirate DVD koji sadrži više izbornika,
+željeni izbornik možete otvoriti koristeći Menu.
+1.	Pritisnite DISC MENU.
+Prikazuje se informacija o disku.
+2.	 Odaberite izbornik koristeći WSAD.
+3.	Pritisnite d PLAY, MONO/STEREO za potvrdu.
+
+Prikaz DVD naslova
+r
+Kada reproducirate DVD koji sadrži više naslova,
+željeni naslov možete odabrati koristeći Menu.
+
+Naslov – broj trenutnog naslova / ukupan broj
+naslova.
+
+1.	Pritisnite TITLE.
+Prikazuje se naslov diska.
+
+Poglavlje – Broj trenutnog poglavlja/ ukupan broj
+poglavlja.
+
+2.	 Odaberite izbornik koristeći WSAD.
+
+Vrijeme – Proteklo vrijeme reprodukcije.
+
+Rad
+
+Audio – Odabrani audio jezik ili kanal.
+Titl – Odabrani titl.
+Kut – Odabrani kut/ ukupan broj kutova.
+
+,,Napomena
+
+Ako se tijekom nekoliko sekundi ne pritisne
+tipka, prikaz na zaslonu će se zatvoriti.
+
+3.	Pritisnite d PLAY, MONO/STEREO za potvrdu.
+
+1,5 puta brzina reprodukcije
+DVD-a
+r
+Brzina 1,5 vam omogućuje gledanje slike i slušanje
+zvuka brže nego kod normalne reprodukcije.
+1.	 Tijekom reprodukcije pritisnite d PLAY, MONO/
+STEREO za reprodukciju 1,5 puta većom
+brzinom. Na zaslonu se prikazuje “dx1.5”.
+2.	 Ponovo pritisnite d PLAY, MONO/STEREO za
+zatvaranje.
+
+Zaštita ekrana
+Zaštita ekrana se pojavljuje kada ured-aj ostavite u
+Stop modusu duže od pet minuta.
+
+Rad 25
+
+Pokretanje reprodukciji od
+odabranog vremena
+ry
+Pokretanje reprodukcije u bilo kom odabranom
+vremenu na datoteci ili naslovu.
+1.	Pritisnite m INFO/DISPLAY tijekom
+reprodukcije.
+2.	Pritisnite WS za odabir ikone sata i prikazat će
+se “--:--:--”.
+3.	 Unesite potrebno vrijeme početka u satima,
+minutama i sekundama s lijeva na desno. Ako
+unesete pogrešne brojke, pritisnite CLEAR za
+brisanje unesenih brojki. Zatim unesite točne
+brojke. Na primjer, za pronalaženje scene u 1 sat,
+10 minuta i 20 sekundi, unesite “11020” koristeći
+brojčane tipke.
+
+Mijenjanje stranice za titl kod
+y
+
+Ako se titl ne prikazuje pravilno, možete promijeniti
+stranicu za titl kod kako bi se titl pravilno prikazivao.
+1.	 Tijekom reprodukcije pritisnite
+m INFO/DISPLAY za prikaz prikaza na-zaslonu.
+2.	Koristite WS za odabir [Code Page] opcije.
+3.	Koristite AD za odabir željene kod opcije.
+4.	Pritisnite x BACK za zatvaranje prikaza nazaslonu.
+
+4.	Pritisnite b ENTER za potvrdu. Reprodukcija
+kreće od postavljenog vremena.
+
+ryut
+Uređaj memorira mjesto na kojem ste pritisnuli
+Z STOP ovisno o disku. Ako se na zaslonu kratko
+prikaže ”MZ (Resume Stop)”, pritisnite d PLAY,
+MONO/STEREO za nastavak reprodukcije (od
+mjesta scene).
+Ako pritisnete dva puta Z STOP ili izvadite disk, na
+zaslonu se prikazuje Z (Complete Stop). Uređaj će
+obrisati mjesto zaustavljanja.
+
+,,Napomena
+
+Mjesto nastavljanja se može obrisati kada se
+pritisne tipka (na primjer; 1 (POWER), R
+OPEN/CLOSE i sl.).
+
+4
+Rad
+
+Nastavljanje reprodukcije
+
+26 Rad
+
+Označena reprodukcija
+ut
+
+Funkcija označavanja vam omogućuje spremanje
+omiljenih datoteka s bilo kojeg diska ili USB uređaj
+u memoriju uređaja.
+1.	 Odaberite [Music] na izborniku [Home Menu].
+Povratak u prethodnu mapu.
+(samo MP3/ WMA)
+Informacija o datoteci će se prikazati
+prema ID3TAG informaciji na
+odgovarajućoj glazbenoj datoteci.
+(samo MP3)
+
+4
+Rad
+
+Odabiranje svih snimki/datoteka.
+Poništenje odabiranja svih snimki/datoteka.
+Prelazak na prethodni ili
+sljedeći popis datoteka.
+2.	 Odaberite željenu glazbu u [List] koristeći WS, a
+zatim pritisnite MARKER kako bi se oznaka pojavila
+na popisu.
+3.	Pritisnite b ENTER ili d PLAY, MONO/STEREO.
+Prikazuje modus reprodukcije.
+4.	 Odaberite modus reprodukcije koristeći
+WS i pritisnite b ENTER.
+
+[Mark Play]
+Označena reprodukcija.
+[Current Play]
+Normalna reprodukcija.
+
+,,Napomena
+
+Ako želite odabrati sve datoteke na popisu,
+odaberite [Select All], a zatim pritisnite b
+ENTER.
+
+Brisanje oznake
+1.	Koristite WS za odabir snimke koju želite obrisati
+s označene datoteke.
+2.	Pritisnite MARKER.
+
+Brisanje svih oznaka
+Koristite WSAD za odabir [Deselect All], a
+zatim pritisnite b ENTER u modusu uređivanja
+programa.
+
+,,Napomena
+
+Oznake se isto tako brišu kada se disk ili USB
+uređaj izvade iz uređaja, kada se uređaj isključi
+ili kada se promijeni funkcija rada uređaja.
+
+Rad 27
+
+Prikaz PHOTO JPG datoteke
+
+O izbornik za pomoć na punom zaslonu
+Izbornik
+
+i
+
+Prelazak na prethodni ili
+sljedeći popis datoteka.
+
+Operacija
+Prikaz izbornika s
+opcijama.
+
+Menu
+
+m
+INFO/
+DISPLAY
+
+a/d
+Prev./ Next
+
+A/D
+
+Prelazak na drugu
+datoteku.
+
+x BACK
+
+Povratak u [Photo]
+izbornik.
+
+Uređaj može reproducirati diskove s foto
+datotekama.
+1.	 Odaberite [Photo] na izborniku [Home Menu] i
+pritisnite b ENTER.
+
+Tipke
+
+x
+List
+
+Opcije tijekom prikazivanja
+fotografije
+Tijekom prikazivanja fotografije na punom zaslonu
+možete koristiti razne opcije.
+1.	 Tijekom prikazivanja fotografije na punom
+zaslonu, pritisnite m INFO/DISPLAY prikaz
+izbornika s opcijama.
+
+Povratak u prethodnu
+mapu.
+
+2.	 Odaberite opciju koristeći WSAD.
+
+Rad
+
+2.	Pritisnite WS za odabir mape, a zatim pritisnite
+b ENTER.
+3.	 Želite li gledati slide prikaz, pritisnite WS
+za osvjetljenje datoteke i pritisnite d PLAY,
+MONO/STEREO.
+O izbornik za pomoć u [Photo] izborniku
+Izbornik
+
+Tipke
+
+d Slide
+Show
+
+d
+PLAY, MONO/
+STEREO
+
+wsad
+Move
+
+WSAD
+
+Prelazak na drugu
+datoteku ili sadržaj.
+
+b
+Select
+
+b ENTER
+
+Prikazivanje
+određene datoteke.
+
+x
+Close
+
+x BACK
+
+Vraćanje na [Home
+Menu].
+
+a
+
+Operacija
+Prikazivanje slide
+prikaza.
+
+4
+
+	
+
+b	 c	
+
+d	e
+
+a Trenutna slika/ukupan broj slika. –
+Koristite AD za prikaz prethodne/sljedeće
+fotografije.
+b Slide Show z/M– Pritisnite b ENTER za
+pokretanje ili pauziranje slide prikaza.
+c Speed x3/ x2/ x1 – Koristite b ENTER za
+odabir brzine kašnjenja između fotografija u
+slide prikazu.
+d Rotate – Pritisnite b ENTER za okretanje
+fotografije.
+e Go to list – Pritisnite b ENTER za povratak u
+[Photo] izbornik.
+
+28 Rad
+
+Podešavanje samoisključivanja
+
+Odabir sustava - dodatna
+mogućnost
+
+Pritisnite jednom ili više puta SLEEP za odabir
+vremena čekanja od 10 do 180 minuta, nakon kojeg
+će se uređaj sam isključiti.
+
+Morate odabrati odgovarajući režim sustava za vaš
+TV sustav. Pritisnite i držite M PAUSE/STEP dulje
+od pet sekundi da biste mogli odabrati sustav na
+izborniku [Home Menu].
+
+Za provjeru preostalog vremena, pritisnite SLEEP.
+Za poništenje funkcije samo-isključivanja, funkcije,
+pritisnite više puta SLEEP sve dok se ne pojavi
+“SLEEP 10”, a zatim pritisnite još jednom SLEEP kada
+je prikazano “SLEEP 10”.
+
+,,Napomena
+
+Preostalo vrijeme možete provjeriti prije nego
+se uređaj isključi.
+Pritisnite SLEEP, i u prozoru zaslona će se
+prikazati preostalo vrijeme.
+
+,,Napomena
+
+Funkcija neće raditi ako je priključen USB
+uređaj ili je umetnut disk.
+
+Podešavanje postavki za
+glasnoću zvučnika
+Podešavati možete glasnoću svakog zvučnika.
+1.	 Pritisnite više puta SPEAKER LEVEL za odabir
+zvučnika koji želite podešavati.
+
+4
+
+ZATAMNJENJE
+
+Rad
+
+Pritisnite jedanput SLEEP. Prozor zaslona će se
+zatamniti za polovicu. Za poništenje te funkcije,
+više puta pritisnite SLEEP, sve dok se prigušenje ne
+isključi.
+
+Privremeno isključivanje zvuka
+Pritisnite
+
+MUTE za isključenje zvuka.
+
+Na uređaju možete isključiti ton (mute) kako bi, na
+primjer, odgovorili na telefonski poziv, na prozoru
+zaslona će se prikazati „MUTE“.
+
+Memoriranje zadnje scene
+r
+Ured-aj memorira zadnju scenu na zadnjem
+gledanom disku. Zadnja scena ostaje u memoriji
+čak i kada izvadite disk iz player-a ili kad isključite
+(Stand-by mode) ured-aj. Ako umetnete disk
+čija je zadnja scena memorirana, ta će se scena
+automatski pozvati iz memorije.
+
+2.	Pritisnite VOL -/+ za podešavanje glasnoće
+odabranog zvučnika, kada je izbornik za
+podešavanje glasnoće prikazan na prozoru
+zaslona.
+3.	 Ponovite i podesite glasnoću drugih zvučnika.
+
+Rad 29
+
+Radio operacije
+Pazite da su priključene FM antene. (Pogledajte
+stranicu 17)
+
+Slušanje radija
+1.	Pritisnite P RADIO&INPUT sve dok se FM ne
+prikažu na prozoru zaslona.
+Bira se zadnja primljena stanica.
+2.	 Pritisnite i držite TUNING (-/+) otprilike dvije
+sekunde, sve dok se ne počne mijenjati
+pokazatelj frekvencije, zatim otpustite tipku.
+Pretraživanje se zaustavlja kada uređaj pronađe
+stanice.
+Ili
+	
+
+Pritisnite više puta TUNING (-/+).
+
+3.	 Podesite glasnoću okretanjem VOL. na prednjoj
+ploči ili višekratnim pritiskanjem VOL (-/+) na
+daljinskom upravljaču.
+
+Memorirati (preset) možete 50 stanica za FM.
+Prije biranja stanica, pazite da smanjite glasnoću.
+1.	Pritisnite P RADIO&INPUT sve dok se FM ne
+prikažu na prozoru zaslona.
+2.	 Odaberite željenu frekvenciju pritiskom na
+TUNING (-/+).
+3.	Pritisnite b ENTER i memorirani (preset) broj
+će treptati na prozoru zaslona.
+4.	Pritisnite PRESET (-/+) za odabir željenog broja
+memorije.
+5.	Pritisnite b ENTER
+Stanica je spremljena.
+6.	 Ponovite korake 2 do 5 za spremanje drugih
+stanica.
+
+Brisanje svih spremljenih
+stanica
+1.	 Pritisnite i držite CLEAR dvije sekunde.
+U prozoru displeja trepti “ERASE ALL”.
+2.	Pritisnite CLEAR za brisanje svih spremljenih
+stanica.
+
+1.	Pritisnite PRESET (-/+) za odabir željenog broja
+memorije (preset) za brisanje.
+2.	Pritisnite CLEAR, u prozoru zaslona će treptati
+broj memorije (preset).
+3.	 Pritisnite ponovo CLEAR za brisanje odabranog
+broja memorije.
+
+Poboljšanje lošeg FM prijema
+Pritisnite d PLAY, MONO/STEREO na daljinskom
+upravljaču. Time će prijemnik prijeći iz stereo
+prijema u mono prijem što obično poboljšava
+prijem signala.
+
+Gledanje informacija o radio
+stanici
+FM prijemnik se isporučuje s Radio Data System
+(Sustav radio podataka) (RDS) funkcijom. RDS
+prikazuje informacije o radio stanici koju trenutno
+slušate. Pritisnite nekoliko puta RDS da pogledate
+informaciju.
+PS 	(Programme Service Name (Naziv
+usluge programa))
+Na displeju se prikazuje naziv kanala.
+PTY 	(Programme Type Recognition
+(Prepoznavanje vrste programa))
+Na displeju se prikazuje vrsta programa
+(na pr. Jazz ili Vijesti) .
+RT 	(Radio Text (Radio tekst))
+Tekstualna poruka koja sadrži posebne
+informacije emitirane radio stanice. Tekst
+može prelaziti preko ekrana.
+CT 	(Vrijeme koje kontrolira kanal)
+Prikazuje datum i vrijeme emitirane
+radio stanice.
+Radio stanice možete tražiti prema vrsti programa
+pritiskom na RDS. Na displeju će se prikazati zadnje
+korišteni PTY. Pritisnite PTY jednom ili više puta
+kako biste odabrali željenu vrstu programa. Pritisnite
+AD. Prijemnik će automatski tražiti stanice. Kada se
+stanica pronaœe traženje se zaustavlja.
+
+4
+Rad
+
+Memoriranje radio stanica
+
+Brisanje spremljene stanice
+
+30 Rad
+
+Podešavanje zvuka
+
+,,Napomena
+
+Postavljanje surround modusa
+
+yy U nekim surround modusima, neki zvučnici
+neće imati zvuka ili će zvuk biti slab, što ovisi
+o modusu surrounda i audio izvora, to nije
+greška.
+
+Sustav ima brojna prije postavljena surround
+zvučna polja. Pomoću SOUND EFFECT možete
+odabrati željeni modus zvuka.
+
+yy Možda ćete trebati resetirati surround
+modus, nakon prebacivanja ulaza, ponekad
+čak i kad se promijeni glazbena snimka.
+
+SOUND EFFECT možete promijeniti pomoću AD
+tipke strelice kada je prikazana SOUND EFFECT
+informacija.
+Prikazane stavke za ekvolizator se mogu razlikovati
+ovisno o izvorima zvuka i efektima.
+NA DISPLEJU
+
+Opis
+
+NAT PLUS
+
+NAT PLUS označava zvučni
+efekt Natural Plus. Možete
+slušati prirodni zvučni efekt isti
+kao i kod sustava 5.1 kanala.
+(Volitelné)
+
+NATURAL
+
+Uživati možete u prirodnom
+zvuku. (Volitelné)
+
+4
+Rad
+
+POP
+CLASSIC
+JAZZ
+ROCK
+BASS
+LOUDNESS
+BYPASS
+
+Program koji stvara
+entuzijastičnu atmosferu
+zvuka, stvarajući osjećaj da se
+nalazite na pravom rock, pop,
+jazz ili klasičnom koncertu.
+Tijekom reprodukcije pojačava
+visoke tonove, bas i surround
+zvučni efekt.
+Poboljšava visoke tonove.
+Možete slušati zvuk bez efekta
+evolizatora.
+
+Rad
+
+Napredne operacije
+Snimanje na USB
+Glazbu ili izvor zvuka možete snimati na USB uređaj
+ako USB priključite na uređaj.
+1.	 Priključite USB uređaj na uređaj.
+2.	 Odaberite modus u kojem želite snimati. Prvo
+pokrenite reprodukciju izvora zvuka.
+3.	 Pokrenite snimanje pritiskom na X REC.
+4.	 Za prekidanje snimanja pritisnite Z STOP.
+[All tracks/ files recording]
+Snimanje na USB u stop ili reprodukcija
+modusu.
+[Program list recording]
+
+Datoteka će se spremiti na sljedeći način.
+
+Audio CD
+
+,,Napomena
+
+yy Tijekom USB snimanja možete provjeriti
+postotak snimljenog materijala na ekranu.
+(Samo Audio CD-i ili MP3/ WMA CD-i.)
+yy Tijekom MP3/ WMA snimanje nema zvuka.
+yy Kada tijekom snimanja zaustavite
+reprodukciju, spremit će se datoteka koja
+je snimljena do tog trenutka (samo AUDIO
+CD).
+yy Ne vadite USB i ne isključujte uređaj tijekom
+USB snimanja. U protivnom možete snimiti
+nepotpunu datoteku.
+yy Ako USB snimanje ne radi, na zaslonu će
+se prikazati poruka “NO USB”, “ERROR”, “USB
+FULL” ili “NO REC”.
+yy Čitač više kartica ili vanjski HDD se ne mogu
+koristiti za USB snimanje.
+yy Datoteka se snima uz 128 MB (približno
+2 sata) kada snimate duže razdoblje.
+Snimljeno je manje od 4 datoteke.
+yy Ako tijekom reprodukcije zaustavite
+snimanje, eka se neće spremiti.
+yy U slučaju CD-G disk, USB snimanje neće
+raditi.
+yy Datoteke u pod-mapama se ne snimaju
+tijekom snimanja svih snimaka.
+yy Snimiti možete najviše 999 datoteka.
+
+MP3/ WMA
+
+Drugi izvori
+(Prijemnik,
+AUX, prijenosni
+uređaj)
+
+ dređivanje broja snimljene datoteke kreće
+yy O
+od najnižeg broja. Prema tome, ako obrišete
+neke snimljene datoteke, sljedeća snimljena
+datoteka može imati najmanji broj među
+njima.
+Proizvodnja neovlaštenih kopija materijala koji su
+zaštićeni autorskim pravima, uključujući računalne
+programe, datoteke, emitirani program i snimljeni
+zvuk može biti kršenje autorskih prava i predstavlja
+kažnjivo djelo. Ova se oprema ne smije koristiti u te
+svrhe.Budite odgovorni prema autorskim pravima.
+Budite odgovorni
+Poštujte autorska prava
+
+4
+Rad
+
+Nakon označavanje željene datoteke(a), te
+datoteke možete snimiti na USB (Pogledajte
+stranicu 26).
+
+31
+
+32 Otklanjanje teškoća
+
+Otklanjanje teškoća
+PROBLEM
+Nema električnog napajanja.
+Nema slike.
+
+ISPRAVAK
+Dobro ukopčajte utikač električnog kabela u utičnicu.
+Odaberite odgovarajući modus video ulaza na TV-u kako bi se slika s
+DVD Receiver-a prikazala na TV ekranu.
+Dobro priključite video kablove na TV i DVD Receiver.
+
+Zvuk je slab ili ga nema.
+
+Odaberite pravilan modus za ulaz audio receiver-a kako biste mogli
+čuti zvuk s DVD receiver-a.
+Dobro priključite audio kablove u priključke.
+Zamijenite stari kabel novim audio kabelom.
+
+DVD slika je loše kvalitete.
+
+Očistite disk mekanom krpom iznutra prema van.
+Umetnite disk.
+
+DVD/ CD se neće reproducirati.
+
+Umetnite disk koji se može reproducirati (provjerite vrstu diska,
+sustav boja i regionalni kod).
+Postavite pravilno disk s naljepnicom ili natpisom gore.
+Unesite svoju lozinku ili promijenite veličinu ocjene.
+
+Tijekom reprodukcije DVD-a ili CD-a Očistite disk mekanom krpom iznutra prema van.
+se čuju smetnje.
+Stavite DVD receiver i audio komponente dalje od TV-a.
+
+5
+
+Provjerite antenski priključak i podesite položaj antene.
+
+Otklanjanje teškoća
+
+Radio se ne može pravilno ugoditi.
+
+Postavite vanjsku antenu ako je potrebno.
+Ručno podesite stanicu.
+Memorirajte (preset) neke stanice, pogledajte stranicu 29 za detalje.
+Daljinski nije usmjeren izravno prema uređaju.
+Usmjerite daljinski prema ured-aju.
+Daljinski upravljač je predaleko u odnosu na uređaj.
+
+Daljinski upravljač ne radi dobro/
+nikako.
+
+Koristite daljinski najviše 7m od DVD receiver-a.
+Izmed-u daljinskog i ured-aja postoji prepreka.
+Uklonite prepreku.
+U daljinskom upravljaču se koristi plosnata baterija.
+Zamijenite stare baterije novim baterijama.
+
+Dodatak 33
+
+Upravljanje TV-om
+pomoću
+TV možete kontrolirati pomoću dolje navedenih
+tipki.
+
+Podešavanje daljinskog za
+upravljanje s TV-om
+Pomoću isporučenog daljinskog upravljača možete
+upravljati s vašim TV-om.
+Ako je vaš TV na donjem popisu, postavite
+odgovarajući kod proizvođača.
+1.	 Kada držite pritisnutu tipku 1 (TV POWER),
+i kada unesete proizvođački kod za vaš TV
+pomoću brojčanih tipki (pogledajte tablicu
+dolje).
+Proizvođač
+
+Kodni broj
+
+LG
+
+1(Zadano), 2
+
+Pritiskom na
+tipku
+
+Vi možete
+
+Zenith
+
+1, 3, 4
+
+1 (TV POWER)
+
+Uključuje i isključuje TV.
+
+GoldStar
+
+1, 2
+
+Mijenja ulazni izvor za
+TV između TV-a i drugih
+ulaznih izvora.
+
+Samsung
+
+6, 7
+
+AV/INPUT
+
+Sony
+
+8, 9
+
+Prelazi gore ili dolje kroz
+memorirane kanale.
+
+Hitachi
+
+4
+
+PR/CH W/S
+VOL +/–
+
+Podešava glasnoću na TV-u.
+
+,,Napomena
+
+Ovisno o priključenom uređaju, možda
+pomoću nekih tipki nećete moći upravljati s
+TV-om.
+
+2.	Otpustite 1 (TV POWER) tipku za dovršetak
+podešavanja.
+Ovisno o vašem TV-u, neke ili sve tipke neće
+raditi na TV-u, čak i kada unesete ispravan kod
+proizvođača. Kada mijenjate baterije na daljinskom
+upravljaču, kodni broj koji ste postavili se može
+resetirati na default postavku. Ponovno postavite
+odgovarajući kodni broj.
+
+6
+Dodatak
+
+34 Dodatak
+
+Održavanje
+Rukovanje uređajem
+Transportiranje uređaja
+Molimo sačuvajte originalnu ambalažu uređaja
+i materijal za pakiranje. Ako uređaj trebate
+transportirati, za najbolju zaštitu, upakirajte uređaj
+na način kako je bio originalno tvornički upakiran.
+
+Rukovanje diskovima
+Ne dirajte stranu diska koja služi za reprodukciju.
+Držite disk za rubove kako na površini diska ne bi
+ostavili otiske prstiju. Nikada ne lijepite na disk papir
+ili trake.
+
+Spremanje diskova
+
+yy Ne koristite zapaljive tekućine kao insekticid sprej
+u blizini uređaja.
+
+Nakon reprodukcije, disk spremite u njegovu
+kutiju. Disk ne izlažite izravnim sunčevim zrakama
+ili izvorima topline i nikada ne ostavljate disk u
+automobilu koji je izložen izravnim sunčevim
+zrakama.
+
+yy Brisanje s jakim pritiskanjem može oštetiti
+površinu.
+
+Čišćenje diskova
+
+Čišćenje vanjskih površina
+
+yy Ne ostavljajte gumene ili plastične proizvode
+duže vrijeme u dodiru s uređajem.
+
+Čišćenje uređaja
+Za čišćenje uređaja koristite meku i suhu krpu. Ako
+je površina izrazito prljava, koristite meku krpu
+lagano navlaženu blagom otopinom deterdženta.
+Ne koristite jaka otapala kao što su alkohol, benzin,
+razrjeđivač, jer bi tako mogli oštetiti površinu
+uređaja.
+
+Održavanje uređaja
+
+6
+
+Napomene o diskovima
+
+Dodatak
+
+Uređaj je precizni proizvod visoke tehnologije.
+Ako dođe do prljanja optičke leće ili dijelova disk
+pogona, može se smanjiti kvaliteta slike. Za detalje
+molimo, kontaktirajte najbliži ovlašteni servisni
+centar.
+
+Otisci prstiju i prašina na disku mogu prouzrokovati
+lošu kvalitetu slike i izobličenje zvuka. Prije
+reprodukcije disk očistite čistom krpom. Disk brišite
+od sredine prema vanjskom rubu.
+Ne koristite jaka otapala kao što je alkohol, benzin,
+razrjeđivač, tržišno dostupna sredstva za čišćenje
+ili anti-statični sprej koji se koriste za stare ploče od
+vinila.
+
+Dodatak 35
+
+Kodovi područja
+Odaberite kod područja s popisa.
+Područje	Kod Područje	Kod Područje	Kod Područje	Kod
+Afganistan 	
+
+AF Fidži 	
+
+FJ Monako 	
+
+MC Singapur 	
+
+SG
+
+Argentina 	
+
+AR Finska 	
+
+FI Mongolija 	
+
+MN Slovačka Republika 	 SK
+
+Australija 	
+
+AU Francuska 	
+
+FR Maroko 	
+
+MA Slovenija 	
+
+Austrija 	
+
+AT Njemačka 	
+
+DE Nepal 	
+
+NP Južna Afrika 	
+
+ZA
+
+Belgija 	
+
+BE Velika Britanija 	
+
+GB Nizozemska 	
+
+NL Južna Koreja 	
+
+KR
+
+Butan 	
+
+BT Grčka 	
+
+GR Nizozemski Antili 	
+
+AN Španjolska 	
+
+ES
+
+Bolivija 	
+
+BO Grenland 	
+
+GL Novi Zeland 	
+
+NZ Sri Lanka 	
+
+LK
+
+SI
+
+Brazil 	
+
+BR Hong Kong 	
+
+HK Nigerija 	
+
+NG Švedska 	
+
+SE
+
+Kambodža 	
+
+KH Mad-arska 	
+
+HU Norveška 	
+
+NO Švicarska 	
+
+CH
+
+Kanada 	
+
+CA Indija 	
+
+IN Oman 	
+
+OM Tajvan 	
+
+TW
+
+CL Indonezija 	
+
+ID Pakistan 	
+
+PK Tajland 	
+
+TH
+
+Čile 	
+Kina 	
+
+CN Izrael 	
+
+IL Panama 	
+
+PA Turska 	
+
+TR
+
+Kolumbija 	
+
+CO Italija 	
+
+IT Paragvaj 	
+
+PY Uganda 	
+
+UG
+
+Kongo 	
+
+CG Jamajka 	
+
+JM Filipini 	
+
+PH Ukrajina 	
+
+UA
+
+Kostarika 	
+
+CR Japan 	
+
+JP Poljska 	
+
+PL Sjedinjene Države 	
+
+US
+
+Hrvatska 	
+
+HR Kenija 	
+
+KE Portugal 	
+
+PT Urugvaj 	
+
+UY
+
+RO Uzbekistan 	
+
+UZ
+
+CZ Kuvajt 	
+
+Danska 	
+
+DK Libija 	
+
+LY Ruska Federacija 	
+
+RU Vijetnam 	
+
+VN
+
+Ekvador 	
+
+EC Luksemburg 	
+
+LU Saudijska Arabija 	
+
+SA Zimbabve 	
+
+ZW
+
+Egipat 	
+
+EG Malezija 	
+
+MY Senegal 	
+
+SN
+
+El Salvador 	
+
+SV Maldivi 	
+
+MV
+
+6
+
+Etiopija 	
+
+ET Meksiko 	
+
+MX
+
+Dodatak
+
+KW Rumunjska 	
+
+Češka Republika 	
+
+36 Dodatak
+
+Kodovi jezika
+Poslužite se ovim popisom za unos željenog jezika za sljedeća početna podešavanja : Disk audio, Disk titl, Disk
+izbornik.
+Jezik	Kod
+
+Jezik	Kod
+
+Jezik	Kod
+
+Jezik	Kod
+
+Afarski 	
+
+6565
+
+Francuski 	
+
+7082
+
+Litvanski 	
+
+7684
+
+Sindi 	
+
+8368
+
+Afrikaanski 	
+
+6570
+
+Frizijski 	
+
+7089
+
+Makedonski 	
+
+7775
+
+Singaleski 	
+
+8373
+
+Albanski 	
+
+8381
+
+Galicijski 	
+
+7176
+
+Malagaški 	
+
+7771
+
+Slovački 	
+
+8375
+
+Ameharski 	
+
+6577
+
+Gruzijski 	
+
+7565
+
+Malajski 	
+
+7783
+
+Slovenski 	
+
+8376
+
+Arapski 	
+
+6582
+
+Njemački 	
+
+6869
+
+Malajalaski 	
+
+7776
+
+Španjolski 	
+
+6983
+
+Armenski 	
+
+7289
+
+Grčki 	
+
+6976
+
+Maorski 	
+
+7773
+
+Sudanski 	
+
+8385
+
+Asameški 	
+
+6583
+
+Grenlandski 	
+
+7576
+
+Maratski 	
+
+7782
+
+Svahili 	
+
+8387
+
+Ajmarski 	
+
+6588
+
+Guaranski 	
+
+7178
+
+Moldavski 	
+
+7779
+
+Švedski 	
+
+8386
+
+Azerbejdžanski 	
+
+6590
+
+Gudžaratski 	
+
+7185
+
+Mongolski 	
+
+7778
+
+Tagaloski 	
+
+8476
+
+Baškirski 	
+
+6665
+
+Hauski 	
+
+7265
+
+Naurski	7865
+
+Tadžikijski 	
+
+8471
+
+Baski 	
+
+6985
+
+Hebrejski 	
+
+7387
+
+Nepalski 	
+
+7869
+
+Tamilski 	
+
+8465
+
+Bengalski, Bangla 	 6678
+
+Hindi 	
+
+7273
+
+Norveški 	
+
+7879
+
+Teluški 	
+
+8469
+
+Butanski 	
+
+6890
+
+Mad-arski 	
+
+7285
+
+Orijski 	
+
+7982
+
+Tajski 	
+
+8472
+
+Biharski 	
+
+6672
+
+Islandski 	
+
+7383
+
+Pandžabi 	
+
+8065
+
+Tonga 	
+
+8479
+
+Bretonski 	
+
+6682
+
+Indonezijski 	
+
+7378
+
+Paštu, Pušto 	
+
+8083
+
+Turski 	
+
+8482
+
+Bugarski 	
+
+6671
+
+Interlingua 	
+
+7365
+
+Perzijski 	
+
+7065
+
+Turkmenski 	
+
+8475
+
+Burmski 	
+
+7789
+
+Irski 	
+
+7165
+
+Poljski 	
+
+8076
+
+Tviski 	
+
+8487
+
+Bjeloruski 	
+
+6669
+
+Talijanski 	
+
+7384
+
+Portugalski 	
+
+8084
+
+Ukrajinski 	
+
+8575
+
+Kineski 	
+
+9072
+
+Japanski 	
+
+7465
+
+Kečuanski 	
+
+8185
+
+Urdski 	
+
+8582
+
+6
+
+Hrvatski 	
+
+7282
+
+Kanadski 	
+
+7578
+
+Reto-romanski 	
+
+8277
+
+Uzbeški 	
+
+8590
+
+Dodatak
+
+Češki 	
+
+6783
+
+Kašmirski 	
+
+7583
+
+Rumunjski 	
+
+8279
+
+Vijetnamski 	
+
+8673
+
+Danski 	
+
+6865
+
+Kazački 	
+
+7575
+
+Ruski 	
+
+8285
+
+Volapski 	
+
+8679
+
+Nizozemski 	
+
+7876
+
+Kirgijski 	
+
+7589
+
+Samoanski 	
+
+8377
+
+Velški 	
+
+6789
+
+Engleski 	
+
+6978
+
+Korejski 	
+
+7579
+
+Sanskrit 	
+
+8365
+
+Volofski 	
+
+8779
+
+Esperanto 	
+
+6979
+
+Kurdski 	
+
+7585
+
+Škotsko galski 	
+
+7168
+
+Ksosaški 	
+
+8872
+7473
+
+Estonski 	
+
+6984
+
+Laotski 	
+
+7679
+
+Srpski 	
+
+8382
+
+Jidiš 	
+
+Faroaski 	
+
+7079
+
+Latinski 	
+
+7665
+
+Srpsko-hrvatski 	
+
+8372
+
+Jorupski 	
+
+8979
+
+Fidžijski 	
+
+7074
+
+Latvijski, Letonski 	 7686
+
+Šonski 	
+
+8378
+
+Zulu 	
+
+9085
+
+Finski 	
+
+7073
+
+Lingalski 	
+
+7678
+
+Dodatak 37
+
+Robne marke i licence
+Proizvedeno prema licenci Dolby Laboratories.
+Dolby i dvostruki-D simbol su robne marke
+vlasništvo Dolby Laboratories.
+
+HDMI, HDMI logotip i High-Definition Multimedia
+Interface su robne marke ili registrirane robne
+marke u vlasništvu HDMI licencirajući LLC.
+
+“DVD Logo” je robna marka u vlasništvu DVD
+Format/Logo Licensing Corporation.
+
+DivX®, DivX Certified® i pridruženi logotipi su
+robne marke u vlasništvo Rovi Corporation
+ili njenih podružnica, te je njihova upotreba
+obuhvaćena licencom.
+
+Zaštita autorskih prava
+Zakonom je zabranjeno kopiranje, emitiranje,
+prikazivanje, kabelsko emitiranje, reprodukcija u
+javnosti, ili iznajmljivanje bez dopuštenja materijala
+koji su zaštićeni autorskim pravima. Ovaj proizvod
+sadrži tehnologiju za zaštitu autorskih prava koja je
+zaštićena patentima SAD-a i drugima pravima na
+intelektualno vlasništvo. Upotrebu tih tehnologija za
+zaštitu autorskih prava mora odobriti Macrovision
+Corporation, i može se koristiti samo za kućnu
+upotrebu i druge ograničene načine gledanja, osim
+ako to tvrtka Macrovision Corporation nije drugačije
+odobrila. Zabranjeno je rastavljanje uređaja i
+otkrivanje obrnutog redoslijeda proizvodnje.
+KORISNICI TREBAJU ZNATI DA NISU SVI TELEVIZORI
+VISOKE REZOLUCIJE POTPUNO KOMPATIBILNI
+S OVIM PROIZVODOM I MOŽE DOĆI DO
+PRIKAZIVANJA SMETNJI NA SLICI. U SLUČAJU
+PROBLEMA S 525 ILI 625 PROGRESSIVE SCAN
+SLIKOM KORISNIKU SE PREPORUČUJE DA PROMIJENI
+PRIKLJUČIVANJE NA IZLAZ ZA ‘STANDARD
+DEFINITION’ (STANDARDNA REZOLUCIJA). U
+SLUČAJU PITANJA U VEZI SKOMPATIBILNOŠĆU
+NAŠEG TV URE-DAJA S OVIM MODELOM 525p I
+625p URE-DAJEM, MOLIMO KONTAKTIRAJTE NAŠ
+KORISNIČKI SERVISNI CENTAR.
+
+6
+Dodatak
+
+38 Dodatak
+
+Specifikacija
+Općenito
+Potrebno električno napajanje
+
+Viz štítek na přístroji.
+
+Potrošnja električne energije
+
+Viz štítek na přístroji.
+
+Dimenzije (Š x V x D)
+
+360 x 60 x 316 mm
+
+Neto težina (Približno)
+
+2,5 kg
+
+Radna temperatura
+
+41 °F do 95 °F (5 °C do 35 °C)
+
+Radna vlažnost
+
+5 % do 90 %
+
+Napajanje za bus (USB)
+
+DC 5 V 0 500 mA
+
+Ulazi/Izlazi
+VIDEO OUT
+
+1,0 V (p-p), 75 Ω, sync negativna, RCA priključak x 1
+
+COMPONENT VIDEO OUT
+
+(Y) 1,0 V (p-p), 75 Ω, sync negativna, RCA priključak x 1, (Pb)/(Pr) 0.7 V
+(p-p), 75 Ω, RCA priključak x 2
+
+HDMI OUT (video/audio)
+
+19 iglica (Tip A, HDMI™ Connector )
+
+ANALOG AUDIO IN
+
+2,0 Vrms (1 kHz, 0 dB), 600 Ω, RCA priključak (L, R) x 1
+
+PORT. IN
+
+0,5 Vrms (3.5 mm stereo priključak)
+
+Pojačalo
+Stereo mode
+
+Surround mode
+
+6
+
+42 W + 42 W (3 Ω na 1kHz)
+Front
+
+42 W x 2 (3 Ω na 1 kHz)
+
+Center
+
+42 W (3 Ω na 1 kHz)
+
+Surround
+
+42 W x 2 (3 Ω na 1 kHz)
+
+Subwoofer
+
+120 W (4 Ω na 80 Hz)
+
+Dodatak
+
+Prijemnik
+FM područje prijema
+
+87,5 do 108,0 MHz ili 87,50 do 108,00 MHz
+
+Dodatak 39
+
+Prednji zvučnik (Levý/Pravý)
+Vrsta
+
+1 kanala 1 zvučnika
+
+Impedancija
+
+3Ω
+
+Ulazna snaga
+
+42 W
+
+Najveća ulazna snaga
+
+84 W
+
+Neto dimenzije (Š x V x D)
+
+111 x 111 x 94 mm
+
+Neto težina
+
+0,48 kg
+
+Rear Speaker (Levý/Pravý)
+Vrsta
+
+1 kanala 1 zvučnika
+
+Impedancija
+
+3Ω
+
+Ulazna snaga
+
+42 W
+
+Najveća ulazna snaga
+
+84 W
+
+Neto dimenzije (Š x V x D)
+
+111 x 111 x 94 mm
+
+Neto težina
+
+0,48 kg
+
+Srednji zvučnik
+Vrsta
+
+1 kanala 1 zvučnika
+
+Impedancija
+
+3Ω
+
+Ulazna snaga
+
+42 W
+
+Najveća ulazna snaga
+
+84 W
+
+Neto dimenzije (Š x V x D)
+
+111 x 111 x 94 mm
+
+Neto težina
+
+0,48 kg
+
+6
+
+Subwoofer
+1 kanala 1 zvučnika
+
+Impedancija
+
+4Ω
+
+Ulazna snaga
+
+120 W
+
+Najveća ulazna snaga
+
+240 W
+
+Neto dimenzije (Š x V x D)
+
+156 x 325 x 320 mm
+
+Neto težina
+
+3,05 kg
+
+Izvedba i specifikacije su podložni promjenama bez prethodnog obavješćivanja.
+
+Dodatak
+
+Vrsta

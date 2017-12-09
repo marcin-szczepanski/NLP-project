@@ -1,0 +1,204 @@
+KORISNIČKI PRIRUČNIK
+
+SADRŽAJ
+Sadržaj
+
+2
+
+Uvod
+
+3
+
+Prvi koraci
+
+4
+
+Dijelovi senzora brzine
+
+4
+
+Ugradnja senzora brzine
+
+4
+
+Uparivanje
+
+5
+
+Važne informacije
+
+6
+
+Njega i održavanje
+
+6
+
+Baterija
+
+6
+
+Često postavljana pitanja
+
+6
+
+Tehnički podaci
+
+7
+
+2
+
+UVOD
+Polar senzor brzine predviđen je za mjerenje brzine i udaljenosti za vrijeme vožnje bicikla. Senzor je
+kompatibilan s Bluetooth® Smart Ready uređajima koji podržavaju Bluetooth® uslugu mjerenja brzine vožnje
+bicikla.
+Senzor možete koristiti s mnogo vodećih aplikacija za vježbanje te Polar proizvoda koristeći Bluetooth®
+Smart. Kompatibilne proizvode možete potražiti na www.polar.com/support.
+
+Registrirajte Polar proizvod na http://register.polar.fi kako bismo mogli nastaviti unaprjeđivati svoje proizvode
+i usluge i bolje zadovoljavati vaše potrebe.
+Najnoviju verziju ovog korisničkog priručnika možete preuzeti na www.polar.com/support.
+
+3
+
+PRVI KORACI
+DIJELOVI SENZORA BRZINE
+1. Senzor brzine (slike 1 A i 2 A)
+2. Magnet za žbice (slika 2 B)
+Slika 1.
+
+Slika 2.
+
+UGRADNJA SENZORA BRZINE
+
+4
+
+Za ugradnju senzora brzine i magneta za žbice, trebaju vam kliješta za sječenje i križni odvijač.
+1. Preporučuje se da senzor brzine ugradite na prednju vilicu bicikla (kao na slici 1 A).
+2. Pričvrstite gumeni dio na senzor (slika 3).
+Slika 3.
+
+3. Provucite vezice kabela iznad senzora brzine i gumenog dijela (slika 2 A). Prilagodite senzor na
+prednjoj vilici tako da logotip POLAR gleda prema van. Labavo prilagodite vrpce. Nemojte ih još
+potpuno stegnuti.
+4. Postavite magnet na žbicu u istoj razini sa senzorom brzine (slika 2). Na stražnjoj strani senzora
+postoji mala izdubljena točka (slika 3 A), koja označava mjesto prema kojem magnet mora biti
+usmjeren kada prolazi pored senzora. Pričvrstite magnet za žbicu i lagano ga stegnite pomoću
+odvijača. Nemojte ga još potpuno stegnuti.
+5. Prilagodite položaj magneta i senzora brzine tako da magnet prolazi blizu senzora bez dodirivanja
+(slika 2). Pomaknite senzor prema kotaču/žbicama što je bliže moguće. Razmak između senzora i
+magneta mora biti manji od 4 mm/0,16’ inča. Razmak je ispravan ako možete gurnuti kabelsku vezicu
+između magneta i senzora.
+6. Zavrtite prednji kotač i provjerite rad senzora brzine. Trepćuće crveno svjetlo na senzoru označava da
+su magnet i senzor pravilno postavljeni. Ako nastavite okretati gumu, svjetlo će prestati treptati.
+Stegnite vijak za magnet pomoću odvijača. Čvrsto stegnite i vezice kabela i odrežite viškove.
+Prije početka vožnje bicikla, namjestite veličinu kotača vašeg bicikla na uređaju za prijem ili u mobilnoj
+aplikaciji.
+
+UPARIVANJE
+Vaš novi senzor mora se upariti s uređajem za prijem kako bi mogao primati podatke. Dodatne informacije
+potražite u korisničkom vodiču uređaja za prijem ili mobilne aplikacije.
+Dobru vezu između senzora i uređaja za prijem osigurat ćete tako da zadržite uređaj na nosaču za bicikl
+na upravljaču.
+
+5
+
+VAŽNE INFORMACIJE
+NJEGA I ODRŽAVANJE
+Održavajte čistoću senzora. Očistite ga u blagoj otopini vode i sapuna i isperite čistom vodom. Pažljivo ih
+osušite mekim ručnikom. Nikada ne koristite alkohol ili drugi abrazivni materijal poput čelične vune ili
+kemijskih sredstava za čišćenje. Ne uranjajte senzor u vodu.
+Vaša sigurnost nam je važna. Pazite se da se upravljač može normalno okretati i da se kabeli kočnica ili
+mjenjača ne uhvate u nosač za bicikl ili senzor. Također, pazite da senzor ne ometa okretanje pedala te
+korištenje kočnica ili mjenjača brzina. Dok vozite bicikl, gledajte cestu da ne dođe nezgoda i ozljeda.
+Izbjegavajte jake udarce jer oni mogu oštetiti senzor.
+Kompleti zamjenskih magneta kupuju se posebno.
+
+BATERIJA
+Baterija se ne može zamijeniti. Senzor je zabrtvljen kako bi se maksimalno povećala mehanička dugotrajnost
+i pouzdanost. Ako želite kupiti novi senzor, obratite se ovlaštenom Polar servisnom centru ili prodajnom
+zastupniku. Senzore možete kupiti i preko interneta. Idite na adresu www.polar.com kako biste pronašli
+internetsku Polar trgovinu za vašu zemlju.
+Napunjenost baterije vašeg senzora prikazuje se na uređaju za prijem ako on podržava Bluetooth® baterijski
+rad.
+Da bi se produžio životni vijek baterije, senzor ulazi u način mirovanja nakon trideset minuta poslije prestanka
+vožnje bicikla ili posljednjeg prolaska magneta pored senzora.
+
+ČESTO POSTAVLJANA PITANJA
+Što učiniti ako...
+...je očitana brzina 0 ili se za vrijeme vožnje bicikla ne očitava brzina?
+l
+
+l
+
+l
+
+l
+
+l
+
+Uvjerite se da su položaj i udaljenost senzora na magnetu pravilni.
+Provjerite jeste li aktivirali funkciju brzine na uređaju za prijem. Dodatne informacije potražite u vodiču
+uređaja za prijem ili mobilne aplikacije.
+Uređaj za prijem pokušajte držati na nosaču za bicikl na upravljaču. Tako ćete poboljšati vezu.
+Ako se očitanje 0 pojavljuje neredovito, razlog mogu biti elektromagnetske smetnje u vašoj trenutnoj
+okolini.
+Ako je očitanje 0 stalno, baterija je možda prazna.
+
+...se vrijednosti brzine, udaljenosti ili brzine otkucaja srca očitavaju neredovito?
+
+6
+
+l
+
+Smetnje se mogu pojaviti u blizini mikrovalnih pećnica i računala. Također, bazne jedinice za WLAN
+mogu prouzročiti smetnje za vrijeme vježbanja s Polar senzorom brzine. Da izbjegnete pogrešno
+očitanje ili neodgovarajuće ponašanje, udaljite se od mogućih izvora smetnji.
+
+... želim upariti senzor s uređajem za prijem prije ugradnje?
+l
+
+Pratite upute u korisničkom vodiču uređaja za prijem ili mobilne aplikacije. Umjesto okretanja
+osovine/kotača, aktivirajte senzor pomicanjem naprijed-natrag blizu magneta. Trepćuće crveno svjetlo
+označava da je aktiviran senzor.
+
+Kako ću znati...
+... da senzor šalje podatke na uređaj za prijem?
+l
+
+Kada započnete vožnju biciklom, trepćuće crveno svjetlo označava da je senzor aktivan i da šalje
+signal o brzini. Ako nastavite voziti bicikl, svjetlo će prestati treptati.
+
+TEHNIČKI PODACI
+Radna temperatura:
+
+-10 ºC do +50 ºC/+14 ºF do +122 ºF
+
+Životni vijek baterije:
+
+Prosječno 1400 sati uporabe
+
+Točnost:
+
+±1 %
+
+Materijal:
+
+Termoplastični polimer
+
+Vodonepropusnost:
+
+Otpornost na prskanje
+
+FCC ID: INWY6
+ID senzora brzine Bluetooth QD: B021136
+Copyright © 2015 Polar Electro Oy, FI-90440 KEMPELE. Sva prava pridržana. Zabranjena je uporaba ili
+umnožavanje ovog priručnika bez pisanog odobrenja tvrtke Polar Electro Oy. Nazivi i logotipi sa simbolom ™
+u ovom korisničkom priručniku ili u pakiranju ovog proizvoda su registrirani trgovački znakovi tvrtke Polar
+Electro Oy. Nazivi i logotipovi sa simbolom ® u ovom korisničkom priručniku ili u pakiranju ovog proizvoda su
+registrirani trgovački znakovi tvrtke Polar Electro Oy. Znak Bluetooth® i pripadajući logotipovi su registrirani
+trgovački znakovi u vlasništvu tvrtke Bluetooth SIG, Inc i svaka upotreba tih znakova od strane tvrtke Polar
+Electro Oy je u okviru licence.
+
+1.0 HR 06/2015.
+
+7

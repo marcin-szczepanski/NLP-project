@@ -1,0 +1,1241 @@
+For more information on how to use e-Manual (P. 13)
+Figures and illustrations in this User Manual are provided for reference only and may differ from actual product appearance.
+Product design and specifications may be changed without notice.
+
+Important Warranty Information Regarding Television Format Viewing
+1.	 Functionalities related to Digital TV (DVB) are only available in countries/areas where DVB-T (MPEG2 and MPEG4 AVC) digital terrestrial
+signals are broadcasted or where you are able to access to a compatible DVB-C (MPEG2 and MPEG4 AAC) cable-TV service. Please check
+with your local dealer the possibility to receive DVB-T or DVB-C signal.
+2.	 DVB-T is the DVB European consortium standard for the broadcast transmission of digital terrestrial television and DVB-C is that for the broadcast
+transmission of digital TV over cable. However, some differentiated features like EPG (Electric Programme Guide), VOD (Video On Demand) and so
+on, are not included in this specification. So, they cannot be workable at this moment.
+3.	 Although this TV set meets the latest DVB-T and DVB-C standards, as of [August, 2008], the compatibility with future DVB-T digital terrestrial
+and DVB-C digital cable broadcasts cannot be guaranteed.
+4.	 Depending on the countries/areas where this TV set is used some cable-TV providers may charge an additional fee for such a service and
+you may be required to agree to terms and conditions of their business.
+5.	 Some Digital TV functions might be unavailable in some countries or regions and DVB-C might not work correctly with some cable service
+providers.
+6.	 For more information, please contact your local Samsung customer care centre.
+
+✎✎ The reception quality of TV may be affected due to differences in broadcasting method between the countries. Please check the TV
+
+performance in the local SAMSUNG Authorized Dealer, or the Samsung Call Centre whether it can be improved by reconfiguring TV
+setting or not.
+
+Still image warning
+Avoid displaying still images (like jpeg picture files) or still image element (like TV programme logo, panorama or 4:3 image format, stock or news
+bar at screen bottom etc.) on the screen. Constant displaying of still picture can cause ghosting of LED screen, which will affect image quality. To
+reduce risk of this effect, please follow below recommendations:
+•	 Avoid displaying the same TV channel for long periods.
+•	 Always try do display any image on full screen, use TV set picture format menu for best possible match.
+•	 Reduce brightness and contrast values to minimum required to achieve desired picture quality, exceeded values may speed up the burnout
+process.
+•	 Frequently use all TV features designed to reduce image retention and screen burnout, refer to proper user manual section for details.
+
+Securing the Installation Space
+Keep the required distances between the product and other objects (e.g. walls) to ensure proper ventilation.
+Failing to do so may result in fire or a problem with the product due to an increase in the internal temperature of the product.
+
+✎✎ When using a stand or wall-mount, use parts provided by Samsung Electronics only.
+
+•	 If you use parts provided by another manufacturer, it may result in a problem with the product or an injury due to the product falling.
+
+✎✎ The appearance may differ depending on the product.
+✎✎ Be careful when you contact the TV because some parts can be somewhat hot.
+Installation with a stand.
+
+Installation with a wall-mount.
+
+10 cm
+10 cm
+
+10 cm
+10 cm
+
+10 cm
+
+10 cm
+
+10 cm
+Correct Disposal of This Product (Waste Electrical & Electronic Equipment)
+(Applicable in the European Union and other European countries with separate collection systems)
+This marking on the product, accessories or literature indicates that the product and its electronic accessories (e.g. charger, headset,
+USB cable) should not be disposed of with other household waste at the end of their working life. To prevent possible harm to
+the environment or human health from uncontrolled waste disposal, please separate these items from other types of waste and
+recycle them responsibly to promote the sustainable reuse of material resources. Household users should contact either the retailer
+where they purchased this product, or their local government office, for details of where and how they can take these items for
+environmentally safe recycling. Business users should contact their supplier and check the terms and conditions of the purchase
+contract. This product and its electronic accessories should not be mixed with other commercial wastes for disposal.
+Correct disposal of batteries in this product
+(Applicable in the European Union and other European countries with separate battery return systems)
+This marking on the battery, manual or packaging indicates that the batteries in this product should not be disposed of with other
+household waste at the end of their working life. Where marked, the chemical symbols Hg, Cd or Pb indicate that the battery contains
+mercury, cadmium or lead above the reference levels in EC Directive 2006/66. If batteries are not properly disposed of, these
+substances can cause harm to human health or the environment. To protect natural resources and to promote material reuse, please
+separate batteries from other types of waste and recycle them through your local, free battery return system.
+
+English - 2
+[UD5000-XH]BN68-03432D.indb 2
+
+2011-05-17 �� 5:09:12
+
+Accessories
+
+✎✎Please make sure the following items are included with your TV. If any items are missing, contact your dealer.
+✎✎The items’ colours and shapes may vary depending on the models.
+✎✎Cables not included in the package contents can be purchased separately.
+CAUTION: INSERT SECURELY LEST SHOULD BE DETACHED IN SET
+yy Remote Control & Batteries (AAA x 2)
+yy Owner’s Instructions
+yy Warranty Card / Safety Guide (Not available in some locations)
+
+yy Holder Ring (4EA)
+
+yy Power Cord
+yy Cleaning Cloth
+
+yy Holder-Wire Stand
+
+yy Component / AV Adapter
+
+yy CI Card Adapter
+
+yy Scart Adapter
+
+✎✎An administration fee may be charged if either
+(a) an engineer is called out at your request and there is no defect in the product
+(i.e. where you have failed to read this user manual)
+(b) you bring the unit to a repair centre and there is no defect in the product
+(i.e. where you have failed to read this user manual).
+
+✎✎The amount of such administration charge will be advised to you before any work or home visit is carried out.
+Assembling the Holder-Wire stand
+
+English - 3
+[UD5000-XH]BN68-03432D.indb 3
+
+2011-05-17 �� 5:09:14
+
+Viewing the Control Panel
+
+✎✎The product colour and shape may vary depending on the model.
+
+Control Panel
+Speakers
+
+Remote control sensor
+
+Aim the remote control towards this spot on the TV.
+
+Power Indicator
+
+Blinks and turns off when the power is on and lights up in standby mode.
+
+SOURCEE
+
+Toggles between all the available input sources. In the on-screen menu, use this
+button as you would use the ENTERE button on the remote control.
+
+MENU
+
+Displays an on-screen menu, the OSD (on screen display) of your TV’s features.
+
+Y
+
+Adjusts the volume. In the OSD, use the Y buttons as you would use the ◄
+and ► buttons on the remote control.
+
+z
+
+Changes the channels. In the OSD, use the z buttons as you would use the
+▼ and ▲ buttons on the remote control.
+
+P (Power)
+
+Turns the TV on or off.
+
+Standby mode
+Do not leave your TV in standby mode for long periods of time (when you are away on a holiday, for example). A small amount
+of electric power is still consumed even when the power button is turned off. It is best to unplug the power cord.
+
+English - 4
+[UD5000-XH]BN68-03432D.indb 4
+
+2011-05-17 �� 5:09:15
+
+Viewing the Remote Control
+
+✎✎This is a special remote control for the visually impaired persons and has Braille points on the Power, Channel, and
+Volume buttons.
+
+Displays and selects the available video
+sources.
+
+Turns the TV on and off.
+HDMI
+
+Selects the HDMI mode directly.
+
+Press to directly access to channels.
+
+Returns to the previous channel.
+
+Alternately select Teletext ON, Double,
+Mix or OFF.
+
+Cuts off the sound temporarily.
+
+Adjusts the volume.
+
+Changes channels.
+
+Displays the main on-screen menu.
+Displays the My Downloads, Watch TV
+and Source.
+
+Displays channel lists on the screen.
+Displays the EPG (Electronic Programme
+Guide).
+Displays information on the TV screen.
+
+CONTENT
+
+Quickly select frequently used functions.
+Selects the on-screen menu items and
+changes the values seen on the menu.
+
+Exits the menu.
+
+Returns to the previous menu.
+Buttons used in the Channel List,
+Channel Manager, My Downloads,
+Network, AllShare™ menu, etc.
+
+A
+
+B
+
+P.MODE
+E-MANUAL
+
+C
+
+SRS
+
+D
+
+DUAL I-II
+AD/SUBT.
+
+Use these buttons in a specific feature.
+For details, refer to the e-Manual.
+
+P.MODE: Selects picture mode.
+SRS: Selects the TruSurround HD mode.
+DUAL I-II: Select Dual sound mode.
+E-MANUAL: Displays the e-Manual
+guide.
+P.SIZE: Selects the picture size.
+AD: Audio Description selection. (Not
+available in some locations)
+SUBT.: Displays digital subtitles.
+
+Installing batteries (Battery size: AAA)
+
+English - 5
+[UD5000-XH]BN68-03432D.indb 5
+
+2011-05-17 �� 5:09:16
+
+Connecting to an Antenna
+When the TV is initially powered on, basic settings proceed automatically.
+
+✎✎Preset: Connecting the mains and antenna.
+VHF/UHF Antenna
+
+TV Rear Panel
+
+Cable
+
+or
+
+Plug & Play (Initial Setup)
+When the TV is initially powered on, a sequence of on-screen prompts will assist in configuring basic settings. Press the
+POWERP button. Plug & Play is available only when the Input source is set to TV.
+
+✎✎To return to the previous step, press the Red button.
+
+1
+
+Selecting a language
+
+Press the ▲ or ▼ button, then press the ENTERE button.
+Select the desired OSD (On Screen Display) language.
+
+2
+
+Selecting Store Demo or
+Home Use
+
+Press the ◄ or ► button, then press the ENTERE button.
+Select the Home Use mode. Store Demo mode is for retail environments.
+To return the unit’s settings from Store Demo to Home Use (standard):
+Press the volume button on the TV. When the OSD volume is displayed,
+press and hold MENU for 5 sec.
+Store Demo is only for shop display. If you select it, several functions are not
+able to use. Please select Home Use when you watch at home.
+
+3
+
+Selecting a country
+
+Press the ▲ or ▼ button, then press the ENTERE button.
+Select the appropriate country.
+
+POWER
+
+P
+
+✎✎After selecting the country in the Country menu, some models may proceed with an
+additional option to setup the pin number.
+
+✎✎When you input the PIN number, 0-0-0-0 is not available.
+✎✎The option may differ depending on country.
+
+4
+
+Setting the Clock Mode
+
+Set the Clock Mode automatically or manually.
+Auto: Select the time zone (depending on the country) where you are located.
+Manual: Allows you to manually set the current date and time.
+
+5
+6
+
+Selecting an antenna
+
+Press the ▲ or ▼ button, then press the ENTERE button.
+Select the desired broadcasting signal.
+
+Selecting a channel
+
+Press the ▲ or ▼ button, then press the ENTERE button.
+Select the channel source to memorise. When setting the antenna source to Cable, a step
+appears allowing you to assign numerical values (channel frequencies) to the channels. For more
+information, refer to Channel → Auto Tuning.
+Press the ENTERE button at any time to interrupt the memorisation process.
+
+7
+
+Enjoy your TV.
+
+Select the Watch TV. Press the ENTERE button.
+
+✎✎If you select the Network Settings, set the network. For more information, refer to
+“Network menu” in the e-Manual.
+
+If You Want to Reset This Feature...
+Select System - Plug & Play (Initial Setup). Enter your 4 digit PIN number. The default PIN number is “0-0-0-0”. If you want to
+change the PIN number, use the Change PIN function.
+You should do Plug & Play (MENU → System) again at home although you did in shop.
+
+✎✎If you forget the PIN code, press the remote control buttons in the following sequence in Standby mode, which resets
+the PIN to “0-0-0-0”: MUTE → 8 → 2 → 4 → POWER (on).
+
+English - 6
+[UD5000-XH]BN68-03432D.indb 6
+
+2011-05-17 �� 5:09:17
+
+Connecting to an AV devices
+¦¦ Available devices: DVD, Blu-ray player, HD cable box, HD STB (Set-Top-Box) satellite
+receiver, VCR, Digital Audio System, Amplifier, DVD Home Theatre, PC
+
+HDMI, HDMI/DVI connection
+
+HDMI OUT
+
+DVI OUT
+
+AUDIO OUT
+
+R-AUDIO-L
+
+Using an HDMI cable or HDMI to DVI Cable (up to 1080p)
+
+✎✎HDMI IN 1(DVI), 2, 3, 4, PC/DVI AUDIO IN
+
+xx For better picture and audio quality, connect to a digital device using an HDMI cable.
+xx An HDMI cable supports digital video and audio signals, and does not require an audio cable.
+–– To connect the TV to a digital device that does not support HDMI output, use an HDMI/DVI and audio cables.
+
+xx The picture may not display normally (if at all) or the audio may not work if an external device that uses an older
+version of HDMI mode is connected to the TV. If such a problem occurs, ask the manufacturer of the external
+device about the HDMI version and, if out of date, request an upgrade.
+
+xx Be sure to use an HDMI cable with a thickness of 14 mm or less.
+xx Be sure to purchase a certified HDMI cable. Otherwise, the picture may not display or a connection error may
+occur.
+
+xx A basic high-speed HDMI cable or one with ethernet is recommended. This product does not support the
+ethernet function via HDMI.
+
+English - 7
+[UD5000-XH]BN68-03432D.indb 7
+
+2011-05-17 �� 5:09:18
+
+G
+
+B
+R
+
+R
+
+R
+
+R
+W
+
+PB
+
+B
+
+PR
+
+G
+
+COMPONENT OUT
+
+W
+
+Component connection
+
+Y
+
+AUDIO OUT
+
+R-AUDIO-L
+
+AV connection
+
+Y
+
+VIDEO OUT
+
+R
+
+R
+
+W
+
+Y
+W
+
+AUDIO OUT
+
+R-AUDIO-L
+
+SCART connection
+EXT
+
+Using a Component (up to 1080p) or Audio/Video (480i only) and Scart Cable
+
+✎✎In Ext. mode, DTV Out supports MPEG SD Video and Audio only.
+✎✎To obtain the best picture quality, the Component connection is recommended over the A/V connection.
+
+English - 8
+[UD5000-XH]BN68-03432D.indb 8
+
+2011-05-17 �� 5:09:19
+
+Connecting to a PC and Audio device
+¦¦ Available devices: Digital Audio System, Amplifier, DVD Home Theatre
+
+Audio connection
+
+OPTICAL
+
+Headphones connection
+
+Using an Optical (Digital) Cable or Headphone Connection
+
+✎✎DIGITAL AUDIO OUT (OPTICAL)
+
+xx When a digital audio system is connected to the DIGITAL AUDIO OUT (OPTICAL) jack, decrease the volume of
+both the TV and the system.
+
+xx 5.1 CH (channel) audio is available when the TV is connected to an external device supporting 5.1 CH.
+xx When the receiver (home theatre) is set to on, you can hear sound output from the TV’s optical jack. When the TV
+is receiving a DTV signal, the TV will send 5.1 CH sound to the home theatre receiver. When the source is a digital
+component such as a DVD / Blu-ray player / cable box / STB (Set-Top-Box) satellite receiver and is connected to
+the TV via HDMI, only 2 CH audio will be heard from the home theatre receiver. If you want to hear 5.1 CH audio,
+connect the digital audio out jack from your DVD / Blu-ray player / cable box / STB satellite receiver directly to an
+amplifier or home theatre.
+
+✎✎Headphones H: You can connect your headphones to the headphones output on your set. While the headphones
+are connected, the sound from the built-in speakers will be disabled.
+
+xx Sound function may be restricted when connecting headphones to the TV.
+xx Headphone volume and TV volume are adjusted separately.
+
+English - 9
+[UD5000-XH]BN68-03432D.indb 9
+
+2011-05-17 �� 5:09:20
+
+¦¦ Using an HDMI cable or HDMI to DVI Cable / a D-sub Cable
+
+✎✎Connecting through the HDMI cable may not be supported depending on the PC.
+✎✎An HDMI cable supports digital video and audio signals, and does not require an audio cable.
+PC connection
+HDMI OUT
+
+DVI OUT
+
+AUDIO OUT
+
+AUDIO OUT
+
+PC OUT
+
+Display Modes (D-Sub and HDMI/DVI Input)
+Optimal resolution is 1920 X 1080 @ 60 Hz.
+Mode
+IBM
+MAC
+
+VESA DMT
+
+VESA DMT / DTV
+CEA
+
+640 x 350
+720 x 400
+640 x 480
+832 x 624
+1152 x 870
+640 x 480
+640 x 480
+640 x 480
+800 x 600
+800 x 600
+800 x 600
+1024 x 768
+1024 x 768
+1024 x 768
+1152 x 864
+1280 x 1024
+1280 x 1024
+1280 x 800
+1280 x 800
+1280 x 960
+1360 x 768
+1440 x 900
+1440 x 900
+1680 x 1050
+
+Horizontal Frequency
+(KHz)
+31.469
+31.469
+35.000
+49.726
+68.681
+31.469
+37.861
+37.500
+37.879
+48.077
+46.875
+48.363
+56.476
+60.023
+67.500
+63.981
+79.976
+49.702
+62.795
+60.000
+47.712
+55.935
+70.635
+65.290
+
+1920 x 1080p
+
+67.500
+
+Resolution
+
+Vertical Frequency (Hz) Pixel Clock Frequency (MHz) Sync Polarity (H / V)
+70.086
+70.087
+66.667
+74.551
+75.062
+59.940
+72.809
+75.000
+60.317
+72.188
+75.000
+60.004
+70.069
+75.029
+75.000
+60.020
+75.025
+59.810
+74.934
+60.000
+60.015
+59.887
+74.984
+59.954
+
+25.175
+28.322
+30.240
+57.284
+100.000
+25.175
+31.500
+31.500
+40.000
+50.000
+49.500
+65.000
+75.000
+78.750
+108.000
+108.000
+135.000
+83.500
+106.500
+108.000
+85.500
+106.500
+136.750
+146.250
+
++/-/+
+-/-/-/-/-/-/+/+
++/+
++/+
+-/-/+/+
++/+
++/+
++/+
+-/+
+-/+
++/+
++/+
+-/+
+-/+
+-/+
+
+60.000
+
+148.500
+
++/+
+
+✎✎NOTE
+
+xx For HDMI/DVI cable connection, you must use the HDMI IN 1(DVI) jack.
+xx The interlace mode is not supported.
+xx The set might operate abnormally if a non-standard video format is selected.
+xx Separate and Composite modes are supported. SOG(Sync On Green) is not supported.
+
+English - 10
+[UD5000-XH]BN68-03432D.indb 10
+
+2011-05-17 �� 5:09:23
+
+Changing the Input Source
+¦¦ Source List
+Use to select TV or other external input sources such as DVD / Blu-ray players / cable box / STB satellite receiver
+connected to the TV.
+■■
+
+TV / Ext. / PC / AV / Component / HDMI1/DVI / HDMI2 / HDMI3 / HDMI4 / USB / AllShare
+
+✎✎ In the Source List, connected inputs will be highlighted.
+✎✎ If you want to see connected devices only, move to Connected using ◄ or ► button.
+✎✎ Ext. and PC always stay activated.
+✎✎ If the connected external devices are not highlighted, press the red button. The TV will search for connected
+devices.
+
+How to use Edit Name
+In the Source, press the TOOLS button, and then you can set an external input sources name you want.
+■■
+
+VCR / DVD / Cable STB / Satellite STB / PVR STB / AV Receiver / Game / Camcorder / PC / DVI PC / DVI Devices / TV / IPTV / Blu-ray /
+HD DVD / DMA: Name the device connected to the input jacks to make your input source selection easier.
+
+✎✎ When connecting a PC to the HDMI IN 1(DVI) port with HDMI cable, you should set the TV to PC mode under Edit Name.
+✎✎ When connecting a PC to the HDMI IN 1(DVI) port with HDMI to DVI cable, you should set the TV to DVI PC mode under Edit Name.
+✎✎ When connecting an AV devices to the HDMI IN 1(DVI) port with HDMI to DVI cable, you should set the TV to DVI Devices mode under
+Edit Name.
+Information
+You can see detailed information about the selected external device.
+
+✎✎For best cable connection to this product, be sure to use cables with a maximum thickness as below:
+xx Maximum thickness - 0.55 inches (14mm)
+Connecting to a COMMON INTERFACE slot
+Attaching the CI Card Adaptor
+Attach the adapter as shown in the right.
+To connect the CI CARD Adapter, follow these steps.
+
+✎✎Make sure that you attach the adaptor before you mount the TV on a wall.
+1. 	 Insert the CI CARD Adapter into the two holes on the product 1.
+
+✎✎ Please find the two holes on the rear of the TV. The two holes are beside the COMMON
+INTERFACE port.
+✎✎ Press it firmly at center of adapter to ensure it is fully lock.
+
+2. 	 Connect the CI CARD Adapter into the COMMON INTERFACE port.
+3. 	 Insert the “CI or CI+ CARD”.
+Using the “CI or CI+ CARD”
+To watch paid channels, the “CI or CI+ CARD” must be inserted.
+yy If you do not insert the “CI or CI+ CARD,” some channels will display the message “Scrambled
+Signal”.
+yy The pairing information containing a telephone number, the “CI or CI+ CARD” ID the Host ID and other
+information will be displayed in about 2~3 minutes. If an error message is displayed, please contact
+your service provider.
+yy When the configuration of channel information has finished, the message “Updating Completed” is
+displayed, indicating the channel list is updated.
+
+✎✎NOTE
+
+xx You must obtain a “CI or CI+ CARD” from a local cable service provider.
+xx When removing the “CI or CI+ CARD”, carefully pull it out with your hands since dropping the “CI
+or CI+ CARD” may cause damage to it.
+
+xx Insert the “CI or CI+ CARD” in the direction marked on the card.
+xx The location of the COMMON INTERFACE slot may be different depending on the model.
+xx “CI or CI+ CARD” is not supported in some countries and regions; check with your authorized dealer.
+xx If you have any problems, please contact a service provider.
+xx Insert the “CI or CI+ CARD” that supports the current antenna settings. The screen will be distorted or will not be seen.
+
+English - 11
+[UD5000-XH]BN68-03432D.indb 11
+
+2011-05-17 �� 5:09:25
+
+Network Connection
+Network Connection - Wireless
+You can connect your TV to your LAN through a standard wireless router or modem. To connect wirelessly, you must first
+attach a “Samsung Wireless LAN Adapter” (WIS09ABGN, WIS09ABGN2, WIS10ABGN - sold separately) to either the USB 1
+(HDD) or USB 2 port on the side of your TV. See the illustration below.
+TV Side Panel
+Wireless IP sharer
+(wireless router having
+DHCP server)
+
+The LAN Port on the Wall
+
+Samsung Wireless
+LAN Adapter
+
+LAN Cable
+
+Samsung’s Wireless LAN adapter is sold separately and is offered by select retailers and Ecommerce sites. Samsung’s
+Wireless LAN adapter supports the IEEE 802.11a/b/g and n communication protocols. Samsung recommends using IEEE
+802.11n. When you play video over a network connection, the video may not be played smoothly.
+Most wireless network systems incorporate a security system that requires devices that access the network through an access
+point or wireless router (typically a wireless IP Sharer) to transmit an encrypted security code called an access key.
+If Pure High-throughput (Greenfield) 802.11n mode is selected and the Encryption type is set to WEP, TKIP or TKIP AES
+(WPS2Mixed) for your wireless router, Samsung TVs will not support a connection in compliance with new Wi-Fi certification
+specifications.
+Network Connection - Wired
+There are two main ways to connect your TV to your network using cable, depending on your network setup. They are
+illustrated below:
+External Modem
+(ADSL / VDSL / Cable TV)
+
+The Modem Port on the Wall
+
+Modem Cable
+
+TV Rear Panel
+
+LAN Cable
+
+The LAN Port on the Wall
+
+TV Rear Panel
+
+LAN Cable
+
+✎✎A network speed of lower than 10 Mbps is not supported.
+
+English - 12
+[UD5000-XH]BN68-03432D.indb 12
+
+2011-05-17 �� 5:09:28
+
+How to view the e-Manual
+You can find instructions about your TV’s features in the e-Manual in your TV. To
+use, press the E-MANUAL button on your remote. Move the cursor using the up/
+down/right/left buttons to highlight a category, then a topic, and then press the
+ENTERE button. The e-Manual displays the page you want to see.
+You can also access it through the menu:
+
+E-MANUAL
+
+OO MENUm → Support → e-Manual → ENTERE
+
+✎✎To return to the e-Manual main menu, press the E-MANUAL button on the remote.
+✎✎You cannot use Try Now directly if the TV is set to an external input source.
+
+Screen Display
+1	 Currently displayed video, TV Programme, etc.
+
+1
+2
+
+2	 The category list. Press ◄ or ► button to select
+category you want.
+
+3
+
+3	 Displays the sub-menu list. Use the arrow
+buttons on your remote to move the cursor. Press
+ENTERE button to select the sub-menu you
+want.
+
+Basic Features
+Picture Menu
+Sound Menu
+
+4	 } Blue (Index): Displays the index screen.
+5	 E Enter: Selects a category or sub-menu.
+6	 e Exit: Exit the e-Manual.
+
+} Index E Enter e Exit
+
+4
+
+5
+
+6
+
+How to toggle between an e-Manual topic and the corresponding OSD menu(s).
+Basic Features > Picture Menu (3/17)
+
+E-MANUAL
+a Try Now b Home { Zoom } Index L Page e Exit
+
+Picture
+
+a Try Now
+
+Picture Mode	
+
+: Standard
+
+Backlight	
+Contrast	
+Brightness	
+Sharpness	
+Colour	
+Tint (G/R)	
+Screen Adjustment
+
+:7
+: 95
+: 45
+: 50
+: 50
+: G50/R50
+
+►
+
+✎✎This function is not enabled in some menus.
+Method 1
+
+Method 2
+
+1.	 If you want to use the menu that corresponds to an
+e-Manual topic, press the red button to select Try Now.
+
+1.	 Press the ENTERE button when a topic is displayed.
+“Are you sure?” appears. Select Yes, and then press the
+ENTERE button. The OSD window appears.
+2.	 To return to the e-Manual screen, press the E-MANUAL
+button.
+2.	 To return to the e-Manual screen, press the E-MANUAL
+button.
+
+English - 13
+[UD5000-XH]BN68-03432D.indb 13
+
+2011-05-17 �� 5:09:31
+
+Viewing the Contents
+1	 Contents Area: Contains the topic contents, if you
+selected a sub-menu. To move previous or next
+page, press the ◄ / ► button.
+
+Basic Features > Picture Menu (3/17)
+
+1
+
+2	 Try Now: Displays the OSD menu that corresponds
+to the topic. To return to the e-Manual screen,
+press the E-MANUAL button.
+3	 Home: Moves to the e-Manual home screen.
+4	 Zoom: Magnifies a screen. You can scroll through
+the magnified screen by using ▲ / ▼ buttons.
+
+a Try Now b Home { Zoom } Index L Page e Exit
+
+2
+
+3
+
+4
+
+5	 L (Page): Moves to previous or next page.
+
+5
+
+Using the Zoom mode
+Select the Zoom, and then press ENTERE to magnify
+the screen. You can scroll through the magnified screen
+by using the ▲ or ▼ buttons.
+
+✎✎To return to the screen to normal size, press the
+RETURN button.
+
+U Move R Return
+
+How to search for a topic on the index page
+
+✎✎This function may not be supported depending on the language.
+1.	 If you want to search a keyword, press the blue button to select Index.
+2.	 Press the ◄ or ► button to select a character order you want.
+3.	 Press the ▲ or ▼ button to select a keyword you want to see, and then press the ENTERE button.
+4.	 You can view the corresponding e-Manual instruction screen.
+
+✎✎To close the Index screen, press the RETURN button.
+
+English - 14
+[UD5000-XH]BN68-03432D.indb 14
+
+2011-05-17 �� 5:09:34
+
+Installing the Wall Mount
+The wall mount kit (sold separately) allows you to mount the TV on the wall.
+For detailed information on installing the wall mount, see the instructions provided with the wall mount. Contact a technician for
+assistance when installing the wall mount bracket.
+Samsung Electronics is not responsible for any damage to the product or injury to yourself or others if you elect to install the
+TV on your own.
+Wall Mount Kit Specifications (VESA)
+Case A. Installing the SAMSUNG Wall-Mount
+
+Case B. Installing another company’s Wall-Mount
+
+1
+
+1
+
+1
+
+1
+
+✎✎Wall mount kit is not supplied but sold separately.
+Install your wall mount on a solid wall perpendicular to the floor. When attaching to other building materials, please contact
+your nearest dealer. If installed on a ceiling or slanted wall, it may fall and result in severe personal injury.
+
+✎✎NOTE
+
+xx Standard dimensions for wall mount kits are shown in the table below.
+xx When purchasing our wall mount kit, a detailed installation manual and all parts necessary for assembly are provided.
+xx Do not use screws that do not comply with the VESA standard screw specifications.
+xx Do not use screws longer than the standard dimension, as they may cause damage to the inside of the TV set.
+xx For wall mounts that do not comply with the VESA standard screw specifications, the length of the screws may differ
+depending on their specifications.
+
+xx Do not fasten the screws too strongly, this may damage the product or cause the product to fall, leading to personal
+injury. Samsung is not liable for these kinds of accidents.
+
+xx Samsung is not liable for product damage or personal injury when a non-VESA or non-specified wall mount is used or
+the consumer fails to follow the product installation instructions.
+
+xx Do not exceed 15 degrees tilt when mounting this TV.
+Product
+Family
+
+LED-TV
+
+inches
+
+VESA Spec. (A * B)
+
+19~22
+
+75 X 75
+
+27
+
+200 X 100
+
+32~40
+
+200 X 200
+
+46~60
+
+400 X 400
+
+65~75
+
+600 X 400
+
+Standard
+Screw
+
+Quantity
+
+M4
+4
+M8
+
+Do not install your Wall Mount Kit while your TV is turned on. It may result in personal injury due to electric
+shock.
+
+English - 15
+[UD5000-XH]BN68-03432D.indb 15
+
+2011-05-17 �� 5:09:36
+
+Troubleshooting
+If the TV seems to have a problem, first try this list of possible problems and solutions. If none of these troubleshooting tips
+apply, visit “www.samsung.com”, then click on Support, or call Samsung customer service centre.
+Issues
+
+Solutions and Explanations
+
+The TV will not turn on.
+
+•	 Make sure the AC power cord is securely plugged in to the wall outlet and the TV.
+•	 Make sure the wall outlet is working.
+•	 Try pressing the POWER button on the TV to make sure the problem is not the remote. If
+the TV turns on, refer to “Remote control does not work” below.
+
+There is no picture/video.
+
+•	 Check cable connections (remove and reconnect all cables connected to the TV and
+external devices).
+•	 Set your external device’s (Cable/Set top Box, DVD, Blu-ray etc) video outputs to match
+the connections to the TV input. For example, if an external device’s output is HDMI, it
+should be connected to an HDMI input on the TV.
+•	 Make sure your connected devices are powered on.
+•	 Be sure to select the TV’s correct source by pressing the SOURCE button on the remote
+control.
+•	 Reboot the connected device by reconnecting the device’s power cable.
+
+The remote control does not work.
+
+•	 Replace the remote control batteries with the poles (+/–) in the right direction.
+•	 Clean the sensor’s transmission window on the remote.
+•	 Try pointing the remote directly at the TV from 5~6 feet away.
+
+The cable/set top box remote control
+doesn’t turn the TV on or off, or
+adjust the volume.
+
+•	 Program the Cable/Set top box remote control to operate the TV. Refer to the Cable/Set
+user manual for the SAMSUNG TV code.
+
+✎✎You can keep your TV as optimum condition to upgrade the latest firmware on web site (samsung.com -> Support ->
+Downloads) by USB.
+
+✎✎This TFT LED panel uses a panel consisting of sub pixels which require sophisticated technology to produce. However,
+there may be a few bright or dark pixels on the screen. These pixels will have no impact on the performance of the
+product.
+
+Licence
+
+List of Features
+Excellent Digital Interface & Networking: With a built-in HD digital tuner, nonsubscription HD broadcasts can be viewed without
+a cable box / STB (Set-Top-Box) satellite receiver.
+My Downloads
+Allows you to play music files, pictures, and movies saved on a USB device.
+AllShare™
+AllShare™ connects your TV and compatible Samsung mobile phones/devices through a network.
+Anynet+(HDMI-CEC)
+Allows you to control all connected Samsung devices that support Anynet+ with your Samsung TV’s remote.
+
+English - 16
+[UD5000-XH]BN68-03432D.indb 16
+
+2011-05-17 �� 5:09:37
+
+Securing the TV to the Wall
+Caution: Pulling, pushing, or climbing onto the TV may cause the TV to fall. In particular, ensure that your
+children do not hang over or destabilize the TV; doing so may cause the TV to tip over, resulting in serious
+injuries or death. Follow all safety precautions provided on the included Safety Flyer. For added stability, install
+the anti-fall device for safety purposes, as follows.
+To avoid the TV from falling
+1.	 Put the screws into the clamps and firmly fasten them onto the
+wall. Confirm that the screws have been firmly installed onto the
+wall.
+
+✎✎ You may need additional material such as an anchor
+depending on the type of wall.
+
+✎✎ Since the necessary clamps, screws, and string are not
+supplied, please purchase these additionally.
+
+2.	 Remove the screws from the centre back of the TV, put the
+screws into the clamps, and then fasten the screws onto the TV
+again.
+
+✎✎ Screws may not be supplied with the product. In this case,
+
+please purchase the screws of the following specifications.
+
+✎✎ Screw Specifications
+
+xx For a 32 ~ 75 inch LED TV: M8
+
+3.	 Connect the clamps fixed onto the TV and the clamps fixed onto
+the wall with a strong string and then tie the string tightly.
+
+Wall
+
+✎✎ NOTE
+
+xx Install the TV near to the wall so that it does not fall backwards.
+xx It is safe to connect the string so that the clamps fixed on the wall are equal to or lower than the clamps fixed on
+the TV.
+
+xx Untie the string before moving the TV.
+4.	 Verify all connections are properly secured. Periodically check connections for any sign of fatigue for failure. If you have any
+doubt about the security of your connections, contact a professional installer.
+
+Storage and Maintenance
+
+✎✎If you remove the attached sticker on the TV screen, clean the residues and then watch TV.
+
+Do not spray water or a cleaning agent directly onto the
+product. Any liquid that goes into the product may cause a
+failure, fire, or electric shock.
+
+Clean the product with a soft cloth dapped in a small amount
+of water.
+
+English - 17
+[UD5000-XH]BN68-03432D.indb 17
+
+2011-05-17 �� 5:09:39
+
+Specifications
+Display Resolution
+Environmental Considerations
+Operating Temperature
+Operating Humidity
+Storage Temperature
+Storage Humidity
+TV System
+Colour/Video System
+Sound System
+HDMI IN
+
+1920 x 1080
+10°C to 40°C (50°F to 104°F)
+10% to 80%, non-condensing
+-20°C to 45°C (-4°F to 113°F)
+5% to 95%, non-condensing
+Analogue: B/G, D/K, L, I (Depending on your country selection)
+Digital: DVB-T/DVB-C
+Analogue: PAL, SECAM, NTSC-4.43, NTSC-3.58, PAL60
+Digital: MPEG-2 MP@ML, MPEG-4, H.264/AVC MP@L3, MP@L4.0, HP@L4.0
+BG, DK, L, NICAM, MPEG1, DD, DD+, HEAAC
+Video: 1080 24p, 1080p, 1080i, 720p, 576p, 480p
+Audio: 2Ch Linear PCM 32/44.1/48kHz, 16/20/24bits.
+
+Stand Swivel (Left / Right)
+
+-20˚ ~ 20˚
+
+Model Name
+
+UE32D5000
+
+UE37D5000
+
+Screen Size
+
+32 inches
+
+37 inches
+
+Sound
+(Output)
+Dimensions (WxDxH)
+Body
+With stand
+Weight
+Without Stand
+With Stand
+
+10 W X 2
+762.0 X 29.9 X 462.0 (mm)
+762.0 X 242.2 X 530.4 (mm)
+
+883.9 X 29.9 X 531.1 (mm)
+883.9 X 255.0 X 598.5 (mm)
+
+7.1 kg
+10.2 kg
+
+9.3 kg
+12.5 kg
+
+Model Name
+
+UE40D5000
+
+UE46D5000
+
+Screen Size
+
+40 inches
+
+46 inches
+
+Sound
+(Output)
+Dimensions (WxDxH)
+Body
+With stand
+Weight
+Without Stand
+With Stand
+
+10 W X 2
+949.3 X 29.9 X 567.5 (mm)
+949.3 X 255.0 X 635.2 (mm)
+
+1094.2 X 29.9 X 652.5 (mm)
+1094.2 X 275.0 X 711.1 (mm)
+
+10.9 kg
+14.2 kg
+
+13.7 kg
+17.2 kg
+
+✎✎Design and specifications are subject to change without prior notice.
+✎✎For information about power supply, and more about power consumption, refer to the label attached to the product.
+
+English - 18
+[UD5000-XH]BN68-03432D.indb 18
+
+2011-05-17 �� 5:09:40

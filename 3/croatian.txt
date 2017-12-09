@@ -1,0 +1,387 @@
+Polar Soft Strap
+Polar H1 Heart Rate Sensor
+Polar H2 Heart Rate Sensor
+Upute za uporabu
+
+A1
+A2
+B1
+
+B2
+B3
+
+B4
+
+H R VAT S K I , S R P S K I
+Ovaj korisnički priručnik uključuje upute za
+Polar Soft remen i Polar H1, H2 i H3 senzore
+brzine otkucaja srca. Model vašeg senzora
+brzine otkucaja srca otisnut je na konektoru.
+Najnoviju verziju ovog korisničkog priručnika
+možete preuzeti na www.polar.com/support. Za
+video vodiče idite na
+www.polar.com/en/support/ video_tutorials.
+Molimo, pogledajte slike na naslovnici i
+poleđini.
+
+Dijelovi senzora brzine otkucaja srca
+1.
+
+2.
+
+Plastično područje elektrode na stražnjoj
+strani remena utvrđuju brzinu otkucaja
+srca. Slika A1.
+Konektor šalje signal brzine otkucaja srca
+na računalo za vježbanje. Slika A2.
+
+Senzori brzine otkucaja srca Polar omogućuju
+vježbanje u grupi bez ometanja s drugih
+senzora brzine otkucaja srca.
+
+Nošenje senzora brzine otkucaja srca
+1.
+2.
+3.
+
+4.
+5.
+
+Navlažite područje elektrona na remenu.
+Slika B1.
+Prikvačite konektor na remen. Slika B2.
+Zavežite remen oko vaših prsa odmah
+ispod prsnih mišića i prikvačite kukicu na
+drugi kraj remena. Slika B3.
+Prilagodite dužinu remena tako da prijanja
+čvrsto ali udobno.
+Uvjerite se da je područje mokrih elektroda
+čvrsto postavljeno na vašoj koži i da je
+Polar logotip konektora u sredini te u
+uspravnom položaju. Slika B4.
+
+1
+
+Skinite konektor s remena i isperite remen
+pod tekućom vodom nakon svake uporabe.
+Znoj i vlaga mogu održavati elektrode
+mokrima a senzor brzine otkucaja srca
+aktiviranim. Time smanjujete radni vijek
+baterije odašiljača.
+Pogledajte detaljne upute za pranje u odlomku
+Njega vašeg senzora brzine otkucaja srca.
+
+Uporaba senzora brzine otkucaja srca
+Pri kupnji novog senzora brzine otkucaja srca
+Polar H2 ili Polar H3, uparite ga s računalom za
+vježbanje kako biste izmjerili brzinu otkucaja
+vašeg srca. Pogledajte korisnički priručnik
+računala za vježbanje Polar o tome kako
+koristiti senzor brzine otkucaja srca.
+
+Uporaba senzora brzine otkucaja srca
+u vodi
+Polar H1 i Polar H2 senzori brzine otkucaja
+srca možete koristiti u vodenim aktivnostima s
+računalima za vježbanje koji koriste magnetski
+prijenos podataka. Morska i voda iz bazena je
+vrlo provodljiva i može doći do kratkog spajanja
+elektroda čime se sprječava utvrđivanje ECG
+signala od senzora brzine otkucaja srca.
+Prilikom nošenja kupaćeg kostima, najbolja
+izvedba postiže se nošenjem senzora brzine
+otkucaja srca ispod kupaćeg kostima.
+
+Senzor brzine otkucaja srca Polar H3 je
+vodonepropusan ali neće mjeriti brzinu
+otkucaja srca u vodi zbog njegove
+frekvencije prijenosa 2.4 GHz (W.I.N.D.).
+
+Njega senzora brzine otkucaja srca
+Senzor brzine otkucaja srca je visokotehnološki
+instrument s kojim treba pažljivo postupati.
+Pridržavajte se uputa za njegu kako biste
+osigurali pouzdano mjerenje i produžili radni
+vijek senzora brzine otkucaja srca. Sljedeće
+2
+
+H R VAT S K I , S R P S K I
+
+upute pomoći će vam u ispunjenju jamstvenih
+obaveza.
+
+Konektor: Skinite konektor s remena nakon
+svake uporabe i osušite ga mekanim ručnikom.
+Prema potrebi očistite konektor u otopini blagog
+sapuna i vode. Nikada ne koristite alkohol ili
+abrazivni materijal (npr. čeličnu vunu ili
+kemijska sredstva za čišćenje).
+
+Remen: Isperite remen pod mlazom tekuće
+vode nakon svake uporabe i ostavite ga da se
+osuši. Prema potrebi očistite konektor u otopini
+blagog sapuna i vode. Ne koristite hidratantne
+sapune jer oni mogu ostaviti ostatke na
+remenu. Nemojte namakati, glačati, kemijski
+čistiti ili izbjeljivati remen. Nemojte naglo
+rastezati ili savijati područje elektroda.
+
+Osušite i pohranite remen i konektor
+zasebno kako biste produžili radni vijek
+baterije senzora brzine otkucaja srca.
+Držite senzor brzine otkucaja srca na mirnom i
+suhom mjestu. Ne pohranjujte vlažan senzor
+brzine otkucaja srca u neprozračnom materijalu
+poput sportske torbe kako biste izbjegli
+oksidaciju. Ne izlažite senzor bzine otkucaja
+srca direktnoj sunčevoj svjetlosti duže
+razdoblje.
+
+Provjerite natpis na remenu da vidite da li se
+smije prati u stroju za pranje. Remen ili
+konektor nikada ne stavljajte u sušilicu
+rublja!
+
+Servis
+Tijekom dvogodišnjeg jamstva/jamstvenog
+razdoblja preporučujemo da, osim zamjene
+baterije, servisirate uređaj samo u ovlaštenom
+servisnom centru Polar. Jamstvo ne obuhvaća
+štetu ili posljedičnu štetu prouzročenu servisom
+kojeg nije ovlastio Polar Electro. Za kontakt
+informacije i sve adrese servisnog centra Polar
+
+H R VAT S K I , S R P S K I
+
+3
+
+posjetite stranicu www.polar.com/support i
+web-mjesta za određenu zemlju.
+
+Promjena baterija
+Svi konektori koriste baterije koje može
+zamijeniti korisnik. Ako želite sami zamijeniti
+bateriju, slijedite upute u nastavku i pratite
+oznake na konektoru i slike na stražnjim
+koricama ovog korisničkog priručnika.
+1.
+2.
+
+3.
+
+4.
+
+Otvorite baterijski poklopac pomoću
+spojnice na remenu. Slika C1.
+Izvadite staru baterije iz baterijskog
+poklopca s odgovarajućim štapićem male
+veličine ili podupiračem poput čačkalice.
+Poželjan je nemetalni alat. Pazite da ne
+oštetite baterijski poklopac. Slika C2.
+Umetnite novu bateriju (CR 2025) u
+poklopac s negativnom stranom (-)
+okrenutom prema gore. Slika C3.
+Poravnajte rub na baterijskom poklopcu s
+utorom na konektoru i vratite baterijski
+poklopac na mjesto. Začut ćete škljocaj.
+Slika C4.
+
+Prilikom promjene baterije uvjerite se da brtveni
+prsten nije oštećen u kojem slučaju ga trebate
+zamijeniti novim kako biste osigurali
+vodonepropusnost konektora.
+Možete kupiti brtveni prsten/komplet baterija u
+dobro opremljenim Polar trgovinama i
+ovlaštenim servisima tvrtke Polar. U SAD-u i
+Kanadi, dodatni brtveni prsteni dostupni su u
+ovlaštenim servisnim centrima Polar. U SAD-u
+su brtveni prsten/kompleti baterija dostupni i na
+stranici www.shoppolar.com.
+
+Držite baterije dalje od djece. U slučaju
+gutanja odmah se obratite liječniku. Odložite
+baterije u skladu s lokalnim propisima.
+
+4
+
+H R VAT S K I , S R P S K I
+
+Mjere opreza
+Za informacije o alergijama pogledajte popis
+materijala u Tehničkim specifikacijama.
+Izbjegnite kožne reakcije nošenjem senzora
+brzine otkucaja srca preko majice, navlaženom
+ispod elektroda.
+
+Kombinirani utjecaj vlage i snažna abrazija
+mogu prouzročiti istjecanje crne boje s
+površine senzora brzine otkucaja srca i
+eventualno ostaviti mrlje na odjeći svijetle
+boje. Ako koristite parfem ili sredstvo za
+zaštitu od insekata na koži pobrinite se da
+ne dođe u kontakt sa senzorom brzine
+otkucaja srca.
+
+Tehničke specifikacije
+Vrsta baterije
+
+CR 2025
+
+Brtveni prsten
+baterije
+
+O-prsten 20,0x0,90
+silikonski materijal
+
+Radni vijek baterije
+Polar H1
+
+1500 h
+
+Radni vijek baterije
+Polar H2
+
+800 h
+
+Radni vijek baterije
+Polar H3
+
+1600 h
+
+Radna temperatura
+
+14 °F do 122 °F/-10
+°C do +50 °C
+
+Materijal konektora
+
+ABS
+
+Materijal remena
+
+38% Poliamid, 29%
+Poliuretan, 20%
+Elastin, 13%
+Poliester
+
+Senzori brzine otkucaja srca Polar koriste
+među ostalim i sljedeće patentirane tehnologije:
+• OwnCode® kodirani prijenos
+
+H R VAT S K I , S R P S K I
+
+5
+
+Ograničeno međunarodno jamstvo
+Polar
+• Ovo jamstvo ne utječe na zakonska prava kupca
+prema važećim i primjenjivim nacionalnim ili
+državnim zakonima na snazi ili na prava kupca u
+odnosu na prodavatelja koja proizilaze iz njihovog
+kupoprodajnog ugovora.
+• Ovo ograničeno međunarodno jamstvo Polar izdaje
+Polar Electro Inc. za kupce koji su kupili ovaj
+proizvod u SAD ili Kanadi. Ovo ograničeno
+međunarodno jamstvo Polar izdaje Polar Electro Oy
+za kupce koji su kupili ovaj proizvod u drugim
+zemljama.
+• Polar Electro Oy/Polar Electro Inc. jamči
+kupcu/naručitelju ovog uređaja da proizvod nema
+oštećenja u materijalu ili izradi u trajanju od dvije
+(2) godine od datuma kupnje.
+• Original račun je vaš dokaz o kupnji!
+• Jamstvo ne obuhvaća bateriju, uobičajeno trošenje
+i habanje, štetu uslijed zlouporabe, nepravilne
+uporabe, nesreće ili nepoštivanja mjera opreza;
+nepravilnog održavanja, komercijalne uporabe,
+napuknuća, neispravnosti ili izgrebenog
+kućišta/prikaza, elastične vrpce i Polar opreme.
+• Jamstvo ne obuhvaća štetu/e, gubitke, troškove ili
+izdatke proizašle na direktan, indirektan ili slučajan,
+posljedičan ili poseban način a koji proizilaze iz, ili
+su vezane uz proizvod.
+• Neoriginalni kupljeni dijelovi nisu obuhvaćeni ovim
+dvogodišnjim (2) jamstvo osim ako drugačije ne
+nalaže lokalni zakon.
+• Za vrijeme jamstvenog razdoblja, proizvod će biti
+popravljen ili zamijenjen u ovlaštenim servisnim
+centrima Polar bez obzira na zemlju nabave.
+Jamstvo proizvoda je ograničeno na zemlju u kojima je
+proizvod kupljen.
+
+6
+
+H R VAT S K I , S R P S K I
+
+Ovaj proizvod sukladan je s direktivom 2014/53/EU i
+2011/65/EU. Relevantna izjava o sukladnosti i druge
+regulativne informacije za svaki proizvod dostupne su
+na www.polar.com/hr/informacije_o_propisima.
+
+Prekrižena košarica označava da su proizvodi Polar
+elektronički uređaja i u okviru smjernice 2012/19/EU
+Europskog parlamenta i Vijeća o električnom i
+elektroničkom otpadu (WEEE) i baterijama i
+akumulatorima korištenim u proizvodima u okviru
+direktive 2006/66/EC Europskog parlamenta i Vijeća
+od 6 rujna 2006., za baterije i akumulatore i stare
+baterije i akumulatore. Ove proizvode i
+baterije/akumulatore unutar Polar proizvoda treba
+odložiti zasebno u EU zemljama.
+
+Copyright © 2013 Polar Electro Oy, FI-90440
+KEMPELE.
+Polar Electro Oy je ISO 9001:2008 certificirana tvrtka.
+Sva prava pridržana. Zabranjena je uporaba ili
+umnožavanje ovog priručnika bez pisanog odobrenja
+tvrtke Polar Electro Oy. Nazivi i logotipi sa simbolom ®
+
+u ovom korisničkom priručniku ili u pakiranju ovog
+proizvoda su registrirane trgovačke marke tvrtke Polar
+Electro Oy.
+
+H R VAT S K I , S R P S K I
+
+7
+
+Naputak o odricanju odgovornosti
+Materijal u ovom priručniku služi samo za informativne
+svrhe. Opisani proizvodi podložni su promjenama bez
+prethodne najave zbog programa za stalni razvoj
+proizvođača.
+Polar Electro Inc. / Polar Electro Oy ne daje nikakve
+izjave ili jamstva u odnosu na ovaj priručnik ili ovdje
+opisane proizvode.
+Polar Electro Inc. / Polar Electro Oy nije odgovoran za
+štetu, gubitke, troškove ili izdatke, direktne, indirektne
+ili slučajne, posljedične ili specijalne koji proizilaze iz ili
+se odnose na uporabu ovog materijala ili ovdje
+opisanih proizvoda.
+Polar H1, H2 i H3 senzori brzine otkucaja srca su
+obuhvaćeni ovim patentiranim dokumentima: FI23471,
+US D492999SS, EU0046107-002, EU0046107-003.
+Polar H1 i H2 su također obuhvaćeni sljedećim
+patentiranim dokumentima: FI96380, EP0665947,
+US5611346, JP3568954, FI115084, EP1543769,
+US7418237. U tijeku je izrada drugih patenata.
+www.polar.com
+
+8
+
+H R VAT S K I , S R P S K I
+
+C1
+
+C2
+
+C3
+
+C4
+
+Manufactured by
+Polar Electro Oy
+Professorintie 5
+FIN-90440 KEMPELE
+Tel +358 8 5202 100
+Fax +358 8 5202 300
+www.polar.com

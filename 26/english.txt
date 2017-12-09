@@ -1,0 +1,1549 @@
+OWNER’S MANUAL
+
+LED LCD TV / LCD TV
+Please read this manual carefully before operating
+your set and retain it for future reference.
+
+www.lg.com
+
+2
+
+TABLE OF CONTENTS
+
+ENGLISH
+ENG
+
+TABLE OF CONTENTS
+3	
+
+LICENSES
+
+3	
+
+OPEN SOURCE SOFTWARE NOTICE
+
+4	
+
+SAFETY INSTRUCTIONS
+
+10	
+
+-	 Viewing 3D Imaging (Only 3D models)
+
+12	
+
+INSTALLATION PROCEDURE
+
+12	
+
+ASSEMBLING AND PREPARING
+
+12	
+15	
+16	
+17	
+17	
+20	
+
+Unpacking
+Separate purchase
+Parts and buttons
+Lifting and moving the TV
+Mounting on a table
+Mounting on a wall
+
+21	
+
+REMOTE CONTROL
+
+23	
+
+USING THE USER GUIDE
+
+24	
+
+MAINTENANCE
+
+24	
+24	
+24	
+
+Cleaning your TV
+-	 Screen, frame, cabinet and stand
+-	 Power cord
+
+24	
+
+TROUBLESHOOTING
+
+WARNING
+yy If you ignore the warning message, you
+may be seriously injured or there is a
+possibility of accident or death.
+
+CAUTION
+yy If you ignore the caution message, you may
+be slightly injured or the product may be
+damaged.
+
+NOTE
+yy The note helps you understand and use
+the product safely. Please read the note
+carefully before using the product.
+
+LICENSES / OPEN SOURCE SOFTWARE NOTICE
+
+3
+
+Supported licenses may differ by model. For more information about licenses, visit www.lg.com.
+Manufactured under license from Dolby Laboratories. “Dolby” and the double-D
+symbol are trademarks of Dolby Laboratories.
+
+HDMI, the HDMI logo and High-Definition Multimedia Interface are trademarks or
+registered trademarks of HDMI Licensing LLC.
+ABOUT DIVX VIDEO: DivX® is a digital video format created by DivX, LLC, a
+subsidiary of Rovi Corporation. This is an official DivX Certified® device that plays
+DivX video. Visit divx.com for more information and software tools to convert your
+files into DivX video.
+ABOUT DIVX VIDEO-ON-DEMAND: This DivX Certified® device must be registered
+in order to play purchased DivX Video-on-Demand (VOD) movies. To obtain your
+registration code, locate the DivX VOD section in your device setup menu. Go to vod.
+divx.com for more information on how to complete your registration.
+“DivX Certified® to play DivX® video up to HD 1080p, including premium content.”
+“DivX®, DivX Certified® and associated logos are trademarks of Rovi Corporation or
+its subsidiaries and are used under license.”
+“Covered by one or more of the following U.S. patents :  
+      7,295,673; 7,460,668; 7,515,710; 7,519,274”
+
+OPEN SOURCE SOFTWARE NOTICE
+To obtain the source code under GPL, LGPL, MPL and other open source licenses, that is contained in this
+product, please visit http://opensource.lge.com .
+In addition to the source code, all referred license terms, warranty disclaimers and copyright notices are
+available for download.
+LG Electronics will also provide open source code to you on CD-ROM for a charge covering the cost of
+performing such distribution (such as the cost of media, shipping and handling) upon email request to
+opensource@lge.com. This offer is valid for three (3) years from the date on which you purchased the
+product.
+
+ENGLISH
+ENG
+
+LICENSES
+
+4
+
+SAFETYyINSTRUCTIONS
+
+ENGLISH
+ENG
+
+SAFETY INSTRUCTIONS
+Pleaseyreadytheseysafetyyprecautionsycarefullyybeforeyusingytheyproduct.
+
+WARNING
+
+DoynotyplaceytheyTVyandyremoteycontrolyinytheyfollowingyenvironments:
+yy
+-yAylocationyexposedytoydirectysunlight
+-yAnyareaywithyhighyhumidityysuchyasyaybathroom
+-yNearyanyyheatysourceysuchyasystovesyandyotherydevicesythatyproduceyheat
+-yNearykitchenycountersyoryhumidifiersywhereytheyycanyeasilyybeyexposedytoysteamy
+oryoil
+-yAnyareayexposedytoyrainyorywind
+-yNearycontainersyofywaterysuchyasyvases
+Otherwise,ythisymayyresultyinyfire,yelectricyshock,ymalfunctionyoryproductydeformation.
+Doynotyplaceytheyproductywhereyitymightybeyexposedytoydust.y
+yy
+Thisymayycauseyayfireyhazard.
+Mainsyplugyisytheydisconnectingydevice.yTheyplugymustyremainyreadilyyoperable.
+yy
+
+Doynotytouchytheypoweryplugywithywetyhands.yAdditionally,yifytheycordypinyisywetyory
+yy
+coveredywithydust,ydryytheypoweryplugycompletelyyorywipeydustyoff.y
+Youymayybeyelectrocutedydueytoyexcessymoisture.
+Makeysureytoyconnectytheypowerycableytoytheygroundedycurrent.y(Exceptyforydevicesy
+yy
+whichyareynotygrounded.)y
+Youymayybeyelectrocutedyoryinjured.
+Fixytheypowerycableycompletely.y
+yy
+Ifytheypowerycableyisynotyfixedycompletely,yayfireycanybreakyout.
+Ensureytheypowerycordydoesynotycomeyintoycontactywithyhotyobjectsysuchyasyay
+yy
+heater.y
+Thisymayycauseyayfireyoryanyelectricyshockyhazard.
+Doynotyplaceyayheavyyobject,yorytheyproductyitself,yonypowerycables.y
+yy
+Otherwise,ythisymayyresultyinyfireyoryelectricyshock.
+Bendyantennaycableybetweenyinsideyandyoutsideybuildingytoypreventyrainyfromy
+yy
+flowingyin.y
+ThisymayycauseywaterydamagedyinsideytheyProductyandycouldygiveyanyelectricy
+shock.
+WhenymountingyayTVyityonytheywall,ymakeysureynotytoyinstallyTVybyyhangingypowery
+yy
+andysignalycablesyonytheybackyofytheyTV.y
+Itymayycauseyfire,yelectricyshock.
+
+SAFETYyINSTRUCTIONS
+
+Doynotydropytheyproductyoryletyityfallyoverywhenyconnectingyexternalydevices.y
+yy
+Otherwise,ythisymayyresultyinyinjuryyorydamageytoytheyproduct.
+Keepytheypackingyanti-moistureymaterialyoryvinylypackingyoutyofytheyreachyofy
+yy
+children.y
+Anti-moistureymaterialyisyharmfulyifyswallowed.yIfyswallowedybyymistake,yforceythey
+patientytoyvomityandyvisitytheynearestyhospital.yAdditionally,yvinylypackingycanycausey
+suffocation.yKeepyityoutyofytheyreachyofychildren.
+DoynotyletyyourychildrenyclimbyoryclingyontoytheyTV.y
+yy
+Otherwise,ytheyTVymayyfallyover,ywhichymayycauseyseriousyinjury.
+Disposeyofyusedybatteriesycarefullyytoyprotectyaychildyfromyeatingythem.y
+yy
+Inycaseythatyityeatsythem,ytakeyitytoyseeyaydoctoryimmediately.
+Doynotyinsertyayconductory(likeyaymetalychopstick)yintoyoneyendyofytheypowerycabley
+yy
+whileytheyotheryendyisyconnectedytoytheyinputyterminalyonytheywall.yAdditionally,ydoy
+notytouchytheypowerycableyrightyafterypluggingyintoytheywallyinputyterminal.y
+Youymayybeyelectrocuted.y(Dependingyonymodel)
+Doynotyputyorystoreyinflammableysubstancesynearytheyproduct.y
+yy
+Thereyisyaydangeryofyexplosionyoryfireydueycarelessyhandlingyofytheyinflammabley
+substances.
+Doynotydropymetallicyobjectsysuchyasycoins,yhairypins,ychopsticksyorywireyintoythey
+yy
+product,yoryinflammableyobjectsysuchyasypaperyandymatches.yChildrenymustypayy
+particularyattention.y
+Electricalyshock,yfireyoryinjuryycanyoccur.yIfyayforeignyobjectyisydroppedyintoythey
+product,yunplugytheypowerycordyandycontactytheyserviceycentre.
+Doynotysprayywateryonytheyproductyoryscrubywithyanyinflammableysubstancey(thinnery
+yy
+orybenzene).yFireyoryelectricyshockyaccidentycanyoccur.
+Doynotyallowyayimpactyshockyoryanyyobjectsytoyfallyintoytheyproduct,yandydoynotydropy
+yy
+ontoytheyscreenywithysomething.y
+Youymayybeyinjuredyorytheyproductycanybeydamaged.
+Neverytouchythisyproductyoryantennayduringyaythunderyorylightingystorm.y
+yy
+Youymayybeyelectrocuted.
+Neverytouchytheywallyoutletywhenythereyisyleakageyofygas,yopenytheywindowsyandy
+yy
+ventilate.y
+Itymayycauseyayfireyoryayburnybyyayspark.
+
+ENGLISH
+ENG
+
+Doynotyplugytooymanyyelectricalydevicesyintoyaysingleymultipleyelectricalyoutlet.y
+yy
+Otherwise,ythisymayyresultyinyfireydueytoyover-heating.
+
+5
+
+6
+
+SAFETY INSTRUCTIONS
+
+ENGLISH
+ENG
+
+Do not disassemble, repair or modify the product at your own discretion. y
+yy
+Fire or electric shock accident can occur. y
+Contact the service center for check, calibration or repair.
+If any of the following occur, unplug the product immediately and contact your local
+yy
+service centre.
+--The product has been impacted by shock
+--The product has been damaged
+--Foreign objects have entered the product
+--The product produced smoke or a strange smell
+This may result in fire or electric shock.
+If you don’t intend to use the product for a long time, unplug the power cable from
+yy
+the product. y
+Covering dust can cause a fire, or insulation deterioration can cause electric
+leakage, electric shock or fire.
+Apparatus shall not be exposed to dripping or splashing and no objects filled with
+yy
+liquids, such as vases, shall be placed on the apparatus.
+
+SAFETY INSTRUCTIONS
+
+Install the product where no radio wave occurs.
+yy
+
+There should be enough distance between an outside antenna and power lines to
+yy
+keep the former from touching the latter even when the antenna falls. y
+This may cause an electric shock.
+Do not install the product on places such as unstable shelves or inclined surfaces.
+yy
+Also avoid places where there is vibration or where the product cannot be fully
+supported. y
+Otherwise, the product may fall or flip over, which may cause injury or damage to
+the product.
+If you install the TV on a stand, you need to take actions to prevent the product
+yy
+from overturning. Otherwise, the product may fall over, which may cause injury.
+If you intend to mount the product to a wall, attach VESA standard mounting interface (optional
+yy
+parts) to the back of the product. When you install the set to use the wall mounting bracket (optional
+parts), fix it carefully so as not to drop.
+Only use the attachments / accessories specified by the manufacturer.
+yy
+When installing the antenna, consult a qualified service man. y
+yy
+This may create a fire hazard or an electric shock hazard.
+We recommend that you maintain a distance of at least 5 to 7 times the diagonal
+yy
+screen size when watching TV. y
+If you watch TV for a long period of time, this may cause blurred vision.
+Only use the specified type of battery. y
+yy
+This could cause damage to the remote control.
+Do not mix new batteries with old batteries. y
+yy
+This may cause the batteries to overheat and leak.
+Make sure there are no objects between the remote control and its sensor.
+yy
+
+Signal from the remote control may be disturbed by sun light or other strong light.
+yy
+In this case, darken the room.
+When connecting external devices such as video game consoles, make sure the
+yy
+connecting cables are long enough. y
+Otherwise, the product may fall over, which may cause injury or damage the
+product.
+
+ENGLISH
+ENG
+
+CAUTION
+
+7
+
+8
+
+SAFETY INSTRUCTIONS
+
+ENGLISH
+ENG
+
+Do not turn the product On/Off by plugging-in or unplugging the power plug to the
+yy
+wall outlet. (Do not use the power plug for switch.) y
+It may cause mechanical failure or could give an electric shock.
+Please follow the installation instructions below to prevent the product from
+yy
+overheating.
+--The distance between the product and the wall should be more than 10 cm.
+--Do not install the product in a place with no ventilation (e.g., on a bookshelf or in
+a cupboard).
+--Do not install the product on a carpet or cushion.
+--Make sure the air vent is not blocked by a tablecloth or curtain.
+Otherwise, this may result in fire.
+Take care not to touch the ventilation openings when watching the TV for long
+yy
+periods as the ventilation openings may become hot. This does not affect the
+operation or performance of the product.
+Periodically examine the cord of your appliance, and if its appearance indicates damage or
+yy
+deterioration, unplug it, discontinue use of the appliance, and have the cord replaced with an exact
+replacement part by an authorized servicer.
+Prevent dust collecting on the power plug pins or outlet. y
+yy
+This may cause a fire hazard.
+Protect the power cord from physical or mechanical abuse, such as being twisted,
+yy
+kinked, pinched, closed in a door, or walked upon. Pay particular attention to plugs,
+wall outlets, and the point where the cord exits the appliance.
+Do not press strongly upon the panel with a hand or sharp object such as nail,
+yy
+pencil or pen, or make a scratch on it.
+Avoid touching the screen or holding your finger(s) against it for long periods of
+yy
+time. Doing so may produce some temporary distortion effects on the screen.
+When cleaning the product and its components, unplug the power first and wipe it
+yy
+with a soft cloth. Applying excessive force may cause scratches or discolouration.
+Do not spray with water or wipe with a wet cloth. Never use glass cleaner, car or
+industrial shiner, abrasives or wax, benzene, alcohol etc., which can damage the
+product and its panel. y
+Otherwise, this may result in fire, electric shock or product damage (deformation,
+corrosion or breakage).
+As long as this unit is connected to the AC wall outlet, it is not disconnected from the AC power
+yy
+source even if you turn off this unit by SWITCH.
+When unplugging the cable, grab the plug and unplug it. y
+yy
+If the wires inside the power cable are disconnected, this may cause fire.
+When moving the product, make sure you turn the power off first. Then, unplug the
+yy
+power cables, antenna cables and all connecting cables. y
+The TV set or power cord may be damaged, which may create a fire hazard or
+cause electric shock.
+
+SAFETY INSTRUCTIONS
+
+Contact the service center once a year to clean the internal parts of the product. y
+yy
+Accumulated dust can cause mechanical failure.
+Refer all servicing to qualified service personnel. Servicing is required when the
+yy
+apparatus has been damaged in any way, such as power supply cord or plug is
+damaged, liquid has been spilled or objects have fallen into the apparatus, the
+apparatus has been exposed to rain or moisture, does not operate normally, or has
+been dropped.
+If the product feels cold to the touch, there may be a small “flicker” when it is turned
+yy
+on. This is normal, there is nothing wrong with product.
+The panel is a high technology TFT product with resolution of two million to six
+yy
+million pixels. You may see tiny black dots and/or brightly coloured dots (red, blue
+or green) at a size of 1 ppm on the panel. This does not indicate a malfunction and
+does not affect the performance and reliability of the product.  y
+This phenomenon also occurs in third-party products and is not subject to
+exchange or refund.
+You may find different brightness and colour of the panel depending on your
+yy
+viewing position(left/right/top/down). y
+This phenomenon occurs due to the characteristic of the panel. It is not related with
+the product performance, and it is not malfunction.
+
+Displaying a still image (e.g., broadcasting channel logo, on-screen menu, scene from a video
+yy
+game) for a prolonged time may cause damage to the screen, resulting in retention of the image,
+which is known as image sticking. The warranty does not cover the product for image sticking. y
+Avoid displaying a fixed image on your television’s screen for a prolonged period (2 or more hours
+for LCD, 1 or more hours for Plasma). y
+Also, if you watch the TV at a ratio of 4:3 for a long time, image sticking may occur on the borders of
+the panel. y
+This phenomenon also occurs in third-party products and is not subject to exchange or refund.
+yyGenerated Sound
+“Cracking” noise: A cracking noise that occurs when watching or turning off the TV is generated by
+plastic thermal contraction due to tempera-ture and humidity. This noise is common for products
+where thermal deformation is required. Electrical circuit humming/panel buzzing: A low level noise is
+generated from a high-speed switching circuit, which supplies a large amount of current to operate a
+product. It varies depend-ing on the product. y
+This generated sound does not affect the performance and reliability of the product.
+
+ENGLISH
+ENG
+
+When moving or unpacking the product, work in pairs because the product is
+yy
+heavy. y
+Otherwise, this may result in injury.
+
+9
+
+10 SAFETY INSTRUCTIONS
+
+ENGLISH
+ENG
+
+Viewing 3D Imaging (Only 3D models)
+
+WARNING
+Viewing Environment
+yy Viewing Time
+-- When watching 3D contents, take 5 - 15 minute breaks every hour. Viewing 3D contents for a long
+period of time may cause headache, dizziness, fatigue or eye strain.
+Those that have a photosensitive seizure or chronic illness
+yy Some users may experience a seizure or other abnormal symptoms when they are exposed to a
+flashing light or particular pattern from 3D contents.
+yy Do not watch 3D videos if you feel nausea, are pregnant and/ or have a chronic illness such as epilepsy,
+cardiac disorder, or blood pressure disease, etc.
+yy 3D Contents are not recommended to those who suffer from stereo blindness or stereo anomaly. Double
+images or discomfort in viewing may be experienced.
+yy If you have strabismus (cross-eyed), amblyopia (weak eyesight) or astigmatism, you may have trouble
+sensing depth and easily feel fatigue due to double images. It is advised to take frequent breaks than
+the average adult.
+yy If your eyesight varies between your right and left eye, revise your eyesight prior to watching 3D
+contents.
+Symptoms which require discontinuation or refraining from watching 3D contents
+yy Do not watch 3D contents when you feel fatigue from lack of sleep, overwork or drinking.
+yy When these symptoms are experienced, stop using/watching 3D contents and get enough rest until the
+symptom subsides.
+-- Consult your doctor when the symptoms persist. Symptoms may include headache, eyeball pain,
+dizziness, nausea, palpitation, blurriness, discomfort, double image, visual inconvenience or fatigue.
+
+SAFETY INSTRUCTIONS
+
+11
+
+Viewing Environment
+�	 Viewing Distance
+-	 Maintain a distance of at least twice the screen diagonal length when watching 3D contents. If you
+feel discomfort in viewing 3D contents, move further away from the TV.
+Viewing Age
+yy Infants/Children
+-- Usage/ Viewing 3D contents for children under the age of 5 are prohibited.
+-- Children under the age of 10 may overreact and become overly excited because their vision is in
+development (for example: trying to touch the screen or trying to jump into it. Special monitoring
+and extra attention is required for children watching 3D contents.
+-- Children have greater binocular disparity of 3D presentations than adults because the distance
+between the eyes is shorter than one of adults. Therefore they will perceive more stereoscopic
+depth compared to adults for the same 3D image.
+yy Teenagers
+-- Teenagers under the age of 19 may react with sensitivity due to stimulation from light in 3D
+contents. Advise them to refrain from watching 3D contens for a long time when they are tired.
+yy Elderly
+-- The elderly may perceive less 3D effect compared to the youth. Do not sit closer to the TV than the
+recommended distance.
+Cautions when using the 3D glasses
+�	 Make sure to use LG 3D glasses. Otherwise, you may not be able to view 3D videos properly.
+�	 Do not use 3D glasses instead of your normal glasses, sunglasses or protective goggles.
+�	 Using modified 3D glasses may cause eye strain or image distortion.
+�	 Do not keep your 3D glasses in extremely high or low temperatures. It will cause deformation.
+�	 The 3D glasses are fragile and are easy to be scratched. Always use a soft, clean piece of cloth when
+wiping the lenses. Do not scratch the lenses of the 3D glasses with sharp objects or clean/wipe them
+with chemicals.
+
+ENGLISH
+ENG
+
+CAUTION
+
+12 INSTALLATION PROCEDURE / ASSEMBLING AND PREPARING
+
+ENGLISH
+ENG
+
+NOTE
+yy Image shown may differ from your TV.
+yy Your TV’s OSD (On Screen Display) may differ slightly from that shown in this manual.
+yy The available menus and options may differ from the input source or product model that you are
+using.
+yy New features may be added to this TV in the future.
+yy The TV can be placed in standby mode in order to reduce the power consumption. And the TV should
+be turned off if it will not be watched for some time, as this will reduce energy consumption.
+yy The energy consumed during use can be significantly reduced if the level of brightness of the picture
+is reduced, and this will reduce the overall running cost.
+
+INSTALLATION PROCEDURE
+1	
+2	
+3	
+4	
+
+Open the package and make sure all the accessories are included.
+Attach the stand to the TV set.
+Connect an external device to the TV set.
+Make sure the network connection is available.y
+You can use the TV network functions only when the network connection is made.
+
+ASSEMBLING AND PREPARING
+Unpacking
+Check your product box for the following items. If there are any missing accessories, contact the local
+dealer where you purchased your product. The illustrations in this manual may differ from the actual
+product and item.
+
+CAUTION
+yy Do not use any unapproved items to ensure the safety and product life span.
+yy Any damages or injuries by using unapproved items are not covered by the warranty.
+yy Some models have a thin film attached on to the screen and this must not be removed.
+
+NOTE
+yy The items supplied with your product may vary depending on the model.
+yy Product specifications or contents of this manual may be changed without prior notice due to upgrade
+of product functions.
+yy For an optimal connection, HDMI cables and USB devices should have bezels less than 10 mm thick
+and 18 mm width. Use an extension cable that supports USB 2.0 if the USB cable or USB memory
+stick does not fit into your TV’s USB port.
+B
+
+B
+A
+
+A
+
+*A <
+= 10 mm
+*B <
+= 18 mm
+
+ASSEMBLING AND PREPARING
+
+13
+
+TV
+SAVING
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+LIST
+
+0
+
+FLASHBK
+
+MARK
+
+FAV
+
+VOL
+
+3D
+
+CH
+
+P
+A
+G
+E
+
+MUTE
+MENU INFO
+
+Q.MENU
+
+ENTER
+
+BACK
+
+EXIT
+L/R SELECT
+
+Remote control and
+batteries (AAA)
+(See p. 21, 22)
+
+Owner’s manual
+
+Polishing cloth
+(Depending on model)
+Use this to remove dust
+from the cabinet.
+
+Cinema 3D Glasses
+The number of 3D glasses
+may differ depending on
+the model or country.
+(Only
+32/37/42/47/55LM61**,
+32/42/47LM58**,
+32/37/42LM34**,
+47CM96**)
+
+Cable holder
+(Depending on model)
+(See p. A-5)
+
+Power Cord
+
+Stand Screws
+8 EA, M4 x 20
+(See p. A-3, A-4)
+
+Desk-mount Screw
+(Only 32/37LM611*,
+32/42/47LM58**,
+32/37/42LM34**,
+32/37/42/47LS56**)
+(See p. 18)
+
+Desk-mount Cable
+(Only 42/47/55LM615*)
+(See p. 18)
+
+Bracket Screw
+2 EA, M4 x 8
+(Only 42/47/55LM615*)
+(See p. 18)
+
+Wall mount inner spacers
+4EA
+(Only
+32/37/42/47/55LM61**,
+32/42/47LM58**,
+32/37/42/47LS56**)
+(See p. 20)
+
+Protection cover
+(Only 32/37/42LM34**,
+47CM96**)
+(See p. A-4)
+
+FREEZE
+
+RATIO
+
+       or
+
+Isolator
+(Depending on model)
+(See p.14)
+
+ENGLISH
+ENG
+
+ENERGY AV MODE INPUT
+
+14 ASSEMBLING AND PREPARING
+
+ENGLISH
+ENG
+
+Stand Body / Stand Base
+(Only 42/47/55LM615*)
+(See p. A-3)
+
+Stand Body / Stand Base
+(Only 32/37LM611*, 32/42/47LM58**, 32/37/42/47LS56**)
+(See p. A-3)
+
+Stand Body / Stand Base
+(Only 32/37/42LM34**, 47CM96**)
+(See p. A-4)
+
+NOTE
+yy Antenna Isolator Installation Guide
+-- Use this to install TV in a place where there is a voltage difference between TV Set and GND of
+antenna signal.
+»» If there is a voltage difference between TV Set and GND of antenna signal, the antenna contact
+might be heated and excessive heat might cause an accident.
+-- You can improve the safety when watching TV by efficiently removing power voltage from TV
+antenna. It is recommended to mount the isolator to the wall. If it cannot be mounted to the wall,
+mount it on the TV. Avoid disconnecting the antenna Isolator after installation.
+-- Before starting, be sure that the TV antenna is connected.
+1. Connect to TV.
+
+Wall
+ANTENNA/
+CABLE IN
+
+Cable / Antenna
+
+or
+
+Isolator
+2. Connect to Set-Top box.
+
+Connect one end of the isolator to cable/antenna jack and the other to TV set or set-top box.
+“Equipment connected to the protective earthing of the building installation through the mains connection
+or through other equipment with a connection to protective earthing - and to a cable distribution system
+using coaxial cable, may in some circumstances create a fire hazard. Connection to a cable distribution
+system has therefore to be provided through a device providing electrical isolation below a certain
+frequency range (galvanic isolator, see EN 60728-11)”
+W
+ hen applying the RF Isolator, a slight loss of signal sensitivity can occur.
+
+ASSEMBLING AND PREPARING
+
+Separate purchase items can be changed or modified for quality improvement without any notification.
+Contact your dealer to buying these items.
+These devices only work with certain models.
+
+AG-F2**, AG-F3**
+Cinema 3D Glasses
+The model name or design
+may be changed depending
+on the upgrade of product
+functions,manufacturer’s
+circumstances or policies.
+
+Compatibility
+
+32/37/42/47/55LM61**,
+32/42/47LM58**,
+32/37/42LM34**, 47CM96**
+
+AG-F2**, AG-F3**
+Cinema 3D Glasses
+
+•
+
+32/37/42/47LS56**
+
+ENGLISH
+ENG
+
+Separate purchase
+
+15
+
+16 ASSEMBLING AND PREPARING
+
+ENGLISH
+ENG
+
+Parts and buttons
+
+A type :
+
+32/37/42/47/55LM61**,
+32/42/47LM58**, 32/37/42LM34**,
+32/37/42/47LS56**
+
+B type :
+
+47CM96**
+
+Screen
+
+Screen
+
+buttons
+
+Remote control and
+intelligent sensors1
+OK
+
+Power indicator
+Speakers
+
+Speakers
+
+Touch buttons2
+OK
+
+SETTINGS
+
+INPUT
+
+Remote control and
+intelligent sensors1
+
+SETTING
+INPUT
+
+Power indicator
+
+buttons
+H
+
+Description
+Scrolls through the saved programmes.
+Adjusts the volume level.
+
+H
+
+OK
+
+Selects the highlighted menu option or confirms an input.
+
+SETTINGS
+
+Accesses the main menu, or saves your input and exits the menus.
+
+INPUT
+
+Changes the input source.
+
+/I
+
+Turns the power on or off.
+
+1	 Intelligent sensor - Adjusts the image quality and brightness based on the surrounding environment.
+2	 A type buttons are touch sensitive and can be operated through simple touch with your finger.
+
+NOTE
+yy You can set the power indicator light to on or off by selecting OPTION in the main menus.
+
+ASSEMBLING AND PREPARING
+
+When moving or lifting the TV, read the following to
+prevent the TV from being scratched or damaged
+and for safe transportation regardless of its type
+and size.
+
+yy When transporting a large TV, there should be
+at least 2 people.
+yy When transporting the TV by hand, hold the TV
+as shown in the following illustration.y
+
+CAUTION
+yy Avoid touching the screen at all times, as
+this may result in damage to the screen.
+yy It is recommended to move the TV in the box
+or packing material that the TV originally came
+in.
+yy Before moving or lifting the TV, disconnect the
+power cord and all cables.
+yy When holding the TV, the screen should face
+away from you to avoid damage.y
+
+yy When transporting the TV, do not expose the
+TV to jolts or excessive vibration.
+yy When transporting the TV, keep the TV upright,
+never turn the TV on its side or tilt towards the
+left or right.
+
+Mounting on a table
+1	 Lift and tilt the TV into its upright position on a
+table.
+-- Leave a 10 cm (minimum) space from the
+wall for proper ventilation.
+yy Hold the top and bottom of the TV frame firmly.
+Make sure not to hold the transparent part,
+speaker, or speaker grill area.y
+10 cm
+
+10 cm
+
+m
+10 c
+10 cm
+
+2	 Connect the power cord to a wall outlet.
+
+CAUTION
+yy Do not place the TV near or on sources
+of heat, as this may result in fire or other
+damage.
+
+ENGLISH
+ENG
+
+Lifting and moving the TV
+
+17
+
+18 ASSEMBLING AND PREPARING
+
+ENGLISH
+ENG
+
+Securing the TV to a table
+Fix the TV to a table to prevent from tilting forward,
+damage, and potential injury.
+(Only 32/37LM611*, 32/42/47LM58**,
+32/37/42LM34**, 32/37/42/47LS56**)
+To secure the TV to a table, insert and tighten the
+supplied screw on the rear of the stand.
+
+Adjusting the angle of the TV to suit view
+(Only 32/37LM611*, 32/42/47LM58**,
+32/37/42LM34**, 32/37/42/47LS56**, 47CM96**)
+Swivel 20 degrees to the left or right and adjust the
+angle of the TV to suit your view.
+20
+
+20
+
+(Only 42/47/55LM615*)
+Swivel 10 degrees to the left or right and adjust the
+angle of the TV to suit your view.
+(Only 42/47/55LM615*)
+1	 Connect the Desk-mount Cables to the Stand
+Base using the Bracket Screws.
+2	 Fix the Desk-mount Cables to a table using the
+Desk-mount Screws.
+3	 Once the TV is fixed, move the table close to
+the wall. Children may go in, causing injuries.
+
+
+
+10
+
+10
+
+CAUTION
+yy When adjusting the angle of the product,
+watch out for your fingers.
+-- Personal injury may occur if hands or
+fingers are pinched. If the product is tilted
+too much, it may fall, causing damage or
+injury.y
+y
+(Only 42/47/55LM615*)
+
+M4 x 8
+2EA
+
+WARNING
+yy To prevent TV from falling over, the TV
+should be securely attached to the floor/
+wall per installation instructions. Tipping,
+shaking, or rocking the TV may cause injury.
+
+<Rear>
+
+<Front>
+
+ASSEMBLING AND PREPARING
+
+(This feature is not available for all models.)
+
+Using the Kensington security system
+(This feature is not available for all models.)
+The Kensington security system connector is
+located at the rear of the TV. For more information
+of installation and using, refer to the manual
+provided with the Kensington security system or
+visit
+.
+Connect the Kensington security system cable
+between the TV and a table.
+
+1	 Insert and tighten the eye-bolts, or TV brackets
+and bolts on the back of the TV.
+-- If there are bolts inserted at the eye-bolts
+position, remove the bolts first.
+2	 Mount the wall brackets with the bolts to the
+wall.y
+Match the location of the wall bracket and the
+eye-bolts on the rear of the TV.
+3	 Connect the eye-bolts and wall brackets tightly
+with a sturdy rope.y
+Make sure to keep the rope horizontal with the
+flat surface.
+
+CAUTION
+yy Make sure that children do not climb on or
+hang on the TV.
+
+NOTE
+yy Use a platform or cabinet that is strong and
+large enough to support the TV securely.
+yy Brackets, bolts and ropes are not provided.
+You can obtain additional accessories from
+your local dealer.
+
+ENGLISH
+ENG
+
+Securing the TV to a wall
+
+19
+
+20 ASSEMBLING AND PREPARING
+
+ENGLISH
+ENG
+
+Mounting on a wall
+Attach an optional wall mount bracket at the rear
+of the TV carefully and install the wall mount
+bracket on a solid wall perpendicular to the
+floor. When you attach the TV to other building
+materials, please contact qualified personnel.
+LG recommends that wall mounting be performed
+by a qualified professional installer.
+
+10 cm
+
+10 cm
+
+10 cm
+
+Make sure to use screws and wall mount
+bracket that meet the VESA standard. Standard
+dimensions for the wall mount kits are described in
+the following table.
+Separate purchase (Wall Mounting Bracket)
+Model
+
+32/37LM61**
+32LM58**
+32/37LM34**y
+32/37LS56**
+
+VESA (A x B)
+Standard
+screw
+Number of
+screws
+Wall mount
+bracket
+
+200 x 200
+M6
+
+42/47/55LM61**
+42/47LM58**
+42LM34**y
+42/47LS56**
+47CM96**
+400 x 400
+M6
+
+4
+
+4
+
+LSW200BX,
+LSW200BXG
+
+LSW400BX,
+LSW400BXG
+
+A
+
+yy Disconnect the power first, and then move
+or install the TV. Otherwise electric shock
+may occur.
+yy If you install the TV on a ceiling or slanted
+wall, it may fall and result in severe injury.y
+Use an authorized LG wall mount and
+contact the local dealer or qualified
+personnel.
+yy Do not over tighten the screws as this may
+cause damage to the TV and void your
+warranty.
+yy Use the screws and wall mounts that meet
+the VESA standard. Any damages or injuries
+by misuse or using an improper accessory
+are not covered by the warranty.
+
+NOTE
+
+10 cm
+
+B
+
+CAUTION
+
+yy Use the screws that are listed on the VESA
+standard screw specifications.
+yy The wall mount kit includes an installation
+manual and necessary parts.
+yy The wall mount bracket is not provided. You
+can obtain additional accessories from your
+local dealer.
+yy The length of screws may differ depending
+on the wall mount. Make sure to use the
+proper length.
+yy For more information, refer to the manual
+supplied with the wall mount.
+yy When attaching a third-party wall mounting
+bracket to the TV, insert the wall mount
+inner spacers into the TV wall mount
+holes to move your TV in vertical angle.
+Please make sure not to use the spacers
+for LG wall mounting bracket. (Only
+32/37/42/47/55LM61**, 32/42/47LM58**,
+32/37/42/47LS56**)
+
+Wall Mount Inner Spacer
+
+REMOTE CONTROL
+
+The descriptions in this manual are based on the buttons on the remote control.
+Please read this manual carefully and use the TV correctly.
+To replace batteries, open the battery cover, replace batteries (1.5 V AAA) matching
+the
+and
+ends to the label inside the compartment, and close the battery cover.
+To remove the batteries, perform the installation actions in reverse.
+
+CAUTION
+yy Do not mix old and new batteries, as this may damage the remote control.
+Make sure to point the remote control toward the remote control sensor on the TV.
+(Only 32/37/42/47/55LM61**, 32/42/47LM58**, 32/37/42LM34**, 47CM96**)
+
+RATIO
+
+INPUT
+
+ENERGY
+
+TV /
+RAD
+SAVING
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+LIST
+
+0
+
+Q.VIEW
+
+FAV
+
+P
+MUTE
+
+P
+A
+G
+E
+
+Navigation buttons
+(up/down/left/right)
+
+3D OPTION
+
+SETTINGS INFO
+
+Q.MENU
+
+1 Coloured buttons
+
+OK
+
+GUIDE
+
+EXIT
+
+3 Control buttons
+
+1
+2
+
+2 TELETEXT
+BUTTONS
+
+TEXT
+
+T.OPT
+
+3
+AD
+
+AV MODE
+
+SUBTITLE
+
+(
+
+)
+
+Selects Radio, TV and DTV programme.
+Resizes an image.
+Changes the input source; Turns the TV on.
+Adjusts the brightness of the screen to reduce energy
+consumption.
+Accesses the saved  programme list.
+Returns to the previously viewed programme.
+Accesses your favourite programme list.
+Used for viewing 3D video.
+Moves to the previous or next screen.
+Accesses the main menus.
+Accesses your favourite programme list.
+Accesses the Quick menus.
+Use this to view 3D video.
+Scrolls through menus or options.
+Moves to the previous or next screen.
+Returns to the previous level.
+Shows programme guide.
+Clears on-screen displays and return to TV viewing.
+These access special functions in some menus.
+( : Red,
+: Green,
+: Yellow,
+: Blue)
+These buttons are used for teletext.
+Recalls your preferred subtitle in digital mode.
+Controls the MY MEDIA menus, or the SIMPLINK
+compatible devices (USB,SIMPLINK).
+Accesses the AV devices connected to the TV; y
+Opens the SIMPLINK menu.
+Switches the Audio Description on or off.
+Selects an AV mode.
+
+ENGLISH
+ENG
+
+REMOTE CONTROL
+
+21
+
+22 REMOTE CONTROL
+
+ENGLISH
+ENG
+
+(Only 32/37/42/47LS56**)
+Adjusts the brightness of the screen to reduce energy
+consumption.
+Selects Radio, TV and DTV programme.
+
+Navigation buttons
+(up/down/left/right)
+
+1
+2
+3
+
+1 Coloured buttons
+2 Control buttons
+
+(
+
+3 TELETEXT
+BUTTONS
+
+)
+
+Shows programme guide.
+Accesses your favourite programme list.
+Resizes an image.
+Changes the input source; Turns the TV on.
+Accesses the saved  programme list.
+Returns to the previously viewed programme.
+Accesses the main menus.
+Accesses the Quick menus.
+Scrolls through menus or options.
+Moves to the previous or next screen.
+Returns to the previous level.
+Clears on-screen displays and return to TV viewing.
+Accesses your favourite programme list.
+Switches the Audio Description on or off.
+Moves to the previous or next screen.
+These access special functions in some menus.
+( : Red,
+: Green,
+: Yellow,
+: Blue)
+Controls the MY MEDIA menus, or the SIMPLINK
+compatible devices (USB,SIMPLINK).
+Recalls your preferred subtitle in digital mode.
+These buttons are used for teletext.
+
+USINGyTHEyUSERyGUIDE
+
+23
+
+ENGLISH
+ENG
+
+USING THE USER GUIDE
+UseryGuideyallowsyyouytoymoreyeasilyyaccessytheydetailedyTVyinformation.
+
+1y PressySETTINGSytoyaccessytheymainymenus.
+2y PressytheyRED buttonytoyaccessytheyCustomer
+Supportymenus.
+3y PressytheyNavigationybuttonsytoyscrollytoyUser
+GuideyandypressyOK.
+
+UseryGuide
+
+1
+
+PROGRAMMEySetting
+PICTURE,ySOUNDySetting
+OPTION
+
+OPTIONy>yToysetylanguage
+SETTINGy y yOPTIONy yLanguage
+Youycanyselectytheylanguageyofytheymenuydisplayedyonytheyscreenyandythey
+digitalysoundybroadcasting.
+yyyMenuyLanguagey:ySelectsyaylanguageyforytheydisplayytext.
+yyyAudioyLanguageyyy[InyDigitalyModeyOnly]y:ySelectytheydesiredylanguagey
+whenywatchingydigitalybroadcastingycontaingyseveraly
+voiceylanguages.
+yyySubtitleyLanguageyy[InyDigitalyModeyOnly]y:yUseytheySubtitleyfunctionywheny
+twoyorymoreysubtitleylanguagesyareybroadcast.
+y yyIfysubtitleydatayinyayselectedylanguageyisynotybroadcast,ytheydefaultylanguageysubtitleywillybeydisplayed.
+
+AdvabcedyFunction
+Information
+PICTURE
+
+AUDIO
+
+SETUP
+
+TIME
+
+LOCK
+
+OPTION
+
+NETWORK
+
+MYyMEDIA
+
+PressyOK()yytoysetyyourypictureysettings.
+
+CustomerySupport
+
+2
+
+ZoomyIn
+
+Close
+
+SETTINGy y yOPTIONy yLanguage
+Youycanyselectytheylanguageyofytheymenuydisplayedyonytheyscreenyandythey
+digitalysoundybroadcasting.
+yyyMenuyLanguagey:ySelectsyaylanguageyforytheydisplayytext.
+yyyAudioyLanguageyyy[InyDigitalyModeyOnly]y:yelectytheydesiredylanguageywheny
+watchingydigitalybroadcastingycontaingyseveralyvoicey
+languages.
+yyySubtitleyLanguageyy[InyDigitalyModeyOnly]y:yUseytheySubtitleyfunctionywheny
+twoyorymoreysubtitleylanguagesyareybroadcast.
+y yyIfysubtitleydatayinyayselectedylanguageyisynotybroadcast,ytheydefaultylanguageysubtitleywillybeydisplayed.
+
+Exit
+
+SoftwareyUpdate
+PictureyTest
+
+2
+
+SoundyTest
+SignalyTest
+
+ZoomyOut
+
+Close
+
+Product/ServiceyInfo.
+NetworkyTest
+UseryGuide
+Close
+
+UseryGuide
+
+3
+
+2
+Toyuseyinputydevice
+ToyuseyEnergyySavingyfeature
+
+PROGRAMMEySetting
+
+Toysetytimeyoptions
+
+PICTURE,ySOUNDySetting
+OPTION
+
+ToysetyTVylockyoptions
+Toysetylanguage
+
+AdvabcedyFunction
+
+DisabledyAssistance
+
+Information
+
+1
+
+Toysetyotheryoptions
+
+1
+
+Allowsytoyselectytheycategoryyyouywant.
+
+2
+
+Allowsytoyselectytheyitemyyouywant.
+Youycanyusey
+ytoymoveybetweenypages.
+H
+
+3
+
+Allowsytoybrowseytheydescriptionyofythey
+functionyyouywantyfromytheyindex.
+
+1
+
+Showsytheydescriptionyofytheyselectedymenu.
+ytoymoveybetweenypages.
+Youycanyusey
+H
+
+2
+
+Zoomsyinyoryoutytheyscreen.
+
+24 MAINTENANCE / TROUBLESHOOTING
+
+ENGLISH
+ENG
+
+MAINTENANCE
+Cleaning your TV
+Clean your TV regularly to keep the best performance and to extend the product lifespan.
+
+CAUTION
+yy Make sure to turn the power off and disconnect the power cord and all other cables first.
+yy When the TV is left unattended and unused for a long time, disconnect the power cord from the wall
+outlet to prevent possible damage from lightning or power surges.y
+
+Screen, frame, cabinet and stand
+yy To remove dust or light dirt, wipe the surface with a dry, clean, and soft cloth.
+yy To remove major dirt, wipe the surface with a soft cloth dampened in clean water or a diluted mild
+detergent. Then wipe immediately with a dry cloth.
+
+CAUTION
+yy Avoid touching the screen at all times, as this may result in damage to the screen.
+yy Do not push, rub, or hit the screen surface with your fingernail or a sharp object, as this may result in
+scratches and image distortions.
+yy Do not use any chemicals as this may damage the product.
+yy Do not spray liquid onto the surface. If water enters the TV, it may result in fire, electric shock, or
+malfunction.y
+
+Power cord
+Remove the accumulated dust or dirt on the power cord regularly.
+
+TROUBLESHOOTING
+Problem
+
+Solution
+
+Cannot control
+the TV with the
+remote control.
+
+yy Check the remote control sensor on the product and try again.
+yy Check if there is any obstacle between the product and the remote control.
+yy Check if the batteries are still working and properly installed ( to , to ).
+
+No image display
+and no sound is
+produced.
+
+yy Check if the product is turned on.
+yy Check if the power cord is connected to a wall outlet.
+yy Check if there is a problem in the wall outlet by connecting other products.
+
+The TV turns off
+suddenly.
+
+yy Check the power control settings. The power supply may be interrupted.
+yy Check if the Auto sleep feature is activated in the Time settings.
+yy If there is no signal while the TV is on, the TV will turn off automatically after
+15 minutes of inactivity.
+
+When connecting
+to the PC (RGB/
+HDMI DVI),
+‘No signal’ or
+‘Invalid Format’ is
+displayed.
+
+yy Turn the TV off/on using the remote control.
+yy Reconnect the RGB/HDMI cable.
+yy Restart the PC with the TV on.

@@ -1,0 +1,1031 @@
+LAC5800R_DHUNLLR_CRO_5349
+
+MODEL : LAC5800R
+
+HRVATSKI
+
+Sadržaj
+2
+3
+4
+
+Sadržaj
+Sigurnosne napomene
+Prednja ploča / Daljinski upravljač
+(dodatna mogućnost)
+O upravljačkoj ploči koja se može skidati
+
+5
+
+9
+
+Priključivanje USB ureœaja
+
+9
+10
+
+Priključivanje dodatne opreme (Auxiliary)
+Slušanje CD-a
+
+Prelazak na drugi pogon
+
+Pauziranje ili resetiranje CD-a
+Tražnje odsjeka unutar snimke / datoteke
+Preskakanje na drugu snimku / datoteku
+Uvodno skeniranje
+Ponavljanje
+Nasumično
+MP3/WMA snimka -10 / +10
+MP3/WMA folder GORE/DOLJE
+Gledanje informacije o glazbi
+
+Stavljanje upravljačke ploče
+Skidanje upravljačke ploče
+
+6
+
+Instaliranje
+Osnovno instaliranje
+Skidanje postojećeg prijemnika
+ISO-DIN instaliranje
+Umetanje baterije
+
+7
+8
+
+Priključivanje
+Osnovne operacije
+Isključenje tona
+Mijenjanje općenitih postavki
+Korištenje EQ-u
+Podešavanje glasnoće
+XDSS+
+Provjera sata
+
+8
+
+Slušanje RDS prijenosa
+RDS emitirane informacije.
+
+9
+
+Slušanje radija
+Auto traženje memorije
+Spremanje i pozivanje emitiranih frekvencija
+Skeniranje preset stanica
+Podešavanje preset stanica
+
+2
+
+AUTO CD/MP3/WMA prijemnik
+
+11
+12
+12
+
+Otklanjanje teškoća
+Informacije o općenitom podešavanju
+Specifikacije
+
+Ovaj proizvod proizveden je u skladu s Direktivom
+2006/28/EEC(ANNEX I , 3.2.9), 72/245/EEC, i 2006/95/EC.
+Europski predstavnik:
+LG Electronics Service Europe B.V. Veluwezoom 15, 1327 AE
+Almere, The Netherlands (Tel : +31-036-547-8940)
+
+Sigurnosne napomene
+OPREZ
+NE OTVARAJTE, OPASNOST OD
+STRUJNOG UDARA
+
+U CILJU SMANJENJA OPASNOSTI OD STRUJNOG
+UDARA NE SKIDAJTE POKLOPAC (ILI ZADNJI DIO).
+UNUTRA NEMA DIJELOVA KOJE BI MOGAO
+SERVISIRATI KORISNIK. SERVISIRANJE TREBA
+OBAVLJATI ZA TO KVALIFICIRANO OSOBLJE.
+Munja sa simbolom strelice, unutar jedankostraničnog trokuta treba korisnika
+upozoriti na prisutnost neizoliranog opasnog napona unutar kućišta proizvoda koji
+bi mogao biti dovoljne jakosti da predstavlja opasnost od strujnog udara za osobe.
+Uskličnik unutar jedankostraničnog trokuta upozorava korisnika na postojanje
+važnih uputa za rad i održavanje (servisiranje) u knjižicama koje prate ureœaj.
+Vozilom uvijek upravljajte na siguran način.
+Zadržite svoju pažnju tijekom vožnje i uvijek budite potpuno svjesni svih uvjeta
+za vožnju. Ne mijenjajte postavke i nijednu funkciju. Prije nego li se odlučite za
+takve operacije povucite se sigurno i na zakonom dozvoljeni način.
+
+OPREZ: Ovaj ureœaj je opremljen laserskim sistemom.
+U svrhu pravilne upotrebe ovog ureœaja molimo, pažljivo pročitajte ovaj priručnik za
+korisnika. Sačuvajte priručnik kao referencu za buduće potrebe. Ako je ureœaj potrebno
+popravljati obratite se ovlaštenom servisnom centru (pogledajte postupak za servisiranje).
+Upotreba kontrola, podešavanja ili izvoœenje postupaka koji nisu navedeni u priručniku
+mogu dovesti do opasnog izlaganja radijaciji.
+Kako biste spriječili izlaganje laserskoj zraci ne pokušavajte otvarati kućište.
+Vidljiva laserska radijacija u slučaju otvaranja. NE GLEDAJTE U ZRAKU.
+
+Uklanjanje starog aparata
+1. Ako se na proizvodu nalazi simbol prekrižene kante za smeće, to znači da je
+proizvod pokriven europskom direktivom 2002/96/EC.
+2. Električni i elektronski proizvodi ne smiju se odlagati zajedno s komunalnim
+otpadom, već u posebna odlagališta koja je odredila vlada ili lokalne vlasti.
+3. Pravilno odlaganje starog proizvoda spriječit će potencijalne negativne
+posljedice po okoliš i zdravlje ljudi.
+4. Podrobnije informacije o odlaganju starog proizvoda potražite u gradskom
+uredu, službi za odlaganje otpada ili u trgovini u kojoj ste kupili proizvod.
+
+Ne upotrebljavajte ureœaj puno sati na ekstremno niskim ili visokim
+temperaturama. (-10~60°C)
+Kako bi smanjili rizik od strujnog udara, ne skidajte prednji ili zadnji poklopac
+ovog proizvoda. Unutra nema dijelova koje korisnik može servisirati.
+Servisiranje prepustite kvalificiranom osoblju za servisiranje.
+Kako bi smanjili rizik od strujnog udara, ne izlažite ovaj proizvod vodi koja
+kaplje ili zapljuskuje, kiši ili vlazi.
+Zbog visoke temperature izvan ureœaja, molimo upotrebljavajte ureœaj samo kada
+je instaliran u automobilu.
+8 cm
+
+Ovaj ureœaj ne može raditi s diskovima od 8 cm (upotrebljavajte samo diskove
+od12 cm).
+
+Oprez
+Kada se ureœaj priključi na pogrešan način prikazuje se sljedeće.
+1. Antenski priključak upitan:
+“ANTENNA ON PORT SHORT CIRCUIT CHECK”
+2. Daljinski priključak upitan: “REMOTE ON PORT SHORT CIRCUIT CHECK”
+3. Antenski priključak i daljinski priključak su upitni:
+“ANTENNA REMOTE ON PORT SHORT CIRCUIT CHECK”
+Nakon ponovljenog priključivanja, ponovo isključite/uključite ureœaj.
+Kada se formatira RW disk, opciju za format diska treba postaviti na [Mastered] kako
+bi diskovi bili kompatibilni s LG Player-om.
+Kada opciju postavljate na Live File System, disk nećete moći koristiti na LG playerima. (Mastered/Live File System : Sustav Formata za disk za Windows Vista-u)
+
+AUTO CD/MP3/WMA prijemnik
+
+3
+
+Prednja ploča / Daljinski upravljač (dodatna mogućnost)
+1
+2
+
+10
+
+3
+4
+
++
+
+11
+
+INT
+
+12
+
+5
+6
+7
+
+13
+
+8
+
+14
+
+9
+
+15
+16
+
+1
+2
+3
+
+IZVOR [SRC]
+Skoči / Traži / Traži / Podesi -?b / B?+
+U/AS]
+• Auto spremanje [U
+u/PS]
+• Preset skeniranje [u
+u
+• MP3/WMA snimak +10/-10 U/u
+u
+• Folder gore/dolje U/u
+• Glasnoća
+• [MUTE]
+• Uključi/isključi [PWR]
+Senzor za daljinski (Dodatna mogućnost)
+[MENU]
+• Equalizer [EQ]
+• Extreme Dynamic Sound System
+[XDSS+]
+• Prometne obavijesti [TA]
+• Vrsta programa [PTY]
+Displej [DISP]
+
+4
+
+5
+6
+7
+
+8
+9
+
+4
+
+AUTO CD/MP3/WMA prijemnik
+
+Izbacivanje Z
+Otpusti
+USB priključak
+AUX ulaz
+Preset Stanica [1~6]
+Nasumična reprodukcija [SHF]
+Ponovi [RPT]
+Uvodno skeniranje (Intro Scan) [INT]
+Reprodukcija/Pauza B/X
+• [BAND]
+• [DRIVE]
+20 Odaberi [SEL]
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+Power (Isklj/uklj) [POWER]
+/ Mute
+(Isklj./uklj. ton)
+Odaberi [MENU/SEL]
+Izvor [SRC]
+Reprodukcija / Pauza B/X
+Uvodno skeniranje [INT]
+Nasumično [SHF]
+• MP3/WMA snimak +10
+• Folder gore U
+• CD Skoči / Traži
+• Traži / Podesi ?m m
+
+9
+10
+11
+12
+13
+14
+15
+16
+
+• [BAND]
+• POGON [DRV]
+Glasnoća jača
+/
+slabija
+Broj [#]
+Ponovi [RPT]
+Broj [0 -9]
+• CD Skoči / Traži
+• Traži/ podesi M M?
+Displej [DISP.]
+• MP3/WMA snimak -10
+• Folder dolje u
+
+O upravljačkoj ploči koja se može skidati
+Stavljanje upravljačke ploče
+1
+2
+
+Skidanje upravljačke ploče
+
+Lijevu stranu prednje ploče poravnajte sa zaustavljačem.
+Gurnite desnu stranu ili ploču u ureœaja sve
+dok ne začujete klik.
+
+1
+
+1
+
+2
+
+2
+
+3
+4
+
+Pitisnite “
+” (Otpusti) kako bi
+otvorili upravljačku ploču.
+Uhvatite desni dio upravljačke
+ploče.
+Povucite van upravljačku ploču.
+Stavite upravljačku ploču u
+isporučeno zaštitno kućište
+
+2
+
+3
+1
+Oprez
+• Ako upravljačka ploča nije dobro stavljena, upravljačke tipke možda neće dobro raditi.
+U tom slučaju, lagano pritisnite displej.
+
+4
+
+• Ne ostavljate upravljačku ploču na mjestu koje je izloženo visokim temperaturama ili
+izravnoj sunčevoj svjetlosti.
+• Ne bacajte upravljačku ploču i pazite da ne bude izložena jakim udarcima.
+• Pazite da jaka otapala kao što su benzin, razrjeœivači ili insekticidi ne doœu u dodir s
+površinom upravljačke ploče.
+
+Upravljačka ploča
+Zaštitno kučište
+Napomena
+S vremena na vrijeme obrišite kontakte na zadnjoj strani upravljačke ploče pamučnim štapićem namočenim u alkohol. Zbog sigurnosti, prije čišćenja ugasite automobil i izvadite ključ automobila iz bravice.
+
+AUTO CD/MP3/WMA prijemnik
+
+5
+
+Instaliranje
+ISO-DIN instaliranje
+
+Osnovno instaliranje
+
+1
+2
+
+Prije instalacije provjerite je li prekidač za
+uključivanje postavljen na isključeno
+(OFF) i skinite kabel s akumulatora automobila kako biste izbjegli mogućnost nastajanja kratkog spoja.
+
+Savijte držače u
+skladu s
+debljinom
+ploče.
+
+1
+2
+3
+4
+
+Izvadite postojeći prijemnik.
+Napravite potrebna priključivanja.
+Postavite nosač za montažu.
+Postavite ureœaj u nosač za montažu.
+
+Upravljačka ploča
+
+1
+
+4
+5
+
+3
+
+6
+
+3
+4
+5
+
+2
+
+6
+
+Gurnite ureœaj u ISO-DIN okvir.
+Postavite vijke koje ste skinuli sa
+starog ureœaja.
+Gurnite ureœaj i okvir u otvor na ploči.
+Postavite poklopac za ploču ili adapter.
+Postavite na ureœaj prsten za
+podešavanje.
+Postavite upravljačku ploču na ureœaj.
+
+Upravljačka ploča
+
+Umetanje baterije
+1
+
+Skidanje postojećeg prijemnika
+Ako već postoji rukav za instalaciju za
+receiver ureœaj on se mora ukloniti.
+
+A
+
+1
+2
+3
+
+A
+
+6
+
+AUTO CD/MP3/WMA prijemnik
+
+Skinite zadnji oslonac s ureœaja.
+Skinite prednju ploču i prsten za
+podešavanje s ureœaja.
+Umetnite polugu A u rupu sa strane
+ureœaja.
+Izvedite istu radnju na drugoj strani i
+povucite ureœaj van iz nosača za
+montažu.
+
+2
+3
+
+Izvucite držač baterije oštrim predmetom
+kao što je to kemijska olovka.
+Bateriju pravilno stavite na držač baterije.
+Umetnite držač baterija na njegovo
+pravo mjesto.
+
+Napomena
+• Upotrebljavajte samo jednu litijsku bateriju CR2025 (3V).
+• Izvadite bateriju ako se daljinski upravljač neće upotrebljavati kroz dulje
+vrijeme.
+• Bateriju nemojte puniti, rastavljati, grijati i ne bacajte ju u vatru.
+• Ne rukujte baterijom pomoću metalnih alata.
+• Ne pospremajte bateriju zajedno s metalnim materijalima.
+
+Priključivanje
+Prije instalacije provjerite je li prekidač za uključivanje postavljen na isključeno (OFF) i skinite kabel s # akumulatora automobila kako biste izbjegli mogućnost nastajanja kratkog spoja.
+1
+
+3
+
+5
+
+2
+
+4
+
+6
+
+8
+
+1
+
+3
+
+5
+
+7
+
+2
+
+4
+
+6
+
+8
+
+7
+
+B
+A
+
+Telefon isključi ton (Narančasta)
+Daljinski uključen (Plavo/bijela)
+
+Prednji lijevi
+Prednji desni
+
+Pojačalo
+(Dodatna mogućnost)
+
+Na Audio izlaz
+Električno napajanje
+Antena
+
+A5
+Električna antena (Plava)
+A6
+Zatamnjenje (Ružičasta)
+
+Pojačalo
+(Dodatna mogućnost)
+
+Zadnji lijevi
+Zadnji desni
+Na Audio ulaz
+
+Kontrolni relej
+
+Prekidač zatamnjenja
+
+A7
+Na paljenje (Crvena)
+
+Prekidač paljenja
+
+A4
+Na akumulator (+) (Žuta)
+
+B 1
+
+A8
+Masa (-) (Crna)
+
+B 2
+B 3
+BATTERY
+
+B 1. Ljubičasta : Zadnji desni +
+B 2. Ljubičasta / Crna pruga : Zadnji desni B 3. Siva : Prednji desni +
+B 4. Siva / Crna pruga : Prednji desni B 5. Bijela : Prednji lijevi +
+B 6. Bijela / Crna pruga : Prednji lijevi B 7. Zelena : Zadnji desni +
+B 8. Zelena / Crna pruga : Zadnji desni -
+
+B 4
+B 5
+
+A1, A2, A3 : Nisu priključeni
+
+B 6
+B 7
+B 8
+
+AUTO CD/MP3/WMA prijemnik
+
+7
+
+Osnovne operacije
+NA PLAYER-u
+1. Uključite ureœaj.
+
+PWR/MUTE
+
+2. Odaberite izvor.
+
+SRC
+
+3. Podesite glasnoću.
+
+Okrenite PWR
+
+NA DALJINSKOM
+POWER
+
+Napomena
+Kada su EQ i XDSS+ postavljeni na “Off”, možete podesiti postavke za glasnoću (BAS,
+MID, TRB).
+
+SRC
+VOLUME
+
+Osnovne operacije - što još možete učiniti
+
+XDSS+ (Extreme Dynamic Sound System)
+Pritisnite i držite EQ/XDSS+. (XDSS+ : Pojačava visoke i bas tonove.) Za poništenje,
+ponovo pritisnite tipku.
+
+Provjera sata
+Sat možete vidjeti ako pritisnete DISP (DISP. na daljinskom upravljaču).
+
+Isključenje tona
+Pritisnite MUTE/PWR (POWER
+na daljinskom upravljaču) za isključenje tona.
+Za poništenje, ponovo pritisnite tipku.
+
+Slušanje RDS prijenosa
+NA PLAYER-u
+
+Mijenjanje općenitih postavki
+
+1. Odaberite izvor za prijemnik.
+
+1 Pritisnite MENU (pritisnite i držite SEL/MENU na daljinskom upravljaču) kako bi se
+pojavila jedna od stavki izbornika.
+2 Pritisnite MENU (SEL/MENU na daljinskom upravljaču) i rotirajte PWR. (Pritisnite
+VOLUME
+na daljinskom upravljaču) za odabir jedne od dolje navedenih
+postavki.
+- Za više informacija o postavkama, pogledajte stranicu 12.
+3 Pritisnite i držite MENU (SEL/MENU na daljinskom upravljaču) za završavanje
+postavki.
+
+2. Odaberite frekventno područje FM.
+3. Odaberite vrstu programa.
+
+Pritisnite više puta i držite PTY za odabir svakog modusa.
+Music group t Speech Group t Search off
+BR. GLAZBENE GRUPE
+1.
+2.
+3.
+4.
+5.
+6.
+
+Pritisnite više puta SEL (SEL/MENU na daljinskom upravljaču) za odabir željenog modusa
+za podešavanje, glasnoća, balans i prigušenje. Za podešavanje kvalitete zvuka okrenite PWR.
+8
+
+AUTO CD/MP3/WMA prijemnik
+
+1-6
+
+RDS emitirane informacije.
+
+EQ služi za povećanje ili smanjenje snage signala audio frekvencija. Funkcija vam
+omogućuje potpunije uživanje u zvuku. Pritisnite više puta EQ/XDSS+. Indikator svijetli
+prema sljedećem redoslijedu.
+Pop t Classic t Rock t Jazz t Vocal t Salsa t Samba t User1 t User2 t
+Off
+
+Podešavanje glasnoće
+
+BAND
+Pritisnite i držite TA/PTY
+
+4. Odaberite stanicu u PTY vrsti.
+
+Korištenje EQ-u
+
+Napomena
+Kada je XDSS+ postavljen na “Off”, možete podešavati EQ postavke.
+
+SRC
+
+POP M, ROCK M
+LAKA M, LAGANA M.
+KLASIKA, DRUGA M
+JAZZ, COUNTRY
+NARODNA M, STARA
+FOLK M
+
+BR. GOVORNE GRUPE
+1. VIJESTI, DOGAŒAJI, INFO
+2. SPORT, OBRAZOVANJE, DRAMA
+3. KULTURA, ZNANOST, RAZNO
+4. VRIJEME, FINANCIJE, DJECA
+5. DRUŠTVO, RELIGIJA, TELEFONSKE
+6. PUTOVANJA, DOKOLICA, DOKUMENTI
+
+Slušanje radija
+
+Priključivanje USB ureœaja
+NA PLAYER-u
+SRC
+
+SRC
+
+BAND
+
+3 / BAND
+
+-?b / B?+
+Pritisnite i držite
+-?b / B?+
+
+?mm/MM?
+Pritisnite i držite
+?mm/MM?
+
+1. Odaberite izvor za prijemnik.
+2. Odaberite frekventno područje.
+3. Auto traženje.
+Ručno traženje.
+
+NA DALJINSKOM
+
+Slušanje radija - što još možete učiniti
+Auto traženje memorije
+Pritisnite U/AS. Šest najjačih signala će se automatski spremiti pod preset tipke 1-6 prema
+jačini signala. Za poništenje, pritisnite U/AS.
+
+Spremanje i pozivanje emitiranih frekvencija
+1 Pritisnite BAND za odabir željenog frekventnog pojasa koji želite spremiti.
+2 Odaberite željenu frekvenciju i pritisnite jednu od preset tipki 1-6, tipku držite sve dok
+ne začujete bip ton.
+3 Za memoriranje (preset) drugih stanica ponovite korake 1-2. Sljedeći put kada pritisnete odreœenu preset tipku, iz memorije ćete pozvati spremljenu frekvenciju radio
+stanice.
+
+NA PLAYER-u
+
+NA DALJINSKOM
+
+1. Skinite USB poklopac.
+
+-
+
+-
+
+2. Priključite USB ureœaj.
+
+-
+
+-
+
+Okrenite PWR
+
+3. Podesite glasnoću.
+
+VOLUME
+
+Prelazak na drugi pogon
+Kada ovaj ureœaj priključujete na čitač, pritisnite BAND/DRIVE (BAND/DRV na
+daljinskom upravljaču) za prelazak na sljedeći pogon. Svaki put kada pritisnete tipku,
+promijenit će se modus pogona.
+Napomena
+Ako je USB ureœaj već priključen, pritisnite SRC (SRC na daljinskom upravljaču) za
+odabir izvora za USB.
+
+Priključivanje dodatne opreme (Auxiliary)
+
+Skeniranje preset stanica
+
+Ulaz za dodatnu opremu
+(Auxiliary)
+
+Pritisnite u/PS. Pojavit će se svaka preset stanica. Za poništenje pritisnite u/PS.
+
+Podešavanje preset stanica
+Pritisnite BAND za odabir željenog frekventnog pojasa i pritisnite željenu preset tipku
+1-6 (preset tipka 1-6 na daljinskom upravljaču).
+Napomena
+Kada se stanica sprema na preset broj na kojem je već spremljena neka druga stanica
+istog frekventnog područja, prije memorirana stanica biće obrisana.
+
+MP3 Player, i sl.
+
+1. Odaberite izvor za AUX.
+2. Uključite reprodukciju na dodatnoj
+opremi.
+3. Podesite glasnoću.
+
+linijskim izlazom
+
+NA PLAYER-u
+
+NA DALJINSKOM
+
+SRC
+
+SRC
+
+-
+
+-
+
+Okrenite PWR
+
+VOLUME
+
+AUTO CD/MP3/WMA prijemnik
+
+9
+
+Slušanje CD-a
+NA PLAYER-u
+1. Umetnite CD.
+2. Podesite glasnoću.
+
+Okrenite PWR
+
+NA DALJINSKOM
+VOLUME
+
+Napomena
+Ako tijekom nasumične reprodukcije pritisnete -?b, nećete se vratiti na prethodnu
+snimku.
+
+MP3/WMA snimka -10 / +10
+(Ako nema foldera ili je samo jedan folder.) Tijekom reprodukcije pritisnite u/PS za
+povratak 10 snimki unazad, i pritisnite U/AS za prelazak 10 snimki naprijed.
+
+Slušanje CD-a - što još možete učiniti
+
+MP3/WMA folder GORE/DOLJE
+
+Pauziranje ili resetiranje CD-a
+
+(Ako postoji više od dva foldera .) Tijekom reprodukcije pritisnite u/PS za povratak na
+prethodni folder, i pritisnite U/AS za odlazak na naredni folder.
+
+Pritisnite B[] na player-u (B
+B[] na daljinskom upravljaču) tijekom reprodukcije. Ponovo
+pritisnite ovu tipku za nastavak reprodukcije.
+
+Tražnje odsjeka unutar snimke / datoteke
+Pritisnite i držite -?b / B?+ na player-u (.bb/BB> na daljinskom upravljaču)
+otprilike 1 sekundu tijekom reprodukcije, a zatim otpustite tipku na željenom mjestu.
+
+Preskakanje na drugu snimku / datoteku
+Pritisnite i držite -?b / B?+ na player-u (.bb/BB> na daljinskom upravljaču). Za skok na prethodnu snimku kratko pritisnite -?b unutar 3 sekunde vremena za reprodukciju. Pritisnite [#] i broj koji želite premjestiti na daljinskom upravljaču kako biste premjestili datoteku/snimku.
+Uvodno skeniranje
+Pritisnite ili pritisnite i držite INT na player-u (INT na daljinskom upravljaču).
+Reproducira se svaka datoteka u odabranom folderu (
+INT) ili prvih 10 sekundi
+svake snimke/datoteke (INT) na disku. Za poništenje ponovo pritisnite tipku.
+
+Ponavljanje
+Pritisnite ili pritisnite i držite RPT na player-u (RPT na daljinskom upravljaču).
+Trenutno odabrane snimke/datoteke (1 RPT) ili folder (
+RPT) na disku se ponavljano reproducira. Za poništenje ponovo pritisnite tipku.
+
+Nasumično
+Pritisnite ili pritisnite i držite SHF na player-u (SHF na daljinskom upravljaču). Svaka
+datoteka u trenutno odabranom folderu (
+SHF) ili sve snimke/datoteke (SHF) na
+disku se reproduciraju nasumičnim odabirom . Za poništenje ponovo pritisnite tipku
+SHF.
+10
+
+AUTO CD/MP3/WMA prijemnik
+
+Gledanje informacije o glazbi
+MP3/WMA datoteke često dolaze s tag informacijom. Tag sadrži informaciju o naslovu,
+izvoœaču ili albumu. Pritisnite više puta DISP tijekom reprodukcije MP3/WMA/CD
+TEXT datoteke. Ako nema informacije na displeju će se prikazati “NO TEXT”.
+Napomena
+•
+: Ikona se prikazuje tijekom MP3/WMA reprodukcije.
+• Kompatibilnost MP3/WMA diska s ovim ureœajem ograničena je u skladu sa
+sljedećim:
+1. Sampling Frequency / 8 - 48kHz (MP3) 22.05 - 48kHz (WMA)
+2. Bit brzina / unutar 8 - 320kbps (uključujući VBR) (MP3) 32 -320kbps (WMA)
+3. CD-R/CD-RW sistem datoteka treba biti “ISO 9660”
+4. Ako snimate MP3/WMA datoteke pomoću softvera koji ne može kreirati sistem
+datoteka (FILE SYSTEM), na primjer "Direct-CD" itd., nemoguće je reproducirati
+MP3-datoteke. Zato Vam preporučujemo da koristite
+"Easy-CD Creator", koji kreira sistem datoteka po standardu ISO 9660.
+5. WMA dekoder se podržava osim “Class 2A”.
+Klijenti isto tako trebaju imati u vidu da se traži dozvola za download MP3/WMAdatoteka i muzike sa Interneta. Naša kompanija nema pravo da daje takvu
+dozvolu. Dozvola se mora tražiti od vlasnika autorskih prava.
+
+Otklanjanje teškoća
+Uzrok
+
+Simptom
+
+OPĆENITO Napajanje se ne uključuje. /
+Ureœaj ne radi.
+
+Vodiči i konektor su nepravilno spojeni.
+Pregorio je osigurač.
+
+Buka i drugi faktori uzrokuju nepravilan rad
+ugraœenog mikroprocesora.
+Kabeli nisu ispravno spojeni.
+
+CD
+
+Daljinski
+
+Rješenje
+
+Još jednom provjerite jesu li svi spojevi i priključci ispravno i pravilno izvedeni.
+Otklonite problem zbog kojega je pregorio osigurač, a zatim stari osigurač zamijenite novim.
+Pazite da je novi osigurač iste jačine kao i stari.
+Isključite ureœaj, a zatim ga ponovo uključite.
+
+Ne čuje se ton. / Glasnoća se
+ne može pojačati.
+Ureœaj nije dobro pričvršćen.
+Tijekom reprodukcije dolazi
+do preskakanja zvuka.
+Reprodukcija je onemogućena. Na disku ima nečistoća.
+Disk koji ste stavili pripada vrsti koju ovaj ureœaj
+ne reproducira.
+
+Spojite kabele ispravno.
+
+Ureœaj ne radi ispravno čak i
+kada se pritišću ispravne kontrolne tipke na daljinskom
+upravljaču.
+
+Staru i praznu bateriju zamijenite novom.
+
+Baterija je ispražnjena.
+
+Dobro pričvrstite ureœaj.
+Očistite disk.
+Provjerite vrstu diska.
+
+AUTO CD/MP3/WMA prijemnik
+
+11
+
+Informacije o općenitom podešavanju
+ AF(Alternative frequency) ON / OFF (Uklj /Isklj)
+Kada se smanji kvaliteta prijema, prijemnik automatski prelazi na drugu stanicu
+unutar mreže, koja ima bolji signal za prijem, služeći se PI i AF kodovima.
+ REG (Region) ON / OFF
+REG ON : Ureœaj prelazi na drugu stanicu, unutar iste mreže, koja emitira isti program, kada prijemni signal trenutne stanice postane preslab.
+REG OFF : Ureœaj prelazi na drugu stanicu, unutar iste mreže, koja emitira isti program, kada prijemni signal trenutne stanice postane preslab. (U ovom načinu rada,
+program se može razlikovati od onog koji se trenutno prima.)
+ TA(Traffic Announcement (Prometne obavijesti)) ALARM / SEEK (Alarm /Traži)
+TA ALARM : Kada novo podešena stanica nema TP informaciju duže od 5 sekundi,
+čut će se dvostruki bip zvuk.
+TA SEEK : Kada novo podešena stanica ne primi TP informaciju duže od 5 sekundi, prijemnik se podešava na novu stanicu koja ima isti PI kao i zadnja stanica, ali
+koja ima TP informaciju.
+ PI (Programme Identification (Identifikacija programa)) SOUND / MUTE (Zvuk /
+Bez zvuka)
+PI SOUND : Ako se čuje zvuk stanice s različitim PI, prijemnik će nakon 1
+sekunde isključiti ton.
+PI MUTE : Ako se čuje miješajući zvuk stanice s drugačijim PI, prijemnik će
+odmah isključiti zvuk.
+ AUX (Auxiliary (Dodatni ureœaj)) ON / OFF
+Ovaj ureœaj može upotrebljavati dodatnu opremu. Kada upotrebljavate dodatnu
+opremu aktivirajte postavku auxiliary (dodatni ureœaj).
+ AUX (Auxiliary) 00dB / +6dB
+Možete podesiti glasnoću svakog izvora kako bi spriječili nagle promjene u glasnoći zvuka kada mijenjate izvore.
+Podesiti možete 0 dB ili +6 dB
+Može vas iznenaditi glasnoća zvuka kada mijenjate izvor s vanjske komponente na
+drugi izvor.
+ DEMO OFF / ON
+Početnu indikaciju na displeju možete promijeniti u naziv informacije (naziv
+funkcije, EQ naziv, i sl...) dok slušate izvor.
+ LED RED / GRN
+Boju tipki možete promijeniti. RED(crvena) <-> GRN(zelena)
+ BEEP 2ND / ALL (Bip ton dugi / Sve)
+BEEP 2ND : Bip će se čuti samo kada se tipka duže pritisne (1 sekunda).
+BEEP ALL : Bip će se čuti kad se pritisne svaka tipka.
+12
+
+AUTO CD/MP3/WMA prijemnik
+
+Specifikacije
+OPĆENITO
+Izlazna snaga
+Električno napajanje
+Impendancija zvučnika
+Sistem uzemljenja
+Dimenzije (Š x V x D)
+Neto težina (approx)
+
+50W x 4CH(Maks.)
+DC 12V
+4Ω
+Negativno
+180 x 50 x 176 mm (Bez prednje ploče)
+1.3 kg
+
+RADIO
+FM
+Frekventno područje
+S/N omjer
+Distorzija
+Iskoristiva osjetljivost
+AM (MW)
+Frekventno područje
+S/N omjer
+Distorzija
+Iskoristiva osjetljivost
+
+520-1720 ili 522-1620 kHz
+50 dB
+1.0%
+28 dBµV
+
+CD
+Raspon frekvencije
+S/N omjer
+Distorzija
+Odvajanje kanala (1kHz)
+
+20 Hz-20 kHz
+80 dB
+0.12%
+55 dB
+
+AUX
+Raspon frekvencije
+S/N omjer
+Distorzija
+Odvajanje kanala (1kHz)
+Maksimalna razina ulaza (1kHz)
+
+20 Hz-20 kHz
+80 dB
+0.12 %
+45 dB
+1.2V ( 35 KΩ)
+
+USB
+Verzija
+
+USB 1.1
+
+87.5-107.9, 87.5-108, 65-74 ili 87.5-108 MHz
+55 dB
+0.7%
+12 dBµV
+
+Izvedbe i specifikacije su podložne promjenama bez prethodne obavijesti.
+
+P/N : MFL41655349

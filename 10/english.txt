@@ -1,0 +1,3246 @@
+ENGLISH
+ČEŠTINA
+SIOVENČINA
+ROMÂNĂ
+POLSKI
+БЪЛГАРСКИ
+
+DM2520 (DM2520, DMS2520)
+
+SRPSKI
+
+Please read this manual carefully before operating
+your set and retain it for future reference.
+
+HRVATSKI
+
+DVD Micro Hi-Fi System
+
+MAGYAR
+
+OWNER’S MANUAL
+
+МАКЕДОНСКИ
+
+1	
+
+Getting Started
+
+2
+
+Getting Started
+
+Safety Information
+1
+
+CAUTION
+
+Getting Started
+
+RISK OF ELECTRIC SHOCK
+DO NOT OPEN
+
+CAUTION: TO REDUCE THE RISK OF ELECTRIC
+SHOCK DO NOT REMOVE COVER (OR BACK) NO
+USER-SERVICEABLE PARTS INSIDE REFER SERVICING
+TO QUALIFIED SERVICE PERSONNEL.
+This lightning flash with arrowhead
+symbol within an equilateral
+triangle is intended to alert the
+user to the presence of uninsulated
+dangerous voltage within the
+product’s enclosure that may be of
+sufficient magnitude to constitute a
+risk of electric shock to persons.
+The exclamation point within
+an equilateral triangle is
+intended to alert the user to the
+presence of important operating
+and maintenance (servicing)
+instructions in the literature
+accompanying the product.
+WARNING: TO PREVENT FIRE OR ELECTRIC SHOCK
+HAZARD, DO NOT EXPOSE THIS PRODUCT TO RAIN
+OR MOISTURE.
+WARNING: Do not install this equipment in a
+confined space such as a book case or similar unit.
+CAUTION: Do not block any ventilation openings.
+Install in accordance with the manufacturer’s
+instructions.
+Slots and openings in the cabinet are provided for
+ventilation and to ensure reliable operation of the
+product and to protect it from over heating. The
+openings shall be never be blocked by placing
+the product on a bed, sofa, rug or other similar
+surface. This product shall not be placed in a builtin installation such as a bookcase or rack unless
+proper ventilation is provided or the manufacturer’s
+instruction has been adhered to.
+
+CAUTION: This product employs a Laser System.
+To ensure proper use of this product, please read
+this owner’s manual carefully and retain it for future
+reference. Shall the unit require maintenance,
+contact an authorized service center.
+Use of controls, adjustments or the performance of
+procedures other than those specified herein may
+result in hazardous radiation exposure.
+To prevent direct exposure to laser beam, do not try
+to open the enclosure. Visible laser radiation when
+open. DO NOT STARE INTO BEAM.
+CAUTION concerning the Power Cord
+Most appliances recommend they be placed upon
+a dedicated circuit;
+That is, a single outlet circuit which powers only
+that appliance and has no additional outlets or
+branch circuits. Check the specification page of this
+owner’s manual to be certain. Do not overload wall
+outlets. Overloaded wall outlets, loose or damaged
+wall outlets, extension cords, frayed power cords, or
+damaged or cracked wire insulation are dangerous.
+Any of these conditions could result in electric
+shock or fire. Periodically examine the cord of your
+appliance, and if its appearance indicates damage
+or deterioration, unplug it, discontinue use of the
+appliance, and have the cord replaced with an
+exact replacement part by an authorized service
+center. Protect the power cord from physical or
+mechanical abuse, such as being twisted, kinked,
+pinched, closed in a door, or walked upon. Pay
+particular attention to plugs, wall outlets, and
+the point where the cord exits the appliance. To
+disconnect power from the mains, pull out the
+mains cord plug. When installing the product,
+ensure that the plug is easily accessible.
+
+Getting Started
+This device is equipped with a portable battery or
+accumulator.
+
+Disposal of waste batteries/accumulators
+1.	 When this crossed-out wheeled
+bin symbol is attached to batteries/
+accumulators of Your product
+it means they are covered by
+European Directive 2006/66/EC.
+2.	 This symbol may be combined with
+chemical symbols for mercury(Hg),
+cadmium(Cd) or lead(Pb) if the
+battery Contains more that 0.0005%
+of mercury,0.002% of cadmium or
+0.004% of lead.
+
+CAUTION: The apparatus shall not be exposed to
+water (dripping or splashing) and no objects filled
+with liquids, such as vases, shall be placed on the
+apparatus.
+
+3.	 All batteries/accumulators should
+be disposed separately from
+the municipal waste stream via
+designated collection facilities
+appointed by the government or
+the local authorities.
+
+You have to set the disc format option to [Mastered]
+in order to make the discs compatible with the LG
+players when formatting rewritable discs. When
+setting the option to Live File System, you cannot
+use it on LG players.
+
+4.	 The correct disposal of Your old
+batteries/accumulators will help
+to prevent potential negative
+consequences for the environment,
+animal and human health.
+
+(Mastered/ Live File System : Disc format system for
+Windows Vista)
+
+5.	 For more detailed information
+about disposal of Your old batteries/
+accumulators, please contact Your
+city office, waste disposal service or
+the shop where You purchased the
+product.
+
+Disposal of your old appliance
+1.	When this crossed-out wheeled bin
+symbol is attached to a product it
+means the product is covered by
+the European Directive 2002/96/EC.
+2.	All electrical and electronic products
+should be disposed of separately
+from the municipal waste stream
+via designated collection facilities
+appointed by the government or
+the local authorities.
+3.	The correct disposal of your
+old appliance will help prevent
+potential negative consequences
+for the environment and human
+health.
+4.	For more detailed information about
+disposal of your old appliance,
+please contact your city office,
+waste disposal service or the shop
+where you purchased the product.
+
+LG Electronics hereby declares that this/
+these product(s) is/are in compliance
+with the essential requirements and
+other relevant provisions of Directive
+2004/108/EC, 2006/95/EC, and
+2009/125/EC.
+European Standards Centre:
+Krijgsman 1, 1186 DM Amstelveen
+The Netherlands
+yy Please note that this is NOT a
+Customer Service contact point. For
+Customer Service Information, see
+Warranty Card or contact the dealer
+that you purchased this product.
+
+1
+Getting Started
+
+Safety way to remove the battery or the
+battery from the equipment: Remove the
+old battery or battery pack, follow the steps
+in reverse order than the assembly. To prevent
+contamination of the environment and bring on
+possible threat to human and animal health, the
+old battery or the battery put it in the appropriate
+container at designated collection points. Do
+not dispose of batteries or battery together with
+other waste. It is recommended that you use
+local, free reimbursement systems batteries and
+accumulators. The battery shall not be exposed to
+excessive heat such as sunshine, fire or the like.
+
+3
+
+4
+
+Table of Contents
+
+Table of Contents
+1	
+
+Getting Started
+
+2	
+Safety Information
+6	
+Unique Features
+6	Accessories
+6	Introduction
+6	
+–  Playable Discs
+6	
+7	
+7	
+7	
+7	
+7	
+8	
+8	
+8	
+9	
+11	
+12	
+
+–  About the & Symbol Display
+–  Symbol Used in this Manual
+–  Regional Codes
+Playable file Requirement
+–  Compatible USB Devices
+–  USB device requirement
+–  MP3/ WMA music file requirement
+–  Photo file requirement
+–  DivX file requirement
+Remote Control
+Front Panel
+Rear Panel
+
+2	Connecting
+13	
+13	
+13	
+14	
+14	
+15	
+15	
+15	
+16	
+16	
+17	
+
+Connecting to speakers
+–  Attaching the speakers to the unit
+Connections to Your TV
+–  Video Connection
+–  Component Video Connection
+Optional Equipment Connection
+–  USB Connection
+–  PORT. IN Connection
+–  Playing the iPod
+–  Compatible iPod
+–  Playing the OSD iPod
+
+3	 System Setting
+19	
+19	
+19	
+20	
+20	
+21	
+21	
+22	
+
+Adjust the Setup settings
+–  OSD Initial language settings
+–  To display and exit the Setup Menu
+– LANGUAGE
+– DISPLAY
+– AUDIO
+–  LOCK (Parental Control)
+– OTHERS
+
+Table of Contents
+
+4	Operating
+
+5	Troubleshooting
+
+23	
+23	
+24	
+24	
+24	
+24	
+24	
+24	
+25	
+
+31	Troubleshooting
+
+25	
+25	
+25	
+26	
+26	
+26	
+26	
+26	
+26	
+27	
+27	
+28	
+28	
+28	
+28	
+28	
+28	
+29	
+29	
+29	
+29	
+30	
+30	
+30	
+
+Basic Operations
+–  Disc/USB Operations
+Other Operations
+–  Displaying Disc Information on-screen
+–  To display the DVD Menu
+–  To display the DVD title
+–  Selecting a subtitle language
+–  1.5 times speed playback
+–  Starting play from selected
+time
+–  Last Scene Memory
+–  Changing the character set to display
+DivX® subtitle correctly - optional
+–  Creating your own program
+–  Viewing a PHOTO file
+–  Viewing a PHOTO file as a slide show
+–  Turning off the sound temporarily
+–  Screen Saver
+–  System Select - Optional
+–  Displaying file information
+(ID3 TAG)
+–  Setting the Clock
+–  Using your player as an alarm clock
+–  Sleep Timer Setting
+– Dimmer
+Radio Operations
+–  Listening to the radio
+–  Presetting the Radio Stations
+–  Deleting all the saved stations
+–  Improving poor FM reception
+–  Seeing information about a Radio
+station
+Sound adjustment
+–  Setting the surround mode
+Advanced Operations
+–  Listening to music from your external
+device
+–  Recording to USB
+
+5
+
+1
+
+6	Appendix
+
+2
+
+32	Specifications
+34	Maintenance
+34	 –  Handling the Unit
+34	 –  Notes on Discs
+35	 Trademarks and Licenses
+36	 Language Codes
+37	 Area Codes
+
+3
+
+4
+
+5
+
+6
+
+6
+
+1
+
+Getting Started
+
+Getting Started
+
+Unique Features
+
+Introduction
+
+USB Direct Recording
+
+Playable Discs
+
+Records music to your USB device.
+
+This unit plays DVD±R/RW and CD-R/RW that
+contains audio titles, DivX, MP3, WMA and/or
+JPEG files. Some DVD±RW/DVD±R or CD-RW/
+CD-R cannot be played on this unit due to the
+recording quality or physical condition of the disc,
+or the characteristics of the recording device and
+authoring software.
+
+Portable In
+Listens to music from your portable device. (MP3,
+Notebook, etc)
+
+Accessories
+
+DVD-VIDEO (8 cm / 12 cm disc)
+
+Please check and identify the supplied accessories.
+
+Discs such as movies that can be
+purchased or rented.
+DVD±R (8 cm / 12 cm disc)
+Video mode and finalized only.
+DVD-RW (8 cm / 12 cm disc)
+
+Remote Control (1)
+
+Battery (2)
+
+Video mode and finalized only.
+DVD+R: Video mode only
+Supports the double layer disc also.
+DVD+RW (8 cm / 12 cm disc)
+Video mode and finalized only.
+
+Video cable (1)
+
+Audio CD: Music CDs or CD-R/CDRW in music CD format that can be
+purchased.
+
+About the & Symbol Display
+“&” may appear on your TV display during
+operation and indicates that the function explained
+in this owner’s manual is not available on that disc.
+
+Getting Started
+
+Symbol Used in this Manual
+DVD and finalized DVD±R/RW	
+
+r
+y
+
+MP3/WMA files, Audio CDs	
+
+u
+
+JPG files	
+
+i
+
+Regional Codes
+This unit has a regional code printed on the rear of
+the unit. This unit can play only DVD discs labelled
+same as the rear of the unit or “ALL”.
+yy Most DVD discs have a globe with one or more
+numbers in it clearly visible on the cover. This
+number must match your unit’s regional code or
+the disc cannot play.
+yy If you try to play a DVD with a different regional
+code from your unit, the message “Check
+Regional Code” appears on the TV screen.
+
+Playable file
+Requirement
+1
+
+Compatible USB Devices
+yy 	MP3 Player : Flash type MP3 player.
+ evices that support USB2.0 or
+yy 	USB Flash Drive : D
+USB1.1.
+	 USB function of this unit does not support
+yy The
+all USB devices.
+
+USB device requirement
+	
+which require additional program
+yy Devices
+installation when you have connected it to a
+computer, are not supported.
+yy 	Do not extract the USB device while in operation.
+
+,,Note
+
+	 a large capacity USB, it may take longer than
+yy For
+a few minute to be searched.
+
+>>Caution
+
+yy If	 you use a USB extension cable or USB hub, the
+USB device is not recognized.
+
+Indicates special notes and operating features.
+Indicates cautions for preventing possible damages
+from abuse.
+
+yy 	To prevent data loss, back up all data.
+
+	
+NTFS file system is not supported. (Only
+yy Using
+FAT(16/ 32) file system is supported.)
+	
+unit is not supported when the total
+yy This
+number of files is 1 000 or more.
+	
+HDD, Card readers, Locked devices, or
+yy External
+hard type USB devices are not supported.
+	
+port of the unit cannot be connected to PC.
+yy USB
+The unit cannot be used as a storage device.
+
+Getting Started
+
+DivX files	
+
+7
+
+8
+
+Getting Started
+
+MP3/ WMA music file
+requirement
+1
+
+MP3/ WMA file compatibility with this unit is limited
+as follows :
+
+Getting Started
+
+yy Sampling Frequency : 32 - 48 kHz (MP3), 32 - 48
+kHz (WMA)
+yy Bit rate : 32 - 320 kbps (MP3), 40 - 192 kbps
+(WMA)
+yy maximum files : Under 999
+yy File extensions : “.mp3”/ “.wma”
+yy CD-ROM file format : ISO9660 LEVEL 1/ JOLIET
+yy We recommend that you use “Easy-CD Creator”,
+which creates an ISO 9660 file system.
+
+DivX file requirement
+DivX file compatibility with this unit is limited as
+follows :
+yy Available resolution:
+up to 800 x 600 (W x H) pixels.
+yy The file name of the DivX subtitle should be
+entered 45 characters or less.
+yy If there is a code impossible to express in the
+DivX file, it may be displayed as a “ _ “ mark on
+the display.
+yy If the video and audio structure of recorded
+files are not interleaved, either video or audio is
+output.
+yy Playable DivX file : “.avi”, “.mpg”, “.mpeg”, “.divx”
+
+Photo file compatibility with this unit is limited as
+follows :
+
+yy Playable Subtitle format : SubRip (*.srt/ *.txt),
+SAMI (*.smi), SubStation Alpha (*.ssa/ *.txt),
+MicroDVD (*.sub/ *.txt), SubViewer 2.0 (*.sub/
+*.txt)
+
+yy Max pixel in width :
+Normal : 5120 x 3840
+Progressive JPEG : 2043 x1536
+
+yy Playable Codec format : “DIVX3.xx”, “DIVX4.xx”,
+“DIVX5.xx”, “MP4V3”, “3IVX”.
+yy Playable Audio format : “AC3”, “PCM”, “MP3”, “WMA”.
+
+yy Maximum files : Under 999
+
+yy For Discs formatted in Live file system, you can
+not use it on this unit.
+
+Photo file requirement
+
+yy Some discs may not operate due to a different
+recording format or the condition of disc.
+yy File extensions : “.jpg”
+yy CD-ROM file format : ISO9660 LEVEL 1/ JOLIET
+
+yy If the name of movie file is different from that of
+the subtitle file, during playback of a DivX file,
+subtitle may not be display.
+
+Getting Started
+
+Remote
+Control
+
+• • • • • • c •  •  •  •  •  •
+Z (STOP): Stops playback or
+recording.
+
+B (OPEN/CLOSE): Opens or
+closes the disc tray.
+
+z MONO/STEREO:
+- Starts playback.
+
+FUNCTION: Selects the function
+and input source.
+
+- Selects Mono/ Stereo.
+
+SLEEP: Sets the system to turn
+off automatically at a specified
+time.
+
+- Pauses playback.
+
+SETUP: Accesses or removes
+setup menu.
+• • • • • • b •  •  •  •  •  •
+DISPLAY: Accesses On-Screen
+Display.
+MENU:
+- Accesses the menu on a DVD
+disc.
+
+- Plays title Frame-by-Frame.
+(DVD, DivX only)
+C/V:
+- Goes to next or previous
+chapter/ track/ file.
+- Adjusts the hours or minutes
+to set alarm and clock.
+c/v: Searches backward
+or forward.
+• • • • • • d •  •  •  •  •  •
+REPEAT: Selects a play mode.
+9 SOUND EFFECT: Selects a
+sound effect mode.
+
+- Chooses an item on IPOD
+mode.
+
+VOL +/- (Volume): Adjusts
+volume of speaker or head
+phone.
+
+PRESET (w/s): Selects
+programme of Radio.
+
+@ MUTE: Mutes the sound.
+
+TUNING (-/+): Tunes in the
+desired radio station.
+w/s/a/d: (up/down/left/
+right) : Uses to navigate onscreen displays.
+b ENTER: Acknowledges menu
+selection.
+x BACK: Moving backward in
+the menu.
+X REC: Recording.
+Remove the battery cover on
+the rear of the Remote Control,
+and insert one (size AAA)
+battery with 4 and 5 matched
+correctly.
+
+M:
+
+CLEAR :
+- Removes a number when
+setting the password.
+- Removes a track number on
+the Program List.
+- Removes language code when
+setting the disc language.
+• • • • • • e •  •  •  •  •  •
+0 to 9 numerical buttons :
+Selects numbered options in a
+menu.
+S-TITLE : During playback, press
+S-TITLE repeatedly to select a
+desired subtitle language.
+PROG./MEMO. :
+- Stores radio stations.
+- Creates a playlist you want to
+listen to.
+
+1
+Getting Started
+
+• • • • • • a •  •  •  •  •  •
+1 (POWER): Switches the unit
+ON or OFF.
+
+TITLE: If the current DVD
+title has a menu, the title
+menu appears on the screen.
+Otherwise, the disc menu may
+appear.
+
+Battery Installation
+
+9
+
+10
+
+Getting Started
+
+Remote
+Control
+1
+
+• • • • • • f •  •  •  •  •  •
+TV Control buttons : Controls
+the TV. (LG TV only)
+
+Getting Started
+
+You can control the sound lev
+el, input source, and power
+switching of LG TVs as well. Hold
+POWER (TV) and press PR/CH
+(ws) button repeatedly until
+the TV turns on or off.
+?: This button is not available.
+PTY : Views the various displays
+of the RDS.
+CLOCK : You can set and check
+the time.
+TIMER : You can turn USB, CD
+play and TUNER reception on or
+off at a desired time.
+SET/RDS : (Refer to the page 27)
+- Confirms the setting
+- views the information about
+the radio station being listened
+to.
+
+Getting Started
+
+11
+
+Front Panel
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+Getting Started
+
+6
+
+7
+
+8
+
+9
+
+10
+
+a 1 (POWER)
+	
+Switches the unit ON or OFF.
+
+i F (FUNCTION)
+Selects the function or input source.
+
+b	 Disc tray
+
+	
+
+c iPod dock
+d	 Display window
+	
+
+Shows the current state of the unit.
+
+e	 R (Open/Close)
+Opens or closes the disc tray.
+f USB Port
+Connects an USB device.
+g	PORT.IN
+The player can be used to play the music from
+many types of portable player.
+h PHONES
+Headphone jack.
+
+T(PLAY / PAUSE)
+Starts playback and pauses.
+
+	I (STOP)
+Stops playback or recording.
+	
+
+Y/U (Skip/Search):
+
+	
+
+- Goes to next or previous file/track.
+- Searches backward or forward (Press and
+hold)
+
+	
+
+- Adjusts the hours or minutes to set alarm and
+clock.
+
+	
+
+TUN. (-/+)
+Tunes in the desired radio station.
+
+j	VOL. (+/-)
+Adjusts volume of speaker or head phone.
+
+12
+
+Getting Started
+
+Rear Panel
+1
+Getting Started
+
+1
+
+2
+
+a	 COMPONENT VIDEO (Y PB PR) OUTPUT
+(PROGRESSIVE SCAN)
+Connects to a TV with Y PB PR inputs.
+	
+
+VIDEO OUT
+Connects to a TV with video inputs.
+
+b	 ANTENNA (FM/RDS)
+
+3
+c	Speaker terminal
+	
+
+Connects the speaker cables.
+
+d	 Power cord
+
+4
+
+Connecting
+
+Connecting to
+speakers
+Attaching the speakers to the
+unit
+
+Connections to Your
+TV
+Make one of the following connections, depending
+on the capabilities of your existing equipment.
+
+,,Note
+
+yy Depending on your TV and other
+equipment you wish to connect, there are
+various ways you could connect the unit.
+Use only one of the connections described
+in this manual.
+yy Please refer to the manuals of your TV,
+Stereo System or other devices as necessary
+to make the best connections.
+yy Make sure the unit is connected directly
+to the TV. Tune the TV to the correct video
+input channel.
+yy Do not connect your unit via your VCR.
+The image could be distorted by the copy
+protection system.
+
+Speaker
+
+Color
+
+Position
+
+R
+
+Red
+
+right
+
+L
+
+White
+
+left
+
+>>Caution
+
+The speakers contain magnet parts, so color
+irregularity may occur on the TV screen or PC
+monitor screen. Please use the speakers far
+away from either TV screen or PC monitor.
+
+2
+Connecting
+
+Connect connector on the speaker cable to speaker
+terminal.Each speaker connector is colored. Use
+matching color connector to each speaker terminal.
+When connecting connector to the speaker
+terminal, push the connector until it is perfectly
+linked.
+
+13
+
+14
+
+Connecting
+
+Video Connection
+
+Component Video Connection
+
+Connect the VIDEO OUT jack on the unit to the
+video in jack on the TV using a video cable.
+
+Connect the COMPONENT VIDEO OUT
+(PROGRESSIVE SCAN) jacks on the unit to the
+corresponding input jacks on the TV using
+component cables.
+You can hear the sound through the system’s
+speakers.
+
+You can hear the sound through the system’s
+speakers.
+
+2
+Connecting
+Yellow
+Yellow
+
+Green
+Green
+Blue
+Blue
+Red
+Red
+
+,,Note
+
+If your TV accepts progressive format signals,
+you must use this connection and set
+[Progressive Scan] in [Display] setup to [On]
+(See page 20).
+
+Connecting
+
+Optional Equipment
+Connection
+
+15
+
+PORT. IN Connection
+Connect an output of portable device (MP3 or PMP
+etc) to the PORT. IN connector.
+
+USB Connection
+Connect the USB port of USB Memory (or MP3
+player, etc.) to the USB port on the front of the unit.
+
+2
+Connecting
+
+,,Note
+
+Removing the USB Device from the unit
+1.	 Choose a different function/mode press
+Z on the remote control or I on the
+unit twice in a row.
+2.	 Remove the USB device from the unit.
+
+16
+
+Connecting
+
+Playing the iPod
+You can enjoy the sound with your iPod. For details
+about iPod, refer to the iPod User Guide.
+1.	 Connect the iPod firmly.
+
+Chooses a
+item
+
+-
+
+d / b ENTER
+
+Compatible iPod
+	 e recommend installing the latest software
+yy W
+version.
+yy T	 he unit supports the models as follows:
+iPod nano 1 G, 2 G, 3 G, 4 G, 5 G, 6 G/
+iPod classic/iPod touch 1G, 2 G, 3 G, 4 G/
+iPhone 3 G, 3GS, 4.
+For some models, the unit may not operate
+depending on the firmware version.
+
+2
+Connecting
+
+	 epending on your iPod’s software version, you
+yy D
+may not control your iPod from the player.
+
+,,Note
+
+yy I	f this unit displays an error message, follow
+the message. An error message “ERROR”.
+
+	
+
+If your iPod/iPhone is connected or docked, it
+will automatically turn on and recharging will
+start.
+
+	
+
+So iPod/iPhone is charged even when the
+player is power off.
+
+2.	Press F. on the unit or FUNCTION on the
+remote control to select iPod function. You can
+operate your iPod through an iPod’s display
+by using the supplied remote control and also
+control on your iPod.
+
+To
+
+Do this
+
+- Your iPod is not connected firmly.
+-	This unit recognizes your iPod as an 		
+	 unknown device.
+- Your iPod is exceptionally low in power.
+/ The battery needs to be charged.
+/	If you charge the battery while iPod
+is extremely low in power, it may take
+longer to be charged.
+yy i	Pod does not support recording function
+when connected.
+	 epending on your iPod’s software version,
+yy D
+it may not be possible to control your iPod
+from this unit. We recommed installing the
+latest software version.
+
+ON UNIT
+
+ON REMOTE
+
+Pauses or
+restart
+
+T
+
+M
+
+yy I	f you use an application, make a call, or
+send and receive SMS text message, etc. on
+iPod touch or iPhone, disconnect it from
+iPod dock of this unit and then use it.
+
+Skip
+
+Y/U
+
+C/V
+
+yy I	f you have a problem with your iPod, please
+visit www.apple.com/support/ipod.
+
+Search
+
+Press and hold
+Y/U
+
+Press and hold
+c/v
+
+Move to the
+previous
+menu
+
+-
+
+a/MENU
+
+Move to the
+desired item
+
+-
+
+w/s
+
+Connecting
+
+Playing the OSD iPod
+
+17
+
+,,Note
+
+You can enjoy the media files with your iPod. For
+details about iPod, refer to the iPod’s User Guide.
+
+yy If the iPod’s OSD language is selected to
+simple chinese, the power scroll function is
+not operated correctly.
+
+Preparation
+
+yy The controls on your iPod are not
+operational in this mode.
+
+yy To view iPod’s Videos and Photos on the TV
+screen.
+
+Enjoying the OSD iPod mode
+You can operate your iPod by using the supplied
+remote control and controls on your iPod.
+
+-- Depending on the iPod, make sure that select
+Videos > Video settings, and then set TV Out
+to Ask or On from your iPod.
+For details about Video Settings, refer to the
+iPod User Guide.
+
+1.	 Connect the iPod firmly.
+
+-- The viewing photos is available only if this unit
+is in OSD iPod mode and you can view photos
+only as a slide show. You have to start a slide
+show on your iPod to view a photo on a TV.
+For details about a slide show, refer to the iPod
+User Guide.
+
+d PLAY, MONO/
+Starts playback the music or
+STEREO,
+video.
+b ENTER
+
+yy Before connecting the iPod, turn this unit off and
+reduce the volume of this unit to its minimum.
+
+Enjoying OSD iPod on the screen
+You can operate your iPod by controlling menu on
+the screen.
+1.	 Connect the iPod firmly.
+2.	 Select [Music] or [Video] using a/d, and press
+b ENTER
+3.	 Select a content using w/s/a/d, and press
+b ENTER to play.
+
+5.	 Operate iPod.
+Refer to basic operation section.
+
+2.	Press FUNCTION to select OSD iPod mode.
+w/s/a/d
+
+Selects an option in the menu.
+
+M
+
+To pause while it is playing. To
+resume playing, press d PLAY,
+MONO/STEREO again.
+
+c/v
+
+Fast-forward or rewind a song
+or video
+
+C/ V
+
+Skip the playback forward or
+backward .
+
+REPEAT
+
+To select a desired repeat
+), All ( ),
+mode: Track (
+Off (No display).
+
+2
+Connecting
+
+-- Be sure to use the video connection through
+the VIDEO OUT jack on the rear panel of this
+unit. Select the appropriate video input mode
+on the TV.
+
+18
+
+Connecting
+
+,,Note
+
+yy An error message “CHECK IPOD” or
+“Connected iPod model is not supported.”
+appears when:
+-- your iPod is not available for the function
+to be operated.
+yy An error message “CHECK IPOD” or “Please
+update iPod’s software.” appears when:
+
+2
+Connecting
+
+-- your iPod has an old software version.
+> Update your iPod software to latest
+version.
+yy If this unit displays an error message, follow
+the message. An error message “CHECK
+IPOD” or “Please check your iPod.” appears
+when:
+-- the communication between this unit
+and your iPod is failed.
+> Undock & re-dock your iPod in this unit.
+-- your iPod is not connected firmly.
+-- this unit recognizes your iPod as
+unknown device.
+-- your iPod is exceptionally low on power.
+> The battery needs to be charged.
+> If you charge the battery while iPod
+is extremely low in power, it maytake
+longer to charge.
+yy You may use the dock adapter which should
+be supplied with your iPod to the dock for
+the stable use of the iPod. If you need an
+adapter, consult your iPod dealer.
+yy Compatibility with your iPod may vary
+depending on the type of your iPod.
+yy iPod touch and iPhone have any difference
+in operation other than iPod. You may need
+any additional control to use them with this
+unit. (e.g. “slide to unlock”)
+yy If you use an application, make a call, or
+send and receive SMS text message, etc. on
+iPod touch or iPhone, disconnect it from
+iPod dock of this unit and then use it.
+yy Depending on your iPod’s software version,
+it may not be possible to control your iPod
+from this unit. We recommend installing the
+latest software version.
+yy The video quality depends on the video
+sources on your iPod.
+yy If you have a problem with your iPod, please
+visit www.apple.com/support/ipod.
+
+System Setting
+
+Adjust the Setup
+settings
+By using the Setup menu, you can make various
+adjustments to items such as picture and sound.
+You can also set a language for the subtitles and
+the Setup menu, among other things. For details on
+each Setup menu item.
+
+When using this unit for the first time, the initial
+language setup menu appears on your TV screen.
+You must complete initial language selection
+before using the unit. English will be selected as the
+initial language.
+1.	Press 1 to turn the unit on.
+The language setup menu will appear on the
+screen.
+
+To display and exit the Setup
+Menu
+1.	 Select the DVD/CD or USB function by pressing
+FUNCTION on the remote control or F on the
+unit.
+2.	Press SETUP.
+Displays the [SETUP] Menu.
+3.	Press SETUP or x BACK to exit in the [SETUP]
+Menu.
+About help menu for Setup
+Menu
+
+Buttons
+
+Operation
+
+w/s
+Move
+
+w/s
+
+Moving to another
+menu.
+
+a
+Prev.
+
+a
+
+Moving to
+previous level.
+
+d
+Select
+
+d
+
+Moving to next
+level or selecting
+menu.
+
+x BACK
+
+To exit the [Setup]
+menu.
+
+b ENTER
+
+To confirm menu.
+
+x
+
+Close
+b
+Enter
+
+2.	Use w/s/a/d to select a language then
+press b ENTER.
+The confirm menu will appear.
+
+3.	Use a/d to select [Enter] then press b ENTER
+to finish the language setup.
+
+3
+System Setting
+
+OSD Initial language settings
+
+19
+
+20 System Setting
+
+LANGUAGE
+
+DISPLAY
+
+OSD
+
+TV Aspect
+
+Select a language for the Setup menu and then on
+screen display.
+
+Select which screen aspect to use based on the
+shape of your TV screen.
+
+Disc Audio/Disc Subtitle/Disc Menu
+
+3
+
+Select the language you prefer for the audio track
+(disc audio), subtitles, and the disc menu.
+
+System Setting
+
+[Original]
+
+[4:3]
+Select when a standard 4:3 TV is connected.
+[16:9]
+Select when a 16:9 wide TV is connected.
+
+Refers to the original language in which the disc
+was recorded.
+
+Display Mode
+
+[Other]
+
+The Display Mode setting works only when the TV
+Aspect mode is set to 4:3.
+
+To select another language, press numeric
+buttons and then b ENTER to enter the
+corresponding 4-digit number according to the
+language code list on the page 36. If you enter
+the wrong language code, press CLEAR.
+[Off (for Disc Subtitle)]
+Turns off Subtitle.
+
+[Letterbox]
+This displays a wide screen picture with black
+bands at the top and bottom of the screen.
+[Panscan]
+This fills the entire 4:3 screen, cropping the
+picture as necessary.
+
+Progressive Scan
+(For Component Video connections)
+Selects whether the COMPONENT VIDEO OUT
+(PROGRESSIVE SCAN) jacks output progressive
+signal. If your TV accepts progressive format signals,
+you will enjoy accurate color reproduction and high
+quality image by selecting [On]. If your TV does not
+accept progressive format signals, select [Off ].
+If you set Progressive Scan to [On] in error, you
+must reset the unit. First, remove the disc from the
+unit. Next, press and hold Z for about five seconds.
+The video output will be restored to the standard
+setting, and a picture will be visible on your TV.
+
+System Setting
+
+21
+
+AUDIO
+
+LOCK (Parental Control)
+
+DRC (Dynamic Range Control)
+
+Initial Setting of the Area Code
+
+Make the sound clear when the volume is turned
+down (Dolby Digital only). Set to [On] for this effect.
+
+When you use this unit for the first time, you have
+to set the Area Code as shown below.
+
+Vocal
+
+2.	Press d.
+To access the [Lock] options, you must input the
+password you have created. Input a password
+and press b ENTER. Enter it again and press b
+ENTER to verify. If you make a mistake before
+pressing b ENTER, press CLEAR.
+
+1.	 Select the [Lock] menu and then press d.
+
+3.	 Select the first character using w/s buttons.
+4.	Press d and select the second character using
+w/s buttons.
+5.	Press b ENTER to confirm your Area code
+selection.
+
+Rating
+Blocks playback of rated DVDs based on their
+contents. Not all discs are rated.
+1.	 Select [Rating] on the [Lock] menu then press
+d.
+2.	 Input a password and press b ENTER.
+3.	 Select a rating from 1 to 8 using the w/s
+buttons.
+[Rating 1-8]
+Rating one (1) has the most restrictions and
+rating eight (8) is the least restrictive.
+[Unlock]
+If you select unlock, parental control is not active
+and the disc plays in full.
+4.	Press b ENTER to confirm your rating selection.
+
+3
+System Setting
+
+Select [On] to mix karaoke channels into normal
+stereo.
+This function is effective for multi-channel karaoke
+DVDs only.
+
+22 System Setting
+
+Password
+
+OTHERS
+
+You can enter or change password.
+1.	 Select [Password] on the [Lock] menu and then
+press d.
+2.	 Input a password and press b ENTER.
+	
+
+3
+
+To change the password, press b ENTER when
+the [Change] option is highlighted. Input a
+password and press b ENTER. Enter it again
+and press b ENTER to verify.
+
+System Setting
+
+3.	Press SETUP to exit the menu.
+
+,,Note
+
+If you forget your password, you can clear it
+using the following steps:
+1.	Press SETUP to display the [SETUP] menu.
+2.	 Input the 6-digit number “210499” and
+press b ENTER. The password is cleared.
+
+Area Code
+Enter the code of the area whose standards were
+used to rate the DVD video disc, based on the list
+on page 37.
+1.	 Select [Area Code] on the [Lock] menu then
+press d.
+2.	 Input a password and press b ENTER.
+3.	 Select the first character using w/s buttons.
+4.	Press d and select the second character using
+w/s buttons.
+5.	Press b ENTER to confirm your Area code
+selection.
+
+DivX(R) Registration
+ABOUT DIVX VIDEO: DivX® is a digital video
+format created by DivX, LLC, a subsidiary of Rovi
+Corporation. This is an official DivX Certified® device
+that plays DivX video. Visit divx.com for more
+information and software tools to convert your files
+into DivX videos.
+ABOUT DIVX VIDEO-ON-DEMAND: This DivX
+Certified® device must be registered in order to play
+purchased DivX Video-on-Demand (VOD) movies.
+To obtain your registration code, locate the DivX
+VOD section in your device setup menu. Go to vod.
+divx.com for more information on how to complete
+your registration.
+
+,,Note
+
+All the downloaded videos from DivX® VOD
+with this unit`s registration code can be played
+on this unit.
+
+4	Operating
+
+Operating 23
+
+Basic Operations
+
+To
+
+Do this
+
+Stop
+
+Press Z on the remote control
+or I on the unit.
+
+Playback
+
+Press z MONO/STEREO on
+the remote control or T on
+the unit.
+
+Pause
+
+During playback, press M on
+the remote control or T on
+the unit.
+
+Disc/USB Operations
+1.	 Insert the disc by using the Disc tray or connect
+the USB device to the USB port.
+2.	 Select the DVD/CD or USB function by pressing
+FUNCTION on the remote control or F on the
+unit.
+3.	 Select a file (or track/ title) you want to play by
+pressing w/s/a/d.
+
+,,Note
+
+yy For the most Audio CD and DVD-ROM discs,
+playback starts automatically.
+yy The unit plays only music file contained in
+the USB storage device or disc automatically.
+(except for folder)
+
+Skipping to the
+next/ previous
+chapter/ track/
+file
+
+During playback, press
+C/V to go to the next
+chapter/ track/ file or to
+return to the beginning of the
+current chapter/ track/ file.
+Press C twice briefly to step
+back to the previous chapter/
+track/ file.
+
+During playback, press and
+hold c/v on the remote
+control repeatedly or Y/
+Locating a
+point quickly by U on the unit to select the
+playing a file in required scan speed.
+fast forward or To return to normal speed,
+fast reverse
+Press z MONO/STEREO on
+the remote control or T on
+the unit.
+
+Playing
+repeatedly or
+randomly
+
+Press REPEAT repeatedly,
+and the current title, chapter
+or track will be played back
+repeatedly or randomly.
+-R
+ andom play mode : only
+music files.
+
+Slowing down
+the playing
+speed
+
+In the pause mode, press
+c/v to select the
+required speed. (DVD only)
+
+4
+Operating
+
+yy When playing a disc or USB Flash Drive
+containing with DivX, MP3/ WMA and JPEG
+files together, you can select menu of files
+which you would like to play by pressing
+MENU.
+
+press M on the remote control
+Frame-by-Frame or T on the unit repeatedly
+playback
+to play title Frame-by-Frame.
+(DVD, DivX only)
+
+24 Operating
+
+Other Operations
+Displaying Disc Information
+on-screen
+You can display various information about the disc
+loaded on-screen.
+
+4
+
+To display the DVD title
+r
+When you play a DVD which contains several title,
+you can select the title you want using the TITLE.
+1.	Press TITLE.
+The disc’s title appears.
+2.	 Select the menu by pressing w/s/a/d.
+3.	Press b ENTER to confirm.
+
+1.	Press DISPLAY to show various playback
+information.
+The displayed items differ depending on the
+disc type or playing status.
+
+Selecting a subtitle language
+
+2.	 You can select an item by pressing w/s and
+change or select the setting by pressing a/d.
+
+During playback, press S-TITLE repeatedly to select
+a desired subtitle language.
+
+Operating
+
+Title – Current title number/ total number of
+titles.
+Chapter – Current chapter number/ total
+number of chapters.
+Time – Elapsed playing time.
+Selected total time of current title/file.
+Audio – Selected audio language or channel.
+Subtitle – Selected subtitle.
+Angle – Selected angle/ total number of angles.
+Sound – Selected sound mode.
+
+,,Note
+
+If any button is not pressed for a few seconds,
+the onscreen display disappears.
+
+To display the DVD Menu
+r
+When you play a DVD which contains several
+menu, you can select the menu you want using the
+MENU.
+1.	Press MENU.
+The disc’s menu appears.
+2.	 Select the menu by using w/s/a/d.
+3.	Press b ENTER to confirm.
+
+ry
+
+1.5 times speed playback
+r
+The 1.5 speed allows you to watch the pictures and
+listen to the sound quicker than playing at a normal
+speed.
+1.	 During playback, Press z MONO/STEREO on
+the remote control or T on the unit to play at
+1.5 times speed. “dX1.5” appears on the screen.
+2.	 Press z MONO/STEREO on the remote
+control or T on the unit again to exit.
+
+Operating 25
+
+Starting play from selected
+time
+
+Creating your own program
+
+ry
+
+You can play the contents of a disc in the order
+you want by arranging the order of the songs on
+the disc. The program is cleared when the disc is
+removed.
+
+To start playing at any chosen time on the file or
+title.
+1.	Press DISPLAY during playback.
+2.	Press w/s to select the time clock icon and
+“--:--:--” appears.
+
+4.	Press b ENTER to confirm. Playback starts from
+the selected time.
+
+Last Scene Memory
+r
+This unit memorizes last scene from the last disc
+that is viewed. The last scene remains in memory
+even if you remove the disc from the unit or switch
+off the unit. If you load a disc that has the scene
+memorized, the scene is automatically recalled.
+
+Changing the character set to
+display DivX® subtitle correctly
+- optional
+y
+During playback, if the subtitle does not displayed
+on the screen properly, press and hold S-TITLE on
+the remote control for about 3 seconds then press
+S-TITLE to select another language code until the
+subtitle is displayed properly.
+
+,,Note
+
+If any button is not pressed for about
+10 seconds, the language code display
+disappears.
+
+1.	 Select a desired music file then press
+PROG./MEMO. or select "#” and then press
+b ENTER to add the music file to the program
+list.
+2.	 To add all music file on the disc, select “^“
+and then press b ENTER.
+3.	 Select a music file from the program list then
+press b ENTER to start programmed playback.
+4.	 To clear a music file from the program list, select
+the music you want to clear then press CLEAR
+or select “-“ icon and then press
+b ENTER. To clear all music file from the
+program list, select “=“ then press
+b ENTER
+
+,,Note
+
+The programs are also cleared when the disc
+or USB device is removed, the unit is switched
+to power off or the function is switched to
+others.
+
+4
+Operating
+
+3.	 Input the required start time in hours, minutes,
+and seconds from left to right. If you enter the
+wrong numbers, press CLEAR to remove the
+numbers you entered. Then input the correct
+numbers.
+For example, to find a scene at 1 hour, 10
+minutes, and 20 seconds, enter “11020” by using
+numerical buttons.
+
+u
+
+26 Operating
+
+Viewing a PHOTO file
+
+Turning off the sound
+temporarily
+
+i
+This unit can play discs with photo files.
+1.	 Select the DVD/CD or USB function by pressing
+FUNCTION on the remote control or F on the
+unit.
+2.	Press w/s to select a folder, and then press b
+ENTER.
+A list of files in the folder appears.
+If you are in a file list and want to return to
+the previous folder list, use the w/s buttons
+on the remote to highlight g... and press b
+ENTER.
+
+4
+
+3.	 If you want to view a particular file, press
+w/s to highlight a file and press b ENTER
+
+Operating
+
+or Press z MONO/STEREO on the remote
+control or T on the unit. While viewing a file,
+you can Press Z on the remote control or I on
+the unit to move to the previous menu. (JPEG
+menu)
+
+Viewing a PHOTO file as a
+slide show
+i
+1.	Use w/s/a/d to highlight (
+) icon then
+press b ENTER to start slide Show.
+2.	 You can change slide show speed using a/d
+when (
+) icon is highlighted.
+About help menu for slide show.
+Menu
+
+Buttons
+
+Operation
+
+w/s
+
+Rotating the
+picture.
+
+a/d
+Prev./ Next
+
+a/d
+
+Moving to
+another file.
+
+x
+Close
+
+x BACK
+
+Returning to
+the menu.
+
+b
+Hide
+
+b ENTER
+
+Hiding the help
+menu.
+
+Press MUTE@ on the remote control to mute
+your sound.
+You can mute your sound in order, for example, to
+answer the telephone. And “q” will appear in the
+display window.
+To cancel MUTE function, press MUTE@again or
+adjust volume level by pressing VOL(+/-).
+
+Screen Saver
+The screen saver appears when you leave the unit
+in Stop mode for about five minutes.
+
+System Select - Optional
+You must select the appropriate system mode for
+your TV system. If “NO DISC” appears in the display
+window, press and hold M for more than five
+seconds to be able to select a system. (AUTO/ PAL/
+NTSC)
+
+Displaying file information
+(ID3 TAG)
+You can check the ID3 TAG information of MP3 files
+only in discs by pressing DISPLAY repeatedly.
+
+Operating 27
+
+Setting the Clock
+1.	 Turn the unit on.
+2.	Press CLOCK for at least 2 seconds.
+3.	 Choose time mode by pressing C/V on
+the remote control or Y/U on the unit.
+- AM 12:00 (for an AM and PM display) or 0:00
+(for a 24 hour display)
+4.	Press SET/RDS for confirm your selection.
+5.	 Select the hours by pressing C/V on the
+remote control or Y/U on the unit.
+6.	Press SET/RDS.
+7.	 Select the minutes by pressing C/V on
+the remote control or Y/U on the unit.
+8.	Press SET/RDS.
+
+1.	 Turn the unit on.
+2.	Press TIMER. Each functions flashes.
+3.	Press SET/RDS when the function you want to
+be woken by is showing.
+4.	 “ON TIME” will be displayed. This is your desired
+time to unit turns on. Press C/V on the
+remote control or Y/U on the unit to
+change the hours and minutes and press SET/
+RDS to save.
+5.	 The “OFF TIME” will be displayed. This is your
+desired time to unit turns off.
+6.	Press C/V on the remote control or
+Y/U on the unit to change the hours and
+minutes and press SET/RDS to save.
+7.	Press C/V on the remote control or Y/
+U on the unit to change the volume and
+press SET/RDS to save.
+8.	 You can adjust to turn alarm on or off by
+pressing TIMER.
+	
+
+- On : Alarm function is turned on and you can
+check alarm setting status.
+
+	
+
+- Off : Alarm function is turned off and you
+can check “TIMEROFF” massage on Display
+window.
+
+yy If	 you set the clock time, you can check the
+time by pressing CLOCK even when the
+player is turned off.
+yy If	 you set the alarm time, you can check the
+setting state by pressing TIMER even when
+the player is turned off.
+•• If you select DVD/CD mode for alarm sound
+source with a DVD/DivX CD on the disc
+tray, the alarm sound source is switched to
+TUNER mode automatically.
+•• If you select USB mode for alarm sound
+source with multi-device USB, the alarm
+sound source is switched to TUNER mode
+automatically.
+
+4
+Operating
+
+Using your player as an alarm
+clock
+
+,,Note
+
+•• After setting a clock function, you can set
+alarm function.
+
+28 Operating
+
+Sleep Timer Setting
+Press SLEEP one or more times to select delay time
+between 10 and 180 minutes, after which the unit
+turn off.
+To cancel the sleep function, press SLEEP
+repeatedly until “SLEEP 10” appears, and then press
+SLEEP once again while “SLEEP 10” is displayed.
+
+,,Note
+
+yy You can check the remaining time before
+the Unit turns off.
+yy Press SLEEP. The remaining time appears in
+the display window.
+yy Sleep function will work after dimmer.
+
+Radio Operations
+Listening to the radio
+1.	Press FUNCTION on the remote control or F on
+the unit until FM appears in the display window.
+The last received station is tuned in.
+2.	 Press and hold TUNING (-/+) on the remote
+control or TUN. (-/+) on the unit for about 2
+seconds until the frequency indication starts to
+change, then release. Scanning stops when the
+unit tunes in a station.
+Or
+	Press TUNING (-/+) on the remote control or
+TUN. (-/+) on the unit repeatedly.
+
+4
+Operating
+
+Dimmer
+Press SLEEP once. The display window will be
+darken by half. To cancel it, press SLEEP repeatedly
+until dim off.
+
+3.	 Adjust the volume by pressing VOL +/repeatedly.
+
+Presetting the Radio Stations
+You can preset 50 stations for FM.
+Before tuning, make sure to turn down the volume.
+1.	Press FUNCTION on the remote control or F on
+the unit until FM appears in the display window.
+2.	 Select the desired frequency by pressing
+TUNING (-/+) on the remote control or TUN.
+(-/+) on the unit.
+3.	Press PROG./MEMO. a preset number will flash
+in the display window.
+4.	Press PRESET (w/s) to select the preset
+number you want.
+5.	Press PROG./MEMO. The station is stored.
+6.	 Repeat steps 2 to 5 to store other stations.
+7.	 To listen a preset station, press PRESET (w/s).
+
+Deleting all the saved stations
+1.	 Press and hold PROG./MEMO. for two seconds.
+“CLEAR” will flash up on the unit display.
+2.	Press PROG./MEMO. to erase all saved radio
+stations.
+
+Operating 29
+
+Improving poor FM reception
+Press d MONO/STEREO on the remote control.
+This will change the tuner from stereo to mono and
+usually improve the reception.
+
+Sound adjustment
+Setting the surround mode
+
+Seeing information about a
+Radio station
+
+This system has a number of pre-set surround
+sound fields. You can select a desired sound mode
+by using 9 SOUND EFFECT.
+
+The FM tuner is supplied with the RDS (Radio Data
+System) facility. This shows information about the
+radio station being listened to. Press SET/RDS
+repeatedly to cycle through the various data types.
+
+The displayed items for the Equalizer may be
+different depending on sound sources and effects.
+
+RT (Radio Text)
+
+The name of the channel will
+appear in the display.
+The programme type (e.g. Jazz
+or News) will appear in the
+display.
+A text message contains special
+information from the broadcast
+station. This text may scroll
+across the display.
+
+CT (Time
+This shows the time and date as
+controlled by broadcast by the station.
+the channel)
+You can search the radio stations by programme
+type by pressing SET/RDS. The display will show
+the last PTY in use. Press PTY one or more times
+to select your preferred programme type. Press
+TUNING (-/+) on the remote control or TUN. (-/+)
+on the unit. The tuner will search automatically.
+When a station is found the search will stop.
+
+Description
+
+AUTO EQ
+
+Sets the sound equalizer on the
+mode that is the most similar to
+the genre which is included in
+the MP3 ID3 tag of song files.
+
+ROCK
+POP
+CLASSIC
+
+This program lends an
+enthusiastic atmosphere to the
+sound, giving you the feeling
+you are at an actual rock, pop or
+classic concert.
+
+BASS
+(BASS BLAST)
+BYPASS
+
+,,Note
+
+Reinforce the treble, bass and
+surround sound effect.
+You can enjoy the sound
+without equalizer effect.
+
+Maybe you need reset the surround mode,
+after switching the input, sometimes even
+after the sound track changed.
+
+4
+Operating
+
+PS
+(Programme
+Service Name)
+PTY
+(Programme
+Type
+Recognition)
+
+On Display
+
+30 Operating
+
+Advanced Operations
+Listening to music from your
+external device
+The unit can be used to play the music from many
+types of external device. (Refer to the page 15)
+1.	 Connect the external device to the PORT.IN
+connector of the unit.
+2.	 Turn the power on by pressing (1).
+3.	 Select the PORTABLE function by pressing F on
+the unit or FUNCTION on the remote control.
+
+4
+
+4.	 Turn the external device and start it playing.
+
+Operating
+
+Recording to USB
+You can record a various sound source to USB.
+
+,,Note
+
+yy You can check the recording percentage
+rate for the USB record on the display
+window during the recording. (MP3/ WMA
+CD/ AUDIO CD Only)
+yy During recording MP3/ WMA, there is no
+sound.
+yy When you stop recording during playback,
+the file that has been recorded at that time
+will be stored. (AUDIO CD Only)
+yy Do not remove the USB device or turn
+off the unit during USB recording. If not,
+an incomplete file may be made and not
+deleted on PC.
+yy If USB recording does not work, the
+message like “NO USB”, “ERROR”, “USB FULL”
+or “NO REC” is displayed on the display
+window.
+
+1.	 Connect the USB device to the unit.
+
+yy Multi card reader device or External HDD
+can not be used for USB recording.
+
+2.	 Select a function by pressing F on the unit or
+FUNCTION on the remote control.
+
+yy A file is recorded by 2 hours (about 128
+Mbytes) when you record for a long term.
+
+One track recording - You can record to USB
+after playing a file you want.
+All tracks recording - You can record to USB after
+stop.
+Program list recording - After showing the
+programmed list, you can record it to USB.
+(AUDIO CD Only)
+3.	 Start the recording by pressing X REC on the
+remote control.
+
+yy In the state CD-G disc, USB record is not
+operated.
+yy You may not record more than 999 files.
+yy The file number is saved automatically.
+yy It’ll be stored as follows.
+AUDIO CD
+
+MP3/ WMA
+
+The other
+source*
+
+4.	 To stop recording, Press Z on the remote
+control or I on the unit.
+* : TUNER, PORTABLE and the like.
+
+The making of unauthorized copies of copyprotected material, including computer
+programs, files, broadcasts and sound
+recordings, may be an infringement of
+copyrights and constitute a criminal offense.
+This equipment should not be used for such
+purposes.
+Be responsible
+Respect copyrights
+
+5	Troubleshooting
+
+Troubleshooting
+
+31
+
+Troubleshooting
+Problem
+
+Correction
+
+No Power.
+
+Plug the power cord into the wall outlet securely.
+
+No picture.
+
+yy Select the appropriate video input mode on the TV so the picture from the
+unit appears on the TV screen.
+
+There is little or no
+sound.
+
+yy Connect the video cables securely to both the TV and unit.
+
+yy Select the correct input mode of the unit so you can hear the sound from
+the unit.
+yy Connect the audio cables into the connection terminals correctly.
+yy Repalce with new audio cable.
+
+5
+A DVD/CD will not play. yy Insert a disc.
+yy Place the disc with the label or printed side facing upwards.
+yy Enter your password or change the rating level.
+
+Humming noise heard
+while a DVD or CD is
+playing.
+
+yy Clean the disc using a soft cloth with outward strokes.
+yy Move unit and audio components further away from your TV.
+
+yy Check the antenna connection and adjust its position.
+Radio stations cannot
+be tuned in properly.
+
+yy Tune to the station manually.
+yy Preset some radio stations, see page 28 for details.
+
+yy The remote control is not pointed at the remote sensor of the unit. Point
+the remote control at the remote sensor of the unit.
+yy The remote control is too far from the unit. Operate the remote control
+within about 23 ft (7 m).
+The remote control
+does not work properly. yy There is an obstacle in the path of the remote control and the unit. Remove
+the obstacle.
+yy The battery in the remote control is exhausted. Replace the battery with
+new one.
+
+Troubleshooting
+
+yy Insert a playable disc.(check the disc type, colour system and regional
+code)
+
+6	Appendix
+
+32 Appendix
+
+Specifications
+General
+Power supply
+
+Refer to the main lable
+
+Power consumption
+
+Refer to the main lable
+
+Net Weight
+
+2.3 kg
+
+External dimensions (W x H x D)
+
+230 x 125 x 243 mm
+
+Operating Temperature
+
+5 °C to 35 °C (41 °F to 95 °F)
+
+Operating humidity
+
+5 % to 85 %
+
+Tuner
+FM Tuning Range
+
+87.5 to 108.0 MHz or 87.50 to 108.00 MHz
+
+Amplifier
+Output Power
+
+30 W + 30 W
+
+T.H.D
+
+10 %
+
+Inputs/ Outputs
+VIDEO OUT
+
+1.0 V (p-p), 75 Ω, sync negative, RCA jack x 1
+
+6
+
+COMPONENT VIDEO OUT
+
+Appendix
+
+(Y) 1.0 V (p-p), 75 Ω, sync negative, RCA jack x 1, (Pb)/(Pr) 0.7 V (p-p),
+75 Ω, RCA jack x 2
+
+DVD/CD
+Frequency Response
+
+40 Hz to 20 kHz
+
+Signal-to-noise ratio
+
+70 dB
+
+Dynamic range
+
+55 dB
+
+USB
+USB Version
+Bus Power Supply
+
+USB 2.0 or USB 1.1
+DC 5 V
+
+500 mA
+
+iPod/iPhone DC 5 V
+
+1A
+
+Appendix 33
+
+Speakers
+Type
+
+2 Way 2 Speaker
+
+Impedance
+
+6Ω
+
+Rated Input Power
+
+30 W
+
+Max. Input Power
+
+60 W
+
+Net Dimensions (WxHxD)
+
+150 x 250 x 170 mm
+
+Net Weight(1EA)
+
+1.74 kg
+
+yy Design and specifications are subject to change without notice.
+
+6
+Appendix
+
+34 Appendix
+
+Maintenance
+Handling the Unit
+
+Handling Discs
+Never stick paper or tape on the disc.
+
+When shipping the unit
+
+Storing Discs
+
+Please save the original shipping carton and
+packing materials. If you need to ship the unit, for
+maximum protection, re-pack the unit as it was
+originally packed at the factory.
+
+After playing, store the disc in its case. Do not
+expose the disc to direct sunlight or sources of heat
+and never leave it in a parked car exposed to direct
+sunlight.
+
+Keeping the exterior surfaces clean
+
+Cleaning Discs
+
+Do not use volatile liquids such as insecticide spray
+near the unit.
+
+Do not use strong solvents such as alcohol,
+benzine, thinner, commercially available cleaners,
+or anti-static spray intended for older vinyl records.
+
+Wiping with strong pressure may damage the
+surface.
+Do not leave rubber or plastic products in contact
+with the unit for a long period of time.
+
+Cleaning the unit
+
+6
+
+Notes on Discs
+
+Appendix
+
+To clean the player, use a soft, dry cloth. If the
+surfaces are extremely dirty, use a soft cloth lightly
+moistened with a mild detergent solution. Do not
+use strong solvents such as alcohol, benzine, or
+thinner, as these might damage the surface of the
+unit.
+
+Maintaining the Unit
+The unit is a high-tech, precision device. If the
+optical pick-up lens and disc drive parts are dirty
+or worn, the picture quality could be diminished.
+For details, please contact your nearest authorized
+service center.
+
+Appendix 35
+
+Trademarks and
+Licenses
+
+Dolby, Pro Logic, and the double-D symbol are
+registered trademarks of Dolby Laboratories.
+
+“DVD Logo” is a trademark of DVD Format/Logo
+Licensing Corporation.
+
+DivX®, DivX Certified® and associated logos are
+trademarks of Rovi Corporation or its subsidiaries
+and are used under license.
+
+Copyrights
+It is forbidden by law to copy, broadcast, show,
+broadcast via cable, play in public, or rent
+copyrighted material without permission. This
+product features the copy protection function
+developed by Macrovision. Copy protection signals
+are recorded on some discs. When recording and
+playing the pictures of these discs picture noise
+will appear. This product incorporates copyright
+protection technology that is protected by U.S.
+patents and other intellectual property rights. Use
+of this copyright protection technology must be
+authorized by Macrovision, and is intended for
+home and other limited viewing uses only unless
+otherwise authorized by Macrovision. Reverse
+engineering or disassembly is prohibited.
+CONSUMERS SHOULD NOTE THAT NOT ALL
+HIGH DEFINITION TELEVISION SETS ARE FULLY
+COMPATIBLE WITH THIS PRODUCT AND MAY CAUSE
+ARTIFACTS TO BE DISPLAYED IN THE PICTURE. IN
+CASE OF 525 OR 625 PROGRESSIVE SCAN PICTURE
+PROBLEMS, IT IS RECOMMENDED THAT THE USER
+SWITCH THE CONNECTION TO THE ‘STANDARD
+DEFINITION’ OUTPUT. IF THERE ARE QUESTIONS
+REGARDING OUR TV SET COMPATIBILITY WITH THIS
+MODEL 525p AND 625p UNIT, PLEASE CONTACT
+OUR CUSTOMER SERVICE CENTER.
+
+6
+Appendix
+
+36 Appendix
+
+Language Codes
+Use this list to input your desired language for the following initial settings: Disc Audio, Disc Subtitle, Disc
+Menu.
+
+6
+Appendix
+
+Language	Code
+
+Language	Code
+
+Language	Code
+
+Language	Code
+
+Afar 	
+
+6565
+
+French 	
+
+7082
+
+Lithuanian 	
+
+7684
+
+Sindhi 	
+
+8368
+
+Afrikaans 	
+
+6570
+
+Frisian 	
+
+7089
+
+Macedonian 	
+
+7775
+
+Singhalese 	
+
+8373
+
+Albanian 	
+
+8381
+
+Galician 	
+
+7176
+
+Malagasy 	
+
+7771
+
+Slovak 	
+
+8375
+
+Amharic 	
+
+6577
+
+Georgian 	
+
+7565
+
+Malay 	
+
+7783
+
+Slovenian 	
+
+8376
+
+Arabic 	
+
+6582
+
+German 	
+
+6869
+
+Malayalam 	
+
+7776
+
+Spanish 	
+
+6983
+
+Armenian 	
+
+7289
+
+Greek 	
+
+6976
+
+Maori 	
+
+7773
+
+Sudanese 	
+
+8385
+
+Assamese 	
+
+6583
+
+Greenlandic 	
+
+7576
+
+Marathi 	
+
+7782
+
+Swahili 	
+
+8387
+
+Aymara 	
+
+6588
+
+Guarani 	
+
+7178
+
+Moldavian 	
+
+7779
+
+Swedish 	
+
+8386
+
+Azerbaijani 	
+
+6590
+
+Gujarati 	
+
+7185
+
+Mongolian 	
+
+7778
+
+Tagalog 	
+
+8476
+
+Bashkir 	
+
+6665
+
+Hausa 	
+
+7265
+
+Nauru	7865
+
+Tajik 	
+
+8471
+
+Basque 	
+
+6985
+
+Hebrew 	
+
+7387
+
+Nepali 	
+
+7869
+
+Tamil 	
+
+8465
+
+Bengali; Bangla 	
+
+6678
+
+Hindi 	
+
+7273
+
+Norwegian 	
+
+7879
+
+Telugu 	
+
+8469
+
+Bhutani 	
+
+6890
+
+Hungarian 	
+
+7285
+
+Oriya 	
+
+7982
+
+Thai 	
+
+8472
+
+Bihari 	
+
+6672
+
+Icelandic 	
+
+7383
+
+Panjabi 	
+
+8065
+
+Tonga 	
+
+8479
+
+Breton 	
+
+6682
+
+Indonesian 	
+
+7378
+
+Pashto, Pushto 	
+
+8083
+
+Turkish 	
+
+8482
+
+Bulgarian 	
+
+6671
+
+Interlingua 	
+
+7365
+
+Persian 	
+
+7065
+
+Turkmen 	
+
+8475
+
+Burmese 	
+
+7789
+
+Irish 	
+
+7165
+
+Polish 	
+
+8076
+
+Twi 	
+
+8487
+
+Byelorussian 	
+
+6669
+
+Italian 	
+
+7384
+
+Portuguese 	
+
+8084
+
+Ukrainian 	
+
+8575
+
+Chinese 	
+
+9072
+
+Japanese 	
+
+7465
+
+Quechua 	
+
+8185
+
+Urdu 	
+
+8582
+
+Croatian 	
+
+7282
+
+Kannada 	
+
+7578
+
+Rhaeto-Romance 	 8277
+
+Uzbek 	
+
+8590
+
+Czech 	
+
+6783
+
+Kashmiri 	
+
+7583
+
+Rumanian 	
+
+8279
+
+Vietnamese 	
+
+8673
+
+Danish 	
+
+6865
+
+Kazakh 	
+
+7575
+
+Russian 	
+
+8285
+
+Volapük 	
+
+8679
+6789
+
+Dutch 	
+
+7876
+
+Kirghiz 	
+
+7589
+
+Samoan 	
+
+8377
+
+Welsh 	
+
+English 	
+
+6978
+
+Korean 	
+
+7579
+
+Sanskrit 	
+
+8365
+
+Wolof 	
+
+8779
+
+Esperanto 	
+
+6979
+
+Kurdish 	
+
+7585
+
+Scots Gaelic 	
+
+7168
+
+Xhosa 	
+
+8872
+
+Estonian 	
+
+6984
+
+Laotian 	
+
+7679
+
+Serbian 	
+
+8382
+
+Yiddish 	
+
+7473
+
+Faroese 	
+
+7079
+
+Latin 	
+
+7665
+
+Serbo-Croatian 	
+
+8372
+
+Yoruba 	
+
+8979
+
+Fiji 	
+
+7074
+
+Latvian, Lettish 	
+
+7686
+
+Shona 	
+
+8378
+
+Zulu 	
+
+9085
+
+Finnish 	
+
+7073
+
+Lingala 	
+
+7678
+
+Appendix 37
+
+Area Codes
+Choose an area code from this list.
+Area	Code Area	Code Area	Code Area	Code
+Afghanistan 	
+
+AF Fiji 	
+
+FJ Monaco 	
+
+MC Singapore 	
+
+SG
+
+Argentina 	
+
+AR Finland 	
+
+FI Mongolia 	
+
+MN Slovak Republic 	
+
+SK
+
+Australia 	
+
+AU France 	
+
+FR Morocco 	
+
+MA Slovenia 	
+
+Austria 	
+
+AT Germany 	
+
+DE Nepal 	
+
+NP South Africa 	
+
+ZA
+
+Belgium 	
+
+BE Great Britain 	
+
+GB Netherlands 	
+
+NL South Korea 	
+
+KR
+
+Bhutan 	
+
+BT Greece 	
+
+GR Antilles 	
+
+AN Spain 	
+
+ES
+
+Bolivia 	
+
+BO Greenland 	
+
+GL New Zealand 	
+
+NZ Sri Lanka 	
+
+LK
+
+Brazil 	
+
+BR Hong Kong 	
+
+HK Nigeria 	
+
+NG Sweden 	
+
+SE
+
+Cambodia 	
+
+KH Hungary 	
+
+HU Norway 	
+
+Canada 	
+
+CA India 	
+
+IN Oman 	
+
+Chile 	
+
+CL Indonesia 	
+
+ID Pakistan 	
+
+PK Thailand 	
+
+China 	
+
+CN Israel 	
+
+IL Panama 	
+
+PA Turkey 	
+
+TR
+
+Colombia 	
+
+CO Italy 	
+
+IT Paraguay 	
+
+PY Uganda 	
+
+UG
+
+Congo 	
+
+CG Jamaica 	
+
+JM Philippines 	
+
+PH Ukraine 	
+
+UA
+
+Costa Rica 	
+
+CR Japan 	
+
+JP Poland 	
+
+PL United States 	
+
+US
+
+Croatia 	
+
+HR Kenya 	
+
+KE Portugal 	
+
+PT Uruguay 	
+
+UY
+
+Czech Republic 	
+
+CZ Kuwait 	
+
+KW Romania 	
+
+RO Uzbekistan 	
+
+UZ
+
+Denmark 	
+
+DK Libya 	
+
+Ecuador 	
+
+EC Luxembourg 	
+
+Egypt 	
+
+EG Malaysia 	
+
+El Salvador 	
+
+SV Maldives 	
+
+MY Saudi Arabia 	
+MV Senegal 	
+
+Ethiopia 	
+
+ET Mexico 	
+
+MX
+
+NO Switzerland 	
+
+CH
+
+OM Taiwan 	
+
+TW
+
+Vietnam 	
+RU Zimbabwe 	
+SA
+SN
+
+TH
+
+VN
+ZW
+
+6
+Appendix
+
+LY Russian
+LU Federation 	
+
+SI

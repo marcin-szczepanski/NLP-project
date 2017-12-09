@@ -1,0 +1,5406 @@
+MEDIJSKA STANICA
+
+Mrežni dvojni HD rekorder
+MS450H
+
+Molimo vas da zbog pravilne uporabe ovog uređaja
+pažljivo pročitate ovaj priručnik i da ga sačuvate kao
+referencu za buduće potrebe.
+
+HRVATSKI
+
+Odlaganje vašeg starog uređaja
+1.	 Kada se na proizvodu nalazi ova prekrižena kanta
+za smeće na kotačima, to znači da je proizvod
+obuhvaćen Europskom direktivom 2002/96/EC.
+2.	 Svi električni i elektronički proizvodi trebaju se
+odlagati odvojeno od komunalnog otpada preko
+određenih odlagališta koja je odredila vlada ili lokalna
+uprava.
+3.	 Pravilan način odlaganja vašeg starog uređaja
+pomoći će kod sprečavanja potencijalno negativnih
+posljedica po okoliš i ljudsko zdravlje.
+4.	 Za više detaljnih informacija o odlaganju vašeg starog
+uređaja, molimo obratite se vašem gradskom uredu,
+službi za odlaganje otpada ili trgovini u kojoj ste kupili
+vaš uređaj.
+
+OPREZ
+
+NE OTVARAJ. RIZIK OD
+STRUJNOG UDARA.
+
+OPREZ: KAKO BISTE SMANJILI RIZIK OD STRUJNOG UDARA NE SKIDAJTE POKLOPAC (ILI ZADNJU
+PLOČU). UNUTRA NEMA DIJELOVA KOJE BI KORISNIK
+MOGAO SERVISIRATI, PREPUSTITE SERVISIRANJE
+KVALIFICIRANOM OSOBLJU ZA SERVISIRANJE.
+
+Znak munje sa simbolom strelice unutar
+jednakostraničnog trokuta upozorava na prisutnost
+neizoliranog opasnog napona unutar kućišta uređaja
+koji je dovoljno velik da predstavlja opasnost od
+strujnog udara za osobe.
+
+Za bežični proizvod u Europskoj
+Zajednici Napomena
+Proizvodi s CE oznakom su u skladu s
+R&TTE odredbom (1999/5/EC), EMC
+odredbom (2004/108/EC) i Odredbom o
+niskom naponu (2006/95/EC) koju je izdala
+Komisija Europske Zajednice. Samo za
+upotrebu u zatvorenom prostoru.
+
+Znak uskličnika unutar jednakostraničnog trokuta
+upozorava korisnika na prisutnost važnih informacija
+za rad i održavanje (servisiranje) uređaja u pisanim
+materijalima koji dolaze zajedno s uređajem.
+UPOZORENJE: KAKO BISTE SPRIJEČILI POŽAR ILI STRUJNI
+UDAR NE IZLAŽITE OVAJ PROIZVOD KIŠI i VLAGI.
+
+Usklađenost s ovim odredbama znači prilagođenost sljedećim
+Europskim normama (u zagradama se nalaze ekvivalenti
+međunarodnih standarda i regulacija):
+•	 EN 55022 (CISPR 22) – Elektromagnetska interferencija
+•	 EN 55024 (IEC61000-4-2,3,4,5,6,8,11) -Elektromagnetski
+imunitet
+•	 EN 60065 (IEC 60065) – Sigurnost proizvoda
+•	 EN 300 328 –Tehnički zahtjevi za radio opremu
+•	 301 489-1 i EN 301 489-17 - Općeniti EMC zahtijevi za radio
+opremu.
+
+UPOZORENJE: Ne uključujte ovaj uređaj u ograničeno
+zatvorenim prostorima, kao što su na primjer police za knjige i
+slično.
+OPREZ: Ne izlažite uređaj vodi koja kaplje ili pljuska, kiši niti
+vlazi. Ne odlažite na uređaj predmete ispunjene vodom kao što
+su, na primjer vaze.
+OPREZ s električnim kablom
+Za većinu uređaja se preporučuje da imaju svoj zasebni
+strujni krug napajanja;
+
+	
+	
+	
+	
+
+Drugim riječima, zidna utičnica s koje se napaja ovaj uređaj
+treba biti jedina utičnica na jednom osiguraču i na tom osiguraču
+ne smije biti drugih utičnica. Kako biste bili sigurni provjerite
+specifikacijsku stranicu ovog priručnika.
+
+Predstavnik za Europu :
+LG Electronics Service Europe B.V.
+Veluwezoom 15, 1327 AE Almere, The Netherlands
+(Tel : +31-036-547-8940)
+
+Kao Energy Star® partner, LG izjavljuje
+da je ovaj proizvod ili modeli proizvoda u
+skladu s Energy Star® uputama za efikasnu
+potrošnju energije.
+
+Utičnice nemojte preopterećivati. Preopterećene zidne utičnice,
+slabo pričvršćene ili oštećene utičnice, produžni kablovi, izlizani
+električni kablovi ili kablovi s oštećenom ili napuklom izolacijom
+su opasni. Bilo koje od ovih stanja može dovesti do opasnosti od
+strujnog udara ili do požara. S vremena na vrijeme pregledajte
+električni kabel vašeg uređaja, a ako pregledom utvrdite
+oštećenja ili izlizanost, iskopčajte kabel, prestanite upotrebljavati
+uređaj i zamijenite kabel s točno određenim zamjenskim kabelom
+kod vašeg ovlaštenog servisera.
+
+ENERGY STAR® je robna marka zaštićena u SAD-u.
+
+Zaštitite električni kabel od fizičkih ili mehaničkih oštećivanja, kao
+što su presavijanje, lomljenje, probadanja, priklještenja vratima ili
+gaženje preko kabla. Posebnu pažnju posvetite utikačima, zidnim
+utičnicama i mjestu na kojem kabel izlazi iz uređaja.
+Električno napajanje uređaja se isključuje iskapčanjem utikača
+iz utičnice. Kod instaliranja uređaja pazite da utikač bude lako
+dostupan.
+
+
+
+Zaštićena autorska prava
+
+Robna marka vlasništvo DVB Digital projekt emitiranja
+videa (1991 do 1996).
+
+l	 Oprema
+
+za snimanje se treba upotrijebiti samo za
+kopiranja koja su u skladu sa zakonom, molimo vas da
+pažljivo provjerite što je to zakonito kopiranje u području
+u kojem obavljate kopiranje. Kopiranje materijala koji su
+zaštićeni autorskim pravom kao što su filmovi ili glazba
+je nezakonito osim ako nije dopušteno zakonskim
+izuzećem ili pristankom vlasnika prava.
+
+UPOZORENJE:
+medija koji uključuju ali se ne ograničavaju na
+materijale za emitiranje, film, glazbu i foto datoteke su
+zaštićeni autorskim pravima, te je za snimanje kopije
+i reprodukciju tih sadržaja potrebno imati dopuštenje
+vlasnika autorskih prava. LG nema prava da garantira
+ovo dopuštenje. Dopuštenje je potrebno tražiti od
+vlasnika autorskih prava.
+
+l	 Sadržaji
+
+l	 Ovaj
+
+proizvod uključuje tehnologiju za zaštitu autorskih
+prava koja se štite načinom koji je zaštićen nekim U.S.
+patentima i drugim pravima na intelektualno vlasništvo
+koje posjeduje Macrovision Corporation i drugi vlasnici
+prava. Upotrebu tih tehnologija za zaštitu autorskih
+prava mora odobriti Macrovision Corporation, a može
+se koristiti samo za kućnu upotrebu i druge ograničene
+načine gledanja, osim ako to tvrtka Macrovision
+Corporation nije drugačije odobrila. Zabranjeno je
+rastavljanje uređaja i otkrivanje obrnutog redoslijeda
+proizvodnje.
+
+l	 Audio
+
+i video snimanja i kopije koje napravite koristeći
+ovaj proizvod služe samo za vašu osobnu i netržišnu
+upotrebu. Te kopije ne možete prodavati, posuđivati ili
+iznajmljivati drugim osobama. LG ne snosi odgovornost
+za vaše kazne, neprilike prouzročene nelegalnom
+upotrebom proizvoda.
+
+O
+
+l	 KORISNICI
+
+TREBAJU ZNATI DA SVI TELEVIZORI
+VISOKE REZOLUCIJE NISU POTPUNO
+KOMPATIBILNI S OVIM UREĐAJEM ŠTO MOŽE
+DOVESTI DO NEŽELJENIH POJAVA NA SLICI. U
+SLUČAJU PROBLEMA KOD SLIKE S POSTAVKOM
+625 PROGRESSIVE SCAN, KORISNIKU SE
+PREPORUČUJE PREBACIVANJE PRIKLJUČKA NA
+IZLAZ ZA ‘STANDARDNU REZOLUCIJU’. UKOLIKO
+POSTOJE PITANJA U VEZI S KOMPATIBILNOŠĆU
+NAŠEG TV-A S OVIM MODELOM 625p UREĐAJEM
+MOLIMO KONTAKTIRAJTE NAŠ SERVISNI CENTAR
+ZA KORISNIKE.
+
+simbolu na zaslonu
+
+Tijekom rada se na zaslonu vašeg TV-a može pojaviti
+što ukazuje na to da ovaj rekorder ili određeni medij
+ne dopušta tu funkciju.
+
+Simboli upotrebljeni u ovom
+priručniku
+Označava posebne napomene i operacijske pogodnosti.
+
+Licence
+
+Označava savjete za lakše postizanje željenog cilja.
+
+Proizvedeno prema licenci Dolby Laboratories.
+“Dolby” i dvostruki-D simbol su robne marke Dolby
+Laboratories.
+
+Oprez
+
+Označava postojanje opasnosti oštećivanja samog uređaj
+ili nastajanja neke druge materijalne štete.
+
+Proizvedeno prema licenci prema U.S. Patent #’s:
+5,451,942; 5,956,674; 5,974,380; 5,978,762; 6,487,535 i
+drugim patentima SAD-a i drugih zemalja koji su odobreni
+ili u postupku odobravanja. DTS i DTS 2.0+ Digital Out su
+registrirane robne marke, a DTS logotipi i Simbol su robne
+marke vlasništvo DTS, Inc. © 1996-2008 DTS, Inc. Sva
+prava pridržana.
+HDMI, HDMI logo i High-Definition Multimedia Interface su
+robne marke ili registrirane robne marke vlasništvo LLC
+HDMI licence.
+YouTube je robna marka vlasništvo Google Inc.
+Picasa mrežni albumi su robna marka vlasništvo Google
+Inc.
+DLNA i DLNA CERTIFIED su robne marke i/ili uslužne
+marke vlasništvo Digital Living Network Alliance.
+WIFI CERTIFIED 802.11n na osnovu Draft 2.0.
+Draft 2.0 se odnosi na verziju još ne-ratificiranog IEEE
+802.11n standarda koji se koristi kod Wi-Fi Alliance od
+lipnja 2007. godine.
+“HD TV” Logo je robna marka vlasništvo DIGITALEUROPE.
+
+
+
+Sadržaj
+Zahtjevi u odnosu na datoteku..................................................5
+Kompatibilnost datoteka (HDD/USB/PC)............................................ 5
+Pregled početnog izbornika......................................................6
+Daljinski upravljač .....................................................................8
+Glavna jedinica uređaja.............................................................9
+Pregled priključivanja..............................................................10
+Priključivanje na vaš TV.................................................................... 10
+(Opcija A) Najbolja kvaliteta - HDMI priključivanje (uključuje audio i
+video).................................................................................................11
+(Opcija B) Odlična kvaliteta – Komponentni video i stereo audio
+priključivanje...................................................................................... 12
+(Opcija C) Priključivanje na TV (Kompozit ili Scart).......................... 12
+Priključivanje na pojačalo.................................................................. 13
+Priključivanje na mrežu...........................................................14
+Priključivanje na kabelsku mrežu...................................................... 14
+Bežično priključivanje na mrežu........................................................ 16
+Čarobnjak za podešavanje (Početno instaliranje).................20
+
+Odabir koda jezika za titl................................................................... 33
+Odabir audio jezika........................................................................... 34
+Ponavljanje reprodukcije................................................................... 34
+Reprodukcija od odabranog vremena............................................... 34
+Dodavanje datoteka na popis za reprodukciju.................................. 34
+Brisanje datoteke/mape s popisa...................................................... 34
+Nazivanje datoteke............................................................................ 35
+Reprodukcija odabranih datoteka..................................................... 35
+Odabir brzine slide prikaza................................................................ 35
+Odabir efekta za slide prikaz............................................................. 35
+Slušanje glazbe tijekom slide prikaza............................................... 35
+Reprodukcija datoteka s vašeg računala ..............................36
+Pristup na računalo........................................................................... 36
+Uređivanje [My_Shortcuts]................................................................ 36
+Korištenje [File Copy] funkcija................................................37
+Kopiranje ili premještanje datoteka/mapa......................................... 37
+Brisanje datoteka/mapa ................................................................... 37
+
+DTV......................................................... 21
+
+DLNA....................................................... 38
+
+DTV instaliranje........................................................................21
+Podešavanja za digitalni TV....................................................22
+Odabir regije...................................................................................... 22
+Automatsko traženje programa......................................................... 22
+Ručno traženje programa.................................................................. 22
+Uređivanje popisa programa............................................................. 23
+Podešavanje sustava zaključavanja................................................. 23
+Postavljanje nove lozinke.................................................................. 23
+Podešavanje razine TV ocjene ........................................................ 24
+Podešavanje antenskog napajanja .................................................. 24
+Postavljanje trajnog timeshifta.......................................................... 24
+Postavljanje lokacije medija za pohranu snimanja............................ 24
+Korištenje funkcija digitalnog TV-a.........................................25
+Gledanje digitalnog TV-a................................................................... 25
+Podešavanje glasnoće audio izlaza.................................................. 25
+Mijenjanje programa na digitalnom TV-u........................................... 25
+Postavljanje omiljenih programa....................................................... 25
+Prikaz informacija o programu ........................................................ 25
+Odabir jezika za DTV audio.............................................................. 25
+Odabir jezika za DTV titl.................................................................... 26
+Prikaz EPG (Electronic Programme Guide (Elektronski vodič za
+program) zaslona.............................................................................. 26
+Ručno korištenje timeshift funkcije . ................................................. 26
+Korištenje trajnog timeshifta.............................................................. 27
+Korištenje teleteksta (Prikaz teleteksta)............................................ 27
+Snimanje TV programa............................................................28
+Normalno snimanje........................................................................... 28
+Snimanje dvostrukog programa........................................................ 28
+Snimanje pomoću brojača vremena (Ručno).................................... 28
+Snimanje brojačem vremena (EPG)................................................. 29
+Poništavanje snimanja pomoću brojača vremena............................. 29
+Provjeravanja povijesti...................................................................... 29
+Uređivanje snimanja brojačem vremena........................................... 30
+Trenutno snimanje brojačem vremena . .......................................... 30
+
+O DLNA......................................................................................38
+Napomene o DLNA funkcijama......................................................... 38
+Instaliranje Nero MediaHome 4 Essentials....................................... 39
+Dijeljenje datoteka i mapa................................................................. 39
+Rad s DLNA funkcijom.............................................................40
+Općeniti rad....................................................................................... 40
+
+YouTube™.............................................. 41
+
+Rad s YouTube™ funkcijom....................................................41
+Općeniti rad....................................................................................... 41
+Traženje YouTube videa.................................................................... 42
+Odabir vaše lokalne stranice............................................................. 42
+
+Picasa .................................................... 43
+
+Rad s funkcijama Picasa Web Albums...................................43
+Općeniti rad....................................................................................... 43
+Traženje Picasa Web Albums........................................................... 44
+Gledanje vaših Picasa Web Albums................................................. 44
+Brisanje ID-a s ID popisa.................................................................. 44
+
+Podešavanje.......................................... 45
+
+Općenito podešavanje.............................................................45
+DTV podešavanje.............................................................................. 45
+Audio podešavanje............................................................................ 46
+Podešavanje zaslona........................................................................ 46
+Podešavanje snimanja...................................................................... 47
+Mrežno podešavanje......................................................................... 47
+Podešavanje sustava........................................................................ 48
+Druga podešavanja........................................................................... 48
+Reference..................................................................................49
+Ažuriranje softvera preko interneta................................................... 49
+Ažuriranje softvera preko ugrađenog prijemnika . ............................ 49
+Formatiranje HDD............................................................................. 49
+Instaliranje vanjskog HDD-a.............................................................. 50
+O unutarnjem/vanjskom HDD-u........................................................ 51
+Priključivanje USB uređaja................................................................ 51
+Upravljanje TV –om preko isporučenog univerzalnog daljinskog
+upravljača . ....................................................................................... 52
+Brojevi kodova za TV-e koje je moguće kontrolirati.......................... 53
+Rješavanje problema........................................................................ 55
+Specifikacije...................................................................................... 57
+VAŽNE INFORMACIJE U VEZI S MREŽNIM USLUGAMA......58
+Napomena o Open source softveru........................................59
+
+Mediji...................................................... 31
+
+Funkcije za reprodukciju.........................................................32
+Općenita reprodukcija....................................................................... 32
+Sortiranje snimljenih naslova REC.................................................... 32
+Reprodukcija okvir-po-okvir............................................................... 33
+Brzo naprijed i brzo nazad................................................................ 33
+Usporavanje brzine reprodukcije....................................................... 33
+Prelazak na sljedeću/prethodnu datoteku......................................... 33
+Nastavak reprodukcije....................................................................... 33
+Povećanje reproducirane slike ......................................................... 33
+Odabir jezika za titl............................................................................ 33
+
+
+
+Zahtjevi u odnosu na datoteku
+Kompatibilnost datoteka (HDD/USB/PC)
+
+Glazbene datoteke
+
+•	 Ekstenzije datoteka: “.mp3”, “.wma”,“.aac”,“.ogg”, “.asf”, “.flac”,
+“.mp4”
+•	 Frekvencija uzorka: 8 - 48 kHz (MP3), 32 - 48kHz (WMA)
+•	 Bit brzina: 8 - 320kbps (MP3), 32 - 192kbps (WMA)
+•	 Rekorder ne podržava ID3 Tag sadržan u MP3 datoteci.
+•	 Ukupno vrijeme reprodukcije naznačeno na zaslonu možda
+neće biti točno za VBR datoteke.
+
+l	 Budući
+
+da su kompatibilnost i moguće funkcije za
+reprodukciju u [DLNA] izborniku testirani na okruženju
+bundle DLNA servera (Nero MediaHome 4 Essentials),
+zahtjevi u odnosu na datoteke i funkcije za reprodukciju
+u [DLNA] izborniku se mogu razlikovati ovisno o
+medijskim serverima.
+
+•	 Ukupno vrijeme reprodukcije se neće prikazati za “.aac”, i
+“.flac” datoteke.
+
+l	 Zahtjevi
+
+u odnosu na datoteke na ovoj stranici nisu
+uvijek kompatibilni za DLNA funkcije. Mogu postojati
+neka ograničenja prema karakteristikama datoteke i
+mogućnostima servera.
+l	 Uređaj može prepoznati naziv datoteke/mape koji ima
+manje od 512 znakova uključujući naziv puta.
+
+Foto datoteka
+
+•	 Ekstenzije datoteke: “.jpg”, “.jpeg”, “.bmp”, “.png”, “.gif”,
+“.tif/tiff”
+
+•	 Foto datoteke s “.png” “.gif” ili “.tif” ekstenzijama se na ovom
+rekorderu ne podržavaju u cijelosti. Podržavaju se samo
+njihovi ograničeni osnovni formati.
+
+l	 Uređaj
+
+može prepoznati naziv u manje od 4000
+datoteka/mapa u jednoj mapi.
+
+•	 Preporučena veličina:
+	 Manje od 4,000 x 3,000 x 24 bit/piksel
+	 Manje od 3,000 x 3,000 x 32 bit/piksel
+
+l	 Ovisno
+
+o veličini i broju datoteka, za čitanje sadržaja
+medija bit će potrebno nekoliko minuta.
+
+•	 Ne podržavaju se progresivne i lossless komprimirane JPEG
+slikovne datoteke.
+
+Filmska datoteka
+
+•	 Moguća veličina rezolucije: 1920 x1080 (Š x V) piksela.
+•	 Nazivi filmskih i titl datoteka su ograničeni na 50 znakova.
+•	 Podržavane ekstenzije: “.avi”, “.divx”, “.mpg”, “.mpeg”,
+“.m2ts”, “.mp4”, “.mkv”, “.wmv”, “.ts”, “.xvid”, “.asf”, “.mov”,
+“.trp”, “.dat”, “.flv”, “.mts”, “.tp”
+
+•	 Podržavana kodiranja: DIVX3.xx, DIVX4.xx, DIVX5.xx, XVID,
+DIVX6.xx (Samo standardna reprodukcija),
+MPEG1/2, H.264/MPEG-4 AVC, WMV9, VC-1
+•	 Uređaj možda neće reproducirati datoteku koja nije
+kodirana na popisu čak i ako se vrsta ekstenzije nalazi na
+“Podržavane ekstenzije” gore.
+
+•	 Filmski titli koji se mogu reproducirati: SubRip (.srt / .txt),
+SAMI (.smi), SubStation Alpha (.ssa/.txt), MicroDVD (.sub/.
+txt), SubViewer 2.0 (.sub/.txt), VobSub (“.idx” i “.sub” trebaju
+biti zajedno na jednom mediju. )
+•	 Audio formati koji se mogu reproducirati: “Dolby Digital”,
+“DTS”, “MP3”, “WMA”, “AAC”
+
+•	 Svi WMA Audio formati nisu kompatibilni s ovim rekorderom.
+•	 Frekvencija uzorka: 8 - 48 kHz (MP3),
+unutar 32 - 48 kHz (WMA)
+
+•	 Bit brzina: 8 - 320 kbps (MP3), 32 - 192 kbps (WMA)
+
+•	 Rekorder podržava H.264/MPEG-4 AVC profil Glavni, Visoki
+na razini 4.1. i Bazni na razini 3.1.
+•	 U slučaju datoteke više razine, rekorder će vas pitati želite li
+ili ne želite reprodukciju.
+•	 Prikaz titla na DLNA je moguć samo za okruženje bundle
+DLNA servera (Nero MediaHome 4 Essentials).
+•	 Rekorder ne podržava datoteke snimljene pomoću GMC-a.
+(GMC: Global Motion Compensation)
+
+
+
+Pregled početnog izbornika
+Polazak od početnog izbornika (HOME)
+
+Za pristup brojnim funkcijama servera, pritisnite “HOME” tipku na daljinskom upravljaču.
+
+Čarobnjak za podešavanje
+(stranica 20)
+Instaliranje DTV-a
+(stranica 21)
+Podešavanje digitalnog TV-a
+(stranica 22-24)
+Korištenje funkcija za digitalni
+TV
+(stranica 25-27)
+Snimanje TV programa
+(stranica 28-30)
+
+Zahtijevi u odnosu na
+datoteke
+(stranica 5)
+Funkcije za reprodukciju
+(stranica 32-35)
+Reprodukcija datoteka na
+računalu
+(stranica 36)
+Korištenje [File Copy] funkcije
+(stranica 37)
+
+
+
+Priključivanje na mrežu
+(stranica 14-19)
+O DLNA
+(stranica 38)
+Instaliranje Nero MediaHome
+4 Essentials
+(stranica 39)
+Rad s DLNA funkcijom
+(stranica 40)
+
+Osnovne operacije s tipkama
+
+-	 HOME : Otvara ili zatvara početni izbornik (HOME).
+-	 b / B : Koriste se za kretanje kroz displeje na zaslonu.
+-	 OK ( ): Potvrđuje odabir izbornika.
+-	 BACK (O): Izlazi iz izbornika.
+
+Rad s YouTube funkcijom
+(stranica 41)
+Općeniti rad
+(stranica 41)
+Traženje YouTube videa
+(stranica 42)
+Odabir lokalne stranice
+(stranica 42)
+
+Rad s Picasa Web Albums
+funkcijom
+(stranica 43)
+Općeniti rad
+(stranica 43)
+Traženje Picasa Web Albums
+fotografija
+(stranica 44)
+Gledanje Picasa Web Albums
+albuma
+(stranica 44)
+Uklanjanje ID-a s ID popisa
+(stranica 44)
+
+Općenito podešavanje
+(stranica 45)
+DTV podešavanje
+(stranica 45)
+Audio podešavanje
+(stranica 46)
+Podešavanje zaslona
+(stranica 46-47)
+Podešavanje snimanja
+(stranica 47)
+Mrežno podešavanje
+(stranica 47)
+Podešavanje sustava
+(stranica 48)
+Druga podešavanja
+(stranica 48)
+
+
+
+Daljinski upravljač
+POWER (1): Uključuje ili isključuje rekorder.
+
+TV/PVR: Služi za gledanje kanala koji su odabrani pomoću tuner-a rekordera ili
+tuner-a TV-a.
+VOL (- / +): Podešava glasnoću rekordera.
+
+Tipke za upravljanje TV-om: Možete kontrolirati odabir programa, glasnoću, izvor
+ulaza i uključivanje/isključivanje vašeg TV-a (pogledajte stranicu 52).
+0-9 brojčane tipke: Vrše odabir brojčanih opcija u izborniku.
+REC (z): Pokreće snimanje i kopiranje.
+
+TIMESHIFT: Pauzira TV/reprodukciju (timeshift) za živi TV program.
+
+m / M (SCAN): Vrši traženje naprijed ili natrag.
+
+. / > (SKIP): Prelazi na sljedeću ili prethodnu snimku/datoteku.
+X (PAUSE): Pauzira reprodukciju.
+B (PLAY): Pokreće reprodukciju.
+
+x (STOP): Zaustavlja reprodukciju.
+
+HOME: Otvara ili zatvara početni izbornik (HOME).
+GUIDE: Otvara EPG izbornik.
+
+b / B / v / V (lijevo/desno/gore/dolje): Služe za kretanje kroz displej na zaslonu.
+OK (
+
+): Potvrđuje odabir u izborniku ili otvara popis programa.
+
+BACK (O): Zatvara izbornik ili prelazi na prethodni korak.
+INFO (
+
+): Otvara ili zatvara displej na zaslonu.
+
+PR (U / u): Prelazi gore ili dolje kroz memorirane programe.
+
+PAGE (U / u): Prelazi na sljedeći ili prethodni sadržaj/TV popis.
+
+REPEAT: Ponavlja željeni odsječak ili sekvencu.
+ZOOM: Otvara ili zatvara [ZOOM] izbornik.
+MARKER (
+
+): Koristi se za odabir više datoteka ili mapa u određenim operacijama.
+
+EDIT: Otvara izbornik za uređivanje.
+Tipke u boji: Koristi se za [MOVIE], [PHOTO] i [MUSIC] izbornik ili se koristi kada
+je otvoren EPG zaslon. Na zaslonu će se opisati funkcija svake tipke, koje će se
+mijenjati ovisno o prikazanom zaslonu.
+PR LIST: Otvara popis programa.
+
+FAV: Otvara omiljeni popis programa.
+AUDIO (
+
+): Odabire audio jezik ili audio kanal.
+
+SUBTITLE (
+
+): Odabire jezik za titl.
+
+TIMER REC: Prikazuje [Timer Recording] izbornik.
+
+TEXT: Vrši prebacivanje između teleteksta i normalnog gledanja TV-a.
+
+GOTO: Tijekom reprodukcije filma otvara opciju traženja pomoću vremena.
+
+RESOLUTION: Postavlja izlaznu rezoluciju za HDMI i COMPONENT VIDEO OUT
+priključke. (Ovaj ključ radi samo tijekom gledanja TV-a ili u modusu početnog
+izbornika.)
+
+
+
+Glavna jedinica uređaja
+	
+
+a	
+
+b	
+
+c	
+
+d	
+
+e	 f	
+
+g	
+
+h
+
+PUSH / OPEN
+
+a	1 (POWER) tipka
+	 Uključuje ili isključuje rekorder.
+
+f	z (REC.)
+	 Započinje snimanje.
+
+b	Utor za vanjski HDD
+	 Ovdje postavite dodatni HDD.
+
+g	PROG. v/V
+	 Prelazi gore ili dolje kroz memorirane programe.
+
+c	Prozor zaslona
+	 Prikazuje trenutno stanje rekordera.
+
+h	USB priključak
+	 Priključite USB uređaj.
+
+d	Senzor daljinskog upravljača
+	 Ovdje usmjerite daljinski upravljač.
+
+e	RESET
+	 Pritisnite ovu tipku kako bi vratili sve postavke na
+tvornički postavljene postavke.
+
+	
+
+a	
+
+b	 c	 d	
+
+	
+
+e	
+
+h	
+
+f	g	
+
+i	 j	 k	
+
+l
+
+a	AC IN priključak
+	 Priključite isporučeni električni kabel.
+
+g	ANTENNA IN
+	 Priključite antenu na ovaj priključak.
+
+b	USB priključak
+	 Priključite isporučeni bežični LAN adapter.
+
+h	VIDEO OUT
+	 Priključite na TV s video ulazima.
+
+i	AUDIO OUT (Lijevi/Desni)
+	 Priključite na TV s audio ulazima.
+
+c	LAN priključak
+	 Priključite mrežu s uvijek uključenim širokopojasnim
+priključkom.
+
+j	
+DIGITAL AUDIO OUT (OPTIČKU)
+	 Priključite na digitalnu (optičku) audio opremu.
+
+d	HDMI OUT
+	 Priključite na TV s HDMI ulazima. (Sučelje za digitalni
+audio i video)
+
+k	ANTENNA OUT (TO TV)
+	 Prosljeđuje signal s ANTENNA IN priključka na vaš
+TV/monitor.
+
+e	COMPONENT VIDEO OUT (Y PB PR)
+	 Priključite na TV s Y PB PR ulazima.
+
+l	SCART (TO TV)
+	 Priključite na TV sa SCART konektorom.
+
+f	
+DIGITAL AUDIO OUT (COAXIAL)
+Priključite na digitalnu (koaksijalnu) audio opremu.
+
+
+
+Pregled priključivanja
+l	 Ovisno
+
+o vašem TV-u i drugoj opremi koju želite priključiti, rekorder možete priključiti na razne načine. Koristite samo
+jedan od načina priključivanja opisanih na stranicama 11-13.
+
+l	 Molimo,
+
+ako je potrebno, pogledajte priručnike za vaš TV, stereo sistem ili drugu opremu kako biste napravili najbolje
+priključivanje.
+
+Pazite da prije izvođenja instaliranja i priključivanja isključite rekorder.
+
+Bežični LAN
+adapter
+Broadband
+Širokopojasna
+Service
+usluga
+
+Priključivanje na vaš TV
+
+Napravite jedno od sljedećih priključivanja, ovisno o mogućnostima vaše postojeće opreme.
+Priključivanje na TV pomoću opcije A, B ili C.
+Oprez
+l	 Pazite
+l	 Ne
+l	 Ne
+
+da je rekorder priključen izravno na TV. Podesite TV na pravilan video ulazni izvor.
+
+priključujte priključak za AUDIO OUT na na priključak za ulaz za slušalice (record player) na vašem audio sistemu.
+priključujte vaš rekorder preko vašeg VCR-a. Sistem za zaštitu od kopiranja bi mogao izobličiti sliku.
+
+10
+
+(Opcija A) Najbolja kvaliteta - HDMI priključivanje (uključuje audio i video)
+Ako posjedujete HDMI TV ili monitor, možete ga priključiti na rekorder pomoću HDMI kabla H. Priključite HDMI
+priključak na rekorderu na HDMI priključak na HDMI kompatibilnom TV-u ili monitoru. Postavite izvor za TV na HDMI
+(pogledajte priručnika za vlasnika TV-a).
+
+l	 Morate
+
+odabrati HDMI audio izlaz i maksimalnu frekvenciju uzorka koju vaš TV prihvaća pomoću [Digital Output]
+opcije u [Setup] izborniku (pogledajte stranicu 46).
+
+l	 Ako
+
+priključeni HDMI uređaj ne prihvaća audio izlaz rekordera, audio zvuk s HDMI uređaja može biti izobličen ili
+možda uopće neće biti zvuka.
+
+l	 Kada
+
+koristite HDMI priključivanje, možete promijeniti rezoluciju za HDMI izlaz pritiskom na RESOLUTION tipku
+tijekom gledanja TV-a ili u modusu početnog izbornika.
+Oprez
+
+l	 Mijenjanje
+
+rezolucije kada je priključivanje već napravljeno može dovesti do nepravilnosti u radu. Kako biste riješili
+problem isključite rekorder i ponovo ga uključite.
+
+l	 Kada
+
+nije verificirano HDMI priključivanje s HDCP, TV zaslon će se zacrniti. U tom slučaju, provjerite HDMI
+priključivanje ili iskopčajte HDMI kabel.
+
+l	 Ako
+
+se na ekranu vide smetnje ili linije, molimo provjerite HDMI kabel (dužina je općenito ograničena na 4,5 m).
+
+Dodatne informacije za HDMI
+l	 Kada
+
+priključite HDMI ili DVI kompatibilni uređaj obratite pažnju na sljedeće:
+- Pokušajte isključiti HDMI/DVI uređaj i ovaj rekorder. Sljedeće, uključite HDMI/DVI uređaj i ostavite ga uključenog
+otprilike 30 sekundi, a zatim uključite ovaj rekorder.
+- Video ulaz za priključeni uređaj je ispravno postavljen za ovaj rekorder.
+- Priključeni uređaj je kompatibilan s 720x576p, 1280x720p, 1920x1080i ili 1920x1080p video ulazom.
+
+l	 Svi
+
+HDCP kompatibilni HDMI ili DVI uređaji neće raditi s ovim rekorderom.
+- Slika se neće ispravno prikazati s ne-HDCP uređajem.
+- Rekorder neće vršiti reprodukciju, a TV zaslon će se zacrniti.
+
+11
+
+(Opcija B) Odlična kvaliteta – Komponentni video i stereo audio
+priključivanje
+
+Priključite COMPONENT VIDEO OUT priključke na rekorderu na odgovarajuće ulazne priključke na TV-u pomoću Y PB
+PR kablova C. Priključite lijevi i desni priključak za AUDIO OUT na rekorderu na lijevi i desni audio IN (ulazni) priključak
+na TV-u pomoću audio kablova A.
+
+Kada ne možete koristiti zaslon, možete promijeniti rezoluciju za komponentni VIDEO OUT pomoću RESOLUTION tipke
+tijekom gledanja TV-a ili u modusu početnog izbornika. (Pogledajte “Podešavanje rezolucije” na stranici 46.)
+
+(Opcija C) Priključivanje na TV (Kompozit ili Scart)
+
+Priključite VIDEO OUT priključak na rekorderu na odgovarajući video ulazni priključak na TV-u pomoću isporučenog
+video kabla V. Priključite lijevi i desni priključak za AUDIO OUT na rekorderu na lijevi i desni audio IN (ulazni) priključak
+na TV-u pomoću audio kablova A.
+Priključite jedan kraj scart kabla u AV1 SCART priključak S na uređaju, a drugi kraj na odgovarajući priključak na TV-u.
+Pomoću ovog priključivanja možete dobiti zajedno Audio i Video signale.
+
+Ako koristite ovo priključivanje, postavite TV selektor izvora na VIDEO.
+
+12
+
+Priključivanje na pojačalo
+
+Napravite jedno od sljedećih priključivanja, ovisno o mogućnostima vaše postojeće opreme.
+
+Priključivanje na pojačalo preko 2 kanalnog Audio izlaza
+Priključite Lijevi i Desni 2CH AUDIO OUT priključak (A) na playeru na audio lijevi i desni priključak na pojačalu,
+prijemniku ili stereo sustavu pomoću audio kablova.
+
+Priključivanje na pojačalo preko Digital Audio izlaza (Optički ili koaksijalni)
+Priključite DIGITAL AUDIO OUT priključak na playeru (OPTICAL ili COAXIAL ) na odgovarajući ulazni priključak
+(OPTICAL O ili COAXIAL X) na vašem pojačalu. Koristite odgovarajući digitalni (optički O ili koaksijalni X) audio kabel.
+Potrebno je aktivirati digitalni izlaz na uređaju. (Pogledajte “[Audio] izbornik” na stranici 46.)
+
+A
+
+O
+
+X
+Pojačalo/prijemnik
+
+Priključivanje na pojačalo preko HDMI izlaza
+Priključite HDMI OUT priključak na uređaju na odgovarajući ulazni priključak na vašem pojačalu. Koristite HDMI kabel
+(H1). Potrebno je aktivirati digitalni izlaz na player-u. (Pogledajte “[Audio] izbornik” na stranici 46.)
+
+H1
+
+H2
+
+Digitalni više-kanalni zvuk
+Digitalno više-kanalno priključivanje pruža najbolju kvalitetu zvuka. Za to ćete trebati više-kanalni Audio/Video receiver
+koji podržava jedan ili više audio formata koje podržava vaš player. Provjerite priručnik za receiver i oznake loga na
+prednjoj ploči receivera. (LPCM, Dolby Digital i DTS)
+
+Priključite HDMI izlazni priključak na pojačalu na HDMI ulazni priključaka na vašem TV pomoću HDMI kabla (H2) ako
+vaše pojačalo ima HDMI izlazni priključak.
+
+13
+
+Priključivanje na mrežu
+Rekorder se može priključiti na lokalnu mrežu (LAN) preko LAN priključka ili bežičnog LAN adaptera.
+Pazite da prije korištenja rekordera postavite konfiguraciju za mrežu.
+Ovisno o vašem mrežnom okruženju možete koristiti kabelsku i/ili bežičnu mrežu.
+
+Priključivanje na kabelsku mrežu
+
+Korištenje kabelske mreže pruža najbolje performanse, jer se priključeni uređaji direktno priključuju na mrežu i nisu
+podložni interferencijama radio signala.
+Molimo za daljnje upute pogledajte dokumentaciju vašeg mrežnog uređaja.
+Sljedeći primjer priključivanja objašnjava kako priključiti uređaj na internet pomoću LAN kabla.
+Ako želite pristupiti sadržaju s računala ili DLNA servera, rekorder mora biti priključen na istu lokalnu mrežu preko rutera
+kao računalo i server.
+
+Širokopojasni
+internet
+Ili
+
+Router
+Ruter
+
+Širokopojasni
+internet
+
+Otheruređaji
+devices
+Drugi
+such
+as DLNA
+server
+kao
+DLNA
+server
+
+PC
+PC
+
+Oprez
+l	 Kod
+
+ukapčanja ili iskapčanja LAN kabla, držite dio kabla za ukapčanje. Kod iskapčanja, ne potežite LAN kabel već
+iskopčajte kabel pritiskom na plastičnu polugicu za zaključavanje.
+
+l	 Na
+
+LAN priključak ne priključujte prijenosni telefon.
+
+l	 Budući
+
+da ima više vrsta konfiguracija za priključivanje, molimo pridržavajte se specifikacija vaše telekomunikacijske
+kompanije ili pružatelja internet usluge.
+
+Other devices
+such as DLNA server
+
+PC
+
+14
+PC
+
+Podešavanje kabelske mreže (Auto)
+
+Podešavanje kabelske mreže (Ručno)
+
+Ako lokalna mreža (LAN) ima DHCP server preko
+kabelskog priključka, rekorder će automatski dobiti IP
+adresu.
+
+Ako mreža nema DHCP server i vi želite ručno postaviti
+mrežu, slijedite donje upute.
+
+1	 Slijedite korake 1-3 u “Podešavanje kabelske mreže
+(Auto)” na stranici 15.
+
+Priprema:
+
+2	 Koristite v/V za odabir [Wired LAN Setup] i pritisnite
+
+Prije podešavanja kabelske mreže, potrebno je učiniti:
+
+OK.
+
+­–	priključite širokopojasni internet na vašu kućnu
+mrežu.
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Setup] i pritisnite OK.
+3	 Koristite b/B za odabir [Network] opcije.
+4	 Koristite v/V za odabir [Wired LAN Setup] i pritisnite
+OK.
+
+3	 Koristite v/V/b/B za prelazak na polja [IP Address],
+
+5	 Koristite v/V za odabir [Auto] i pritisnite OK.
+
+[Subnet Mask], [Gateway] i [DNS Server] i ispunite
+polja pomoću brojčanih tipki.
+
+l	 Ako
+
+želite postaviti IP adresu za DNS server,
+koristite v/V/b/B za odabir [DNS server] polja i
+unesite IP adresu pomoću brojčanih tipki.
+
+6	 Koristite v/V za odabir [OK] i pritisnite OK.
+
+4	 Pritisnite OK kada završite s unošenjem mrežnih
+informacija.
+
+5	 Koristite b/B za odabir [OK] i pritisnite OK.
+
+7	 Koristite b/B za odabir [OK] i pritisnite OK.
+
+15
+
+Other devices
+such as DLNA server
+
+PC
+
+Bežično priključivanje na mrežu
+
+Drugo priključivanje na mrežu je pomoću isporučenog bežičnog adaptera.
+Rekorder podržava IEEE 802.11n bežični modul koji koristi isporučeni bežični LAN adapter, koji isto tako podržava
+802.11b/g standarde. Za najbolje bežične performanse preporučujemo korištenje IEEE 802.11n ovjerene Wi-Fi mreže
+(točka pristupa ili bežični ruter).
+Pogledajte upute za podešavanje isporučene s vašom točkom pristupa ili bežičnim ruterom za detaljnije korake
+priključivanja i mrežnog podešavanja.
+
+Slijedeći primjer priključivanja objašnjava kako uređaj priključiti na internet koristeći točku pristupa ili bežični ruter.
+Ako želite pristupiti sadržaju s računala ili DLNA servera, rekorder mora biti priključen na istu lokalnu mrežu preko
+bežičnog mrežnog uređaja kao računalo i server.
+Other
+devices
+Drugi
+uređaji
+such as
+kaoDLNA
+DLNAserver
+server
+
+PC
+PC
+
+Širokopojasni
+internet
+
+PC
+PC
+
+Bežična
+
+komunikacija
+
+Access
+point
+Točka
+pristupa
+or
+wireless
+router
+ili bežični ruter
+Ako u svom domu nemate bežičnu mrežu, možete se izravno priključiti na računalo opremljeno bežičnom mrežom
+koristeći peer to peer (Ad-Hoc) postavku.
+Pogledajte stranicu 18 za više informacija o peer to peer priključivanju.
+
+Bežična
+
+komunikacija
+
+Oprez
+
+Korištenje bežične mreže može biti ometano radom kućanskih uređaja koji rabe radio frekvencije. Zato kvaliteta rada s
+bežičnim mrežnim priključkom možda neće biti zadovoljavajuća. Izrazito se preporučuje korištenje kabelskog mrežnog
+priključivanja.
+
+16
+
+Priključivanje bežičnog LAN adaptera
+
+l	 Kod
+
+podešavanja bežične mreže najviše se mogu
+postaviti 3 imena za profil.
+
+1	 Priključite isporučeni bežični LAN adapter na USB
+
+6	 Koristite v/V za odabir [Infrastructure (AP)] i pritisnite
+
+priključak na stražnjoj ploči.
+
+OK.
+l	 Rekorder pretražuje sve dostupne točke pristupa
+ili bežične rutere unutar dosega i prikazuje ih na
+popisu.
+
+7	 Koristite v/V za odabir SSID i pritisnite OK.
+
+2	 Savijte LAN adapter prema gore.
+Podešavanje bežične mreže
+(Infrastruktura)
+Ako na lokalnoj mreži (LAN) postoji DHCP server preko
+kabelskog priključivanja, rekorder će automastski dobiti IP
+adresu.
+
+	
+
+Priprema:
+
+Prije podešavanja kabelske mreže, potrebno je učiniti:
+
+	
+
+­–	priključite širokopojasni internet na vašu kućnu
+bežičnu mrežu.
+
+Ako na svojoj točci pristupa ili bežičnom ruteru imate
+sigurnosno ograničenje, potvrdite da WEP ili WPA ključ
+unesen u rekorder točno odgovara informaciji rutera.
+Ako je potrebno morat ćete unijeti sigurnosni kod.
+
+­–	priključite bežični LAN adapter na USB priključak.
+­–	postavite točku pristupa ili bežični ruter.
+­–	pazite na SSID i sigurnosni kod mreže.
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Setup] i pritisnite OK.
+3	 Koristite b/B za odabir [Network] opcije.
+4	 Koristite v/V za odabir [Wireless Setup] i pritisnite OK.
+
+l	 Odaberite
+
+[Alphabet Capital], [Alphabet Small] ili
+[Symbol] i pritisnite OK za promjenu skupa znakova
+virtualne tipkovnice.
+l	 [Space]: Na položaju kursora umeće razmak.
+l	 [Delete]: Briše prethodni znak na mjestu kursora.
+l	 [T t]: Pomiče kursor lijevo ili desno.
+l	 [OK]: Završetak unosa sigurnosnog koda.
+l	 [Cancel]: Poništava nazivanje i vraća se na
+prethodno.
+
+8	 Provjerite mrežnu informaciju i pritisnite OK za
+završetak podešavanja mreže.
+
+5	 Koristite v/V za odabir [Profile Name] i pritisnite OK.
+
+17
+
+4	 Želite lli postaviti sigurnost, kosristite v/V za odabir
+
+Podešavanje bežične mreže
+(peer to peer)
+
+[Shared key (WEP)] i pritisnite OK za prikaz virtuelne
+tipkovnice.
+l	 Pogledajte korak 3 gore za korištenje virtuelne
+tipkovnice.
+l	 Ako za bežično priključivanje ne želite postaviti
+sigurnost onda odaberite [Open System] i pritisnite
+OK.
+
+Ako u svom domu nemate bežičnu mrežu, možete se
+izravno priključiti na računalo opremljeno bežičnom
+mrežom koristeći peer to peer (Ad-Hoc) postavku.
+Za ovo priključivanje se ne mogu koristiti funkcije koje
+zahtjevaju internet priključivanje kao što je YouTube,
+Picasa mrežni albumi.
+
+5	 Koristite v/V za odabir [Host IP] polja i unesite
+pomoću brojčanih tipki.
+
+Priprema:
+
+l	 Preporučuje
+
+adrsu
+
+se upotreba zadane IP adrese.
+
+Prije podešavanja peer to peer priključivanja,
+potrebno je učiniti:
+
+6	 Pritisnite žutu tipku kako bi dovršili [Ad-Hoc Setup]
+
+­–	pripremite računalo opremljeno s bežičnom
+mrežom.
+
+7	 Provjerite mrežnu informaciju i pritisnite OK za
+
+podešavanje.
+
+­–	priključite bežični LAN adapter na USB priključak.
+
+dovršetak mrežnog podešavanja.
+
+8	 Postavljeni SSID možete pronaći na svom računalu na
+
+1	 Slijedite korake 1-5 u “Podešavanje bežične mreže
+
+popisu bežičnih mreža.
+
+(Infrastruktura)” na stranici 17.
+
+2	 Koristite v/V za odabir [Peer to Peer (Ad Hoc)] i
+
+l	 Molimo
+
+za više informacija pogledajte dokumentaciju
+za računalo ili operativni sustav.
+
+pritisnite OK.
+
+Postoji više načina da postavite Ad-Hoc priključivanje
+na vaše računalo, ovisno o operativno sustavu, bežičnoj
+mreži.
+
+3	 Koristite v/V za odabir [Wireless SSID] i pritisnite OK
+za prikaz virtualne tipkovnice.
+
+l	 Odaberite
+
+[Alphabet Capital], [Alphabet Small] ili
+[Symbol] i pritisnite OK za promjenu skupa znakova
+virtualne tipkovnice.
+l	 [Space]: Na položaju kursora umeće razmak.
+l	 [Delete]: Briše prethodni znak na mjestu kursora.
+l	 [T t]: Pomiče kursor lijevo ili desno.
+l	 [OK]: Završetak unosa sigurnosnog koda.
+l	 [Cancel]: Poništava nazivanje i vraća se na
+prethodno.
+
+18
+
+Napomene o priključivanju na mrežu
+
+l	 U
+
+cilju boljeg prijenosa, postavite rekorder što je
+moguće bliže točci pristupa.
+
+l	 Brojni
+
+problemi priključivanja na mrežu tijekom
+podešavanja se često mogu riješiti resetiranjem rutera
+ili modema.
+Nakon priključivanja rutera na kućnu mrežu, na brzo
+isključite/ili iskopčajte električni kabel modema ili rutera
+za kućnu mrežu. Zatim ponovo uključite/ukopčajte
+električni kabel.
+
+l	 U
+
+nekim slučajevima, prijem se može poboljšati ako
+točku pristupa ili ruter postavite najmanje 45 cm iznad
+poda.
+
+l	 Ako
+
+je moguće primaknite rekorder još više do točke
+pristupa ili ga zakrenite, tako da između nema prepreke.
+
+l	 Kvaliteta
+
+prijema bežičnog priključivanja ovisi o brojnim
+faktorima kao što su vrsta točke pristupa, udaljenost
+između rekordera i točke pristupa i položaju rekordera.
+
+l	 Ovisno
+
+o pružatelju internet usluge (ISP), možda će
+biti ograničen broj uređaja koji mogu primati internet
+uslugu. Kontaktirajte pružatelja internet usluge za više
+detalja.
+
+l	 Za
+
+korištenje DSL usluge potreban je ADSL modem,
+a za korištenje usluge kabelskog modema potreban
+je kabelski modem. Ovisno o načinu pristupa i
+pretplatničkom ugovoru s vašim pružateljem internet
+usluge, možda nećete moći koristiti neke funkcije
+za internet priključivanje koje su sadržane u ovom
+rekorderu ili ćete možda biti ograničeni na broj uređaja
+koje istovremeno možete priključiti na internet. (Ako vaš
+pružatelj internet usluge ograničava pretplatu na jedan
+uređaj, rekorder se možda neće moći priključiti ako je
+već priključeno računalo.)
+
+l	 Naša
+
+kompanije ne snosi odgovornost za nepravilnosti
+u radu rekordera i/ili kvalitetu internet priključivanja do
+kojih dolazi zbog grešaka/nepravilnosti u komunikaciji,
+a koje su povezane s vašim širokopojasnim internet
+priključkom ili drugom priključenom opremom.
+
+l	 Neki
+
+internet sadržaji mogu zahtijevati više brzine
+priključivanja.
+
+l	 Čak
+
+i kada je rekorder pravilno priključen i konfiguriran,
+neki internet sadržaji možda neće pravilno raditi uslijed
+zagušenja na internetu, kvaliteti ili brizni internet
+priključka i problemima na strani pružatelja usluge.
+
+l	 Korištenje
+
+“Rutera” možda neće biti dopušteno, ili
+njegova upotreba može biti ograničena ovisno o praksi
+i ograničenjima vašeg pružatelja internet usluge.
+Kontaktirajte pružatelja internet usluge za više detalja.
+
+l	 Neke
+
+operacije internet priključka možda neće biti
+moguće zbog određenih ograničenja koja je postavio
+pružatelj internet usluge (ISP) koji pruža širokopojasni
+internet priključak.
+
+l	 Vaš
+
+pružatelj internet usluge može zaštiti rekorder da se
+priključuje na mrežu kada se potvrdi MAC ADDRESS.
+U tom slučaju, kontaktirajte vašeg pružatelja internet
+usluge i zahtijevajte aktiviranje MAC ADDRESS.
+
+l	 Vi
+
+snosite odgovornost za svaki račun koji naplaćuje
+pružatelj internet usluge, uključujući, bez ograničenja,
+naplatu priključivanja.
+
+l	 Za
+
+kabelsko priključivanje rekordera potreban je 10
+Base-T ili 100 Base-TX LAN priključak. Ako vaša
+internet usluga ne dopušta takvo priključivanje, rekorder
+nećete moći priključiti.
+
+l	 Za
+l	 Za
+
+korištenje xDSL usluge morate imati ruter.
+
+korištenje DSL usluge potreban je ADSL modem,
+a za korištenje usluge kabelskog modema potreban
+je kabelski modem. Ovisno o načinu pristupa i
+pretplatničkom ugovoru s vašim pružateljem internet
+usluge, možda nećete moći koristiti neke funkcije
+za internet priključivanje koje su sadržane u ovom
+rekorderu ili ćete možda biti ograničeni na broj uređaja
+koje istovremeno možete priključiti na internet. (Ako vaš
+pružatelj internet usluge ograničava pretplatu na jedan
+uređaj, rekorder se možda neće moći priključiti ako je
+već priključeno računalo.)
+
+l	 Korištenje
+
+“Rutera” možda neće biti dopušteno, ili
+njegova upotreba može biti ograničena ovisno o praksi i
+ograničenjima vašeg pružatelja internet usluge. Izravno
+kontaktirajte pružatelja internet usluge za više detalja.
+
+l	 Bežična
+
+mreža radi na radio frekvencijama 2,4 GHz, a
+te iste frekvencije koriste i drugi kućni uređaji kao što su
+bežični telefoni, Bluetooth® uređaji, mikrovalna pećnica,
+tako da može doći do pojave interferencije signala
+među uređajima.
+
+l	 Isključite
+
+svu mrežnu opremu koju ne koristite na svojoj
+lokalnoj kućnoj mreži. Neki uređaji mogu stvarati promet
+na mreži.
+
+19
+
+Čarobnjak za podešavanje
+(Početno instaliranje)
+Nakon što prvi put uključite rekorder ili nakon
+resetiranja rekordera, otvorit će se izbornik
+Čarobnjak za podešavanje (Setup Wizard).
+U [Setup Wizard] izborniku možete postaviti jezik
+za zaslon, regiju, traženje programa, vrijeme i
+podešavanje mreže.
+
+1	 Koristite v/V za odabir jezika za displej na zaslonu i
+pritisnite OK.
+
+Manual: Ukoliko nema kanala koji emitira signal sata
+u vašem području, datum i vrijeme možete postaviti
+ručno. Koristite b/B za odabir svakog polja i unesite
+točno vrijeme i datum koristeći v/V.
+
+2	 Koristite v/V za odabir regije i pritisnite OK.
+
+3	 Koristite v/V za odabir [OK] i pritisnite OK za
+
+pokretanje traženja programa. Rekorder automatski
+traži i sprema programe.
+
+5	 Pritisnite OK za dovršetak [Time] podešavanja.
+6	 Pogledajte “Priključivanje na kabelsku mrežu” na
+
+stranicama 14-15 za dovršetak [Wired LAN Setup]
+opcije i pritisnite OK.
+l	 Odaberite
+
+[Cancel] i pritisnite OK za poništenje.
+
+7	 7 Pogledajte “Priključivanje na bežičnu mrežu” na
+
+Ako odaberete [Cancel], preskočit će se funkcija [Auto
+Programming].
+
+stranicama 16-18 za dovršetak [Wireless Setup] opcije
+i pritisnite OK.
+
+4	 Koristite v/V za odabir jedne od opcija [Cancel],
+
+l	 Odaberite
+
+[Manual] ili [Auto] i pritisnite OK.
+
+l	 Rekorder
+
+[Cancel] i pritisnite OK za poništenje.
+
+može primijeniti samo jedno mrežno
+podešavanje, ili [Wired LAN setup] ili [Wireless
+Setup]. Ako ste već postavili [Wired LAN setup] u
+koraku 6, nećete trebati postavljati [Wireless Setup]
+podešavanje.
+
+Auto : Postavite program koji emitira signal sata i sat
+će se automatski postaviti. Ako automatski postavljeno
+vrijeme nije točno usklađeno s vašim lokalnim
+vremenom, možete postaviti dodatnu opciju za vrijeme.
+Odaberite opciju u odnosu na GTM u [Time Zone].
+
+l	 Čarobnjak
+
+za podešavanje možete resetirati pomoću
+[Initialization] u izborniku za podešavanja. (pogledajte
+stranicu 48).
+l	 Opcija [Initialization] nije omogućena tijekom snimanja ili
+kad je [Lock System] u [Setup] izborniku postavljen na
+[On].
+
+20
+
+DTV
+DTV instaliranje
+
+Priključite DTV antenu na ANTENNA IN priključak na stražnjoj ploči, na dolje opisani način.
+
+Priključite ANTENNA OUT priključak na stražnjoj ploči na ANTENNA IN priključak na vašem TV-u pomoću RF kabla.
+
+TV
+TV
+
+Vanjska
+antena
+
+Unutarnja
+antena
+
+Ili
+or
+
+Zidni
+priključak
+
+Ili
+or
+
+Ako koristite unutarnju antenu, koristite antenu s pojačalom signala DC 5V, 100mA i postavite “Antenna Feed 5V” opciju
+na [ON] u izborniku za podešavanja. (pogledajte stranicu 24).
+Oprez
+
+Opcija [Antenna Feed 5V] mora biti postavljena na [Off] kad vaša unutarnja antena koristi električni kabel za
+napajanje iz utičnice. Ako postavite opciju [Antenna Feed 5V] na [On] za unutarnju antenu koja se napaja iz
+utičnice, možete prouzročiti ozbiljno oštećenje rekordera.
+
+21
+
+Podešavanja za digitalni TV
+
+Za korištenje DTV funkcija, rekorder unaprijed zahtjeva neka podešavanja. Postavke i podešavanja možete izvršiti
+pomoću [Setup wizard] izbornika. (Pogledajte stranicu 20 za pojedinosti.)
+Također, te postavke možete postaviti ručno na dolje opisani način.
+
+Odabir regije
+Odaberite regiju u kojoj ćete koristiti rekorder.
+
+l	 Ova
+
+opcija nije moguća tijekom snimanja ili kada
+je [Permanent Timeshift] opcija u [Setup] izborniku
+postavljena na [On].
+
+1	 Pritisnite HOME.
+
+l	 Ako
+
+je [Lock] opcija postavljena na [On], ova funkcija
+neće biti moguća (stranica 23).
+
+Ručno traženje programa
+
+2	 Koristite b/B za odabir [Setup] i pritisnite OK.
+
+Pretražuje digitalne TV ili radio programe i dodaje
+pronađene programe na popis programa.
+
+1	 Slijedite korake 1-3 u “Odabir regije” na stranici 22.
+2	 Koristite v/V za odabir [Auto Programming] i pritisnite
+OK.
+
+3	 Koristite v/V za odabir [Manual Scan] i pritisnite OK
+za otvaranje [Manual Scan] izbornika.
+l	 Odaberite
+
+[Cancel] i pritisnite OK za poništenje.
+
+3	 Koristite b/B za odabir [DTV] opcije.
+4	 Koristite v/V za odabir [Region] i pritisnite OK.
+5	 Koristite v/V za odabir regije u kojoj ćete koristiti
+rekorder i pritisnite OK.
+
+Ako je [Lock] opcija postavljena na [On], ova funkcija neće
+biti moguća (stranica 23).
+
+4	 Koristite b/B za odabir željenog multipleksora (MUX) i
+
+Automatsko traženje programa
+
+pritisnite OK za pokretanje pretraživanja.
+
+Traže se svi dostupni digitalni TV ili radio programi i
+automatski se spremaju na osnovu odabrane regije.
+
+1	 Slijedite korake 1-3 u “Odabir regije” na stranici 22.
+2	 Koristite v/V za odabir [Auto Programming] i pritisnite
+
+	
+
+OK.
+
+5	 Pritisnite OK za pokretanje pretraživanja programa.
+
+3	 Koristite v/V za odabir [Auto Scan] i pritisnite OK za
+pokretanje traženja programa.
+l	 Odaberite
+
+ILI
+
+Ako znate širinu kanala i frekvenciju programa koristite
+b/B za odabir željene pojasne širine [Bandwidth] i
+ispunite [Frequency] polje pomoću brojčanih tipki.
+
+l	 Ova
+
+opcija nije moguća tijekom snimanja ili kada
+je [Permanent Timeshift] opcija u [Setup] izborniku
+postavljena na [On].
+
+[Cancel] i pritisnite OK za poništenje.
+
+l	 Ako
+
+je [Lock] opcija postavljena na [On], ova funkcija
+neće biti moguća (stranica 23).
+
+22
+
+1	 Slijedite korake 1-3 u “Odabir regije” na stranici 22.
+2	 Koristite v/V za odabir [Parental Guidance] i pritisnite
+
+Uređivanje popisa programa
+Svaki digitalni TV ili radio program koji je pohranjen na
+rekorderu možete ukloniti pomoću [Program edit] izbornika.
+
+OK.
+
+3	 Unesite lozinku pomoću brojčanih tipki.
+
+1	 Slijedite korake 1-3 u “Odabir regije” na stranici 22.
+2	 Koristite v/V za odabir [Program Edit] i pritisnite OK.
+3	 Koristite v/V za odabir [DTV] i pritisnite OK za
+
+l	 Ako
+
+dosada niste postavili svoju lozinku, unesite
+“0000”.
+
+4	 Koristite v/V za odabir [Lock System] i pritisnite OK.
+
+otvaranje [Edit - TV] izbornika.
+l	 Odaberite
+
+[Cancel] i pritisnite OK za poništenje.
+
+5	 Koristite v/V za odabir [On] i pritisnite OK za
+aktiviranje roditeljskog zaključavanja.
+
+4	 Pritisnite žutu tipku za prelaz između popisa TV i
+
+Postavljanje nove lozinke
+
+RADIO programa.
+
+Možete postaviti ili promijeniti lozinku.
+
+1	 Slijedite korake 1-3 u “Odabir regije” na stranici 22.
+2	 Koristite v/V za odabir [Parental Guidance] i pritisnite
+OK.
+
+3	 Unesite lozinku pomoću brojčanih tipki.
+l	 Ako
+
+dosada niste postavili svoju lozinku, unesite
+“0000”.
+
+4	 Koristite v/V za odabir [Set Password] i pritisnite OK.
+
+l	 [Edit
+
+- TV] ili [Edit - Radio] izbornik prikazuje na
+dnu snagu signala ( ) i kvalitetu ( ) trenutnog
+programa.
+
+5	 Koristite v/V za odabir programa koji želite obrisati s
+popisa i pritisnite plavu tipku.
+
+5	 Unesite trenutnu lozinku.
+6	 Unesite novu lozinku.
+7	 Unesite novu lozinku za potvrdu.
+
+l	 Ako
+
+ne želite ukloniti program, odaberite [No] i
+pritisnite OK na popup izborniku.
+
+6	 Pritisnite BACK za povratak na [Setup] izbornik.
+Ova opcija nije moguća tijekom snimanja ili kada
+je [Permanent Timeshift] opcija u [Setup] izborniku
+postavljena na [On].
+
+l	 Ova
+
+opcija nije omogućena tijekom snimanja.
+ste zaboravili lozinku, možete je obrisati na slijedeći
+način:
+	 1.Osvijetlite [Parental Guidance] opciju u [Setup]
+izborniku.
+	 2. P
+ omoću brojčanih tipki unesite “210499”. Lozinka će
+biti postavljena kao default lozinka (0000).
+l	 Ako
+
+Podešavanje sustava zaključavanja
+Omogućuje vam aktiviranje ili deaktiviranje svih prethodno
+postavljenih shema zključavanja. Kad je [Lock System]
+postavljen na [Off], ne primjenjuje se [TV Rating] opcija.
+
+23
+
+Podešavanje razine TV ocjene
+
+Postavljanje trajnog timeshifta
+
+Gledanje nekih digitalnih TV programa može biti
+ograničeno u skladu s dobnom granicom koju postavite.
+
+Time Shift funkciju možete postaviti automatski bez
+pritiskanja TIMESHIFT tipke. Timeshift će početi raditi
+nakon što se pokrene modus prijemnika za digitalni TV.
+
+Ako je [Lock System] postavljen na [Off] u [Setup]
+izborniku, [DTV Rating] opcija nije omogućena.
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Setup] i pritisnite OK.
+3	 Koristite b/B za odabir [Record] opcije.
+
+1	 Slijedite korake 1-3 u “Odabir regije” na stranici 22.
+2	 Koristite v/V za odabir [Parental Guidance] i pritisnite
+OK.
+
+3	 Unesite lozinku pomoću brojčanih tipki.
+l	 Ako
+
+dosada niste postavili svoju lozinku, unesite
+“0000”.
+
+4	 Koristite v/V za odabir [DTV Rating] i pritisnite OK.
+4	 Koristite v/V za odabir [Permanent Timeshift] i
+pritisnite OK.
+
+5	 Koristite v/V za odabir [On] za primjenu trajnog
+timeshifta.
+
+Ova opcija nije omogućena tijekom snimanja.
+
+5	 Koristite v/V za odabir [Parental Guidance:].
+6	 Koristite b/B za postavljanje granice ograničenja i
+
+Postavljanje lokacije medija za pohranu
+snimanja
+
+pritisnite OK.
+l	 Odaberite [No Control] kako bi ukinuli ograničenje.
+l	 Za gledanje programa koji premašuju postavljenu
+dobnu granicu, potrebna je lozinka.
+
+Možete postaviti lokaciju medija za pohranu DTV
+snimanja.
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Setup] i pritisnite OK.
+3	 Koristite b/B za odabir [Record] opcije.
+4	 Koristite v/V za odabir [REC Device] i pritisnite OK.
+
+Podešavanje antenskog napajanja
+Ako koristite unutarnju antenu s pojačalom signala DC 5V,
+100mA, rekorder može napajati antenu preko ANTENNA
+IN priključka.
+
+1	 Slijedite korake 1-3 u “Odabir regije” na stranici 22.
+2	 Koristite v/V za odabir [Antenna Feed 5V] i pritisnite
+OK.
+
+3	 Koristite v/V za odabir [On] i pritisnite OK za
+aktiviranje antenskog napajanja.
+
+Oprez
+
+Opcija [Antenna Feed 5V] mora biti postavljena na
+[Off] kad vaša unutarnja antena koristi električni
+kabel za napajanje iz utičnice. Ako postavite opciju
+[Antenna Feed 5V] na [On] za unutarnju antenu koja
+se napaja iz utičnice, možete prouzročiti ozbiljno
+oštećenje rekordera.
+
+5	 Koristite v/V za odabir memorije za pohranu i
+pritisnite OK.
+
+Ova opcija nije omogućena tijekom snimanja.
+
+24
+
+Korištenje funkcija digitalnog TV-a
+
+Pomoću rekordera možete gledati i snimati digitalne TV programe ili možete po želji reproducirati snimljene TV
+programe.
+
+3	 Koristite v/V za odabir programa koji želite dodati na
+
+Gledanje digitalnog TV-a
+
+popis omiljenih programa (Favorite List).
+
+Gledanje emitiranog programa digitalne TV na TV zaslonu.
+
+4	 Pritisnite za postavljanje programa kao omiljenog
+
+Priprema:
+
+l	Potrebno
+l	Možda
+
+programa.
+l	 Omiljeni
+
+je priključiti DTV antenu. (stranica 21)
+
+l	 Za
+
+program će imati oznaku ♥.
+
+brisanje omiljenih programa odaberite program s
+oznakom ♥ i pritisnite crvenu tipku.
+
+će trebati postaviti DTV postavke kao što
+su [Auto Programming], [Parental Guidance] u
+[Setup] izborniku. (stranica 23)
+
+5	 Pritisnite FAV za prikaz popisa omiljenih programa.
+
+1	 Pritisnite POWER za uključenje rekordera.
+2	 Koristite b/B za odabir [DTV] u HOME izborniku i
+
+l	 U
+
+Favorite List izborniku pritisnite žutu tipku za
+prelaz između TV popisa omiljenih programa i Radio
+popisa omiljenih programa.
+
+pritisnite OK.
+
+Prikaz informacija o programu
+
+Podešavanje glasnoće audio izlaza
+
+Možete prikazati opis emitiranog programa.
+
+Pritisnite VOL (-/+) za podešavanje glasnoće audio izlaza
+s rekordera.
+
+Mijenjanje programa na digitalnom TV-u
+Općenito, pritisnite PR (U / u) ili v/V za odabir položaja
+programa ili unesite broj programa pomoću brojčanih tipki.
+Ako želite promijeniti program na popisu programa,
+slijedite donje upute.
+
+1	 Tijekom gledanja DTV, pritisnite OK ili PR LIST.
+
+1	 Tijekom gledanja DTV, pritisnite INFO za prikaz
+informacija o programu.
+
+2	 Pritisnite ponovo INFO za zatvaranje informacija o
+programu.
+
+Odabir jezika za DTV audio
+
+2	 Pritisnite žutu tipku za prelaz između [TV LIST] i
+[RADIO LIST].
+
+Neki digitalni programi mogu emitirati više audio jezika ili
+načina kodiranja. Vi možete odabrati audio jezik ili način
+kodiranja kada za to postoji mogućnost.
+
+3	 Koristite v/V za odabir željenog programa i pritisnite
+OK.
+
+1	 Tijekom gledanja DTV, pritisnite AUDIO.
+2	 Koristite b/B za odabirn audio jezika ili načina
+
+4	 Pritisnite BACK za izlaz iz popisa programa.
+Postavljanje omiljenih programa
+
+kodiranja i pritisnite OK.
+
+1	 Tijekom gledanja DTV, pritisnite OK ili PR LIST.
+2	 Pritisnite žutu tipku za prelaz između [TV LIST] i
+[RADIO LIST].
+
+25
+
+Odabir jezika za DTV titl
+
+Ručno korištenje timeshift funkcije
+
+Neki digitalni programi mogu emitirati više titl jezika. Vi
+možete odabrati jezik za titl kada za to postoji mogućnost.
+
+Živi TV prijenos možete pauzirati, a zatim taj programa
+možete nastaviti gledati kasnije. Ovo je korisno kada
+tijekom gledanja TV-a primite iznenadni telefonski poziv ili
+goste.
+
+1	 Tijekom gledanja DTV, pritisnite SUBTITLE.
+2	 Koristite b/B za odabir jezika za titl i pritisnite OK.
+
+Kada je [Permanent Timeshift] opcija postavljena na [Off],
+možete napraviti slijedeće.
+
+1	 Pritisnite TIMESHIFT tijekom gledanja TV prijenosa.
+
+U informaciji za program možete pronaći program koji
+podržava jezik za titl. Za programe s titlom u informaciji za
+program se prikazuje SUB ikona.
+
+Slika se pauzira, a rekorder počinje snimati trenutni TV
+program na unutarnji HDD.
+
+Prikaz EPG (Electronic Programme
+Guide (Elektronski vodič za program)
+zaslona
+
+l	 Timeshift
+
+prostor je ograničen na 4 GB. Taj prostor
+možete povećati do najviše 16 GB kada formatirate
+unutarnji HDD. (Za formatiranje HDD-a, pogledajte
+stranicu 49.)
+
+2	 Pritisnite PLAY za nastavak gledanje programa.
+
+Elektronski vodič za program je vodič koji prikazuje
+raspored programa za dan ili više vremena.
+
+l	 Pritisnite
+
+INFO za prikaz napredovanja timeshifta.
+SKIP (. / >) za pomicanje početne ili
+krajnje točke timeshifta.
+l	 Pritisnite SCAN (m / M) za reprodukciju
+timeshifta brzo naprijed ili brzo nazad.
+l	 Pritisnite SCAN (M) kada je rekorder u pauzi kako
+bi usporili brzinu timeshift reprodukcije. Pritisnite
+tipku SCAN (M) više puta kako biste promijenili
+brzinu reprodukcije.
+l	 Pritisnite
+
+Dostupnost digitalnih usluga i sadržaja se može razlikovati
+ovisno o TV kući.
+
+1	 Pritisnite GUIDE tijekom gledanja digitalnog TV-a.
+l	 Prikazuje
+
+se EPG zaslon koji se automatski ažurira
+ako je EPG informacija uspješno primljena.
+
+2	 Odaberite stavku pomoću b/B i podesite odabranu
+stavku pomoću v/V.
+Stavke za podešavanje su c, d i e.
+c
+d
+a
+e
+b
+
+a
+
+Prikazuje živi Live Digital TV program koji ste
+odabrali u polju programa.
+
+b
+
+Prikazuje detaljne informacije o trenutno
+odabranom programu.
+
+c
+
+Prikazuje trenutno odabrani datum.
+Upotrijebite tipke v/V kako biste odabrali
+drugi datum.
+
+d
+
+Prikazuje naziv trenutnog programa.
+Koristite v/V za promjenu programa.
+
+e
+
+Prikazuje raspored programa za odabrani
+program. Prikazuje vrijeme početka, vrijeme
+kraja i naziv programa.
+
+3	 Pritisnite STOP za poništenje timeshifta.
+l	 Timeshift
+
+26
+
+se ne može spremiti kao naslov.
+
+Korištenje trajnog timeshifta
+Ako opciju [Permanent Timeshift] postavite na [On], živi
+TV prijenos će se automatski snimati na unutarnji HDD
+bez pritiska na TIMESHIFT tipku. Kada se uključi digitalni
+TV prijemnik, timeshift će se automatski aktivirati.
+Za postavljanje [Permanent Timeshift] opcije pogledajte
+“Postavljanje trajnog timeshifta” na stranici 24.
+
+1	 Pritisnite POWER za uključenje rekordera.
+2	 Koristite b/B za odabir [DTV] i pritisnite OK.
+l	 Timeshift
+
+će se automatski aktivirati.
+SKIP (./>) za prelazak na početnu ili
+krajnju točku timeshifta.
+l	 Pritisnite SCAN (m/M) za reprodukciju
+timeshifta brzo naprijed ili brzo nazad.
+l	 Pritisnite SCAN (M) kada je rekorder u pauzi kako
+bi usporili brzinu timeshift reprodukcije. Pritisnite
+tipku SCAN (M) više puta kako biste promijenili
+brzinu reprodukcije.
+l	 Pritisnite
+
+3	 Pritisnite HOME za izlazak iz DTV gledanja.
+
+Korištenje teleteksta (Prikaz teleteksta)
+Brojni digitalni TV programi prenose informacije preko
+svojih tekstualnih usluga, a ovaj rekorder ima pristup
+tekstualnim programima koji emitiraju TV kuće.
+
+1	 Pritisnite TEXT tijekom gledanja TV-a.
+2	 Koristite crvenu ili zelenu tipku za odabir stranice.
+l	 Stranicu
+
+isto tako možete odabrati unošenjem
+troznamenkastog broja pomoću brojčanih tipki.
+
+3	 Pritisnite TEXT za zatvaranje teletekst zaslona.
+
+Dodatno ćete imati četiri tipke u boji za kretanje kroz
+sadržaj stranice. Korištenje ovih tipki će se prikazati na
+zaslonu.
+
+27
+
+Snimanje TV programa
+
+Digitalne TV programe možete snimati i spremati ih na unutarnji HDD, vanjski HDD ili USB uređaj.
+
+Priprema:
+
+l	Pomoću
+
+[REC Device] opcije u SETUP izborniku
+odaberite mjesto za pohranjivanje snimljenog
+materijala. (stranica 24)
+
+l	Priključite
+
+USB uređaj, ako je [REC Device] opcija
+postavljena na [USB].
+
+Snimanje pomoću brojača vremena
+(Ručno)
+Brojač vremena možete postaviti za ukupno 32 programa,
+najviše 30 dana unaprijed.
+
+1	 Tijekom gledanja TV-a, pritisnite TIMER REC.
+
+l	Potrebno
+
+je imati najmanje 20MB slobodnog
+prostora na mediju za pohranu snimanja.
+
+Normalno snimanje
+
+1	 Koristite PR (U/u) ili v/V za odabir programa koji
+želite snimiti.
+
+2	 Pritisnite REC za početak snimanja.
+l	 Pritisnite
+
+PAUSE za pauziranje snimanja, ponovo
+pritisnite PAUSE za nastavak snimanja.
+l	 Tijekom snimanja možete gledati drugi program.
+
+2	 Koristite v/V za odabir [NEW] i pritisnite OK.
+
+3	 Pritisnite STOP kako biste zaustavili snimanje.
+l	 Da
+
+biste zaustavili snimanje morate se vratiti na
+program koji snimate, prije nego što pritisnete STOP.
+
+l	 Snimljeni
+
+TV programi će se spremiti u [REC] mapu za
+pohranu koju ste postavili u [REC Device].
+
+3	 Odaberite stavku pomoću b/B i podesite je pomoću
+v/V. stavke koje se mogu podešavati su dolje na
+popisu.
+
+l	 Samo
+
+HDD vrsta USB memorije je moguća za USB
+snimanje. Flash vrsta USB memorije se ne može
+koristiti za snimanje.
+
+PR
+
+Postavlja položaj programa.
+
+Start
+
+Postavlja vrijeme početka.
+
+Date
+
+Snimanje dvostrukog programa
+Istovremeno možete snimati dva digitalna TV programa.
+
+End
+
+1	 Koristite PR (U/u) ili v/V za odabir programa koji
+
+Repeat
+
+želite snimiti.
+
+2	 Pritisnite REC za početak snimanja.
+3	 Koristite PR (U/u) ili v/V za odabir drugog programa
+
+Media
+
+koji želite snimiti.
+
+4	 Pritisnite REC za početak snimanja.
+l	 Tijekom
+
+istovremenog snimanja dva programa,
+možete gledati samo programe koje snimate.
+
+5	 Pritisnite STOP kako biste zaustavili snimanje.
+l	 Da
+
+biste zaustavili snimanje morate se vratiti na
+program koji snimate, prije nego što pritisnete STOP.
+
+	
+
+Postavlja datum.
+
+Postavlja vrijeme kraja.
+
+Odaberite željeni modus ponavljanja.
+(Once, Everyday, Mon-Fri, Mon-Sat ili
+Weekly)
+
+Postavlja uređaj na koji će se snimati.
+HDD: unutarnji HDD
+HDD+: vanjski HDD
+
+l	 Snimanje
+
+brojačem vremena se može postaviti 3
+minute od trenutnog vremena.
+l	 Snimanje brojačem vremena nije moguće na USB
+uređaju.
+
+4	 Pritisnite OK i pojavit će poruka za potvrdu.
+5	 Odaberite [OK] i pritisnite OK.
+l	 Ako
+
+unesete pogrešnu informaciju, pojavit će se
+poruka za grešku i neće se moći izvršiti snimanje
+brojačem vremena.
+l	 Odaberite [Cancel] i pritisnite OK za poništenje.
+
+28
+
+Snimanje brojačem vremena (EPG)
+Brojač vremena također možete postaviti na osnovu
+informacije koju pruža EPG.
+
+1	 Tijekom gledanja TV-a, pritisnite GUIDE.
+
+Poništavanje snimanja pomoću brojača
+vremena
+Snimanje pomoću brojača vremena možete poništiti u bilo
+kojem trenutku prije nego što započne stvarno snimanje.
+
+1	 Tijekom gledanja TV-a, pritisnite TIMER REC.
+2	 Koristite v/V za odabir rasporeda koji želite poništiti.
+3	 Pritisnite plavu tipku.
+4	 Koristite b/B za odabir [Delete one] i pritisnite OK.
+l	 Odaberite
+
+[Cancel] i pritisnite OK za poništenje.
+[Delete all] i pritisnite OK za brisanje svih
+rasporeda.
+
+l	 Odaberite
+
+2	 Koristite b/B za odabir polja za podatke i odaberite
+datum rasporeda snimanja pomoću v/V.
+
+3	 Koristite b/B za odabir polja programa i postavite
+program pomoću v/V.
+
+4	 Koristite b/B za odabir popisa programa i odaberite
+program koji želite snimati pomoću v/V.
+
+5	 Pritisnite REC.
+l	 Za
+
+uspješno isplanirani program pojavit će se crvena
+oznaka.
+l	 Crvena oznaka se možda neće pojaviti za
+nedostupni program za snimanje.
+
+6	 Pritisnite BACK za povratak na gledanje TV-a.
+7	 Pritisnite TIMER REC i provjerite je li raspored pravilno
+registriran ili ne.
+
+Provjeravanja povijesti
+U [Timer Record History] izborniku možete provjeriti je
+li snimanje brojačem vremena dovršeno ili ne. Stupac
+[Result] prikazuje “OK” ili ”FAIL”.
+
+1	 Tijekom gledanja TV-a, pritisnite TIMER REC.
+2	 Pritisnite žutu tipku za prikaz [Timer Record History]
+izbornika.
+l	 Za
+
+brisanje povijesti, odaberite history i pritisnite OK.
+Odaberite [OK] i pritisnite OK za brisanje povijesti.
+
+29
+
+Uređivanje snimanja brojačem vremena
+Prije planirani raspored brojača možete uređivati prije
+nego što počne stvarno snimanje.
+
+1	 Tijekom gledanja TV-a, pritisnite TIMER REC.
+2	 Koristite v/V za odabir rasporeda koji želite urediti.
+3	 Pritisnite OK za prikaz [Timer Record] izbornika.
+
+4	 Slijedite korake 3-5 u “Snimanje brojačem vremena
+(Ručno)” na stranici 28 za dovršetak uređivanja.
+
+Trenutno snimanje brojačem vremena
+Kako bi automatski zaustavili snimanje možete postaviti
+trenutno snimanje brojačem vremena.
+
+1	 Koristite PR (U / u) or v/V za odabir programa koji
+želite snimati.
+
+2	 Pritisnite REC za početak snimanja.
+3	 Tijekom snimanja, više puta pritisnite REC kako bi
+postavili trajanje snimanja.
+l	 Continue
+
+(Nastavi) (Normal recording) , 10M
+, 20M , 30M , 60M , 90M , 120M ,
+Continue (Nastavi)
+
+4	 Pritisnite STOP kako biste zaustavili snimanje.
+
+30
+
+Mediji
+HDD
+
+Reproducirati se mogu medijske datoteke (Movie,
+Music, Photo) spremljene na unutarnjem i HDD ili
+vanjskom HDD. (stranica 32- 35)
+
+Reproducirati se mogu medijske
+datoteke spremljene na raznim
+medijima. Odaberite [Media] u [Home]
+izborniku i pritisnite [OK].
+
+USB
+
+Reproducirati se mogu medijske datoteke (Movie,
+Music, Photo) spremljene na USB uređaju. Prije
+korištenja ove funkcije trebate priključiti USB uređaj
+na prednju ploču rekordera. (stranica 32- 35)
+
+b B
+
+Odaberite opciju u izborniku.
+
+PC
+
+Reproducirati se mogu medijske datoteke (Movie,
+Music, Photo) spremljene na računalu priključenom
+preko vaše lokalne mreže. (stranica 36)
+
+Rec. List
+
+Reproducirati možete snimljene TV programe.
+(stranica 32- 35)
+
+Playlist
+
+Prikazuje popis za reprodukciju koji ste sami
+organizirali na ovom rekorderu. Prije korištenje
+popisa za reprodukciju morate ga organizirati
+(stranica 34).
+
+Copy
+
+Medijske datoteke možete kopirati priključivanjem
+raznih uređaja za pohranu i priključivanjem na mrežu.
+(strana 37)
+
+31
+
+Funkcije za reprodukciju
+
+Rekorder može reproducirati filmske, glazbene i foto datoteke na HDD, USB, PC, REC.List, Playlist ili koristeći DLNA
+funkciju. prije reprodukcije filmskih, glazbenih ili foto datoteka, pročitajte “Zahtijevi u odnosu na datoteke” na stranici 5.
+
+6	 Pritisnite PLAY ili OK za reprodukciju odabrane
+
+Simboli funkcija za reprodukciju
+
+	
+	
+	
+
+	
+
+datoteke.
+l	 Pokreće slide prikaz kad se odabere foto datoteka.
+l	 Kod reprodukcije slide prikaza pritisnite INFO kako
+bi prikazali ikone za upravljanje kao dolje.
+
+Svaka funkcija za reprodukciju ima simbol koji
+prikazuje moguće osobine kao dolje.
+MOVIE 	 Filmske datoteke na HDD-u, USB-u ili
+PC-u.
+MUSIC 	 Glazbene datoteke na HDD-u, USB-u ili
+PC-u.
+PHOTO 	 Foto datoteke na HDD-u, USB-u ili PC-u.
+REC 	 Naslovi snimljeni preko DTV prijemnika.
+DLNA-V 	 Filmske datoteke na DLNA serveru.
+DLNA-M 	 Glazbene datoteke na DLNA serveru.
+DLNA-P 	 Foto datoteke na DLNA serveru.
+Picasa 	 Fotografije iz Picasa mrežnih albuma.
+
+Prev:
+
+Pritisnite . za prelazak na prethodnu
+datoteku.
+
+Next:
+90°
+
+Pritisnite > za prelazak na sljedeću
+datoteku.
+:
+
+Stop:
+
+Općenita reprodukcija
+
+Hide:
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Media] u [Home] izborniku i
+pritisnite OK.
+
+3	 Odaberite vrstu medija za pohranu b/B i pritisnite OK.
+
+Pritisnite v/V za rotiranje slike lijevo ili
+desno.
+
+Pritisnite STOP (x) kako biste zaustavili
+slide prikaz.
+Pritisnite BACK za skrivanje
+upravljačkih ikona. Za ponovno
+prikazivanje ikona pritisnite INFO.
+
+Ako primijenite neki efekt, vrijeme za slide prikaz može biti
+duže nego što ste ga postavili u [Slide Show timing] opciji.
+(stranica 35)
+
+7	 Za pauziranje reprodukcije pritisnite PAUSE tijekom
+a	 b	
+
+c	
+
+d	
+
+reprodukcije filmske datoteke.
+l	 Pritisnite PLAY za nastavak reprodukcije.
+
+e
+
+8	 Pritisnite STOP kako biste zaustavili reprodukciju.
+
+a Prikazuje medijske (Movie, Music, Photo)
+datoteke spremljene na unutarnji/vanjski HDD.
+b Prikazuje medijske (Movie, Music, Photo)
+datoteke spremljene na priključeni USB uređaj.
+c Prikazuje medijske (Movie, Music, Photo)
+datoteke spremljene na vašem računalu.
+Potrebno je unijeti mrežni ID i lozinku.
+(stranica 36)
+d Prikazuje naslove digitalne TV snimljene preko
+DTV prijemnika. Za snimanje DTV naslova
+pogledajte stranice 28-30.
+e Prikazuje popis za reprodukciju koji ste sami
+organizirali na ovom rekorderu. Prije korištenje
+popisa za reprodukciju morate ga organizirati
+(stranica 34).
+
+Sortiranje snimljenih naslova REC
+REC
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Media] u [Home] izborniku i
+pritisnite OK.
+
+3	 Koristite b/B za odabir [Rec. List] i pritisnite OK.
+4	 Pritisnite zelenu tipku za prikaz opcija u izborniku.
+5	 Koristite v/V za odabir načina sortiranja među
+[Latest], [Time] ili [Title Name].
+Latest
+
+4	 Koristite b/B za odabir vrste medija (Movie, Music ili
+Photo).
+
+Time
+
+reproducirati.
+l	 Koristite v/V za odabir mape i pritisnite OK.
+Prikazuje se popis datoteka i mapa u mapi.
+l	 Ako se želite pomaknuti u gornji direktorij, pritisnite
+BACK ili koristite v/V za odabir
+i pritisnite OK.
+l	 Pritisnite INFO kod odabira filmske datoteke kako bi
+prikazali detaljnije informacije o datoteci.
+
+Title Name
+
+5	 Koristite v/V za odabir datoteke koju želite
+
+sortiranje prema datumu
+snimanja.
+sortiranje prema snimljenom
+vremenu brojčanim redoslijedom.
+sortiranje prema nazivu
+abecednim redoslijedom.
+
+Pritisnite VOL +/- za podešavanje glasnoće za audio izlaz.
+
+32
+
+Reprodukcija okvir-po-okvir
+MOVIE
+
+DLNA-V
+
+Povećanje reproducirane slike
+
+REC
+
+MOVIE
+
+DLNA-P
+
+1	 Tijekom reprodukcije filmske datoteke pritisnite
+2	 Pritisnite više puta PAUSE za reprosukciju okvir-po-okvir.
+DLNA-V
+
+l	 Kroz
+
+uvećanu sliku se možete kretati pomoću
+v/V/b/B tipki.
+
+(m/M) za reprodukciju brzo naprijed ili brzo nazad.
+
+2	 Pritisnite više puta SCAN (m/M) za mijenjanje
+
+3	 Pritisnite BACK za povratak na reprodukciju normalne
+
+brzine reprodukcije.
+
+veličine.
+
+3	 Pritisnite PLAY za povratak na normalnu reprodukciju.
+
+Odabir jezika za titl
+
+Usporavanje brzine reprodukcije
+REC
+
+MOVIE
+
+DLNA-V
+
+PAUSE.
+
+SUBTITLE.
+
+2	 Koristite b/B za odabir jezika za titl i pritisnite OK.
+
+reprodukcije.
+
+4	 Pritisnite PLAY za povratak na normalnu reprodukciju.
+
+Odabir koda jezika za titl
+
+Prelazak na sljedeću/prethodnu
+datoteku
+DLNA-V
+
+PHOTO
+
+DLNA-M
+
+REC
+
+DLNA-P
+
+MOVIE
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Setup] i pritisnite OK.
+3	 Koristite b/B za odabir [Others] opcije.
+4	 Koristite v/V za odabir [Code Page] i pritisnite OK.
+5	 Koristite v/V za odabir koda jezika koji podržava vaš
+
+Picasa
+
+l	 Filmska
+
+datoteka/Snimljeni titula – Prelazi na sljedeću
+datoteku ili na početak trenutno reproducirane
+datoteke. Za prelazak na prethodnu datoteku, dvaput
+pritisnite
+SKIP (.).
+l	 Music/Photo file – Prelazi na prethodnu ili sljedeću
+datoteku.
+
+jezik.
+
+Kod jezika za titl možete promijeniti tijekom reprodukcije
+filma. Pritisnite i držite 3 sekunde SUBTITLE tijekom
+reprodukcije. Prikazat će se kod jezika. Koristite b/B
+za odabir drugog koda za jezik sve dok se ne prikaže
+pravilan titl, a zatim pritisnite OK.
+
+Nastavak reprodukcije
+REC
+
+DLNA-V
+
+Ako se filmski titl ne prikaže pravilno, promijenite kod za
+jezik titla koji podržava vaš jezik.
+
+Tijekom reprodukcije datoteke pritisnite SKIP (./>).
+
+MOVIE
+
+DLNA-V
+
+1	 Tijekom reprodukcije filmske datoteke pritisnite
+
+2	 Pritisnite SCAN (M) za usporenu reprodukciju.
+3	 Pritisnite više puta SCAN (M) za mijenjanje brzine
+
+MUSIC
+
+REC
+
+Neke snimljene filmske datoteke i naslovi mogu imati
+nekoliko jezika za titl. Kada je to moguće možete birati
+jezik za titl.
+
+1	 Tijekom reprodukcije filmske datoteke pritisnite
+
+MOVIE
+
+DLNA-V
+
+2	 Pritisnite više puta ZOOM da promijenite povećanje.
+
+1	 Tijekom reprodukcije filmske datoteke pritisnite SCAN
+
+MOVIE
+
+REC
+
+ZOOM.
+l	 Ako pritisnete ZOOM tijekom gledanja slide prikaza
+u foto popisu, slide prikaz će se zaustaviti.
+l	 Ako pokušate neku drugu funkciju kod reprodukcije
+filma, veličina slike će se vratiti u normalnu sliku.
+
+Brzo naprijed i brzo nazad
+REC
+
+Picasa
+
+1	 Tijekom reprodukcije filmske ili foto datoteke pritisnite
+
+PAUSE.
+
+MOVIE
+
+PHOTO
+
+DLNA-V
+
+Ako reproducirate film koji je prethodno zaustavljen,
+možete nastaviti reprodukciju na mjestu na kojem ste
+pritisnuli STOP.
+
+1	 Koristite v/V za odabir datoteke koju želite nastaviti
+reproducirati.
+
+2	 Pritisnite PLAY ili OK.
+3	 Koristite b/B za odabir [Yes] i pritisnite OK za
+
+nastavak reprodukcije.
+l	 Ako odaberete [No], reprodukcija kreće od početka.
+
+33
+
+Dodavanje datoteka na popis za
+reprodukciju
+
+Odabir audio jezika
+MOVIE
+
+DLNA-V
+
+REC
+
+MOVIE
+
+Neke filmske datoteke imaju nekoliko audio jezika i načina
+kodiranja. Kada je to moguće, možete odabrati audio jezik
+i način kodiranja.
+
+MUSIC
+
+PHOTO
+
+REC
+
+Na popis za reprodukciju možete dodavati omiljene
+filmske, glazbene i foto datoteke.
+
+1	 Tijekom reprodukcije filmske datoteke pritisnite
+AUDIO.
+
+1	 Slijedite korake 1-5 u “Općenita reprodukcija” na
+
+kodiranja i pritisnite OK.
+
+2	 Pritisnite MARKER na datoteci.
+
+stranici 32 za odabir datoteke.
+
+2	 Koristite b/B za odabir audio jezika ili načina
+Ponavljanje reprodukcije
+MOVIE
+
+MUSIC
+
+REC
+
+DLNA-V
+
+l	 Pomoću
+
+MARKER tipke možete označiti više
+datoteka.
+
+3	 Pritisnite EDIT za prikaz opcija u izborniku.
+4	 Koristite v/V za odabir [Add to playlist] i pritisnite OK
+
+DLNA-M
+
+Za filmske i glazbene reprodukcije možete primijeniti
+razne načine ponavljanja.
+
+za dodavanje na popis za reprodukciju.
+l	 Ako na popis za reprodukciju želite dodati više
+datoteka, pritisnite MARKER na svakoj datoteci, i
+odaberite [Add to Playlist] u izborniku s opcijama.
+l	 Za poništavanje oznaka na datotekama, odaberite
+[Unmark ALL] u izborniku s opcijama.
+
+1	 Tijekom reprodukcije filmske ili glazbene datoteke
+
+pritisnite REPEAT za odabir načina ponavljanja.
+l	 Pritisnite više puta REPEAT za odabir raznih opcija
+ponavljanja na dolje opisani način.
+Trenutna datoteka će se ponavljano
+reproducirati.
+
+Na popis za reprodukciju se mogu dodavati samo
+datoteke s unutarnjeg HDD.
+
+Sve datoteke u trenutnom direktoriju će se
+ponavljano reproducirati.
+
+Brisanje datoteke/mape s popisa
+
+Sve datoteke u trenutnom direktoriju će
+se ponavljano reproducirati nasumičnim
+odabirom. (samo glazbene datoteke)
+
+MOVIE
+
+stranici 32 za odabir datoteke.
+
+2	 Pritisnite EDIT za prikaz izbornika s opcijama.
+3	 Koristite v/V za odabir [Delete] i pritisnite OK za
+
+više puta REPEAT sve dok ne nestane ikona za
+ponavljanje.
+
+Reprodukcija od odabranog vremena
+REC
+
+REC
+
+1	 Slijedite korake 1-5 u “Općenita reprodukcija” na
+
+2	 Za poništenje ponavljane reprodukcije, pritisnite
+
+MOVIE
+
+PHOTO
+
+Datoteke/mape možete brisati s HDD-a, USB-a, PC-a ili
+Playliste.
+
+Sve datoteke u trenutnom direktoriju će se
+reproducirati prema nasumičnom odabiru.
+(samo glazbene datoteke)
+
+	
+
+MUSIC
+
+brisanje datoteke.
+l	 Ako želite obrisati više datoteka i/ili mapa na HDDu, USB-u, PC-u ili Playlisti, pritisnite MARKER
+na svakoj datoteci i odaberite [Select Delete] u
+izborniku s opcijama.
+l	 Za poništavanje oznaka na datotekama, odaberite
+[Unmark ALL] u izborniku s opcijama.
+
+DLNA-V
+
+1	 Tijekom reprodukcije filmske datoteke pritisnite GOTO.
+2	 Koristite b/B za odabir polja sati, minute i sekunde.
+3	 Unesite potrebno vrijeme za početak pomoću
+brojčanih tipki.
+l	 Ako unesete pogrešni broj, odaberite polje i ponovo
+unesite pravilan broj.
+
+l	 Ako
+
+obrišete datoteke s PC svojstvima, također ćete
+obrisati datoteke na svom računalu.
+
+4	 Pritisnite OK za početak reprodukcije od odabranog
+
+l	 Iako
+
+ste obrisali datoteku na popisu za reprodukciju,
+niste obrisali datoteku na njenom izvornom mjestu.
+
+vremena.
+
+Za neke filmske datoteke ova funkcija neće biti moguća.
+
+34
+
+Nazivanje datoteke
+MOVIE
+
+MUSIC
+
+PHOTO
+
+Odabir brzine slide prikaza
+
+REC
+
+PHOTO
+
+Nazive možete postavljati za odabrane datoteke na HDDu, USB-u, PC-u.
+
+DLNA-P
+
+Picasa
+
+Tijekom Slide prikaza možete postaviti vrijeme
+prikazivanja za sliku.
+
+1	 Slijedite korake 1-5 u “Općenita reprodukcija” na
+
+1	 Slijedite korake 1-3 u “Odabir koda za jezk tila” na
+
+2	 Pritisnite EDIT za prikaz izbornika s opcijama.
+3	 Koristite v/V za odabir [Rename] i pritisnite OK za
+
+2	 Koristite v/V za odabir [Slide Show Timing] i pritisnite
+
+stranici 33.
+
+stranici 32 za odabir datoteke.
+
+OK.
+
+3	 Koristite v/V za odabir željene brzine i pritisnite OK.
+
+prikaz virtualne tipkovnice.
+
+l	
+
+4	 Koristite v/V/b/B za odabir znaka i pritisnite OK za
+potvrdu odabira.
+
+Ako odaberete [Off], slide prikaz se neće moći
+prikazivati.
+
+Odabir efekta za slide prikaz
+PHOTO
+
+DLNA-P
+
+Picasa
+
+Možete odabrati različite načine prijelaza između
+fotografiju u slide prikazu.
+
+1	 Slijedite korake 1-3 u “Odabir koda za jezk tila” na
+stranici 33.
+
+2	 Koristite v/V za odabir [Transition Effect] i pritisnite
+OK.
+
+3	 Koristite v/V za odabir efekta koji želite primijeniti i
+pritisnite OK.
+
+l	 Odaberite
+
+[Alphabet Capital], [Alphabet Small] ili
+[Symbol] i pritisnite OK za promjenu skupa znakova
+na virtualnoj tipkovnici.
+l	 [Space]: Umeće razmak na mjestu kursora.
+l	 [Delete]: Briše znak na mjestu kursora.
+l	 [T t]: Pomiče kursor lijevo ili desno.
+l	 [OK]: Dovršetak nazivanja.
+l	 [Cancel]: Poništava nazivanje i vraća se na
+prethodno stanje.
+
+Slušanje glazbe tijekom slide prikaza
+PHOTO
+
+Tijekom slide prikaza možete slušati glazbu.
+
+1	 Slijedite korake 1-3 u “Odabir koda za jezik titla” na
+stranici 33.
+
+2	 Koristite v/V za odabir [Background Music] i pritisnite
+
+5	 Koristite v/V/b/B za odabir [OK] i pritisnite OK
+
+OK.
+
+dovršetak nazivanja.
+
+3	 Koristite v/V za odabir [On] i pritisnite OK za primjenu
+efekta.
+l	 Ako postavite ovu opciju na [Off], reprodukcija
+glazbe se prekida kada pokrenete slide prikaz.
+
+Ako promijenite naziv datoteke s PC svojstvima, također
+će se promijeniti naziv datoteke na vašem računalu.
+
+Reprodukcija odabranih datoteka
+MOVIE
+
+MUSIC
+
+PHOTO
+
+DLNA-P
+
+Glazbene i foto datoteke se moraju nalaziti na istom
+direktoriju kako bi se mogla koristiti ova funkcija.
+
+REC
+
+Možete reproducirati samo odabrane datoteke, koristeći
+MARKER na popisu datoteka.
+
+1	 Slijedite korake 1-5 u “Općenita reprodukcija” na
+stranici 32 za odabir datoteke.
+
+2	 Pritisnite MARKER na datoteci.
+l	 Pomoću
+
+MARKER tipke možete označiti više
+datoteka.
+
+3	 Pritisnite EDIT za prikaz izbornika s opcijama.
+l	 Za
+
+poništavanje oznaka na datotekama, odaberite
+[Unmark ALL] u izborniku s opcijama.
+
+4	 Koristite v/V za odabir [Select play] i pritisnite OK za
+reprodukciju odabranih datoteka.
+
+35
+
+Reprodukcija datoteka s vašeg računala
+
+Rekorder može pristupiti na računalo i može reproducirati filmske, glazbene i foto datoteke na računalu koje je
+priključeno na vašu lokalnu mrežu.
+l	 Pritisnite
+
+v/V za odabir mape i pritisnite OK.
+Prikazat će se popis datoteka i mapa u mapi.
+l	 Ako se želite pomaknuti u gornji direktorij, pritisnite
+BACK ili koristite v/V za odabir
+i pritisnite OK.
+l	 Pritisnite INFO kod odabira filmske datoteke kako bi
+prikazali detaljnije informacije o datoteci.
+9	 Pritisnite PLAY ili OK za reprodukciju odabrane
+datoteke.
+l	 Pogledajte “Funkcije za reprodukciju” na stranici 3235 za korištenje raznih funkcija za reprodukciju.
+
+Priprema:
+l	Rekorder
+
+i računalo moraju biti priključeni na istu
+lokalnu mrežu. (stranica 14-19)
+l	Napomene o ID-u za mrežnog korisnika, lozinci i
+radnoj grupi za računalo.
+l	Računalo mora biti uključeno.
+l	NetBios protokol mora biti instaliran na vašem
+računalu.
+l	Mape i pogoni za dijeljenje na vašem računalu.
+
+Pristup na računalo
+
+Ovisno o okruženju vašeg računala, na rekorderu se
+mogu prikazati mape koje niste dijelili na svom računalu.
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Media] i pritisnite OK.
+3	 Koristite b/B za odabir [PC] i pritisnite OK.
+4	 Koristite v/V za odabir radne grupe u kojoj se nalazi
+
+Uređivanje [My_Shortcuts]
+
+Kada priključivanje vašeg računala jednom spremite u
+[My_Shortcuts], moći ćete pretraživati dijeljene mape na
+svom računalu bez unošenja ID-a i lozinke za mrežnog
+korisnika. Dodatno možete urediti popis kraćica na dolje
+opisani način.
+
+vaše računalo i pritisnite OK.
+l	 Pritisnite plavu tipku za traženje radne grupe unutar
+vašeg mrežno okruženja.
+l	 Ako je priključenja vašeg računala prije spremljeno,
+odaberite [My_Shortcuts] i odaberite prije
+spremljeno priključivanje.
+5	 Koristite v/V za odabir naziva vašeg računala i pritisnite
+OK.
+l	 Pritisnite plavu tipku za ponovno traženje računala u
+radnoj grupi.
+6	 Koristite v/V za odabir ID-a mrežnog korisnika i
+lozinke vašeg računala i pritisnite OK.
+
+1	 Slijedite korake 1-3 u “Pristup na računalo” na stranici
+36.
+
+2	 Koristite v/V za odabir [My_Shortcuts] i pritisnite OK.
+3	 Pritisnite plavu tipku za prikaz opcija za uređivanje.
+4	 Koristite v/V za odabir opcije i pritisnite OK.
+a
+b
+c
+
+a
+
+d
+
+b
+
+a Dodaje kraćicu ručnim unošenjem informacije
+vašeg računala.
+b Modificira odabranu kraćicu.
+c Briše odabranu kraćicu.
+d Zatvara opcije za uređivanje.
+
+c
+d
+
+e
+
+Zahtjevi u odnosu na računalo
+
+a Unesite ID mrežnog korisnika za vaše računalo.
+b Unesite lozinku koja odgovara mrežno ID-u.
+c Spremite ID mrežnog korisnika i lozinku u
+[My_shortcuts] mapu, tako da rekorder može
+pristupiti računalu bez toga da sljedeći put
+unesite mrežni ID i lozinku.
+d Dovršite postavke priključivanja.
+e Poništava priključivanje na računalo.
+
+l	 Windows®
+
+XP (Service Pack 2 ili viši), Windows
+Vista® (nije potreban Service Pack)
+l	 1.2 GHz Intel® Pentium® III ili AMD Sempron™
+2200+ procesori
+l	 Mrežno okruženje: 100 Mb Ethernet, WLAN (IEEE
+802.11b/g/n)
+
+Ako koristite Windows® XP ili Windows Vista®, posjetite
+poveznicu dolje za više informacija o postavkama za
+dijeljenje mapa.
+
+l	 Pogledajte
+
+“Nazivanje datoteke” na stranici 35 za
+korištenje virtualne tipkovnice.
+7	 Koristite b/B za odabir vrste medija (Movie, Music ili
+Photo).
+8	 Koristite v/V za odabir datoteke koju želite
+reproducirati.
+
+36
+
+Korištenje [File Copy] funkcija
+Datoteke možete premjestiti ili kopirati na druge medije za pohranu ili mapu. Datoteke također možete brisati.
+
+Kopiranje ili premještanje datoteka/mapa
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Media] i pritisnite OK.
+3	 Koristite b/B za odabir [File Copy] i pritisnite OK.
+
+4	 Koristite v/V za odabir medija za pohranu s kojeg
+želite kopirati datoteku i pritisnite B.
+
+5	 Koristite v/V za odabir medija za pohranu na koji
+želite kopirati datoteku i pritisnite OK.
+
+6	 Koristite v/V za odabir datoteke/mape koju želite
+
+kopirati i pritisnite MARKER.
+l	 Ponovite ovaj korak za označavanje dodatnih
+datoteka i mapa.
+l	 Za odabir datoteka na računalu trebate unijeti
+mrežni ID i lozinku.
+7	 Pritisnite B za odabir polja za odredište.
+8	 Koristite v/V za odabir direktorija u koji želite kopirati
+ili premještati datoteku i pritisnite REC.
+l	 Za odabir datoteka na računalu trebate unijeti
+mrežni ID i lozinku.
+9	 Koristite b/B za odabir [Copy] ili [Move] i pritisnite OK.
+l	 Odaberite [Cancel] za poništenje kopiranja ili
+premještanja.
+
+l	 Ako
+
+nemate dopuštenje, nećete moći kopirati datoteke/
+mape na računalo.
+
+Brisanje datoteka/mapa
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Media] i pritisnite OK.
+3	 Koristite b/B za odabir [Copy] i pritisnite OK.
+4	 Koristite v/V za odabir medija koji sadrži datoteke za
+brisanje i pritisnite B.
+
+5	 Koristite v/V za odabir [Trash Can] i pritisnite OK.
+
+6	 Koristite v/V za odabir datoteke/mape koju želite
+obrisati i pritisnite MARKER.
+l	 Ponovite ovaj korak za označavanje dodatnih
+datoteka i foldera.
+l	 Za odabir datoteka na računalu trebate unijeti
+mrežni ID i lozinku.
+
+7	 Pritisnite B.
+
+8	 Koristite b/B za odabir [OK] i pritisnite OK.
+l	 Odaberite
+
+pokušate kopirati ili premjestiti polomljenu datoteku,
+postupak kopiranja ili premještanja će se zaustaviti.
+l	 Ako kopirate ili premještate datoteke/mape u FAT16/
+FAT32 formatirani medij za pohranu, kapacitet za
+kopiranje ili premještanje je ograničen na 4GB.
+l	 Tijekom kopiranja ili premještanja datoteka ne isključujte
+rekorder ili druge priključene uređaje za pohranu kao
+što je računalo.
+
+[Cancel] za poništenje brisanja.
+
+l	 Ako
+
+Za brisanje datoteka na računalu, morate postaviti pravo
+za brisanje na dijeljenim mapama na svom računalu.
+
+37
+
+DLNA
+O DLNA
+
+DLNA funkcije vam omogućuju internet pretraživanje i reprodukciju filmova, glazbe i fotografija pohranjenih na DLNA
+medijskim serverima koji su priključeni na istovjetnu lokalnu mrežu (LAN) kao rekorder.
+Rekorder omogućuje reprodukciju datoteka koje su pohranjene na računalu pomoću Nero MediaHome 4 Essentials i
+DLNA-kompatibilnom digitalnom medijskom serveru (Računalo i potrošačka elektronika).
+•	Reprodukcija datoteka s filmskim titlovima bit će
+moguća na medijskim serverima samo ako su kreirani
+pomoću Nero MediaHome 4 Essentials softvera
+isporučenog u paketu ovog rekordera.
+•	Naziv titl datoteke i filmske datoteke moraju biti isti i
+moraju se nalaziti u istoj mapi.
+•	Ako se titl datoteke dodaju nakon što je direktorij
+indeksiran, korisnik mora ukloniti mapu i ponovo dodati
+mapu na popis za dijeljenje.
+•	Kvaliteta reprodukcije i rada [DLNA] funkcije može biti
+umanjena stanjem vaše kućne mreže.
+•	Datoteke s prenosivih medija kao što je USB pogon,
+DVD-pogon i sl. se možda neće moći kvalitetno dijeliti.
+
+Digital Living Network Alliance (DLNA) je široka
+industrijska organizacija kompanija za potrošačku
+elektroniku, računalnu industriju i mobilne uređaje. Digital
+Living omogućuje korisnicima lagano dijeljenje digitalnih
+medija preko kabelske i bežične kućne mreže. DLNA logo
+olakšava pronalaženje proizvoda koji su u skladu s DLNA
+uputama za međudjelovanje. Ovaj uređaj je usklađe s
+DLNA Interoperability Guidelines v1.5.
+WKada računalo pokreće softver za DLNA server ili
+je neki drugi DLNA kompatibilni uređaj priključen na
+rekorder, možda će biti potrebno izvršite neke promjene
+u postavkama za softver ili druge uređaje. Molimo za više
+informacija pogledajte upute za softver ili uređaj.
+
+Napomene o DLNA funkcijama
+•	Budući da su kompatibilnost i moguće funkcije
+za reprodukciju u [DLNA] izborniku testirani na
+okruženju bundle DLNA servera (Nero MediaHome 4
+Essentials), zahtijevi u odnosu na datoteke i funkcije
+za reprodukciju u [DLNA] izborniku se mogu razlikovati
+ovisno o medijskim serverima.
+•	Zahtjevi u odnosu na datoteke na stranici 5 nisu uvijek
+kompatibilni. Mogu postojati neka ograničenja prema
+karakteristikama datoteke i mogućnostima servera.
+•	Ako pritisnete INFO kod odabira filmske datoteke
+na zaslonu će se prikazati informacije o datoteci.
+Međutim, informacija možda neće biti točna
+uspoređujući karakteristike stvarne datoteke.
+•	U izborniku se može prikazati ikona za datoteku koja
+se ne može reproducirati, te se datoteke neće moći
+reproducirati na ovom rekorderu.
+•	Ako na [DLNA] izborniku postoji glazbena datoteka
+koja se ne može reproducirati, rekorder će preskočiti
+tu datoteku i reproducirat će sljedeću datoteku.
+•	Informacija za datoteke koja se prikaže na zaslonu
+možda neće biti točna za glazbene i filmske datoteke u
+[DLNA] izborniku.
+
+38
+
+5	 Ako prihvaćate sve uvjete kliknite na [I accept the
+
+Instaliranje Nero MediaHome 4
+Essentials
+
+License Conditions] kvadratić za označavanje i kliknite
+na [Next]. Instaliranje softvera nije moguće bez ovog
+ugovora.
+
+Nero MediaHome 4 Essentials je softver za dijeljenje
+filmova, glazbe i foto datoteka pohranjenih na računalu s
+ovim rekorderom.
+
+6	 Kliknite na [Typical] i kliknite na [Next].
+Proces instaliranja je pokrenut.
+
+7	 Ako želite sudjelovati u anonimnom sakupljanju
+
+•	Isporučeni Nero MediaHome 4 Essentials CD-ROM
+je prilagođeno izdanje softvera za dijeljenje datoteka i
+mapa s ovim rekorderom.
+•	Isporučeni Nero MediaHome 4 Essentials softver ne
+podržava sljedeće funkcije: transkodiranje, daljinski UI,
+upravljanje TV-om, internet usluge i Apple iTunes
+•	Ovaj priručnik objašnjava rad s engleskom verzijom
+Nero MediaHome 4 Essentials kao primjerom. Slijedite
+objašnjenja koja se odnose na stvarne operacije u
+verziji za vaš jezik.
+
+podataka, odaberite kvadratić za označavanje i kliknite
+na [Next] tipku.
+
+8	 Kliknite na [Exit] tipku za dovršetak instaliranja.
+Dijeljenje datoteka i mapa
+
+Na svom računalu morate dijeliti (share) mapu koja
+sadrži filmski, glazbeni i/ili foto sadržaj da bi ih mogli
+reproducirati pomoću [DLNA] funkcije.
+Ovaj dio objašnjava postupak odabira dijeljenih mapa na
+vašem računalu.
+
+Prije nego što instalirate Nero MediaHome 4 Essentials,
+provjerite dolje iznesene zahtjeve u odnosu na sustav.
+
+1	 Dvaput kliknite na “Nero MediaHome 4 Essentials”
+ikonu na desktopu.
+
+l	 Windows®
+
+XP (Service Pack 2 ili viši), Windows Vista®
+(nije potreban Service Pack), Windows® XP Media
+Center Edition 2005 (Service Pack 2 ili viši), Windows
+Server® 2003
+
+2	 Kliknite na [Network] ikonu na lijevoj strani i definirajte
+
+vaše mrežno ime u [Network name] polju. Rekorder će
+prepoznati mrežno ime koje ste unijeli.
+
+l	 Hard
+
+3	 Kliknite na [Shares] ikonu na lijevoj strani.
+4	 Kliknite na [Local Folders] oznaku na [Shared]
+
+l	 1.2
+
+5	 Kliknite na [Add] ikonu za otvaranje [Browse Folder]
+
+l	 Windows
+
+modu)
+
+Vista® 64-bit izdanje (program radi u 32-bit
+
+disk: 200 MB prostora na hard disku za tipičnu
+samostalnu instalaciju Nero MediaHome.
+
+zaslonu.
+
+GHz Intel® Pentium® III ili AMD Sempron™ 2200+
+procesori.
+
+l	 Memorija:
+l	 Grafička
+
+prozora.
+
+6	 Odaberite mapu koja sadrži datoteke koje želite dijeliti.
+
+256 MB RAM
+
+Odabrana mapa je dodana na popis dijeljenih mapa.
+
+kartica s najmanje 32 MB video memorijom,
+minimalna rezolucija 800 x 600 piksela i 16-bit postavke
+za boju.
+
+l	 Windows®
+l	 DirectX®
+l	 Mrežno
+
+7	 Kliknite na [Start Server] ikonu za pokretanje servera.
+
+Internet Explorer® 6.0 ili viši
+
+9.0c revizija 30 (August 2006) ili viši
+
+l	 Ako
+
+nisu prikazane mape i datoteke za dijeljenje,
+kliknite na mapu u [Local Folders] i kliknite na [Rescan
+Folder] na [More] tipku.
+
+okruženje: 100 Mb Ethernet, WLAN (IEEE
+802.11b/g/n)
+
+Uključite računalo i umetnite Nero MediaHome 4
+Essentials CD-ROM u CD-ROM pogon na računalu.
+Čarobnjak za instaliranje će vas provesti kroz brzi i
+jednostavni proces instaliranja.
+
+l	 Posjetite
+
+alata.
+
+Za instaliranje Nero MediaHome 4 Essentials,
+napravite sljedeće:
+
+1	 Zatvorite sve Microsoft Windows programe i isključite
+anti-virusni softver koji bi mogao raditi.
+
+2	 Umetnite Nero MediaHome 4 Essentials CD-ROM u
+CD-ROM pogon na računalu.
+
+3	 Kliknite na [Nero MediaHome 4 Essentials].
+
+Instaliranje je pripremljeno i pojavljuje se čarobnjak za
+instaliranje.
+
+4	 Kliknite na [Next] tipku za prikaz zaslona za unos
+serijskog broja.
+Kliknite na [Next] za prelazak za sljedeći korak.
+
+39
+
+www.nero.com za više informacija i softverskih
+
+Rad s DLNA funkcijom
+
+Rekorder može reproducirati filmske, glazbene i foto datoteke na DLNA serveru.
+Prije reprodukcije filmske, glazbene i foto datoteke na DLNA serveru pročitajte “Zahtjevi u odnosu na datoteku” na
+stranici 5.
+
+Priprema:
+
+l	Rekorder
+
+i DLNA server moraju biti priključeni na
+istu lokalnu mrežu. (stranica 14-19)
+
+l	DLNA
+
+Prev:
+
+server uređaj mora biti uključen.
+
+Pritisnite . za prelazak na prethodnu
+datoteku.
+
+Next:
+
+l	Ovisno
+
+o DLNA serveru, možda će se tražiti
+dopuštenje za pristup.
+
+90°
+Stop:
+
+Općeniti rad
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [DLNA] i pritisnite OK.
+
+Hide:
+
+3	 Koristite v/V za odabir servera i pritisnite OK.
+l	 Pritisnite
+
+plavu tipku za traženje servera unutar
+vašeg mrežnog okruženja.
+
+4	 Koristite b/B za odabir vrste medija (Movie, Music ili
+Photo).
+
+5	 Koristite v/V za odabir datoteke koju želite
+
+reproducirati.
+l	 Pritisnite v/V za odabir mape i pritisnite OK.
+Prikazuje se popis datoteka i mapa u mapi.
+l	 Ako se želite pomaknuti u gornji direktorij, pritisnite
+BACK ili koristite v/V za odabir
+i pritisnite OK.
+l	 Pritisnite INFO kod odabira filmske datoteke kako bi
+prikazali detaljnije informacije o datoteci.
+
+6	 Pritisnite PLAY ili OK za reprodukciju odabrane
+
+datoteke.
+l	 Pogledajte “Funkcije za reprodukciju” na stranici
+32-35 za korištenje raznih funkcija za reprodukciju.
+l	 Pokreće slide prikaz kad se odabere foto datoteka.
+l	 Kod reprodukcije slide prikaza pritisnite INFO kako
+bi prikazali ikone za upravljanje kao dolje.
+
+40
+
+Pritisnite > za prelazak na sljedeću
+datoteku.
+:
+
+Pritisnite v/V za rotiranje slike lijevo ili
+desno.
+Pritisnite STOP (x) kako biste zaustavili
+slide prikaz.
+Pritisnite BACK za skrivanje
+upravljačkih ikona.
+Za ponovno prikazivanje ikona pritisnite
+INFO.
+
+YouTube™
+Rad s YouTube™ funkcijom
+
+Na rekorderu možete tražiti i reproducirati YouTube video sadržaje.
+
+Priprema:
+
+4	 Koristite v/V za odabir videa s popisa i pritisnite OK
+za reprodukciju videa.
+
+l	Za
+
+korištenje ove funkcije potrebno je koristiti
+uslugu širokopojasnog interneta.
+
+l	Prije
+
+korištenja ove funkcije potrebno je postaviti
+mrežne postavke.
+
+Općeniti rad
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [YouTube] i pritisnite OK.
+l	 Ako
+
+odaberete [Most Viewed] ili [Top Rated] opciju,
+na zaslonu će se pojaviti opcija za razdoblje.
+Koristite v/V/b/B za odabir opcije razdoblja i
+pritisnite OK za prikaz videa unutar odabranog
+razdoblja.
+l	 Pritisnite BACK za povratak na glavni zaslon
+YouTube izbornika.
+l	 Koristite v/V/b/B za odabir [Next] ili [Prev] za
+prelazak na sljedeći ili prethodni popis videa.
+
+3	 Koristite v/V za odabir opcije u glavnom izborniku i
+pritisnite OK.
+
+5	 Koristite v/V za odabir videa s popisa i pritisnite OK
+za reprodukciju videa.
+l	 Pritisnite PAUSE za pauziranje reprodukcije i
+pritisnite PLAY za nastavak reprodukcije.
+l	 Pritisnite OK za prikaz videa na punom ekranu.
+
+Recent Videos : Prikazat će se najnoviji video
+sadržaji.
+Featured : Prikazat će se predstavljeni video
+sadržaji.
+
+Top Rated : Prikazat će se popis najbolje
+ocijenjenih videa na YouTube serveru. Na lijevoj
+strani zaslona pojavit će se opcije razdoblja.
+
+Most Viewed : Prikazat će se popis najgledanijih
+videa. Na lijevoj strani zaslona pojavit će se opcije
+razdoblja.
+
+Full Screen : Povećava video ekran na puni zaslon.
+
+Related Video : Prikazuje povezane video sadržaje.
+
+Search : Prikazat će se izbornik za tipkovnicu.
+Pogledajte “Traženje videa” na stranici 42 za više
+detalja.
+
+Previous : Prelazi na prethodni zaslon izbornika.
+
+Local Site : Odaberite zemlju čije bi video sadržaje
+željeli gledati. Zemlje koje se nalaze na popisu u
+[Local Site] izborniku mogu se razlikovati od onih
+na popisu na YouTube web stranici.
+
+41
+
+6	 Pritisnite STOP kako biste zaustavili reprodukciju.
+
+Odabir vaše lokalne stranice
+Možete odabrati zemlju u kojoj želite gledati YouTube
+video. Zemlje koje se nalaze na popisu u [Local Site]
+izborniku mogu se razlikovati od onih na popisu na
+YouTube web stranici.
+
+•	 Postavke rekordera ne utječu na kvalitetu YouTube
+reprodukcije.
+
+1	 Koristite v/V za odabir [Local Site] opcije u glavnom
+
+•	 Reprodukcija YouTube video se može pauzirati,
+zaustaviti ili ovisno brzini interneta može često doći do
+zastoja zbog nedovoljno brzog učitavanja.
+Preporučujemo minimalnu brzinu priključka 1,5
+Mbps. Za najbolje uvjete reprodukcije potrebna
+je brzina priključka 4,0 Mbps. Ponekad se brzina
+širokopojasnog prijenosa mijenja ovisno o stanju
+na mreži pružatelja vaše internet usluge. Ako imate
+problema s održavanjem pouzdanog i brzog internet
+priključka kontaktirajte pružatelja svoje internet
+usluge, kao i ako želite povećat brzinu svog priključka.
+Brojni pružatelji internet usluge nude razne opcije
+širokopojasne brzine.
+
+YouTube zaslonu i pritisnite OK.
+
+Traženje YouTube videa
+
+2	 Koristite v/V/b/B za odabir zemlje i pritisnite OK.
+
+Video možete tražiti unošenjem riječi za traženje koja
+može imati najviše 41 znak.
+
+‑
+
+1	 Koristite v/V za odabir [Search] opcije na glavnom
+YouTube zaslonu i pritisnite OK.
+
+2	 Unesite riječ za traženje. Koristite v/V/b/B za odabir
+znaka i pritisnite OK za potvrdu svog odabira.
+
+l	 Odaberite
+
+[Alphabet Capital], [Alphabet Small] ili
+[Symbol] i pritisnite OK za promjenu skupa znakova
+na virtualnoj tipkovnici.
+l	 [Space]: Umeće razmak na mjestu kursora.
+l	 [Delete]: Briše znak na mjestu kursora.
+l	 [T t]: Pomiče kursor lijevo ili desno.
+l	 [OK]: Dovršetak nazivanja.
+l	 [Cancel]: Poništava nazivanje i vraća se na
+prethodno stanje.
+
+3	 Koristite v/V/b/B za odabir [OK] i pritisnite OK za
+prikaz videa prema traženoj riječi.
+l	 Koristite v/V/b/B za odabir [Next] ili [Prev] za
+prelazak na sljedeći ili prethodni video popis.
+
+42
+
+Picasa
+Rad s funkcijama Picasa Web Albums
+
+Možete gledati i preuzimati fotografije s Picasa Web Albums. Gledati i preuzimati se mogu samo javne fotografije. Ako na
+Picasa Web Albums imate svoj vlastiti album, pomoću ovog rekordera ćete moći pretraživati svoje fotografije.
+
+Općeniti rad
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Picasa] i pritisnite OK.
+
+5	 Pritisnite INFO kako bi prikazali ikone za upravljanje
+kao dolje.
+
+3	 Koristite v/V za odabir opcije u glavnom izborniku i
+pritisnite OK.
+
+Prev:
+
+Pritisnite . za prelaz na prethodnu
+datoteku.
+
+Next:
+
+Pritisnite > za prelaz na sljedeću
+datoteku.
+
+90°
+
+:
+
+Pritisnite v/V za rotiranje slike lijevo ili
+desno.
+
+Stop:
+
+Pritisnite STOP (x) kako biste zaustavili
+slide prikaz.
+
+Hide:
+
+Pritisnite BACK kako bi sakrili ikone za
+upravljanje.
+Za ponovno prikazivanje ikona pritisnite
+INFO.
+
+6	 Pogledajte “Funkcije za reprodukciju” na stranici 32-35
+Search for Photo : Prikazat će se izbornik za
+tipkovnicu. Pogledajte “Traženje Picasa Web
+Albums” na stranici 44 za više detalja.
+
+New ID : Prikazat će se izbornik za tipkovnicu.
+Pogledajte “Gledanje vaših Picasa Web Albums”
+na stranici 44 za više detalja.
+
+Remove ID : brisanje odabranog ID-a s ID popisa.
+
+4	 Koristite v/V/b/B za odabir fotografije i pritisnite OK
+za početak slide prikaza.
+
+za korištenje raznih funkcija za reprodukciju.
+
+Reprodukcije Picasa fotografija možda neće ići glatko
+ovisno o brzini vašeg internet priključka.
+Preporučujemo minimalnu brzinu priključka 1,5 Mbps. Za
+najbolje uvjete reprodukcije potrebna je brzina priključka
+4,0 Mbps.
+Ponekad se brzina širokopojasnog prijenosa mijenja
+ovisno o stanju na mreži pružatelja vaše internet usluge.
+Ako imate problema s održavanjem pouzdanog i brzog
+internet priključka kontaktirajte pružatelja svoje internet
+usluge, kao i ako želite povećat brzinu svog priključka.
+Brojni pružatelji internet usluge nude razne opcije
+širokopojasne brzine.
+
+l	 Ako
+
+želite preuzeti download fotografiju, koristite
+v/V/b/B za odabir fotografije i pritisnite plavu
+tipku. Preuzete fotografije će se pohraniti u [image]
+mapu na unutarnjem HDD-u.
+
+43
+
+Traženje Picasa Web Albums
+
+Gledanje vaših Picasa Web Albums
+
+Fotografije možete tražiti unošenjem riječi koja ima najviše
+43 znaka.
+
+Ako na Picasa Web Albums imate svoj vlastiti album, svoj
+album ćete moći gledati ako unesete svoj ID.
+Na ovom rekorderu se mogu prikazivati samo javni albumi.
+
+1	 Koristite v/V za odabir [Search for photos] opcije u
+
+Picasa Web Albums glavnom zaslonu i pritisnite OK.
+
+1	 Koristite v/V za odabir [New ID] opcije na glavnom
+
+znaka i pritisnite OK za potvrdu svog odabira
+
+2	 Pogledajte korak 3 u “Traženje Picasa Web Albums”
+
+2	 Unesite riječ za traženje. Koristite v/V/b/B za odabir
+
+YouTube zaslonu i pritisnite OK.
+
+na stranici 44 za unos Google ID-a.
+
+3	 Koristite v/V/b/B za odabir [OK] i pritisnite OK za
+dodavanje vašeg ID-a na ID popis.
+
+l	 Odaberite
+
+[Alphabet Capital], [Alphabet Small] ili
+[Symbol] i pritisnite OK za promjenu skupa znakova
+na virtualnoj tipkovnici.
+l	 [Space]: Umeće razmak na mjestu kursora.
+l	 [Delete]: Briše prethodni znak na mjestu kursora.
+l	 [T t]: Pomiče kursor lijevo ili desno.
+l	 [OK]: Dovršetak nazivanja.
+l	 [Cancel]: Poništava nazivanje i vraća se na
+prethodno stanje.
+
+3	 Koristite v/V/b/B za odabir [OK] i pritisnite OK za
+prikaz fotografije prema traženoj riječi.
+l	 Koristite v/V/b/B za odabir [Next] ili [Prev] za
+prelaz na sljedeći ili prethodni foto popis.
+
+4	 Koristite v/V/b/B za odabir vašeg ID-a i pritisnite OK
+za prikaz vašeg foto albuma.
+l	 Pomoću ovog rekordera se mogu prikazivati samo
+javne fotografije.
+
+5	 Koristite v/V/b/B za odabir fotografije i pritisnite OK
+za pokretanje slide prikaza.
+
+Želite li uređivati svoj album morat ćete posjetiti svoje
+Picasa Web Albums. Pogledajte stranicu za pomoć na
+Picasa Web Albums.
+
+Brisanje ID-a s ID popisa
+ID možete obrisati na ID popisu.
+
+1	 Koristite v/V/b/B za odabir ID-a koji želite obrisati s
+ID popisa na glavnom YouTube zaslonu.
+
+2	 Koristite v/V za odabir [Remove ID] opcije i pritisnite
+OK.
+
+44
+
+Podešavanje
+Općenito podešavanje
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Setup] u [Home] izborniku i
+
+DTV podešavanje
+
+pritisnite OK.
+
+3	 Koristite b/B za odabir opcije u [Setup] izborniku i
+pritisnite OK.
+
+Odaberite regiju u kojoj koristite rekorder.
+Pogledajte stranicu 22 za više informacija.
+
+Ova opcija traži programe i postavlja dostupne programe.
+Pogledajte stranicu 22 za više informacija.
+
+4	 Koristite v/V za odabir željene opcije i pritisnite OK za
+prikaz pod-opcija.
+
+Ova opcija omogućuje uređivanje TV ili Radio programa.
+Pogledajte stranicu 23 za više informacija.
+
+Možete postaviti ograničenja za gledanje TV-a prema
+dobnoj granici koju postavite. Za gledanje zaključanih
+programa bit će potrebna lozinka.
+Pogledajte stranicu 23-24 za više informacija.
+
+5	 Koristite v/V za odabir željene opcije i pritisnite OK za
+postavljanje opcije.
+
+Ako koristite unutarnju antenu, koristite antenu s pojačalom
+signala DC 5V, 100mA i postavite ovu opciju na [On].
+Pogledajte stranicu 24 za više informacija.
+
+45
+
+Audio podešavanje
+
+Podešavanje zaslona
+
+Ova opcija vam omogućuje slušanje filma s manjom
+glasnoćom bez gubljenja jasnoće zvuka.
+Postavite [DRC] na [On] samo za Dolby Digital kodirane
+datoteke i [Comfort] za datoteke sa svim načinima
+kodiranja.
+
+Odabire omjer za aspekt priključenog TV-a.
+
+[4:3 Letter Box]: Odaberite kada priključujete uređaj
+na TV sa zaslonom 4:3 i kada želite sliku s pojasima na
+gornjem i donjem dijelu zaslona.
+[4:3 Pan Scan]: Odaberite kada priključujete uređaj
+na TV sa standardnim zaslonom 4:3 i kada želite sliku
+na cijelom zaslonu s odrezanim dijelovima slike koji ne
+pristaju uzaslon.
+[16:9 Original]: Odaberite kada priključujete 16:9 široki
+TV. 4:3 slika se prikazuje s originalnim 4:3 omerom
+aspekta, s crnim prugama na lijevoj i desnoj strani.
+[16:9 Wide]: Odaberite kada priključujete 16:9 široki TV.
+4:3 slika se podešava vodoravno (u linearnoj proporciji)
+kak obi ispunila cijeli zaslon.
+
+Odabire vrstu digitalnog audio signala kada se koristi
+HDMI OUT ili DIGITAL AUDIO OUT (OPTICAL ili
+COAXIAL) priključak.
+
+[HDMI PCM]: Odaberite ako priključujete HDMI OUT
+priključak na rekorderu na uređaj s dvo-kanalnim
+digitalnim stereo dekoderom.
+[HDMI Bitstream]: Odaberite ako priključujete HDMI
+OUT priključak na rekorderu na uređaj s LPCM, Dolby
+Digital i DTS dekoderom.
+[SPDIF PCM]: Odaberite ako priključujete DIGITAL
+AUDIO OUT priključak na rekorderu na uređaj s dvokanalnim digitalnim stereo dekoderom.
+[SPDIF Bitstream]: Odaberite ako priključujete DIGITAL
+AUDIO OUT priključak na rekorderu na uređaj s LPCM,
+Dolby Digital i DTS dekoderom.
+
+[48KHz]: Odaberite ako A/V prijemnik ili pojačalo NIJE u
+stanju obrađivati signale 192 KHz i 96 KHz.
+Kada je napravljen ovaj izbor, ovaj uređaj će automatski
+konvertirati sve signale od 192 kHz u 48 kHz kako bi ih
+vaš sistem mogao dekodirati.
+[96KHz]: Odaberite ako A/V prijemnik ili pojačalo NIJE
+u stanju obrađivati signale 192 KHz. Kada je napravljen
+ovaj izbor, ovaj uređaj će automatski konvertirati sve
+signale od 192 kHz u 96 kHz kako bi ih vaš sistem
+mogao dekodirati.
+[192KHz]: Odaberite ako A/V prijemnik ili pojačalo mogu
+obrađivati signale 192 KHz.
+l Ako se audio signal prosljeđuje na izlaz preko HDMI
+OUT priključka, a rezolucija je postavljena na manje
+od 720p, frekvencija uzorka može biti ograničena na
+48 KHz.
+Provjerite dokumentaciju vašeg A/V prijemnika ili pojačala
+kako bi se uvjerili u njegove mogućnosti.
+
+(Digital Noise Reduction)
+Postavite ovu opciju na [Auto] kako bi smanjili digitalne
+smetnje, do kojih može doći kod posebno brzo kretajućih
+slika, koje se proizvode u MPEG kompresijskom procesu.
+
+Postavite rezoluciju izlaza za Component i HDMI video
+signal. Pogledajte “Podešavanje rezolucije” za detalje o
+rezoluciji.
+
+[Auto] – Ako je HDMI OUT priključak priključen
+na TV pružajući displej informaciju (EDID), onda
+se automatski odabire rezolucija koja najbolje
+odgovara priključenom TV-u. Ako je samo priključen
+COMPONENT VIDEO OUT, rezolucija se mijenja u
+1080i kao default rezolucija.
+
+[1080p] – Ima izlaz od 1080 linija progresivnog videa.
+[1080i] – Ima izlaz od 1080 linija interlaced videa.
+[720p] – Ima izlaz od 720 linija progresivnog videa.
+[576p] – Ima izlaz od 576 linija progresivnog videa.
+[576i] – Ima izlaz od 576 linija interlaced videa.
+
+Kada je rezolucija postavljena na 1080i ili 1080p, ovu
+opciju postavite na [On] za dobro predstavljanje filmskog
+materijala (24Hz) s HDMI-opremljenim zaslonom koji je
+kompatibilan s 1080/24p ulazom.
+
+46
+
+•	 Kada odaberete [ON], možete doživjeti neke
+nepravilnsoti na slici kada se mijenja video i filmski
+materijal.
+•	 Kada se na izlaz prosljeđuje 1080p 24Hz video izvor
+preko HDMI priključivanja, COMPONENT VIDEO OUT
+neće prosljeđivati na izlaz video signal.
+
+Ako ste rekorder priključili na lokalnu mrežu (LAN)
+pomoću LAN kabla, rekorder je potrebno podesiti za
+mrežno komuniciranje (Pogledajte “Priključivanje na
+kabelsku mrežu” na stranicama 14-15.)
+
+Ako ste na rekorder priključili bežični LAN adapter,
+rekorder je potrebno podesiti za bežično mrežno
+komuniciranje. (Pogledajte “Priključivanje na bežičnu
+mrežu” na stranicama 16-19.)
+
+Odaberite ovu opciju prema vrsti priključivanja TV-a.
+[YPbPr] – Kada je vaš TV priključen na COMPONENT
+VIDEO OUT priključke na rekorderu.
+[RGB] – Kada je vaš TV priključen na SCART
+priključak na uređaju.
+
+Rekorder može ažurirati ugrađeni digitalni prijemnik s
+najnovijim softverom. Ažuriranje možete provjeriti ručno,
+ili možete podesiti rekorder da sam izvršava ažuriranje
+automatski u redovitim razdobljima.
+Tijekom ažuriranja rekordera, tijekom nekoliko sati mogu
+trajati smetnje u prijemu. Kad se završi ažuriranje prijem
+će biti opet normalan.
+Rekorder mora biti ukopčan u AC utičnicu da bi primio
+ažuriranja.
+
+Podešavanje snimanja
+
+NE iskapčajte rekorder iz utičnice kada se vrši
+ažuriranje.
+
+Ažuriranje nije moguće tijekom snimanja, Timeshifta,
+gledanja teleteksta ili EPG izbornika.
+
+Standby mode : Ažurira softver kada je rekorder
+isključen. Kada je odabrana ova opcija pojavljuje se
+oznaka.
+Operation Mode : Ažurira softver kada je rekorder
+uključen. Kada je odabrana ova opcija pojavljuje se
+oznaka.
+Pogledajte stranicu 49 za više informacija.
+
+Postavite ovu opciju na [On] kako bi automatski koristili
+Time Shift funkciju bez pritiskanja TIMESHIFT tipke.
+Timeshift će se pokrenuti nakon što počnete gledati TV.
+Pogledajte stranicu 24 za više informacija.
+
+Ova opcija postavlja medij za pohranu gdje će se
+spremati TV snimanja. Odaberite opciju između HDD
+(Internal)], [HDD (External)] ili [USB] i pritisnite OK za
+postavljanje.
+Pogledajte stranicu 24 za više informacija.
+
+Softver možete ažurirati ako priključite rekorder izravno na
+server za ažuriranje softvera preko kabelskog ili bežičnog
+priključivanja na internet. Pogledajte stranicu 49 za više
+informacija.
+
+Prikazuje informacije o sustavu. (MODEL, CHIP ID ili
+MAIN VER)
+
+Kada odaberete [USB], pazite da imate dovoljno
+slobodnog prostora na USB HDD uređaju za snimanje.
+
+Mrežno podešavanje
+
+Pritisnite OK ili B kako bi vidjeli napomenu o Uskraćivanje
+prava kod mrežne usluge na stranici 58.
+
+47
+
+Podešavanje sustava
+
+Druga podešavanja
+
+Odabire jezik za izbornik za podešavanja (Setup) i displej
+na zaslonu.
+Možete postaviti vrijeme kašnjenja fotografija u slide
+prikazu. (Pogledajte “Odabir brzine slide prikaza” na
+stranici 35.)
+
+Potrebno je postaviti sat kako bi se moglo koristiti
+snimanje brojačem vremena.
+
+[Auto]: Postavite program koji emitira signal sata
+i vrijeme za sta će se automatski postaviti. Ako
+automatski postavljeno vrijeme nije točno usklađeno s
+vašim lokalnim vremenom, možete postaviti dodatnu
+opciju za vrijeme. Odaberite opciju u odnosu na GTM u
+[Time Zone].
+
+Odredite stil prijelaza između fotografija u slide prikazu.
+(Pogledajte “Odabir efekta slide prikaza” na stranici 35.)
+Ova opcija je moguća nakon što je odabrana glazba
+pomoću [On]. Ova opcija nije mogoća sa postavkom [Off]
+(Pogledajte “Slušanje glazbe tijekom slide prikaza” na
+stranici 35.)
+
+[Manual]: Ukoliko nema kanala koji emitira signal sata
+u vašem području, datum i vrijeme možete postaviti
+ručno. Koristite b/B za odabir svakog polja i unesite
+točno vrijeme i datum koristeći v/V i pritisnite OK.
+
+/
+
+Odabire zadani jezik za DTV Audio/titl.
+
+Odabire hoće li rekorder biti u stanju štednje energije
+kada se isključi. Ova opcija nije moguća kada je
+postavljeno snimanje brojačem vremena.
+[ON]: Kad se rekorder isključi, zaslon na prednjoj ploči
+je isključen, i samo se prosljeđuje signal s antenskog
+ulaza.
+[OFF]: Isključuje [Power Save Mode] funkciju.
+
+Ako se titl za film ne prikaže pravilno, promijenite kod za
+titl jezik za rekorder. (Pogledajte “Odabir jezika za titl” na
+stranici 33.).
+O DIVX VIDEU: DivX® je digitalni video format koji je
+kreirao DivX, Inc. Ovo je službeno potvrđeni DivX uređaj
+koji reproducira DivX video. Posjetite www.divx.com za
+više informacija i softverskih alata za konverziju vaših
+datoteka u DivX video.
+
+Možete resetirati rekorder na njegove izvorne tvorničke
+postavke.
+[Cancel]: Povratak na prethodno.
+[Factory Set]: Rekorder možete resetirati na njegove
+tvorničke postavke. Neke se opcije ne mogu resetirati
+(Ocjenjivanje i lozinka). Nakon tvorničkih postavki na
+zaslonu će se pojaviti [Setup Wizard] izbornik.
+
+O DIVX VIDEO-ON-DEMAND: Ovaj službeno potvrđeni
+DivX® uređaj se treba registrirati kako bi mogao
+reproducirati DivX Video-on-Demand (VOD) sadržaje.
+Za generiranje registracijskog koda, potražite [DivX Reg.
+Code] odjeljak u [Setup] izborniku. S tim kodom posjetite
+vod.divx.com kako bi dovršili postupak registriranja i
+saznali više o DivX VOD.
+
+Obrisat će se sve što je snimljeno na HDD-u.
+Odaberite opciju za pohranu između [HDD (Internal)] i
+[HDD (External)] i pritisnite OK za poslije formatiranja
+(stranici 49).
+
+Svi video sadržaji preuzeti s DivX® VOD se mogu
+reproducirati samo na ovom rekorderu.
+Deaktivirajte svoj rekorder i prikažite kod za deaktiviranje.
+Posjetite vod.divx.com za više informacija.
+
+48
+
+Reference
+Ažuriranje softvera preko interneta
+
+2	 Koristite b/B za odabir [Setup] u [Home] izborniku i
+pritisnite OK.
+
+Softver možete ažurirati najnovijim softverom kako bi
+poboljšali rad uređaja i/ili dodali nove funkcije koristeći
+širokopojasni internet priključak.
+
+3	 Koristite b/B za odabir [Network] opcije u [Setup]
+izborniku i pritisnite OK.
+
+4	 Koristite v/V za odabir [Software Update] i pritisnite
+
+Priprema:
+
+OK za prikaz pod-opcija.
+
+5	 Koristite v/V za odabir [Operation mode] i pritisnite
+
+l	Za
+
+korištenje ove funkcije potrebno je koristiti
+uslugu širokopojasnog interneta.
+
+OK.
+
+l	Prije
+
+korištenja ove funkcije potrebno je postaviti
+mrežne postavke.
+
+6	 Koristite b/B za odabir [Yes] i pritisnite OK za traženje
+novog ažuriranja.
+
+l	Zaustavite
+
+snimanje prije nego koristite funkciju
+za ažuriranje.
+
+l	 Rekorder
+
+će provjeriti najnovija ažuriranja.
+nema dostupnih ažuriranja, prikazat će se
+poruka “No update is found.”.
+
+l	 Ako
+
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Setup] u [Home] izborniku i
+
+7	 Koristite b/B za odabir [Yes] i pritisnite OK za početak
+
+3	 Koristite b/B za odabir [Network] opcije u [Setup]
+
+8	 Kad se dovrši ažuriranje prikazat će se poruka
+
+ažuriranja softvera.
+
+pritisnite OK.
+
+izborniku i pritisnite OK.
+
+“Update is complete.”, a nakon 5 sekundi će se
+rekorder automatski isključiti.
+
+4	 Koristite v/V za odabir [Network Update] i pritisnite
+
+9	 Ponovo uključite rekorder. Sustav će sada raditi s
+
+OK za prikaz pod-opcija.
+
+5	 Pritisnite OK za početak nadogradnje mreže.
+
+novom verzijom softvera.
+
+Formatiranje HDD
+1	 Pritisnite HOME.
+2	 Koristite b/B za odabir [Setup] u [Home] izborniku
+
+l	 Rekorder
+
+će provjeriti najnovija ažuriranja.
+there is no update available, the Message, “No
+update is found.” appears.
+
+l	 If
+
+6	 Koristite b/B za odabir [Yes] i pritisnite OK početak
+preuzimanja softvera.
+
+pritisnite OK.
+
+l	 Kada
+
+se dovrši preuzimanje prikazat će se poruka
+“Download is complete. Do you want to update?”.
+
+i
+
+3	 Koristite b/B za odabir [System] opcije u [Setup]
+izborniku i pritisnite OK.
+
+7	 Koristite b/B za odabir [Yes] i pritisnite OK za početak
+
+4	 Koristite v/V za odabir [HDD Format] i pritisnite OK
+
+ažuriranja softvera.
+
+za prikaz pod-opcija.
+
+8	 Kad se dovrši ažuriranje prikazat će se poruka
+
+5	 Koristite v/V za odabir medija za pohranu između
+
+“Update is complete.”, a nakon 5 sekundi će se
+rekorder automatski isključiti.
+
+[HDD (Internal)] i [HDD (External)] i pritisnite OK.
+l	 Odaberite [Cancel] i pritisnite OK za poništenje.
+l	 Na zaslonu će se prikazati poruka upozorenja.
+
+9	 Ponovo uključite rekorder. Sustav će sada raditi s
+novom verzijom softvera.
+
+6	 Koristite b/B za odabir [OK] i pritisnite OK.
+7	 Koristite v/V za podešavanje buffera za timeshift
+
+Ažuriranje softvera preko
+ugrađenog prijemnika
+
+funkciju i pritisnite OK kada je osvjetljena [Next] opcija.
+l	 Ova opcija je moguća samo kada formatirate
+unutarnji HDD.
+l	 Odaberite [Back] i pritisnite OK za povratak na
+prethodno.
+
+Softver također možete ažurirati preko ugrađenog
+digitalnog prijemnika.
+
+8	 Koristite b/B za odabir [Format] i pritisnite OK za
+
+Priprema:
+
+l	DTV
+
+antena mora biti priključena na ANTENNA
+IN priključak na stražnjoj ploči.
+
+pokretanje HDD formatiranja.
+l	 Odaberite [Back] i pritisnite OK za povratak na
+prethodno.
+
+l	Zaustavite
+
+snimanje prije nego koristite funkciju
+za ažuriranje.
+
+9	 Nakon što je završeno formatiranje HDD-a, pritisnite
+OK za učitavanje sustava (reboot) rekordera.
+
+1	 Pritisnite HOME.
+49
+
+Instaliranje vanjskog HDD-a
+
+4	 Učvrstite kuke na dolje prikazani način.
+
+Dodatni HDD možete instalirati na priključak za vanjski
+HDD.
+
+Priprema:
+
+l	Pripremite
+l	Izrazito
+
+3.5” SATA HDD.
+
+preporučujemo korištenje SATA
+proizvođačkog standarda za HDD za vanjski
+HDD. (Seagate, Western Digital, Hitachi,
+Samsung)
+
+l	Rekorder
+
+je potrebno isključiti prije instaliranja.
+
+1	 Pritisnite PUSH/OPEN na prednjoj strani rekordera.
+5	 Umetnite vanjski HDD u rekorder na dolje prikazani
+
+PUSH / OPEN
+
+način i gurnite i namjestite disk do kraju u rekorder.
+
+1
+
+2	 Uhvatite držač i izvucite ga do kraju u smjeru strelice.
+
+
+3	 Izvucite lijevu i desnu kuku na dolje prikazani način.
+	
+
+Poravnajte kuke s kućištem vanjskog diska. Gurnite i
+do kraja namjestite HDD na njegovo mjesto.
+
+Ako želite do kraja učvrstiti vanjski HDD, učvrstite vijek
+kao dolje.
+
+HDD
+
+Kućište vanjskog
+HDD-a
+
+50
+
+Priključivanje USB uređaja
+
+O unutarnjem/vanjskom HDD-u
+
+Rekorder može reproducirati Movie / Music / Photo
+datoteke koje se nalaze na USB uređaju koji je priključen
+na prednju ploče.
+
+Unutarnji hard disk pogon (HDD) je osjetljivi dio opreme.
+Molimo koristite rekorder uz pridržavanje donjih uputa
+kako bi se zaštitili od mogućeg oštećenja HDD-a.
+l	 Ne
+l	 Ne
+
+pomičite rekorder kada radi.
+
+koristite oštećeni HDD. Proizvod se može oštetiti.
+
+l	 Rekorder
+l	 Rekorder
+
+postavite i koristite na čvrstoj, ravnoj površini.
+
+PUSH / OPEN
+ne koristite
+u izuzetno vrućem i vlažnom
+okruženju, ili na mjestima koja su izložena iznenadnim
+promjenama temperature. Nagle promjene temperature
+mogu uzrokovati kondenzaciju u rekorderu. To može
+uzrokovati grešku kod HDD-a.
+
+USB
+USBDevice
+uređaj
+
+l	 Kada
+
+je rekorder uključen, ne iskapčajte utikač
+iz utičnice i ne isključujte električno napajanje na
+osiguraču.
+
+USB
+External
+USB
+vanjskiHDD
+HDD
+
+Umetanje USB uređaja
+Gurnite ravno dok ne sjedne na svoje mjesto.
+
+l	 Ne
+
+pomičite rekorder odmah nakon njegovog
+isključivanja. Ako rekorder trebate premjestiti, molimo
+slijedite dolje navedene korake:
+
+Vađenje USB uređaja
+Pažljivo izvadite USB uređaj kada priključeni USB uređaj
+ne radi.
+
+1.	 Nakon pojavljivanja poruke “OFF” na zaslonu,
+pričekajte najmanje dvije minute.
+
+2.	 Iskopčajte utikač iz utičnice.
+3.	 Premjestite rekorder.
+
+•	 Rekorder podržava samo USB Flash pogon i USB
+vanjski HDD s FAT16, FAT32 ili NTFS format.
+
+l	 Ako
+
+dođe do nestanka električne struje kada je rekorder
+uključen, postoji mogućnost gubljenja nekih podataka
+na HDD-u.
+
+•	 Preporučuje se korištenje USB uređaja s jednom
+particijom.
+
+l	 HDD
+
+je vrlo osjetljiv. Ako se nepravilno koristi ili ako
+se koristi u neprikladnoj sredini, moguće je da će se
+pokvariti nakon nekoliko godina rada. Znakovi koji
+ukazuju na probleme su iznenadno zamrzavanje
+reprodukcije i uočljivi kvadrati (mozaik) na slici.
+Međutim, ponekad neće biti znakova upozorenja za
+kvar na HDD-u.
+
+•	 Ne vadite USB uređaj dok radi (reprodukcija i sl.).
+
+•	 Ne podržava se USB Flash pogon koji zahtjeva
+instaliranje dodatnog programa kad se priključi na
+računalo.
+
+•	 Rekorder podržava USB uređaje s USB 1.1 i USB 2.0.
+•	 Reproducirati se mogu filmske, glazbene i foto
+datoteke. Pojedinosti za reprodukciju pojedine vrste
+datoteka potražite na odgovarajućim stranicama.
+
+l	 Ako
+
+se HDD pokvari, reprodukcija snimljenog materijala
+neće biti moguća. U tom slučaju je potrebno zamijeniti
+HDD.
+
+•	 Kako bi spriječili gubitak podataka preporučuje se
+redoviti back up podataka.
+
+l	 Proizvođač
+
+se odriče odgovornosti za podatke koji su
+izgubljeni na unutarnje/vanjskom HDD-u.
+
+•	 Ako koristite produžni USB kabel ili USB HUB, USB
+uređaj možda neće biti prepoznat.
+
+l	 Kod
+
+skidanja HDD-a s kućišta za vanjski HDD, HDD
+može biti jako vruć i mogli bi se na njemu opeći. Prije
+skidanja HDD-a s kućišta za vanjski HDD, disk je
+potrebno dobro ohladiti.
+
+•	 Neki USB uređaji možda neće raditi na ovom
+rekorderu.
+
+•	 Digitalna kamera i mobilni telefon nisu podržani.
+
+l	 Izrazito
+
+preporučujemo korištenje SATA proizvođačkog
+standarda za HDD za vanjski HDD.
+(Seagate, Western Digital, Hitachi, Samsung)
+
+•	 USB priključak rekordera se ne može priključiti izravno
+na računalo. Rekorder se ne može koristiti kao uređaj
+za pohranu podataka.
+
+l	 Tijekom
+
+rada rekordera ne skidajte vanjski HDD. Tako
+možete uzrokovati ozbiljni kvar na rekorderu.
+
+l	 Maksimalni
+
+1TB.
+
+•	 Neformatirani medij za pohranu se mora koristiti nakon
+formatiranja.
+
+kapacitet vanjskog HDD je ograničen na
+
+•	 Ako koristite USB produžni kabel ili USB HUB, USB
+uređaji možda neće biti prepoznati.
+
+l	 HDD
+
+kapacitet koji se prikazuje na TV zaslonu možda
+neće točno odgovarati kapacitetu koji je otisnut na
+vašem HDD-u.
+
+•	 Ako se ne može prepoznati USB HDD, pokušajte
+koristiti drugi USB kabel.
+
+•	 Neki od USB kabela možda ne podržavaju dovoljno
+struje za normalan rad USB-a.
+
+51
+
+Upravljanje TV –om preko isporučenog univerzalnog daljinskog
+upravljača
+
+Kontrolirati možete jačinu zvuka, ulazni izvor i prekidač za uključivanje/isključivanje na vašem TV-u pomoću isporučenog
+univerzalnog daljinskog upravljača.
+Ako se vaš TV nalazi na popisu na tablici na stranici 53-54, postavite odgovarajući kod proizvođača. Slijedite korake 1-2
+na način prikazan na desnoj strani.
+TV možete kontrolirati pomoću dolje navedenih tipki.
+TV POWER
+
+Tipke za
+upravljanje
+TV-om
+
+Pritiskom na tipku	
+
+Možete
+
+TV POWER 	
+
+Uključiti i isključiti TV.
+
+PR/CH +/–	
+
+Prelaziti gore ili dolje kroz memorirane kanale.
+
+AV/INPUT	
+VOL +/–	
+
+Prebacivati ulazni izvor za TV između TV-a i drugih ulaznih izvora.
+Podesiteti glasnoću na TV-u.
+
+Ovisno o priključenom TV-u, neke od ovih tipki možda neće moći kontrolirati vaš TV.
+
+Programiranje daljinskog za upravljanje TV-om pomoću koda proizvođača
+Ako se vaš TV nalazi na tablici na sljedećoj stranici, postavite odgovarajući kod proizvođača.
+
+1	
+2	
+
+Dok držite pritisnutom tipku TV POWER, pritisnite brojčane tipke kako biste odabrali kod proizvođača za vaš TV
+(pogledajte tablicu na sljedećoj stranici).
+•	 Ako se na popisu nalazi više od jednog kodnog broja, pokušajte unijeti jedan po jedan dok ne nađete onaj koji radi
+za vaš TV.
+Otpustite tipku TV POWER.
+
+•	 Ovisno o vašem TV-u, neke ili sve tipke možda neće raditi na TV-u, čak i kada unesete ispravan kod proizvođača.
+•	 Ako unesete novi kodni broj, prethodno uneseni kodni broj će se pobrisati.
+
+•	 Kada mijenjate baterije na daljinskom upravljaču, kodni broj koji ste postavili se može resetirati na default postavku.
+Ponovno postavite odgovarajući kodni broj.
+
+52
+
+Brojevi kodova za TV-e koje je moguće kontrolirati
+
+Ako se na popisu nalazi više od jednog kodnog broja, pokušajte unijeti jedan po jedan dok ne nađete onaj koji radi za
+vaš TV.
+MARKE	
+ADMIRAL	
+ADYSON	
+AKAI	
+AKURA	
+ALBA	
+ALLSTAR	
+AMSTRAD	
+AMWAY	
+ANITECH	
+ANTECNO	
+ARC EN CIEL	
+ASA	
+ASBERG	
+ASORA	
+ATLANTIC	
+AUDIOSONIC	
+AUTOVOX	
+BANK	
+BEKO	
+BESTAR	
+BLAUPUNKT	
+BONDSTEC	
+BOSCH	
+BRANDT 	
+ELECTRONIQUE
+BRIONVEGA	
+BSR	
+BUSH	
+CENTURY	
+CGE	
+CIE	
+CLATRONIC	
+CLARIVOX	
+CONDOR	
+CONIC	
+CONTEC	
+CONTINENTAL	
+EDISON
+COSMOS	
+CROSLEY	
+CROWN	
+
+KODOVI
+137 204
+159 219
+009 010 108 132 133
+135 139 140 156 174
+175
+064 086 108 110 155
+171
+009 060 064
+108
+006 025 157
+108
+010 049 108 185 219
+064
+173 179 239
+087 102 108 235 236
+185
+171
+089 197
+085
+159 163 197
+232
+045 085 086 108 250
+086
+031 091 092 096 097
+098 099 210 253
+163
+210
+173 179 225 239
+204
+144
+009 136 139 144 232
+165 204
+139 165 210
+025 108 170
+009 010 064 108 144
+149 159 164 165 171
+185
+033
+108 149 191
+219
+171 222
+173 179 225 239
+
+108
+165 204
+084 085 086 108 144
+171 185
+CS-ELECTRONICS	 064
+DAEWOO	
+051 108 120 127 170
+DANSAI	
+010 219
+DE GRAAF	
+108 134
+DECCA	
+070 108 159 161 162
+184 189 190 206
+DECCAVIDEO	
+108
+DUAL	
+233
+DUMONT	
+204
+ELBE	
+058 144 157 160 192
+246
+ELBIT	
+108 248
+ELECTROVENDA	 108
+ELEKTRONIKA	
+108
+ELIN	
+108
+
+MARKE	
+ELITE	
+ELMAN	
+ELTA	
+EMERSON	
+ESC	
+ETRON	
+EUROPHON	
+EXPERT	
+FENNER	
+FERGUSON	
+
+KODOVI
+064 149
+144
+010 171
+108 204
+108
+133
+144 159
+089
+171
+078 079 080 160 182
+195 198 199 200 201
+202
+FINLANDIA	
+194 195
+FINLUX	
+008 087 102 104 105
+107 108 140 144 159
+161 174 189 235 236
+FIRST-LINE	
+144
+FISHER	
+086 208 222 233
+FORMENTI	
+108 149
+FRABA	
+108
+FRONTECH	
+136 171 220
+FUBA	
+073 109
+FUJITSU GENERAL	 088 159 197
+FUNAI	
+010
+GALAXIS	
+108 185
+GALERIA	
+171
+GBC	
+137 144 171
+GEC	
+011 108 129 147 159
+189
+GELOSO	
+064 137 144 164 171
+GENERAL	
+171
+GENERAL TECHNIC	 171
+GOLDHAND	
+159 171
+GOLDSTAR	
+038 050 108 110 136
+144 159 163 166 171
+191 219 237
+GOODMANS	
+009 064 108 109 110
+120 159 170 171
+GORENJE	
+086
+GPM	
+010 064
+GRANADA	
+027 105 108 111 121
+134 140 159 162 167
+187 194 195 238
+GRUNDIG	
+091 092 093 094 095
+097 098 100 101 172
+232 238
+HCM	
+010 108 159 171
+HIFIVOX	
+173 179 239
+HINARI	
+010 064 108 133 171
+HIT	
+204
+HITACHI	
+011 013 015 017 021
+022 023 024 028 029
+030 035 039 040 041
+048 053 054 055 056
+057 120 127 128 129
+134 135 140 143 145
+147 151 156 159 173
+193 219
+HYPER	
+009 159 163 171
+ICE	
+009 010 064 108 171
+
+53
+
+MARKE	
+IMPERIAL	
+
+KODOVI
+043 049 108 139 144
+154 165 255
+INGERSOLL	
+171
+INNO HIT	
+159 189 237
+INTERBUY	
+010
+INTERCORD	
+233
+INTERFUNK	
+108 109 113 130 133
+134 135 137 141 146
+147 148 165 179 210
+INTERVISION	
+010 086 108 132 144
+166
+IRRADIO	
+163 235 237
+ITC	
+144 159
+ITS	
+009 010 064 171
+ITT	
+141 151 186
+JVC	
+009 169
+KAIDO	
+136
+KAPSCH	
+089 147 148 197
+KARCHER	
+084 108
+KATHREIN	
+109
+KAWA	
+009
+KENDO	
+060 108 137 157
+KENNEDY	
+197
+KNEISSEL	
+108
+KONKA	
+009
+KORTING	
+086 204 209
+KUBA	
+233
+KUBA ELECTRONIC	 233
+KURA	
+134
+LENCO	
+108 170
+LG	
+001(Default) 038 050
+108 110 136 144 159
+163 166 171 191 219
+237
+LIESENKOTTER	 108 210
+LIFETEC	
+010 064 108 170
+LOEWE	
+109 113 204 205
+LOGIK	
+070 227
+LUMA	
+137 197
+LUXOR	
+102 104 132 133 134
+135 138 140 143 145
+153 156 174 186 237
+M ELECTRONIC	 103 104
+MAGNADYNE	
+163 164 204
+MAGNAFON	
+199
+MAGNASONIC	
+108
+MARANTZ	
+108
+MARSHAL	
+064
+MATSUI	
+009 016 025 060 061
+062 063 070 108 131
+136 152 154 159 171
+172
+MERRIT	
+132
+METZ	
+047 092 097 098 100
+101 108 204 207 254
+MITSUBISHI	
+075 076 077 097 113
+204 222 224 240
+MIVAR	
+044 042 159 235
+MNARTT	
+007
+MTC	
+086 109 134
+
+MARKE	
+MULTITECH	
+MURPHY	
+NAONIS	
+NECKERMANN	
+
+KODOVI
+136 159 171 185
+232
+137
+037 059 060 092 098
+100 101 108 109 113
+115 118 119 134 135
+137 143 157 159
+NEI	
+064 108
+NIKKAI	
+219
+NIKKO	
+108
+NOBLIKO	
+232 235
+NOGAMATIC	
+173 179 239
+NOKIA	
+014 019 032 102 103
+104 108 132 133 134
+135 138 140 141 145
+146 147 148 156 174
+NORDMENDE	
+129 173 179 180 181
+193 195 225 226 228
+239
+NORMN	
+108
+NOVA	
+087
+OCEANIC	
+032 103 104 135 140
+156
+OKANO	
+108
+ONWA	
+009 010 064
+ORAVA	
+108
+ORBITER	
+086
+ORION	
+025 059 060 061 062
+064 070 108 110 118
+219
+OSAKE	
+106
+OTTO-VERSAND	 002 005 009 014 059
+060 081 082 083 085
+092 097 098 100 101
+108 109 111 113
+PAEL	
+235
+PANASONIC	
+002 003 005 167 168
+229
+PATHE CINEMA	
+144
+PATHE MARCONI	 173 179 225 239
+PHILCO	
+090 108 139 144 148
+165 204
+PHILIPS 	
+065 066 067 068 069
+092 108 109 111 112
+114 115 116 119 122
+123 124 125 193 212
+251 252
+PIONEER	
+193
+PRANDONI-PRINCE	 137 235
+PRIMA	
+219
+PRO VISION	
+108
+PROFEX	
+108 136 171
+PROFITRONIC	
+108
+QUELLE	
+002 010 014 019 025
+059 060 072 084 086
+087 088 092 097 098
+100 101 102 175
+
+MARKE	
+RADIOLA	
+RADIOTONE	
+REDIFUSSION	
+REVOX	
+REX	
+RFT	
+RITAR	
+ROADSTAR	
+ROSITA	
+SABA	
+SAISHO	
+SAKIO	
+SALORA	
+
+SAMBERS	
+SAMSUNG	
+SANY	
+SANYO	
+SCHNEIDER	
+SEG	
+SEI-SINUDYNE	
+SELECO	
+SENTRA	
+SHARP	
+SHINTOM	
+SHINTOSHI	
+SHIVAKI	
+SIAREM	
+SIEMENS	
+SIESTA	
+SILVER	
+SINGER	
+SINUDYNE	
+SMARAGO	
+SOLAVOX	
+SONOLOR	
+SONTEC	
+SONY	
+SPECTRA	
+STARLITE	
+STARLUX	
+STERN	
+SUNSTAR	
+
+KODOVI
+108
+010 085 108 171
+187
+109
+088 089 137 157 158
+164 197 246 247
+064 085 135 204
+138
+108
+171
+079 146 147 173 179
+181 193 195 225 226
+239
+025 060 070 136 159
+171
+019 032 103 104 132
+133 134 135 137 138
+140 142 143 145 150
+156 174 237 241
+235
+004 010 050 086 108
+117 126 171 220 237
+193
+014 018 019 020 032
+034 071 086 087 189
+218 221 222 223
+009 064 088 108 133
+141 159 163 233
+010 064 108 144 159
+165 171 185 219
+025 108 204 212
+088 089 137 157 197
+222
+064 133
+081 082 083 222
+108
+108
+108
+204
+092 096 097 098 100
+101 108 210 218 219
+221
+085
+010 064
+108 164 204
+118 131
+172
+133
+140 156
+108
+072 074 211 212 213
+214 215 216 217 222
+170
+108 171
+171
+088 089 137 157 197
+108 171
+
+54
+
+MARKE	
+SUPERTECH	
+TADISTAR	
+TASHIKO	
+TEC	
+
+KODOVI
+108 139 152 171
+108
+108 159 218
+108 139 144 159 170
+171
+TECHLINE	
+185
+TECHNISAT	
+108 165
+TECNISON	
+108 171
+TEKON	
+171
+TELEAVIA	
+173 178 179 225 239
+TELEFUNKEN	
+079 177 179 181 193
+195 200 210
+TELEOPTA	
+171
+TELERNT	
+109
+TELETECH	
+165 171
+TELETEXT	
+115
+TELETON	
+088
+TELETON	
+089 134 159 197
+TENSAI	
+064 108 144 149 171
+191
+TENSON	
+171
+TESLA	
+204
+THOMSON	
+052 078 079 134 173
+178 179 181 193 195
+225 239
+THORN	
+011 014 016 018 026
+028 066 072 075 087
+097 102 108 116 135
+141 145 146 160
+THORN-FERGUSON	 160 188 200 227
+TOSHIBA	
+012 016 026 036 037
+222 232
+TOWADA	
+144 185
+TRISTAR	
+010 064
+TRIUMPH	
+025 219 236
+UHER 089	
+108 109 149 185 197
+233
+ULTRAVOX	
+108 164 185 204
+UNIVERSUM	
+174
+UNIVOX	
+204
+VESTEL	
+108
+VIDEOSAT	
+165
+VIDEOTON	
+178 193
+VIDEOWAY	
+230
+VISION	
+108 149
+VOXSON	
+137 204
+WALTHAM	
+178
+WATSON	
+064 108 149 171
+WEGA	
+208 222
+WHITE	
+108 110 149
+WESTINGHOUSE
+YOKO	
+010 064 108 136 144
+159 164 170 171
+ZANUSSI 	
+137 197
+ZENITH 	
+231
+
+Rješavanje problema
+Općenito
+
+Električno napajanje nije
+uključeno.
+
+b	 Sigurno ukopčajte napojni kabel u utičnicu.
+
+Nema slike.
+
+b	 Odaberite pravi video ulazni modus na TV-u tako da se slika s rekordera pojavi na zaslonu TV-a.
+b	 Sigurno priključite video priključivanje.
+
+Na slici se pojavljuju
+smetnje.
+
+b	 Video signal s vanjske komponente je zaštićen protiv kopiranja.
+b	 Postavite rezoluciju koju vaš TV može prihvatiti.
+
+Program se ne može naći ili
+spremiti.
+
+b	 Provjerite priključivanje antene.
+
+Nema zvuka.
+
+b	
+b	
+b	
+b	
+b	
+
+Sigurno priključite audio priključivanje.
+Nije pravilna postavka za ulazni izvor na pojačalu ili nije dobro priključivanje na pojačalo.
+Rekorder se nalazi u modusu skeniranja, traženja, usporene reprodukcije ili pauze.
+Pomoću AUDIO tipke pokušajte odabrati drugi audio kanal ili izvor.
+Postavite [Digital Output] opciju na pravilno mjesto (pogledajte stranicu 46).
+
+Daljinski upravljač ne radi
+ispravno.
+
+b	
+b	
+b	
+b	
+
+Daljinski upravljač nije usmjeren prema senzoru daljinskog upravljača na rekorderu.
+Daljinski upravljač je previše udaljen od rekordera.
+Postoji prepreka na putu između daljinskog upravljača i rekordera.
+Baterije u daljinskom upravljaču su ispražnjene.
+
+Priključeni USB medij za
+pohranu nije prepoznat.
+
+b	 Pokušajte koristiti drugačiji USB kabl, neki USB kablovi možda ne podržavaju dovoljno struje za
+normalan rad USB-a.
+b	 Ako koristite USB produžni kabel ili USB HUB, USB uređaji možda neće biti prepoznati.
+b	 Pokušajte s drugim USB medijem za pohranu.
+b	 Rekorder podržava samo USB Flash pogon i USB vanjski HDD s FAT16, FAT32 ili NTFS
+formatom.
+b	 Ne podržava se USB uređaj koji zahtjeva instaliranje dodatnog programa kada se priključi na
+računalo.
+
+Reprodukcija
+
+Ne mogu se reproducirati
+MUSIC/ PHOTO/MOVIE
+datoteke.
+
+b	 Datoteke nisu snimljen u formatu koji rekorder može reproducirati.
+b	 Rekorder ne podržava codec filmske datoteke.
+
+Snimanje
+
+Ne može snimati ili nije
+uspješno snimio.
+
+b	 Provjerite preostali slobodan prostor na HDD-u.
+b	 Ako je izvor zaštićen protiv kopiranja, nećete ga moći snimiti pomoću ovog rekordera.
+b	 Program nećete moći snimati ako je postavljena postavka za DTV ocjenu onemogućila digitalni
+program za rekorder. Promijenite jačinu DTV ocjene kako bi mogli snimiti program.
+
+Snimanje brojačem
+vremena ne snima kako
+treba.
+
+b	 Sat nije postavljen na točno vrijeme.
+b	 Početno vrijeme za snimanje brojačem vremena je prošlo.
+b	 Došlo je do preklapanja dva snimanja brojačem vremena, i u tom slučaju će se ranije snimanje
+potpuno snimiti.
+b	 Kod postavljana programa za snimanje, pazite da postavite prijemnik ugrađen u rekorder, a ne
+prijemnik koji se nalazi u TV-u.
+b	 Ako je disk oštećen, snimanje se možda neće uspješno završiti.
+
+Nije prisutan Stereo Audio
+zapis i/ili reprodukcija.
+
+b	 TV nije stereo-kompatibilan.
+b	 Emitirani program nije u stereo formatu.
+
+Ne možete unijeti program
+brojača vremena kada je
+
+b	 Snimanje već počelo.
+b	 Vrijeme koje pokušavate postaviti već prošlo.
+b	 Već ste memorirali 32 programa.
+
+Ako se dva ili više programa
+za brojač vremena
+preklapaju
+
+b	 Raniji program će imati prednost.
+b	 Rekorder može istovremeno snimiti 2 kanala, ali pazite da ne napravite preklapanja kod
+postavljanja snimanja pomoću brojača vremena, jer se neki programi možda neće snimiti zbog
+prioriteta samog programa.
+
+55
+
+HDMI
+
+Priključeni HDMI uređaj ne
+prikazuje sliku.
+
+b	
+b	
+b	
+b	
+
+Priključeni HDMI uređaj ne
+prosljeđuje zvuk na izlaz.
+
+b	 Neki HDMI kompatibilni uređaji nemaju zvuk na izlazu.
+Provjerite priručnik za priključeni uređaj.
+b	 Ako vaš TV NIJE u stanju upravljati s frekvencijom uzorka od 96 kHz, podesite u izborniku za
+podešavanja [Sampling Freq.] opciju na [48 kHz]. Kada je napravljen ovaj izbor, ovaj uređaj će
+automatski konvertirati sve signale od 96 kHz u 48 kHz kako bi ih vaš sistem mogao dekodirati.
+b	 Ako vaš TV nije opremljen s Dolby Digital, DTS i MPEG dekoderom, postavite [Digital Output]
+opciju na [HDMI LPCM] u izborniku za podešavanje.
+
+Pokušajte iskopčati, a zatim ukopčati HDMI kabel.
+Pokušajte isključiti i uključiti HDMI uređaj.
+Video ulaz na priključenom uređaju je pravilno postavljen za ovaj rekorder.
+HDMI kabel koji koristite u cijelosti odgovara HDMI uvjetima.
+Korištenje nestandardnog kabela može uzrokovati nemanje slike na izlazu.
+b	 Svi HDCP kompatibilni DVI uređaji neće raditi s ovim rekorderom.
+
+Resetiranje rekordera
+Ako primijetite neki od
+sljedećih simptoma.
+
+b	 Rekorder je ukopčan, ali se rekorder ne uključuje i ne isključuje.
+b	 Zaslon na prednjoj ploči ne radi.
+b	 Rekorder ne radi normalno.
+
+Rekorder možete resetirati
+na sljedeći način.
+
+b	 Pritisnite RESET tipku na prednjoj ploči.
+Ovo će prisiliti uređaj da se isključi, a zatim ponovo uključite uređaj.
+b	 Iskopčajte električni kabel, pričekajte najmanje pet sekundi, a zatim ponovno ukopčajte kabel.
+
+Podrška za korisnike
+Rekorder možete ažurirati najnovijim softverom kako bi poboljšali rad proizvoda i/ili dodali nove funkcije.
+Da biste dobili najnoviji softver za rekorder (ako su ažuriranja kreirana), molimo posjetite http://lgservice.com ili
+kontaktirajte LG Electronics centar za podršku korisnicima.
+
+56
+
+Specifikacije
+Općenito
+Električno napajanje: 	
+Potrošnja el. snage: 	
+Dimenzije (Š x V x D): 	
+Neto težina (Približno): 	
+Radna temperatura: 	
+Radna vlaga: 	
+Televizijski sistem	
+
+AC 200-240 V, 50/60 Hz
+30W
+Približno 430 x 65,3 x 255 mm bez nožica
+3,7 kg
+5 °C do 35 °C
+5 % do 90 %
+DVB-T Standard Compliant
+
+TV snimanje
+Format snimanja:	
+TS (Transport Stream format)
+Medij za snimanje: 	Hard Disk Drive (250GB),
+External Disk Drive, USB 2.0 HDD
+
+Priključci
+ANTENNA IN:	
+Antenski ulaz, 75 Ω
+VIDEO OUT: 	
+1,0 V (p-p), 75 Ω, sync negativno, RCA priključak x 1 / SCART x 1
+COMPONENT VIDEO OUT: 	(Y) 1,0 V (p-p), 75 Ω, sync negativno, RCA priljučak x 1
+(Pb)/(Pr) 0,7 V (p-p), 75 Ω, RCA priključak x 2
+HDMI OUT (video/audio):	
+19 iglica (HDMI standard, Tip A)
+ANALOG AUDIO OUT: 	
+2,0 Vrms (1 kHz, 0 dB), 600 Ω, RCA priključak (L, R) x 1
+DIGITAL OUT (COAXIAL): 	
+0,5 V (p-p), 75 Ω , RCA priključak x 1
+DIGITAL OUT (OPTICAL): 	
+3 V (p-p), 75 , RCA priključak x 1
+USB Port:	
+4 iglice (USB 2.0 standard) x 2
+
+Sustav
+LAN priključak: 	
+Bežični LAN:	
+(unutarnja antena)	
+Bus električno napajanj (USB):	
+
+Ethernet priključak x 1, 10BASE-T/100BASE-TX
+Integrirani IEEE 802.11n (Draft 2.0)
+bežični pristup mreži, kompatibilan s 802.11b/g/n Wi-Fi mrežama.
+DC 5 V
+1 A (Prednji), DC 5 V
+500 mA (Stražnji)
+
+Dodatna oprema
+Video/Audio kabel (1), daljinski upravljač (1), baterije (2), Nero MediaHome 4 Essentials softver CD-ROM (1),
+bežični LAN adapter (USB vrsta) (1), Vijci (4)
+l	 Izvedba
+
+i specifikacije su podložni promjenama bez najavljivanja.
+
+57
+
+VAŽNE INFORMACIJE U VEZI S MREŽNIM
+USLUGAMA
+MOLIMO PAŽLJIVO PROČITAJTE. KORIŠTENJE
+MREŽNIH USLUGA JE PODLOŽNO SLJEDEĆIM
+ODREDBAMA I UVJETIMA.
+
+Mrežne usluge se mogu poništiti ili prekinuti u svakom
+trenutku i LG ne izdaje nikakva zastupanja ili jamstva da
+će bilo koja Mrežna usluga biti dostupna kroz određeno
+vremensko razdoblje. Uporaba Mrežnih usluga može
+biti podložna dodatnim uvjetima i odredbama pružatelja
+usluge kao treće strane. Sadržaj i usluge pružaju
+treće strane pomoću sredstava mreže i prijenosnih
+postrojenja kojima ne upravlja LG. LG IZRIČITO PORIČE
+SVAKU ODGOVORNOST ZA BILO KOJI PREKID ILI
+SUSPENZIJU BILO KOJE MREŽNE USLUGE.
+
+Korištenje mrežnih usluga zahtijeva internet priključak koji
+se zasebno prodaje i za koji ste sami potpuno odgovorni.
+Mrežne usluge se mogu ograničiti ovisni o kvaliteti,
+mogućnostima i tehničkim ograničenjima vaše internet
+usluge.
+Mrežne usluge pripadaju trećim stranama i mogu biti
+zaštićene autorskim pravima, patentima, robnim markama
+i/ili drugim zakonima o intelektualnom vlasništvu. Mrežne
+usluge se se pružaju samo za vašu osobnu i netržišnu
+upotrebu. Izuzev u slučaju kada ste izrazito ovlašteni od
+strane vlasnika sadržaja ili pružatelja usluge, vi nećete
+modificirati, kopirati, ponovo izdavati, učitavati na mrežu,
+pošiljati, emitirati, prevoditi, prodavati, kreirati izvedene
+radove, istraživati ili distribuirati, ni na jedan način i
+preko nijednog medija, bilo koji sadržaj ili usluge do kojih
+možete doći posredstvom ovog proizvoda.
+
+LG neće odgovarati za korisničke usluge povezane sa
+Mrežnim uslugama. Sva pitanja i zahtjeve treba uputiti
+izravno određenim pružateljima Mrežnih usluga.
+“Mrežna usluga(e)” znači usluge trećih strana koje su
+dostupne posredstvom ovog proizvoda uključujući ali se
+ne ograničavajući na sve podatke, softver, veze, poruke,
+video i drugi sadržaj koji je tom uslugom pronađen ili
+priključivanjem korišten.
+“LG” znači LG Electronics, Inc. njegovu glavnu kompaniju
+i sve podružnice, tvrtke kćeri i povezane kompanije u
+cijelom svijetu.
+
+LG NE SNOSI ODGOVORNOST ZA VAŠU UPORABU
+MREŽNIH USLUGA. MREŽNE USLUGE SU PRUŽENE
+"KAKVE JESU". DO NAJVEĆE MOGUĆE MJERE
+KOJU DOPUŠTA ZAKON, LG NE IZDAJE NIKAKVA
+ZASTUPANJA ILI JAMSTVA BILO KOJE VRSTE (*) ZA
+TOČNOST, ISPRAVNOST, VREMENITOST,
+ZAKONITOST ILI POTPUNOST BILO KOJEG
+SADRŽAJA ILI USLUGE KOJA JE OMOGUĆENA
+POSREDSTVOM OVOG PROIZVODA; ILI (ii) DA
+MREŽNE USLUGE NE SADRŽE VIRUSE ILI DRUGE
+KOMPONENTE KOJE MOGU ZARAZITI, NAŠTETITI
+ILI UZROKOVATI OŠTEĆENJA OVOM PROIZVODU,
+VAŠEM RAČUNALU, TELEVIZORU, DRUGOJ OPREMI
+ILI BILO KOJEM DRUGOM VLASNIŠTVU LG IZRIČITO
+ODBIJA SVA IMPLICIRANA JAMSTVA, UKLJUČUJUĆI,
+ALI SE NE OGRANIČAVAJUĆI NA JAMSTVA O
+PODESNOSTI ZA TRGOVANJE ILI POGODNOSTI ZA
+ODREĐENU NAMJENU.
+NI POD KOJIM OKOLNOSTIMA I PREMA NIKAKVIM
+PRAVNIM TEORIJAMA, BILO UGOVORNO,
+NEUGOVORNO, IZRAVNOM ODGOVORNOŠĆU
+ILI NA NEKI DRUGI NAČIN, LG NEĆE SNOSITI
+ODGOVORNOST PREMA VAMA ILI NEKOJ TREĆOJ
+STRANI ZA BILO KAKVU IZRAVNU, NEIZRAVNU,
+SLUČAJNU, POSEBNU, STATUTARNU, POSLJEDIČNU
+ILI NEKU DRUGU ŠTETU, ODVJETNIČKE NAKNADE
+ILI TROŠKOVE KOJI SE ODNOSE NA ILI PROIZLAZE
+IZ MREŽNIH USLUGA ČAK I KADA STE SAVJETOVANI
+O MOGUĆNOSTIMA TAKVIH ŠTETA ILI AKO SU SE
+TAKVE ŠTETE MOGLE RAZUMSKI PREDVIDJETI.
+
+58
+
+Napomena o Open source softveru
+Sljedeće GPL naredbe i LGPL knjižnice korištene u
+ovom proizvodu podložne su GPL2.0/LGPL2.1 licenčnim
+ugovorima:
+
+Ovdje se izdaje dopuštenje, bez naplate, svakoj
+osobi koja posjeduje kopiju ovog softvera i pridružene
+dokumentacijske datoteke ( “Softver”), da raspolaže
+Softverom bez ograničenja, uključujući neograničeno
+pravo na upotrebu, kopiranje, modificiranje, izdavanje,
+distribuciju, pod-licencu i/ili prodaju kopije
+Softvera, i dopušta osobama kojima je Softver predan da
+tako postupaju, prema sljedećim uvjetima:
+
+GPL NAREDBE:
+Linux kernel, busybox, dosfstools, gdbserver, ntfsprogs,
+udftools, wireless-tools
+LGPL KNJIŽNICE:
+ebase, mplib, neon, qDecoder, uClibc
+
+SOFTVER SE DOSTAVLJA “KAKAV JEST”, BEZ
+JAMSTAVA BILO KOJE VRSTE, IZRAŽENIH ILI
+PODRAZUMJEVANIH, UKLJUČUJUĆI ALI SE NE
+OGRANIČAVAJUĆI NA JAMSTVA TRGOVANJA,
+PODESNOSTI ZA ODREĐENU NAMJENU I
+NEODGOVARANJA ZA NEISPRAVNOSTI. AUTORI
+ILI VLASNICI AUTORSKIH PRAVA NI U JEDNOM
+SLUČAJU NEĆE ODGOVARATI NI ZA KAKAV ZAHTJEV,
+OŠTEĆENJA ILI DRUGE ODGOVORNOSTI, ČINOM
+ILI UGOVOROM, KOJI SE PRENOSI NA DRUGE,
+PROIZLAZEĆI IZ ILI U VEZI SA SOFTVEROM,
+NJEGOVOM UPOTREBOM ILI DRUGIM VRSTAMA
+KORIŠTENJA SOFTVERA.
+
+ebase, mplib, neon, qDecoder, uClibc LG Electronics
+vam nudi pružanje koda izvora na CD-ROM-u za cijenu
+koja pokriva trošak distribucije, kao što je cijena medija,
+troškovi slanja i rukovanja, a na osnovu email zahtjeva
+upućenog LG Electronics-u na: opensource@lge.com
+Ova ponuda je važeća tijekom tri (3) godine od dana kada
+je LG Electronics distribuirao ovaj proizvod.
+Kopiju GPL, LGPL licenci možete dobiti na
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html i
+http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html.
+Također kopiju prijevoda možete dobiti na http:// www.
+gnu.org/licenses/old-licenses/gpl-2.0-translations. html
+i http://www.gnu.org/licenses/old-licenses/lgpl-2.1translations.html Ovaj softver je dijelom zasnovan na radu
+Independent JPEG Group Zaštićena autorska prava ©
+1991 - 1998, Thomas G. Lane.
+Ovaj proizvod uključuje
+l	 Freetype: Zaštićena autorska prava © 2003 The
+FreeType Project (www.freetype.org).
+l	 Libpng: Zaštićena autorska prava © 2004 Glenn
+Randers-Pehrson
+l	 Zlib: Zaštićena autorska prava © 1995-2002 Jean-loup
+Gailly and Mark Adler.
+l	 OpenSSL:
+	 - kriptografski softver napisao Eric Young
+(eay@ cryptsoft.com).
+	 - softver napisao Tim Hudson (tjh@cryptsoft.com).
+	 - softver razvio OpenSSL Project za korištenje u
+OpenSSL Toolkit. (http://www.openssl.org)
+l	 Tinyxml: Zaštićena autorska prava © 2000-2006 Lee
+Thomason
+l	 WPA Supplicant: Zaštićena autorska prava © 20032007, Jouni Malinen <j@w1.fi> and contributors
+l	 miniUPnP client: Copyright © 2005-2006, Thomas
+BERNARD
+l	 giflib: Zaštićena autorska prava © 1997 Eric S.
+Raymond
+l	 regex : Zaštićena autorska prava © 1992, 1993, 1994,
+1997 Henry Spencer
+Sva prava pridržana.
+
+59
+
+P/No. : MFL62320919

@@ -1,0 +1,508 @@
+Polar Soft Strap
+Polar H1 Heart Rate Sensor
+Polar H2 Heart Rate Sensor
+User Manual
+
+A1
+A2
+B1
+
+B2
+B3
+
+B4
+
+ENGLISH
+This user manual contains instructions for Polar
+Soft strap, and Polar H1 and H2 heart rate
+sensors. The model of your heart rate sensor is
+printed on the connector.
+The latest version of this user manual can be
+downloaded at www.polar.com/support. For
+video tutorials, go to
+www.polar.com/support/video_tutorials.
+Please follow the pictures on the front and back
+covers.
+
+Heart Rate Sensor Parts
+1.
+
+2.
+
+The plastic electrode areas on the reverse
+side of the strap detect heart rate. Picture
+A1.
+The connector sends the heart rate signal
+to the training computer. Picture A2.
+
+Polar heart rate sensors enable training in a
+group without interference from other heart rate
+sensors.
+
+Heart rate sensors with Polar specific
+magnetic data transmission technology, e.g.
+Polar H1 and H2, can be used with compatible
+gym equipment.
+
+Wear the Heart Rate Sensor
+1.
+2.
+3.
+
+4.
+
+Moisten the electrode areas of the strap.
+Picture B1.
+Attach the connector to the strap. Picture
+B2.
+Tie the strap around your chest, just below
+the chest muscles, and attach the hook to
+the other end of the strap. Picture B3.
+Adjust the strap length to fit tightly but
+comfortably.
+
+1
+
+5.
+
+Check that the moist electrode areas are
+firmly against your skin and that the Polar
+logo of the connector is in a central and
+upright position. Picture B4.
+
+Detach the connector from the strap and rinse
+the strap under running water after every use.
+Sweat and moisture may keep the electrodes
+wet and the heart rate sensor activated. This
+will reduce the battery life.
+See detailed washing instructions in the Caring
+for Your Heart Rate Sensor section.
+
+Using a New Heart Rate Sensor
+When you purchase a new Polar H2 heart rate
+sensor, it has to be paired with the training
+computer in order to measure your heart rate.
+See your Polar training computer's user manual
+for instructions on how to take the heart rate
+sensor into use.
+
+Using Your Heart Rate Sensor in Water
+Polar H1 and Polar H2 heart rate sensors can
+be used in water activities with training
+computers that use magnetic data transmission.
+Please notice that sea and pool water are very
+conductive, and electrodes may short-circuit,
+preventing ECG signals from being detected by
+the heart rate sensor.
+When using a bathing suit, the best
+performance is achieved by wearing the heart
+rate sensor underneath it.
+
+Caring for Your Heart Rate Sensor
+The heart rate sensor is a high-tech instrument
+that should be handled with care. Follow the
+caring instructions to ensure reliable
+measurement and to maximize the life span of
+the heart rate sensor. The following instructions
+will help you fulfill guarantee obligations.
+
+2
+
+ENGLISH
+
+Connector: Detach the connector from the strap
+after every use and dry the connector with a soft
+towel. Clean the connector with a mild soap and
+water solution when needed. Never use alcohol
+or any abrasive material (eg. steel wool or
+cleaning chemicals).
+
+Strap: Rinse the strap under running water after
+every use and hang to dry. Clean the strap
+gently with a mild soap and water solution when
+needed. Do not use moisturizing soaps, because
+they can leave residue on the strap. Do not
+soak, iron, dry clean or bleach the strap. Do not
+stretch the strap or bend the electrode areas
+sharply.
+
+Dry and store the strap and the connector
+separately, to maximize the heart rate sensor
+battery lifetime. Keep the heart rate sensor in
+a cool and dry place. Do not store the heart rate
+sensor wet in non-breathing material, such as a
+sports bag, to prevent snap oxidation. Do not
+expose the heart rate sensor to direct sunlight
+for extended periods.
+
+Check the label on your strap to see if it is
+machine washable. Never put the strap or the
+connector in a dryer!
+
+Service
+During the two-year guarantee/warranty period
+we recommend that you have service, other than
+battery replacement, done by an authorized
+Polar Service Center only. The warranty does not
+cover damage or consequential damage caused
+by service not authorized by Polar Electro. For
+contact information and all Polar Service Center
+addresses, visit www.polar.com/support and
+country specific websites.
+
+ENGLISH
+
+3
+
+Changing Battery
+All connectors have user changeable batteries.
+To change the battery yourself, follow the
+instructions below, and see the markings on the
+connector and pictures on the back cover of this
+user manual.
+1.
+2.
+
+3.
+
+4.
+
+Lever the battery cover open by using the
+clip on the strap. Picture C1.
+Remove the old battery from the battery
+cover with a suitable sized small ridgid
+stick or bar, such as a toothpick. A
+non-metal tool is preferable. Be careful not
+to damage the battery cover. Picture C2.
+Insert a new battery (CR 2025) inside the
+cover with the negative (-) side facing up.
+Picture C3.
+Align the ledge on the battery cover with
+the slot on the connector and press the
+battery cover back into place. You should
+hear a snap. Picture C4.
+
+When changing the battery, make sure the
+sealing ring is not damaged, in which case you
+should replace it with a new one to ensure the
+water resistance of the connector.
+You can purchase the sealing ring/battery kits at
+well-equipped Polar retailers and authorized
+Polar Services. In the USA and Canada, the
+additional sealing rings are available at
+authorized Polar Service Centers. In the USA
+the sealing ring/battery kits are also available at
+www.shoppolar.com.
+
+Keep batteries away from children. If
+swallowed, contact a doctor immediately.
+Batteries should be properly disposed of
+according to local regulations.
+Caution: Risk of explosion if battery is replaced
+by an incorrect type. Dispose of batteries
+according to the instructions.
+
+4
+
+ENGLISH
+
+Precautions
+For allergy information, see the listed materials
+in Technical Specifications. Avoid skin
+reactions by wearing the heart rate sensor over a
+shirt, moistened under the electrodes.
+
+The combined impact of moisture and intense
+abrasion may cause a black color to come off
+the heart rate sensor’s surface, possibly
+staining light-colored clothes. If you use
+perfume or insect repellent on your skin, you
+must ensure that it does not come into
+contact with the heart rate sensor.
+
+Technical Specifications
+Battery type
+Battery sealing ring
+Polar H1 battery life
+Polar H2 battery life
+Operating
+temperature
+Connector material
+Strap material
+
+CR 2025
+O-ring 20.0 x 0.90
+Material Silicone
+1500 h
+800 h
+14 °F to 122 °F / -10
+°C to +50 °C
+ABS
+38% Polyamide, 29%
+Polyurethane, 20%
+Elastane, 13%
+Polyester
+
+The Polar heart rate sensors apply the following
+patented technology, among others:
+• OwnCode® coded transmission
+
+Limited International Polar Guarantee
+• This guarantee does not affect the consumer’s
+statutory rights under applicable national or state
+laws in force, or the consumer’s rights against the
+dealer arising from their sales/purchase contract.
+• This limited Polar international guarantee is issued
+by Polar Electro Inc. for consumers who have
+purchased this product in the USA or Canada. This
+limited Polar international guarantee is issued by
+Polar Electro Oy for consumers who have purchased
+this product in other countries.
+
+ENGLISH
+
+5
+
+•
+
+Polar Electro Oy/Polar Electro Inc. guarantees the
+original consumer/purchaser of this device that the
+product will be free from defects in material or
+workmanship for two (2) years from the date of
+purchase.
+
+•
+
+The receipt of the original purchase is your proof
+of purchase!
+
+•
+
+The guarantee does not cover the battery, normal
+wear and tear, damage due to misuse, abuse,
+accidents or non-compliance with the precautions;
+improper maintenance, commercial use, cracked,
+broken or scratched cases/displays, armband,
+elastic strap and Polar apparel.
+The guarantee does not cover any damage/s, losses,
+costs or expenses, direct, indirect or incidental,
+consequential or special, arising out of, or related to
+the product.
+Items purchased second hand are not covered by
+the two (2) year warranty, unless otherwise
+stipulated by local law.
+During the guarantee period, the product will be
+either repaired or replaced at any of the authorized
+Polar Service Centers regardless of the country of
+purchase.
+
+•
+
+•
+
+•
+
+Guarantee with respect to any product will be limited to
+countries where the product has been initially
+marketed.
+
+This product is compliant with the Directives
+2014/53/EU and 2011/65/EU. The relevant Declaration
+of Conformity and other regulatory information for each
+product are available at
+www.polar.com/en/regulatory_information.
+
+Compliance Statement
+Canada
+Polar Electro Oy has not approved any changes or
+modifications to this device by the user. Any changes or
+modifications could void the user’s authority to operate
+the equipment.
+
+6
+
+ENGLISH
+
+Polar Electro Oy n’a approué aucune modification
+apportée à l’appareil par l’utilisateur, quelle qu’en soit
+la nature. Tout changement ou toute modification
+peuvent annuler le droit d’utilisation de l’appareil par
+l’utilisateur.
+
+Industry Canada (IC) regulatory information
+Under Industry Canada regulations, this radio
+transmitter may only operate using an antenna of a type
+and maximum (or lesser) gain approved for the
+transmitter by Industry Canada. To reduce potential
+radio interference to other users, the antenna type and
+its gain should be so chosen that the equivalent
+isotropically radiated power (e.i.r.p.) is not more than
+that necessary for successful communication.
+This device complies with Industry Canada
+licence-exempt RSS standard(s). Operation is subject
+to the following two conditions: (1) this device may not
+cause interference, and (2) this device must accept any
+interference, including interference that may cause
+undesired operation of the device.
+
+Avis de conformité à la réglementation d’Industrie
+Canada
+Conformément à la réglementation d'Industrie Canada,
+le présent émetteur radio peut fonctionner avec une
+antenne d'un type et d'un gain maximal (ou inférieur)
+approuvé pour l'émetteur par Industrie Canada. Dans le
+but de réduire les risques de brouillage radioélectrique
+à l'intention des autres utilisateurs, il faut choisir le
+type d'antenne et son gain de sorte que la puissance
+isotrope rayonnée équivalente (p.i.r.e.) ne dépasse pas
+l'intensité nécessaire à l'établissement d'une
+communication satisfaisante.
+Le présent appareil est conforme aux CNR d'Industrie
+Canada applicables aux appareils radio exempts de
+licence. L'exploitation est autorisée aux deux conditions
+suivantes : (1) l'appareil ne doit pas produire de
+brouillage, et (2) l'utilisateur de l'appareil doit accepter
+tout brouillage radioélectrique subi, même si le
+brouillage est susceptible d'en compromettre le
+fonctionnement.
+
+ENGLISH
+
+7
+
+Class B digital device notice
+This Class B digital apparatus complies with Canadian
+ICES-003, RSS-Gen and RSS-210.
+Cet appareil numérique de la classe B est conforme à
+la norme NMB-003, CNR-Gen et CNR-210 du Canada.
+
+USA
+Polar Electro Oy has not approved any changes or
+modifications to this device by the user. Any changes or
+modifications could void the user’s authority to operate
+the equipment.
+
+FCC regulatory information
+This device complies with part 15 of the FCC rules.
+Operation is subject to the following two conditions: (1)
+This device may not cause harmful interference, and
+(2) This device must accept any interference received,
+including interference that may cause undesired
+operation.
+
+Note: This equipment has been tested and found to
+comply with the limits for a Class B digital device,
+pursuant to part 15 of the FCC Rules. These limits are
+designed to provide reasonable protection against
+harmful interference in a residential installation. This
+equipment generates, uses and can radiate radio
+frequency energy and, if not installed and used in
+accordance with the instructions, may cause harmful
+interference to radio communications. However, there
+is no guarantee that interference will not occur in a
+particular installation.
+If this equipment does cause harmful interference to
+radio or television reception, which can be determined
+by turning the equipment off and on, the user is
+encouraged to try to correct the interference by one or
+more of the following measures:
+
+1.
+2.
+3.
+
+8
+
+Reorient or relocate the receiving antenna.
+Increase the separation between the equipment
+and receiver.
+Connect the equipment into an outlet on a circuit
+different from that to which the receiver is
+connected.
+
+ENGLISH
+
+4.
+
+Consult the dealer or an experienced radio/ TV
+technician for help.
+
+This product emits radio frequency energy, but the
+radiated output power of this device is far below the
+FCC radio frequency exposure limits. This equipment
+complies with FCC RF radiation exposure limits forth
+for an uncontrolled environment. Nevertheless, the
+device should be used in such a manner that the
+potential for human contact with the antenna during
+normal operation is minimized.
+
+This crossed out wheeled bin marking shows that Polar
+products are electronic devices and are in the scope of
+Directive 2012/19/EU of the European Parliament and
+of the Council on waste electrical and electronic
+equipment (WEEE) and batteries and accumulators
+used in products are in the scope of Directive
+2006/66/EC of the European Parliament and of the
+Council of 6 September 2006 on batteries and
+accumulators and waste batteries and accumulators.
+These products and batteries/accumulators inside Polar
+products should thus be disposed of separately in EU
+countries.
+
+Copyright © 2013 Polar Electro Oy, FI-90440
+KEMPELE.
+Polar Electro Oy is a ISO 9001:2008 certified
+company.
+All rights reserved. No part of this manual may be used
+or reproduced in any form or by any means without
+prior written permission of Polar Electro Oy. The names
+and logos marked with a ® symbol in this user's
+manual or in the package of this product are registered
+trademarks of Polar Electro Oy.
+
+ENGLISH
+
+9
+
+Disclaimer
+The material in this manual is for informational
+purposes only. The products it describes are subject to
+change without prior notice, due to the manufacturer’s
+continuous development program.
+Polar Electro Inc. / Polar Electro Oy makes no
+representations or warranties with respect to this
+manual or with respect to the products described
+herein.
+Polar Electro Inc. / Polar Electro Oy shall not be liable
+for any damages, losses, costs or expenses, direct,
+indirect or incidental, consequential or special, arising
+out of, or related to the use of this material or the
+products described herein.
+Polar H1 and H2 heart rate sensors are covered by the
+following patent documents: FI23471, US
+D492999SS, EU0046107-002, EU0046107-003.
+Polar H1 and H2 are also covered by the following
+patent documents: FI96380, EP0665947,
+US5611346, JP3568954, FI115084, EP1543769,
+US7418237. Other patents pending.
+www.polar.com
+
+10
+
+ENGLISH
+
+C1
+
+C2
+
+C3
+
+C4
+
+Manufactured by
+Polar Electro Oy
+Professorintie 5
+FIN-90440 KEMPELE
+Tel +358 8 5202 100
+Fax +358 8 5202 300
+www.polar.com

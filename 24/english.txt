@@ -1,0 +1,4189 @@
+@ LG
+
+Life's Good
+
+User Guide
+
+46 LTE" ready
+
+ENGLISH
+
+* Please check With your network operator if 46 LTE is available on your SIM
+
+- Screen displays and illustrations may differ from
+those you see on actual phone.
+
+- Some of the contents of this guide may not apply
+to your phone, depending on the software and your
+service provider. All information in this document is
+subject to change without notice.
+
+- This handset is not suitable for people who have a
+visual impairment due to the tap screen keyboard.
+
+- Copyright @2016 LG Electronics, lnc.All rights
+reserved. LG and the LG logo are registered
+trademarks of LG Group and its related entities. All
+other trademarks are the property of their respective
+owners.
+
+- GoogleTM, Google MapsTM, GmailTM, YouTubeTM,
+HangoutsTM and Play StoreTM are trademarks of
+Google, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+M
+
+Table of contents
+
+Guidelines for safe and efficient use ....... 5
+Important notice ..................................... 16
+
+Getting to know your phone
+Phone overview.
+Installing the SIM card and battery.
+Charging your phone ......
+Using the memory card...
+Locking and unlocking the scree
+
+Knock Code.
+KnockON..
+Stereo headset With microphone.
+
+    
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+
+Your Home screen....
+Touch screen tips
+Home screen ..........
+
+Extended home screen
+Customizing the Home screen”
+Returning to recently- used applications
+Notifications panel ......................
+Opening the notifications panel.
+indicator icons on the Status Bar
+On-screen keyboard ...........
+Entering accented letters...
+
+ 
+
+ 
+
+  
+ 
+ 
+
+Google account setup ............................. 38
+
+Connecting to Networks and Devices....
+Wi-Fi ..
+Connec Ing o i- Ine or 5
+Turning Wi-Fi on and connecting to
+aWi-Fi network...
+
+ 
+    
+
+ 
+
+Bluetooth ............................................... 40
+Sharing your phone's data connection ...41
+Wi-Fi Direct .........
+Using SmartShare ..
+PC connections with a USB cable ........... 45
+
+Calls ...............
+
+Making a call
+Calling your contacts ...............
+Answering and rejecting a call.
+Adjusting the in-call volume .....
+Making a second call
+Viewing your call logs ..
+Call settings .................
+
+ 
+
+   
+ 
+ 
+ 
+
+Contacts .................................................. 49
+Searching for a contact...
+Adding a new contact ......
+Favourites contacts.
+Creating a group ......
+
+ 
+
+Messaging ............................................... 51
+
+Sending a message.
+Threaded box .........
+Changing your message settings.
+
+  
+
+E-mail ...................................................... 53
+Managing an email account .....
+Working with account folders... ..
+Composing and sending email ............... 54
+
+ 
+
+Camera and Wdeo .........................
+To open the Camera application.
+
+ 
+ 
+
+Getting to know the viewfinder .............. 55
+Take Pictures.
+Record Videos
+
+Camera and Video Settings.
+
+Multi-point Auto Focus.
+
+Dual ............
+
+Gesture shot
+
+Super Zooming...
+
+View Your Pictures
+
+Gallery Options...
+
+Assign Pictures
+
+Video Options.
+
+Live Zoom
+Dual Play
+Gallery...
+
+Working with photos
+
+To share a video ..
+
+To delete a video.
+
+OSlide while playing videos.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+ 
+ 
+
+ 
+
+  
+  
+ 
+
+Function ..
+Capture+
+Using the Capture+ options.
+Viewing the saved Capture+
+QSlide ........
+QuickRemote.
+Smart Keyboard ........................
+Move cursor using space bar...
+Enter suggested word using gesture
+control ........
+LG SmartWorld ..
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+How to Get to LG SmartWorld from Your
+
+ 
+
+Phone ................................................. 72
+
+Multimedia
+Music .....
+
+Add music files to your phone ............... 73
+
+Transfer music using Media device
+
+(MTP) .................................................. 73
+
+Playing a song ..................................... 73
+Utilities .................
+
+ 
+
+ 
+
+Setting your alarm ..
+Using your calculator ..................
+Adding an event to your calendar
+Voice Recorder ...........................
+
+Recording a sound orvoice
+
+Sending the voice recording.
+Tasks ..................................
+Google+ .........
+Voice Search
+Downloads .....
+
+   
+ 
+ 
+ 
+   
+
+The Web .................................................. 78
+
+Internet .......................
+Using the Web toolba
+Viewing webpages
+Opening a page...
+Searching the web by voic
+Bookmarks...
+History .........
+Using Popup Browser
+
+Chrome ................................................. 80
+
+ 
+ 
+  
+  
+
+3
+
+Viewing webpages ............................... 80
+Opening a page ................ ...80
+Syncing with other devices ...80
+
+ 
+
+ 
+
+  
+
+ 
+
+Settings ................................................... 81
+Networks ................ ...81
+Sound & notification 84
+Display ....................... ...85
+General .................................................. 88
+
+PC software (LG PC Suite) ...................... 95
+
+Phone software update .......................... 98
+Phone software update .......................... 98
+
+About this user guide ..
+
+About this user guide.
+Trademarks
+
+ 
+  
+ 
+
+DivX HD ......
+
+Dolby Digital Plus
+Accessories ........................................... 102
+Troubleshooting .................................... 103
+FAQ ........................................................ 107
+
+b I
+
+Guidelines for safe and efficient use
+
+Please read these simple guidelines. Not following these guidelines may be dangerous
+or illegal. Should a fault occur, a software tool is built into your device that will gather
+a fault log. This tool gathers only data specific to the fault, such as signal strength, cell
+ID position in sudden call drop and applications loaded. The log is used only to help
+determine the cause of the fault. These logs are encrypted and can only be accessed
+by an authorised LG Repair centre should you need to return your device for repair.
+
+Exposure to radio frequency energy
+
+Radio wave exposure and Specific Absorption Rate (SAR) information.
+
+This mobile phone model LG-D855 has been designed to comply with applicable safety
+
+requirements for exposure to radio waves. These requirements are based on scientific
+
+guidelines that include safety margins designed to assure the safety of all persons,
+regardless of age and health.
+
+- The radio wave exposure guidelines employ a unit of measurement known as the
+Specific Absorption Rate (SAR). Tests for SAR are conducted using standardised
+methods with the phone transmitting at its highest certified power level in all used
+frequency bands.
+
+- While there may be differences between the SAR levels of various LG phone models,
+they are all designed to meet the relevant guidelines for exposure to radio waves.
+
+- The SAR limit recommended by the International Commission on Non-Ionizing
+Radiation Protection (ICNIRP) is 2 W/kg averaged over 10g of tissue.
+
+- The highest SAR value for this model phone tested for use at the ear is 0.291 W/kg
+(10g) and when worn on the body is 0.269 W/Kg (10 g).
+
+m I
+
+- This device meets RF exposure guidelines when used either in the normal use
+position against the ear or when positioned at least 1.5 cm away from the body.
+When a carry case, belt clip or holder is used for body-worn operation, it should not
+contain metal and should position the product at least 1.5 cm away from your body.
+In order to transmit data files or messages, this device requires a quality connection
+to the network. In some cases, transmission of data files or messages may be
+delayed until such a connection is available. Ensure the above separation distance
+instructions are followed until the transmission is completed.
+
+Product care and maintenance
+
+A WARNING
+
+Only use batteries, chargers and accessories approved for use with this
+particular phone model. The use of any other types may invalidate any
+approval or warranty applying to the phone and may be dangerous.
+
+- Do not disassemble this unit. Take it to a qualified service technician when repair
+
+work is required.
+
+- Repairs under warranty, at LG's discretion, may include replacement parts or boards
+
+that are either new or reconditioned, provided that they have functionality equal to
+that of the parts being replaced.
+
+- Keep away from electrical appliances such as TVs, radios and personal computers.
+- The unit should be kept away from heat sources such as radiators or cookers.
+- Do not drop.
+
+- Do not subject this unit to mechanical vibration or shock.
+
+- Switch off the phone in any area where you are required to by special regulations.
+
+a I
+
+For example, do not use your phone in hospitals as it may affect sensitive medical
+equipment.
+
+- Do not handle the phone with wet hands while it is being charged. It may cause an
+electric shock and can seriously damage your phone.
+
+- Do not charge a handset near flammable material as the handset can become hot
+and create a fire hazard.
+
+- Use a dry cloth to clean the exterior of the unit (do not use solvents such as benzene,
+thinner or alcohol).
+
+- Do not charge the phone when it is on soft furnishings.
+
+- The phone should be charged in a well ventilated area.
+
+- Do not subject this unit to excessive smoke or dust.
+
+- Do not keep the phone next to credit cards or transport tickets; it can affect the
+information on the magnetic strips.
+
+- Do not tap the screen with a sharp object as it may damage the phone.
+
+- Do not expose the phone to liquid or moisture.
+
+- Use accessories like earphones cautiously. Do not touch the antenna unnecessarily.
+
+- Do not use, touch or attempt to remove or fix broken, chipped or cracked glass.
+Damage to the glass display due to abuse or misuse is not covered under the
+warranty.
+
+- Your phone is an electronic device that generates heat during normal operation.
+Extremely prolonged, direct skin contact in the absence of adequate ventilation may
+result in discomfort or minor burns. Therefore, use care when handling your phone
+during or immediately after operation.
+
+- If your phone gets wet, immediately unplug it to dry off completely. Do not attempt
+to accelerate the drying process with an external heating source, such as an oven,
+microwave or hair dryer.
+
+- The liquid in your wet phone, changes the color of the product label inside your
+phone. Damage to your device as a result of exposure to liquid is not covered under
+your warranty.
+
+\I I
+
+Efficient phone operation
+
+Electronics devices
+
+All mobile phones may receive interference, which could affect performance.
+
+- Do not use your mobile phone near medical equipment without requesting
+permission. Avoid placing the phone over pacemakers, for example, in your breast
+pocket.
+
+- Some hearing aids might be disturbed by mobile phones.
+
+- Minor interference may affect TVs, radios, PCs etc.
+
+- Use your phone in temperatures between 0°C and 40°C, if possible. Exposing your
+phone to extremely low or high temperatures may result in damage, malfunction, or
+even explosion.
+
+Road safety
+
+Check the laws and regulations on the use of mobile phones in the area when you
+
+drive.
+
+- Do not use a hand-held phone while driving.
+
+- Give full attention to driving.
+
+- Pull off the road and park before making or answering a call if driving conditions so
+require.
+
+- RF energy may affect some electronic systems in your vehicle such as car stereos
+and safety equipment.
+
+- When your vehicle is equipped with an air bag, do not obstruct with installed or
+portable wireless equipment. It can cause the air bag to fail or cause serious injury
+due to improper performance.
+
+- If you are listening to music whilst out and about, please ensure that the volume is
+at a reasonable level so that you are aware of your surroundings. This is of particular
+importance when near roads.
+
+00 I
+
+Avoid damage to your hearing
+
+To prevent possible hearing damage, do not listen at high volume
+levels for long periods.
+
+Damage to your hearing can occur if you are exposed to loud sound for long periods of
+
+time. We therefore recommend that you do not turn on or off the handset close to your
+
+ear. We also recommend that music and call volumes are set to a reasonable level.
+
+- When using headphones, turn the volume down if you cannot hear the people
+speaking near you, or if the person sitting next to you can hear what you are listening
+to.
+
+NOTE: Excessive sound pressure from earphones and headphones can
+cause hearing loss
+
+Glass Parts
+
+Some parts of your mobile device are made of glass. This glass could break if your
+mobile device is dropped on a hard surface or receives a substantial impact. If the glass
+breaks, do not touch or attempt to remove it. Stop using your mobile device until the
+glass is replaced by an authorised service provider.
+
+Blasting area
+
+Do not use the phone where blasting is in progress. Observe restrictions and follow any
+regulations or rules.
+
+CO I
+
+Potentially explosive atmospheres
+
+- Do not use your phone at a refueling point.
+
+- Do not use near fuel or chemicals.
+
+- Do not transport or store flammable gas, liquid or explosives in the same
+compartment of your vehicle as your mobile phone or accessories.
+
+In aircraft
+
+Wireless devices can cause interference in aircraft.
+- Turn your mobile phone off before boarding any aircraft.
+- Do not use it on the ground without permission from the crew.
+
+Children
+
+Keep the phone in a safe place out of the reach of small children. It includes small parts
+which may cause a choking hazard if detached.
+
+Emergency calls
+
+Emergency calls may not be available on all mobile networks. Therefore you should
+never depend solely on your phone for emergency calls. Check with your local service
+provider.
+
+Battery information and care
+
+- You do not need to completely discharge the battery before recharging. Unlike other
+battery systems, there is no memory effect that could compromise the battery's
+performance.
+
+- Use only LG batteries and chargers. LG chargers are designed to maximize the
+battery life.
+
+- Do not disassemble or short-circuit the battery.
+
+- Keep the metal contacts of the battery clean.
+
+- Replace the battery when it no longer provides acceptable performance. The battery
+pack may be recharged hundreds of times before it needs replacing.
+
+- Recharge the battery if it has not been used for a long time to maximize usability.
+
+- Do not expose the battery charger to direct sunlight or use it in high humidity, such as
+in the bathroom.
+
+- Do not leave the battery in hot or cold places, as this may deteriorate battery
+performance.
+
+- Risk of explosion if battery is replaced by an incorrect type. Dispose of used batteries
+according to the instructions.
+
+- If you need to replace the battery, take it to the nearest authorised LG Electronics
+service point or dealer for assistance.
+
+- Always unplug the charger from the wall socket after the phone is fully charged to
+save unnecessary power consumption of the charger.
+
+- Actual battery life will depend on network configuration, product settings, usage
+patterns, battery and environmental conditions.
+
+- Make sure that no sharp-edged items such as animal's teeth or nails, come into
+contact with the battery. This could cause a fire.
+
+Anti-Theft Guide
+
+You can set up your device to prevent other people from using it if it‘s been reset to
+factory settings without your permission. For example, if your device is lost, stolen, or
+wiped, only someone with your Google account or screen lock information can use the
+device.
+
+All you need to make sure your device is protected is:
+
+- Set a screen lock: If your device is lost or stolen but you have a screen lock
+set, the device can‘t be erased using the Settings menu unless your screen is
+unlocked.
+
+- Add your Google account on your device: If your device is wiped but you have
+your Google account on it, the device can‘t finish the setup process until your
+Google account information is entered again.
+
+After your device is protected, you‘ll need to either unlock your screen or enter your
+Google account password if you need to do a factory reset. This ensures that you or
+someone you trust is doing the reset.
+
+NOTE:
+
+- Do not forget your Google account and password you had added to your
+device prior to performing a factory reset. If you can't provide the account
+information during the setup process, you won't be able to use the device
+at all after performing the factory reset.
+
+Laser safety statement
+
+Caution!
+
+This product employs a laser system. To ensure proper use of this product, please read
+this owner‘s manual carefully and retain for future reference. Should the unit require
+maintenance, contact an authorised service centre.
+
+Use of controls, adjustments, or the performance of procedures other than those
+specified herein may result in hazardous radiation exposure.
+
+To prevent direct exposure to laser beam, do not try to open the enclosure or make
+direct contact with the laser.
+
+LASER PRODUCT
+LASER FRODUKT
+LASER LAITE
+
+LASER APPARAT
+PRODUIT LASER
+
+ 
+
+Instructions for Wireless Charger
+
+Be sure to use a wireless charger that is genuine or compatibilityecertified (by
+WPC Qi standards).
+
+(Wireless charger is sold separately.)
+
+DECLARATION OF CONFORMITY
+
+Hereby, LG Electronics declares that this LG-D855 product is in compliance
+with the essential requirements and other relevant provisions of Directive
+1999/5/EC. A copy of the Declaration of Conformity can be found at
+http://www.Ig.com/globa|/declaration
+
+Contact office for compliance of this product :
+LG Electronics European Shared Service Center B.\/.
+Krijgsman 1, 1186 DM Amstelveen, The Netherlands
+
+E
+
+E
+
+Disposal of your old appliance
+
+1 All electrical and electronic products should be disposed of separately from
+the municipal waste stream via designated collection facilities appointed by
+the government or the local authorities.
+
+2 The correct disposal of your old appliance will help prevent potential
+negative consequences for the environment and human health.
+
+3 For more detailed information about disposal of your old appliance, please
+contact your city office, waste disposal service or the shop where you
+purchased the product.
+
+Disposal of waste batteries/accumulators
+
+1 This symbol may be combined with chemical symbols for mercury (Hg), cadmium
+(Cd) or lead (Pb) if the battery contains more than 0.0005% of mercury, 0.002%
+of cadmium or 0.004% of lead.
+
+2 All batteries/accumulators should be disposed separately from the municipal
+waste stream via designated collection facilities appointed by the government or
+the local authorities.
+
+3 The correct disposal of your old batteries/accumulators will help to prevent
+potential negative consequences forthe environment, animal and human health.
+
+4 For more detailed information about disposal of your old batteries/ accumulators,
+please contact your city office, waste disposal service or the shop where you
+purchased the product.
+
+Important notice
+
+Please read this before you start using your phone!
+Please check to see whether any problems you encountered with your phone are
+described in this section before taking the phone in for service or calling a service
+representative.
+
+1. Phone memory
+
+When there is less than 10% of space available in your phone memory, your phone
+cannot receive new messages. You need to check your phone memory and delete some
+data, such as applications or messages, to make more memory available.
+
+To uninstall applications:
+
+1 Tap O > G > Apps tab > El Settings > General tab > Apps.
+
+2 Once all applications appear, scroll to and select the application you want to
+uninstall.
+
+3 Tap Uninstall.
+
+2. Optimizing battery life
+
+Extend your battery‘s power by turning off features that you don‘t have to run constantly
+
+in the background. You can monitor how applications and system resources consume
+
+battery power.
+
+Extending your phone's battery life:
+
+- Turn off radio communications when you are not using. If you are not using Wi-Fi,
+Bluetooth® or GPS, turn them off.
+
+- Reduce screen brightness and set a shorter screen timeout.
+
+- Turn off automatic syncing for Gmail, Calendar, Contacts and other applications.
+
+- Some applications you have downloaded may reduce battery power.
+
+- While using downloaded applications, check the battery charge level.
+
+NOTE: If you accidently press the Power/Lock Key while the device is in your
+pocket, the screen will turn off automatically in order to save battery power.
+
+To check the battery power level:
+
+ 
+
+- Tap O > --‘_ > Apps tab > m Settings > General tab > About phone > Battery.
+
+The battery status (charging or discharging) and battery level (percentage charged) is
+
+displayed at the top of the screen.
+
+To monitor and control how battery power is being used:
+
+- Tap O > ‘, > Apps tab > m Settings > General tab > About phone > Battery
+> Battery usage.
+
+Battery usage time is displayed on the screen. It tells you how long it has been since
+
+you last connected your phone to a power source or, if currently connected, how long
+
+the phone was last running on battery power. The screen shows the applications or
+
+services using battery power, listed in order from the greatest to smallest amount used.
+
+ 
+
+3. Before installing an open source application and OS
+
+A WARNING
+
+If you install and use an 08 other than the one provided by the manufacturer
+it may cause your phone to malfunction. In addition, your phone will no longer
+be covered by the warranty.
+
+A WARNING
+
+To protect your phone and personal data, only download applications from
+trusted sources, such as Play StoreTM. If there are improperly installed
+applications on your phone, the phone may not work normally or a serious
+error may occur. You must uninstall those applications and all associated data
+and settings from the phone.
+
+4. Using an unlock pattern
+
+Set an unlock pattern to secure your phone. Tap O > 7 > Apps tab > ;-,3 Settings
+> Display tab > Lock screen > Select screen lock > Pattern. This opens a screen
+that will guide you through how to draw a screen unlock pattern. You have to create a
+Backup PIN as a safety measure in case you forget your unlock pattern.
+
+Caution: Create a Google account before setting an unlock pattern and
+remember the Backup PIN you created when creating your pattern look.
+
+A WARNING
+
+Precautions to take when using pattern lock.
+
+It is very important to remember the unlock pattern you set. You will not be
+able to access your phone if you use an incorrect pattern 5 times. You have 5
+opportunities to enter your unlock pattern, PIN or password. If you have used
+all 5 opportunities, you can try again after 30 seconds.
+
+When you can’t recall your unlock Pattern, PIN or Password:
+
+< If you have forgotten your pattern >
+
+If you logged in to your Google account on the phone but failed to enter the correct
+pattern 5 times, tap the Forgot pattern? button at the bottom of the screen. You are
+then required to log in with your Google Account or you have to enter the Backup PIN
+which you entered when creating your Pattern Lock.
+
+5. Opening and switching applications
+
+Multi-tasking is easy with Android, you can keep more than one application running
+
+at the same time. There is no need to quit an application before opening another one.
+
+Use and switch between several open applications. Android manages each application,
+
+stopping and starting them as needed to ensure that idle applications don‘t consume
+
+resources unnecessarily.
+
+1 Tap Recent Key El. A list of recently used applications will be displayed.
+
+2 Tap the application you want to access. This does not stop the previous app
+running in the background on the phone. Make sure to tap Back Key <1 to exit an
+app after using it.
+
+- To remove an app from the recent apps list, swipe the app preview to the left or right.
+
+To clear all apps, tap Clear all.
+
+6. Transferring music, photos and videos using Media
+device (MTP)
+
+1 Connect your device to a PC using the USB cable that came with your phone.
+2 Open the Notifications panel and select Media device (MTP).
+3 A window will pop-up on your PC, allowing you to transfer the desired data.
+
+NOTE:
+- The LG Android Platform Driver is required to be installed on your PC to be
+able to detect the phone.
+
+- Check the requirements for using Media device (MTP).
+
+7. Hold your phone upright
+
+Hold your cell phone vertically, as you would a regular phone. Your phone has an
+internal antenna. Be careful not to scratch or damage the back of the phone, as this
+may affect performance.
+
+When making/receiving calls or sending/receiving data, avoid holding the lower part of
+the phone where the antenna is located. Doing so may affect call quality.
+
+8. Do not connect your phone when you power on/off
+your PC
+
+Make sure to disconnect your phone from the PC when powering your PC on or off as it
+might result in PC errors.
+
+9. Hardware key control mode
+
+If your phone display is damaged or broken, you can answer an incoming call, or turn
+
+off an alarm using the hardware keys.
+
+1 Turn your phone off.
+
+2 Press and hold the Power/Lock Key and the Volume Keys at the same time for
+more than 6 seconds to enter the Hardware key control mode.
+
+3 Press the Volume Keys to scroll to the desired option, then press the Power/Lock
+
+Key to confirm.
+
+- Answer call: Press the Volume Keys at the same time.
+
+- Stop alarm: When an alarm rings, press and hold the Volume Up Key or Volume
+Down Key to stop the alarm.
+
+NOTE: If you use your phone with a broken display glass, your phone can
+break even more or you can be injured. Make sure to visit the LG authorised
+service centre to get your phone repaired.
+
+Getting to know your phone
+
+Phone overview
+
+Notification LED
+Front Camera Lens
+Proximity Sensor
+
+: —Earpiece
+
+   
+   
+   
+  
+ 
+ 
+
+ 
+
+— Touch Screen
+
+- — Back Key
+- Returns to the previous screen. Also closes pop-up
+items such as menus, dialog boxes, and the on-screen
+keyboard. Touch and hold it to access Dual window.
+— Horne Key
+- Return to the Home screen from any screen.
+— Recent Apps Key
+
+- Displays recently used applications. If you touch and hold
+this key, it opens available options menu.
+
+ 
+
+NOTE: Proximity sensor
+
+When receiving and making calls, the proximity sensor automatically turns the
+backlight off by sensing when the phone is near your ear. This extends battery
+life.
+
+AWARNING
+
+Placing a heavy object on the phone or sitting on it can damage the LCD
+and touch screen functions. Do not cover the LCD proximity sensor with
+protective film. This could cause the sensor to malfunction.
+
+IR (Infrared) LED
+5 Sub Microphone
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Laser Detection — Rear Camera Lens
+
+AutoFocus o u Flash
+
+Power/Lock Key 0 Volume Keys (Whilst screen
+
+- Switch your phone on/ is switched off)
+off by pressing and - Long Press Up to launch
+holding this key Capture+
+
+- Short press to lock/ - Long Press Down to launch
+unlock the screen Camera
+
+NFC Touch Point —'
+
+Speaker ¥
+
+% Main Microphone
+
+Charger/USB port
+Headset Jack
+
+ 
+
+A WARNING
+
+- This part encloses the battery compartment.
+
+- Be careful not to damage the NFC touch point on the phone, which is part
+of the NFC antenna.
+
+Installing the SIM card and battery
+
+Before you can start exploring your new phone, you‘ll need to set it up.
+
+1 To remove the back cover, hold the phone firmly in one hand. With your other hand,
+lift off the back cover with your thumbnail as shown in figure below.
+
+ 
+
+2 Slide the SIM card into the lower slot for the SIM card as shown in figure. Make
+sure the gold contact area on the card is facing downwards.
+
+ 
+
+3 Insert the battery into place by aligning the gold contacts on the phone and the
+battery (1) and pressing it down until it clicks into place (2).
+
+ 
+
+4 Align the back cover over the battery compartment (1) and press it down until it
+clicks into place (2).
+
+ 
+
+Charging your phone
+
+Charge the battery before using it for the first time. Use the charger to charge the
+battery. A computer can be also used to charge the device by connecting them via the
+USB cable.
+
+A WARNING
+
+Use only LGeapproved chargers, batteries and cables. If you use unapproved
+chargers, batteries or cables, it may cause battery charging delay or pop up
+message regarding slow charging, or this can cause the battery to explode or
+damage the device, which are not covered by the warranty.
+
+The charger connector is at the bottom of the phone. Insert the charger and plug it into
+an electrical outlet.
+
+ 
+
+NOTE:
+- The battery must be fully charged initially to improve battery lifetime.
+- Do not open the back cover while your phone is charging.
+
+Using the memory card
+
+Your phone supports the use of microSDTM, microSDHCW or microSDXCW memory
+cards of up to 2TB capacity. These memory cards are specifically designed for mobile
+phones and other ultra-small devices and are ideal for storing media-rich files such as
+music, programs, videos, and photographs for use with your phone.
+
+To insert a memory card:
+
+Insert the memory card into the upper slot for the memory card. Make sure the gold
+contact area of Memory card is facing downwards.
+
+To safely remove the memory card:
+
+Touch d > Apps tab > El Settings > General tab > Storage & USB > SD card 9
+tab.
+
+ 
+
+NOTE:
+
+- Use only compatible memory cards with your phone. Using incompatible
+memory cards may damage the card and data stored on the card, as well
+as the phone.
+
+- It‘s important to unmount the memory card prior to removing it from the
+phone to avoid damage to it or the data saved on the card.
+
+To format the memory card:
+Your memory card may already be formatted. If it isn‘t, you must format it before you
+can use it.
+
+NOTE: All files on your memory card are deleted when it is formatted.
+
+1 Touch t 1 to open the application list.
+
+2 Scroll and touch El Settings > General tab > Storage & USB.
+3 Touch SD card.
+
+4 Touch a option > Settings > Format.
+
+NOTE: If there is content on your memory card, the folder structure may be
+different after formatting, as all the files will have been deleted.
+
+Locking and unlocking the screen
+
+If you do not use the phone for a while, the screen will be automatically turned off and
+locked. This helps to prevent accidental taps and saves battery power.
+
+When you are not using the phone, press the Power/Lock key Q to lock your phone.
+If there are any programs running when you lock your screen, they may be still running
+in Lock mode. It is recommended that you exit all programs before entering Lock mode
+to avoid unnecessary charges (eg. phone calls, web access and data communications).
+To wake up your phone, press the Power/Lock key Q. The Lock screen will appear.
+Touch and slide the Lock screen in any direction to unlock your Home screen. The last
+screen you viewed will open.
+
+Knock Code
+The Knock Code feature allows you to tap the screen with your own Knock Code
+pattern using the screen divided by 4 squares to easily turn the screen on or off. You
+can disable this feature in the Lock screen settings.
+
+NOTE:
+
+- If you enter the wrong Knock Code 6 times, it will compulsorily take you to
+
+your Google account log in/backup PIN.
+- Use the fingertip instead of finger nail to tap the screen for turning it on or
+
+off.
+- When the Knock Code is not in use, you can use KnockON function by
+
+tapping the screen.
+
+1 From the Home screen, tap the (pi Apps Key > El Settings > Display tab.
+2 Tap Lock screen > Select screen lock > Knock Code.
+3 Tap the squares in a pattern to set your knock code.
+
+ 
+
+Unlock the screen using the Knock Code
+You can unlock the screen by tapping the Knock Code pattern you already set.
+
+1 When the screen turns off, press the Power key.
+2 Tap the Knock Code pattern you set before.
+
+28
+
+KnockON
+
+You can lock or unlock the screen byjust double-tap.
+
+Double-tap the centre screen quickly to unlock the screen. To lock the screen, double-
+tap the status bar in any screen (except on the camera viewfinder) or empty area on the
+Home screen.
+
+NOTE: When turning the screen on, make sure you do not cover the
+proximity sensor. Doing so will turn the screen off immediately after turning it
+on in order to prevent abnormal turning on in your pocket or bag.
+
+Stereo headset with microphone
+With the headset connected, you can enjoy music or video with stereo sound, and
+easily switch from your music/video to take and end calls.
+
+< Front >
+Volume Up/Down Buttons
+-
+IUEILBII
+Call/End Button
+- For an incoming call, press to receive or end a call.
+
+- When you listen to music, press to stop playback or resume.
+Press twice to play the next track.
+
+< Back >
+
+E Microphone
+
+1 Plug in the headset as shown below.
+
+Q
+
+V
+‘I—E/
+
+i
+
+=3
+
+2 If a call is coming when the headset is connected to the phone, press the to
+take the call.
+
+3 To end the call, press the again.
+
+Your Home screen
+
+Touch screen tips
+
+Here are some tips on how to navigate on your phone.
+
+Tap or touch —A single finger tap selects items, links, shortcuts and letters on the
+on-screen keyboard.
+
+Touch and hold —Touch and hold an item on the screen by tapping it and not lifting
+your finger until an action occurs. For example, to open a contact‘s available options,
+touch and hold the contact in the Contacts list until the context menu opens.
+
+Drag —Touch and hold an item for a moment and then, without lifting your finger, move
+your finger on the screen until you reach the target position. You can drag items on the
+Home screen to reposition them.
+
+Swipe or slide —To swipe or slide, quickly move your finger across the surface of the
+screen, without pausing when you first tap it (so you don't drag an item instead). For
+example, you can slide the screen up or down to scroll through a list, or browse through
+the different Home screens by swiping from left to right (and vice versa).
+
+Double-tap — Double-tap to zoom on a webpage or a image. For example, quickly
+double-tap a section of a webpage to adjust that section to fit the width of the screen.
+You can also double-tap to zoom in and out while viewing the picture.
+
+Pinch-to—Zoom — Use your index finger and thumb in a pinching or spreading motion
+to zoom in or out when using the browser or Maps, orwhen browsing pictures.
+
+Rotate the screen — From many applications and menus, the orientation of the screen
+adjusts to the device‘s physical orientation.
+
+NOTE:
+
+- To select an item, tap the centre of the icon.
+
+- Do not press too hard; the tap screen is sensitive enough to pick up a light,
+yet firm tap.
+
+- Use the tip of your finger to tap the option you want. Be careful not to tap
+any other keys.
+
+Your Home screen
+
+Home screen
+
+The Home screen is the starting point for many applications and functions, and it allows
+you to add items like application shortcuts, or Google widgets to give you instant access
+to information and applications. This is the default canvas and accessible from any
+menu by tapping 0.
+
+Status Bar
+
+Shows phone‘s status information including the time,
+signal strength, battery status, and notification icons.
+Widget
+
+Widgets are self-contained applications that can be
+accessed through the Apps screen or on the Home
+screen or an extended home screen. Unlike a shortcut,
+the Widget appears as an on-screen application.
+Application Icons
+
+Tap an icon (application, folder, etc.) to open and use it.
+
+Location Indicator
+
+Indicates which Home screen canvas you are viewing.
+Quick Key Area
+
+Provides one-touch access to the function in any home
+screen canvas.
+
+Home touch buttons
+
+ 
+
+Extended home screen
+The operating system provides multiple Home screen canvases to provide more space
+for adding icons, widgets, and more.
+
+, Slide your finger left or right across the Home screen.
+
+Customizing the Home screen
+
+You can customize your Home screen by adding apps, widgets or changing wallpapers.
+To add items on your Home screen
+
+1 Touch and hold the empty part of the Home screen.
+
+2 In the apps menu, select the item you wish to add. You will then see this added
+item on the Home screen.
+
+3 Drag it to the desired location and lift your finger.
+
+TIP! To add an application icon to the Home screen from the Apps menu,
+touch and hold the application you want to add.
+
+To remove an item from the Home screen
+, Home screen > touch and hold the icon you want to remove > drag it to E.
+To add an app as a Quick key
+, From the Apps menu or on the Home screen, touch and hold an application icon
+and drag it to the Quick key area. Up to 7 apps can be added.
+To remove an app from the Quick key area
+, Touch and hold the desired quick key and drag it to E.
+
+NOTE: E3 Apps key cannot be removed.
+
+To customize apps icons on the Home screen
+
+1 Touch and hold an application icon until it is unlocked from its current position.
+Then drop it on the screen. The editing icon 0 will appear in the upper right
+corner of the application.
+
+2 Tap the application icon again and select the desired icon design and size.
+
+3 Tap 0K to save the change.
+
+Your Home screen
+
+Returning to recently-used applications
+
+1 Tap El. A list of recently used applications will be displayed.
+2 Tap an icon to open the application. Or tap 4 to return to your previous screen.
+
+Notifications panel
+
+Notifications alert you the arrival of new messages, calendar events, and alarms, as
+well as to ongoing events, such as when you are on a call.
+
+When a notification arrives, its icon appears at the top of the screen. Icons for pending
+notifications appear on the left, and system icons such as Wi-Fi or battery strength
+shown on the right.
+
+NOTE: The available options may vary depending on the region or service
+provider.
+
+Pending System
+notifications notifications
+I.
+
+  
+
+Opening the notifications panel
+Swipe down from the status bar to open the notifications panel.
+
+Quick Toggle Area
+
+Tap each quick toggle key to turn it on/off. Touch
+and hold the key to access the settings menu of the
+function. To see more toggle keys, swipe left or right.
+Tap E to remove, add, or rearrange toggle keys.
+
+Notifications
+The current notifications are listed, each with a brief
+description. Tap a notification to view it.
+
+ 
+
+To close the notifications panel, touch and drag the tab
+toward the top of the screen.
+
+Indicator icons on the Status Bar
+Indicator icons appear on the status bar at the top of the screen to report missed calls,
+new messages, calendar events, device status and more.
+
+.igl’Q‘ 4; 3‘ whuizuu
+
+ 
+
+Your Home screen
+
+The icons displayed at the top of the screen provide information about the status of the
+device. The icons listed in the table below are some of the most common ones.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Icon Description Icon Description
+IE No SIM card inserted Ringer is silenced
+I No network signal available In Vibrate mode is on
+Airplane mode is on I] Battery fully charged
+1: Connected to a Wi-Fi network a Battery is charging
+Wired headset connected Eggngaiglgonnected to PC via
+Call in progress E Downloading data
+Missed call a Uploading data
+I Bluetooth is on a GPS is on
+NFC is on New Gmail message available
+E System warning E 2% £3,115le gouts message
+An alarm is set E Choose input method
+E New voicemail available (ll/Itedia server content sharing
+
+ 
+
+ 
+
+ 
+
+ 
+
+Icon Description Icon Description
+
+ 
+
+ 
+
+El Newtext Wi-Fihotspotisactive
+
+ 
+
+ 
+
+I: A song is currently playing
+
+ 
+
+NOTE: The icons location in the status bar may differ according to the
+function or service.
+
+On-screen keyboard
+
+You can enter text using the on-screen keyboard. The on-screen keyboard appears
+automatically on the screen when you need to enter text. To manually display the
+keyboard, simply tap a text field where you want to enter text.
+
+Using the keypad & entering text
+
+nTap once to capitalize the next letter you type. Double-tap for all caps.
+
+mTap to switch to the numbers and symbols keyboard.
+
+ﬁTap to access the keyboard settings. Touch and hold to access voice input mode,
+handwriting mode or Clip Tray.
+
+-Tap to enter a space.
+
+CjTap to create a new line.
+
+.Tap to delete the previous character.
+
+Entering accented letters
+
+When you select French or Spanish as the text entry language, you can enter special
+French or Spanish characters (eg. "a").
+
+For example, to input "a", touch and hold the "a" key until the zoom-in key grows
+bigger and displays characters from different languages.
+
+Then select the special character you want.
+
+Google account setup
+
+When you first turn on your phone, you have the opportunity to activate the network, to
+sign into your Google Account and select how you want to use certain Google services.
+
+To set up your Google account:
+
+- Sign into a Google Account from the prompted set-up screen.
+0R
+- Tap O > E] > Apps tab > select a Google application, such as Gmail > GOT IT >
+select Add an email address to create a new account or add your account.
+Once you have set up your Google account on your phone, your phone automatically
+synchronizes with your Google account on the Web.
+Your contacts, Gmail messages, Calendar events and other information from these
+applications and services on the Web are synchronized with your phone. (T his will
+depend on your synchronization settings.)
+After signing in, you can use GmailTM and take advantage of Google services on your
+phone.
+
+Connecting to Networks and Devices
+Wi-Fi
+
+With Wi-Fi, you can use high-speed Internet access within the coverage of the wireless
+access point (AP). Enjoy wireless Internet using Wi-Fi, without extra charges.
+
+Connecting to Wi-Fi networks
+
+To use Wi-Fi on your phone, you need to access a wireless access point or ’hotspot'.
+Some access points are open and you can simply connect to them. Others are hidden
+or use security features; you must configure your phone to be able to connect to them.
+Turn off Wi-Fi when you‘re not using it to extend the life of your battery.
+
+NOTE: If you are out of the WieFi zone or have set WieFi to OFF, additional
+charges may be applied by your mobile operator for mobile data use.
+
+Turning Wi-Fi on and connecting to a Wi-Fi network
+
+1 Tap O > > Apps tab > E] Settings > Networks tab > Wi-Fi.
+
+2 Set Wi-Fi to UN to turn it on and start scanning for available Wi-Fi networks.
+
+3 Tap the Wi-Fi menu again to see a list of active and in-rangeWi-Fi networks.
+- Secured networks are indicated by a lock icon.
+
+4 Tap a network to connect to it.
+- If the network is secured, you are prompted to enter a password or other
+
+credentials. (Ask your network administrator for details)
+5 The status bar displays icons that indicate Wi-Fi status.
+
+Bluetooth
+
+You can use Bluetooth to send data by running a corresponding application, but not
+from the Bluetooth menu as on most other mobile phones.
+
+NOTE:
+
+- LG is not responsible for the loss, interception or misuse of data sent or
+received via the Bluetooth wireless feature.
+
+- Always ensure that you share and receive data with devices that are trusted
+and properly secured. If there are obstacles between the devices, the
+operating distance may be reduced.
+
+- Some devices, especially those that are not tested or approved by
+Bluetooth SIG, may be incompatible with your device.
+
+Turning on Bluetooth and pairing up your phone with a Bluetooth device
+
+You must pair your device with another device before you connect to it.
+
+1 Tap O > tn] > Apps tab > [a Settings > Networks tab > set Bluetooth to ON.
+2 Tap the Bluetooth menu again.
+
+3 Choose the device you want to pair with from the list.
+
+Once the paring is successful, your device will connect to the other device.
+
+NOTE: Some devices, especially headsets or handsefree car kits, may have a
+fixed Bluetooth PIN, such as 0000. If the other device has a PIN, you will be
+asked to enter it.
+
+Send data using the Bluetooth wireless feature
+
+1 Select a file or item, such as a contact, calendar event or media file, from an
+appropriate application or from Downloads.
+
+2 Select the option for sending data via Bluetooth.
+
+NOTE: The method for selecting an option may vary by data type.
+
+3 Search for and pair with a Bluetooth-enabled device.
+
+Receive data using the Bluetooth wireless feature
+1 Tap O > a > Apps tab > E} Settings > Networks tab > set Bluetooth to ON.
+2 Select PAIR to confirm that you are willing to receive data from the device.
+
+Sharing your phone's data connection
+
+USB tethering and portable Wi-Fi hotspot are great features when there are no wireless
+connections available. You can share your phone‘s mobile data connection with a
+single computer via a USB cable (USB tethering). You can also share your phone‘s data
+connection with more than one device at a time by turning your phone into a portable
+Wi-Fi hotspot.
+
+When your phone is sharing its data connection, an icon appears in the status bar and
+as an ongoing notification in the notifications drawer.
+
+For the latest information about tethering and portable hotspots, including supported
+operating systems and other details, visit http://wwwandroid.com/tether.
+
+To share phone's data connection as a portable Wi-Fi hotspot
+
+1 Tap O > (5] > Apps tab > E Settings > Networks tab > Tethering > Wi-Fi
+hotspot switch to activate.
+
+2 Enter a password and tap Save.
+
+TIP! If your computer is running Windows 7 or a recent distribution of some
+flavours of Linux (such as Ubuntu), you will not usually need to prepare your
+computer for tethering. But, if you are running an earlier version of Windows
+or another operating system, you may need to prepare your computer to
+establish a network connection via USB. For the most current information
+about which operating systems support USB tethering and how to configure
+them, visit http://www.android.com/tether.
+
+To rename or secure your portable hotspot
+You can change the name of your phone‘s Wi-Fi network name (SSID) and secure its
+Wi-Fi network.
+1 Tap O > jgz] > Apps tab > a Settings > Networks tab > Tethering > Wi-Fi
+hotspot.
+2 Tap Set up Wi-Fi hotspot.
+- The Set up Wi-Fi hotspot dialogue box will open.
+- You can change the Wi-Fi name (SSID) that other devices see when scanning for
+Wi-Fi networks.
+- You can also tap the Security menu to configure the network with Wi-Fi Protected
+Access 2 (WPA2) security using a pre-shared key (PSK).
+- If you touch the WPA2 PSK security option, a password field is added to the Set
+up Wi-Fi hotspot dialogue box. If you enter a password, you will need to enter
+that password when you connect to the phone‘s hotspot with a computer or other
+
+device. You can set Open in the Security menu to remove security from your Wi-Fi
+network.
+
+3 Tap Save.
+
+ATI'ENTION! If you set the security option as Open, you cannot prevent
+unauthorised usage of online services by other people and additional charges
+may be incurred. To avoid unauthorised usage, you are advised to keep the
+security option active.
+
+Wi-Fi Direct
+
+Wi-Fi Direct supports a direct connection between Wi-Fi enabled devices without an
+access point. Due to the high battery usage of Wi-Fi direct, it is recommended that you
+plug your phone into a power outlet while using the Wi-Fi Direct feature. Check your
+Wi-Fi &Wi-Fi Directed network in advance and make sure the users are connected to
+the same network.
+
+To turn on Wi-Fi Direct:
+
+1 Tap O > d > Apps tab > I3 Settings > Networks tab > Wi-Fi.
+
+2 Tap the Menu Key 3 > Advanced Wi-Fi > Wi-Fi Direct.
+
+3 Select a device to connect with from the scanned device list.
+
+Using SmartShare
+
+SmartShare uses DLNA (Digital Living Network Alliance) technology to share digital content
+through a wireless network. Both devices must be DLNA certified to support this feature.
+You can enjoy SmartShare feature on Gallery and Music.
+1 0n the content you want to play or beam, tap or Menu Key n > SmartShare.
+2 Tap Play or Beam in the dialog box.
+- Play: You can stream your content via TV, Bluetooth speaker, etc.
+- Beam: You can send your content to Bluetooth devices or SmartShare Beam*—
+supported LG phones or tablets.
+*SmaItShare Beam quickly transfers multimedia contents through Wi-Fi Direct.
+3 Tap the device to play or receive on the list.
+
+- If the device is not on the list, make sure on the device that Wi-Fi, Wi-Fi Direct, or
+Bluetooth connection is turned on.And tap Rescan.
+4 Tap Send.
+To enjoy content from nearby devices such as a computer or mobile device on
+your phone
+1 To connect the nearby devices to your phone, tap Nearby devices on Gallery, Music
+application as below.
+<Gallery> <Music>
+
+an e I; "44:”:
+
+      
+
+- Ensure that your phone and nearby devices are connected to the same Wi-Fi network.
+- Make sure DLNA feature on the nearby device is turned on.
+2 Tap the device to connect.
+If the device is not on the list, tap Search nearby devices.
+After connection, you can enjoy the contents from the nearby device on your phone.
+
+PC connections with a USB cable
+Learn to connect your device to a PC with a USB cable in USB connection modes.
+
+Transferring music, photos and videos using the USB mass storage mode
+1 Connect your device to a PC using the USB cable that came with your phone.
+2 Open the Notifications panel and select Media device (MTP).
+
+3 A window will pop-up on your PC, allowing you to transfer the desired data.
+
+NOTE:
+
+- The LG Android Platform Driver is required to be installed on your PC to be
+able to detect the phone.
+
+- Check the requirements for using Media device (MTP).
+
+Synchronize with Windows Media Player
+
+Ensure that Windows Media Player is installed on your PC.
+
+1 Use the USB cable to connect the phone to a PC on which Windows Media Player
+has been installed.
+
+2 Select the Media device (MTP) option. When connected, a pop-up window will
+appear on the PC.
+
+3 Open Windows Media Player to synchronize music files.
+
+4 Edit or enter your device's name in the pop-up window (if necessary).
+
+5 Select and drag the music files you want to the sync list.
+
+6 Start synchronization.
+
+- The following requirements must be satisfied to synchronize with Windows Media
+Player.
+
+Items Requirement
+OS Microsoft Windows XP SP2, Vista or higher
+Window Media Player version Windows Media Player 10 or higher
+
+- If the Windows Media Player version is lower than 10, install version 10 or higher.
+
+45
+
+Making a call
+
+1 Tap .to open the keypad.
+
+2 Enter the number using the keypad. To delete a digit, tap the .
+3 Tap to make a call.
+
+4 To end a call, tap the End icon n.
+
+TIP! To enter "+" to make international calls, touch and hold -.
+
+Calling your contacts
+
+1 Tap (.9 to open your contacts.
+
+2 Scroll through the contact list or enter the first few letters of the contact you want
+to call by tapping Search contacts.
+
+3 In thelist, tap L you want to call.
+
+Answering and rejecting a call
+
+When you receive a call in Lock state, swipe the in any direction to Answer the
+incoming call.
+Swipe the . n in any direction to Decline an incoming call.
+
+NOTE: Tap or swipe the Decline with message if you want to send a
+message to the caller.
+
+Adjusting the in-call volume
+
+To adjust the in-call volume during a call, use the Volume up and down keys on the
+back side of the phone.
+
+Making a second call
+
+During your first call, tap Menu key n > Add call and dial the number. You can
+also go to the recently dialled numbers list by tapping Call logs or can search
+contacts by tapping Contacts and selecting the contact you want to call. Also, you
+can search contacts by tapping favourites or Groups.
+
+Tap .to make the call.
+
+Both calls are displayed on the call screen. Your initial call is locked and put on
+hold.
+
+Tap the displayed number to toggle between calls. 0r tap 1 Merge calls to start
+a conference call.
+
+To end active calls, tap End or tap O and slide the notification bar down and
+select the END CALL icon n.
+
+NOTE: You are charged for each call you make.
+
+_.
+
+WM
+
+4;
+
+01
+
+Viewing your call logs
+
+0n the Home screen, tap and choose the Call logs.
+View a complete list of all dialled, received and missed calls.
+
+TIP!
+- Tap any call log entry to view the date, time and duration of the call.
+
+- Tap the Menu key I, then tap Delete all to delete all the recorded items.
+
+Call settings
+You can configure phone call settings such as call forwarding, as well as other special
+features offered by your carrier.
+
+1 0n the Home screen, tap I.
+
+2 Tap I.
+3 Tap Call settings and choose the options that you wish to adjust.
+
+Add contacts to your phone and synchronize them with the contacts in your Google
+account or other accounts that support contact syncing.
+
+Searching for a contact
+
+0n the Home screen
+1 Tap Q.) to open your contacts.
+2 Tap Search contacts and enter the contact name using the keyboard.
+
+Adding a new contact
+
+1 Tap I, enter the new contact‘s number, then tap the Menu key I. Tap Add to
+Contacts > New contact.
+
+2 If you want to add a picture to the new contact, tap the image area.
+Choose from Take photo or Select from Gallery.
+
+3 Tap Add another filed enter the details about your contact.
+
+4 Tap Save.
+
+Favourites contacts
+You can classify frequently called contacts as favourites.
+
+Adding a contact to your favourites
+1 Tap Q.) to open your contacts.
+2 Tap a contact to view its details.
+
+3 Tap the star to the right corner of the contact‘s name. The star will turn yellow
+colour.
+
+Removing a contact from your favourites list
+
+1 Tap Q; to open your contacts.
+
+2 Tap the Favourites tab, and choose a contact to view its details.
+
+3 Tap the yellow colour star to the right corner of the contact‘s name. The star turns
+grey colour and the contact is removed from your favourites.
+
+Creating a group
+
+1 Tap @ to open your contacts.
+
+2 Tap Groups and tap the Menu key I. Select New group.
+
+3 Enter a name for the new group. You can also set a ringtone for the newly created
+group.
+
+4 Tap Save to save the group.
+
+NOTE: If you delete a group, the contacts assigned to that group will not be
+lost. They will remain in your contacts.
+
+Your phone combines SMS, MMS into one intuitive, easy-to-use menu.
+
+Sending a message
+
+1 Tap E on the Home screen and tap to open a blank message.
+
+2 Enter a contact name or contact number in the To field. As you enter the contact
+name, matching contacts will appear. You can tap a suggested recipient. You can
+add more than one contact.
+
+NOTE: You will be charged for a text message for every person to whom you
+send the message.
+
+3 Tap the Enter message field and begin composing your message.
+4 Tap to open the Options menu. Choose from Quick message, Insert smiley,
+Schedule sending, Add subject and Discard.
+
+TIP! You can tap the icon to attach the file, that you want to share with
+message.
+
+5 Tap Send to send your message.
+
+A WARNING:
+
+- The 16070haracter limit may vary from country to country, depending on the
+language and how the SMS is coded.
+
+- If an image, video or audio file is added to an SMS message, it is
+automatically converted into an MMS message and you are charged
+accordingly.
+
+Threaded box
+
+Messages (SMS, MMS) exchanged with another party can be displayed in chronological
+order so that you can conveniently see an overview of your conversation.
+
+Changing your message settings
+
+Your phone message settings are predefined, so you can send messages immediately.
+You can change the settings according to your preferences.
+- Tap T on the Home screen, tap and then tap Settings.
+
+You can use the E-mail application to read emails from services like Gmail. The Email
+application supports the following account types: POP3, IMAP and Exchange.
+
+Your service provider or system administrator can provide you with the account settings
+you need.
+
+Managing an email account
+
+The first time you open the E-mail application, a set-up wizard opens to help you to set
+up an email account.
+
+After the initial set-up, E-mail displays the contents of your inbox.
+
+To add another email account:
+
+- Tap O > E] > Apps tab > e E-mail > tap I > Settings > + Add account.
+To change an email general settings:
+
+- Tap O > E] > Apps tab > e E-mail > tap I > Settings > General settings.
+To delete an email account:
+
+- Tap O > E] > Apps tab > @ E-mail > tap I > Settings > tap I > Remove
+account > Select the account to delete > Remove > select Yes.
+
+Working with account folders
+
+Tap O > E] > Apps tab > e E-mail > tap I and select Folders.
+Each account has an Inbox, 0utbox, Sent and Drafts folder. Depending on the features
+supported by your account‘s service provider, you may have additional folders.
+
+Composing and sending email
+
+To compose and send a message
+
+1 While in the E-mail application, tap the.
+
+2 Enter an address for the message‘s intended recipient. As you enter text, matching
+addresses will be proposed from your Contacts.
+
+3 Tap the Ito add a Cc/Bcc and tap to attach files, if required.
+
+4 Enter the text of the message.
+
+5 Tap I.
+
+TIP! When a new email arrives in your Inbox, you will be notified by a sound
+or vibration.
+
+Camera and Video
+
+You can use the camera or camcorder to take and share pictures and videos. Your
+phone comes with a 13 megapixel camera with an autofocus feature that lets you
+capture sharp pictures and videos.
+
+NOTE: Be sure to clean the protective lens cover with a microfiber cloth
+before taking pictures. A lens cover with smudges from fingers can cause
+blurry pictures with a "halo" effect.
+
+To open the Camera application
+
+From the Home screen, tap the O > E] > Apps tab > Camera 0.
+
+0R
+Tap the Camera icon G from the Home screen.
+
+TIP! If you've set your phone to use the Swipe unlock method, from
+the locked screen, simply press the Power/Lock Key Q, on the back of
+the phone, then drag the Camera icon O upward to open the Camera
+application.
+
+Getting to know the Viewfinder
+
+ 
+
+0 Flash —Taps to turn the flash On, Off or set it to Auto.
+
+9 Swap camera — Tap to swap between the rear camera lens and the front camera
+lens.
+
+9 Mode — Mode to select the mode from Auto, Magic focus, Panorama, Dual and
+SIo—mo.
+
+0 Settings —Tap to adjust the following camera and video settings.
+
+a Gallery — Tap to access your Gallery.
+
+@Video Recording button —Tap to start recording a video.
+
+0 Capture button —Tap to take a photo.
+
+0 Exit —Tap to close the selected menu or exit the Camera app.
+
+Take Pictures
+
+Taking pictures with your phone's built-in camera is as simple as choosing a subject,
+pointing the lens, and pressing a button.
+
+To take a picture:
+
+1 From the Home screen, tap the O > E] > Apps tab > Camera *0“.
+
+2 Frame your subject on the screen.
+
+3 A square around the subject indicates that the camera has focused.
+
+4 Tap @ to take a photo. Your picture will be automatically saved to the Gallery.
+
+Record Videos
+
+In addition to taking pictures, you can record, view, and send videos with your phone's
+built-in video camera.
+
+1 From the Home screen, tap the O > E] > Apps tab > Camera 0.
+
+2 Frame your subject on the screen.
+
+3 Tap 0 to start recording the video.
+
+4 The length of the recording is displayed on the top of the screen.
+
+NOTE: Tap @ to take pictures while recording video.
+
+5 Tap 0to pause recording video. You can resume recording again tapping ..
+OR
+6 Tap O to stop recording. Your video will be automatically saved to the Gallery.
+
+Camera and Video Settings
+
+From the camera mode, tap each icon to adjust the following camera settings.
+
+- Flash I: Taps to turn the flash On, Off or set it to Auto.
+
+- Swap camera I: To swap between the rear camera lens and the front camera lens.
+
+- Mode -: Mode to select the mode from: Auto, Magic focus, Panorama, Dual
+and SIo—mo.
+
+, Auto: Captures a auto photo shot.
+
+, Magic focus: Magic focus lets you choose your focus again after taking a photo.
+
+, Panorama: Creates a wide photo of a panoramic view. Hold the phone horizontally,
+press the shutter to start and slowly sweep the camera across the scene.
+
+, Dual: Captures a photo or recording a video using both of camera lens. Touch and
+hold the small screen to resize or move it.
+
+, SIo—mo: Allows you to record videos at high frame rate so that you can view the
+video as slow motion.
+
+- Settings El: To adjust the following camera and video settings.
+
+, Dynamic tone (HDR): Combines photos taken at multiple exposures into one
+optimal photo to get a better photo in tricky lighting situations.
+
+, Image size: Set the size of your picture. Choose from 13M 4160x3120, W10M
+4160x2340, 9M 3120x3120 or 3M 2048x1536. Set the size of your video. Choose
+from UHD 3840x2160, FHD 1920x1080 or HD 1280x720.
+
+, Cheese shutter: Allows you to take pictures with voice commands. When on, you
+just say "Cheese", "Smile", "Whiskey", "Kimchi", or "LG" to take a picture.
+
+, Timer: Set your camera‘s timer. This is ideal if you want to be a part of the picture.
+
+57
+
+, Grid: It is easily used to take better pictures to keeping horizontal and verticals.
+
+, SD: Set the storage location for your pictures. Choose from IN or SD. This menu
+appears only when the SD card is inserted.
+
+, Help: Allows you to learn how a function works. This icon will provide you with a
+quick guide.
+
+Multi-point Auto Focus
+When you take a picture, the Multi-point Auto Focus (AF) function operates
+automatically and will allow you to see a clear image.
+
+Dual
+
+The Dual feature allows you to take a picture or record video with the front and rear
+cameras at the same time.
+
+1 From the Home screen, tap the O > E] > Apps tab > Camera to).
+
+2 Tap > I.
+
+ 
+
+NOTE: Drag the small screen to move it to your desired location. Touch and
+hold the small screen to resize it. Tap on the small screen to switch screens.
+
+3 Tap G to take a picture. Tap O to start dual recording.
+4 Tap 0 to stop dual recording.
+
+Gesture shot
+The Gesture shot feature allows you to take a picture with a hand gesture using the
+front camera.
+
+To take photo
+
+There are two methods for using the Gesture shot feature.
+
+- Raise your hand, with an open palm, until the front camera detects it and a box
+appears on the screen. Then close your hand into a fist to start the timer, allowing you
+time to get ready.
+
+- Raise your hand, in a clenched fist, until the front camera detects it and a box
+appears on the screen. Then unclench your fist to start the timer, allowing you time to
+get ready.
+
+0f
+
+ 
+
+Super Zooming
+You can use a zoom up to 8 times while taking pictures.
+
+TIP! Will two fingers on the screen, and then to close or open has been using
+the zoom function, this function will automatically run.
+
+NOTE: Use a steady hand. This feature does not work with some functions
+Objects can be overlapped when taking a picture of fastemoving subjects.
+
+View Your Pictures
+
+The Gallery is where you can access the Gallery of stored camera images. You can view
+them in a slideshow, share them with your friends, and delete and edit them.
+
+1 From the Home screen, tap the O > E] > Apps tab > Gallery Isl.
+
+2 Select a location and tap an image to view your picture.
+
+Gallery Options
+
+The Gallery application presents the pictures and videos in your storage, including those
+
+you've taken with the Camera application and those you downloaded from the web or
+
+other locations.
+
+If you have one of your phone's Google Accounts, you'll also see your web albums in
+
+Gallery.
+
+1 From the Home screen, tap the O > E] > Apps tab > Gallery II:-.Ito view the
+images stored in the storage.
+, Drag up or down to view more albums.
+
+2 Tap an album to open it and view its contents. (The pictures and videos in the
+album are displayed in chronological order.)
+
+3 Tap a picture in an album to view it.
+
+ 
+
+, Tap a picture group again to reveal the following icons:
+- Camera: Opens the Camera.
+
+- Share: You can share the picture via various methods such as Messaging or
+Bluetooth.
+
+- E Delete: Deletes the picture.
+
+, Tap a picture in an album then tap Ifor the following options: Move, Copy,
+Make collage, Lock, Show locked files, Slideshow and Rotate.
+, Tap the Back Key 4 to return to the previous screen.
+
+Assign Pictures
+After taking a picture, assign it as a picture ID for a Contacts entry or as the Home
+screen background image (wallpaper).
+1 From the Home screen, tap the O > E] > Apps tab > Gallery g.
+2 Tap an album and tap an image to view it.
+3 With the picture displayed, tap I > Set image as.
+4 Select an option.
+, Contact photo to assign the picture to a Contact entry as a picture ID. Tap an
+entry from Contacts, crop the image and tap OKto assign the picture.
+
+, Lock screen wallpaper to assign the picture as a background image for your lock
+screen.
+
+>Wallpaper to assign the picture as a background image, crop the image and tap
+SET WALLPAPER to assign the picture.
+
+, Home screen to assign the picture as a background image, crop the image and
+tap OK to assign the picture.
+
+Video Options
+
+The Gallery is where you can access the Gallery of stored video images. You can view
+
+them, share them with your friends, and delete and edit them.
+
+From the Home screen, tap the O > E] > Apps tab > Gallery Iglto view the
+
+videos stored in storage.
+
+, Scroll up or down to view more albums.
+
+Tap an album to open it and view its contents. (The pictures and videos in the
+
+album are displayed in chronological order.)
+
+Tap a video to view it. You can access the following options:
+
+,9 Edit: Tap here to edit your video.
+
+>l QSIide: Enables an overlay on your phone's display for easy multitasking.
+
+, SmartShare: Shares media files with DLNA certified devices.
+
+>ﬂ Menu: Tap to access Screen ratio, Subtitles, Share, Details, Settings
+options.
+
+, ﬂ Volume: Tap to display the Volume slider bar, then adjust the playback volume
+on the slider bar.
+
+pH Lock/Unlock: Locks the touch keys to prevent unintentional touches.
+
+Play a Video
+
+1 From the Home screen, tap the O > E] > Apps tab > Gallery Wto view videos
+stored in the storage.
+, Scroll up or down to view more albums.
+
+_.
+
+N
+
+03
+
+2 Tap an album to open it and view its contents. (The pictures and videos in the
+album are displayed in chronological order.)
+
+3 Tap a video in an album to play.
+, Tap the video to view the playback controls.
+
+NOTE: While a video is playing, slide the left side of the screen up or down
+
+to adjust the screen brightness. While a video is playing, slide the right side
+
+of the screen up or down to adjust the sound. While playing a video, tap the
+timeline point to preview that portion of the video via a small screen. Tap the
+small screen to jump to that part of the video. While playing a video, slide your
+finger from left to right (or vice versa) to fasteforward and rewind.
+
+Live Zoom
+
+Live Zoom allows you to zoom in or zoom out on a portion of a video that is being
+played to make the desired section appear larger or smaller.
+
+When viewing a video, use your index finger and thumb in a pinching or spreading
+motion to zoom in or out.
+
+   
+
+NOTE: Do not press too hard; the touch screen is sensitive enough to pick
+up a light, but firm touch.
+
+Dual Play
+
+Dual Play (connected wired or wirelessly two displays) can be run on a different screen.
+
+NOTE: Connect devices using wired (SlimporteHDMl) cable or wirelessly
+(Miracast). The connectable device can be a TV or a monitor supported by
+an HDMI cable or Miracast. The Gallery and Video apps are supported on
+Dual Play. Not all videos are supported by Dual Play. Dual Play operates at
+1280x720 or higher display resolution.
+
+Gallery
+Open the Gallery application to view albums of your pictures and videos.
+
+To open the Gallery application
+- From the Home screen, tap the O > (5] > Apps tab > Gallery :.
+
+Viewing your albums
+
+The Gallery application presents the pictures and videos saved in your phone, including
+
+those you've taken with the Camera application and those you downloaded from the
+
+web or other locations.
+
+- Tap an album to open it and view its contents.
+
+- Tap a picture or video in an album to view it.
+
+- Tap the Menu Key I (at the top right corner of the screen) to access New Album,
+Delete, Set preferred albums, Show locked files, Settings, and Help.
+
+- Tap the Camera icon Ito return to the Camera application.
+
+To share an album
+
+You can share the entire contents of one or more albums or individual images or videos
+
+from an album.
+
+1 From the Home screen, tap the O > E] > Apps tab > Gallery A.
+
+2 Touch and hold the desired album, tap Share, select the application to use to share
+your images, then complete the sending method as necessary.
+
+Working with photos
+
+Use the Gallery application to view pictures that you've taken with the Camera
+
+application, downloaded.
+
+To view and browse photos
+
+1 From the Home screen, tap the O > jg] > Apps tab > Gallery A.
+
+2 Open an album and tap a picture.
+
+3 Tap the Menu Key I (at the top right corner of the screen) to access SmartShare,
+Set image as, Move, Copy, Copy to Clip Tray, Lock, Slideshow, Rotate, Crop, Add
+location, Rename, Print, or Details.
+
+Share Icon
+
+Tap here to share the photo using
+the method you select.
+
+Camera Mode Icon
+Tap here to go to camera mode
+
+   
+  
+  
+   
+   
+ 
+  
+   
+
+Favourite Icon
+Tap to add the picture to your
+favourites.
+
+Delete Icon
+Tap here to delete the photo.
+
+Edit Icon
+
+Tap here to edit your picture. Swipe horizontally to scroll through
+
+the photos in the current album.
+
+To share a Video
+
+1 Open an album to view its contents, then tap the Share icon at the top of the
+Gallery screen.
+
+2 Checkmark the video(s) you want to share, tap Share at the bottom of the screen,
+select how to share the file(s), then complete as necessary.
+
+To delete a Video
+
+1 Open an album to view its contents, then tap the Delete icon E at the top of the
+Gallery screen.
+
+2 Checkmark the video(s) you want to delete, tap Delete at the bottom of the screen,
+then tap Yes to confirm.
+
+QSIide while playing videos
+
+You can play videos in a 0Slide window allowing you to use other applications while the
+
+video is playing.
+
+1 Open the Gallery application and begin playing the video.
+
+2 Tap the OSIide icon @ at the top right corner of the screen to activate the 0Slide
+feature to play the video in a 0Slide window.
+
+3 To close the 0Slide window, tap the in the upper-right corner of its title bar.
+
+Capture+
+
+The Capture+ allows you to create memos and capture screen shots. Capture screens,
+draw on them and share them with family and friends with Capture+.
+
+1 (While screen is switched off) Press
+and hold the Volume Up key.
+OR
+
+Touch and slide the status bar downward
+and tap Ii.
+
+ 
+
+2 Select the desired menu option from
+Size, Transparency and create a
+memo.
+
+ 
+
+3 Tap in the Edit menu to save the
+memo with the current screen. To exit
+Capture+ at any time, tap <1.
+
+ 
+
+NOTE: Please use a fingertip while using the Capture+. Do not use your
+fingernail.
+
+Using the Capture+ options
+You can easily use the editing tools when using the Capture+.
+
+ 
+
+Save the memo with the current screen in the Gallery or Capture+.
+
+ 
+
+Undo or Redo.
+
+ 
+
+Use complex concept function.
+
+ 
+
+Select Pen type, Size, Transparency and Colour.
+
+Erase the memo that you created.
+
+ 
+
+Slice the image as you want.
+
+ 
+
+ 
+
+IEEHHIK
+
+Option: Tap to choose Share, Paper style for the memo.
+
+ 
+
+Viewing the saved Capture+
+Tap Capture+/Gallery and select the Capture+ album.
+
+68
+
+QSIide
+
+From any screen, bring up a notepad, calendar, and more as a window inside your
+screen.
+
+ 
+
+ 
+
+ 
+
+ﬁ?‘ 0 E] Tap to exit the 0Slide and return to
+If 13:: full window.
+7 o 9 I] Swipeto adjusttransparency.
+I , a j 9 Tap to end the 0Slide.
+I 2 a . o A Swipeto adjustthe size.
+‘i I»%
+<1 0 El
+kg!
+
+ 
+
+ 
+
+1 Touch and slide the Status bar downward and tap QSIide to view the available
+0Slide apps.
+
+TIP! Also, while using applications that support OSIide, tap I > OSIide. The
+function is displayed as a small window on your screen.
+
+2 You can make a call, browse the Web, or choose other phone options. You can also
+use and tap the screen under the small windows when the transparency bar is not
+full —.
+
+NOTE: The OSIide can support up to two windows at the same time.
+
+QuickRemote
+
+QuickRemote turns your phone into a Universal Remote for your home TV, Set top box,
+audio system.
+
+1 Touch and slide the status bar
+1 downwards and tap D > ADD
+
+REMOTE.
+0R
+
+@0>E]>Appstab>
+9°. QuickRemote > tap I.
+
+ 
+
+2 Select the type and brand of device,
+then follow the on-screen instructions
+“ 9W” to configure the device(s).
+I. —I—
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 Touch and slide the status bar
+
+I: downwards and use QuickRemote
+‘ functions.
+
+‘.0
+
+NOTE: The QuickRemote operates the same way as an ordinary remote
+
+control infrared (IR) signals. Be careful not to cover the infrared sensor at the top
+
+of the phone when you use the QuickRemote function. This function may not
+W be supported depending on the model, the manufacturer or service company.
+
+ 
+
+Smart Keyboard
+
+Smart Keyboard recognizes your keyboard input habit and provide your own keyboard
+quickly inputting without errors.
+
+Move cursor using space bar
+
+Touch and hold the space bar and left or right to move
+the cursor.
+
+ 
+
+Enter suggested word using gesture
+control
+
+Enter text on the keyboard and the related word
+suggestions appear. Flick upward on the left to select the
+
+t left-side suggestion. Flick upward on the right to select
+
+um an..."
+ll an IE III II
+
+ungrguI
+
+u the right-side suggestion.
+
+I
+“Mgr,“
+QUINN-
+ﬂﬁﬂ Q I.
+
+LG SmartWorId
+
+LG SmartWorld offers an assortment of exciting content — fonts, themes, games,
+applications.
+
+How to Get to LG SmartWorId from Your Phone
+
+1 Tap O > E] > Apps tab > tap the (9 icon to access LG SmartWorld.
+2 Tap Sign in and enter ID/PW for LG SmartWorld. If you have not signed up yet, tap
+Register to receive your LG SmartWorld membership.
+3 Download the content you want.
+* When you use Cellular network, data fee could be charged by data plan that you
+signed-up with carrier.
+* LG SmartWorld may not be available from all carriers or in all countries.
+
+NOTE: What if there is no (9 icon?
+
+1 Using a mobile Web browser, access LG SmartWorld (www.lgworld.com)
+and select your country.
+
+2 Download the LG SmartWorld App.
+
+3 Run and install the downloaded file.
+
+4 Access LG SmartWorld by tapping the ('3) icon.
+
+Special benefit only in LG SmartWorld
+
+1 Decorate your own style on your Smartphone, use Home Theme &
+Keyboard Theme & Font that provided on LG SmartWorld. (However this
+service is available to specific device. Please check in LG SmartWorld
+website whether it is feasible or not.)
+
+2 Enjoy LG SmartWorld's special service by joining promotion that
+consistently provided.
+
+Multimedia
+
+Music
+
+Your phone has a built-in music player that lets you play all your favourite tracks. To
+access the music player, tap O > E] > Apps tab > Music.
+
+Add music files to your phone
+Start by transferring music files to your phone:
+- Transfer music using Media device (MTP).
+
+- Download from the wireless Web.
+
+- Synchronize your phone to a computer.
+
+- Receive files via Bluetooth.
+
+Transfer music using Media device (MTP)
+1 Connect the phone to your PC using the USB cable.
+2 Select the Media device (MTP) option. Your phone will appear as another hard
+
+drive on your computer. Click on the drive to view it. Copy the files from your PC to
+the drive folder.
+
+3 When you're finished transferring files, swipe down on the Status Bar and tap USB
+PC connection > Charge phone. You may now safely unplug your device.
+
+Playing a song
+
+1 Tap O > E> Apps tab > Music.
+2 Tap Songs.
+
+3 Select the song you want to play.
+
+ 
+
+II Tap to pause playback.
+
+ 
+
+> Tap to resume playback.
+
+ 
+
+Tap to skip to the next track in the album, playlist, or shuffle. Touch and hold
+to fast forward.
+
+Tap to restart the current track or skip to the previous track in the album,
+playlist, or shuffle. Touch and hold to rewind. 73
+
+ 
+
+ 
+
+ 
+
+‘3 Tap to display the Volume slider bar, then adjust the playback volume on the
+slider bar.
+
+Tap to set audio effects.
+
+Tap to open the current playlist.
+
+Tap to add the song to your favourites.
+
+Tap to play the current playlist in shuffle mode (tracks are played in random
+order).
+
+Tap to toggle through the repeat modes to repeat all songs, repeat current
+song, or repeat off.
+
+Tap to share your music via the SmartShare funtion.
+
+To change the volume While listening to music, press the up and down volume keys on
+the back side of the phone.
+
+Touch and hold any song in the list. The Play, Add to playlist, Delete, Share, Set as
+ringtone and Search options will be displayed.
+
+NOTE:
+
+- Some file formats are not supported, depending on the device software.
+
+- If the file size exceeds the available memory, an error can occur when you
+open files.
+
+NOTE: Music file copyrights may be protected by international treaties and
+national copyright laws.
+
+Therefore, it may be necessary to obtain permission or a licence to reproduce
+or copy music.
+
+In some countries, national laws prohibit private copying of copyrighted
+material. Before downloading or copying the file, check the national laws of
+the relevant country concerning the use of such material.
+
+Utilities
+Setting your alarm
+
+1 Tap O > E]> Apps tab > ICIock > o.
+
+2 After you set the alarm, your phone lets you know how much time is left before the
+alarm will go off.
+
+3 Set Repeat, Snooze duration, Alarm with vibration, Alarm sound, Alarm
+volume, Auto-start app, Puzzle lock and Memo. Tap SAVE.
+
+NOTE: To change alarm settings in the alarm list screen, tap the Menu key
+I and select Settings.
+
+Using your calculator
+
+1 Tap O > E] > Apps tab > E Calculator.
+
+2 Tap the number keys to enter numbers.
+
+3 For simple calculations, tap the function you want to perform (+, —, x or +) followed
+by =.
+
+4 To check the history, tap the icon I, then tap Calculation history.
+
+5 For more complex calculations, tap the Menu Key I, then tap Scientific
+calculator.
+
+Adding an event to your calendar
+
+1 Tap O > E] > Apps tab > g Calendar.
+
+2 0n the screen, you can find the different view types for the Calendar (Day, Week,
+Month, Year, Agenda).
+
+3 Tap on the date for which you wish to add an event and tap o.
+
+4 Tap Event name and enter the event name.
+
+5 Tap Location and enter the location. Check the date and enter the time you wish
+your event to start and finish.
+
+6 If you wish to repeat the alarm, set REPEAT and set REMINDERS, if necessary.
+
+75
+
+7 Tap SAVE to save the event in the calendar.
+
+Voice Recorder
+Use the voice recorder to record voice memos or other audio files.
+
+Recording a sound or voice
+
+1 Tap O > E] > Apps tab > Voice Recorder.
+2 Tap 0 to begin recording.
+
+3 Tap l to end therecording.
+
+4 Tap > to listen to the recording.
+
+NOTE: Tap :E to access your Recorded files. You can listen to the saved
+recording. The available recording time may differ from actual recording time.
+
+Sending the voice recording
+
+1 Once you have finished recording, you can send the audio clip by tapping I.
+
+2 Choose from E-mail, Messaging, Capture+, Bluetooth, Gmail, SmartShare
+Beam, Drive or Android Beam. or When you select E-mail, Messaging,
+Capture+, Bluetooth, Gmail, SmartShare Beam, Drive and Android Beam
+the voice recording is added to the message. You may then write and send the
+message as you usually would.
+
+Tasks
+
+This task can be synchronized with MS Exchange account. You can create task, revise it
+and delete it in MS outlook or MS Office Outlook Web Access.
+
+To Synchronize MS Exchange
+
+1 From the Home Screen, tap O > E] > Apps tab > a Settings.
+
+76
+
+2 Tap General tab > Accounts & sync > Add account.
+3 Tap Microsoft Exchange to create Email address and Password.
+4 Make sure if you checkmark Sync task.
+
+NOTE: MS Exchange may not be supported depending on email server.
+
+Google+
+Use this application to stay connected with people via Google's social network service.
+- Tap O > E] > Apps tab > E Google > @ Google+.
+
+NOTE: This application may not be available depending on the region or
+service provider.
+
+Voice Search
+
+Use this application to search webpages using voice.
+
+1 Tap O > E] > Apps tab > Google > S Voice Search.
+
+2 Say a keyword or phrase when Listening... appears on the screen. Select one of
+the suggested keywords that appear.
+
+NOTE: This application may not be available depending on the region or
+service provider.
+
+Downloads
+
+Use this application to see whaLﬁIes have been downloaded through the applications.
+- Tap O > E] > Apps tab > Downloads.
+
+NOTE: This application may not be available depending on the region or
+service provider.
+
+The Web
+
+Internet
+
+Use this application to browse the Internet. Browser gives you a fast, full-colour world of
+games, music, news, sports, entertainment and much more, right on your mobile phone
+Wherever you are and Whatever you enjoy.
+
+NOTE: Additional charges apply when connecting to these services and
+downloading content. Check data charges with your network provider.
+
+1 Tap O > E] > Apps tab > @ Internet.
+Using the Web toolbar
+Tap slide it downwards with your finger to open.
+
+Tap to go back one page.
+
+Tap to go forward one page, to the page you connected to after the current
+one. This is the opposite of what happens when you tap 4.
+
+E Tap to go to the Home page.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tap to add a new Window.
+
+ 
+
+ 
+
+Tap to access bookmarks.
+
+ 
+
+Viewing webpages
+Tap the address field, enter the web address and tap Go.
+
+Opening a page
+
+To go to new page, tap -> I.
+To go to another webpage, tap I, scroll up or down, and tap the page to select it.
+
+Searching the web by voice
+Tap the address field, tap \‘2 , speak a keyword, and then select one of the suggested
+keywords that appear.
+
+NOTE: This feature may not be available depending on the region or service
+provider.
+
+Bookmarks
+To bookmark the current webpage, tap I > Add bookmark > SAVE.
+To open a bookmarked webpage, tap and select one.
+
+History
+Tap IE > History to open a webpage from the list of recently-visited webpages. To
+clear all history, tap E -> YES.
+
+Using Popup Browser
+
+Use this feature to access the Internet Without closing the current application [a
+While viewing content, such as contacts or notes that include web addresses, select a
+web address and then tap Popup Browser to open the pop-up browser. Touch and drag
+the browser to move it to another location.
+
+To view the browser in full screen, tap E].
+
+To close the browser, tap I.
+
+Chrome
+Use Chrome to search for information and browse webpages.
+1 Tap O > E] > Apps tab > (,0. Chrome.
+
+NOTE: This application may not be available, depending on your region and
+service provider.
+
+Viewing webpages
+Tap the Address field, and then enter a web address or search criteria.
+
+Opening a page
+To goto a new page, tab Menu key I -* New tab.
+To go to another webpage, tap |:|, scroll up or down and tap the page to select it.
+
+Syncing With other devices
+
+Sync open tabs and bookmarks to use with Chrome on another device when you are
+logged in with the same Google account.
+
+To view open tabs on other devices, tap Menu key 5 -> Recent tabs.
+
+Select a webpage to open.
+
+To add bookmarks, tap Menu key 5 -> E.
+
+This section provides an overview of items you can change using your phone‘s System
+settings menus.
+
+To access the Settings menu:
+
+Tap O > Touch and hold D > System settings.
+
+_ or _
+
+Tap O > E] > Apps tab > El Settings.
+
+Networks
+
+< Wi-Fi >
+Wi-Fi —Turns on Wi-Fi to connect to available Wi-Fi networks.
+
+TIP! How to obtain the MAC address
+To set up a connection in some wireless networks with MAC filters, you may
+need to enter the MAC address of your phone in the router.
+
+You can find the MAC address in the following user interface: tap O > E] >
+
+Apps tab > E Settings > Networks tab > Wi-Fi > I > Advanced Wi-Fi >
+MAC address.
+
+< Bluetooth >
+Turn the Bluetooth wireless feature on or off to use Bluetooth.
+
+< Mobile data >
+Displays the data usage and set mobile data usage limit.
+
+< Call >
+
+Configure phone call settings such as call forwarding and other special features offered
+by your carrier.
+
+Voicemail — Allows you to select your carrier's voicemail service.
+
+Fixed dialing numbers —Turn on and compile a list of numbers that can be called
+from your phone. You'll need your PIN2, which is available from your operator. Only
+
+numbers within the fixed dial list can be called from your phone. —
+
+Incoming voice call pop-up — Display incoming voice call pop-up when an app is in
+use.
+Call reject —Allows you to set the call reject function. Choose from Call reject mode
+or Reject calls from.
+Decline with message —When you want to reject a call, you can send a quick
+message using this function. This is useful if you need to reject a call during a meeting.
+Call forwarding — Choose Whether to divert all calls when the line is busy, when there
+is no answer or when you have no signal.
+Auto answer — Set the time before a connected hands-free device automatically
+answers an incoming call. Choose from Off, 1 sec, 3 sec and 5 sec.
+Connection vibration — Vibrates your phone when the other party answers the call.
+Noise suppression — Suppresses background noise on your device during a call.
+Voice enhancement — Enhances voice quality in noisy environments so you can hear
+more clearly.
+Save unknown numbers —Add unknown numbers to contacts after a call.
+Power key ends call —Allows you to select your end call.
+Answer an incoming call — Enable to allow you to bring the device to your ear to
+automatically answer the incoming call.
+Silence incoming calls — Enable to allow you to flip the device to silence incoming
+calls.
+Call barring — Lock incoming, outgoing or international calls.
+Call duration —View the duration of calls including Last call, Outgoing calls,
+Incoming calls and All calls.
+Additional settings — Allows you to change the following settings:
+Caller ID: Choose Whether to display your number in an outgoing call.
+Call waiting: If call waiting is activated, the handset will notify you of an incoming call
+While you are on a call (depending on your network provider).
+
+< Share & connect >
+NFC — Your phone is an NFC-enabled mobile phone. NFC (Near Field Communication) is a
+wireless connectivity technology that enables two-way communication between electronic
+devices. It operates over a distance of a few centimeters. You can share your content with
+an NFC tag or another NFC support device by simply tapping it with your device. If you tap
+an NFC tag with your device, it will display the tag content on your device.
+To switch NFC on or off: From the Home screen, touch and slide the notification
+panel down with your finger, then select the NFC icon to turn it on.
+
+NOTE: When airplane mode is activated, the NFC application can be used.
+
+Using NFC: To use NFC, make sure your device is switched on, and activate NFC if
+disabled.
+Android Beam —When this feature is turned on, you can beam app content to another
+NFC-capable device by holding the devices close together.
+Just bring the device together(typically back to back) and then tap your screen. The app
+determines what gets beamed.
+SmartShare Beam —Turn on to receive multimedia content via Smartshare Beam from
+LG phones or tables.
+Media server — Share media content with nearby devices via DLNA.
+Miracast — Mirror phone screen and sound onto Miracast dongle orTV wirelessly.
+LG PC Suite — Connect LG PC Suite with your phone to easily manage multimedia
+content and apps.
+Printing — Set wireless printer.
+
+< Tethering >
+
+USB tethering — Connect the USB cable to share the internet connection with the
+computer.
+
+Wi-Fi hotspot —You can also use your phone to provide a mobile broadband
+connection. Create a hotspot and share your connection. Please "Sharing phone's
+data connection" for more information.
+
+Bluetooth tethering — Allows you to set your phone whether you are sharing the
+Internet connection or not.
+
+Help —Tap to view help information on the Wi-Fi hotspot, USB tethering and Bluetooth
+tethering functions.
+
+<More>
+
+Airplane mode —After switching to Airplane mode, all Wireless connections are
+disabled.
+
+Mobile networks — Set options for data roaming, network mode & operators, access
+point names (APNs) etc.
+
+VPN — Displays the list ofViItual Private Networks (VPNs) that you‘ve previously
+configured. Allows you to add different types ofVPNs.
+
+Sound & notification
+
+Sound profile — Choose the Sound, either Vibrate only or Silent.
+
+Volume — Adjust the phone‘s volume settings to suit your needs and your environment.
+Ringtone — Set the ringtone for calls. You can also add a ringtone by tapping at the
+top right corner of the screen.
+
+Ringtone ID —Allows to compose ringtones automatically based on the phone number
+of the incoming call.
+
+Vibration strength — Allows you to set the vibrate strength for calls, notifications, and
+Vibrate on tap.
+
+Sound with vibration — Checkmark to set the phone to vibrate in addition to the
+ringtone when you receive calls.
+
+Vibration type — Allows you to set the vibration type for incoming calls. Choose from
+Long Lasting, Rapid, Short repeated, Standard or Ticktock.
+
+Do not disturb — Set a time and mode when your phone doesn't let you know about
+notifications coming in. Choose from Priority only or Total silence.
+
+Lock screen — Set to show or hide all notifications on the lock screen.
+
+84
+
+Apps — Set notification from Apps. Choose from None to show no notifications form the
+Apps, and Priority to show notifications with priority on top of others and when Do not
+disturb set to Priority only.
+
+Notification LED —Tap the switch to toggle it On or Off. Oh will activate the LED light
+for the notifications you select, in the colour you set for each one.
+
+<More>
+Notification sound —Allows you to set the notification sound. You can also add a
+notification sound by tapping in the upper-right corner of the screen.
+Vibrate on tap — Checkmark to vibrate when tapping the Home touch buttons and
+during other UI interactions.
+Sound effects —Tap to set the dial pad touch tones, touch sounds, and screen lock
+sound.
+Dialpad touch sounds — Checkmark to play tones while using dial pad.
+Touch sound — Checkmark to play sound when making screen selection.
+Screen lock sound — Checkmark to play sound when locking and unlocking the
+screen.
+Message/call voice notification —Tap the Message/call voice notification switch
+to toggle it On or Off. On allows your device to read out incoming calls and message
+events automatically.
+
+Display
+
+< HOME & LOCK >
+
+Home screen
+
+Select Home — Set Home or EasyHome as default home.
+
+Smart Bulletin —Tap the Smart Bulletin switch to toggle it On or Off. It includes an
+additional Home screen showing customized information. Checkmark Calendar, LG
+Health, Smart Tips, Music or QuickRemote.
+
+Theme — Sets the screen theme for your device. You can download it from LG
+SmartWorld.
+
+Wallpaper — Sets the wallpaper to use on your Home screen. Select it from Gallery,
+Wallpaper gallery, Live wallpapers, Multi-photo or Photos.
+
+Screen swipe effect — Sets the effect when you swipe to change screens. Choose
+from Slide, Breeze, Accordion, Panorama, Carousel, Layer or Domino.
+
+Allow Home screen looping — Checkmark to allow continuous Home screen scrolling
+(loop back to first screen after last screen).
+
+Help — Displays information regarding the Home screen items and functions.
+
+Lock screen
+
+Select screen lock — Set a screen lock type to secure your phone. Opens a set of
+screens that guide you through drawing a screen unlock pattern. Set None, Swipe,
+Knock Code, Pattern, PIN or Password.
+
+If you have enabled a Pattern lock type when you turn on your phone or wake up the
+screen, you will be asked to draw your unlock pattern to unlock the screen.
+
+Smart Lock — Set when to automatically unlock phone by Trusted devices (BT device
+or NFC) or Trusted face. This function is available when the Lock screen is set to one of
+the Knock Code, Pattern, PIN and Password.
+
+NOTE: To activate this function, Smart Lock must be On.
+Settings > General > Security > Trust agents > Smart Lock.
+
+Screen swipe effects — Sets the screen swipe effect options. Choose from Hula
+hoop, Circle mosaic, Light particle, Vector circle or Soda.
+
+NOTE: This setting name may be Pattern effect if the Screen lock is set to
+Pattern.
+Wallpaper — Sets your Lock screen wallpaper. Select it from Gallery or Wallpaper
+
+gallery.
+Shortcuts —Allows you to change the shortcuts on the Swipe Lock screen.
+
+Weather animation — Checkmark to show weather animation for current location on
+lock screen.
+
+Contact info for lost phone — Checkmark to set the device owner's name to be
+displayed on the Lock screen. Enter the text to be displayed as the Owner info.
+
+Lock timer — Sets the amount of time before the screen automatically locks after the
+screen has timed-out.
+
+Power button instantly locks — Checkmark to instantly lock the screen when the
+Power/Lock Key is pressed. This setting overrides the Security lock timer setting.
+
+Horne touch buttons
+
+Button combination — Drag an icon to rearrange Home touch buttons. You can have
+up to 5 Home touch buttons.
+
+Colour — Sets the background colour for the Home touch buttons. Select it from White
+and Black.
+
+Hide Home touch buttons — Set the Home Touch Keys displayed at the bottom of all
+of the screens. Set which ones are displayed, their position on the bar, and what they
+look like. Select the keys and order, the theme, and the background.
+
+< FONT >
+
+Font type — Sets the type of font used for the phone and menus.
+
+Font size — Sets the size of the font displayed in the phone and menus.
+
+< BASIC SETTINGS >
+
+Brightness — Adjusts the brightness of the screen. For best battery performance, use
+the dimmest comfortable brightness.
+
+Auto-rotate screen — Checkmark to set the phone to automatically rotate the screen
+based on the phone orientation (portrait or landscape).
+
+Screen timeout — Sets the amount of time before the screen times out.
+
+Smart screen — Checkmark to allow the screen to stay on when phone detects your
+face.
+
+< More >
+
+Daydream —Tap the Daydream switch to toggle it On or Off. On allows the set
+screensaver to be displayed when the phone is sleeping While docked or charging.
+Choose from Clock and Google Photos.
+
+Motion sensor calibration — Allows you to improve the accuracy of the tilt and
+speed of the sensor.
+
+General
+
+< Language & keyboard >
+
+Use the Language & keyboard settings to select the language for the text on your
+phone and to configure the on-screen keyboard, including words you‘ve added to its
+dictionary.
+
+Language — Sets the language to use on your device.
+
+Current keyboard — Shows the current keyboard which you set to use.
+
+LG Keyboard — Select the LG Keyboard to enter data.
+
+Google voice typing — Select Google voice typing to enter data.
+
+Text-to-speech output — Sets the preferred speech engine and speech rate (very slow
+to very fast). Also plays a short demonstration of speech synthesis.
+
+Pointer speed — Sets the pointer speed on a slide bar.
+
+Reverse buttons — Reverse the mouse buttons to use primary button on right.
+
+< Location >
+Turn on location service, your phone determines your approximate location using GPS,
+Wi-Fi and mobile networks.
+Mode — Set the location mode.
+High accuracy(GPS and networks) — Use GPS, Wi-Fi and mobile networks to
+estimate location.
+Battery saving(Networks only) — Use Wi-Fi and mobile networks to estimate
+m location.
+
+Device sensors only(GPS only) — Use GPS to pinpoint your location.
+RECENT LOCATION REQUEST — Display apps that have recently requested location
+information.
+
+LOCATION SERVICES
+
+Camera — Checkmark to tag photos or videos with their locations.
+
+Google Location History — Select whether to turn on or off Google Location Reporting
+options. For further information, tap I > Help.
+
+< Accounts & sync >
+
+Permits applications to synchronize data in the background, Whether or not you are
+actively working in them. Deselecting this setting can save battery power and lower (but
+not eliminate) data usage.
+
+< Cloud >
+
+Add a cloud account to quickly and easily use cloud service on LG apps.
+
+< Users >
+
+Checkmark to add users when phone locked.
+
+NOTE: Add user to share the phone with other people. Each user can have
+their own apps and content in their own space. Anyone using the phone can
+change settings like WieFi and accept app updates that will affect everyone.
+Initial setup is required for new users to use phone.
+
+< Accessibility >
+Use the Accessibility settings to configure accessibility plug-ins you have installed on
+your phone.
+Vision
+TalkBack — Allows you to set up the TalkBack function which assists people with
+impaired vision by providing verbal feedback.
+Message/call voice notifications — Tap em to toggle it On or Off. On allows you
+to hear automatic spoken alerts for incoming calls and messages.
+
+Screen shade — Enable to set the screen to a darker contrast.
+Font size — Sets the font size.
+Touch zoom —Allows you to zoom in and out by triple-tapping the screen.
+Screen colour inversion — Enable to invert the colour of the screen and content.
+Screen colour adjustment —Allows you to invert the colour of screen and content.
+Screen colour filter —Allows you to change the colour of screen and content.
+Power key ends call — Enable so that you can end voice calls by pressing the
+Power/Lock Key.
+Heanng
+Captions — Allows you to customize caption settings for those with hearing
+impairments.
+Notification LED —Allows you to activate the LED light for incoming calls and
+notifications.
+Flash alerts — Enable to set the flash to blink for incoming calls and notifications.
+Turn off all sounds — Enable to turn off all device sounds.
+Audio type — Sets the audio type.
+Sound balance — Sets the audio route. Move the slider on the slide bar to set it.
+Motor & cognition
+Touch feedback time — Sets the touch feedback time.
+Touch assistant — Show a touch board with easy access to common actions.
+Screen timeout — Sets the amount of time before the backlight turns off
+automatically.
+Touch control areas — Allows you to select an area of the screen to limit touch
+activation to just that area of the screen.
+Accessibility features shortcut — Allow you to access selected features quickly when
+triple-tapping the Home button.
+Auto-rotate screen — Enable to allow the phone to rotate the screen depending on the
+physical phone orientation (portrait or landscape).
+
+90
+
+Switch Access — Allows you to interact with your device using one or more switches
+that work like keyboard keys. This menu can be helpful for users with mobility
+limitations that prevent them from interacting directly with the your device.
+
+< Shortcut key >
+
+Get quick access to apps by pressing and holding the Volume keys when screen is off
+or locked. Tap the Shortcut key switch [a] at the top right corner of the screen to toggle
+it On or Off.
+
+< Google >
+Allows you to manage settings for Google apps and services.
+
+< Security >
+Content lock — Lock files for Gallery and memos for Capture+.
+Encrypt phone —Allows you to encrypt data on the phone for security. You will be
+required to enter a PIN or password to decrypt your phone each time you power it on.
+Encrypt SD card storage —Allows you to encrypt SD card storage and keep data
+unavailable for other devices.
+Password typing visible — Show the last character of the hidden password as you
+type.
+Phone administrators —View or deactivate phone administrators.
+Unknown source — Default setting to install non-Play store applications.
+Verify apps — Disallow or warn before installation of apps that may cause harm.
+Storage type — Software only.
+Certificate management
+
+Trusted credentials — Display trusted CA certificates.
+
+Install from storage — Choose to install encrypted certificates.
+
+Clear credentials — Remove all certificates.
+Trust agents — Select apps to use Without unlocking screen.
+Screen pin —Allow the app to be the only one used when you pin a screen of an App.
+App usage access — Allows you to view usage information of apps on your phone.
+
+91
+
+< QuickCircle case >
+Activate to make features, such as Call logs, Camera, LG Health, Messaging, Music
+available in small view when using the OuickCircle case.
+
+< Dual Window >
+The two split-screen can be viewed at the same time.
+
+1.Touch and hold the Back button to split the screen.
+
+2. Tap or drag app icon you want to use.
+
+‘I — Switch two screens.
+
+It —View app list.
+
+H — Open full screen.
+
+>< — Close most recent app.
+
+Split view — Checkmark to tap a link on the full screen or attachment from emails to
+run Dual Window automatically.
+
+Help — Display tips for using Dual Window.
+
+< Date & time >
+
+Use Date & time settings to set how dates will be displayed. You can also use these
+settings to set your own time and time zone rather than obtaining the current time from
+the mobile network.
+
+< Storage & USB >
+
+INTERNAL STORAGE — View the internal storage usage.
+
+SD CARD — Check total available SD card space. Touch Unmount SD card for safe
+removal.
+
+< Battery & power saving >
+
+BATTERY INFORMATION
+The Battery charge information is displayed on a battery graphic along with the
+percentage of the remaining charge and its status.
+
+Touch the Battery charge icon to display the Battery use screen to see battery usage
+level and battery use details. It displays which components and applications are using
+the most battery power. Tap one of the entries to see more detailed information.
+Battery usage — It displays the battery graph which is the remaining level based on
+recent 3-hour usage pattern. It also displays which components and applications are
+using the most battery power.
+
+Battery percentage on status bar — Checkmark to display the battery level
+percentage on the Status Bar next to the battery icon.
+
+BATTERY SAVER
+
+Tap the Battery saver switch to toggle it On or Off. Tap Battery saver to access the
+following settings:
+
+Battery saver — Sets the battery charge percent level that will automatically turn on
+Battery saver. Choose from Immediately, 5% battery and 15% battery.
+
+Game optimizer —Adjust video quality in games to save battery.
+
+< Memory >
+Display the average memory use.
+
+< Smart cleaning >
+
+Display the space in use and free in your phone. Tap I at the top right corner of the
+screen to set notification interval and idle time period.
+
+< Apps >
+
+View and manage your applications.
+
+< Default message app >
+
+Set Messaging or Hangouts as default app.
+
+< Backup & reset >
+
+Change the settings for managing your settings and data.
+
+Back up my data — Set to backup your settings and application data to the Google
+server.
+
+Backup account — Set to backup your account.
+
+Automatic restore — Set to restore your settings and application data when the
+applications are reinstalled on your device.
+
+Network settings reset — This will reset all network settings, including Wi-Fi and
+Bluetooth.
+
+Factory data reset — Reset your settings to the factory default values and delete all
+your data. If you reset the phone this way, you are prompted to re-enter the same
+information as when you first started Android.
+
+< About phone >
+View legal information and check your phone status and software version.
+
+PC software (LG PC Suite)
+
+"LG PC Suite" PC software is a program that helps you connect your device to a PC via
+a USB cable and Wi-Fi. Once connected, you can use the functions of your device from
+your PC.
+
+With your "LG PC Suite" PC Software, You Can...
+
+- Manage and play your media contents (music, video, photos) on your PC.
+
+- Send multimedia contents to your device.
+
+- Synchronizes data (calendar, contacts, bookmarks) in your device and PC.
+
+- Backup the applications in your device.
+
+- Update the softwares in your device.
+
+- Play multimedia contents of your PC from your device.
+
+- Backup and create and edit the memos in your device
+
+NOTE: You can use the Help menu from the application to find out how to
+use your "LG PC Suite" PC software.
+
+Installing "LG PC Suite" PC Software
+
+"LG PC Suite" PC software can be downloaded from the webpage of LG.
+
+1 Go to WWW.Ig.com and select a country of your choice.
+
+2 Go to Support > MOBILE SUPPORT > Mobile Phones > Select the Model
+or
+Go to Support > Mobile > Select the Model.
+
+3 Click PC SYNC from DOWNLOAD and click DOWNLOAD to download "LG PC
+Suite" PC software.
+
+System Requirements for "LG PC Suite" PC software
+
+- OS: Windows XP (Service pack 3) 32bit, Windows Vista, Windows 7, Windows 8
+
+- CPU:1 GHz or higher processors
+
+- Memory: 512 MB or higher RAMs
+
+- Graphic card: 1024 x 768 resolution, 32 bit colour or higher
+
+- HDD: 500 MB or more free hard disk space (More free hard disk space may be
+needed depending on the volume of data stored.)
+
+- Required software: LG integrated drivers, Windows Media Player 10 or later
+
+NOTE: LG Integrated USB Driver
+LG integrated USB driver is required to connect an LG device and PC and
+installed automatically when you install "LG PC Suite" PC software application.
+
+Synchronizing your Device to a PC
+
+Data from your device and PC can be synchronized easily with "LG PC Suite"
+
+PC software for your convenience. Contacts, schedules and bookmarks can be
+
+synchronized.
+
+The procedure is as follows:
+
+1 Connect your device to PC. (Use a USB cable orWi-Fi connection.)
+
+2 Slide down the status bar > select Media device (MTP).
+
+3 After connection, run the program and select the device section from the category
+on the left side of the screen.
+
+4 Click Synchronize Personal information to select.
+
+5 Select the checkbox of contents to synchronize and click the Sync button.
+
+NOTE: To synchronize your phone with your PC, you need to install LG PC
+Suite onto your PC. Please refer to previous pages to install LG PC Suite.
+
+Moving contacts from your Old Device to your New Device
+
+1 Export your contacts as a CSV file from your old device to your PC using a PC sync
+program.
+
+2 Install "LG PC Suite" on the PCfirst. Run the program and connect yourAndroid
+mobile phone to the PC using a USB cable.
+
+3 On the top menu, select phone > Import/Export contacts > Export to your
+phone.
+
+4 A popup window to select the file type and a file to export will appear.
+
+5 On the popup, click the Select a file and Windows Explorer will appear.
+
+6 Select the contacts file to export in Windows Explorer and click the Open.
+
+7 Click Export.
+
+8 A Field mapping popup to link the contacts in your device and new contacts data
+will appear.
+
+9 If there is a conflict between the data in your PC contacts and device contacts,
+make the necessary selections or modifications in LG PC Suite.
+
+10 Click OK.
+
+Phone software update
+
+Phone software update
+
+LG Mobile phone software update from the Internet
+
+For more information about using this function, please visit http://WWW.Ig.com/common/
+index.jsp 9 select your country and language.
+
+This feature allows you to conveniently update the firmware on your phone to a newer
+version from the Internet without needing to visit a service centre. This feature will only
+be available if and when LG makes a newer firmware version available for your device.
+Because the mobile phone firmware update requires the user‘s full attention for the
+duration of the update process, please make sure you check all instructions and notes
+that appear at each step before proceeding. Please note that removing the USB data
+cable during the upgrade may seriously damage your mobile phone.
+
+NOTE: LG reserves the right to make firmware updates available only for
+selected models at its own discretion and does not guarantee the availability
+of the newer version of the firmware for all handset models.
+
+LG Mobile Phone software update via Over-the-Air (OTA)
+
+This feature allows you to conveniently update your phone‘s software to a newer
+version via OTA, without connecting using a USB data cable. This feature will only be
+available if and when LG makes a newer firmware version available for your device.
+You should first check the software version on your mobile phone: Settings > General
+tab > About phone > Update Center > Software Update > Check now for update.
+
+NOTE: Your personal data from internal phone storageiincluding
+
+information about your Google account and any other accounts, your system/
+application data and settings, any downloaded applications and your DRM
+licenceimight be lost in the process of updating your phone's software.
+Therefore, LG recommends that you backup your personal data before
+updating your phone's software. LG does not take responsibility for any loss
+of personal data.
+
+NOTE: This feature depends on your network service provider, region and
+country.
+
+About this user guide
+
+About this user guide
+
+- Before using your device, please carefully read this manual. This will ensure that you
+use your phone safely and correctly.
+
+- Some of the images and screenshots provided in this guide may appear differently on
+your phone.
+
+- Your content may differ from the final product, or from software supplied by service
+providers or carriers, This content may be subject to change without prior notice. For
+the latest version of this manual, please visit the LG website at WWW.Ig.com.
+
+- Your phone‘s applications and their functions may vary by country, region, or
+hardware specifications. LG cannot be held liable for any performance issues resulting
+from the use of applications developed by providers other than LG.
+
+- LG cannot be held liable for performance or incompatibility issues resulting from
+edited registry settings being edited or operating system software being modified. Any
+attempt to customize your operating system may cause the device or its applications
+to not work as they should.
+
+- Software, audio, wallpaper, images, and other media supplied with your device are
+licensed for limited use. If you extract and use these materials for commercial or
+other purposes is, you may be infringing copyright laws. As a user, you are fully are
+entirely responsible for the illegal use of media.
+
+- Additional charges may be applied for data services, such as messaging, uploading
+and downloading, auto-syncing, or using location services. To avoid additional
+charges, select a data plan to is suitable for your needs. Contact your service provider
+to obtain additional details.
+
+100
+
+Trademarks
+
+- LG and the LG logo are registered trademarks of LG Electronics.
+
+- Bluetooth® is a registered trademark of Bluetooth SIG, Inc. worldwide.
+
+- Wi-Fi® and the Wi-Fi logo are registered trademarks of the Wi-Fi Alliance.
+
+- All other trademarks and copyrights are the property of their respective owners.
+
+DivX HD 9.3““-
+
+This DivX Certified® device has passed rigorous testing to ensure it plays DivX® video.
+To play purchased DivX movies, first register your device at vod.divx.com. Find your
+registration code in the DivX VOD section of your device setup menu.
+
+DivX Certified® to play DivX® video up to HD 720p, including premium content.
+DivX®, DivX Certified® and associated logos are trademarks of DivX, LLC and are
+used under license.
+
+Dolby Digital Plus [I] BEIIR‘ELUS
+
+Manufactured under license from Dolby Laboratories. Dolby, Dolby Digital Plus,
+and the double-D symbol are trademarks of Dolby Laboratories.
+
+Open Source Software Notice Information
+
+To obtain the source code under GPL, LGPL, MPL, and other open source
+
+licenses, that is contained in this product, please visit http://opensource.lge.com.
+
+In addition to the source code, all referred license terms, warranty disclaimers and
+
+copyright notices are available for download.
+
+LG Electronics will also provide open source code to you on CDPROM for a
+
+charge covering the cost of performing such distribution (such as the cost of
+
+media, shipping, and handling) upon email request to opensource@lge.com.
+
+This offer is valid for three (3) years from the date on which you purchased the
+
+product. _
+101
+
+Accessories
+
+These accessories are available for use with the your phone. (Items described below
+may be optional.)
+
+Travel adaptor Stereo headset
+
+Quick Start Guide Data cable
+
+Battery ;
+
+ 
+
+ 
+
+NOTE:
+
+. Always use genuine LG accessories.
+
+. Failure to do this may void your warranty.
+. Accessories may vary in different regions.
+
+102
+
+Troubleshooting
+
+This chapter lists some problems you might encounter when using your phone. Some
+
+problems require you to call your service provider, but most are easy to fix yourself.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Message Possible causes Possible corrective measures
+There is no
+MicroeSlM MICIO’SIM card Make sure that the MicroeSlM card is
+In the phone .
+card error . . . correctly Inserted.
+or It Is Inserted
+incorrectly.
+Signal is weak or Move toward a window or into
+you are outside the an open area. Check the network
+N 0 network carrier network. operator coverage map.
+Bonnecthon/ Check whether the MicroeSlM card
+mgpg: O erator a lied is more than 6~12 months old. If so,
+W p . pp change your MicroeSlM card at your
+new servrces. . ,
+network prOVIder s nearest branch.
+Contact your service provider.
+To change a
+security code,
+you will need
+to confirm the
+Codes do new code by If you forget the code, contact your
+not match rerentering it. service provider.
+The two codes
+you have entered
+do not match.
+
+ 
+
+ 
+
+108
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Message Possible causes Possible corrective measures
+No Not supported by
+applications serVIce pIQVIdeI Contact your service provider.
+can be set or regIstratIon
+requIred.
+Dialling error New network not authorised.
+Calls not 233’ IIrIIsIfeIEtjeiIII/I Check for new restrictions.
+available I '
+Preepaid charge Contact service provider or reset limit
+limit reached. with PIN2.
+On/Off key Press the On/Off key for at least two
+Phone pressed too briefly. seconds.
+cannot be
+switched on Battery is not Charge battery. Check the charging
+charged. indicator on the display.
+
+ 
+
+104
+
+ 
+
+ 
+
+Message
+
+Possible causes
+
+Possible corrective measures
+
+ 
+
+Battery is not
+
+Charge battery.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+charged.
+OUISIde . Make sure phone is charging at a
+temperature I8 I00 normal tem erature
+hot or cold. p '
+Charging Check the char er and its connection
+error Contact problem to the phone. g
+No voltage Plug the charger into a different socket.
+Charger defective Replace the charger.
+Wrong charger Use only original LG accessories.
+Number not ICEEEEIIUSSIIIIIQ Check the Settings menu and turn the
+allowed . function off.
+Is on.
+Impossible
+to receive / Memo full Delete some messages from your
+send SMS W phone.
+& photos
+Files do not Unsupported file .
+open format Check the supported ﬁle formats.
+
+ 
+
+ 
+
+ 
+
+ 
+
+105
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Message Possible causes Possible corrective measures
+The screen .
+does not If you use a protectIon tape or case,
+. . make sure It has not covered the area
+turn on ProxImIty sensor . .
+around the proxImIty sensor. Make
+when I problem sure that the area around the ro ‘m‘
+receive a . p XI IIy
+sensor Is clean.
+call.
+Check the settings status in the sound
+No sound Vibration mode menu to make sure you are not in
+vibration or silent mode.
+Hangs up Intermittent Try to perform a software update via
+or freezes software problem the website.
+
+ 
+
+106
+
+ 
+
+FAQ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Category
+Sub- Question Answer
+Category
+You can connect a Bluetooth audio
+BT device such as a Stereo/Mono headset
+Bluetooth What are the functions or Car Kit. Also, when the FTP server
+D . available via Bluetooth is connected to a compatible device,
+eVIces you can share content stored on the
+storage media.
+Eggs?“ Sggwnecte d When a Bluetooth headset is
+BT can I listen to m ’ connected, all system sounds are
+Bluetooth music throu h y played over the headset. As a result,
+Headset g . you will not be able to listen to music
+my 3.5 mm WIred .
+headphones? through your WIred headphones.
+Data How can I backu The Contacts data can be
+Contacts Contacts? p synchronized between your phone and
+Backup ' GmailTM.
+Data IS I possible IO set up Onl twoewa s nchronization is
+. . oneeway sync with Y y y
+Synchronization G m all? avaIlable.
+I ‘t ‘bl t The Inbox is automatically
+Data 5 IncIEIOrSSIIzeaaﬁemail synchronized. You can view other
+Synchronization fd/lders7 folders by tapping the Menu Key“
+' and select Folders to choose a folder.
+GoogleTM Do I have to log into . .
+Service Gmail whenever I want Once you have logged Into GmaIl, no
+. . need to log Into GmaIl agaIn.
+GmaIl Login to access GmaIl?
+
+ 
+
+107
+
+ 
+
+Category
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sub- Question Answer
+Category
+GoogleTM
+Service Is it possible to filter No, email filtering is not supported via
+Google emails? the phone.
+Account
+Phone What happens when
+Function I execute another Your email will automatically be saved
+E ‘l application while as a draft.
+maI writing an email?
+Phone Is there a file size
+. limitation for when I . . . . . .
+:uncItIon want to use MP3 file There Is no ﬁle sIze lImItatIon.
+
+Ing one as ring tone?
+
+Phone My phone does not
+Function dIsplay the tIme Of You will only be able to see the times
+M receIpt for messages for messa es received the same da
+
+$88898 older than 24 hrs. How g y.
+
+me can I change this?
+
+Phone EngtﬁioefiIZII/ni IgIgIﬁIaII Any application that is available at Play
+Function application 0% my StoreTM and is compatible with the
+NaVIgatIon phone? hardware can be Installed and used.
+
+Phone I: Ecﬁﬁgigfﬁ Gmail and MS Exchange server
+Function cIontacts from all m (company email server) contacts can
+
+Synchronisation y be synchronized.
+
+email accounts?
+
+ 
+
+108
+
+ 
+
+Category
+
+ 
+
+ 
+
+Sub- Question Answer
+Category
+If you transferred a contact with the W
+& P functions saved into the number,
+you will not be able to use those
+Ph features. You will need to reesave each
+F ngiIgn Is it possible to save a number.
+u . ' contact with Wait and How to save with Wait and Pause:
+W8“ and Pause in the numbers? 1 . From the Home screen, tap the
+Pause .
+Phone Icon I.
+2. Dial the number, then tap the Menu
+Key I.
+3. Tap Add 2-sec pause or Add wait.
+Phone You are able to set the phone to
+. What are the phone‘s require that an Unlock Pattern be
+Function . .
+Security securIty functIons? entered before the phone can be
+
+accessed or used.
+
+ 
+
+109
+
+ 
+
+Category
+Sub-
+Category
+
+Phone
+Function
+Unlock
+Pattern
+
+Question
+
+How do I create the
+Unlock Pattern?
+
+Answer
+
+. From the Home screen, tap and
+hold the Recent Key El.
+
+. Tap System settings > Display tab
+
+> Lock screen.
+
+Tap Select screen lock > Pattern.
+
+The first time you do this, a short
+
+tutorial about creating an Unlock
+
+Pattern will appear.
+
+. Set up by drawing your pattern
+once, and once again for
+confirmation.
+
+Precautions to take when using the
+
+pattern look.
+
+It is very important to remember the
+
+unlock pattern you set. You will not
+
+be able to access your phone if you
+use an incorrect pattern five times.
+
+You have five chances to enter your
+
+unlock pattern, PIN or password. If you
+
+have used all 5 opportunities, you can
+try again after 30 seconds. (Or, if you
+preset the backup PIN, you can use
+the backup PIN code to unlock the
+pattern.)
+
+[\3
+
+.03
+
+4;
+
+ 
+
+110
+
+ 
+
+Category
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sub- Question Answer
+
+Category
+IVS“breegoracesroggstegzgo I.
+
+Phone Iforget the unlock VIII: 9;? IbutI/ ‘IIdt gt th U
+Function pattern and I didn‘t on eIp oIIne 5 IaIe IO erIIherf e t
+
+Unlock create my Google correc pa ern Imes, ap e orgo
+
+pattern button. You are then requIred
+
+Pattern account on the . .
+
+to log In WIth your Google account to
+phone?
+unlock your phone.
+
+Phone .
+
+. WIll I know when my . . . . .
+Function memory is full? Yes, you WlII recere a notIfIcatIon.
+Memory
+
+The phone has multilingual capabilities.
+To change the language:
+
+Phone 1 . From the Home screen, tap and
+Function Is it possible to Change hold the Recent Key El and tap
+Language my phone's language? System settings.
+
+SUPPOO 2. Tap General tab > Language &
+
+keyboard > Language.
+3. Tap the desired language.
+VPN access configuration is different
+
+Phone How do I set u a for each company. To configure VPN
+Function VPN? p access from your phone, you must
+
+VPN ' obtain the details from your company‘s
+
+network administrator.
+
+ 
+
+111
+
+ 
+
+Category
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sub- Question Answer
+Category
+1. From the Home screen, tap and
+Phone My screen turns Off hold the Recent Key El.
+Function after only 15 seconds. 2 Ta . .
+. p System settings > Display tab.
+S t‘ How can I change the 3 T S t' t
+creen Ime amount of time for the ' ap creen Imeou ' ,
+OUT backlight to turn off? 4. Tap the preferred screen backlIght
+timeout time.
+When using data, your phone may
+default to the WieFi connection (if
+. . WieFi connectivity on your phone is
+F5223; \r/nVQEIIeVrIIetIIZII/grrfare set to On). However, there will be no
+WieFi & both available which notIfIcatIon when your phone sWItches
+mobile service will my phone from one IO the other.
+To know WieFi data connection is
+network use? . . . . .
+beIng used, VIew only erFl Icon at
+the top of your screen without mobile
+network.
+Phone . . Yes. Just touch and hold the icon until
+Function Is It possIble to remove the dusthn Icon appears at the top
+Home an applIcatIon from the and centre of the screen. Then, WIthout
+screen Home screen? lIftIng your ﬁnger, drag the Icon to the
+trash can.
+1. From the Home screen, tap and
+Phone I downloaded an hold the Recent Key |:I.
+Function applIcatIon and It 2. Tap System settings > General tab
+Application causes a lot of errors. > Apps > DOWNLOADED.
+
+How do I remove it?
+
+3. Tap the application, then tap
+Uninstall.
+
+ 
+
+112
+
+ 
+
+Category
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sub- Question Answer
+Category
+Is it possible to charge
+Phone my phone using a USB Yes, the phone will be charged by the
+Function data cable without USB cable regardless of whether the
+Charger installing the necessary necessary drivers are installed or not.
+USB driver?
+Yes. After saving a music file as a
+ringtone, you can use it as your alarm.
+Phone 1. Touch and hold a song in a library
+Function Can I use music files list. In the menu that opens, tap Set
+Al for my alarm? as ringtone > Phone ringtone or
+arm Contact ringtone.
+2. In the alarm clock setting screen,
+select the song as a ringtone.
+Phone \aI/IIIdIIbrI: glam IIego off
+Fiogrtriron if the phone is turned No, the Is not supported.
+off?
+Phone If my ringer volume is .
+. . Your alarm Is programmed to be
+Function SQI IO Off OI VIbrate, audible even in these scenarios.
+Alarm WlII I hear my alarm?
+
+ 
+
+118
+

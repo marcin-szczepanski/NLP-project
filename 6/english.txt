@@ -1,0 +1,3373 @@
+ENGLISH
+DEUTSCH
+FRANÇAIS
+ESPAÑOL
+ITALIANO
+SLOVENŠČINA
+
+DH4220S (DH4220S, S42S1-S/ W)
+
+ΕΛΛΗΝΙΚΑ
+
+Please read this manual carefully before operating
+your set and retain it for future reference.
+
+NEDERLANDS
+
+DVD Home Cinema
+System
+
+PORTUGUÊS
+
+OWNER’S MANUAL
+
+2
+
+Getting Started
+
+Safety Information
+1
+
+CAUTION
+
+Getting Started
+
+RISK OF ELECTRIC SHOCK
+DO NOT OPEN
+
+CAUTION: TO REDUCE THE RISK OF ELECTRIC
+SHOCK DO NOT REMOVE COVER (OR BACK) NO
+USER-SERVICEABLE PARTS INSIDE REFER SERVICING
+TO QUALIFIED SERVICE PERSONNEL.
+This lightning flash with
+arrowhead symbol within an
+equilateral triangle is intended to
+alert the user to the presence of
+uninsulated dangerous voltage
+within the product’s enclosure that
+may be of sufficient magnitude to
+constitute a risk of electric shock
+to persons.
+The exclamation point within an
+equilateral triangle is intended
+to alert the user to the presence
+of important operating and
+maintenance (servicing)
+instructions in the literature
+accompanying the product.
+WARNING: TO PREVENT FIRE OR ELECTRIC SHOCK
+HAZARD, DO NOT EXPOSE THIS PRODUCT TO RAIN
+OR MOISTURE.
+WARNING: Do not install this equipment in a
+confined space such as a book case or similar unit.
+CAUTION: Do not block any ventilation openings.
+Install in accordance with the manufacturer’s
+instructions.
+Slots and openings in the cabinet are provided for
+ventilation and to ensure reliable operation of the
+product and to protect it from over heating. The
+openings shall be never be blocked by placing
+the product on a bed, sofa, rug or other similar
+surface. This product shall not be placed in a builtin installation such as a bookcase or rack unless
+proper ventilation is provided or the manufacturer’s
+instruction has been adhered to.
+
+CAUTION: This product employs a Laser System.
+To ensure proper use of this product, please read
+this owner’s manual carefully and retain it for future
+reference. Shall the unit require maintenance,
+contact an authorized service center.
+Use of controls, adjustments or the performance of
+procedures other than those specified herein may
+result in hazardous radiation exposure.
+To prevent direct exposure to laser beam, do not
+try to open the enclosure.
+CAUTION concerning the Power Cord
+Most appliances recommend they be placed upon
+a dedicated circuit;
+That is, a single outlet circuit which powers only
+that appliance and has no additional outlets or
+branch circuits. Check the specification page of this
+owner’s manual to be certain. Do not overload wall
+outlets. Overloaded wall outlets, loose or damaged
+wall outlets, extension cords, frayed power cords, or
+damaged or cracked wire insulation are dangerous.
+Any of these conditions could result in electric
+shock or fire. Periodically examine the cord of your
+appliance, and if its appearance indicates damage
+or deterioration, unplug it, discontinue use of the
+appliance, and have the cord replaced with an
+exact replacement part by an authorized service
+center. Protect the power cord from physical or
+mechanical abuse, such as being twisted, kinked,
+pinched, closed in a door, or walked upon. Pay
+particular attention to plugs, wall outlets, and
+the point where the cord exits the appliance. To
+disconnect power from the mains, pull out the
+mains cord plug. When installing the product,
+ensure that the plug is easily accessible.
+
+Getting Started
+This device is equipped with a portable battery or
+accumulator.
+
+Disposal of waste batteries/accumulators
+1.	 When this crossed-out wheeled
+bin symbol is attached to batteries/
+accumulators of Your product
+it means they are covered by
+European Directive 2006/66/EC.
+2.	 This symbol may be combined with
+chemical symbols for mercury(Hg),
+cadmium(Cd) or lead(Pb) if the
+battery Contains more that 0.0005%
+of mercury,0.002% of cadmium or
+0.004% of lead.
+
+CAUTION: The apparatus shall not be exposed to
+water (dripping or splashing) and no objects filled
+with liquids, such as vases, shall be placed on the
+apparatus.
+
+3.	 All batteries/accumulators should
+be disposed separately from
+the municipal waste stream via
+designated collection facilities
+appointed by the government or
+the local authorities.
+
+You have to set the disc format option to [Mastered]
+in order to make the discs compatible with the LG
+players when formatting rewritable discs. When
+setting the option to Live File System, you cannot
+use it on LG players.
+
+4.	 The correct disposal of Your old
+batteries/accumulators will help
+to prevent potential negative
+consequences for the environment,
+animal and human health.
+
+(Mastered/ Live File System : Disc format system for
+Windows Vista)
+
+5.	 For more detailed information
+about disposal of Your old batteries/
+accumulators, please contact Your
+city office, waste disposal service or
+the shop where You purchased the
+product.
+
+Disposal of your old appliance
+1.	When this crossed-out wheeled bin
+symbol is attached to a product it
+means the product is covered by
+the European Directive 2002/96/EC.
+2.	All electrical and electronic products
+should be disposed of separately
+from the municipal waste stream
+via designated collection facilities
+appointed by the government or
+the local authorities.
+3.	The correct disposal of your
+old appliance will help prevent
+potential negative consequences
+for the environment and human
+health.
+4.	For more detailed information about
+disposal of your old appliance,
+please contact your city office,
+waste disposal service or the shop
+where you purchased the product.
+
+LG Electronics hereby declares that this/
+these product(s) is/are in compliance
+with the essential requirements and
+other relevant provisions of Directive
+2004/108/EC, 2006/95/EC, and
+2009/125/EC.
+European Standards Centre:
+Krijgsman 1, 1186 DM Amstelveen
+The Netherlands
+yy Please note that this is NOT a
+Customer Service contact point. For
+Customer Service Information, see
+Warranty Card or contact the dealer
+that you purchased this product.
+
+1
+Getting Started
+
+Safety way to remove the battery or the
+battery from the equipment: Remove the
+old battery or battery pack, follow the steps
+in reverse order than the assembly. To prevent
+contamination of the environment and bring on
+possible threat to human and animal health, the
+old battery or the battery put it in the appropriate
+container at designated collection points. Do
+not dispose of batteries or battery together with
+other waste. It is recommended that you use
+local, free reimbursement systems batteries and
+accumulators. The battery shall not be exposed to
+excessive heat such as sunshine, fire or the like.
+
+3
+
+4
+
+Table of Contents
+
+Table of Contents
+1	
+
+Getting Started
+
+2	
+Safety Information
+6	
+Unique Features
+6	
+–  Portable In
+6	
+–  USB Direct Recording
+6	
+–  Full HD up-scaling
+6	Accessories
+7	Introduction
+7	
+–  Playable Discs
+7	
+–  About the “&” Symbol Display
+7	
+–  Symbols Used in this Manual
+7	
+–  Regional Codes
+8	
+Playable file Requirement
+9	
+Remote control
+10	 Front panel
+11	 Rear panel
+
+2	Connecting
+12	
+13	
+13	
+13	
+14	
+14	
+14	
+15	
+16	
+16	
+16	
+16	
+17	
+17	
+
+Attaching the speakers to the unit
+Positioning the system
+Connections to Your TV
+–  Component Video Connection
+–  Video Connection
+–  Resolution Setting
+–  Video Output Resolution
+–  HDMI Out Connection
+Optional Equipment Connection
+–  AUX In Connection
+–  PORT IN(Portable in) Connection
+–  Listening to music from your portable
+player or external device
+–  USB Connection
+–  Antenna Connection
+
+3	 System Setting
+18	
+18	
+18	
+19	
+19	
+20	
+20	
+21	
+21	
+22	
+
+Adjust the setup settings
+–  OSD Initial language settings Optional
+–  To display and exit the Setup menu
+– Language
+– Display
+– Resolution
+– Audio
+–  DRC (Dynamic Range Control)
+–  Lock (Parental Control)
+– Others
+
+Table of Contents
+
+4	Operating
+
+5	Troubleshooting
+
+23	
+23	
+24	
+24	
+24	
+24	
+24	
+24	
+25	
+25	
+25	
+26	
+27	
+28	
+28	
+28	
+28	
+28	
+28	
+29	
+29	
+29	
+29	
+29	
+29	
+29	
+
+32	Troubleshooting
+
+Using the Home Menu
+Basic Operations
+Other Operations
+–  Displaying Disc Information on-screen
+–  To display the DVD Menu
+–  To display the DVD title
+–  1.5 times speed playback
+–  Screen Saver
+–  Starting play from selected time
+–  Resume playback
+–  Changing subtitle code page
+–  Marked Playback
+–  Viewing a PHOTO file
+–  Sleep Timer Setting
+– Dimmer
+–  Turn off the sound temporarily
+–  Last Scene Memory
+–  System Select - Optional
+–  Adjust the speaker level settings
+Radio Operations
+–  Listening to the radio
+–  Presetting the Radio Stations
+–  Deleting all the saved stations
+–  Deleting a saved station
+–  Improving poor FM reception
+–  Seeing information about a radio
+station
+30	 Sound adjustment
+30	 –  Setting the surround mode
+31	 Advanced Operations
+31	 –  Recording to USB
+
+5
+
+6	Appendix
+33	 Controlling a TV with the Supplied
+Remote Control
+33	 –  Setting up the remote to control your
+TV
+34	Maintenance
+34	 –  Handling the Unit
+34	 –  Notes on Discs
+35	 Area Code List
+36	 Language code List
+37	 Trademarks and Licenses
+38	Specifications
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+6
+
+Getting Started
+
+Unique Features
+1
+
+Portable In
+
+Accessories
+Please check and identify the supplied accessories.
+
+Getting Started
+
+Listens to music from your portable device. (MP3,
+Notebook, etc)
+
+USB Direct Recording
+Records music from CD to your USB device.
+
+Remote control (1)
+
+Battery (1)
+
+FM antenna (1)
+
+Video cable (1)
+
+Full HD up-scaling
+Views Full HD picture quality with simple setup.
+
+Getting Started
+
+Introduction
+Playable Discs
+
+DVD-VIDEO (8 cm / 12 cm disc)
+Discs such as movies that can be
+purchased or rented.
+DVD±R (8 cm / 12 cm disc)
+Video mode and finalized only.
+DVD-RW (8 cm / 12 cm disc)
+Video mode and finalized only.
+DVD+R: Video mode only
+Supports the double layer disc also.
+DVD+RW (8 cm / 12 cm disc)
+Video mode and finalized only.
+Audio CD: Music CDs or CD-R/CDRW in music CD format that can be
+purchased.
+
+About the “&” Symbol Display
+“&” may appear on your TV display during
+operation and indicates that the function explained
+in this owner’s manual is not available on that
+specific media.
+
+Symbols Used in this Manual
+r
+
+DVD-Video, DVD±R/RW in Video
+mode or VR mode and finalized
+
+t
+
+Audio CDs
+
+y
+
+Video files contained in the
+USB/Disc
+
+u
+
+Audio files contained in the
+USB/Disc
+
+i
+
+Photo files
+
+,,Note
+Indicates special notes and operating features.
+
+,,Tip
+Indicates tip and hints for making the task easier.
+
+>>Caution
+Indicates cautions for preventing possible damages
+from abuse.
+
+Regional Codes
+This unit has a regional code printed on the rear of
+the unit. This unit can play only DVD discs labeled
+same as the rear of the unit or “ALL”.
+yy Most DVD discs have a globe with one or more
+numbers in it clearly visible on the cover. This
+number must match your unit’s regional code or
+the disc cannot play.
+yy If you try to play a DVD with a different regional
+code from your unit, the message “Check
+Regional Code” appears on the TV screen.
+
+1
+Getting Started
+
+This unit plays DVD±R/RW and CD-R/RW that
+contains audio titles, DivX, MP3, WMA and/or
+JPEG files. Some DVD±RW/DVD±R or CD-RW/
+CD-R cannot be played on this unit due to the
+recording quality or physical condition of the disc,
+or the characteristics of the recording device and
+authoring software.
+
+7
+
+8
+
+Getting Started
+
+Playable file
+Requirement
+1
+Getting Started
+
+MP3/ WMA music file requirement
+MP3/ WMA file compatibility with this unit is limited
+as follows :
+yy Sampling frequency : within 32 to 48 kHz (MP3),
+within 32 to 48 kHz (WMA)
+yy Bit rate : within 32 to 320 kbps (MP3),
+40 to 192 kbps (WMA)
+yy Support Version : v2, v7, v8, v9
+yy Maximum files : Under 999
+yy File extensions : “.mp3”/ “.wma”
+
+DivX file requirement
+DivX file compatibility with this unit is limited as
+follows:
+yy Available resolution: within 720 x 576 (W x H)
+pixels.
+yy The file name of the DivX subtitle should be
+entered within 45 characters.
+yy If there is impossible code to express in the
+DivX file, it may be displayed as “ _ “ mark on the
+display.
+yy Frame rate : less than 30 fps.
+yy If the video and audio structure of recorded
+files is not interleaved, either video or audio is
+outputted.
+yy Playable DivX file : “.avi”, “.mpg”, “.mpeg”, “.divx”
+
+yy We recommend that you use Easy-CD Creator,
+which creates an ISO9660 file system.
+
+yy Playable Subtitle format : SubRip (*.srt/ *.txt),
+SAMI (*.smi), SubStation Alpha (*.ssa/ *.txt),
+MicroDVD (*.sub/ *.txt), SubViewer 2.0 (*.sub/
+*.txt), Vobsub (*.sub)
+
+Photo file requirement
+
+yy Playable Codec format : “DIVX3.xx”, “DIVX4.xx”,
+“DIVX5.xx”, “MP4V3”, “3IVX”.
+
+yy CD-ROM file format : ISO9660/ JOLIET
+
+Photo file compatibility with this unit is limited as
+follows :
+yy Max pixel in width : 2,760 x 2,048 pixel
+yy Maximum files : Under 999
+yy Some discs may not operate due to a different
+recording format or the condition of disc.
+yy File extensions: “.jpg”
+yy CD-ROM file format : ISO9660/ JOLIET
+
+yy Playable Audio format : “AC3”, “PCM”, “MP3”, “WMA”,
+yy Sampling frequency : within 32 to 48 kHz (MP3),
+within 32 to 48 kHz (WMA)
+yy Bit rate : within 32 to 320 kbps (MP3), 40 to 192
+kbps (WMA)
+yy For Discs formatted in Live file system, you can
+not it on this unit.
+yy If the name of movie file is different from that of
+the subtitle file, during playback of a DivX file,
+subtitle may not be display.
+yy If you play a DivX file differ from DivXspec, it may
+not operate normally.
+
+Getting Started
+
+9
+
+Remote control
+
+m INFO/DISPLAY: Accesses OnScreen Display.
+n HOME: Displays the [Home
+Menu].
+DISC MENU: Accesses the menu
+on a DVD disc.
+• • • • • • b •  •  •  •  •  •
+W/S/A/D (up/ down/ left/
+right): Used to navigate on-screen
+displays.
+PRESET +/-: Selects programme
+of Radio.
+TUNING +/-: Tunes in the desired
+radio station.
+b ENTER: Acknowledges menu
+selection.
+Presetting the radio stations.
+x BACK: Moves backwards in
+the menu or exits the setup menu.
+TITLE: If the current DVD title has
+a menu, the title menu appears
+on the screen. Otherwise, the disc
+menu may not appear.
+
+Battery Installation
+
+• • • • • • c •  •  •  •  •  •
+
+Remove the battery cover on the
+rear of the Remote Control, and
+insert one (size AAA) battery with
+4 and 5 matched correctly.
+
+Z STOP: Stops playback.
+d PLAY, MONO/STEREO: Starts
+playback. Selects Mono/ Stereo.
+
+• • • • • • a •  •  •  •  •  •
+
+C/V SKIP: Goes to the next
+or previous chapter / track / file.
+
+P RADIO&INPUT: Changes
+input sources.
+MARKER: Marks play list.
+1 POWER: Switches the unit ON
+or OFF.
+B OPEN/CLOSE: Opens and
+closes the disc tray.
+
+M PAUSE/STEP: Pauses playback.
+
+c/v SCAN: Searches
+backward or forward.
+
+• • • • • • d •  •  •  •  •  •
+SPEAKER LEVEL: Sets the sound
+level of desired speaker.
+SOUND EFFECT: Selects a sound
+effect mode.
+VOL -/+ (Volume): Adjusts
+speaker volume.
+MUTE: Mutes the sound.
+X REC: USB Direct Recording.
+• • • • • • e •  •  •  •  •  •
+0-9 numerical buttons: Selects
+numbered options in a menu.
+h REPEAT: Selects a play
+mode. (Repeat/ Random)
+CLEAR: Removes a number when
+setting the password.
+• • • • • • f •  •  •  •  •  •
+TV Control buttons: See page 33.
+RDS : Radio Data System.
+PTY : Views the various displays of
+the RDS.
+
+1
+Getting Started
+
+SLEEP: Sets the System to turn off
+automatically at a specified time.
+(Dimmer : The display window will
+be darken by half.)
+
+10
+
+Getting Started
+
+Front panel
+1
+Getting Started
+
+1
+
+3
+
+4
+
+a DVD/CD Disc Tray
+b Display window
+Shows the current status of the unit.
+c PORT. IN (Portable in)
+You can enjoy music from portable device on
+your unit.
+d USB port
+You can play video, image and sound files by
+connecting the USB device.
+e R (Open/Close)
+Opens or closes the disc tray.
+
+2
+
+5 6
+
+7 8
+
+9
+
+10
+
+f T (Play/Pause)
+Starts playback.
+Pauses playback temporarily, press again to exit
+pause mode.
+g I (Stop)
+Stops playback.
+h F (Function)
+	
+
+Selects the function and input source.
+
+i VOL . (Volume)
+Adjusts speaker volume.
+j 1 (Power)
+Switches the unit ON or OFF.
+
+Getting Started
+
+11
+
+Rear panel
+1
+2
+
+4
+
+3
+
+5
+a Power cord
+b Speaker terminal
+c Antenna Connector
+FM- Connects the FM wired antenna
+d	VIDEO OUT connector
+- Connect to a TV with video inputs
+e	AUX (L/R) INPUT connector
+- Connects to an external source with 2 channel
+audio outputs.
+
+Getting Started
+
+1
+
+6
+
+7
+
+f COMPONENT VIDEO OUTPUT
+Connect to TV with Y PB PR inputs.
+g HDMI OUT connector
+Connects to TV with HDMI inputs.
+(Interface for digital audio and video)
+
+12
+
+Connecting
+
+Attaching the speakers
+to the unit
+
+2
+
+1.	 To connect the cable to the unit, press each
+plastic finger pad to open the connection
+terminals on the unit. Insert the wire and release
+the finger pad.
+
+Connecting
+2.	 Connect the black stripe of each wire to the
+terminals marked - (minus) and the other end
+to the terminals marked + (plus).
+Speaker
+
+Position
+
+REAR R
+
+Rear right
+
+REAR L
+
+Rear left
+
+CENTER
+
+Center
+
+SUB WOOFER
+
+Any front position
+
+FRONT R
+
+Front right
+
+FRONT L
+
+Front left
+
+>>Caution
+
+yy Be careful to make sure children do not put
+their hands or any objects into the *speaker
+duct.
+*Speaker duct : A hole for plentiful bass
+sound on speaker cabinet (enclosure).
+yy The speakers contain magnet parts, so color
+irregularity may occur on the TV screen or
+PC monitor screen. Please use the speakers
+far away from either TV screen or PC
+monitor.
+
+Connecting
+
+Positioning the system
+The following illustration shows an example of
+positioning the system. Note that the illustrations
+in these instructions differ from the actual unit for
+explanation purposes.
+For the best possible surround sound, all the
+speakers other than the subwoofer should be
+placed at the same distance from the listening
+
+Make one of the following connections, depending
+on the capabilities of your existing equipment.
+
+,,Note
+
+yy Depending on your TV and other
+equipment you wish to connect, there are
+various ways you could connect the player.
+Use only one of the connections described
+in this manual.
+yy Please refer to the manuals of your TV,
+Stereo System or other devices as necessary
+to make the best connections.
+
+B
+C
+A
+
+Connections to Your
+TV
+
+G
+F
+A
+
+A
+
+A
+
+>>Caution
+
+A
+
+D
+
+E
+
+A
+
+yy Make sure the unit is connected directly
+to the TV. Tune the TV to the correct video
+input channel.
+yy Do not connect your player via your VCR.
+The image could be distorted by the copy
+protection system.
+
+A ABCD E F G
+
+F ront left speaker (L)/ Front right speaker (R):
+Place the front speakers to the sides of the
+monitor or screen and as flush with the screen
+surface as possible.
+ enter speaker: Place the center speaker above
+C
+or below the monitor or screen.
+Surround left speaker (L)/ Surround right
+speaker (R):
+Place these speakers behind your listening
+position, facing slightly inwards.
+Subwoofer: The position of the subwoofer is
+not so critical, because low bass sounds are not
+highly directional. But it is better to place the
+subwoofer near the front speakers. Turn it slightly
+toward the center of the room to reduce the wall
+reflections.
+Unit
+
+Component Video Connection
+Connect the COMPONENT VIDEO OUTPUT jacks on
+the unit to the corresponding input jacks on the TV
+by using component cables.
+You can hear the sound through the system’s
+speakers.
+
+2
+Connecting
+
+position ( ).
+
+13
+
+14
+
+Connecting
+
+Video Connection
+
+Resolution Setting
+
+Connect the VIDEO OUT jack on the unit to the
+video in jack on the TV by using a video cable.
+
+The unit provides several output resolutions for
+HDMI OUT and COMPONENT VIDEO OUT jacks. You
+can change the resolution using [Setup] menu.
+
+You can hear the sound through the system’s
+speakers.
+
+1.	Press n HOME.
+2.	 Use AD to select the [Setup] and press b
+ENTER. The [Setup] menu appears.
+
+2
+Connecting
+3.	Use WS to select [Display] option then press
+D to move to the second level.
+4.	Use WS to select the [Resolution] option then
+press D to move to the third level.
+5.	Use WS to select the desired resolution then
+press b ENTER to confirm your selection.
+
+,,Note
+
+If your TV does not accept the resolution you
+have set on the player, you can set resolution
+to 480p (or 576p) as follows:
+Press Z STOP for more than 5 seconds.
+
+Video Output Resolution
+Displayed resolution in display window and
+outputted resolution may different according to
+connection type.
+[HDMI OUT]: 1080p, 1080i, 720p and 480p (or 576p)
+and 480i (or 576i)
+[COMPONENT VIDEO OUT]: 480p (or 576p) and 480i
+(or 576i)
+[VIDEO OUT]: 480i (or 576i)
+
+Connecting
+
+HDMI Out Connection
+If you have a HDMI TV or monitor, you can connect
+it to this unit using a HDMI cable (Type A, High
+Speed HDMI™ Cable).
+Connect the HDMI OUT jack on the unit to the
+HDMI IN jack on a HDMI compatible TV or monitor.
+Set the TV’s source to HDMI (refer to TV’s Owner’s
+manual).
+
+15
+
+,,Note
+
+yy If a connected HDMI device does not accept
+the audio output of the unit, the HDMI
+device’s audio sound may be distorted or
+may not output.
+yy When you connect a HDMI or DVI
+compatible device make sure of the
+following:
+- Try switching off the HDMI/DVI device
+and this unit. Next, switch on the HDMI/
+DVI device and leave it for around 30
+seconds, then switch on this unit.
+
+	
+
+- The connected device’s video input is set
+correctly for this unit.
+
+	
+
+- The connected device is compatible with
+720 x 480i (or 576i), 720 x 480p (or 576p),
+1, 280 x 720p, 1,920 x 1,080i or 1,920 x 1,080p
+video input.
+
+yy Not all HDCP-compatible HDMI or DVI
+devices will work with this unit.
+	
+
+- The picture will not be displayed properly
+with non-HDCP device.
+
+	
+
+- This unit does not playback and TV screen
+is changed to black or green screen or the
+snow noise may occur on the screen.
+
+yy If there is noise or lines on the screen, please
+check the HDMI cable (High Speed HDMI™
+Cable).
+
+,,Tip
+
+yy You can fully enjoy digital audio and video
+signals together with this HDMI connection.
+yy When you use HDMI connection, you can
+change the resolution for the HDMI output.
+(Refer to “Resolution Setting” on page 14.)
+
+>>Caution
+
+yy Changing the resolution when the
+connection has already been established
+may result in malfunctions. To solve the
+problem, turn off the unit and then turn it
+on again.
+yy When the HDMI connection with HDCP is
+not verified, TV screen is changed to black
+or green screen or the snow noise may
+occur on the screen. In this case, check the
+the HDMI connection, or disconnect the
+HDMI cable.
+
+2
+Connecting
+
+	
+
+16
+
+Connecting
+
+Optional Equipment
+Connection
+AUX In Connection
+
+PORT IN(Portable in)
+Connection
+Connect an output of portable device (MP3 or
+PMP etc) to the PORT. IN (PORTABLE IN) input
+connector.
+
+Connect an Output of auxiliary device to the AUX
+(L/R) INPUT Connector.
+
+2
+Connecting
+
+MP3 player, etc...
+
+Listening to music from your
+portable player or external
+device
+The unit can be used to play the music from many
+types of portable player or external devices.
+1.	 Connect the portable player to the
+PORT. IN (PORTABLE IN) connector of the
+unit.
+Or
+	
+
+Connect the external device to the AUX
+connector of the unit.
+
+2.	 Turn the power on by pressing 1 (Power).
+
+,,Note
+
+If your TV (Auxiliary device) has only one
+output for audio (mono), connect it to the left
+(white) audio jack on the unit.
+
+3.	 Select the PORTABLE or AUX (L/R) INPUT
+function by pressing P RADIO&INPUT.
+4.	 Turn on the portable player or external device
+and start it playing.
+
+Connecting
+
+USB Connection
+
+Antenna Connection
+
+Connect the USB port of USB Memory (or MP3
+player, etc.) to the USB port on the front of the unit.
+
+Connect the supplied FM antenna for listening to
+the radio.
+
+17
+
+Connect the FM Wire antenna to the FM antenna
+connector.
+
+2
+Connecting
+
+Removing the USB Device from the unit
+1.	 Choose a different function mode or press
+Z STOP twice in a row.
+2. 	Remove the USB device from the unit.
+
+Compatible USB Devices
+yy MP3 Player : Flash type MP3 player.
+yy USB Flash Drive :	Devices that support USB2.0 or
+USB1.1.
+yy The USB function of this unit does not support
+some USB devices.
+
+USB device requirement
+yy Devices which require additional program
+installation connected to a computer, are not
+supported.
+yy Do not extract the USB device while in operation.
+yy For a large capacity USB, it may take longer than
+a few minute to be searched.
+yy To prevent data loss, back up all data.
+yy If you use a USB extension cable or USB hub, the
+USB device is not recognized.
+yy Using NTFS file system is not supported. (Only
+FAT(16/32) file system is supported.)
+yy This unit is not supported when the total
+number of files is 1 000 or more.
+yy External HDD, Card readers, Locked devices, 	
+or hard type usb devices are not supported.
+yy USB port of the unit cannot be connected to PC.
+The unit can not be used as a storage device.
+
+,,Note
+
+Be sure to fully extend the FM wire antenna.
+After connecting the FM wire antenna, keep it
+as horizontal as possible.
+
+18
+
+System Setting
+
+Adjust the setup
+settings
+By using the Setup menu, you can make various
+adjustments to items such as picture and sound.
+
+To display and exit the Setup
+menu
+1.	Press n HOME.
+Displays the [Home Menu].
+
+You can also set a language for the subtitles and
+the Setup menu, among other things. For details on
+each Setup menu item, see pages 18 to 22.
+
+OSD Initial language settings
+- Optional
+3
+System Setting
+
+During the first use of this unit, the initial language
+setup menu appears on your TV screen. You must
+complete initial language selection before using
+the unit. English will be selected as the initial
+language.
+1.	Press 1 POWER to turn the unit on. The
+language setup menu will appear on the screen.
+
+2.	 Select an [Setup] by using AD.
+3.	Press b ENTER.
+Displays the [Setup].
+4.	Press n HOME or x BACK to exit in the
+[Setup] Menu.
+About help menu for Setup
+Menu
+
+Buttons
+
+Operation
+
+WS
+
+Moving to another
+menu.
+
+a
+Move
+
+A
+
+Moving to previous
+level.
+
+d
+Move
+
+D
+
+Moving to next
+level or selecting
+menu.
+
+x BACK
+
+To exit the [Setup]
+menu or [ 5.1
+Speaker Setup].
+
+b ENTER
+
+To confirm menu.
+
+ws
+Move
+
+x
+2.	Use WSAD to select a language then press
+b ENTER.
+The confirm menu will appear.
+
+3.	Use AD to select the [Enter] then press
+b ENTER to finish the language setup.
+
+,,Note
+
+If there is media (DISC/USB) connected,
+initial language menu may not be displayed
+because media can auto play depending on its
+contents.
+
+Close
+b
+Select
+
+System Setting
+
+Language
+
+Display
+
+Menu Language
+
+TV Aspect
+
+Select a language for the Setup menu and then on
+screen display.
+
+Select which screen aspect to use based on the
+shape of your TV screen.
+
+Disc Audio / Disc Subtitle / Disc
+Menu
+Select the language you prefer for the audio track
+(disc audio), subtitles, and the disc menu.
+[Original]
+Refers to the original language in which the
+disc was recorded.
+To select another language, press numeric
+buttons and then b ENTER to enter the
+corresponding 4-digit number according to
+the language code list on the page 36. If you
+enter the wrong language code, press CLEAR.
+[Off (for Disc Subtitle)]
+Turn off Subtitle.
+
+[4:3]
+Select when a standard 4:3 TV is connected.
+[16:9]
+Select when a 16:9 wide TV is connected.
+
+Display Mode
+The Display Mode setting works only when the TV
+Aspect mode is set to 4:3.
+[Letterbox]
+Displays a wide picture with bands on the
+upper and lower portions of the screen.
+[Panscan]
+Automatically displays the wide picture on the
+entire screen and cuts off the portions that do
+not fit. (If the disc/file is not compatible with
+Pan Scan, the picture is displayed at Letterbox
+ratio.)
+
+3
+System Setting
+
+[Other]
+
+19
+
+20 System Setting
+
+Resolution
+Sets the output resolution of the Component and
+HDMI video signal. Refer to “Resolution Setting” for
+details about the resolution (page 14).
+[Auto]
+If the HDMI OUT jack is connected to
+TVs providing display information (EDID),
+automatically selects the resolution best suited
+to the connected TV. If the COMPONENT
+VIDEO OUT is only connected, this changes the
+resolution to 480i (or 576i) as default resolution.
+
+3
+
+[Speaker]
+Select a speaker that you want to adjust.
+
+,,Note
+
+Certain speaker settings are prohibited by
+the Dolby Digital licensing agreement.
+[Size]
+Since the speaker settings are fixed, you cannot
+change the settings.
+[Volume]
+
+System Setting
+
+[1080p]
+
+Adjust the output level of each speaker.
+
+Outputs 1080 lines of progressive video.
+
+[Distance]
+
+[1080i]
+
+After you connected speakers to your unit,
+set the Distance between the speakers and
+your listening point if the distance of Center
+or Rear speakers is bigger than the distance
+of Front speakers. This allows the sound from
+each speaker to reach the listener at the same
+time. Press AD to adjust the Distance of the
+selected speaker. This distance is equivalent to
+a difference of the distance between Center or
+Rear speaker and Front speakers.
+
+Outputs 1080 lines of interlaced video.
+[720p]
+Outputs 720 lines of progressive video.
+[480p (or 576p)]
+Outputs 480 (or 576) lines of progressive video.
+[480i (or 576i)]
+Outputs 480 (or (576) lines of interlaced video.
+
+Audio
+5.1 Speaker Setup
+Make the following settings for the built-in 5.1
+channel surround decoder.
+1.	 Select [5.1 Speaker Setup] on the [Audio] menu.
+2.	Press b ENTER.
+The [5.1 SPEAKER] appears.
+
+3.	Use AD to select the desired speaker.
+4.	 Adjust options using WSAD buttons.
+5.	 Returns to the previous menu by pressing x
+BACK.
+
+[Test]
+Select [Speaker Test Start] by using the WS
+and press b ENTER. Press b ENTER again to
+stop. Adjust the volume to match the volume
+of test signals memorized in the system.
+
+System Setting
+
+21
+
+DRC (Dynamic Range Control)
+
+Lock (Parental Control)
+
+Make the sound clear when the volume is turned
+down (Dolby Digital only). Set to [On] for this effect.
+
+Initial Setting the Area Code:
+
+HD AV Sync
+
+When you use this unit for the first time, you have
+to set the Area Code.
+
+Sometimes Digital TV encounters a delay between
+picture and sound. If this happens you can
+compensate by setting a delay on the sound so
+that it effectively ‘waits’ for the picture to arrive:
+this is called HD AV Sync. Use WS (on the remote
+control) to scroll up and down through the delay
+amount, which you can set at anything between 0
+and 300m sec.
+
+1.	 Select the [Lock] menu and then press D.
+2.	Press D.
+To access the [Lock] options, you must input the
+password you have created. Input a password
+and press b ENTER. Enter it again and press
+b ENTER to verify. If you make a mistake before
+pressing b ENTER, press CLEAR.
+3.	 Select the first character using WS buttons.
+
+5.	Press b ENTER to confirm your Area code
+selection.
+
+Rating
+Blocks playback of rated DVDs based on their
+contents. Not all discs are rated.
+1.	 Select [Rating] on the [Lock] menu then press
+D.
+2.	 Input a password and press b ENTER.
+3.	 Select a rating from 1 to 8 using the WS
+buttons.
+[Rating 1-8]
+Rating one (1) has the most restrictions and
+rating eight (8) is the least restrictive.
+[Unlock]
+If you select unlock, parental control is not
+active and the disc plays in full.
+4.	Press b ENTER to confirm your rating selection.
+
+3
+System Setting
+
+4.	Press b ENTER and select the second character
+using WS buttons.
+
+22 System Setting
+
+Password
+
+Others
+
+You can enter or change password.
+1.	 Select [Password] on the [Lock] menu and then
+press D.
+2.	Press b ENTER.
+3.	 Input a password and press b ENTER.
+	
+
+To change the password, press b ENTER when
+the [Change] option is highlighted. Input a
+password and press b ENTER. Enter it again
+and press b ENTER to verify.
+
+4.	Press n HOME to exit the menu.
+
+,,Note
+
+3
+
+If you forget your password, you can clear it
+using the following steps:
+
+System Setting
+
+1.	 Select the [Setup] menu on the [Home
+Menu].
+2.	 Input the 6-digit number “210499” and
+press b ENTER. The password is cleared.
+
+Area Code
+Enter the code of the area whose standards were
+used to rate the DVD video disc, based on the list
+on page 35.
+1.	 Select [Area Code] on the [Lock] menu then
+press D.
+2.	 Input a password and press b ENTER.
+3.	 Select the first character using WS buttons.
+4.	Press b ENTER and select the second character
+using WS buttons.
+5.	Press b ENTER to confirm your Area code
+selection.
+
+DivX VOD
+ABOUT DIVX VIDEO: DivX® is a digital video
+format created by DivX, LLC, a subsidiary of Rovi
+Corporation. This is an official DivX Certified® device
+that plays DivX video. Visit divx.com for more
+information and software tools to convert your files
+into DivX videos.
+ABOUT DIVX VIDEO-ON-DEMAND: This DivX
+Certified® device must be registered in order to play
+purchased DivX Video-on-Demand (VOD) movies.
+To obtain your registration code, locate the DivX
+VOD section in your device setup menu. Go to vod.
+divx.com for more information on how to complete
+your registration.
+[Register]
+Displays the registration code of your player.
+[Deregister]
+Deactivate your player and display the
+deactivation code.
+
+,,Note
+
+All the downloaded videos from DivX VOD can
+only be played back on this unit.
+
+Operating 23
+
+Using the Home Menu
+1.	Press n HOME.
+Displays the [Home Menu].
+
+2.	 Select an option by using AD.
+3.	Press b ENTER then selected option menu.
+[Music] – Displays [MUSIC] menu.
+[Movie] – Start video media’s playback or displays
+the [MOVIE] menu.
+[Photo] – Displays [PHOTO] menu.
+[Setup] – Displays the [Setup] menu.
+
+,,Note
+
+Basic Operations
+
+Stop
+
+3.	 Select an option by using AD.
+If you select the [Movie], [Photo] or [Music]
+option when you connect up to two devices,
+it appears as belows. Select a media then press
+b ENTER.
+
+4.	Press b ENTER then selected option menu.
+
+,,Note
+
+yy For the most Audio CD and DVD-ROM discs,
+playback starts automatically.
+yy The unit plays only music file contained in
+the USB storage device or disc automatically.
+
+Press Z STOP.
+
+Playback
+
+Press d PLAY, MONO/
+STEREO.
+
+Pause
+
+Press M PAUSE/STEP.
+
+Press M PAUSE/STEP
+Frame-byrepeatedly to play title FrameFrame playback
+by-Frame. (DVD, DivX only)
+During playback, press C/
+V SKIP to go to the next
+Skipping to the chapter/ track/ file or to
+next/ previous return to the beginning of the
+chapter/ track/ current chapter/ track/ file.
+file
+Press C SKIP twice briefly
+to step back to the previous
+chapter/ track/ file.
+Locating a
+point quickly by
+playing a file in
+fast forward or
+fast reverse
+
+1.	 Insert the disc by using the B OPEN/CLOSE or
+Connect the USB device to the USB port.
+2.	Press n HOME.
+Displays the [Home Menu].
+
+Do this
+
+Playing
+repeatedly or
+randomly
+
+During playback, press c/
+v SCAN repeatedly to
+select the required scan speed.
+To return to normal speed,
+press d PLAY, MONO/
+STEREO.
+Press h REPEAT repeatedly,
+and the current title, chapter
+or track will be played back
+repeatedly or randomly.
+- DVD : Chapter/ Title/ Off
+- DivX : Title/ All/ Off
+- Audio CD/ MP3/ WMA : Track/
+All/ Random/ Off
+
+Slowing down
+the playing
+speed
+
+In the pause mode, press
+SLOW (c or v) to select
+the required speed. (DVD, DivX
+only) The DivX file cannot be
+slow down reverse playback.
+
+4
+Operating
+
+You can not select the [Music], [Movie] or
+[Photo] option when the USB device is not
+connected or a disc is not inserted.
+
+To
+
+24 Operating
+
+Other Operations
+Displaying Disc Information
+on-screen
+You can display various information about the disc
+loaded on-screen.
+1.	Press m INFO/DISPLAY to show various
+playback information.
+The displayed items differ depending on the
+disc type or playing status.
+2.	 You can select an item by pressing WS and
+change or select the setting by pressing AD.
+Title – Current title number/ total number of titles.
+Chapter – Current chapter number/ total number
+of chapters.
+Time – Elapsed playing time.
+
+4
+
+Audio – Selected audio language or channel.
+
+Operating
+
+Subtitle – Selected subtitle.
+Angle – Selected angle/ total number of angles.
+
+,,Note
+
+If any button is not pressed for a few seconds,
+the on-screen display disappears.
+
+To display the DVD Menu
+r
+When you play a DVD which contains several menu,
+you can select the menu you want using the Menu.
+1.	Press DISC MENU.
+The disc’s menu appears.
+2.	 Select the menu by using WSAD.
+3.	Press d PLAY, MONO/STEREO to confirm.
+
+To display the DVD title
+r
+When you play a DVD which contains several title,
+you can select the title you want using the Menu.
+1.	Press TITLE.
+The disc’s title appears.
+2.	 Select the menu by pressing WSAD.
+3.	Press d PLAY, MONO/STEREO to confirm.
+
+1.5 times speed playback
+r
+The 1.5 speed allows you to watch the pictures and
+listen to the sound quicker than playing at a normal
+speed.
+1.	 During playback, press d PLAY, MONO/
+STEREO to play at 1.5 times speed. “dX1.5”
+appears on the screen.
+2.	Press d PLAY, MONO/STEREO again to exit.
+
+Screen Saver
+The screen saver appears when you leave the unit
+in Stop mode for about five minutes.
+
+Operating 25
+
+Starting play from selected
+time
+ry
+To start playing at any chosen time on the file or
+title.
+
+Changing subtitle code page
+y
+
+If the subtitle is not displayed properly, you can
+change the subtitle code page to view the subtitle
+file properly.
+
+1.	Press m INFO/DISPLAY during playback.
+
+1.	 During playback, press m INFO/DISPLAY to
+display the On-Screen display.
+
+2.	Press WS to select the time clock icon and
+“--:--:--” appears.
+
+2.	Use WS to select the [Code Page] option.
+
+3.	 Input the required start time in hours, minutes,
+and seconds from left to right. If you enter the
+wrong numbers, press CLEAR to remove the
+numbers you entered. Then input the correct
+numbers.
+For example, to find a scene at 1 hour, 10
+minutes, and 20 seconds, enter “11020” by using
+numerical buttons.
+
+3.	Use AD to select desired code option.
+4.	Press x BACK to exit the On-Screen display.
+
+4.	Press b ENTER to confirm. Playback starts from
+the selected time.
+
+ryut
+The unit records the point where you pressed the
+Z STOP depending on the disc.
+If “MZ (Resume Stop)” appears on the screen briefly,
+press d PLAY, MONO/STEREO to resume playback
+(from the scene point).
+If you press Z STOP twice or unload the disc,
+“Z”(Complete Stop) appears on the screen. The
+unit will clear the stopped point.
+
+,,Note
+
+The resume point may be cleared when a
+button is pressed (for example; 1 (POWER),
+R (Open/Close) , etc).
+
+4
+Operating
+
+Resume playback
+
+26 Operating
+
+Marked Playback
+ut
+
+The mark function enables you to store your
+favourite files from any disc or USB device in the
+unit memory.
+1.	 Select [Music] on the [Home Menu].
+Returning to the upper folder.
+(MP3/ WMA only)
+File information will be displayed
+according to the ID3TAG information
+on the appropriate music file. (MP3
+only)
+
+4
+Operating
+
+Selecting all tracks/ files.
+Deselecting all tracks/files.
+Moving to the previous or
+next file list.
+2.	 Select a desired music on the [List] by using the
+WS then press MARKER to display the mark on
+the list.
+3.	Press b ENTER or d PLAY, MONO/STEREO.
+Displays the play mode.
+4.	 Select the play mode by using the WS and press
+b ENTER.
+
+[Mark Play]
+Marked playback.
+[Current Play]
+Normal playback.
+
+,,Note
+
+If you want to select all files on the list, select
+[Select All] and press b ENTER.
+
+To delete a Marker
+1.	Use WS to select the track that you wish to erase
+from the marked file.
+2.	Press MARKER.
+
+To delete all Markers
+Use WSAD to select [Deselect All] then press
+b ENTER in program edit mode.
+
+,,Note
+
+The markers are also cleared when the disc or
+USB device is removed, the unit is switched to
+power off or the function is switched to others.
+
+Operating 27
+
+Viewing a PHOTO file
+
+About help menu in the full screen
+Menu
+
+Buttons
+
+Operation
+
+Menu
+
+m
+INFO/
+DISPLAY
+
+Displaying the Option
+menu.
+
+a/d
+Prev./ Next
+
+A/D
+
+Moving to another file.
+
+i
+This unit can play discs with photo files.
+1.	 Select [Photo] on the [Home Menu] and press
+b ENTER.
+Moving to the previous or
+next file list.
+
+x
+List
+
+x BACK
+
+Returning to the
+[Photo] menu.
+
+Options while viewing a photo
+You can use various options during viewing a
+photo in full screen.
+1.	 While viewing a photo in full screen, press
+m INFO/DISPLAY to display the option menu.
+2.	 Select an option using WSAD.
+
+Returning to the upper
+folder.
+
+4
+
+3.	 If you want to view a slide show, press WS
+to highlight a file and press d PLAY, MONO/
+STEREO.
+About help menu in the [Photo] menu
+Menu
+
+Buttons
+
+d Slide
+Show
+
+d
+PLAY, MONO/
+STEREO
+
+wsad
+Move
+
+WSAD
+
+Moving to another
+file or content.
+
+b
+Select
+
+b ENTER
+
+Viewing a particular
+file.
+
+x BACK
+
+Returning to the
+[Home Menu].
+
+x
+Close
+
+Operation
+Viewing a slide
+show.
+
+Operating
+
+2.	Press WS to select a folder, and then press
+b ENTER.
+a
+	
+
+b	 c	
+
+d	e
+
+a Current photo/ Total number of photos –
+Use AD to view previous/next photo.
+b Slide Show z/M– Press  ENTER to start
+or pause slide show.
+c Speed x3/ x2/ x1 – Use  ENTER to select
+a delaying speed between photos in a slide
+show.
+d Rotate – Press  ENTER to rotate the photo.
+e Go to list – Press  ENTER to return [Photo]
+menu.
+
+28 Operating
+
+Sleep Timer Setting
+Press SLEEP one or more times to select delay time
+between 10 and 180 minutes, after the unit will
+turn off.
+To check the remaining time, press SLEEP.
+To cancel the sleep function, press SLEEP
+repeatedly until “SLEEP 10” appears, and then press
+SLEEP once again while “SLEEP 10” is displayed.
+
+,,Note
+
+You can check the remaining time before the
+Unit turns off.
+Press SLEEP The remaining time appears in the
+display window.
+
+Dimmer
+4
+
+Press SLEEP once. The display window will be
+darken by half. To cancel it, press SLEEP repeatedly
+until dim off.
+
+Operating
+
+Turn off the sound temporarily
+Press
+
+MUTE to mute your unit.
+
+You can mute your unit in order, for example, to
+answer the telephone, appears the MUTE in the
+display window.
+
+Last Scene Memory
+r
+This unit memorizes last scene from the last disc
+that is viewed. The last scene remains in memory
+even if you remove the disc from the unit or switch
+off the unit. If you load a disc that has the scene
+memorized, the scene is automatically recalled.
+
+System Select - Optional
+You must select the appropriate system mode for
+your TV system. Press and hold M PAUSE/STEP
+for more than five seconds to be able to select a
+system in the [Home Menu].
+
+,,Note
+
+If the USB device is connected or a disc is
+inserted, this function is not operated.
+
+Adjust the speaker level
+settings
+You can adjust the sound level of each speaker.
+1.	Press SPEAKER LEVEL repeatedly to select a
+desired speaker to set.
+2.	Press VOL -/+ to adjust the sound level of the
+selected speaker while the level setting memu
+is displayed on the display window.
+3.	 Repeat and adjust the sound level of the other
+speakers.
+
+Operating 29
+
+Radio Operations
+Be sure that both FM aerials are connected. (Refer
+to the page 17.)
+
+Listening to the radio
+1.	Press P RADIO&INPUT until FM appears in
+the display window.
+The last received station is tuned in.
+2.	 Press and hold TUNING (-/+) for about two
+seconds until the frequency indication starts to
+change, then release. Scanning stops when the
+unit tunes in a station.
+or
+	Press TUNING (-/+) repeatedly.
+3.	 Adjust the volume by rotating VOL. on the front
+panel or by pressing VOL (-/+) on the remote
+control repeatedly.
+
+You can preset 50 stations for FM.
+Before tuning, make sure that you have turned
+down the volume.
+1.	Press P RADIO&INPUT until FM appears in
+the display window.
+2.	 Select the desired frequency by using TUNING
+(-/+).
+3.	Press b ENTER a preset number will flash in
+the display window.
+4.	Press PRESET (-/+) to select the preset number
+you want.
+5.	Press b ENTER.
+The station is stored.
+6.	 Repeat the steps 2 to 5 to store other stations.
+
+Deleting all the saved stations
+1.	 Press and hold CLEAR for two seconds.
+“ERASE ALL” will flash up on the unit display.
+2.	Press CLEAR to erase all saved of the radio
+stations.
+
+1.	Press PRESET (-/+) to Select a preset number
+you want to delete.
+2.	Press CLEAR, the preset number will blink in the
+display window.
+3.	Press CLEAR again, to delete the selected preset
+number.
+
+Improving poor FM reception
+Press d PLAY, MONO/STEREO on the remote
+control. This will change the tuner from stereo to
+mono and usually improve the reception.
+
+Seeing information about a
+radio station
+The FM tuner is supplied with the RDS (Radio Data
+System) facility. This shows information about
+the radio station being listened to. Press RDS
+repeatedly to cycle through the various data types.
+PS 	 (Programme Service Name)
+The name of the channel will appear in the
+display.
+PTY	 (Programme Type Recognition)
+The programme type (e.g. Jazz or News) will
+appear in the display.
+RT 	
+
+(Radio Text)
+A text message contains special information
+from the broadcast station. This text may
+scroll across the display.
+
+CT 	 (Time controlled by the channel)
+This shows the time and date as broadcast by
+the station.
+You can search the radio stations by programme
+type by pressing RDS. The display will show the last
+PTY in use. Press PTY one or more times to select
+your preferred programme type. Press AD. The
+tuner will search automatically. When a station is
+found the search will stop.
+
+4
+Operating
+
+Presetting the Radio Stations
+
+Deleting a saved station
+
+30 Operating
+
+Sound adjustment
+Setting the surround mode
+This system has a number of preset surround sound
+fields. You can select a desired sound mode by
+using SOUND EFFECT.
+
+yy You may need to reset the surround mode,
+after switching the input, sometimes even
+after the sound track changed.
+
+You can change the SOUND EFFECT using AD
+arrow key while the sound effect information is
+displayed on.
+The displayed items for the equalizer maybe
+different depending on sound sources and effects.
+
+4
+
+,,Note
+
+yy In some of surround modes, some speakers,
+there’s no sound or low sound. It depends
+on the mode of surround and the source of
+audio, it is not defective.
+
+Operating
+
+On Display
+
+Description
+
+NAT PLUS
+
+The NAT PLUS is Natural Plus
+sound effect. You can enjoy
+the natural sound effect same
+as a 5.1-channel. (Optional)
+
+NATURAL
+
+You can enjoy comfortable
+and natural sound.(Optional)
+
+POP
+CLASSIC
+JAZZ
+ROCK
+
+This program lends an
+enthusiastic atmosphere to
+the sound, giving you the
+feeling you are at an actual
+rock pop, jazz or classic
+concert.
+
+BASS
+
+The BASS is Bass Blast. During
+playback, reinforce the treble,
+bass and surround sound
+effect.
+
+LOUDNESS
+
+Improves the bass and treble
+sound.
+
+BYPASS
+
+You can enjoy the sound
+without equalizer effect.
+
+Operating
+
+Advanced Operations
+
+31
+
+,,Note
+
+Recording to USB
+
+yy You can check the recording percentage
+rate for the USB record on the screen during
+the recording. (Audio CD or MP3/ WMA CD
+only)
+
+You can record music or sound souce to USB device
+by connecting in to the port on the unit.
+
+yy During recording MP3/WMA, there is no
+sound.
+
+1.	 Connect the USB device to the unit.
+
+yy When you stop recording during playback,
+the file that has been recorded at that time
+will be stored. (Audio CD only)
+
+2.	 Select a mode in which you want to record.
+Play back a sound source first.
+3.	 Start the recording by pressing X REC.
+4.	 To stop recording, press Z STOP.
+[All tracks/ files recording]
+Record to USB in stop or play mode.
+[Program list recording]
+After marking desired file(s) and you can record
+it to USB (Refer to the page 26).
+It’ll be stored as follows.
+
+MP3/ WMA
+
+yy If USB recording does not work, the
+message like “NO USB”, “ERROR”, “USB FULL”
+or “NO REC” is displayed on the display
+window.
+yy Multi card reader device or external HDD
+can not be used for USB recording.
+yy A file is recorded by 128 Mbyte (about 2
+hours) when you record for a long term.
+There are recorded less than 4 files.
+yy When you stop recording during playback,
+the file will not be stored.
+yy In the state CD-G, disc USB record is not
+operated.
+yy The files in the sub-folders are not recorded
+during all track recording.
+yy You may not record more than 999 files.
+
+The other
+sources (Tuner,
+AUX, Portable)
+
+yy The numbering of the recording file is
+entered from the lowest number. So if you
+delete some of the recording files, the next
+recording file could be the lowest number
+among them.
+The making of unauthorized copies of copyprotected material, including computer programs,
+files, broadcasts and sound recordings, may be
+an infringement of copyrights and constitute a
+criminal offense. This equipment should not be
+used for such purposes.
+Be responsible
+Respect copyrights.
+
+4
+Operating
+
+Audio CD
+
+yy Do not remove the USB device or turn
+off the unit during USB recording. If not,
+an incomplete file may be made and not
+deleted on PC.
+
+32 Troubleshooting
+
+Troubleshooting
+PROBLEM
+No power
+
+No picture
+
+CORRECTION
+Plug the power cord into the wall outlet securely.
+Select the appropriate video input mode on the TV so the picture
+from the unit appears on the TV screen.
+Connect the video cables securely to both the TV and unit.
+Select the correct input mode of the unit so you can hear the sound
+from the unit.
+
+There is little or no sound
+
+Connect the audio cables into the connection terminals correctly.
+Replace with a new audio cable.
+
+The DVD picture quality is poor
+
+Clean the disc by using a soft cloth with outward strokes.
+Insert a disc.
+
+A DVD/CD will not play
+
+Insert a playable disc (check the disc type, colour system and
+regional code).
+Place the disc with the label or printed side facing upwards.
+Enter your password or change the rating level.
+
+5
+Troubleshooting
+
+Humming noise heard while a DVD
+or CD is playing
+
+Clean the disc using a soft cloth with outward strokes.
+Move unit and audio components further away from your TV.
+Check the antenna connection and adjust its position.
+
+Radio stations can’t be tuned in
+properly
+
+Attach an external aerial if necessary.
+Tune to the station manually.
+Preset some radio stations, see page 29 for details.
+The remote is not pointed directly at the unit.
+Point the remote directly at the unit.
+The remote is too far from the unit.
+Use the remote within 23 feet (7m) of the unit.
+
+The remote control doesn’t work
+well / at all
+
+There is an obstacle in the path between the remote control and
+the unit.
+Remove the obstacle.
+The battery in the remote control are flat.
+Replace the battery with new by ones.
+
+Appendix 33
+
+Controlling a TV with
+the Supplied Remote
+Control
+You can control your TV using the buttons below.
+
+Setting up the remote to
+control your TV
+You can operate your TV with the supplied remote
+control.
+If your TV is listed in the table below, set the
+appropriate manufacturer code.
+1.	 While holding down 1 (TV POWER) button, and
+press the manufacturer code for your TV with
+the numerical buttons (see the table below).
+Manufacturer
+
+Code Number
+
+LG
+
+1(Default), 2
+
+Zenith
+
+1, 3, 4
+
+By pressing
+
+You can
+
+GoldStar
+
+1, 2
+
+1 (TV POWER)
+
+Turn the TV on or off.
+
+Samsung
+
+6, 7
+
+AV/INPUT
+
+Switch the TV’s input source
+between the TV and other
+input sources.
+
+Sony
+
+8, 9
+
+Hitachi
+
+4
+
+PR/CH W/S
+
+Scan up or down through
+memorized channels.
+
+2.	 Release the 1 (TV POWER) button to complete
+setting.
+
+VOL +/–
+
+Adjust the volume of the TV
+
+Depending on your TV, some or all buttons may not
+function on the TV, even after entering the correct
+manufacturer code. When you replace the batteries
+of the remote, the code number you have set may
+be reset to the default setting. Set the appropriate
+code number again.
+
+,,Note
+
+Depending on the unit being connected, you
+may not be able to control your TV using some
+of the buttons.
+
+6
+Appendix
+
+34 Appendix
+
+Maintenance
+Handling the Unit
+When shipping the unit
+Please save the original shipping carton and
+packing materials. If you need to ship the unit, for
+maximum protection, re-pack the unit as it was
+originally packed at the factory.
+Keeping the exterior surfaces clean
+yy Do not use volatile liquids such as insecticide
+spray near the unit.
+yy Wiping with strong pressure may damage the
+surface.
+yy Do not leave rubber or plastic products in
+contact with the unit for a long period of time.
+
+Cleaning the unit
+To clean the player, use a soft, dry cloth. If the
+surfaces are extremely dirty, use a soft cloth lightly
+moistened with a mild detergent solution. Do not
+use strong solvents such as alcohol, benzine, or
+thinner, as these might damage the surface of the
+unit.
+
+Maintaining the Unit
+
+6
+Appendix
+
+The unit is a high-tech, precision device. If the
+optical pick-up lens and disc drive parts are dirty
+or worn, the picture quality could be diminished.
+For details, please contact your nearest authorized
+service center.
+
+Notes on Discs
+Handling Discs
+Do not touch the playback side of the disc. Hold
+the disc by the edges so that fingerprints do not
+get on the surface. Never stick paper or tape on the
+disc.
+
+Storing Discs
+After playing, store the disc in its case. Do not
+expose the disc to direct sunlight or sources of heat
+and never leave it in a parked car exposed to direct
+sunlight.
+
+Cleaning Discs
+Fingerprints and dust on the disc can cause poor
+picture quality and sound distortion. Before playing,
+clean the disc with a clean cloth. Wipe the disc from
+the center to out.
+Do not use strong solvents such as alcohol,
+benzine, thinner, commercially available cleaners,
+or anti-static spray intended for older vinyl records.
+
+Appendix 35
+
+Area Code List
+Choose an area code from this list.
+Area	Code Area	Code Area	Code Area	Code
+Afghanistan 	
+
+AF Fiji 	
+
+FJ Monaco 	
+
+MC Singapore 	
+
+SG
+SK
+
+Argentina 	
+
+AR Finland 	
+
+FI Mongolia 	
+
+MN Slovak Republic 	
+
+Australia 	
+
+AU France 	
+
+FR Morocco 	
+
+MA Slovenia 	
+
+Austria 	
+
+AT Germany 	
+
+DE Nepal 	
+
+NP South Africa 	
+
+ZA
+
+Belgium 	
+
+BE Great Britain 	
+
+GB Netherlands 	
+
+NL South Korea 	
+
+KR
+
+Bhutan 	
+
+BT Greece 	
+
+GR Antilles 	
+
+AN Spain 	
+
+ES
+
+Bolivia 	
+
+BO Greenland 	
+
+GL New Zealand 	
+
+NZ Sri Lanka 	
+
+LK
+
+SI
+
+Brazil 	
+
+BR Hong Kong 	
+
+HK Nigeria 	
+
+NG Sweden 	
+
+SE
+
+Cambodia 	
+
+KH Hungary 	
+
+HU Norway 	
+
+NO Switzerland 	
+
+CH
+
+Canada 	
+
+CA India 	
+
+IN Oman 	
+
+OM Taiwan 	
+
+TW
+
+CL Indonesia 	
+
+ID Pakistan 	
+
+Chile 	
+
+PK Thailand 	
+
+TH
+
+China 	
+
+CN Israel 	
+
+IL Panama 	
+
+PA Turkey 	
+
+TR
+
+Colombia 	
+
+CO Italy 	
+
+IT Paraguay 	
+
+PY Uganda 	
+
+UG
+
+Congo 	
+
+CG Jamaica 	
+
+JM Philippines 	
+
+PH Ukraine 	
+
+UA
+
+Costa Rica 	
+
+CR Japan 	
+
+JP Poland 	
+
+PL United States 	
+
+US
+
+Croatia 	
+
+HR Kenya 	
+
+KE Portugal 	
+
+PT Uruguay 	
+
+UY
+
+Czech Republic 	
+
+CZ Kuwait 	
+
+KW Romania 	
+
+RO Uzbekistan 	
+
+UZ
+
+Denmark 	
+
+DK Libya 	
+
+Ecuador 	
+
+EC Luxembourg 	
+
+Egypt 	
+
+EG Malaysia 	
+
+El Salvador 	
+
+SV Maldives 	
+
+MY Saudi Arabia 	
+MV Senegal 	
+
+Ethiopia 	
+
+ET Mexico 	
+
+MX
+
+LY Russian
+LU Federation 	
+
+Vietnam 	
+RU Zimbabwe 	
+SA
+SN
+
+VN
+ZW
+
+6
+Appendix
+
+36 Appendix
+
+Language code List
+Use this list to input your desired language for the following initial settings: [Disc Audio],
+[Disc Subtitle] and [Disc Menu].
+
+6
+Appendix
+
+Language	Code
+
+Language	Code
+
+Language	Code
+
+Language	Code
+
+Afar 	
+
+6565
+
+French 	
+
+7082
+
+Lithuanian 	
+
+7684
+
+Sindhi 	
+
+8368
+
+Afrikaans 	
+
+6570
+
+Frisian 	
+
+7089
+
+Macedonian 	
+
+7775
+
+Singhalese 	
+
+8373
+
+Albanian 	
+
+8381
+
+Galician 	
+
+7176
+
+Malagasy 	
+
+7771
+
+Slovak 	
+
+8375
+
+Ameharic 	
+
+6577
+
+Georgian 	
+
+7565
+
+Malay 	
+
+7783
+
+Slovenian 	
+
+8376
+
+Arabic 	
+
+6582
+
+German 	
+
+6869
+
+Malayalam 	
+
+7776
+
+Spanish 	
+
+6983
+
+Armenian 	
+
+7289
+
+Greek 	
+
+6976
+
+Maori 	
+
+7773
+
+Sudanese 	
+
+8385
+
+Assamese 	
+
+6583
+
+Greenlandic 	
+
+7576
+
+Marathi 	
+
+7782
+
+Swahili 	
+
+8387
+
+Aymara 	
+
+6588
+
+Guarani 	
+
+7178
+
+Moldavian 	
+
+7779
+
+Swedish 	
+
+8386
+
+Azerbaijani 	
+
+6590
+
+Gujarati 	
+
+7185
+
+Mongolian 	
+
+7778
+
+Tagalog 	
+
+8476
+
+Bashkir 	
+
+6665
+
+Hausa 	
+
+7265
+
+Nauru	7865
+
+Tajik 	
+
+8471
+
+Basque 	
+
+6985
+
+Hebrew 	
+
+7387
+
+Nepali 	
+
+7869
+
+Tamil 	
+
+8465
+
+Bengali; Bangla 	
+
+6678
+
+Hindi 	
+
+7273
+
+Norwegian 	
+
+7879
+
+Telugu 	
+
+8469
+
+Bhutani 	
+
+6890
+
+Hungarian 	
+
+7285
+
+Oriya 	
+
+7982
+
+Thai 	
+
+8472
+
+Bihari 	
+
+6672
+
+Icelandic 	
+
+7383
+
+Panjabi 	
+
+8065
+
+Tonga 	
+
+8479
+
+Breton 	
+
+6682
+
+Indonesian 	
+
+7378
+
+Pashto, Pushto 	
+
+8083
+
+Turkish 	
+
+8482
+
+Bulgarian 	
+
+6671
+
+Interlingua 	
+
+7365
+
+Persian 	
+
+7065
+
+Turkmen 	
+
+8475
+
+Burmese 	
+
+7789
+
+Irish 	
+
+7165
+
+Polish 	
+
+8076
+
+Twi 	
+
+8487
+
+Byelorussian 	
+
+6669
+
+Italian 	
+
+7384
+
+Portuguese 	
+
+8084
+
+Ukrainian 	
+
+8575
+
+Chinese 	
+
+9072
+
+Japanese 	
+
+7465
+
+Quechua 	
+
+8185
+
+Urdu 	
+
+8582
+
+Croatian 	
+
+7282
+
+Kannada 	
+
+7578
+
+Rhaeto-Romance 	 8277
+
+Uzbek 	
+
+8590
+
+Czech 	
+
+6783
+
+Kashmiri 	
+
+7583
+
+Rumanian 	
+
+8279
+
+Vietnamese 	
+
+8673
+
+Danish 	
+
+6865
+
+Kazakh 	
+
+7575
+
+Russian 	
+
+8285
+
+Volapük 	
+
+8679
+
+Dutch 	
+
+7876
+
+Kirghiz 	
+
+7589
+
+Samoan 	
+
+8377
+
+Welsh 	
+
+6789
+
+English 	
+
+6978
+
+Korean 	
+
+7579
+
+Sanskrit 	
+
+8365
+
+Wolof 	
+
+8779
+
+Esperanto 	
+
+6979
+
+Kurdish 	
+
+7585
+
+Scots Gaelic 	
+
+7168
+
+Xhosa 	
+
+8872
+7473
+
+Estonian 	
+
+6984
+
+Laothian 	
+
+7679
+
+Serbian 	
+
+8382
+
+Yiddish 	
+
+Faroese 	
+
+7079
+
+Latin 	
+
+7665
+
+Serbo-Croatian 	
+
+8372
+
+Yoruba 	
+
+8979
+
+Fiji 	
+
+7074
+
+Latvian, Lettish 	
+
+7686
+
+Shona 	
+
+8378
+
+Zulu 	
+
+9085
+
+Finnish 	
+
+7073
+
+Lingala 	
+
+7678
+
+Appendix 37
+
+Trademarks and
+Licenses
+Manufactured under license from Dolby
+Laboratories. Dolby and the double-D symbol
+are trademarks of Dolby Laboratories.
+
+HDMI, the HDMI logo and High-Definition
+Multimedia Interface are trademarks or registered
+trademarks of HDMI licensing LLC.
+
+“DVD Logo” is a trademark of DVD Format/Logo
+Licensing Corporation.
+
+Copyrights
+It is forbidden by law to copy, broadcast, show,
+broadcast via cable, play in public, or rent
+copyrighted material without permission. This
+product features the copy protection function
+developed by Macrovision. Copy protection signals
+are recorded on some discs. When recording and
+playing the pictures of these discs picture noise
+will appear. This product incorporates copyright
+protection technology that is protected by U.S.
+patents and other intellectual property rights. Use
+of this copyright protection technology must be
+authorized by Macrovision, and is intended for
+home and other limited viewing uses only unless
+otherwise authorized by Macrovision. Reverse
+engineering or disassembly is prohibited.
+CONSUMERS SHOULD NOTE THAT NOT ALL
+HIGH DEFINITION TELEVISION SETS ARE FULLY
+COMPATIBLE WITH THIS PRODUCT AND MAY CAUSE
+ARTIFACTS TO BE DISPLAYED IN THE PICTURE. IN
+CASE OF 525 OR 625 PROGRESSIVE SCAN PICTURE
+PROBLEMS, IT IS RECOMMENDED THAT THE USER
+SWITCH THE CONNECTION TO THE ‘STANDARD
+DEFINITION’ OUTPUT. IF THERE ARE QUESTIONS
+REGARDING OUR TV SET COMPATIBILITY WITH THIS
+MODEL 525p AND 625p UNIT, PLEASE CONTACT
+OUR CUSTOMER SERVICE CENTER.
+
+DivX®, DivX Certified® and associated logos are
+trademarks of Rovi Corporation or its subsidiaries
+and are used under license.
+
+6
+Appendix
+
+38 Appendix
+
+Specifications
+General
+Power requirements
+
+200 - 240 V, 50 / 60 Hz
+
+Power consumption
+
+55W
+
+Dimensions (W x H x D)
+
+360 x 60 x 316 mm
+
+Net Weight (Approx.)
+
+2.5 kg
+
+Operating temperature
+
+41 °F to 95 °F (5 °C to 35 °C)
+
+Operating humidity
+
+5 % to 90 %
+
+Bus Power Supply (USB)
+
+DC 5 V 0 500 mA
+
+Inputs/ Outputs
+VIDEO OUT
+
+1.0 V (p-p), 75 Ω, sync negative, RCA jack x 1
+
+COMPONENT VIDEO OUT
+
+(Y) 1.0 V (p-p), 75 Ω, sync negative, RCA jack x 1
+(Pb)/(Pr) 0.7 V (p-p), 75 Ω, RCA jack x 2
+
+HDMI OUT (video/audio)
+
+19 pin (Type A, HDMI™ Connector )
+
+ANALOG AUDIO IN
+
+2.0 Vrms (1 kHz, 0 dB), 600 Ω, RCA jack (L, R) x 1
+
+PORT. IN
+
+0.5Vrms (3.5 mm stereo jack)
+
+Amplifier
+Stereo mode
+
+6
+
+Surround mode
+
+42 W + 42 W (3 Ω at 1kHz)
+
+Appendix
+
+Front
+
+42 W x 2 (3 Ω a 1kHz)
+
+Center
+
+42 W (3 Ω a 1kHz)
+
+Surround
+
+42 W x 2 (3 Ω a 1kHz)
+
+Subwoofer
+
+120 W (4 Ω a 80Hz)
+
+Tuner
+FM Tuning Range
+
+87.5 to 108.0 MHz or 87.50 to 108.00 MHz
+
+Appendix 39
+
+Front Speaker (Left/ Right)
+Type
+
+1 way 1 speaker
+
+Impedance Rated
+
+3Ω
+
+Input Power
+
+42 W
+
+Max. Input Power
+
+84 W
+
+Net Dimensions (W x H x D)
+
+111 x 111 x 94 mm
+
+Net Weight
+
+0.48 kg
+
+Rear Speaker (Left/ Right)
+Type
+
+1 way 1 speaker
+
+Impedance Rated
+
+3Ω
+
+Input Power
+
+42 W
+
+Max. Input Power
+
+84 W
+
+Net Dimensions (W x H x D)
+
+111 x 111 x 94 mm
+
+Net Weight
+
+0.48 kg
+
+Centre Speaker
+Type
+
+1 way 1 speaker
+
+Impedance Rated
+
+3Ω
+
+Input Power
+
+42 W
+
+Max. Input Power
+
+84 W
+
+Net Dimensions (W x H x D)
+
+111 x 111 x 94 mm
+
+Net Weight
+
+0.48 kg
+
+6
+
+Subwoofer
+1 Way 1 Speaker
+
+Impedance Rated
+
+4Ω
+
+Input Power
+
+120 W
+
+Max. Input Power
+
+240 W
+
+Net Dimensions (W x H x D)
+
+156 x 325 x 320 mm
+
+Net Weight
+
+3.05 kg
+
+Design and specifications are subject to change without notice.
+
+Appendix
+
+Type

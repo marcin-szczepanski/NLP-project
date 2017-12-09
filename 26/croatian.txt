@@ -1,0 +1,1616 @@
+KORISNIČKI PRIRUČNIK
+
+LED LCD TV / LCD TV
+Pažljivo pročitajte ovo uputstvo pre nego što
+počnete da koristite uređaj i sačuvajte ga za
+buduću upotrebu.
+
+www.lg.com
+
+2
+
+SADRŽAJ
+
+SADRŽAJ
+SRPSKI
+SRP
+
+3	
+
+LICENCE
+
+3	
+
+NAPOMENA O SOFTVERU SA
+OTVORENIM KODOM
+
+4	
+
+BEZBEDNOSNA UPUTSTVA
+
+10	
+
+-	 Gledanje 3D slika (samo za 3D modele)
+
+12	
+
+POSTUPAK INSTALACIJE
+
+12	
+
+MONTIRANJE I PRIPREMA
+
+12	
+15	
+16	
+17	
+17	
+19	
+
+Raspakivanje
+Opcioni dodaci
+Delovi i dugmad
+Podizanje i premeštanje televizora
+Montiranje na sto
+Montiranje na zid
+
+21	
+
+DALJINSKI UPRAVLJAČ
+
+23	
+
+KORIŠĆENJE KORISNIČKOG
+UPUTSTVA
+
+24	
+
+ODRŽAVANJE
+
+24	
+24	
+24	
+
+Čišćenje televizora
+-	 Ekran, okvir, komoda i postolje
+-	 Kabl za napajanje
+
+24	
+
+REŠAVANJE PROBLEMA
+
+UPOZORENJE
+yy Ukoliko zanemarite ovu poruku, možete
+biti ozbiljno povređeni, doživeti nezgodu ili
+poginuti.
+
+OPREZ
+yy Ukoliko zanemarite poruku opreza, možete
+biti lakše povređeni ili može doći do
+oštećenja uređaja.
+
+NAPOMENA
+yy Napomena vam omogućava da razumete
+neke činjenice i da koristite uređaj na
+bezbedan način. Pre korišćenja uređaja
+detaljno pročitajte napomenu.
+
+LICENCE / NAPOMENA O SOFTVERU SA OTVORENIM KODOM
+
+3
+
+LICENCE
+Podržane licence se mogu razlikovati u zavisnosti od modela. Više informacija o licencama potražite na
+lokaciji www.lg.com.
+
+HDMI, HDMI logotip i High-Definition Multimedia Interface su zaštitni žigovi ili registrovani zaštitni žigovi kompanije HDMI Licensing LLC.
+O DIVX VIDEO FORMATU: LLC® je digitalni video format koji je kreirala kompanija
+DivX, LLC, koja predstavlja ćerku-kompaniju korporacije Rovi. Ovo zvanični DivX
+Certified® uređaj koji reprodukuje DivX video zapise. Više informacija i softverske
+alatke za konvertovanje datoteka u DivX video zapise potražite na lokaciji divx.com.
+O DIVX VOD (VIDEO-ON-DEMAND) SADRŽAJIMA: Ovaj DivX Certified® uređaj
+mora se registrovati da bi mogao da reprodukuje kupljene DivX Video-on-Demand
+(VOD) filmove. Da biste dobili kôd za registraciju, pronađite odeljak DivX VOD u
+meniju za podešavanje uređaja. Više informacija o obavljanju registracije potražite na
+lokaciji vod.divx.com.
+„Uređaj je DivX Certified® za reprodukovanje DivX® video snimaka do formata HD
+1080p, uključujući premium sadržaje“
+„DivX®, DivX Certified® i srodni logotipi predstavljaju zaštitne žigove korporacije
+Rovi ili njenih ćerki-kompanija i koriste se pod licencom.“
+„Pokriveno nekim od sledećih patenata u SAD:“  
+      7,295,673; 7,460,668; 7,515,710; 7,519,274”
+
+NAPOMENA O SOFTVERU SA OTVORENIM
+KODOM
+Da biste dobili izvorni kod pod GPL, LGPL, MPL i drugim licencama otvorenog izvornog koda koje su
+sadržane u ovom proizvodu, posetite http://opensource.lge.com .
+Pored izvornog koda, možete da preuzmete i sve navedene uslove licence, odricanja od garancije i
+obaveštenja o autorskim pravima.
+Kompanija LG Electronics takođe pruža mogućnost slanja izvornog koda na CD-ROM-u, pod uslovom da
+pokrijete te troškove (koji obuhvataju cenu medija i troškove slanja i isporuke), za šta je neophodno da
+pošaljete zahtev kompaniji LG Electronics na e-adresu: opensource@lge.com. Ova ponuda važi tri (3)
+godine od datuma kupovine proizvoda.
+
+SRPSKI
+SRP
+
+Proizvedeno po licenci Dolby Laboratories. „Dolby“ i simbol sa dvostrukim slovom D
+predstavljaju zaštitne žigove kompanije Dolby Laboratories.
+
+4
+
+BEZBEDNOSNAyUPUTSTVA
+
+BEZBEDNOSNA UPUTSTVA
+Preykorišćenjayuređajaydetaljnoypročitajteyovaybezbednosnayuputstva.
+
+SRPSKI
+SRP
+
+UPOZORENJE
+
+Neypostavljajteytelevizoryiydaljinskiyupravljačyuysledećayokruženja:
+yy
+-yNaylokacijuydirektnoyizloženuysunčevimyzracima
+-yUyprostorijuysyvelikomyvlažnošćuypoputykupatila
+-yUyblizinuybiloykogyizvoraytoplote,ypoputyšporetayiydrugihyuređajaykojiygenerišuy
+toplotu
+-yUyblizinuykuhinjskihyradnihypločayiliyovlaživačaygdeylakoymoguybitiyizloženiydejstvuy
+pareyiliyulja
+-yUyzonuyizloženuykišiyiliyvetru
+-yUyblizinuyposudaysyvodomypoputyvaza
+Uysuprotnomymožeydoćiydoypožara,ystrujnogyudara,ykvarayiliydeformacijeyuređaja.
+Neystavljajteyuređajynaymestaynaykojimaymožeybitiyizloženyprašini.y
+yy
+Toymožeyizazvatiyopasnostyodypožara.
+Utikačynapajanjaypredstavljayuređajyzayisključivanje.yUtikačymorayuvekyostatiyuy
+yy
+funkcionalnomystanju.
+
+Neydodirujteyutikačynapajanjaymokrimyrukama.yPoredytoga,yukolikoyjeykontakty
+yy
+utikačaymokaryiliyprašnjav,ypotpunoyosušiteyutikačyiliyobrišiteyprašinu.y
+Višakyvlažnostiymožeyizazvatiysmrtonosniystrujniyudar.
+Osigurajteydaykablyzaynapajanjeybudeypriključenynayuzemljenuystrujnuyinstalaciju.y
+yy
+(Ovoyneyvažiyzayuređajeykojiynemajuyuzemljenje.)y
+Strujniyudaryvasymožeyubitiyiliypovrediti.
+Dobroypričvrstiteykablyzaynapajanje.y
+yy
+Ukolikoyneypričvrstiteydobroykablyzaynapajanje,ymožeydoćiydoypožara.
+Voditeyračunaydaykablyzaynapajanjeyneydođeyuydodirysayvrućimypredmetimaypoputy
+yy
+grejača.y
+Toymožeyizazvatiyopasnostyodypožarayiliystrujnogyudara.
+Neystavljajteyteškeypredmeteynayuređajyiliykablyzaynapajanje.y
+yy
+Uysuprotnomymožeydoćiydoyopasnostiyodypožarayiliystrujnogyudara.
+Savijteyantenskiykablynayprelazuyizmeđuyunutrašnjegyiyspoljnogydelayzgradeykakoy
+yy
+bisteysprečiliyprodorykiše.y
+Vodaykojaynayovajynačinydospeyuyuređajymožeyizazvatiynjegovoyoštećenjeyiystrujniy
+udar.
+Prilikomymontažeytelevizoraynayzid,yosigurajteydaygayneyinstalirateytakoydaykabloviy
+yy
+zaynapajanjeyiyprenosysignalayneyviseysayzadnjeystraneytelevizora.y
+Toymožeydovestiydoypožarayiystrujnogyudara.
+
+BEZBEDNOSNAyUPUTSTVA
+
+5
+
+Neypriključujteyprevelikiybrojyelektričnihyuređajayuyjednuyutičnicuysayvišeypriključaka.y
+yy
+Uysuprotnomymožeydoćiydoypožarayusledypregrevanja.
+
+MaterijalykojiyupijayvlaguyizyambalažeyiyPVCyambalažuydržiteydaljeyodydomašajay
+yy
+dece.y
+Materijalykojiyupijayvlaguyjeyštetanyukolikoygayprogutate.yUkolikoydođeydoynjegovogy
+slučajnogygutanja,ynaterajteypacijentaynaypovraćanjeyiyodvediteygayuynajbližuybolnicu.yPoredytoga,yPVCyambalažaymožeyizazvatiygušenje.yDržiteyjeydaljeyodydomašajay
+dece.
+Nemojteydaydozvoljavateydeciydayseypenjuyiliyoslanjajuynaytelevizor.y
+yy
+Uysuprotnomymožeydoćiydoypreturanjaytelevizora,yštoymožeyizazvatiyozbiljney
+povrede.
+Pažljivoyodložiteystareybaterijeydaybisteysprečiliydecuydayihyprogutaju.y
+yy
+Uyslučajuydaydeteyprogutaybaterije,yodmahygayodvediteylekaru.
+Nemojteydaygurateyprovodniky(poputymetalnogyštapa)yuyjedanykrajykablayzaynapayy
+janjeydokyjeydrugiykrajypriključenyuyzidnuyutičnicu.yPoredytoga,yneydodirujteykablyzay
+napajanjeyodmahynakonyštoygaypriključiteyuyzidnuyutičnicu.y
+Strujniyudaryvasymožeyubiti.y
+(uyzavisnostiyodymodela)
+Neypostavljajteyiyneyskladištiteyzapaljiveysupstanceyuybliziniyuređaja.y
+yy
+Postojiyopasnostyodyeksplozijeyiliypožarayusledynemarnogytretiranjayzapaljivihysupstanci.
+Nemojteydayispuštateymetalneypredmeteypoputynovčića,yigalayzaykosu,ymetalnihy
+yy
+štapovayiliyžiceyuyuređaj.yIstoyvažiyiyzayzapaljiveypredmeteypoputypapirayiyšibica.y
+Neophodnoyjeyobratitiyposebnuypažnjuynaydecu.y
+Možeydoćiydoystrujnogyudara,ypožarayiliypovrede.yUkolikoyuyuređajyispustiteystraniy
+predmet,yizvuciteykablyzaynapajanjeyiyobratiteyseyservisu.
+Neyprskajteyuređajyvodomyiyneyperiteygayzapaljivomysupstancomy(razređivačemyiliy
+yy
+benzenom).yMožeydoćiydoypožarayiliystrujnogyudara.
+Paziteydayuređajyneybudeyizloženyudarcima,ydayništayneyupadneyuynjegayiynemojtey
+yy
+dayispuštateypredmeteynayekran.y
+Toymožeyizazvatiypovredeyiliyoštećenjeyuređaja.
+Nikadyneydodirujteyuređajyiliyantenuytokomyudaraygromayiliyolujnogynevremena.y
+yy
+Strujniyudaryvasymožeyubiti.
+Nikadyneydodirujteyzidnuyutičnicuyuyslučajuycurenjaygasa.yOtvoriteyprozoreyiyproveyy
+triteyprostoriju.y
+Možeydoćiydoypožarayiliyopekotinayusledyvarničenja.
+
+SRPSKI
+SRP
+
+Nemojteydayispuštateyuređajyiypaziteydayseyneyprevrneyprilikomypriključivanjay
+yy
+spoljnihyuređaja.y
+Uysuprotnomymožeydoćiydoypovredeyiliyoštećenjayuređaja.
+
+6
+
+BEZBEDNOSNA UPUTSTVA
+
+Nemojte da na svoju ruku rastavljate, popravljate ili modifikujete uređaj. y
+yy
+Može doći do požara ili strujnog udara. y
+Obratite se servisu radi provere, kalibracije ili opravke uređaja.
+
+SRPSKI
+SRP
+
+Ukoliko nastupi bilo koja od sledećih situacija, odmah isključite uređaj iz električne
+yy
+mreže i obratite se lokalnom servisu.
+--Uređaj je udaren
+--Uređaj je oštećen
+--U uređaj su upali strani predmeti
+--Uređaj je počeo da se dimi ili čudno miriše
+Ovo može izazvati opasnost od požara ili strujnog udara.
+Ukoliko ne nameravate da koristite uređaj duže vreme, izvucite kabl za napajanje
+yy
+iz njega. y
+Nagomilavanje prašine može izazvati požar, a slabljenje izolacije može dovesti do
+nastanka struje curenja, strujnog udara ili požara.
+Uređaj ne sme biti izložen kapljicama tečnosti i on ne sme biti poprskan, i na njega
+yy
+se ne smeju stavljati predmeti napunjeni tečnošću, poput vaza.
+
+BEZBEDNOSNA UPUTSTVA
+
+OPREZ
+
+7
+
+Uređaj instalirajte na mestu koje nije izloženo radio-talasima.
+yy
+
+Nemojte da montirate uređaj na mestima poput nestabilnih polica ili nagnutih
+yy
+površina. Takođe izbegavajte montažu na mestima izloženim vibraciji i mestima
+koja ne podupiru uređaj u potpunosti. y
+U suprotnom može doći do pada ili prevrtanja uređaja, što može izazvati povrede
+ili oštećenje uređaja.
+Ukoliko montirate televizor na stalak, neophodno je da preduzmete korake kako
+yy
+biste sprečili njegovo prevrtanje. U suprotnom može doći do preturanja uređaja,
+što može izazvati povrede.
+Ako nameravate da montirate uređaj na zid, pričvrstite VESA standardni interfejs za montiranje na
+yy
+zid (opcioni delovi) na zadnju stranu televizora. Kada televizor montirate pomoću interfejsa za montiranje na zid (opcioni delovi), pažljivo ga pričvrstite kako ne bi pao.
+Koristite isključivo dodatke i pribor koje je naveo proizvođač.
+yy
+Montažu antene poverite kvalifikovanom serviseru. y
+yy
+Postoji opasnost od požara ili strujnog udara.
+Preporučujemo da prilikom gledanja televizije održavate rastojanje od najmanje 2
+yy
+do 7 dužina dijagonale ekrana. y
+Ukoliko dugo gledate televiziju, vid vam se može zamutiti.
+Koristite samo odgovarajući tip baterije. y
+yy
+Postoji opasnost od oštećenja daljinskog upravljača.
+Ne mešajte nove i stare baterije. y
+yy
+To može dovesti do pregrevanja novih baterija i njihovog curenja.
+Osigurajte da se između daljinskog upravljača i odgovarajućeg senzora ne nalaze
+yy
+nikakve prepreke.
+Sunčeva svetlost ili drugi izvor jake svetlosti može ometati signal daljinskog
+yy
+upravljača. U tom slučaju zamračite sobu.
+Prilikom povezivanja spoljnih uređaja poput konzola za video-igre, osigurajte da
+yy
+kablovi za povezivanje budu dovoljno dugački. y
+U suprotnom može doći do pada uređaja, što može izazvati povrede ili oštećenje
+uređaja.
+
+SRPSKI
+SRP
+
+Između antene i strujnih vodova treba da bude dovoljno mesta kako bi se izbeglo
+yy
+da antena dođe u kontakt sa vodovima, čak i u slučaju da padne. y
+To može dovesti do strujnog udara.
+
+8
+
+BEZBEDNOSNA UPUTSTVA
+
+Ne uključujte i ne isključujte uređaj postavljanjem utikača u utičnicu, odnosno
+yy
+izvlačenjem utikača iz nje. (Nemojte da koristite utikač umesto prekidača.) y
+To može dovesti do mehaničkog kvara ili strujnog udara.
+
+SRPSKI
+SRP
+
+Postupite u skladu s uputstvom za montažu datim u nastavku da biste sprečili preyy
+grevanje uređaja.
+--Između uređaja i zida potrebno je da postoji razmak od najmanje 10 cm.
+--Ne postavljajte uređaj na mesto na kome ne postoji ventilacija (npr. na policu ili u
+ormar).
+--Ne postavljajte uređaj na tepih ili jastuk.
+--Osigurajte da stolnjak ili zavesa ne blokiraju otvor za ventilaciju.
+U suprotnom može doći do požara.
+Pazite da ne dodirnete otvore za ventilaciju nakon dužeg gledanja televizije, zato
+yy
+što mogu postati veoma vrući. To ne utiče na rad i performanse uređaja.
+Povremeno pregledajte kabl uređaja i, u slučaju da primetite vidno oštećenje ili habanje, izvucite ga
+yy
+iz utičnice, prekinite sa korišćenjem uređaja i zatražite od ovlašćenog servisera da vam zameni kabl
+drugim s istom oznakom modela.
+Pazite da na kontakte utikača i utičnicu ne pada prašina. y
+yy
+To može izazvati opasnost od požara.
+Zaštitite kabl za napajanje od fizičkih i mehaničkih oštećenja, kao što su uvrtanje,
+yy
+savijanje, pritiskanje, priklještenje vratima i gaženje. Posebno obratite pažnju na
+utikače, zidne utičnice i mesto na kojem kabl izlazi iz uređaja.
+Ne pritiskajte jako panel rukom ili oštrim predmetima poput eksera, obične ili hemiyy
+jske olovke i pazite da ga ne izgrebete.
+Izbegavajte da duže vreme držite prste na ekranu. To može dovesti do privremene
+yy
+izobličenosti slike na njemu.
+Prilikom čišćenja uređaja i njegovih delova, najpre isključite napajanje, a zatim ga
+yy
+obrišite mekom krpom. Preteran pritisak može dovesti do ogrebotina ili gubitka
+boje. Nemojte da prskate uređaj vodom i ne brišite ga vlažnom krpom. Ni u kom
+slučaju nemojte da koristite sredstva za čišćenje stakla, sredstva za poliranje automobila ili industrijska sredstva za poliranje, abrazive ili vosak, benzen, alkohol itd.,
+jer može doći do oštećenja uređaja. y
+U suprotnom, može doći do požara, strujnog udara ili oštećenja uređaja (izobličenja,
+korozije ili pucanja).
+Sve dok je uređaj priključen na zidnu utičnicu, on nije razdvojen od izvora naizmeničnog napona,
+yy
+bez obzira na to da li ste ga isključili pomoću PREKIDAČA.
+Da biste izvukli kabl iz utičnice, povucite utikač. y
+yy
+Ukoliko dođe do prekida žica unutar kabla za napajanje, to može izazvati požar.
+Prilikom premeštanja uređaja obavezno najpre isključite napajanje. Zatim izvucite
+yy
+kabl za napajanje, antenski kabl i sve druge priključene kablove. y
+Može doći do oštećenja televizor ili kabla za napajanje, što može izazvati opasnost
+od požara ili strujnog udara.
+
+BEZBEDNOSNA UPUTSTVA
+
+9
+
+Imajući u vidu težinu uređaja, njegovo premeštanje ili raspakivanje treba da obave
+yy
+dve osobe. y
+U suprotnom može doći do povrede.
+
+Sve poslove oko servisiranja uređaja poverite kvalifikovanim osobama. Servisiryy
+anje je neophodno ukoliko je uređaj na bilo koji način, npr. ukoliko je kabl za napajanje ili utikač oštećen, ukoliko je na uređaj prosuta tečnost ili su u njega upali neki
+predmeti, ukoliko je bio izložen kiši ili vlazi, kao i ukoliko ne funkcioniše ispravno ili
+je ispušten.
+Ukoliko je uređaj hladan na dodir, prilikom uključenja može doći do malog „treyy
+perenja“. Ovo je uobičajena pojava i ne znači da je uređaj u bilo kom smislu neispravan.
+Panel uređaja predstavlja proizvod vrhunske tehnologije tipa sa rezolucijom od dva
+yy
+do šest megapiksela. Na panelu možete da uočite sićušne crne tačke i/ili svetle
+tačke (crvene, plave ili zelene) veličine 1 ppm. One ne predstavljaju kvar i ne utiču
+na funkcionalnost i pouzdanost uređaja.  y
+Ovaj fenomen se pojavljuje i kod uređaja drugih proizvođača i ne podleže pravu na
+zamenu ili povraćaj novca.
+Možda ćete uočiti različito osvetljenje i boju panela u zavisnosti od mesta posmayy
+tranja (levo/desno/gore/dole). y
+Ovaj fenomen je posledica karakteristika samog panela. On nije povezan sa
+funkcionalnošću uređaja i ne predstavlja kvar.
+
+Dugotrajno prikazivanje statične slike (npr. logotipa TV kanala, ekranskog menija ili scene iz videoyy
+igre) može dovesti do oštećenja ekrana sa posledicom da slika bude zadržana na ekranu, što je
+poznato i kao „urezivanje slike“. Garancija ne pokriva urezivanje slike na uređaju. y
+Izbegavajte duže prikazivanje nepokretne slike na ekranu televizora (2 sata ili duže za LCD, 1 sat ili
+duže za plazma TV). y
+Ukoliko je format slike duže vreme podešen na 4:3, može doći do urezivanja slike na ivici ekrana. y
+Ovaj fenomen se pojavljuje i kod uređaja drugih proizvođača i ne podleže pravu na zamenu ili
+povraćaj novca.
+yyZvuci koje uređaj stvara
+„Krckanje“: Zvuk krckanja do kojeg dolazi prilikom gledanja ili isključivanja televizora nastaje usled
+skupljanja plastike usled dejstva toplote i vlage. Ovaj zvuk je uobičajen za uređaje kod kojih je
+termička deformacija neophodna. Šum električnih kola/zujanje panela: Prekidačko kolo velike brzine
+koje obezbeđuje jaku struju neophodnu za rad uređaja generiše šum niskog nivoa. Ovaj šum se
+razlikuje od uređaja do uređaja. y
+On ne utiče na rad i performanse uređaja.
+
+SRPSKI
+SRP
+
+Jednom godišnje obratite se servisu radi čišćenja unutrašnjih delova uređaja. y
+yy
+Ako se nakupi prašina, može doći do mehaničkih kvarova.
+
+10 BEZBEDNOSNA UPUTSTVA
+
+Gledanje 3D slika (samo za 3D modele)
+
+UPOZORENJE
+SRPSKI
+SRP
+
+Okruženje za gledanje
+yy Vreme gledanja
+-- Prilikom gledanja 3D sadržaja, na svakih sat vremena pravite pauze u trajanju 5–15 minuta. Dugotrajno gledanje 3D sadržaja može izazvati glavobolju, vrtoglavicu, umor ili naprezanje očiju.
+Osobe kod kojih može doći do napada zbog osetljivosti na svetlost i osobe sa hroničnim oboljenjima
+yy Pojedini korisnici mogu da dožive napad ili druge neuobičajene simptome kada su izloženi trepćućem
+svetlu ili određenom svetlosnom šablonu 3D sadržaja.
+yy Nemojte da gledate 3D video sadržaje ukoliko osećate mučninu, ukoliko ste trudni i/ili bolujete od
+hroničnog oboljenja poput epilepsije, srčanih oboljenja, povećanog krvnog pritiska itd.
+yy Gledanje 3D sadržaja nije preporučeno za osobe koje pate od stereoskopskog slepila ili stereoskopske
+anomalije. Oni mogu iskusiti dvostruke slike ili nelagodu prilikom gledanja ovakvih sadržaja.
+yy Ukoliko bolujete od strabizma (razrokosti), ambliopije (slabog vida) ili astigmatizma, možda ćete imati
+problema da detektujete dubinu i možda ćete se lako zamarati usled dvostrukih slika. Preporučuje se da
+pravite češće pauze nego što to čine prosečne odrasle osobe.
+yy Ukoliko se vaš vid na desno i levo oko razlikuje, korigujte ga pre gledanja 3D sadržaja.
+Simptomi kod kojih je neophodan prekid ili uzdržavanje od gledanja 3D sadržaja
+yy Nemojte da gledate 3D sadržaje kada osećate umor usled nedostatka sna, prekomernog rada ili pića.
+yy Ukoliko uočite ove simptome, prestanite da koristite/gledate 3D sadržaje i dovoljno se odmorite kako bi
+simptomi nestali.
+-- Obratite se lekaru ako se ovakvi simptomi često javljaju. Simptomi mogu biti: glavobolja, bol u
+očima, vrtoglavica, mučnina, drhtavica, zamućenost vida, nelagoda, dvostruka slika, vizuelna neugodnost ili umor.
+
+BEZBEDNOSNA UPUTSTVA
+
+11
+
+OPREZ
+Okruženje za gledanje
+
+Starost za gledanje
+yy Mala deca/deca
+-- Korišćenje/gledanje 3D sadržaja je zabranjeno deci mlađoj od 5 godina.
+-- Deca mlađa od 10 godina mogu da ishitreno reaguju i previše se uzbude jer se njihov vid još razvija
+(na primer, mogu pokušati da dodirnu ekran ili skoče u njega). Kada deca gledaju 3D sadržaje, neophodno je obezbediti poseban nadzor i posvetiti im dodatnu pažnju.
+-- Deca imaju veći binokularni disparitet 3D sadržaja od odraslih, jer je razmak između njihovih očiju
+manji nego kod odraslih. Stoga će oni imati utisak veće stereoskopske dubine nego odrasli za istu
+3D sliku.
+yy Tinejdžeri
+-- Tinejdžeri mlađi od 19 godina mogu biti osetljivi na svetlosnu stimulaciju usled 3D sadržaja. Posavetujte ih da se uzdrže od dugotrajnog gledanja 3D sadržaja kada su umorni.
+yy Starije osobe
+-- Moguće je da će starije osobe u manjoj meri od mladih uočavati 3D efekte. Nemojte da sedite na
+manjem rastojanju od televizora od preporučenog.
+Mere opreza prilikom upotrebe 3D naočara
+yy Obavezno koristite LG 3D naočari. U suprotnom možda nećete moći da pravilno vidite 3D video
+sadržaje.
+yy Nemojte da koristite 3D naočare umesto naočara za ispravljanje vida, naočara za sunce ili zaštitnih
+naočara.
+yy Korišćenje modifikovanih 3D naočara može izazvati naprezanje očiju ili izobličenje slike.
+yy Nemojte da čuvate 3D naočari na izuzetno visokim ili niskim temperaturama. To može dovesti do
+njihovog izobličenja.
+yy 3D naočari su nežne i lako se mogu izgrebati. Za brisanje naočara uvek koristite meku i čistu krpu.
+Nemojte grebati površinu stakala 3D naočara oštrim predmetima i nemojte je čistiti/brisati hemikalijama.
+
+SRPSKI
+SRP
+
+yy Udaljenost gledanja
+-- 3D sadržaje gledajte na udaljenosti od najmanje dve dužine dijagonale ekrana. Ukoliko osetite nelagodu prilikom gledanja 3D sadržaja, udaljite se od televizora.
+
+12 POSTUPAK INSTALACIJE / MONTIRANJE I PRIPREMA
+
+NAPOMENA
+
+SRPSKI
+SRP
+
+yy Vaš uređaj može izgledati drugačije od uređaja prikazanog na slici.
+yy OSD (ekranski meni) vašeg televizora use može neznatno razlikovati od onog koji je prikazan u ovom
+priručniku.
+yy Opcije i meniji koji su na raspolaganju mogu da se razlikuju u zavisnosti od vrste ulaznog signala i
+modela uređaja koji koristite.
+yy Ovom televizoru mogu biti dodate nove funkcije u budućnosti.
+yy Televizor se može prebaciti u režim pripravnosti da bi se smanjila potrošnja energije. Televizor treba
+da isključite ako ga neko vreme nećete gledati, jer tako smanjujete potrošnju električne energije.
+yy Potrošnju električne energije možete značajno smanjiti ako smanjite nivo osvetljenosti, čime
+smanjujete i ukupne tekuće troškove.
+
+POSTUPAK INSTALACIJE
+1	
+2	
+3	
+4	
+
+Otvorite paket i proverite da li je sav pribor u paketu.
+Pričvrstite postolje na televizor.
+Povežite spoljni uređaj sa televizorom.
+Osigurajte da mrežna veza bude dostupna.y
+Mrežne funkcije televizora možete da koristite samo kada je upostavljena veza sa mrežom.
+
+MONTIRANJE I PRIPREMA
+Raspakivanje
+Proverite da li se u kutiji s uređajem nalaze sledeće stavke. Ukoliko nešto nedostaje, obratite se lokalnom
+distributeru od koga ste kupili uređaj. Ilustracije u ovom priručniku mogu se razlikovati od stvarnog uređaja
+i stavki.
+
+OPREZ
+yy Radi vaše bezbednosti i dužeg radnog veka uređaja, nemojte koristiti pribor koji nije odobren.
+yy Sva oštećenja i povrede koji nastanu zbog upotrebe pribora koji nije odobren nisu pokrivena garancijom.
+yy Pojedini modeli se isporučuju s tankom folijom pričvršćenom za ekran. Ovu foliju ne smete da uklanjate.
+
+NAPOMENA
+yy Pribor koji se isporučuje uz uređaj može se razlikovati u zavisnosti od modela.
+yy Specifikacija uređaja i sadržaj ovog priručnika se promeniti bez prethodne najave zbog unapređenja
+funkcija uređaja.
+yy Za optimalno povezivanje potrebno je da HDMI kablovi i USB uređaji imaju otvore čija je debljina
+manja od 10 mm, a širina manja od 18 mm. Ako se USB kabl ili USB memorijski uređaj ne može
+umetnuti u USB priključak televizora, upotrebite produžni kabl koji podržava USB 2.0.
+B
+
+B
+A
+
+A
+
+*A <
+= 10 mm
+*B <
+= 18 mm
+
+MONTIRANJE I PRIPREMA
+
+13
+
+ENERGY AV MODE INPUT
+
+TV
+SAVING
+
+1
+
+2
+
+4
+
+5
+
+7
+
+8
+
+9
+
+0
+
+FLASHBK
+
+LIST
+
+3
+6
+
+MARK
+
+FAV
+
+VOL
+
+3D
+
+CH
+
+P
+A
+G
+E
+
+MUTE
+MENU INFO
+
+Q.MENU
+
+ENTER
+
+BACK
+
+EXIT
+L/R SELECT
+
+Daljinski upravljač i baterije (AAA)
+(pogledajte strane 21 i 22)
+
+Korisnički priručnik
+
+Krpa za čišćenje
+(u zavisnosti od modela)
+Služi za uklanjanje prašine
+s kućišta.
+
+Cinema 3D naočare
+Broj komada 3D naočara se
+može razlikovati u zavisnosti od modela ili države.
+(samo za modele
+32/37/42/47/55LM61**,
+32/42/47LM58**,
+32/42LM34**, 47CM96**)
+
+Držač kabla
+(u zavisnosti od modela)
+(pogledajte A-6 stranicu)
+
+Kabl za napajanje
+
+Zavrtnji za postolje
+8 EA, M4 x 20
+(samo za modele
+32/37/42/47/55LM61**,
+32/42/47LM58**,
+32/42LM340*,
+32/37/42/47LS56**,
+47CM96**)
+(pogledajte strane A-3 i A-4)
+
+Zavrtnji za postolje
+4 EA, P4 x 16
+4 EA, M4 x 14
+(samo za modele
+42LM345*)
+(pogledajte A-4 stranicu)
+
+FREEZE
+
+RATIO
+
+Žica za montiranje na sto
+2 EA
+(samo za modele
+32LM585*)
+(pogledajte 18. stranicu)
+
+2EA
+(samo za modele
+32LM585*)
+(pogledajte 18. stranicu)
+Zavrtanj za nosač
+2 EA, M4 x 8
+(samo za modele
+32LM585*)
+(pogledajte 18. stranicu)
+Unutrašnji odstojnici za
+montiranje na zid
+4EA
+(samo za modele
+32/37/42/47/55LM61**,
+32/42/47LM58**,
+32/37/42/47LS56**)
+(pogledajte 20. stranicu)
+
+Zaštitni poklopac
+(samo za modele
+32/42LM340*, 47CM96**)
+(pogledajte A-5 stranicu)
+
+SRPSKI
+SRP
+
+Zavrtanj za montiranje na
+sto
+1EA
+(samo za modele 32/37LM611*,
+32/42/47LM580*,
+32/42LM34**,
+32/37/42/47LS56**)
+(pogledajte 18. stranicu)
+
+14 MONTIRANJE I PRIPREMA
+
+SRPSKI
+SRP
+
+Telo postolja / osnova
+postolja
+(samo za modele
+42/47/55LM615*,
+32/42/47LM585*)
+(pogledajte stranicu A-3)
+
+Telo postolja / osnova
+postolja
+(samo za modele 32/37LM611*,
+32/42/47LM580*,
+32/37/42/47LS56**)
+(pogledajte stranicu A-3)
+
+Telo postolja / osnova
+postolja
+(samo za modele  
+32/42LM340*, 47CM96**)
+(pogledajte stranicu A-4)
+
+Telo postolja / osnova
+postolja
+(samo za modele
+42LM345*)y
+(pogledajte stranicu A-4)
+
+OPREZ
+yy Uputstva za priključivanje kabla za napajanje
+-- Ako kabl za napajanje koji ste dobili uz TV izgleda kao što je prikazano na donjoj slici, proverite da
+li je kabl priključen ispravno.y
+
+TV
+
+Kabl za napajanje
+
+Ispravno
+
+Pogrešno
+
+MONTIRANJE I PRIPREMA
+
+15
+
+Opcioni dodaci
+
+AG-F2**, AG-F3**, AG-F4**
+Cinema 3D naočare
+
+Kompatibilnost
+AG-F2**, AG-F3**, AG-F4**
+Cinema 3D naočare
+
+32/37/42/47/55LM61**,
+32/42/47LM58**,
+32/42LM34**, 47CM96**
+
+32/37/42/47LS56**
+
+•
+
+Naziv i dizajn modela mogu da budu izmenjeni u zavisnosti od nadogradnje za funkcije proizvoda, uslova
+rada i smernica proizvođača.
+
+SRPSKI
+SRP
+
+Stavke koje se zasebno kupuju mogu biti promenjene ili izmenjene bez prethodne najave radi poboljšanja
+kvaliteta.
+Ukoliko želite da ih kupite, obratite se distributeru.
+Ovi uređaji predviđeni su za rad samo sa pojedinim modelima.
+
+16 MONTIRANJE I PRIPREMA
+
+Delovi i dugmad
+Tip A:
+
+32/37/42/47/55LM61**, 32/42/47LM58**,
+32/42LM340*, 32/37/42/47LS56**
+
+Tip B:
+
+SRPSKI
+SRP
+
+Ekran
+
+47CM96**
+
+Ekran
+
+dugmad
+
+Daljinski upravljač i
+inteligentni senzori1
+Indikator napajanja
+Zvučnici
+
+OK
+
+Dodirna dugmad2
+OK
+
+SETTINGS
+
+Zvučnici
+Daljinski upravljač i
+inteligentni senzori1
+
+INPUT
+
+Indikator napajanja
+Tip C:
+
+42LM345*
+
+dugmad
+
+Ekran
+
+OK
+
+OK
+
+Zvučnici
+Daljinski upravljač i
+inteligentni senzori1
+
+SETTINGS
+
+SETTINGS
+INPUT
+
+INPUT
+
+Indikator napajanja
+dugmad
+H
+
+Opis
+Kretanje kroz snimljene emisije.
+Podešava jačinu zvuka.
+
+H
+
+OK
+
+Bira označenu opciju iz menija ili potvrđuje unos.
+
+SETTINGS
+
+Pristupa glavnom meniju ili čuva unos i zatvara menije.
+
+INPUT
+
+Menja izvor ulaznog signala.
+
+/I
+
+Uključuje ili isključuje napajanje.
+
+1	 Inteligentni senzor - Podešava kvalitet slike i osvetljenje na osnovu okruženja.
+2	 Sva dugmad tipa A je osetljiva na dodir i može se koristiti jednostavnim dodirom prsta.
+
+NAPOMENA
+yy Indikator napajanja možete uključiti ili isključiti tako što ćete u glavnom meniju izabrati stavku
+OPCIJA.
+
+SETTINGS
+INPUT
+
+MONTIRANJE I PRIPREMA
+
+Podizanje i premeštanje
+televizora
+
+yy Transport velikog televizora treba da obavljaju
+najmanje 2 osobe.
+yy U slučaju ručnog transporta, televizor držite na
+način prikazan na sledećoj slici.y
+SRPSKI
+SRP
+
+Pre nego što započnete premeštanje ili podizanje
+televizora, pročitajte tekst u nastavku kako
+biste sprečili ogrebotine ili oštećenja televizora i
+obezbedili bezbedan transport bez obzira na tip i
+veličinu televizora.
+
+17
+
+OPREZ
+yy Ne dodirujte ekran, jer ga možete oštetiti.
+yy Preporučuje se da televizor premeštate u kutiji
+ili ambalaži u kojoj je isporučen.
+yy Pre premeštanja ili podizanja televizora,
+izvucite kabl za napajanje i sve kablove.
+yy Televizor držite tako da ekran bude okrenut od
+vas kako biste izbegli oštećenja.y
+
+yy Prilikom transporta televizor ne izlažite
+udarcima ili prejakim vibracijama.
+yy Prilikom transporta televizor držite uspravno.
+Nikad ga ne okrećite na bok i ne naginjite ga
+nalevo ili nadesno.
+
+Montiranje na sto
+1	 Podignite i postavite u uspravan položaj na
+stolu.
+-- Ostavite prostor od najmanje 10 cm od
+zida zbog odgovarajuće ventilacije.
+
+yy Čvrsto držite gornji i donji deo okvira televizora.
+Vodite računa da ne držite providni deo,
+zvučnik ili rešetku zvučnika.y
+
+10 cm
+
+10 cm
+
+m
+10 c
+10 cm
+
+2	 Povežite kabl za napajanje u zidnu utičnicu.
+
+OPREZ
+yy Ne postavljajte televizor blizu izvora toplote
+niti na njih, jer to može dovesti do požara i
+drugih oštećenja.
+
+18 MONTIRANJE I PRIPREMA
+
+Pričvršćivanje televizora za sto
+Pričvrstite televizor za sto da biste sprečili
+naginjanje prema napred, oštećenje i predupredili
+nastanak povreda.
+SRPSKI
+SRP
+
+(samo za modele 32/37LM611*, 32/42/47LM580*,
+32/42LM34**, 32/37/42/47LS56**)
+Da biste pričvrstili televizor za, umetnite i pritegnite
+isporučeni zavrtanj na zadnjoj strani postolja.
+
+Podešavanje ugla televizora radi komfornijeg gledanja
+(samo za modele 32/37LM611*, 32/42/47LM580*,
+32/42LM340*, 32/37/42/47LS56**, 47CM96**)
+Okrenite televizor za 20 stepeni nalevo ili nadesno
+da biste podesili ugao radi komfornijeg gledanja.
+
+20˚
+
+20˚
+
+(samo za modele 42/47/55LM615*,
+32/42/47LM585*)
+Okrenite televizor za 10 stepeni nalevo ili nadesno
+da biste podesili ugao radi komfornijeg gledanja.
+
+(samo za modele 32LM585*)
+1	 Povežite kablove za montiranje na sto sa
+osnovom postolja koristeći zavrtnje za nosač.
+2	 Zatim pričvrstite kablove za sto pomoću
+zavrtanja za montiranje na sto.
+3	 Kada postavite televizor, premestite sto što
+bliže zidu. Deca se mogu zavući pod sto i
+povrediti.y
+y
+
+10˚
+
+10˚
+
+OPREZ
+yy Kada podešavate ugao uređaja, vodite
+računa da ne priklještite prste.
+-- Možete se povrediti ukoliko priklještite
+prste ili šake. Uređaj može pasti i oštetiti
+se ili izazvati povredu ukoliko je previše
+nagnut.y
+y
+(samo za modele 42/47/55LM615*,
+32/42/47LM585*)
+￼
+
+M4 x 8
+2EA
+
+UPOZORENJE
+yy Da televizor ne bi pao, treba ga bezbedno
+pričvrstiti za pod/zid u skladu sa uputstvom
+za instaliranje. Naginjanje, drmanje ili
+ljuljanje televizora može izazvati povrede.
+
+<Zadnja strana>
+
+<Prednja strana>
+
+MONTIRANJE I PRIPREMA
+
+Pričvršćivanje televizora na zid
+(Ova funkcija nije dostupna za sve modele.)
+
+19
+
+Korišćenje Kensington sistema bezbednosti
+(Ova funkcija nije dostupna za sve modele.)
+
+Povežite kabl Kensington sistema bezbednosti
+između televizora i stola.
+
+1	 Umetnite i pričvrstite zavrtnje s ušicom ili
+nosače televizora i zavrtnje na zadnjoj strani
+televizora.
+-- Ukoliko se na mestu zavrtanja s ušicom
+nalaze obični zavrtnji, uklonite ih.
+2	 Montirajte nosač na zid i pričvrstite ga
+zavrtnjima.y
+Poklopite zavrtnje s ušicama na zadnjoj strani
+televizora sa mestom na kojem se nalazi zidni
+nosač.
+3	 Jakim kanapom čvrsto povežite zavrtnje sa
+ušicama i zidni nosač.y
+Obezbedite da kanap bude u vodoravnom
+položaju.
+
+OPREZ
+yy Ne dozvolite da se deca penju ili vešaju o
+televizor.
+
+Montiranje na zid
+Pažljivo postavite opcioni zidni nosač na zadnju
+stranu televizora i montirajte ga na čvrst zid pod
+pravim uglom u odnosu na pod. Ukoliko želite
+da montirate televizor na zid od nekog drugog
+građevinskog materijala, obratite se kvalifikovanim
+osobama.
+LG preporučuje da montiranje na zid obavi
+kvalifikovani profesionalni montažer.
+
+NAPOMENA
+yy Koristite platformu ili komodu koja je
+dovoljno jaka i velika da bezbedno može da
+nosi televizor.
+
+10 cm
+
+10 cm
+
+10 cm
+
+10 cm
+
+SRPSKI
+SRP
+
+Konektor za Kensington sistem bezbednosti nalazi
+se na zadnjem delu televizora. Više informacija o
+montaži i korišćenju potražite u priručniku koji se
+isporučuje sa Kensington sistemom bezbednosti ili
+posetite lokaciju
+.
+
+20 MONTIRANJE I PRIPREMA
+
+Koristite zavrtnje i zidne nosače koji zadovoljavaju
+VESA standard. Standardne dimenzije kompleta
+za montažu na zid date su u sledećoj tabeli.
+
+A
+B
+
+Opcioni dodaci (Nosač za montiranje na zid)
+SRPSKI
+SRP
+
+Model
+
+VESA (A x B)
+Standardni
+zavrtanj
+Broj zavrtanja
+Zidni nosač
+
+32LM34**
+
+200 x 100
+M4
+
+32/37LM61**
+32LM58**
+42LM34**
+32/37LS56**
+47CM96**
+200 x 200
+M6
+
+4
+
+4
+
+LSW100B
+
+LSW200BX
+
+LSW220BX
+
+OPREZ
+yy Prvo isključite napajanje, a zatim premestite
+ili postavite televizor. U suprotnom može
+doći do strujnog udara.
+yy Ukoliko televizor montirate na plafon ili kosi
+zid, uređaj može pasti i dovesti do ozbiljnih
+povreda.y
+Koristite odobreni LG zidni nosač i obratite
+se distributeru ili kvalifikovanom osoblju.
+yy Nemojte suviše pritezati zavrtnje, jer to
+može dovesti do oštećenja televizora i
+gubitka garancije.
+yy Koristite zavrtnje i zidne nosače koji
+zadovoljavaju VESA standard. Garancija
+ne pokriva bilo kakva oštećenja i povrede
+koji nastanu zbog pogrešne upotrebe ili
+korišćenja neodgovarajućeg pribora.y
+
+Model
+
+42/47/55LM61**
+42/47LM58**y
+42/47LS56**
+VESA (A x B) 400 x 400
+Standardni
+M6
+zavrtanj
+Broj zavrtan- 4
+ja
+Zidni nosač LSW400BX
+
+LSW420BX
+
+NAPOMENA
+yy Koristite zavrtnje koji se nalaze u specifikaciji
+zavrtnja VESA standarda.
+yy Komplet za montiranje na zid sadrži
+priručnik za montažu i neophodne delove.
+yy Zidni nosač predstavlja opciju. Dodatni
+pribor možete nabaviti kod lokalnog
+distributera.
+yy Dužina zavrtnja se može razlikovati u
+zavisnosti od zidnog nosača. Proverite da li
+koristite odgovarajuću dužinu.
+yy Da biste dobili više informacija, pogledajte
+priručnik koji se isporučuje sa zidnim
+nosačem.
+yy Ukoliko za televizor pričvršćujete nosač
+za montiranje na zid drugog proizvođača,
+postavite unutrašnje odstojnike za
+montiranje na zid u otvore za montiranje na
+zid na televizoru kako biste obezbedili da
+televizor bude postavljen pod vertikalnim
+uglom. Nikako ne koristite odstojnike
+ukoliko koristite nosač za montiranje
+na zid kompanije LG. (samo za modele
+32/37/42/47/55LM61**, 32/42/47LM58**,
+32/37/42/47LS56**)
+￼￼￼￼
+
+Unutrašnji odstojnik za
+montiranje na zid
+
+DALJINSKI UPRAVLJAČ
+
+21
+
+DALJINSKI UPRAVLJAČ
+
+OPREZ
+yy Nemojte kombinovati stare i nove baterije, jer to može dovesti do oštećenja daljinskog upravljača.
+Usmerite daljinski upravljač prema senzoru za daljinski upravljač na televizoru.
+(samo za modele 32/37/42/47/55LM61**, 32/42/47LM58**, 32/42LM34**, 47CM96**)
+
+RATIO
+
+INPUT
+
+ENERGY
+
+TV /
+RAD
+SAVING
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+LIST
+
+0
+
+Q.VIEW
+
+FAV
+
+P
+MUTE
+3D OPTION
+
+SETTINGS INFO
+
+Q.MENU
+
+OK
+
+GUIDE
+
+EXIT
+
+1
+2
+
+TEXT
+
+T.OPT
+
+3
+AD
+
+AV MODE
+
+SUBTITLE
+
+P
+A
+G
+E
+
+Izbor radija, TV i DTV programa.
+Promena dimenzija slike.
+Menja izvor ulaznog signala.
+Podešavanje osvetljenosti ekrana kako bi se smanjila
+potrošnja energije.
+Pristupanje listi snimljenih emisija.
+Povratak na program koji ste prethodno gledali.
+Pristupanje listi omiljenih kanala.
+Prikazuje 3D video zapise.
+Premeštanje na prethodni ili naredni ekran.
+Pristupanje glavnom meniju.
+Prikazuje informacije o trenutnom programu i ekranu.
+Pristupanje brzom meniju.
+Prikazuje 3D video zapise.
+Dugmad za navigaciju Kretanje kroz menije ili opcije.
+(gore/dole/levo/desno)
+Izbor menija ili opcija i potvrđivanje unosa.
+Vraćanje na prethodni nivo.
+Prikazivanje programskog vodiča.
+Brisanje svih prikaza na ekranu i povratak na gledanje
+televizije.
+Služe za pristup specijalnim funkcijama u nekim meni1 Dugmad u boji
+jima. y
+( : crveno,
+: zeleno,
+: žuto,
+: plavo)
+Ova dugmad se koristi za teletekst.
+2 DUGMAD ZA
+TELETEKST
+Aktiviranje titla na jeziku koji ste podesili u digitalnom
+režimu.
+3 Kontrolna dugmad Upravljanje menijima MOJI MEDIJUMI ili SIMPLINK
+kompatibilnim uređajima (USB, SIMPLINK).
+(
+)
+Pristup AV uređajima koji su putem HDMI-CEC
+povezani pomoću HDMI kabla.
+Otvaranje SIMPLINK menija.
+Uključuje ili isključuje audio opis.
+Izbor AV režima.
+
+SRPSKI
+SRP
+
+Opisi u ovom priručniku usklađeni su sa dugmadi na daljinskom upravljaču.
+Pažljivo pročitajte ovaj priručnik i pravilno koristite televizor.
+Da biste zamenili baterije, otvorite poklopac odeljka s baterijama, zamenite baterije
+(1,5 V AAA) tako da polovi
+i
+odgovaraju oznaci u odeljku, a zatim zatvorite
+poklopac odeljka za baterije.y
+Da biste uklonili baterije, obavite korake za stavljanje obrnutim redosledom.
+
+22 DALJINSKI UPRAVLJAČ
+
+(samo za modele 32/37/42/47LS56**)
+
+SRPSKI
+SRP
+1
+2
+3
+
+Podešavanje osvetljenosti ekrana kako bi se smanjila
+potrošnja energije.
+Izbor radija, TV i DTV programa.
+Prikazivanje programskog vodiča.
+Prikazuje informacije o trenutnom programu i ekranu.
+Promena dimenzija slike.
+Menja izvor ulaznog signala.
+Pristupanje listi snimljenih emisija.
+Povratak na program koji ste prethodno gledali.
+Pristupanje glavnom meniju.
+Pristupanje brzom meniju.
+Dugmad za navigaciju Kretanje kroz menije ili opcije.
+(gore/dole/levo/desno)
+Izbor menija ili opcija i potvrđivanje unosa.
+Vraćanje na prethodni nivo.
+Brisanje svih prikaza na ekranu i povratak na gledanje
+televizije.
+Pristupanje listi omiljenih kanala.
+Uključuje ili isključuje audio opis.
+Premeštanje na prethodni ili naredni ekran.
+Služe za pristup specijalnim funkcijama u nekim meni1 Dugmad u boji
+jima. y
+( : crveno,
+: zeleno,
+: žuto,
+: plavo)
+Upravljanje
+menijima
+MOJI
+MEDIJUMI
+ili SIMPLINK
+2 Kontrolna dugmad
+kompatibilnim uređajima (USB, SIMPLINK).
+(
+)
+Aktiviranje titla na jeziku koji ste podesili u digitalnom
+režimu.
+Ova dugmad se koristi za teletekst.
+3 DUGMAD ZA
+TELETEKST
+
+23
+
+KORIŠĆENJE KORISNIČKOG UPUTSTVA
+
+KORIŠĆENJE KORISNIČKOG UPUTSTVA
+Korisničko uputstvo vam omogućava da na jednostavniji način pristupite detaljnim informacijama o televizoru.
+
+2
+3
+
+Korisnički vodič
+
+1
+
+SRPSKI
+SRP
+
+Pritisnite SETTINGS da biste pristupili glavnim
+menijima.
+Pritisnite CRVENO dugme da biste pristupili
+menijima Korisnička podrška.
+Pritisnite dugmad za navigaciju da biste došli
+do stavke Korisnički vodič, a zatim pritisnite
+dugme OK.
+
+1
+
+OPCIJA > Za podešavanje jezika
+SETTINGS ➾ OPCIJA ➙ Jezik
+Možete da izaberete jezik za meni koji se prikazuje na ekranu i za
+digitalno emitovanje zvuka.
+• Jezik menija : Izbor jezika za tekst na ekranu.
+• Jezik za zvuk [Samo u digitalnom režimu] : Izbor željenog jezika
+prilikom gledanja digitalnog programa koji sadrži više jezika.
+• Jezik titla [Samo u digitalnom režimu] : Koristite funkciju Titl kada se
+emituju dva ili više jezika titla.
+✎ Ako se ne emituju podaci titla na odabranom jeziku, onda će biti
+reprodukovan titl na podrazumevanom jeziku.
+
+Podešavanje KANALA
+Podešavanje SLIKE, ZVUKA
+
+OPCIJA
+Napredna funkcija
+Informacija
+
+2
+
+Zumiraj
+
+Zatvori
+
+SETTINGS ➾ OPCIJA ➙ Jezik
+
+SLIKA
+
+ZVUK
+
+PODEŠAVANJE
+
+VREME
+
+ZAKLJUČAJ
+
+OPCIJA
+
+MREŽA
+
+MOJI MEDIJUMI
+
+Pritisnite OK() da biste podesili podešenja slike.
+
+Korisnička podrška
+
+Možete da izaberete jezik za meni koji se prikazuje na ekranu i za digitalno emitovanje zvuka.
+• Jezik menija : Izbor jezika za tekst na ekranu.
+• Jezik za zvuk [Samo u digitalnom režimu] : Izbor željenog jezika prilikom gledanja digitalnog
+programa koji sadrži više jezika.
+• Jezik titla [Samo u digitalnom režimu] : Koristite funkciju Titl kada se emituju dva ili više
+jezika titla.
+✎ Ako se ne emituju podaci titla na odabranom jeziku, onda će biti reprodukovan titl na
+podrazumevanom jeziku.
+
+Izlaz
+
+2
+
+Ažuriranje softvera
+
+udalji
+
+Zatvori
+
+Test slike
+Test zvuka
+
+1
+
+Test signala
+Info. o proiz./serv.
+Test mreže
+Korisnički vodič
+
+2
+
+Zatvori
+
+Korisnički vodič
+
+3
+
+2
+Za korišćenje ulaznog uređaja
+
+Za korišćenje opcije za uštedu energije
+Podešavanje KANALA
+
+Za podešavanje vremenskih opcija
+
+Podešavanje SLIKE, ZVUKA
+
+OPCIJA
+
+Za podešavanje opcija za zaključavanje TV-a
+Za podešavanje jezika
+
+Napredna funkcija
+
+Za podešavanje države
+
+Informacija
+
+1
+
+Pomoć onesposobljenima
+
+1
+
+Omogućava odabir željene kategorije.
+
+2
+
+Omogućava odabir željene stavke.
+Pomoću dugmadi
+možete da listate
+stranice.
+
+3
+
+Omogućava prikaz opisa željene funkcije
+koju birate pomoću indeksa.
+
+H
+
+Prikazuje opis izabranog menija.
+možete da listate
+Pomoću dugmadi
+stranice.
+Približava ili udaljuje ekran zumiranjem.
+
+H
+
+24 ODRŽAVANJE / REŠAVANJE PROBLEMA
+
+ODRŽAVANJE
+Čišćenje televizora
+Redovno čistite televizor kako biste održali najbolje performanse i produžili njegov radni vek.
+SRPSKI
+SRP
+
+OPREZ
+yy Prvo, isključite napajanje i izvucite kabl za napajanje i sve ostale kablove.
+yy Ako se televizor neće koristiti duži vremenski period, izvucite kabl za napajanje iz zidne utičnice da
+biste sprečili moguća oštećenja od udara groma ili strujnog udara.
+
+Ekran, okvir, komoda i postolje
+yy Da biste uklonili prašinu i male nečistoće, obrišite površinu suvom, čistom i mekom krpom.
+yy Da biste uklonili velike nečistoće, obrišite površinu mekom krpom nakvašenom čistom vodom ili
+razblaženim blagim deterdžentom. Odmah zatim obrišite suvom krpom.
+
+OPREZ
+yy Ne dodirujte ekran, jer ga možete oštetiti.
+yy Nemojte gurati, grebati ili udarati površinu ekrana noktima ili oštrim objektima jer to može dovesti do
+ogrebotina ili izobličenja slike.
+yy Ne koristite bilo kakva hemijska sredstva, jer ona mogu oštetiti uređaj.
+yy Nemojte prskati tečnost po površini uređaja. Ukoliko voda prodre u televizor, može doći do požara,
+strujnog udara ili kvara.
+
+Kabl za napajanje
+Redovno uklanjajte nagomilanu prašinu ili nečistoću sa kabla za napajanje.
+
+REŠAVANJE PROBLEMA
+Problem
+
+Rešenje
+
+Nije moguće
+upravljati
+televizorom
+pomoću daljinskog
+upravljača.
+
+yy Proverite senzor za daljinski upravljač na televizoru, a zatim pokušajte opet.
+yy Proverite da li ima prepreka između televizora i daljinskog upravljača.
+na ,
+na ).
+yy Proverite da li baterije rade i da li su pravilno postavljene (
+
+Nema slike i
+zvuka.
+
+yy Proverite je li uređaj uključen.
+yy Proverite da li je kabl za napajanje povezan u zidnu utičnicu.
+yy Proverite da li postoji problem u zidnoj utičnici povezivanjem drugih uređaja.
+
+Televizor se
+iznenada
+isključuje.
+
+yy Proverite postavke napajanja. Moguće je da je došlo do prekida u napajanju.
+yy Proverite da li je u postavkama menija Vreme aktivirana funkcija Automatsko
+spavanje.
+yy Ako nema signala na uključenom televizoru, televizor će se automatski
+isključiti nakon 15 minuta neaktivnosti.
+
+Kada televizor
+povežete sa
+računarom (RGB/
+HDMI DVI),
+prikazaće se poruka
+„Nema signala“ ili
+„Nevažeći format“.
+
+yy Uključite/isključite televizor pomoću daljinskog upravljača.
+yy Ponovo povežite RGB/HDMI kabl.
+yy Kada uključite televizor, ponovo pokrenite računar.

@@ -1,0 +1,1055 @@
+LAC5800R_DHUNLLR_ENG_5349
+
+ENGLISH
+
+MODEL : LAC5800R
+
+MAGYAR
+
+SRPSKI
+
+ÅöãÉÄêëäà
+
+åÄäÖÑéçëäà
+
+HRVATSKI
+
+Table of Contents
+2
+3
+4
+5
+
+Table of Contents
+Safety Note
+Front Panel / Remote Control (optional)
+About Detachable Control Panel
+
+9
+
+Connecting USB device
+
+9
+10
+
+Connecting an Auxiliary Equipment
+Listening a CD
+
+Moving to another drive
+
+Pause or restart a CD
+Search for a section within a track/ file
+Skip to another track / file
+Intro scan
+Repeat
+Shuffle
+MP3/WMA Track -10 / +10
+MP3/WMA Folder UP/DOWN
+See information about your music
+
+Attaching the control panel
+Detaching the control panel
+
+6
+
+Installation
+Basic installation
+Removing the existing receiver unit
+ISO-DIN installation
+Battery installation
+
+7
+8
+
+Connection
+Basic operation
+Mute
+Changing the general settings
+Using the EQ
+Adjusting the sound level
+XDSS+
+Checking the clock
+
+8
+
+Listening RDS broadcasting
+
+9
+
+Listening to the radio
+
+RDS broadcasting information.
+Auto search memory
+Storing and recalling broadcast frequencies
+To scan the preset stations
+To tune in the preset stations
+
+2
+
+CAR CD/MP3/WMA Receiver
+
+11
+12
+12
+
+Troubleshooting
+General setting information
+Specifications
+
+This product is manufactured to comply with Directive
+2006/28/EEC(ANNEX I , 3.2.9), 72/245/EEC, and 2006/95/EC.
+European representative :
+LG Electronics Service Europe B.V. Veluwezoom 15, 1327
+AE Almere, The Netherlands (Tel : +31-036-547-8940)
+
+Safety Note
+CAUTION
+RISK OF ELECTRIC SHOCK
+DO NOT OPEN
+
+CAUTION : TO REDUCE THE RISK OF ELECTRIC
+SHOCK DO NOT SPLIT COVER(OR BACK) NO USER
+SERVICEABLE PARTS INSIDE. REFER SERVICING
+TO QUALIFIED SERVICE PERSONNEL.
+This lightning flash with arrowhead symbol within an equilateral triangle is
+intended to alert the user to the presence of uninsulated dangerous voltage
+within the product’s enclosure that may be of sufficient magnitude to constitute a risk of electric shock to persons.
+The exclamation point within an equilateral triangle is intended to alert the
+user to the presence of important operating and maintenance (servicing)
+instructions in the literature accompanying the product.
+Always operate the vehicle in a safe manner.
+Do not become distracted by the vehicle while driving, and always be fully
+aware of all driving condition. Do not change settings, or any functions.
+Pull over in a safe and legal manner before attempting such operations.
+Do not use for many hours at extremely low or high temperature.
+(-10~60°C)
+To reduce the risk of electric shock, do not remove the cover or back of
+this product. There are no user-serviceable parts inside.
+Refer servicing to qualified service personnel.
+To reduce the risk of fire or electric shock, do not expose this product to
+dripping or splashing water, rain, or moisture.
+The temperature of unit’s outside can be extremely high, please use the
+unit after proper installation in your vehicle.
+8 cm
+
+This unit cannot play 8cm disc (use 12cm disc only).
+
+CAUTION : This product uses a Laser System.
+To ensure proper use of this product, please read this owner’s manual carefully
+and retain it for future reference.
+Should the unit require maintenance, contact an authorized service center.
+Performing controls, adjustments, or carrying out procedures other than those
+specified herein may result in hazardous radiation exposure.
+To prevent direct exposure to laser beam, do not try to open the enclosure. Visible
+laser radiation when open. DO NOT STARE INTO BEAM.
+
+Disposal of your old appliance
+1. When this crossed-out wheeled bin symbol is attached to a product it
+means the product is covered by the European Directive 2002/96/EC.
+2. All electrical and electronic products should be disposed of separately
+from the municipal waste stream via designated collection facilities
+appointed by the government or the local authorities.
+3. The correct disposal of your old appliance will help prevent potential
+negative consequences for the environment and human health.
+4. For more detailed information about disposal of your old appliance,
+please contact your city office, waste disposal service or the shop where
+you purchased the product.
+
+Caution
+When being connected in a wrong way, the unit displays as follows.
+1. Antenna port short : “ANTENNA ON PORT SHORT CIRCUIT CHECK”
+2. Remote port short : “REMOTE ON PORT SHORT CIRCUIT CHECK”
+3. Antenna port and Remote port short : “ANTENNA REMOTE ON PORT
+SHORT CIRCUIT CHECK”
+After connecting it again, restart the unit.
+You have to set the disc format option to [Mastered] in order to make the
+discs compatible with the LG players when formatting rewritable discs.
+When setting the option to Live File System, you cannot use it on LG players.
+(Mastered/Live File System : Disc format system for Windows Vista)
+
+CAR CD/MP3/WMA Receiver
+
+3
+
+Front Panel / Remote Control(optional)
+1
+2
+
+10
+
+3
+4
+
++
+
+11
+
+INT
+
+12
+
+5
+6
+7
+
+13
+
+8
+
+14
+
+9
+
+15
+16
+
+1
+2
+3
+
+SOURCE [SRC]
+Skip / Search / Seek / Tune -?b / B?+
+U/AS]
+• Auto Store [U
+u/PS]
+• Preset Scan [u
+u
+• MP3/WMA Track +10/-10 U/u
+u
+• Folder Up/Down U/u
+• Volume
+• [MUTE]
+• Power [PWR]
+Remote Sensor (Optional)
+[MENU]
+• Equalizer [EQ]
+• Extreme Dynamic Sound System
+[XDSS+]
+• Traffic Announcement [TA]
+• Programme Type [PTY]
+Display [DISP]
+
+4
+
+5
+6
+7
+
+8
+9
+
+4
+
+CAR CD/MP3/WMA Receiver
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+Eject Z
+Release
+USB slot
+AUX in
+Preset Station [1~6]
+Shuffle [SHF]
+Repeat [RPT]
+Intro Scan [INT]
+Play/Pause B/X
+• [BAND]
+• [DRIVE]
+20 Select [SEL]
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+Power [POWER] / Mute
+Select [MENU/SEL]
+Source [SRC]
+Play / Pause B/X
+Intro Scan [INT]
+Shuffle [SHF]
+• MP3/WMA Track +10
+• Folder Up U
+• CD Skip / Search
+• Seek / Tune ?m m
+
+9
+10
+11
+12
+13
+14
+15
+16
+
+• [BAND]
+• DRIVE [DRV]
+Volume Up
+/ Down
+Number [#]
+Repeat [RPT]
+Number [0 -9]
+• CD Skip / Search
+• Seek / Tune M M?
+Display [DISP.]
+• MP3/WMA Track -10
+• Folder Down u
+
+About Detachable Control Panel
+Attaching the control panel
+1
+2
+
+Detaching the control panel
+
+Align the left side of the panel with
+the stopper.
+Push the right side or panel into the
+unit until it clicks.
+
+1
+
+1
+
+2
+
+2
+
+3
+4
+
+Press the “
+” (RELEASE) to
+open the control panel.
+Hold the right part of the control
+panel.
+Pull out the control panel.
+Place the control panel in the
+supplied protective case.
+
+2
+
+3
+1
+Caution
+• The control buttons may not work properly if the control panel is not attached
+properly. If this occurs, gently press the display.
+
+4
+
+• Do not leave the control panel in any area exposed to high temperatures or
+direct sunlight.
+• Do not drop the control panel or otherwise subject it to strong impact.
+• Do not allow such volatile agents as benzine, thinner, or insecticides to come
+into contact with the surface of the control panel.
+
+Control panel
+Protective Case
+
+Note
+Periodically wipe the contacts on the back of the control
+panel with a cotton swap moistened with alcohol. For safety,
+turn off the ignition before cleaning, and remove the key
+from the ignition switch.
+
+CAR CD/MP3/WMA Receiver
+
+5
+
+Installation
+ISO-DIN Installation
+
+Basic Installation
+
+1
+
+Before installing, make sure that the
+ignition-switch is set to OFF and
+remove the terminal of the car battery
+to avoid short-circuiting.
+
+Bend the claws
+according to
+the thickness
+of the
+dashboard
+
+1
+2
+3
+4
+
+Remove the existing receiver unit.
+Make the necessary connections.
+Install the installation sleeve.
+Install the unit into the installation
+sleeve.
+
+Control panel
+
+2
+4
+5
+
+1
+
+3
+
+2
+
+4
+
+3
+
+6
+
+Control panel
+
+5
+6
+
+Slide the unit into the ISO-DIN
+frame.
+Fit screws removed from the old
+unit.
+Slide the unit and frame into the
+dash opening.
+Install the dash panel or adapter
+plate.
+Install the trim ring to the unit.
+Install the control panel to the unit.
+
+Battery Installation
+1
+
+Removing the existing receiver unit
+If there is already an installation
+sleeve for the receiver unit in the
+dashboard, it must be removed.
+
+A
+
+1
+2
+
+A
+
+6
+
+CAR CD/MP3/WMA Receiver
+
+3
+
+Remove the rear support from the
+unit.
+Remove the control panel and trim
+ring from the unit.
+Insert the lever A into the hole on
+one side of the unit.
+Perform the same operation on
+the other side and pull the unit out
+from the mounting sleeve.
+
+2
+3
+
+Pull out the battery holder with a
+sharp product like a ball point pen.
+Put the battery with
+and
+correctly on the battery holder.
+Push the battery holder back into its
+original position.
+
+Note
+• Use only one CR2025 (3V) lithium battery.
+• Remove the battery if the remote control is not used for a long period of
+time.
+• Do not leave the product in a hot or humid place.
+• Do not handle the battery with metallic tools.
+• Do not store the battery with metallic materials.
+
+Connection
+Before connecting, make sure that the ignition switch is set to OFF, and remove the battery # terminal to avoid short circuits.
+1
+
+3
+
+5
+
+2
+
+4
+
+6
+
+8
+
+1
+
+3
+
+5
+
+7
+
+2
+
+4
+
+6
+
+8
+
+7
+
+B
+A
+
+Phone Mute(Orange)
+Remote On(Blue/White)
+
+Amplifier
+(Optional)
+Amplifier
+(Optional)
+
+Front Left
+Rear Left
+Front Right
+Rear Right
+To Audio out
+Power
+Antenna
+
+A5
+Power Antenna(Blue)
+A6
+Dimmer(Pink)
+A7
+To Ignition(Red)
+
+Control Relay
+
+Dimmer Switch
+Ignition Switch
+
+A4
+To Battery(+)(Yellow)
+
+B 1
+
+A8
+Ground(-)(Black)
+
+B 2
+B 3
+BATTERY
+
+A1, A2, A3 : Not connected
+
+To Audio in
+
+B 4
+
+B
+B
+B
+B
+B
+B
+B
+B
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+Violet : Rear Right +
+Violet/ Black Stripe : Rear Right –
+Gray : Front Right +
+Gray / Black Stripe : Front Right –
+White : Front Left +
+White/Black Stripe : Front Left –
+Green : Rear Left +
+Green/ Black Stripe : Rear Left –
+
+B 5
+B 6
+B 7
+B 8
+
+CAR CD/MP3/WMA Receiver
+
+7
+
+Basic Operation
+ON PLAYER
+1. Turn the unit on.
+
+PWR/MUTE
+
+2. Select a source.
+
+SRC
+
+3. Adjust the volume.
+
+Rotate PWR
+
+ON REMOTE
+
+When EQ and XDSS+ is set to “Off”, you can adjust the sound level (BAS, MID,
+TRB) settings.
+
+POWER
+SRC
+VOLUME
+
+XDSS+ (Extreme Dynamic Sound System)
+Press and hold EQ/XDSS+. (XDSS+ : Improves the treble, bass sound.) To cancel it, press and hold again.
+
+Checking the clock
+
+Basic operation - more you can do
+
+You can see the clock pressing DISP (DISP. on the remote control)..
+
+Mute
+Press MUTE/PWR (POWER
+cancel it, press again.
+
+on the remote control) to cut the sound. To
+
+Listening RDS broadcasting
+ON PLAYER
+
+Changing the general settings
+
+1. Select a source to tuner.
+
+1 Press MENU (press and hold SEL/MENU on remote control) so that one of
+menu items appears.
+2 Press MENU (SEL/MENU on remote control) and rotate PWR. (Press VOLUME
+on the remote control.) to select one of the settings specified
+belows.
+- For more details about setting information, refer to page 12 .
+3 Press and hold MENU (SEL/MENU on remote control) to finish the setting.
+
+2. Select a band to FM.
+
+Using the EQ
+EQ is to increase or decrease the signal strength of audio frequencies. The function helps you to enjoy sound more plentifully. Press EQ/XDSS+ repeatedly. The
+indicator lights up in the following order.
+Pop t Classic t Rock t Jazz t Vocal t Salsa t Samba t User1 t
+User2 t Off
+Note
+When XDSS+ is set to “Off”, you can adjust the EQ settings.
+
+Adjusting the sound level
+Press SEL (SEL/MENU on the remote control) repeatedly to select the mode
+you want to adjust from volume, balance and fader. To adjust sound quality,
+rotate PWR.
+Note
+8
+
+CAR CD/MP3/WMA Receiver
+
+3. Select a programme types.
+4. Select a station in PTY type.
+
+SRC
+BAND
+Press and hold TA/PTY
+1-6
+
+RDS broadcasting information.
+Press and hold the PTY repeatedly for selecting each mode.
+Music group t Speech Group t Search off
+NO. MUSIC GROUP
+1.
+2.
+3.
+4.
+5.
+6.
+
+POP M, ROCK M
+EASY M, LIGHT M.
+CLASSICS, OTHER M
+JAZZ, COUNTRY
+NATION M, OLDIES
+FOLK M
+
+NO. SPEECH GROUP
+1. NEWS, AFFAIRS, INFO
+2. SPORT, EDUCATE, DRAMA
+3. CULTURE, SCIENCE, VARIED
+4. WEATHER, FINANCE, CHILDREN
+5. SOCIAL, RELIGION, PHONE IN
+6. TRAVEL, LEISURE, DOCUMENT
+
+Listening to the radio
+1. Select a source to tuner.
+
+Connecting USB device
+ON PLAYER
+
+ON REMOTE
+
+SRC
+
+SRC
+3 / BAND
+?mm/MM?
+Press and hold
+?mm/MM?
+
+2. Select a band.
+
+BAND
+
+3. Auto seek.
+Manual seek.
+
+-?b / B?+
+Press and hold
+-?b / B?+
+
+Listening to the radio - more you can do
+Auto search memory
+Press U/AS. The six strongest broadcast frequencies will be stored under preset
+button 1-6 in the order of their signal strength.To cancel, press U/AS.
+
+Storing and recalling broadcast frequencies
+1 Press BAND to select desired band you want to store.
+2 Select the desired frequency and press one of preset buttons 1-6 and hold
+until the beep sound.
+3 Repeat steps 1-2 to preset other stations.The next time, you press the same
+preset button, the radio station frequency is recalled from the memory.
+
+To scan the preset stations
+
+ON PLAYER
+
+ON REMOTE
+
+1. Open the USB cover.
+
+-
+
+-
+
+2. Connect the USB device.
+
+-
+
+-
+
+Rotate PWR
+
+3. Adjust the volume.
+
+VOLUME
+
+Moving to another drive
+When connecting this unit to multi reader, press BAND/DRIVE (BAND/DRV on
+remote control) to go to the next drive. Each time you press the button, the driver modes changes.
+Note
+If the USB device is already connected, press SRC (SRC on remote control.) to
+select a source to USB.
+
+Connecting an Auxiliary Equipment
+
+Press u/PS. Each preset station appears. To cancel, press u/PS.
+
+Auxiliary input
+
+To tune in the preset stations
+Press BAND to select the desired band and press the desired preset button 1-6
+(preset button 1-6 on the remote control).
+Note
+When a station is stored on the preset numbers on which another station of the
+same band has already been preset, the previously preset station is automatically erased.
+
+MP3 Player, etc
+
+1. Select a source to AUX.
+2. Play the connected Auxiliary
+Equipment.
+3. Adjust the volume.
+
+Line out
+
+ON PLAYER
+
+ON REMOTE
+
+SRC
+
+SRC
+
+-
+
+-
+
+Rotate PWR
+
+VOLUME
+
+CAR CD/MP3/WMA Receiver
+
+9
+
+Listening a CD
+ON PLAYER
+-
+
+1. Insert a CD.
+2. Adjust the volume.
+
+Rotate PWR
+
+ON REMOTE
+VOLUME
+
+Note
+During random playback, if you press -?b , you won’t go back to the previous
+track.
+
+MP3/WMA Track -10 / +10
+(If there is no folder or one folder.) During playback press u/PS to go back 10
+tracks, and press U/AS to go forward 10 tracks.
+
+Listening a CD - more you can do
+Pause or restart a CD
+Press B[] on the player (B
+B/[] on the remote control) during playback. Press this
+button again to resume play.
+
+Search for a section within a track / file
+Press and hold -?b / B?+ on the player (.bb/BB> on remote control) for
+about 1 second during playback and then release at the point you want.
+
+Skip to another track / file
+Press -?b / B?+ on the player (.bb/BB> on remote control.). To skip to
+previous track, press briefly -?b within 3 seconds of playing time. Press [#] and
+
+a number you want to move on remote control to move the files/track.
+Intro scan
+Press or press and hold INT on the player (INT on remote control). Each files in
+the current selected folder (
+INT) or the first 10 seconds of each tracks/files
+(INT) on the disc are played. To cancel it, press the button again.
+
+Repeat
+Press or press and hold RPT on the player (RPT on the remote control). The
+current selected tracks/files (1 RPT) or folder (
+RPT) on the disc is played
+repeatedly. To cancel it, press the button again.
+
+Shuffle
+Press or press and hold SHF on the player (SHF on the remote control). Each
+files in the current selected folder (
+SHF) or all of the tracks/files (SHF) on
+the disc is played randomly. Press SHF again to cancel it.
+
+10
+
+CAR CD/MP3/WMA Receiver
+
+MP3/WMA Folder UP/DOWN
+(If there are more than two folders.) During playback, press u/PS to go back to
+the previous folder, and press U/AS to go forward to the next folder.
+
+See information about your music
+MP3/WMA files often come with tags. The tag gives the Title, Artist or Album.
+Press DISP repeatedly during MP3/WMA/CD TEXT file playback. If there is no
+information, “NO TEXT” will be shown in the display window.
+Note
+•
+: The icon is displayed during MP3/WMA playback.
+• MP3/WMA Disc compatibility with this unit is limited as follows:
+1. Sampling Frequency / 8 - 48kHz (MP3) 22.05 - 48kHz (WMA)
+2. Bit rate / within 8 - 320kbps (include VBR) (MP3) 32 -320kbps (WMA)
+3. CD-R/CD-RW file system should be “ISO 9660”
+4. If you record MP3/WMA files using software which cannot create a FILE
+SYSTEM, for example “Direct-CD” etc., it will not be possible to playback
+MP3/WMA files. We recommend that you use “Easy-CD Creator” which creates an ISO9660 file system.
+5. WMA decoder is supported until “Class 2A”.
+Customers should also note that permission is required in order to download MP3/WMA files and music from the Internet. Our company has no
+right to grant such permission. Permission should always be sought from
+the copyright owner.
+
+Troubleshooting
+Symptom
+
+General
+
+Power doesn’t turn on / The
+unit doesn’t operate.
+
+Cause
+
+Leads and connectors are not properly.
+The fuse is blown.
+
+CD
+
+Remote
+
+Noise and other factors are causing the builtin microprocessor to operate incorrectly.
+No sound is heard / The vol- Cables are not connected correctly.
+ume level will not rise.
+There’s audio skipping.
+This unit is not firmly secured.
+The playback is not possi
+The disc is dirty.
+ble.
+The loaded disc is of a type this unit cannot
+play.
+Battery power is low.
+The unit does not operate
+correctly even when the
+appropriate remote
+control buttons are pressed.
+
+Correction
+
+Confirm once more that all connections are
+correct.
+Rectify the problem that caused the fuse to
+blow, and then replace it. Be very sure to
+install the correct fuse with the same rate.
+Turn the unit off and then on.
+Connect the cables correctly.
+Secure this unit firmly.
+Clean disc.
+Check what type the disc.
+Load new battery.
+
+CAR CD/MP3/WMA Receiver
+
+11
+
+General setting information
+ AF(Alternative frequency) ON / OFF
+When the reception quality drops, the tuner automatically changes to another station in the network, broadcasting a better reception quality, using the
+PI and AF codes.
+ REG (Region) ON / OFF
+REG ON : The unit switches to another station, within the same network,
+broadcasting the same program when the receiving signals from the current
+station become weak.
+REG OFF : The unit switches to another station, within the same network
+when the receiving signals from the current station become weak. (This
+mode, the program may differ from the one currently received.)
+ TA(Traffic Announcement) ALARM / SEEK
+TA ALARM : When a newly tuned station has no TP information for 5 seconds, a double beep sound is output.
+TA SEEK : When the newly tuned station does not receive TP information
+for 5 seconds, the receiver retunes to the next station which has the same
+PI as the last station, but has the TP information.
+ PI (Programme Identification) SOUND / MUTE
+PI SOUND : If the sound of a station with different PI is heard intermittently,
+the receiver mutes the sound after 1 second. PI MUTE : If the sound of a
+station with different PI is heard intermittently, the receiver mutes the sound
+right now.
+ AUX (Auxiliary) ON / OFF
+It is possible to use auxiliary equipment with this unit. Activate the auxiliary
+setting when using auxiliary equipment connected to this unit.
+ AUX (Auxiliary) 00dB / +6dB
+You can adjust the volume level of each source to prevent radical changes
+in volume when switching between sources.
+You can set to 0 dB or +6 dB. You may be surprised at a loud sound when
+you change the source from the external component to another source.
+ DEMO OFF/ ON
+You can change the initial indication on the display to information name
+(function name, EQ name, etc...) while listen to a source.
+ LED RED / GRN
+You can change the color of button. RED(red) <-> GRN(green)
+ BEEP 2ND / ALL
+BEEP 2ND : The beep is generated when a key is long pressed. (1 sec)
+BEEP ALL : The beep is generated when any key is pressed.
+
+Specifications
+General
+Output Power
+Power Source
+Speaker impedance
+Ground System
+Dimensions (W x H x D)
+Net Weight
+Tuner
+FM
+Frequency Range
+S/N Ratio
+Distortion
+Usable Sensitivity
+AM (MW)
+Frequency Range
+S/N Ratio
+Distortion
+Usable Sensitivity
+CD
+Frequency Response
+S/N Ratio
+Distortion
+Channel Separation (1kHz)
+AUX
+Frequency Response
+S/N Ratio
+Distortion
+Channel Separation (1kHz)
+Max Input Level (1kHz)
+USB
+Version
+
+50W x 4CH (Max.)
+DC 12V
+4Ω
+Negative
+180 x 50 x 176 mm (Without Control Panel)
+1.3 kg
+
+87.5-107.9, 87.5-108, 65-74 or 87.5-108 MHz
+55 dB
+0.7%
+12 dBµV
+520-1720 or 522-1620 kHz
+50 dB
+1.0%
+28 dBµV
+20 Hz-20 kHz
+80 dB
+0.12%
+55 dB
+20 Hz-20 kHz
+80 dB
+0.12 %
+45 dB
+1.2V (35KΩ)
+USB 1.1
+
+Designs and specifications are subject to change without notice.
+
+P/N : MFL41655349
+12
+
+CAR CD/MP3/WMA Receiver

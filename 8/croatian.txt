@@ -1,0 +1,281 @@
+KORISNIČKI PRIRUČNIK
+
+Magic Daljinski
+upravljač
+
+Prije rukovanja daljinskim upravljačem pažljivo pročitajte ovaj priručnik i sačuvajte ga
+za buduće potrebe.
+AN-MR650A
+
+www.lg.com
+
+DODATNA OPREMA
+Slika daljinskog upravljača može se razlikovati od stvarnog izgleda proizvoda.
+(Ovisno o zemlji)
+
+Magic daljinski upravljač i alkalne baterije (AA)
+
+Korisnički priručnik
+
+ꔈꔈSadržaj ovog priručnika može se mijenjati bez prethodne najave zbog nadograđivanja funkcija uređaja.
+
+BATERIJA
+1. Umetanje baterija
+ꔈꔈPažljivo pročitajte ovaj priručnik.
+ꔈꔈPritisnite gornji dio poklopca za baterije, povucite ga prema natrag i
+podignite na način kako je prikazano u nastavku.
+ꔈꔈKada mijenjate baterije, otvorite poklopac za baterije, zamijenite
+alkalne baterije (1,5 V AA) tako da odgovaraju i polu kako
+prikazuje oznaka u odjeljku za baterije, a zatim vratite poklopac.
+Daljinski upravljač obavezno usmjerite prema senzoru daljinskog
+upravljača na televizoru.
+ꔈꔈBaterije izvadite redoslijedom obrnutim od redoslijeda umetanja.
+Stare ili korištene baterije ne miješajte s novima. Čvrsto zatvorite
+poklopac.
+ꔈꔈOtvorite poklopac odjeljka za baterije kako biste pronašli
+naljepnicu.
+
+2. Mjere opreza
+ꔈꔈNakon zamjene baterije, daljinski upravljač koristite nakon uparivanja sukladno uputama u korisničkom priručniku.
+ꔈꔈAko upravljač ne radi nakon zamjene baterije, ponovno pokušajte s uparivanjem sukladno uputama u korisničkom
+priručniku.
+ꔈꔈAko se daljinski upravljač dulje vrijeme ne koristi, preporučujemo da iz njega izvadite baterije.
+ꔈꔈBateriju nemojte rastavljati niti je zagrijavati.
+ꔈꔈPazite da bateriju ne ispustite te je ne izlažite jakim udarcima koji mogu oštetiti kućište.
+ꔈꔈBateriju ne uranjajte u vodu.
+ꔈꔈAko se baterija umetne neispravno, može doći do eksplozije.
+ꔈꔈIskorištenu bateriju odložite na odgovarajući način.
+
+2
+
+OPIS DALJINSKOG UPRAVLJAČA
+ꔈꔈSlika daljinskog upravljača može se razlikovati od stvarnog izgleda proizvoda.
+ꔈꔈRedoslijed opisa može se razlikovati od stvarnog izgleda proizvoda.
+ꔈꔈNeke tipke i usluge možda neće biti dostupne, ovisno o modelima ili regijama.
+
+(NAPAJANJE)
+Uključivanje i isključivanje televizora.
+Ako set-top box uređaj dodate univerzalnom daljinskom upravljaču za televizor,
+možete ga uključivati i isključivati putem daljinskog upravljača.
+
+Brojčane tipke
+Unos brojeva.
+
+Tipke sa slovima
+Unos slova.
+
+(Razmak)
+Otvara prazno mjesto na zaslonskoj tipkovnici.
+
+(CRTICA)
+Umetanje znaka
+
+(CRTICA) između brojeva, npr. 2-1 i 2-2.
+
+Pristup spremljenom popisu kanala ili programa.
+
+*
+Pritisnite ovu tipku za emitiranje BML podataka.
+
+Aplikaciji ili usluzi Live TV možete pristupiti pomoću brojčanih tipki koje
+odgovaraju pojedinim značajkama.
+
+(Zaslonski upravljač)
+Prikazivanje zaslonskog upravljača.
+-- Pristup izborniku univerzalnog upravljača u određenim regijama.
+
+Omogućuju se video/audio opisi.
+-- Značajku SAP (Secondary Audio Program - sekundarni audioprogram) također
+možete omogućiti pritiskom na tipku
+. (Odnosi se na modele za Sjevernu
+Ameriku)
+Podešavanje glasnoće.
+
+(ISKLJUČIVANJE ZVUKA)
+Isključivanje svih zvukova.
+Pomicanje kroz spremljene kanale ili programe.
+
+3
+
+(Prepoznavanje glasa)
+Mrežna veza je potrebna za korištenje funkcije glasovnog prepoznavanja.
+1.	 Pritisnite tipku za glasovno pretraživanje.
+2.	 Kada se na zaslona televizora pojavi prozor za glas, izgovorite željene riječi.
+
+(PRETRAŽIVANJE)*
+Pretraživanje sadržaja poput TV programa, filmova i drugih videozapisa ili
+pretraživanje Interneta unosom pojma za pretraživanje u okvir za pretraživanje.
+
+(POČETNO)
+Pristup početnom izborniku.
+
+Prikaz prethodno gledanih kanala.
+Prikaz početnog izbornika set-top box uređaja. (Kada ne gledate sadržaj putem
+digitalnog prijemnika: prikaz se prebacuje na zaslon digitalnog prijemnika.)
+
+Kotačić (OK)
+Pritisnite središnji dio tipke Kotačić (OK) kako biste odabrali izbornik.
+Kanale ili programe možete mijenjati pomoću tipke Kotačić (OK).
+
+(gore/dolje/lijevo/desno)
+Pomoću tipke za gore, dolje, lijevo ili desno možete se kretati po izborniku.
+Ako tipke
+pritisnete dok se na zaslonu prikazuje pokazivač,
+pokazivač će nestati sa zaslona i Magic daljinski upravljač funkcionirat će poput
+običnog daljinskog upravljača.
+Želite li ponovno na zaslonu prikazati pokazivač, protresite Magic daljinski
+upravljač lijevo-desno.
+Povratak na prethodnu razinu.
+
+Izlaz iz prikaza na zaslonu uz povratak na prikaz zadnjeg unosa.
+
+4
+
+Prikaz vodiča kanala ili programa.
+Aktivacija ili deaktivacija titlova.
+
+(ULAZ)
+Promjena izvora ulaznog signala.
+(ULAZ) prikazuje se popis svih vanjskih izvora
+-- Pritiskom i držanjem tipke
+ulaznog signala.
+
+Tipke za usluge streaminga
+Povezuje se s uslugom streaminga videosadržaja.
+
+(Brze postavke)
+Pristup brzim postavkama.
+-- Pritiskom i držanjem tipke
+postavke.
+
+(Brze postavke) prikazuje se izbornik Sve
+
+Tipke u bojama
+Pomoću njih možete pristupiti posebnim funkcijama u određenim izbornicima.
+Upravljačke tipke (
+)
+Upravlja medijskim sadržajima.
+
+(Tipke TELETEKSTA)
+Ove se tipke koriste za teletekst.
+
+Pruža sadržaj povezan s programom koji trenutno gledate.
+
+Zumiranjem odabranog područja možete ga prikazati preko cijelog zaslona.
+
+Možete zumirati područje na koje usmjerite daljinski upravljač.
+
+* Kako biste koristili tipku, pritisnite ju i zadržite dulje od 3 sekunde.
+
+5
+
+KORIŠTENJE
+1. Registracija ili poništavanje registracije
+
+Registracija Magic daljinskog upravljača
+Kako biste mogli koristiti Magic daljinski upravljač, prvo ga morate
+upariti s televizorom.
+1.	 Stavite baterije u Magic daljinski upravljač i uključite televizor.
+2.	 Usmjerite Magic daljinski upravljač prema televizoru i pritisnite
+Kotačić (OK) na daljinskom upravljaču.
+-- Ako televizor ne registrira Magic daljinski upravljač, isključite ga
+i uključite te pokušajte ponovno.
+
+Poništavanje registracije Magic daljinskog upravljača
+Istovremeno pritisnite tipke
+(POČETNO) i
+i
+držite ih pritisnutima pet sekundi kako biste razdvojili Magic
+daljinski upravljač od televizora.
+ꔈꔈPritisnete li tipku
+i zadržite pritisak, jednim
+ćete potezom poništiti Magic daljinski upravljač i ponovno
+ga registrirati. (Na nekim modelima televizorima potrebno je
+koristiti tipku
+.)
+
+6
+
+2. Način korištenja
+
+ꔈꔈLagano protresite Magic daljinski upravljač lijevo-desno
+ili pritisnite tipke
+(POČETNO),
+(ULAZ),
+(Brze
+postavke) i na zaslonu će se prikazati pokazivač.
+(Kod nekih modela televizora pokazivač će se prikazati nakon
+što okrenete tipku Kotačić (OK).)
+ꔈꔈAko se pokazivač neko vrijeme ne koristi ili Magic daljinski
+upravljač postavite na ravnu površinu, pokazivač će se
+prestati prikazivati.
+ꔈꔈAko pokazivač ne reagira kako bi trebao, možete ga ponovno
+postaviti pomicanjem do ruba zaslona.
+ꔈꔈZbog dodatnih značajki Magic daljinski upravljač troši baterije
+brže od standardnih daljinskih upravljača.
+
+MJERE OPREZA
+ꔈꔈDaljinski upravljač nemojte koristiti izvan navedenog raspona (10 metara).
+Koristite li uređaj izvan područja pokrivenosti signalom ili nađu li se unutar područja pokrivenosti signalom
+fizičke prepreke, mogli biste imati poteškoće u komunikaciji.
+ꔈꔈMogli biste imati poteškoće u komunikaciji u slučaju korištenja dodatne opreme.
+Uređaji poput mikrovalnih pećnica i bežičnih LAN veza rade u istom frekvencijskom opsegu (2,4 GHz) kao i
+Magic daljinski upravljač. Uslijed toga moglo bi doći do poteškoća u komunikaciji.
+ꔈꔈMagic daljinski upravljač možda neće ispravno funkcionirati ako se bežični usmjerivač (pristupna točka) nalazi
+na udaljenosti manjoj od 1 metara od televizora. Svoj biste bežični usmjerivač trebali držati na udaljenosti
+većoj od 1 metara od televizora.
+ꔈꔈBateriju nemojte rastavljati ili zagrijavati.
+ꔈꔈBateriju nemojte ispustiti. Bateriju nemojte izlagati snažnim udarcima.
+ꔈꔈUmetnete li bateriju na pogrešan način, moglo bi doći do eksplozije.
+
+7
+
+SPECIFIKACIJE
+KATEGORIJE
+
+POJEDINOSTI
+
+Br. modela
+
+AN-MR650A
+
+Frekvencijski raspon
+
+2,400 GHz do 2,4835 GHz
+
+Izlazna snaga (maks.)
+
+4 dBm
+
+Kanal
+
+40 kanala
+
+Osjetljivost prijema
+
+-94,5 dBm
+
+Dimenzije (mm)
+
+Širina 48,3 x duljina 183,5 x debljina 33,7
+(odstupanja ± 1 mm)
+
+Masa
+
+101,7 g ± 8 g
+(bez baterije)
+
+Izvor napajanja
+
+AA 1,5 V,
+koriste se 2 alkalne baterije
+
+Potrošnja energije
+
+300 mW
+
+Raspon radne temperature
+
+0 °C do 60 °C
+
+8

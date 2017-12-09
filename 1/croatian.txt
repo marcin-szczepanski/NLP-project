@@ -1,0 +1,5724 @@
+HRVATSKI, SRPSKI
+
+RS800CX Korisnički priručnik
+
+HRVATSKI, SRPSKI
+
+SADRŽAJ
+1. UVOD ..............................................................................................................................
+
+5
+
+2. DIJELOVI MONITORA SRČANE FREKVENCIJE .................................................................... 6
+Opcijska dodatna oprema .................................................................................................. 6
+3. PRIPREMA....................................................................................................................... 7
+Osnovne postavke ............................................................................................................ 7
+Struktura izbornika ........................................................................................................... 8
+4. PRIPREMA ZA VJEŽBANJE ...............................................................................................
+Planiranje vašeg vježbanja ................................................................................................
+Vrste vježbi .....................................................................................................................
+Stvorite novu vježbu .........................................................................................................
+Kalibracija Polar s3 senzora brzine trčanja W.I.N.D. ..............................................................
+Kalibracija senzora trčanjem (on-the-fly kalibracija) .................................................................
+Ručno namještanje kalibracijskog faktora ..............................................................................
+
+9
+9
+9
+9
+11
+11
+11
+
+5. VJEŽBANJE .....................................................................................................................
+Nošenje primopredajnika...................................................................................................
+Počnite vježbati ................................................................................................................
+Kombiniranje vježbi ..........................................................................................................
+Informacije na zaslonu ......................................................................................................
+Prilagođavanje zaslona monitora srčane frekvencije.............................................................
+Funkcije tipki tijekom vježbanja..........................................................................................
+Pretrčite krug...................................................................................................................
+Blokiranje zone ................................................................................................................
+Povećanje prikaza ............................................................................................................
+Osvjetljenje prikaza (noćni režim rada) .................................................................................
+Izbornik postavki ..............................................................................................................
+Pauza vježbanja ..............................................................................................................
+Određivanje vaše zone (OwnZone) .....................................................................................
+
+13
+13
+13
+14
+15
+16
+20
+20
+20
+21
+21
+21
+21
+22
+
+6. NAKON VJEŽBANJA .........................................................................................................
+Prestanak vježbanja ..........................................................................................................
+Analiza rezultata vježbanja ................................................................................................
+Dnevnik vježbanja ............................................................................................................
+Tjedni sažetak .................................................................................................................
+Ukupni rezultati ................................................................................................................
+Brisanje datoteka .............................................................................................................
+
+23
+23
+23
+23
+30
+30
+31
+
+7. POSTAVKE ......................................................................................................................
+Postavke značajki .............................................................................................................
+Polar s3 senzor brzine trčanja W.I.N.D..................................................................................
+Polar senzor brzine W.I.N.D. ..............................................................................................
+Polar senzor ritma W.I.N.D. ................................................................................................
+Mjerenje dimenzija kotača ..................................................................................................
+Polar G3 GPS senzor W.I.N.D. ...........................................................................................
+Nadmorska visina.............................................................................................................
+Učestalost snimanja..........................................................................................................
+Funkcija RR podataka .......................................................................................................
+Prikaz brzine ...................................................................................................................
+Automatsko snimanje kruga ...............................................................................................
+Pregled otkucaja srca........................................................................................................
+Sportske zone .................................................................................................................
+Korisničke postavke .........................................................................................................
+
+32
+32
+32
+32
+32
+33
+34
+34
+34
+37
+37
+37
+37
+37
+37
+
+HRVATSKI, SRPSKI
+
+Općenite postavke ............................................................................................................
+Zvuk ..............................................................................................................................
+Blokiranje tipki .................................................................................................................
+Jedinice .........................................................................................................................
+Jezik..............................................................................................................................
+Hibernacija .....................................................................................................................
+Postavke sata ..................................................................................................................
+Podsjetnik.......................................................................................................................
+Događaj .........................................................................................................................
+Alarm ............................................................................................................................
+Vrijeme ..........................................................................................................................
+Datum............................................................................................................................
+Tipka prečaca (brzi izbornik) ..............................................................................................
+
+38
+38
+39
+39
+39
+39
+39
+39
+40
+40
+40
+41
+41
+
+8. PROGRAM VJEŽBANJA ....................................................................................................
+Pregled programa .............................................................................................................
+Provođenje programiranih vježbi ........................................................................................
+Početak vježbanja ............................................................................................................
+Vježbanja u fazama ..........................................................................................................
+Prikazi za vrijeme vježbanja ...............................................................................................
+Funkcije za vrijeme vježbanja .............................................................................................
+Izbornik kruga..................................................................................................................
+
+42
+42
+43
+43
+43
+43
+44
+44
+
+9. TESTOVI..........................................................................................................................
+Polar Fitness TestTM ........................................................................................................
+Prije testa .......................................................................................................................
+Provođenje testa ..............................................................................................................
+Nakon testa ....................................................................................................................
+Polar OwnOptimizerTM .....................................................................................................
+Općenito ........................................................................................................................
+Prije testa .......................................................................................................................
+Provođenje testa ..............................................................................................................
+Nakon testa ....................................................................................................................
+
+45
+45
+45
+46
+46
+48
+48
+48
+48
+49
+
+10.UPORABA NOVOG PRIMOPREDAJNIKA ............................................................................. 52
+Uvođenje novog primopredajnika ....................................................................................... 52
+11.DODATNE INFORMACIJE ..................................................................................................
+Polar sportske zone ..........................................................................................................
+OwnZone vježbanje ..........................................................................................................
+Maksimalni broj otkucaja srca ............................................................................................
+Otkucaji srca u sjedećem položaju .....................................................................................
+Rezerva otkucaja srca .......................................................................................................
+Promjenjivost otkucaja srca...............................................................................................
+Ritam trčanja i dužina koraka .............................................................................................
+R-R snimanje ...................................................................................................................
+Polar indeks trčanja ..........................................................................................................
+Biblioteka Polar članaka ....................................................................................................
+
+53
+53
+54
+54
+55
+55
+56
+56
+57
+57
+60
+
+12.INFORMACIJE SLUŽBE ZA KORISNIKE...............................................................................
+Briga i održavanje.............................................................................................................
+Briga o vašem proizvodu ...................................................................................................
+Servis ............................................................................................................................
+Zamjena baterija ..............................................................................................................
+Zamjena baterije monitora srčane frekvencije.........................................................................
+Mjere opreza ....................................................................................................................
+Smetnje za vrijeme vježbanja .............................................................................................
+Minimiziranje rizika prilikom vježbanja ..................................................................................
+
+61
+61
+61
+61
+61
+61
+62
+62
+63
+
+HRVATSKI, SRPSKI
+
+Tehničke specifikacije .......................................................................................................
+Često postavljana pitanja ..................................................................................................
+Ograničeno Polar međunarodno jamstvo ............................................................................
+Polar pravna izjava ...........................................................................................................
+
+63
+65
+66
+67
+
+INDEKS ........................................................................................................................... 69
+
+HRVATSKI, SRPSKI
+
+1. UVOD
+Čestitamo! Kupili ste kompletni sustav za vježbanje koji je iskrojen prema vašim potrebama za
+vježbanjem. Ovaj korisnički priručnik sadrži kompletne upute, koje će vam pomoći da do kraja iskoristite
+vaše monitor srčane frekvencije.
+
+Najnovija inačica ovog korisničkog priručnika se može skinuti s http://www.polar.fi/support. Za video
+upute, posjetite http://www.polar.fi/en/support/video_tutorials.
+
+UVOD
+
+5
+
+HRVATSKI, SRPSKI
+
+2. DIJELOVI MONITORA SRČANE FREKVENCIJE
+
+1.
+
+Polar RS800CX monitor srčane frekvencije: prikazuje i sprema otkucaje srca i druge podatke tijekom
+vježbanja.
+
+2.
+
+2. Polar WearLink® W.I.N.D. primopredajnik: šalje signal otkucaja srca u monitor srčane frekvencije.
+Uključuje priključak i pojas.
+
+CD-ROM: sadrži Polar ProTrainer 5
+
+TM
+
+softver i kompletni korisnički priručnik.
+
+Najnovija inačica ovog korisničkog priručnika se može skinuti s http://www.polar.fi/support.
+
+Opcijska dodatna oprema
+
+1.
+
+Polar s3 senzor brzine trčanja TM W.I.N.D.: prenosi signal brzine/ritma trčanja i udaljenosti u monitor
+srčane frekvencije. Također mjeri ritam trčanja i dužinu koraka.
+
+2.
+
+Polar G3 GPS senzorTM : pruža podatke o brzini, udaljenosti i lokaciji, kao i informacije o stazi, u svim
+sportovima na otvorenom, koristeći GPS (Global Positioninh System) tehnologiju. Prebacite vaše
+podatke o stazi u Polar ProTrainer 5 softver kako bih ih pregledali u Google Earth servisu ili pretvorili u
+GPX datoteku. Za više informacija, pogledajte upute za softver.
+
+3.
+
+Polar senzor brzineTM W.I.N.D.: mjeri brzinu i udaljenost tijekom vožnje bicikla.
+
+4.
+
+Polar senzor ritmaTM W.I.N.D.: mjeri ritam, odnosno broj okretaja pedala u minuti.
+
+Prilikom uporabe Polar G3 GPS senzora s Polar s3 senzorom brzine trčanja ili Polar senzorom brzine, GPS će
+se koristiti samo za određivanje lokacije i praćenje rute. Međutim, ako s3 senzor brzine trčanja ili senzor brzine
+vožnje nisu u dometu (npr. promjeni se vrsta sporta tijekom vježbanja), monitor srčane frekvencije automatski
+prima podatke o brzini i udaljenosti iz GPS senzora. Na ovaj način se osigurava mjerenje brzine i udaljenosti
+tijekom vježbanja. Za ponovni početak uporabe s3 senzora brzine trčanja ili senzora brzine, dugo pritisnite
+tipku SVJETLO i odaberite Seek sensor.
+
+6
+
+DIJELOVI MONITORA SRČANE FREKVENCIJE
+
+HRVATSKI, SRPSKI
+
+3. PRIPREMA
+Osnovne postavke
+
+Prije prve uporabe vašeg monitora srčane frekvencije, prilagodite osnovne postavke. Unesite što je
+moguće točnije podatke, kako bi osigurali točne povratne informacije na osnovi vaše izvedbe.
+Za namještanje podataka, koristite tipke GORE, DOLJE i prihvatite s OK. Vrijednosti se brže mijenjaju
+ako pritisnite i držite tipke GORE ili DOLJE.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
+Za aktiviranje vašeg monitora srčane frekvencije, pritisnite tipku OK dva puta.
+Pojaviti će se Polar logo. Pritisnite OK.
+Jezik (Language): Odaberite English, Deutsch, Español, Français ili Italian.
+Prikaže se Start with basic settings (Počnite s osnovnim postavkama). Pritisnite OK.
+Time (vrijeme): Odaberite 12h ili 24h. Kod 12h odaberite AM ili PM. Unesite lokalno vrijeme.
+Date (datum): Unesite trenutni datum; dd=dan, mm=mjesec, yy=godina.
+Units (jedinice): odaberite metričke (kg/cm/km) ili imperijalne (lb/ft/mi) jedinice.
+Weight (masa): unesite vašu masu. Za promjenu jedinica pritisnite i držite SVJETLO.
+Height (visina): unesite vašu visinu. Kod imperijalnih jedinica, prvo unesite stope, a nakon toga inče.
+Birthday (datum rođenja): unesite vaš datum rođenja; dd=dan, mm=mjesec, yy=godina.
+Sex (spol): Odaberite Male (muški) ili Female (ženski).
+Prikaže se Settings OK? (Postavke OK?). Odaberite Yes: za prihvaćanje i spremanje postavki. Monitor
+srčane frekvencije će prikazati vrijeme. Odaberite No ako su postavke netočne i treba ih promijeniti.
+Pritisnite STOP za povratak na podatke koje želite promijeniti.
+
+PRIPREMA
+
+7
+
+HRVATSKI, SRPSKI
+
+Struktura izbornika
+
+8
+
+PRIPREMA
+
+HRVATSKI, SRPSKI
+
+4. PRIPREMA ZA VJEŽBANJE
+Planiranje vašeg vježbanja
+Vrste vježbi
+Na vašem monitoru srčane frekvencije možete provesti instalirane pripremljene vježbe ili možete stvoriti
+nove. Koristeći Polar ProTrainer 5 softver isplanirajte i stvorite više raznolikih vježbi i prenesite ih na vaš
+monitor srčane frekvencije.
+Odaberite Settings > Exercise
+
+Izbornik Exercise prikazuje popis vježbi. Krećite se kroz opcije pomoću tipki GORE ili DOLJE i
+pregledajte vježbu pritiskom na OK.
+
+•
+•
+•
+•
+
+•
+
+Free: Slobodna vježba bez postavki.
+Basic: Vježbanje s blagim intenzitetom. Trajanje oko 45 min.
+Interval : Osnovno intervalno. Vježbanje započinje s 15 minutnim zagrijavanjem, nakon čega slijedi 1 km
+
+interval i 3 minutno razdoblje odmora, ponovljeno 5 puta. Ciklus završava s 15 minutnim hlađenjem.
+OwnZone: Monitor srčane frekvencije je u mogućnosti automatski odrediti vašu individualnu aerobnu
+(kardiovaskularnu) zonu otkucaja srca. To se naziva OwnZone. Preporučeno trajanje 45 minuta. Za
+dodatne informacije, pogledajte Određivanje vaše zone (OwnZone) (stranica 22). Za dodatne
+informacije, pogledajte OwnZone vježbanje (stranica 54).
+Add new: Stvorite i spremite vlastitu vježbu. Spremite do ukupno 10 vježbi + 1 Free vježbu u vaš monitor
+srčane frekvencije.
+
+Nakon odabira željene vježbe, prikažu se slijedeće opcije. Odaberite željenu opciju i pritisnite OK.
+1.
+
+Select (odabir) vježbe kao standardne vježbe. Slijedeći put kada krenete vježbati, vaš monitor srčane
+
+frekvencije će ponuditi ovu vježbu.
+2.
+
+3.
+
+View (pregled) postavki vježbe. Za pregled pritisnite GORE ili DOLJE:
+
+a.
+
+Osnovno vježbanje u 1-3 zone vježbanja: ciljani broj otkucaja srca, granična brzina/ritam za svaku
+zonu, vrije/udaljenost* za zonu, ili
+
+b.
+
+Vježbanje kreirano softverom: naziv, opis, ciljano vrijeme vježbanja. (Pritisnite i držite SVJETLO za
+pregled faza vježbanja i odabranog sportskog profila.)
+
+Edit Basic (namjestite) ili OwnZone vježbu prema vašim potrebama. Također možete namjestiti vježbu
+
+napravljeno pomoću monitora srčane frekvencije. Za dodatne informacije, pogledajte Stvorite novu
+vježbu (stranica 9). Ako ste vježbu stvorili sa softverom, a koja uključuje faze, ne možete ih namjestiti s
+vašim monitorom srčane frekvencije.
+4.
+
+Rename Basic (promijeni naziv) Interval ili druge vježbe stvorene s monitorom srčane frekvencije.
+
+5.
+
+Default (standardno) Povratak na standardne postavke Basic, Interval ili OwnZone vježbi.
+
+6.
+
+Delete (brisanje) vježbu koju ste stvorili koristeći monitor srčane frekvencije ili softver.
+
+Stvorite novu vježbu
+Stvorite novu vježbu sa zonama
+
+PRIPREMA ZA VJEŽBANJE
+
+9
+
+HRVATSKI, SRPSKI
+
+Uz pomoć monitora srčane frekvencije stvorite vašu vlastitu vježbu. Koristeći Polar ProTrainer 5 softver
+možete kreirati raznolikije vježbe. Za dodatne informacije, pogledajte upute za softver.
+Odaberite Settings > Exercises > Add new
+1.
+2.
+
+Postavite broj zona za vježbu ( Number of zones ) (0-3) i pritisnite OK. Za 0 zona, pogledajte Stvorite
+novu vježbu bez zona.
+Odaberite Zone type (vrsta zone).
+•
+
+Heart rate (Broj otkucaja srca)
+
+Za zone otkucaje srca, odaberite sportske zone ili ručno postavljanje zone otkucaja srca. Pritisnite
+OK.
+Sport zone: Za svoju vježbu odaberite jednu od sportskih zona (npr. Z1: 50-59% HR max). Pritisnite
+OK za nastavak na korak 3.
+Polar sportske zone su područja broja otkucaja srca u postocima vašeg maksimalnog broja otkucaja
+srca. U monitor srčane frekvencije je standardno postavljeno pet različitih sportskih zona: very light
+(50-59% HRmax), light (60-69% HRmax), moderate (70-79% HRmax), hard (80-89% HRmax), i
+maximum (90-99% HRmax). Standardna vrijednost HRmax je bazirana na starosti, ali ako znate vaše
+točne aerobne i anaerobne granice, te ako je vaš maksimalan broj otkucaja srca (HR max-p)
+pretpostavljen u Polar Fitness Test TM testu, sami ste ili u laboratoriju testirali svoj maksimalan broj
+otkucaja srca, tada možete definirati sportske zone koje će bolje odgovarati vašim potrebama za
+vježbanjem. Za više informacija, pogledajte upute za ProTrainer 5 softver.
+Manual: Postavite gornje i donje granične vrijednosti otkucaja srca u broju otkucaja u minuti (bpm) ili
+HR% / HRR% i pritisnite OK akko bi nastavili s korakom 3.
+•
+
+Speed/pace (Brzina) (potreban opcijski s3 senzor brzine trčanja, G3 GPS senzor ili senzor brzine
+
+W.I.N.D.).
+Ako ste odabrali zone brzine, postavite granice visoke i niske zone. Pritisnite OK kako bi nastavili s
+korakom 3.
+•
+
+Cadence (Ritam) (potreban opcijski s3 senzor brzine trčanja ili senzor ritma W.I.N.D.)
+
+Za zone ritma, postavite granice visoke i niske zone. Pritisnite OK kako bi nastavili s korakom 3.
+3. Postavite Zone guide za promjenu zona nakon određenog proteklog vremena ili udaljenosti*. Za
+vrijeme vježbanja, monitor srčane frekvencije će vas upozoriti na promjenu zona.
+• Timers : Postavite tajmer za zonu (minute i sekunde) i pritisnite OK. Ili
+• Distances*: Postavite udaljenost za zonu i pritisnite OK. Ili
+• Off: Deaktivirajte tajmere i udaljenosti i pritisnite OK.
+Kada definirate prvu zonu, na zaslonu se prikaže Zone 1 OK. Za više od jedne zone vježbanja, ponovite
+korake 2 i 3 dok ne definirate sve zone.
+Kada je vježba spremna, na zaslonu se prikaže New exercise added . Nova vježba ( NewExe) je spremljena
+u izbornik Exercises , gdje je možete odabrati za vaše slijedeće vježbanje. Promijenite naziv vježbe
+odabirom Rename iz popisa.
+Stvorite novu vježbu bez zona
+Za stvaranje nove vježbe bez zona, možete koristiti tajmere ili udaljenosti* koji će vas voditi kroz vaše
+vježbanje.
+Odaberite Settings > Exercises > Add new .
+1.
+2.
+
+Number of zones : Postavite broj zona na 0.
+Guide type: Odaberite opciju oglašavanja tajmera za vrijeme vježbanja (npr. podsjetnik da popijete piće),
+
+ili postavite udaljenost* (za vremena slijedećih krugova bez njihovog spremanja).
+Tajmeri
+• Number of timers : Odaberite broj tajmera (1-3) za jedan ciklus. Pritisnite OK.
+• Timer 1 : Definirajte minute i sekunde za tajmer i pritisnite OK.
+
+10
+
+PRIPREMA ZA VJEŽBANJE
+
+HRVATSKI, SRPSKI
+
+Udaljenosti*
+• Number of distances : Odaberite broj udaljenosti (1-3) za ciklus. Pritisnite OK.
+• Distance 1: Unesite udaljenost(i) i pritisnite OK.
+Ponovite korak 2 dok ne definirate tajmere ili udaljenosti*. Kada je vježba spremna, na zaslonu se
+prikaže New exercise added . Nova vježba ( NewExe) je spremljena u izbornik Exercises gdje je možete
+odabrati za vaše slijedeće vježbanje. Promijenite naziv vježbe odabirom Rename iz popisa.
+
+Kalibracija Polar s3 senzora brzine trčanja W.I.N.D.
+Opcijska kalibracija s3 senzora* može povećati točnost mjerenja brzine, ritma i udaljenosti. Preporuča se
+da kalibrirate senzor brzine trčanja prije prve uporabe, ako je došlo do velike promjene vašeg stila trčanja
+ili je pozicija senzora na cipeli značajno promijenjena (npr. ako imate nove cipele). Senzor možete
+kalibrirati trčanjem duž poznate udaljenosti, ili ručnim postavljanjem kalibracijskog faktora.
+
+Možete kalibrirati jedan s3 senzor za svaku postavku cipele.
+
+Kalibracija senzora trčanjem (on-the-fly kalibracija)
+Senzor brzine trčanja možete kalibrirati u bilo kojoj fazi vašeg ciklusa vježbanja uz stvarnu korekciju
+udaljenosti, uz uvjet da ne vježbate s ciljevima na bazi udaljenosti. Samo pretrčite poznatu udaljenost, po
+mogućnosti više od 1000 metara.
+Provjerite je li funkcija senzora u monitoru srčane frekvencije aktivirana ( Settings > Features >
+Shoes/bikes > Shoes 1/2/3 > On).
+U vremenskom režimu pritisnite OK jednom. Odaberite Settings > Shoes/bikes > Shoes 1/2/3.
+Tada odaberite Start i počnite trčati.
+Kada se nađete na početku poznate udaljenosti, pritisnite OK i počnite trčati. Kada prijeđete cijelu
+udaljenost kruga, pritisnite OK. Provedite kalibraciju senzora na dva načina:
+1.
+
+Pritisnite i držite tipku SVJETLO kako bi ušli u Settings. Ili,
+
+2.
+
+Pritisnite STOP jednom. Odaberite Settings.
+
+Odaberite Calibrate > Correct lap > Set true lap distance . Namjestite prikazanu udaljenost kruga s
+udaljenosti koju ste upravo pretrčali i pritisnite OK.
+Prikažu se Calibration complete i faktor kalibracije. Trkaći senzor je sada kalibriran i spreman za akciju.
+
+Ručno namještanje kalibracijskog faktora
+Kalibracijski faktor se računa kao odnos stvarne udaljenosti i nekalibrirane udaljenosti. Na primjer ako
+pretrčite 1200 m i monitor srčane frekvencije pokazuje udaljenost od 1180 m, kalibracijski faktor je 1.000.
+Izračunajte novi faktor kako slijedi: 1.000*1200/1180 = 1.017. raspon mjerenja za ovaj faktor je 0.500 –
+1.500.
+Postoje četiri opcije za postavljanje kalibracijskog faktora:
+1.
+
+Prije vježbanja.
+
+Odaberite Settings > Features > Shoes/bikes > Shoe 1/2/3 > Calibrate .
+Postavite Calibration factor i pritisnite OK. Senzor je sada kalibriran.
+2.
+
+Tijekom vježbanja, pauziranjem snimanja vježbanja.
+
+Počnite vježbati pritiskom na OK dva puta u vremenskom prikazu. Jednom pritisnite STOP i snimanje
+vježbanja je pauzirano.
+Odaberite Settings > Calibrate > Set factor .
+
+PRIPREMA ZA VJEŽBANJE
+
+11
+
+HRVATSKI, SRPSKI
+
+Postavite Calibration factor i pritisnite OK. Senzor je sada kalibriran. Nastavite snimanje vježbanja
+pritiskom na OK.
+3.
+
+Tijekom vježbanja bez pauziranja snimanja vježbanja.
+
+Počnite vježbati pritiskom na OK dva puta u vremenskom prikazu. Pritisnite i držite SVJETLO kako bi ušli
+u Settings.
+Odaberite Calibrate > Set factor .
+Postavite Calibration factor i pritisnite OK. Senzor je sada kalibriran. Nastavite trčati.
+
+Ako se prikaže poruka
+
+S sensor calibration failed
+
+*Potreban opcijski s3 senzor brzine trčanja W.I.N.D.
+
+12
+
+PRIPREMA ZA VJEŽBANJE
+
+senzor nije kalibriran i morate pokušati ponovo.
+
+HRVATSKI, SRPSKI
+
+5. VJEŽBANJE
+Nošenje primopredajnika
+Nosite primopredajnik za mjerenje broja otkucaja srca.
+Prije početka snimanja, morate nositi WearLink primopredajnik.
+1.
+
+Dobro namočite područja elektroda pojasa tekućom vodom.
+
+Preporučamo uporabu kontaktnog gela (ECG gel) za optimizaciju kontakta između vaše kože i
+primopredajnika, pogotovo tijekom dugotrajnih natjecanja.
+2.
+
+Fiksirajte priključak na pojas. Namjestite pojas da bude čvrst ali da vam bude ugodno.
+
+3.
+
+Učvrstite pojas oko vaših prsa, malo ispod prsnih mišića i zakačite drugi kraj pojasa.
+
+4.
+
+Provjerite prianjaju li mokra područja elektroda čvrsto na vašu kožu i da je Polar logotip priključka na
+sredini i uspravan.
+
+Kada ga ne koristite, skinite priključak s pojasa, kako bi maksimalizirali radni vijek
+primopredajnika. Pogledajte detaljne upute za pranje u poglavlju Briga i održavanje (stranica 61).
+
+Polar WearLink primopredajnik se može koristiti sa specijalnom odjećom koja ima ugrađene elektrode od
+mekanog tekstila. Zakačite priključak primopredajnika direktno na odjeću bez pojasa tako da je Polar logotip
+priključka u uspravnom položaju.
+
+Počnite vježbati
+1.
+
+Nosite primopredajnik prema uputama i započnite mjerenje broja otkucaja srca pritiskom na tipku OK.
+
+2.
+
+Unutar 15 sekundi na zaslonu se pojavi broj otkucaja vašeg srca.
+•
+
+Ako koristite senzor, odaberite cipelu ili bicikl pritiskom i držanjem tipke DOLJE ili u Settings >
+Shoes/bikes. Broj u donjem desnom kutu zaslona označava cipelu ili bicikl koji će se koristiti. Mirujte
+
+VJEŽBANJE
+
+13
+
+HRVATSKI, SRPSKI
+
+i pričekajte dok monitor srčane frekvencije ne pronađe signal senzora (ovisno o senzoru koji koristite,
+simbol trkača, biciklista ili GPS-a počne treptati).
+3.
+
+• Za brzu promjenu vrste vježbe, pritisnite i držite tipku GORE.
+Započnite s vježbanjem pritiskom na OK.
+
+Ako se prikaže slijedeća poruka: (Naziv vježbe) requires a speed sensor, vaša vježba zahtijeva senzor
+brzine za prikaz brzine/ritma i udaljenosti* (npr. u vježbi ste definirali zone brzine/ritma*). Monitor srčane
+frekvencije se vraća u izbornik odabira vrste vježbe, gdje možete odabrati vježbu koja ne zahtijeva senzor
+brzine.
+Alternativno, odaberite Settings, Reset trip ili Location.
+U prikazu Settings prije vježbanja možete pregledati i promijeniti različite postavke. Za dodatne
+informacije o svim dostupnim postavkama, pogledajte POSTAVKE (stranica 32). Izbornik Settings
+prikazuje slijedeće opcije:
+• Exercise : Odaberite Free, Basic, Interval , ili OwnZone (ako ste stvorili nove vježbe i one će biti na
+popisu).
+
+•
+
+1.
+
+Select : Standardna vježba će biti odmah provedena, ili
+
+2.
+
+View: Pregledajte postavke vježbe.
+
+Shoes/bikes: Odaberite cipele 1/2/3, bicikl 1/2/3 ili ništa. U popisu se nalaze samo cipele/bicikli koje ste
+aktivirali u Settings > Features > Shoes/bikes .
+
+Ako odaberete cipelu ili bicikl, te ste također aktivirali GPS funkciju, GPS će se koristiti samo za
+određivanje lokacije i praćenje rute.
+•
+
+GPS: Uključite/isključite GPS funkciju.
+
+•
+
+Altitude: Uključite/isključite funkciju nadmorske visine ili kalibrirajte nadmorsku visinu.
+
+•
+
+Rec.rate : Postavite učestalost snimanja.
+
+•
+
+RR data: Uključite ili isključite RR snimanje.
+
+•
+
+TZ Alarm: Uključite ili isključite zvukove alarma ciljane zone.
+
+•
+
+HR view: Odaberite prikaz broja otkucaja srca u otkucajima u minuti (bpm), kao postotak maksimalnog
+
+broja otkucaja srca (HR%) ili kao postotak rezerve otkucaja srca (HRR%).
+•
+
+Speed view: odaberite prikaz brzine* u kilometrima ili miljama na sat (km/h ili mph) ili u minutama po
+
+kilometru ili milji (min/km ili min/mi).
+•
+
+A.Lap: Uključite ili isključite funkciju automatskog kruga.
+
+•
+
+Display: Namještanje zaslona (za dodatne informacije, pogledajte Prilagođavanje zaslona monitora
+
+srčane frekvencije (stranica 16)).
+U opciji Reset trip možete poništiti udaljenost vožnje prije započinjanja vježbanja.
+U opciji Location** možete provjeriti vašu trenutnu lokaciju. Monitor srčane frekvencije će odrediti vašu
+lokaciju koristeći zadnje GPS koordinate. Geografska širina i dužina su izraženi u stupnjevima i
+minutama. U najnižem redu je vidljiv broj satelita.
+
+Za dodatnu analizu informacija o trasi, podatke prebacite u softver Polar ProTrainer 5. Pogledajte priručnik za
+softver za dodatne upute.
+*Potreban opcijski s3 senzor brzine trčanja, G3 GPS senzor ili senzor brzine W.I.N.D.
+**Potreban opcijski G3 GPS senzor W.I.N.D.
+
+Kombiniranje vježbi
+RS800CX monitor srčane frekvencije vam nudi opciju kombiniranja uzastopnih vježbi. Kada započnete
+
+14
+
+VJEŽBANJE
+
+HRVATSKI, SRPSKI
+
+novi ciklus vježbanja unutar jednog sata od prethodnog ciklusa, prikaže se Combine exercises?
+(Kombiniraj vježbe?).
+Za kombiniranje, odaberite YES. Tijekom vježbanja se prikazuje multisport prikaz. Može se kombinirati
+maksimalno 10 vježbi. Za više informacija pogledajte Informacije na zaslonu (stranica 15).
+
+Uporabom Polar ProTrainer 5 softvera, možete kombinirati vježbe nakon vježbanja i dodatno ih analizirati. Za
+više informacija pogledajte upute Polar ProTrainer 5 softvera.
+
+Informacije na zaslonu
+Vaš monitor srčane frekvencije vam omogućuje istovremeni prikaz tri različite linije informacija o vježbi.
+Pritiskom na tipke GORE ili DOLJE možete vidjeti različite prikaze. Naziv prikaza se pojavi na nekoliko
+sekundi. Naziv označava informaciju u donjem redu. Prikaz se mijenja ovisno o senzorima, koje ste
+ugradili, čije značajke su postavljene u On i o vrsti vježbe koju provodite.
+
+Lako prilagodite prikaz monitora srčane frekvencije uz pomoć Polar ProTrainer 5 softvera.
+Standardni prikaz na zaslonu kada koristite senzor brzine:
+Heart rate (Otkucaji srca)
+
+Brzina / ritam* / kalorije
+Štoperica
+Otkucaji srca
+* Potreban opcijski s3 senzor brzine trčanja, G3 GPS senzor ili senzor brzine
+W.I.N.D.
+Stopwatch (Štoperica)
+
+Kalorije
+Vrijeme
+Štoperica
+* Potreban opcijski s3 senzor brzine trčanja, G3 GPS senzor ili senzor brzine
+W.I.N.D.
+Lap time (Vrijeme kruga)
+
+Pokazivač zone
+Otkucaji srca
+Vrijeme kruga
+
+Speed/pace (Brzina/ritam)
+
+Ritam*
+Udaljenost**
+Brzina/ritam**
+* Potreban opcijski s3 senzor brzine trčanja ili ritma W.I.N.D.
+* Potreban opcijski s3 senzor brzine trčanja, G3 GPS senzor ili senzor brzine
+W.I.N.D.
+Distance (Udaljenost)
+
+Odbrojavanje
+Pokazivač zone
+Udaljenost*/vrijeme kruga
+* Potreban opcijski s3 senzor brzine trčanja, G3 GPS senzor ili senzor brzine
+W.I.N.D.
+
+VJEŽBANJE
+
+15
+
+HRVATSKI, SRPSKI
+
+Altitude (Nadmorska visina)
+
+Otkucaji srca
+Nagib
+Nadmorska visina
+
+Multi-sport (prikazuje se samo ako ste kombinirali trenutnu vježbu s prethodnom)
+
+Ukupno trajanje kombinirane vježbe
+Ukupne potrošene kalorije kombinirane vježbe
+Ukupna udaljenost kombinirane vježbe*
+* Potreban opcijski s3 senzor brzine trčanja, G3 GPS senzor ili senzor brzine
+W.I.N.D.
+Exercise created with Polar ProTrainer 5 (Vježbe stvorene s Polar
+
+ProTrainer 5)
+Ako ste skinuli program vježbanja iz softvera, na posebnom prikazu možete vidjeti
+detalje vašeg ciklusa vježbanja. Za dodatne informacije, pogledajte Provođenje
+programiranih vježbi (stranica 43). Ne možete mijenjati ovaj prikaz preko
+monitora srčane frekvencije.
+
+Prilagođavanje zaslona monitora srčane frekvencije
+Prilagodite zaslon vašeg monitora srčane frekvencije kako bi za vrijeme vježbanja prikazao željene
+informacije, bilo uporabom monitora srčane frekvencije ili softvera. Programirana vježba skinuta iz
+softvera i prikaza vježbanja ima vlastite postavke prikaza koje se ne mogu mijenjati.
+U vremenskom režimu odaberite OK > Settings > Display > Edit
+Odaberite prikaz koji želite promijeniti pritiskom na tipku GORE ili DOLJE, i nakon toga OK. Postavite
+informaciju za trepćući gornji red s GORE ili DOLJE, i pritisnite OK. Informacije na prikazu ovise o
+značajkama koje su aktivirane. Za dodatne informacije pogledajte Postavke značajki (stranica 32).
+Na jednaki način postavite srednji i donji red. Svaki prikaz je nazvan po informaciji prikazanoj u donjem
+redu. Za povratak na standardne postavke zaslona, pritisnite i držite tipku SVJETLO kada redovi trepću.
+Aktivirajte Titles za pregled naziva prikaza u trenutku promjene prikaza za vrijeme vježbanja: u
+vremenskom režimu odaberite OK > Settings > Display > Titles
+
+Informacije na zaslonu
+Time of day
+Countd. timer
+
+Lap time
+
+Simbol
+
+Opis
+Vrijeme
+Odbrojavanje
+vremena
+Broj i vrijeme kruga
+
+Stopwatch
+
+Ukupno proteklo
+vrijeme vježbe
+
+Heart rate
+
+Trenutni otkucaji
+srca
+
+Average heart rate
+
+Prosječni otkucaji
+srca
+
+16
+
+VJEŽBANJE
+
+HRVATSKI, SRPSKI
+
+Informacije na zaslonu
+
+Simbol
+
+Opis
+
+Calories
+
+Potrošene kalorije /
+potrošnja kalorija
+na sat
+
+Zone pointer (otkucaji srca)
+
+Ako simbol srca
+nije vidljiv i/ili se
+oglasi alarm vaši
+otkucaji srca su
+izvan ciljane zone.
+
+Zone pointer (Polar sportske zone)
+
+Pokazivač ciljane
+zone sa simbolom
+srca koje se kreće
+lijevo i desno na
+skali sportske zone
+u skladu s vašim
+otkucajima srca. Za
+dodatne
+informacije o
+postavljanju
+sportske zone,
+pogledajte
+Funkcije tipki
+tijekom
+vježbanja
+(stranica 20).
+
+Target zone
+
+Graf koji prikazuje
+vaše stvarne
+otkucaje srca
+prema postavljenim
+zonama otkucaja
+srca.
+
+RR variation
+
+Promjena otkucaja
+do otkucaja u
+intervalima
+otkucaja srca,
+odnosno varijacija
+vremena između
+otkucaja srca.
+
+Ascent
+
+Uspon u
+metrima/stopama
+
+Descent
+
+Silazak u
+metrima/stopama
+
+Altitude
+
+Trenutna
+nadmorska visina
+
+Time in zone
+
+Vrijeme provedeno
+u zoni
+
+VJEŽBANJE
+
+17
+
+HRVATSKI, SRPSKI
+
+Informacije na zaslonu
+
+Simbol
+
+Očitanje
+temperature (°C).
+Zbog toga što
+temperatura vašeg
+tijela utječe na
+očitanje okolne
+temperature,
+najbolji način
+dobivanja točne
+temperature je
+skidanje ručne
+jedinice na
+najmanje 10
+minuta.
+
+Temperature
+
+Informacije na zaslonu (potreban Polar s3 senzor
+W.I.N.D.)
+Speed/pace
+
+Opis
+
+Simbol
+
+Opis
+Trenutna
+brzina/ritam
+
+Max speed
+
+Maksimalna
+brzina/ritam do
+sada
+
+Average speed
+
+Prosječna
+brzina/ritam do
+sada
+
+Distance
+
+Do sada prijeđena
+udaljenost
+
+Lap distance
+
+Broj i udaljenost
+kruga
+
+Trip distance
+
+Udaljenost između
+točki A i B
+
+Zone pointer (brzina/ritam)
+
+Ako simbol nije
+vidljiv i/ili se oglasi
+alarm vaša
+brzina/ritam je
+izvan ciljane zone.
+
+Cadence
+
+Ritam trčanja (par
+koraka u minuti)
+
+Avg Cadence
+
+Do sada prosječni
+ritam trčanja (par
+koraka u minuti)
+
+Zone pointer* (ritam)
+
+Ako simbol ritma
+nije vidljiv i/ili se
+oglasi alarm,
+nalazite se izvan
+ciljane zone ritma.
+
+18
+
+VJEŽBANJE
+
+HRVATSKI, SRPSKI
+
+Informacije na zaslonu (potreban Polar G3 GPS
+senzor W.I.N.D.)
+
+Simbol
+
+Opis
+Trenutna
+brzina/ritam. Broj
+stupića iznad slova
+G označava jačinu
+GPS signala.
+
+Speed/pace
+
+Max speed
+
+Maksimalna
+brzina/ritam do
+sada
+
+Average speed
+
+Prosječna
+brzina/ritam do
+sada
+Do sada prijeđena
+udaljenost
+
+Distance
+
+Lap distance
+
+Broj i udaljenost
+kruga
+
+Trip distance
+
+Udaljenost između
+točki A i B
+
+Zone pointer (brzina/ritam)
+
+Ako simbol nije
+vidljiv i/ili se oglasi
+alarm vaša
+brzina/ritam je
+izvan ciljane zone.
+
+Informacije na zaslonu (potreban Polar senzor
+brzine W.I.N.D.)
+Bike speed
+
+Distance
+
+Simbol
+
+Opis
+Brzina kojom se
+trenutno vozite
+Do sada odvezena
+udaljenost
+
+Lap distance*
+
+Broj i udaljenost
+kruga
+
+Trip distance
+
+Udaljenost između
+točki A i B
+
+Max speed
+
+Maksimalna brzina
+do sada
+
+Avg speed
+
+Prosječna
+brzina/ritam do
+sada
+
+VJEŽBANJE
+
+19
+
+HRVATSKI, SRPSKI
+
+Informacije na zaslonu (potreban Polar senzor
+brzine W.I.N.D.)
+
+Simbol
+
+Opis
+Nagib
+uspona/spusta u
+postocima i
+stupnjevima.
+Procjenjuje uspon
+ili spust u obliku
+brojke, pomažući
+vam da prilagodite
+napor okretanja
+pedala.
+
+Inclinometer
+
+Informacije na zaslonu (potreban Polar senzor
+ritma W.I.N.D.)
+
+Simbol
+
+Opis
+Mjeri brzinu kojom
+okrećete pedale
+vašeg bicikla
+(odnosno ritam9, u
+okretajima u minuti
+(rpm)
+
+Cadence
+
+Prosječni ritam
+okretanja pedala
+
+Avg Cadence
+
+Zone pointer* (ritam)
+
+Ako simbol ritma
+nije vidljiv i/ili se
+oglasi alarm,
+nalazite se izvan
+ciljane zone ritma.
+
+Funkcije tipki tijekom vježbanja
+Pretrčite krug
+Pritisnite OK za snimanje kruga. Na zaslonu će se prikazati:
+Broj kruga
+Prosječni otkucaji srca u krugu
+Vrijeme kruga
+
+Ako je trkaći senzor* aktiviran, prikazati će se i slijedeće:
+Broj kruga
+Dužina kruga
+Prosječna brzina/ritam kruga
+
+Blokiranje zone
+Tijekom vježbanja bez unaprijed postavljenih ciljanih zona, možete blokirati broj otkucaja vašeg srca
+prema trenutnoj sportskoj zoni. Na ovaj način, ako niste imali vremena definirati ciljane zone prije vježbe,
+možete postaviti ciljanu zonu tijekom vožnje za vrijeme ciklusa.
+Za blokiranje/deblokiranje zone, pritisnite i držite OK.
+Tijekom programirane vježbe: Pritisnite i držite OK i odaberite Lock zone/Unlock zone iz Lap menu.
+
+20
+
+VJEŽBANJE
+
+HRVATSKI, SRPSKI
+
+Ako, na primjer, trčite s brojem otkucaja srca od 130 otkucaja/min, što je 75% vašeg maksimalnog broja
+otkucaja srca i odgovara sportskoj zoni 3, možete pritisnuti i držati OK za blokiranje otkucaja srca prema
+ovoj zoni. Prikaže se Sport zone3 Locked 70%-79%. Oglasi se alarm ako ste ispod ili iznad sportske zone
+(ako je funkcija alarma ciljane zone aktivirana). Deblokirajte sportsku zonu ponovnim pritiskom i držanjem
+tipke OK. Prikaže se Sport zone3 Unlocked.
+Koristeći softver, također možete bazirati blokiranje zone na osnovi vaše brzine/ritma*. Za dodatne
+informacije pogledajte upute za softver.
+
+Povećanje prikaza
+
+Pritisnite i držite tipku GORE za povećanje gornjeg reda i tipku DOLJE za povećanje srednjeg reda.
+Vratite se na normalni prikaz ponovnim pritiskom i držanjem tipki.
+
+Osvjetljenje prikaza (noćni režim rada)
+Za osvjetljenje zaslona za vrijeme vježbanja pritisnite tipku SVJETLO. Aktivira se noćni režim rada i
+zaslon se automatski osvijetli kada se pritisne bilo koja tipka ili se promjeni faza vježbe.
+
+Izbornik postavki
+Pritisnite i držite SVJETLO i prikaže se Settings. Možete mijenjati određene postavke bez zaustavljanja
+snimanja vježbe. Sadržaj ovog izbornika se mijenja u skladu s vrstom vježbe. Za dodatne informacije
+pogledajte Postavke.
+• Prev. phase : Sažete informacije prethodne faze ili ponavljanja (prikaže se ako ste stvorili vježbu s fazama
+sa softverom).
+• Keylock: Blokiranje/deblokiranje tipki kako bi se spriječilo slučajno pritiskanje.
+• TZ Alarm: Uključivanje/isključivanje zvuka alarma ciljane zone.
+• Change zone: Prebacivanje između ciljanih zona (prikazuje se kada ste definirali višestruke ciljane zone,
+osim ako je stvorena vježba u fazama sa softverom)
+• HR view: Odaberite kako se prikazuju otkucaji srca.
+• Speed view: Odaberite km/h ili min/km.
+• Calibrate : Kalibracija senzora brzine trčanja* (ne prikazuje se ako je senzor deaktiviran)
+• Seek sensor: Traži podatke WearLink ili senzora, ako signal zbog smetnji nestane za vrijeme vježbanja.
+• A.Lap*: Uključivanje/isključivanje funkcije automatskog kruga.
+Kada ste promijenili postavke, monitor srčane frekvencije će se vratiti u režim vježbanja.
+
+Pauza vježbanja
+Pauzirajte snimanje vježbanja pritiskom na tipku STOP.
+U
+•
+•
+•
+
+•
+•
+•
+•
+
+zaustavljenom režimu rada, možete odabrati:
+Continue: Nastavak snimanja vježbanja.
+Exit: Zaustavljanje vježbanja (ili pritisnite STOP).
+Summary: Sažetak proteklog vježbanja. Prikažu se slijedeće sažete informacije: kalorije, udaljenost*,
+vrijeme vježbanja, maksimalni broj otkucaja srca, minimalni broj otkucaja srca, prosječni broj otkucaja
+srca, maksimalna brzina/ritam*, prosječna brzina/ritam*, uspon i nadmorska visina.
+Combine: Kombiniranje trenutne vježbe s prethodnom vježbom.
+Settings: Promjena ili pregled različitih postavki.
+Reset: Brisanje snimljenih informacija o vježbanju. Potvrdite s OK i ponovo pritisnite OK za ponovni
+početak snimanja.
+Reset trip: Poništavanje prijeđene udaljenosti. Potvrdite s OK i ponovo pritisnite OK za ponovni početak
+snimanja.
+
+VJEŽBANJE
+
+21
+
+HRVATSKI, SRPSKI
+
+•
+•
+
+Location**: Prikaz trenutne lokacije. Monitor srčane frekvencije prikazuje lokaciju koristeći GPS podatke.
+
+Geografska širina i dužina su izražene u stupnjevima i minutama. Broj satelita je vidljiv u najnižem redu.
+Free mode: Za promjenu vašeg profila vježbanja u Free režim vježbanja. To ne briše vježbu koju ste
+obavili, ali će nastaviti s vježbanjem bez postavki. Ako se prebacite na Free režim vježbanja, možete
+ponovo pokrenuti originalnu vježbu ponovnim pauziranjem vježbe, i odabirom Restart P1.
+
+**Potreban je opcijski senzor G3 GPS W.I.N.D.
+
+Određivanje vaše zone (OwnZone)
+Za dodatne informacije u svezi Polar OwnZone®, pogledajte OwnZone vježbanje (stranica 54).
+Pronađite vašu vlastitu zonu (OwnZone) unutar 1 do 5 minuta tijekom zagrijavanja, hodanjem ili trčanjem.
+Trebali bi početi lagano vježbati sa slabim intenzitetom i postepeno ga povećavati kako bi povećali broj
+otkucaja srca.
+Ponovno definiranje OwnZone:
+• Prilikom promjene okoline vježbanja ili režima vježbanja.
+• U slučaju vježbanja nakon pauze koja je duža od tjedan dana.
+• Ako niste u potpunosti sigurni u vaše fizičko ili mentalno stanje – na primjer, ako se niste oporavili od
+prethodnog vježbanja, ne osjećate se dobro ili ste pod stresom.
+• Nakon promjene korisničkih postavki.
+Prije početka određivanja vaše OwnZone, provjerite:
+• Da su vaše postavke točne.
+• Da je OwnZone funkcija aktivirana. Svaki put kada počnete OwnZone vježbanje, monitor srčane frekvencije
+će automatski odrediti OwnZone.
+1.
+2.
+
+Nosite primopredajnik i senzor brzine trčanja* kako je napomenuto. Počnite s mjerenjem dvostrukim
+pritiskom na tipku OK.
+Kada počnete vježbati, prikaže se OZ i započne određivanje OwnZone.
+
+Određivanje vaše OwnZone se provodi u pet stupnjeva. Ako je zvuk aktiviran, zvučni signal će označiti
+kraj svakog stupnja.
+OZ > Hodajte sporim ritom 1 min. Držite otkucaje srca ispod 100 bpm / 50% HR max za vrijeme prve faze.
+OZ >> Hodajte normalnim ritom 1 min. Polako povećajte otkucaje srca za 10-20 bpm / 5% HR max.
+OZ >>> Hodajte brzim ritmom 1 min. Povećajte otkucaje srca za 10-20 bpm / 5% HR max.
+OZ >>>> Trčite sporim ritmom 1 min. Povećajte otkucaje srca za 10-20 bpm / 5% HR max.
+OZ >>>>> Trčite brzim ritmom 1 min. Povećajte otkucaje srca za 10 bpm / 5 % HR max.
+
+3.
+4.
+5.
+
+Kada začujete dva zvučna signala to znači da je vaša OwnZone određena.
+Prikaže se OwnZone Updated i zona otkucaja srca. Zona je prikazana u otkucajima u minuti (bpm) ili kao
+postotak maksimalnog broja otkucaja srca (HR%), ovisno o vašim postavkama.
+Ako određivanje OwnZone nije bilo uspješno, koristiti će se vaša prethodno određena OwnZone i
+prikaže se OwnZone Limits. Ako OwnZone nije prije snimljena, automatski se primjenjuju ograničenja na
+osnovu vaše starosti.
+
+Sada možete nastaviti s vježbanjem. Pokušajte se zadržati unutar dane zone otkucaja srca kako bi
+maksimalizirali koristi vježbe.
+Alternativno, kako bi preskočili određivanje OwnZone i koristili prethodno određenu OwnZone, pritisnite
+OK u bilo kojoj fazi procesa.
+
+Proteklo vrijeme korišteno za određivanje OwnZone je uključeno u vaše snimljeno vrijeme vježbanja.
+
+22
+
+VJEŽBANJE
+
+HRVATSKI, SRPSKI
+
+6. NAKON VJEŽBANJA
+Prestanak vježbanja
+Prekinite snimanje vježbanja pritiskom na STOP. Za potpuni prekid snimanja, ponovo pritisnite STOP.
+Nakon vježbanja pobrinite se za vaš primopredajnik. Nakon uporabe skinite priključak s pojasa. Neka
+primopredajnik bude suh i čist. Za kompletne upute za brigu i održavanje, pogledajte Briga i održavanje
+(stranica 61).
+
+Analiza rezultata vježbanja
+
+Za pregled osnovnih podataka o vašim performansama, pogledajte File na vašem monitoru srčane
+frekvencije. Za sveobuhvatnu analizu podatke prebacite u Polar ProTrainer 5 softver. Ovaj softver nudi
+razne opcije za analizu podataka.
+Monitor srčane frekvencije i softver se spajaju preko IrDA (infracrvene) veze. Prvo otvorite Polar
+ProTrainer 5 softver. Odaberite Connect u monitoru srčane frekvencije i postavite ga ispred infracrvenog
+prozora osobnog računala. Za više informacija o prijenosu podataka, pogledajte upute za softver.
+
+Odaberite File za slijedeće opcije:
+• Exercise log daje popis od maksimalno 99 datoteka vježbanja.
+• Weekly uključuje sažetke prošlih 16 tjedana.
+• Totals prikazuje kumulativne informacije o vježbanju.
+• U izborniku Delete , možete izbrisati datoteke vježbanja.
+
+Dnevnik vježbanja
+Odaberite File > Exercise log
+
+Detaljne informacije o vašem vježbanju možete pregledati u Exercise log . Pojaviti će se slijedeće
+informacije:
+
+NAKON VJEŽBANJA
+
+23
+
+HRVATSKI, SRPSKI
+
+•
+•
+•
+
+Naziv vježbe.
+Stupac koji predstavlja vježbu. Visina stupca označava trajanje vježbe. To prikazuje promjenu vašeg
+ciklusa u grafičkom formatu.
+Datum vježbe.
+
+Informacije koje se pojavljuju na zaslonu (a – e dolje dani prikazi) ovise vrsti vježbe i postavkama (npr.
+ako vaša vježba ne uključuje faze, informacije o fazama se neće prikazati).
+Pomičite se kroz stupce vježbe s tipkama GORE i DOLJE i pritisnite OK za pregled:
+
+a. Basic (osnovne) informacije
+Odaberite File > Exercise log > Basic
+
+b. Sport zones (sportske zone) informacije
+Odaberite File > Exercise log > Sport
+zones
+
+c. Phases (faze) informacije
+Odaberite File > Exercise log > Phases
+
+d. Laps (krugovi) informacije
+Odaberite File > Exercise log > Laps
+
+d. Multisport summary (Multisport sažetak)
+Uz svaku datoteku vježbanja koja je dio
+kombinirane vježbe, zakačen je multisport
+sažetak.
+Odaberite File > Exercise log >
+Multisport summary
+
+a. Basic
+Odaberite File > Exercise log > Basic
+
+Naziv vježbe
+Vrijeme kada je vježba započela
+Prijeđena udaljenost*
+Ukupno vrijeme vježbe
+
+Pritisnite OK i pomičite se s GORE ili DOLJE:
+
+24
+
+NAKON VJEŽBANJA
+
+HRVATSKI, SRPSKI
+
+Heart rate (otkucaji srca). Prikaz se mijenja između bpm i
+
+postotka u odnosu na maksimalni broj otkucaja srca (HR%)
+Maksimalni broj otkucaja srca
+Minimalni broj otkucaja srca
+Prosječni broj otkucaja srca
+Target zones (HR / speed / pace) Ciljane zone
+
+(HR/brzina/ritam) - mijenja se prikaz zoni 1, zone 2 i zone 3
+Gornja granica
+Gornja granica
+
+Time in, above, and below zone 1/2/3 Vrijeme u, iznad i
+
+ispod zone 1/2/3 (naziv faze prikaza u programiranoj vježbi)
+Vrijeme iznad zone
+Vrijeme ispod zone
+Vrijeme u zoni
+Calories expended during exercise.
+
+Energy expenditure indicates overall exertion during exercise.
+
+Speed/pace* (Brzina/ritam)
+
+Maksimalna brzina/ritam
+Prosječna brzina/ritam
+Udaljenost*
+Pritisnite i držite SVJETLO za prebacivanje između brzine i
+ritma.
+Cadence* (Ritam)
+
+Maksimalni ritam
+Prosječni ritam
+* Potreban je s3 senzor brzine trčanja ili senzor ritma W.I.N.D.
+
+Stride length* (Dužina koraka)
+
+Prosječna dužina koraka
+* Potreban s3 senzor brzine trčanja W.I.N.D.
+
+Running Index* (Indeks trčanja)
+
+Za dobivanje vrijednosti indeksa trčanja, postoje uvjeti koje
+vaša vježba mora zadovoljiti. Za dodatne informacije,
+pogledajte Polar indeks trčanja (stranica 57).
+* Potreban je s3 senzor brzine trčanja ili G3 GPS senzor
+W.I.N.D.
+
+Funkcija Indeks trčanja je namijenjena za uporabu u
+sportovima koji uključuju trčanje. Na primjer, neće
+raditi tijekom vožnje bicikla s G3 senzorom.
+
+NAKON VJEŽBANJA
+
+25
+
+HRVATSKI, SRPSKI
+
+Altitude (Nadmorska visina)
+
+Maksimalna nadmorska visina
+Minimalna nadmorska visina
+Prosječna nadmorska visina
+
+Riding time (Vrijeme vožnje)
+
+Naziv bicikla
+Vrijeme vožnje
+
+Ascent/ Descent (Uspon/spust)
+
+Uspon u metrima/stopama
+Spust u metrima/stopama
+
+Incline* (Uspon)
+
+Maksimalni uspon u %
+Maksimalni uspon u stupnjevima
+*Potreban je senzor brzine W.I.N.D.
+
+Decline* (Spust)
+
+Maksimalni spust u %
+Maksimalni spust u stupnjevima
+*Potreban je senzor brzine W.I.N.D.
+
+Temperature ( Temperatura)
+
+Maksimalno oC
+Minimalno oC
+Prosječno oC
+
+Pritisnite STOP za povratak na prikaz osnovnih informacija.
+Dodatne osnovne informacije
+Odaberite File > Exercise log . Odaberite vježbu s OK.
+Za dodavanje vaše vlastite informacije o vježbi ili brisanje vježbe iz File, pritisnite i držite SVJETLO u
+prikazu osnovnih informacija (prikaže se naziv vježbe).
+Za
+•
+•
+•
+•
+
+dodavanje informacije, odaberite Add info:
+Rank: Dodajte ocjenu vašoj vježbi.
+Feeling : Ocijenite vlastiti osjećaj tijekom vježbe.
+Temperat. : Postavite temperaturu s GORE ili DOLJE.
+Distance: Odaberite cipelu ili bicikl i unesite udaljenost. Udaljenost se nadopunjuje u dnevniku ukupnih i
+tjednih sažetaka udaljenosti.
+
+b. Sport Zones
+
+26
+
+NAKON VJEŽBANJA
+
+HRVATSKI, SRPSKI
+
+Odaberite File > Exercise log > Sport zones
+U pregledu osnovnih informacija, pritisnite DOLJE za pregled Sport zones informacija.
+
+Pritisnite OK i GORE ili DOLJE za pregled vremena proteklog u svakoj sportskoj zoni. Ovdje su varijacije
+vaših ciklusa prikazane u grafičkom formatu.
+Pritisnite STOP za povratak na pregled Sport zones informacija.
+c. Phases informacije
+
+Odaberite File > Exercise log > Phases
+Izbornik Phases se prikazuje samo ako je vježba stvorena s Polar ProTrainer 5 softverom i uključuje faze.
+U pregledu Sport zones informacija, pritisnite tipku DOLJE za pregled Phases informacija. Svaka faza se
+može pregledati odvojeno.
+Pregledavajte podatke pojedine faze pritiskom na OK. Usporedite faze pritiskom na GORE ili DOLJE.
+Time (vrijeme)
+
+Naziv faze
+Prolazno vrijeme
+Trajanje trenutne faze
+
+Heart rate (otkucaji srca). Prikaz se mijenja između bpm i
+
+postotka u odnosu na maksimalni broj otkucaja srca (HR%)
+Maksimalni broj otkucaja srca
+Prosječni broj otkucaja srca
+
+NAKON VJEŽBANJA
+
+27
+
+HRVATSKI, SRPSKI
+
+Increased HR / Recovery HR / HR differ. (Povećani HR /
+
+HR odmaranja / HR razlike.)
+Razlika u otkucajima srca na početku i na kraju faze. Trenutni broj
+otkucaja srca u otkucajima u minuti (bpm), se mijenja s prikazom
+u postotku u odnosu na maksimalni broj otkucaja srca (HR%)
+Povećani HR: Ako je broj otkucaja srca bio niži na početku faze
+nego na kraju, monitor srčane frekvencije će prikazati razliku u
+otkucajima srca (otkucaji na kraju minus otkucaji na početku). Za
+vrijeme radne faze, monitor srčane frekvencije će pokazati
+vrijednost povećanog broja otkucaja srca.
+HR odmaranja: Ako je broj otkucaja srca bio viši na početku
+faze nego na kraju, monitor srčane frekvencije će prikazati razliku
+u otkucajima srca (otkucaji na početku minus otkucaji na kraju).
+Za vrijeme faze odmaranja, monitor srčane frekvencije će
+pokazati vrijednost otkucaja srca prilikom odmaranja.
+HR razlike: Ako je broj otkucaja srca bio jednak na početku i na
+kraju faze, monitor srčane frekvencije će prikazati razliku otkucaja
+0.
+Speed/pace* (Brzina/ritam)
+
+Maksimalna brzina/ritam
+Prosječna brzina/ritam
+
+Distance* (Udaljenost)
+
+Prolazna udaljenost
+Udaljenost trenutne faze
+
+Cadence* (Ritam)
+
+Maksimalni ritam
+Prosječni ritam trenutne faze
+* Potreban je s3 senzor brzine trčanja ili senzor ritma W.I.N.D.
+
+Stride length* (Dužina koraka)
+
+Prosječna dužina koraka trenutne faze
+* Potreban s3 senzor brzine trčanja W.I.N.D.
+
+Pritisnite STOP za povratak na pregled Phases informacija
+d. Laps informacije
+Odaberite File > Exercise log > Laps
+U pregledu Phases informacija, pregledajte Laps informacije pritiskom na tipku DOLJE. Krugovi su
+prikazani samo ako je više od jednog kruga spremljeno u memoriju.
+Number of recorded laps/autolaps (Broj snimljenih krugova)
+
+Prosječno vrijeme kruga
+Broj najboljeg (najbržeg) kruga se mijenja s njegovim vremenom
+
+28
+
+NAKON VJEŽBANJA
+
+HRVATSKI, SRPSKI
+
+Zadnji krug nikada nije prikazan kao najbolji krug, čak iako se radi o najbržem krugu. Ako sudjelujete u utrci i
+želite uključiti vaš zadnji krug, na cilju pritisnite OK umjesto STOP. Na ovaj način zadnji stvarni krug je uključen
+u proračun za najbolji krug. Tada možete zaustaviti snimanje nakon cilja.
+Pregledavajte informacije o krugu pritiskom na OK.
+Usporedite informacije o različitim krugovima pritiskom na GORE ili DOLJE.
+Za lakši pregled informacija o krugovima, prebacite datoteku vježbanja softver.
+Time (Vrijeme)
+
+Prolazno vrijeme
+Vrijeme kruga
+
+Heart rate (otkucaji srca). Prikaz se mijenja između bpm i postotka u odnosu na
+
+maksimalni broj otkucaja srca (HR%)
+Maksimalni broj otkucaja srca
+Prosječni broj otkucaja srca
+Otkucaji srca na kraju kruga
+Speed/Pace (Brzina/ritam)
+
+Prosječna brzina/ritam
+Brzina/ritam na kraju kruga
+Pritisnite i držite SVJETLO za prebacivanje brzine/ritma
+
+Distance (Udaljenost)
+
+Prolazna udaljenost
+Udaljenost kruga
+
+Cadence (Ritam)
+
+Maksimalni ritam
+Prosječni ritam kruga
+*Potreban je s3 senzor brzine trčanja ili senzor ritma W.I.N.D.
+
+Stride length (Dužina koraka)
+
+Prosječna dužina koraka kruga
+* Potreban s3 senzor brzine trčanja W.I.N.D.
+
+Incline (Uspon)
+
+Uspon u %
+Uspon u stupnjevima
+*Potreban je senzor brzine W.I.N.D
+
+NAKON VJEŽBANJA
+
+29
+
+HRVATSKI, SRPSKI
+
+Altitude (Nadmorska visina)
+
+Uspon
+Nadmorska visina
+
+Altitude (Nadmorska visina)
+
+Uspon
+Nadmorska visina
+
+Temperature (Temperatura)
+
+Pritisnite STOP za povratak na pregled Laps informacija.
+
+Tjedni sažetak
+Odaberite File > Weekly
+
+U tjednom sažetku, možete pregledati skupljene podatke 16 tjedana vježbanja. Stupac na desnoj strani
+nazvan This week prikazuje sažetak vježbanja trenutnog tjedna. Prethodni stupci su datirani prema
+nedjelji određenog tjedna. Pregledavajte prikazane tjedne s tipkama GORE ili DOLJE, i u donjem redu
+pregledajte ukupno trajanje vježbe.
+
+Tjedan odaberite s OK kako bi pregledati ukupne potrošene kalorije, udaljenost* i vrijeme vježbanja u
+tom tjednu. Pritisnite DOLJE za pregled tjednih sportskih zona.
+
+Kako bi vidjeli vrijeme provedeno u svakoj sportskoj zoni, pritisnite OK i pregledavajte sportske zone s
+tipkama GORE ili DOLJE.
+
+Ukupni rezultati
+Odaberite File > Totals
+Totals prikaz uključuje kumulativne informacije snimljene za vrijeme vježbanja od zadnjeg poništavanja.
+
+Koristite datoteku ukupnih vrijednosti kao sezonski ili mjesečni brojač podataka o vježbanju. Vrijednosti
+se automatski nadopunjuju kada se snimanje vježbanja zaustavi.
+Koristite GORE ili DOLJE za pregled slijedećih informacija:
+
+30
+
+NAKON VJEŽBANJA
+
+HRVATSKI, SRPSKI
+
+•
+
+Tot. Shoe1 distance (kumulativna udaljenost sa cipelama 1)
+
+•
+
+Tot. Shoe2 distance (kumulativna udaljenost sa cipelama 2)
+
+•
+
+Tot. Shoe3 distance (kumulativna udaljenost)
+
+•
+
+Tot. Bike1 distance (kumulativna udaljenost s biciklom 1)
+
+•
+
+Tot. Bike2 distance (kumulativna udaljenost s biciklom 2)
+
+•
+
+Tot. Bike3 distance (kumulativna udaljenost s biciklom 3)
+
+•
+
+Total Shoes distance (kumulativna udaljenost s cipelama)
+
+•
+
+Total GPS distance (kumulativna GPS udaljenost)
+
+•
+
+Total Bikes distance (kumulativna udaljenost s biciklom)
+
+•
+
+Total distance (kumulativna udaljenost)
+
+•
+
+Total duration (kumulativno trajanje)
+
+•
+
+Total calories (kumulativne kalorije)
+
+•
+
+Total exerc. count (kumulativni broj vježbi)
+
+•
+
+Total ascent (kumulativna udaljenost uspona)
+
+•
+
+Total odometer (kumulativna udaljenost pređenih kilometara)
+
+•
+
+Reset totals (poništavanje kumulativnih podataka)
+
+Za poništavanje ukupnih vrijednosti:
+Odaberite File > Totals > Reset totals
+Odaberite vrijednost koju želite poništiti u izborniku i potvrdite s OK. Odaberite Yes za potvrdu
+poništavanja. Obrisane informacije se ne mogu vratiti. Odaberite No za povratak na Reset izbornik.
+
+Brisanje datoteka
+Odaberite File > Delete
+U ovom režimu rada, možete obrisati prethodne vježbe, jednu po jednu, sve vježbe u isto vrijeme ili
+ukupne vrijednosti.
+Pregledavajte slijedeće informacije s GORE ili DOLJE:
+• Exercise : Odabir jedne vježbe za brisanje.
+• All exerc. : Brisanje svih vježbi jednim pritiskom na tipku.
+• Totals: Brisanje svih ukupnih vrijednosti jednu po jednu ili sve ukupne vrijednosti odjednom.
+Potvrdite odabirom Yes.
+
+NAKON VJEŽBANJA
+
+31
+
+HRVATSKI, SRPSKI
+
+7. POSTAVKE
+Postavke značajki
+Novi senzor, kupljen odvojeno kao dodatna oprema mora se uvesti u monitor srčane frekvencije. To se
+naziva učenje i traje samo nekoliko sekundi. Učenje osigurava da vaš monitor srčane frekvencije prima
+signale samo s vašeg senzora i omogućuje vježbanje u grupi bez smetnji. Ako ste kupili monitor srčane
+frekvencije i senzor kao set, senzor je već registriran da radi s monitorom srčane frekvencije. Trebate
+samo aktivirati senzor u vašem monitoru srčane frekvencije.
+Kada u postavkama značajki aktivirate senzor, prikaže se Teach new sensor? (Uvedi novi senzor?). Novi
+senzor možete registrirati odabirom Yes. Odaberite No ako je senzor već registriran.
+
+Za učenje odvojeno kupljenog WearLink primopredajnika, pogledajte Uvođenje novog primopredajnika
+(stranica).
+
+Polar s3 senzor brzine trčanja W.I.N.D.
+Za aktiviranje senzora brzine trčanja u vašem monitoru srčane frekvencije, odaberite Settings > Features
+> Shoes/bikes > Shoe 1/2/3 > On. Prikaže se Teach new sensor?
+•
+
+Ako je vaš senzor već uveden, odaberite No.
+
+•
+
+Ako vaš senzor još nije uveden, odaberite Yes.
+
+Prije uvođenja, provjerite da se u blizini (40 m) ne nalazi drugi s3 senzor brzine trčanja ili G3 GPS senzor.
+Senzor bi treba biti unutar 1,5 metara od monitora srčane frekvencije. Na primjer, prije sudjelovanja u utrci,
+uvođenje prvo provedite kod kuće. Time se sprečavaju smetnje zbog prijenosa na veće udaljenosti.
+Za povratak u vremenski prikaz, pritisnite i držite STOP tipku.
+
+Polar senzor brzine W.I.N.D.
+Za aktiviranje senzora brzine trčanja u vašem monitoru srčane frekvencije, odaberite Settings > Features
+> Shoes/bikes > Bike 1/2/3 > On > Speed > On. Prikaže se Teach new sensor?
+•
+
+Ako je vaš senzor već uveden, odaberite No.
+
+•
+
+Za uvođenje novog senzora, prvo provjerite da se u blizini ne nalazi drugi senzor brzine (40m) i odaberite
+Yes.
+Nakon odabira Yes okrećite kotač nekoliko puta kako bi aktivirali senzor. Trepćuće crveno svjetlo
+označava da je senzor aktiviran. Prikaže se Completed kada je proces uvođena gotov. Monitor srčane
+frekvencije je sada spreman za primanje podataka o brzini i udaljenosti.
+
+Za povratak u vremenski prikaz, pritisnite i držite STOP tipku.
+
+Za točne informacije o brzini i udaljenosti, potrebno je unijeti veličinu kotača. Za više informacija o mjerenju
+dimenzija kotača, pogledajte Mjerenje dimenzija kotača.
+
+Polar senzor ritma W.I.N.D.
+Za aktiviranje senzora brzine trčanja u vašem monitoru srčane frekvencije, odaberite Settings > Features
+> Shoes/bikes > Bike 1/2/3 > On > Cadence > On. Prikaže se Teach new sensor?
+
+32
+
+POSTAVKE
+
+HRVATSKI, SRPSKI
+
+•
+
+Ako je vaš senzor već uveden, odaberite No.
+
+•
+
+Za uvođenje novog senzora, prvo provjerite da se u blizini ne nalazi drugi senzor (40m) i odaberite Yes.
+Nakon odabira Yes prikaže se Start test drive is displayed. Okrećite pedalu nekoliko puta kako bi
+aktivirali senzor. Trepćuće crveno svjetlo označava da je senzor aktiviran. Prikaže se Completed kada je
+proces uvođena gotov. Monitor srčane frekvencije je sada spreman za primanje podataka o ritmu.
+
+Za povratak u vremenski prikaz, pritisnite i držite STOP tipku.
+
+Mjerenje dimenzija kotača
+Odaberite Settings > Features > Shoes/bikes > Bike 1/2/3 > Wheel
+Postavke dimenzija kotača su preduvjet za dobivanje točnih informacija o vožnji bicikla. Postoje dva
+načina za određivanje dimenzija kotača vašeg bicikla.
+Metoda 1
+Potražite podatak o promjeru u inčima ili u ETRTO otisnut na gumi. Prebacite očitanu vrijednost u
+milimetre i povežite je s podacima u desnom stupcu tablice.
+
+ETRTO
+
+Promjer kotača (inča)
+
+Postavka dimenzija kotača (mm)
+
+25-559
+
+26 x 1.0
+
+1884
+
+23-571
+
+650 x 23C
+
+1909
+
+35-559
+
+26 x 1.50
+
+1947
+
+37-622
+
+700 x 35C
+
+1958
+
+47-559
+
+26 x 1.95
+
+2022
+
+20-622
+
+700 x 20C
+
+2051
+
+52-559
+
+26 x 2.0
+
+2054
+
+23-622
+
+700 x 23C
+
+2070
+
+25-622
+
+700 x 25C
+
+2080
+
+28-622
+
+700 x 28
+
+2101
+
+32-622
+
+700 x 32C
+
+2126
+
+42-622
+
+700 x 40C
+
+2189
+
+47-622
+
+700 x 47C
+
+2220
+
+Veličine kotača u ovoj tablici su samo informativne, jer dimenzije kotača ovise o vrsti kotača i tlaku zraka.
+Metoda 2
+Ručno izmjerite promjer kotača, radi dobivanja najtočnijeg rezultata.
+Koristite poziciju ventila za označavanje točke gdje kotač dodiruje tlo. Na tlu povucite liniju kako bi
+označili tu točku. Pomaknite vaš bicikl prema naprijed na ravnoj površini za jedan kompletni okret kotača.
+Guma bi trebala biti okomita na tlo. Nakon jednog punog okreta, nacrtajte drugu liniju na tlu na poziciji
+ventila. Izmjerite udaljenost između dvije oznake na tlu.
+Odbijte 4 mm kako bi uračunali vašu masu na biciklu kako bi dobili opseg vašeg kotača. Unesite ovu
+vrijednost u monitor srčane frekvencije.
+
+POSTAVKE
+
+33
+
+HRVATSKI, SRPSKI
+
+Polar G3 GPS senzor W.I.N.D.
+Za aktiviranje G3 GPS senzora u vašem monitoru srčane frekvencije, odaberite Settings > Features > G3
+> On. Prikaže se Teach new sensor?
+•
+
+Ako je vaš senzor već uveden, odaberite No.
+
+•
+
+Za uvođenje novog senzora, prvo provjerite da se u blizini (40m) ne nalazi drugi s3 senzor brzine trčanja
+ili G3 GPS senzor i odaberite Yes.
+
+Za povratak u vremenski prikaz, pritisnite i držite STOP tipku.
+
+Nadmorska visina
+Monitor srčane frekvencije pretvara izmjereni tlak zraka u nadmorsku visinu. Promijenite postavke
+altimetra u izborniku Altitude. Altimetar možete kalibrirati ručno ili automatski.
+Aktivirajte ili deaktivirajte funkciju nadmorske visine.
+Odaberite Settings > Features > Altitude > On / Off
+Ručno kalibriranje altimetra
+Odaberite Settings > Features > Altitude > Calibrate > postavite nadmorsku visinu trenutne lokacije.
+Ako nadmorska visina vaše lokacije značajno odstupa od prikazane vrijednosti prikaže se Calibrate to
+xx?
+
+•
+•
+
+Yes: Prikaže se Calibrate to xx?
+No: Prikaže se Altitude calibration canceled . Primjenjuje se zadnja vrijednost nadmorske visine
+
+spremljena u memoriju monitora srčane frekvencije.
+Kalibrirajte nadmorsku visinu kako bi bili sigurni da će ostati točna. Postavite referentnu nadmorsku
+visinu kada god postoji pouzdana referenca, kao što je planinski vrh ili topografska karta, ili u razini mora.
+Automatsko kalibriranje nadmorske visine
+Odaberite Settings > Features > Altitude > AutoCalib > On / Off
+Kada je automatska kalibracija aktivirana, tijekom vježbanja se primjenjuje zadnja vrijednost nadmorske
+visine spremljena u memoriju monitora srčane frekvencije. Ova funkcija je jako korisna ako uvijek
+započinjete ciklus vježbanja u istoj okolini. Ako automatska kalibracija ne uspije, niste u uobičajenoj
+okolini i morati ćete nadmorsku visinu kalibrirati ručno.
+Altitude calibrated to xx m/ft označava da je kalibracija uspjela. Ako se prikaže Altitude calibration
+failed , ponovo kalibrirajte nadmorsku visinu.
+
+Učestalost snimanja
+Odaberite Settings > Features > Rec.rate > 1 / 2 / 5 / 15 / 60 sec
+Monitor srčane frekvencije može spremiti vaše otkucaje srca, brzinu, ritam* i nadmorsku visinu u
+intervalima od 1,2 ,5, 15 ili 60 sekundi. Duži interval omogućuje duže vrijeme snimanja, dok kraći interval
+omogućuje snimanje više podataka. To omogućuje preciznu analizu podataka koristeći softver.
+Kraći interval snimanja brže troši memoriju monitora srčane frekvencije. Prilikom namještanja intervala u
+donjem redu se prikazuje preostalo vrijeme snimanja. Standardni interval je 5 sekundi.
+Kada ostane manje od 30 minuta maksimalnog vremena za snimanje, interval snimanja se automatski
+prebacuje na duži interval (1s > 2s > 5s > 15s > 60s). To će maksimalizirati vrijeme snimanja podataka o
+vježbanju. Kada ciklus završi, u slijedećem intervalu vježbanja će se koristiti trenutni interval snimanja.
+Slijedeća tablica prikazuje maksimalna vremena snimanja za svaki interval snimanja. Uzmite u obzir da
+se učestalost snimanja može promijeniti kad ostane manje od 30 minuta za snimanje.
+
+34
+
+POSTAVKE
+
+HRVATSKI, SRPSKI
+
+RR
+Brzina
+snimanje
+
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+Off
+
+Ritam
+
+S3
+
+GPS
+
+Nadmorska
+Interval snimanja
+visina
+
+1s
+
+2s
+
+5s
+
+15s
+
+60s
+
+Off
+
+Off
+
+Off
+
+Off
+
+Off
+
+67h
+40min
+
+135h
+20min
+
+338h
+30min
+
+1015h
+40min
+
+4036h
+00min
+
+Off
+
+Off
+
+Off
+
+Off
+
+On
+
+22h
+30min
+
+45h
+00min
+
+112h
+50min
+
+338h
+30min
+
+1354h
+20min
+
+Off
+
+Off
+
+Off
+
+On
+
+Off
+
+5h
+30min
+
+11h
+10min
+
+28h
+10min
+
+78h
+00min
+
+312h
+30min
+
+Off
+
+Off
+
+Off
+
+On
+
+On
+
+4h
+50min
+
+9h
+40min
+
+24h
+10min
+
+67h
+40min
+
+270h
+50min
+
+Off
+
+Off
+
+On
+
+Off
+
+Off
+
+13h
+30min
+
+27h
+00min
+
+67h
+40min
+
+169h
+10min
+
+677h
+10min
+
+Off
+
+Off
+
+On
+
+Off
+
+On
+
+9h
+40min
+
+19h
+20min
+
+48h
+20min
+
+126h
+50min
+
+507h
+50min
+
+Off
+
+Off
+
+On
+
+On
+
+Off
+
+5h
+10min
+
+10h
+20min
+
+26h
+00min
+
+72h
+30min
+
+290h
+10min
+
+Off
+
+Off
+
+On
+
+On
+
+On
+
+4h
+30min
+
+9h
+00min
+
+22h
+30min
+
+63h
+20min
+
+253h
+50min
+
+Off
+
+On
+
+Off
+
+Off
+
+Off
+
+33h
+50min
+
+67h
+40min
+
+169h
+10min
+
+507h
+50min
+
+2031h
+30min
+
+Off
+
+On
+
+Off
+
+Off
+
+On
+
+16h
+50min
+
+33h
+50min
+
+84h
+30min
+
+203h
+00min
+
+812h
+30min
+
+Off
+
+On
+
+Off
+
+On
+
+Off
+
+5h
+10min
+
+10h
+20min
+
+26h
+00min
+
+72h
+30min
+
+290h
+10min
+
+Off
+
+On
+
+Off
+
+On
+
+On
+
+4h
+30min
+
+9h
+00min
+
+22h
+30min
+
+63h
+20min
+
+253h
+50min
+
+On
+
+Off
+
+Off
+
+Off
+
+Off
+
+16h
+50min
+
+33h
+50min
+
+84h
+30min
+
+203h
+00min
+
+812h
+30min
+
+On
+
+Off
+
+Off
+
+Off
+
+On
+
+11h
+10min
+
+22h
+30min
+
+56h
+20min
+
+145h
+00min
+
+580h
+20min
+
+On
+
+Off
+
+Off
+
+On
+
+Off
+
+5h
+30min
+
+11h
+10min
+
+28h
+10min
+
+78h
+00min
+
+312h
+30min
+
+On
+
+Off
+
+Off
+
+On
+
+On
+
+4h
+50min
+
+9h
+40min
+
+24h
+10min
+
+67h
+40min
+
+270h
+50min
+
+On
+
+On
+
+Off
+
+Off
+
+Off
+
+13h
+30min
+
+27h
+00min
+
+67h
+40min
+
+169h
+10min
+
+677h
+10min
+
+On
+
+On
+
+Off
+
+Off
+
+On
+
+9h
+40min
+
+19h
+20min
+
+48h
+20min
+
+126h
+50min
+
+507h
+50min
+
+On
+
+On
+
+Off
+
+On
+
+Off
+
+5h
+10min
+
+10
+20min
+
+26h
+00min
+
+72h
+30min
+
+290h
+10min
+
+On
+
+On
+
+Off
+
+On
+
+On
+
+4h
+30min
+
+9h
+00min
+
+22h
+30min
+
+63h
+20min
+
+253h
+50min
+
+POSTAVKE
+
+35
+
+HRVATSKI, SRPSKI
+
+RR
+Brzina
+snimanje
+
+On
+On
+On
+On
+On
+On
+On
+On
+On
+On
+On
+On
+On
+On
+On
+On
+On
+On
+On
+On
+
+36
+
+Ritam
+
+S3
+
+GPS
+
+Nadmorska
+Interval snimanja
+visina
+
+1s
+
+2s
+
+5s
+
+15s
+
+60s
+
+Off
+
+Off
+
+Off
+
+Off
+
+Off
+
+40h
+30min
+
+40h
+30min
+
+40h
+30min
+
+40h
+30min
+
+40h
+30min
+
+Off
+
+Off
+
+Off
+
+Off
+
+On
+
+18h
+20min
+
+25h
+20min
+
+32h
+40min
+
+37h
+30min
+
+39h
+50min
+
+Off
+
+Off
+
+Off
+
+On
+
+Off
+
+5h
+20min
+
+9h
+20min
+
+17h
+30min
+
+27h
+20min
+
+36h
+10min
+
+Off
+
+Off
+
+Off
+
+On
+
+On
+
+4h
+30min
+
+8h
+10min
+
+15h
+50min
+
+26h
+00min
+
+35h
+40min
+
+Off
+
+Off
+
+On
+
+Off
+
+Off
+
+11h
+50min
+
+18h
+20min
+
+27h
+20min
+
+33h
+50min
+
+38h
+40min
+
+Off
+
+Off
+
+On
+
+Off
+
+On
+
+8h
+40min
+
+14h
+30min
+
+23h
+30min
+
+31h
+40min
+
+38h
+00min
+
+Off
+
+Off
+
+On
+
+On
+
+Off
+
+4h
+50min
+
+8h
+40min
+
+16h
+30min
+
+26h
+40min
+
+36h
+00min
+
+Off
+
+Off
+
+On
+
+On
+
+On
+
+4h
+10min
+
+7h
+40min
+
+15h
+00min
+
+25h
+20min
+
+35h
+20min
+
+Off
+
+On
+
+Off
+
+Off
+
+Off
+
+25h
+20min
+
+31h
+10min
+
+36h
+10min
+
+39h
+00min
+
+40h
+10min
+
+Off
+
+On
+
+Off
+
+Off
+
+On
+
+14h
+30min
+
+21h
+20min
+
+29h
+50min
+
+36h
+10min
+
+39h
+30min
+
+Off
+
+On
+
+Off
+
+On
+
+Off
+
+4h
+50min
+
+8h
+40min
+
+16h
+30min
+
+26h
+40min
+
+36h
+00min
+
+Off
+
+On
+
+Off
+
+On
+
+On
+
+4h
+10min
+
+7h
+40min
+
+15h
+00min
+
+25h
+20min
+
+35h
+20min
+
+On
+
+Off
+
+Off
+
+Off
+
+Off
+
+14h
+30min
+
+21h
+20min
+
+29h
+50min
+
+35h
+00min
+
+39h
+00min
+
+On
+
+Off
+
+Off
+
+Off
+
+On
+
+10h
+00min
+
+16h
+10min
+
+25h
+20min
+
+32h
+40min
+
+38h
+20min
+
+On
+
+Off
+
+Off
+
+On
+
+Off
+
+5h
+20min
+
+9h
+20min
+
+17h
+30min
+
+27h
+20min
+
+36h
+10min
+
+On
+
+Off
+
+Off
+
+On
+
+On
+
+4h
+30min
+
+8h
+10min
+
+15h
+50min
+
+26h
+00min
+
+35h
+40min
+
+On
+
+On
+
+Off
+
+Off
+
+Off
+
+11h
+50min
+
+18h
+20min
+
+27h
+20min
+
+33h
+50min
+
+38h
+40min
+
+On
+
+On
+
+Off
+
+Off
+
+On
+
+8h
+40min
+
+14h
+30min
+
+23h
+30min
+
+31h
+40min
+
+38h
+00min
+
+On
+
+On
+
+Off
+
+On
+
+Off
+
+4h
+50min
+
+8h
+40min
+
+16h
+30min
+
+26h
+40min
+
+36h
+00min
+
+On
+
+On
+
+Off
+
+On
+
+On
+
+4h
+10min
+
+7h
+40min
+
+15h
+00min
+
+25h
+20min
+
+35h
+20min
+
+POSTAVKE
+
+HRVATSKI, SRPSKI
+
+** Ovo je suma 2 ili više vježbi; maksimalno trajanje pojedine vježbe je 99h 59min 59s. Maksimalno
+vrijeme snimanja može biti kraće, ako snimate veliki broj kratkih vježbi.
+
+Trajanja u tablici su procjena. Za RR podatke, maksimalno vrijeme snimanja ovisi o otkucajima srca i varijaciji
+otkucaja srca. Ako snimate krugove i/ili stvorite vježbu koja uključuje faze sa softverom, maksimalno vrijeme
+snimanja će se smanjiti.
+Snimanje ne prestaje automatski kada se memorija napuni. Stoga, vrijeme vježbanja može biti duže od
+vremena snimanja.
+
+Funkcija RR podataka
+Odaberite Settings > Features > RR data > On / Off
+Funkcija snimanja RR podataka mjeri i snima intervale otkucaja srca s rezolucijom od jedne milisekunde.
+To omogućuje analizu (točnost 1ms) promjene otkucaja srca (HRV) koristeći softver. Funkcija RR
+podataka troši memoriju monitora srčane frekvencije i prilikom postavljanja ove funkcije, preostalo
+vrijeme snimanja je prikazano u donjem redu zaslona.
+
+Prikaz brzine
+Odaberite Settings > Features > Speed view > km/h (mph) or min/km (min/mi)
+
+Automatsko snimanje kruga
+Postavljanje automatskog snimanja kruga.
+Odaberite Settings > Features > A.Lap > On > set the lap distance
+Monitor srčane frekvencije će automatski snimati krugove. Odaberite Off za deaktiviranje.
+
+Pregled otkucaja srca
+Odaberite format prikaza otkucaja vašeg srca.
+Odaberite Settings > Features > HR view > HR / HR% / HRR%
+
+Sportske zone
+Definiranje sportskih zona u monitoru srčane frekvencije.
+Odaberite Settings > Features > Sport zones > Sport zone low limit
+Postavite donju granicu sportske zone 1 pritiskom na GORE ili DOLJE. Tada pritisnite OK. Na jednaki
+način postavite donje granice svake sportske zone. Prilikom postavljanja donje granice, gornja granica
+prethodne zone se postavlja automatski.
+Pritisnite i držite SVJETLO za prebacivanje između pregleda sportskih zona. HR% postotak maksimalnog
+broja otkucaja srca) ili BPM (otkucaja u minuti) ili HRR% (postotak rezerve otkucaja srca).
+
+Postavke možete lako mijenjati koristeći softver. za dodatne informacije, pogledate upute za softver.
+
+Korisničke postavke
+U monitor srčane frekvencije unesite točne korisničke informacije kako bi dobili točne povratne
+informacije o vašim performansama.
+Za postavljanje korisničkih informacija u monitor srčane frekvencije
+Odaberite Settings > User
+
+POSTAVKE
+
+37
+
+HRVATSKI, SRPSKI
+
+•
+•
+•
+•
+•
+•
+•
+
+Weight: Masa. Za promjenu jedinica, pritisnite i držite SVJETLO
+Height: Visina. Za promjenu jedinica, pritisnite i držite SVJETLO
+Birthday: Rođendan. dd=dan, mm=mjesec, yy=godina.
+Sex: Spol. Muški/Ženski.
+Activity: Aktivnost. Najviša/Visoka/Srednja/Niska.
+Heart Rate : Otkucaji srca; HRmax, HRsit
+VO2max: Maksimalni unos kisika.
+
+Razina aktivnosti
+Razina aktivnosti je procjena vaše razine dugotrajne fizičke aktivnosti. Odaberite alternativu koja najbolje
+opisuje ukupnu količinu i intenzitet vaše fizičke aktivnosti tijekom zadnja tri mjeseca.
+• Top: Najviša. Sudjelujete u teškim fizičkim aktivnostima najmanje 5 puta tjedno, ili vježbate kako bi
+povećali svoje sposobnosti radi natjecanja.
+• High: Visoka. Najmanje 3 puta tjedno sudjelujete u teškim fizičkim aktivnostima, npr. trčite 10-40 km ili
+provodite 2-4 sata tjedno u usporedivoj fizičkoj aktivnosti.
+• Moderate: Srednja. Redovito sudjelujete u rekreacijskim sportovima, npr. trčite 5-10 km na tjedan ili
+provodite ½-2 sata tjedno u usporedivoj fizičkoj aktivnosti, ili vaš posao zahtijeva srednju fizičku aktivnost.
+• Low: Niska. Ne sudjelujete redovito u rekreacijskim sportovima ili težim fizičkim aktivnostima, npr.
+vježbate dovoljno teško da bi samo povremeno uzrokovali teže disanje.
+U monitoru srčane frekvencije, ove vrijednosti se koriste za proračun vaše potrošnje energije.
+Otkucaji srca: HRmax, HRsit
+HRmax (maksimalni broj otkucaja srca): Standardno se koristi prema vašim godinama predviđena
+vrijednost HRmax (220 – godine). Ručno postavite vašu vrijednost HR max ako je vaš maksimalan broj
+otkucaja srca određen u laboratoriju ili ako ste sami testirali svoj maksimalan broj otkucaja srca na
+terenu.
+HRsit (broj otkucaja srca u sjedećem položaju): Standardno se koristi prema vašim godinama predviđena
+vrijednost HRsit. Postavite vašu vrijednost HR sit ako ste je odredili prema uputama. Za upute, pogledajte
+Otkucaji srca u sjedećem položaju (stranica 55).
+Maksimalni unos kisika: VO 2max
+VO 2max je maksimalni kapacitet potrošnje kisika vašeg tijela za vrijeme maksimalnog napora. Najtočniji
+način određivanja vrijednosti VO 2max je provođenje testa maksimalnog napora u laboratoriju. Ako znate
+vašu točnu klinički testiranu vrijednost VO 2max, unesite je u monitor srčane frekvencije. Inače, izmjerite
+usporedivu vrijednost OwnIndex, provođenjem testa Polar Fitness Test. Za dodatne informacije,
+pogledajte Polar Fitness Test TM (stranica 45).
+Ako su promjene napravljene u korisničkim postavkama, prikaže se User settings updated .
+
+Možete unijeti i namjestiti korisničke postavke koristeći softver. Za dodatne informacije, pogledajte upute za
+softver.
+
+Općenite postavke
+
+Zvuk
+Za namještanje glasnoće
+
+38
+
+POSTAVKE
+
+HRVATSKI, SRPSKI
+
+Odaberite Settings > General > Sound > Volume > On / Off
+Glasnoća zvukova pritiska na tipku i zvukova aktivnosti za vrijeme vježbanja. To ne utječe na zvukove
+sata ili alarma ciljanih zona (TZ Alarm).
+Za uključivanje/isključivanje alarma ciljane zone
+Odaberite Settings > General > Sound > TZ Alarm > On / Off
+Alarm ciljane zone će se uključiti i granice će treptati kada se nađete izvan ciljane zone. Ako je glasnoća
+isključena, ali TZ Alarm je i dalje aktivan, TZ Alarm će i dalje raditi.
+
+Blokiranje tipki
+Za definiranje postavki blokiranja tipki.
+Odaberite Settings > General > Keylock > Manual / Automatic
+Blokiranje tipki sprečava slučajno pritiskanje tipki.
+• Manual: Aktiviranje ručnog blokiranja tipki. Za uključivanje/isključivanje blokade tipki, pritisnite i držite
+tipku SVJETLO najmanje na sekundu.
+• Automatic: Blokiranje tipki se aktivira ako tipke nisu pritisnute duže od jedne minute.
+
+Jedinice
+U monitoru srčane frekvencije namjestite preferirane mjerne jedinice
+Odaberite Settings > General > Units > kg/cm/km or lb/ft/mi
+
+Jezik
+Odabir jezika
+Odaberite Settings > General > Language > English / Deutsch / Español / Français / Italian
+
+Hibernacija
+Aktiviranje funkcije hibernacije
+Odaberite Settings > General > Sleep > Activate sleep mode? > Yes
+Aktiviranje režima hibernacije će pomoći u štednji baterije kada se monitor srčane frekvencije ne koristi
+na duže razdoblje. U ovom režimu, alarm sata će još uvijek funkcionirati.
+Za buđenje monitora srčane frekvencije
+Pritisnite bilo koju tipku > Turn display on? > Yes / No (upali zaslon?)
+• Yes: monitor srčane frekvencije je aktiviran.
+• No: monitor srčane frekvencije se vraća u režim hibernacije.
+
+Postavke možete lako mijenjati koristeći softver. Za dodatne informacije, pogledajte upute za softver.
+
+Postavke sata
+
+Podsjetnik
+Postavite podsjetnik za različite zadatke ili vježbe
+Odaberite Settings > Watch > Reminders > Add new
+
+POSTAVKE
+
+39
+
+HRVATSKI, SRPSKI
+
+•
+•
+•
+•
+•
+•
+
+•
+
+Date: Unesite datum zadatka, dd=dan, mm=mjesec, yy=godina.
+Reminder time : Unesite vrijeme podsjetnika.
+Alarm: Postavite alarm da se oglasi na vrijeme, ili 10 min/30 min/1 sat prije zadatka.
+Sound: Odaberite glasnoću alarma Silent / Beep / Normal (tih/kratki zvuk/normalno).
+Repeat : Odaberite ponavljanje podsjetnika Once/Hourly/Daily/Weekly/Monthly/Yearly (jednom/svaki
+
+sat/dnevno/tjedno/mjesečno/godišnje).
+Exercise : Odaberite vježbu koju će te povezati s podsjetnikom. Kada se podsjetnik oglasi, monitor srčane
+frekvencije će postaviti ovu vježbu kao standardnu. Odaberite NONE ako ne želite povezati podsjetnik s
+vježbom.
+Rename: Za promjenu naziva podsjetnika, odaberite slova s GORE ili DOLJE, i prihvatite s OK.
+
+U monitoru srčane frekvencije možete programirati sedam podsjetnika.
+Za pregled aktivnih podsjetnika i njihovo namještanje:
+Odaberite Settings > Watch > Reminders
+Odaberite određeni podsjetnik za pregled, namještanje, promjenu naziva ili brisanje.
+
+Događaj
+Za postavljanje odbrojavanje do događaja u monitor srčane frekvencije
+Odaberite Settings > Watch > Event
+Event day: Datum događaja. dd=dan, mm=mjesec.
+Rename: Za promjenu naziva događaja, odaberite slova s GORE ili DOLJE i prihvatite s OK.
+
+Za promjenu odbrojavanja do događaja.
+Odaberite Settings > Watch > Event
+Možete pregledati odbrojavanje do događaja, postaviti novi datum, promijeniti mu naziv ili ga izbrisati.
+U vremenskom režimu, sakrijte ili ponovo pregledajte odbrojavanje do događaja pritiskom i držanjem
+tipke GORE.
+
+Alarm
+Postavljanje alarma u vašem monitoru srčane frekvencije
+Odaberite Settings > Watch > Alarm > Off / Once / Mon-Fri / Daily
+Alarm možete postaviti da se aktivira jednom (Once), svaki dan između ponedjeljka i petka (Mon-Fri), ili
+dnevno (Daily). Alarm se oglašava u svim režimima rada osim u režimu vježbanja, i to će činiti jednu
+minutu ako ne pritisnete STOP. Alarm sata također funkcionira u hibernaciji i čak ako ste zvuk ugasili u
+općenitim postavkama.
+Za odgađanje alarma dodatnih 10 minuta, pritisnite tipke GORE, DOLJE ili OK. Prikaže se Snooze i
+počinje odbrojavanje produženog vremena alarma. Za izlazak iz produženog alarma, pritisnite STOP.
+
+Ako se na zaslonu pojavi simbol baterije, alarm se ne može aktivirati.
+
+Vrijeme
+U monitoru srčane frekvencije postavite vrijeme 1
+Odaberite Settings > Watch > Time 1 > 24h / 12h
+U monitoru srčane frekvencije postavite vrijeme 2
+Odaberite Settings > Watch > Time 2
+
+40
+
+POSTAVKE
+
+HRVATSKI, SRPSKI
+
+Postavite željenu vremensku razliku između vremena 1 i vremena 2 u satima pomoću tipki
+GORE/DOLJE.
+Prebacivanje između vremenskih zona
+Odaberite Settings > Watch > Time zone > Time 1 / Time 2
+Odabir vremenske zone
+U vremenskom režimu, promijenite vremensku zonu pritiskom i držanjem tipke DOLJE. Broj 2 u donjem
+desnom kutu zaslona označava da se koristi Vrijeme 2.
+
+Datum
+Namještanje datuma u monitoru srčane frekvencije
+Odaberite Settings > Watch > Date
+dd=dan, mm=mjesec, yy=godina
+
+Postavke lako mijenjate koristeći softver. Za dodatne informacije pogledajte upute za softver.
+
+Tipka prečaca (brzi izbornik)
+Neke postavke se mogu mijenjati s tipkom prečaca u vremenskom režimu.
+Pritisnite i držite SVJETLO > Quick menu
+• Keylock – Blokiranje tipki
+• Reminders – Podsjetnici
+• Alarm
+• Time zone – Vremenska zona
+• Sleep – Hibernacija
+
+POSTAVKE
+
+41
+
+HRVATSKI, SRPSKI
+
+8. PROGRAM VJEŽBANJA
+Pregled programa
+Koristeći Polar ProTrainer 5 stvorite i prebacite vama prilagođeni program vježbanja u monitor srčane
+frekvencije. Ovo poglavlje uključuje osnovne upute kako pregledavati i upravljati programom kada ga
+prebacite u vaš monitor srčane frekvencije. Za dodatne informacije o stvaranju programiranih vježbi s
+ovim softverom, prebacivanjem u monitor srčane frekvencije i analizu vaših performansi nakon vježbanja,
+pogledajte upute softvera Polar ProTrainer 5.
+Nakon skidanja programa za vježbanje, u vašem monitoru srčane frekvencije su prikazana dva dodatna
+izbornika, u kojima možete pregledati vaš program i provjeriti vaš dnevni raspored. Pomičite se kroz
+tjedne, dane i vježbe s tipkama GORE i DOLJE. Tjedan i dan odaberite s OK.
+
+Pregled vašeg tjednog programa
+Odaberite Program > Week view
+Tjedni pregled nudi pregled vaših tjednih vježbi. Bijeli stupac predstavlja planirano vrijeme vježbanja, a
+crni stupac predstavlja obavljeno vrijeme vježbanja. Ispod stupaca prikazano je tjedno ciljano vrijeme
+vježbanja.
+Pritisnite i držite tipku SVJETLO za pregled slijedećih informacija u svezi tjedna:
+• Week info: Naziv i opis tjedna.
+• Targets: Sažetak ciljeva za ovaj tjedan. Kalorije, udaljenost* i trajanje. Planirano vrijeme za sportske
+zone: pritisnite OK i prebacujte se između sportskih zona s GORE ili DOLJE.
+• Results: Sažetak tjednih rezultata. Kalorije, udaljenost* i trajanje. Planirano vrijeme za sportske zone:
+pritisnite OK i prebacujte se između sportskih zona s GORE ili DOLJE.
+• Reminder : Postavite alarm (na vrijeme; 10 min, 30 min ili 1 sat prije vježbe) i definirajte vrstu zvuka
+(Silent, Beep, Normal).
+• Program off : Uklonite program iz vašeg monitora srčane frekvencije.
+Za pregled vašeg dnevnog programa
+Odaberite Program > Week view > Day view
+Odaberite Today > Exercise view
+Dnevni pregled nudi pregled vaših dnevnih vježbi. Bijeli stupac predstavlja planirano vrijeme vježbanja, a
+crni stupac predstavlja obavljeno vrijeme vježbanja. Ispod stupaca prikazano je dnevno ciljano vrijeme
+vježbanja.
+Pritisnite i držite tipku SVJETLO za pregled slijedećih informacija u svezi dana:
+• Targets: Sažetak ciljeva za ovaj dan. Kalorije, udaljenost* i trajanje. Planirano vrijeme za sportske zone:
+pritisnite OK i prebacujte se između sportskih zona s GORE ili DOLJE.
+• Results: Sažetak dnevnih rezultata. Kalorije, udaljenost* i trajanje. Planirano vrijeme za sportske zone:
+pritisnite OK i prebacujte se između sportskih zona s GORE ili DOLJE.
+
+42
+
+PROGRAM VJEŽBANJA
+
+HRVATSKI, SRPSKI
+
+Pregled vaše dnevne vježbe
+Odaberite Program > Week view > Day view > Exercise view
+Pregled vježbe prikazuje slijedeće informacije: naziv vježbe, opis i ciljano trajanje.
+Pritisnite i držite tipku SVJETLO za pregled slijedećih informacija:
+• Targets: Sažetak ciljeva za ciklus vježbanja. Kalorije, udaljenost* i trajanje. Planirano vrijeme za sportske
+zone: pritisnite OK i prebacujte se između sportskih zona s GORE ili DOLJE.
+• Phases: Sažetak faza ciklusa vježbanja.
+• Sport profile: Naziv odabranog sportskog profila. Za dodatne informacije, pogledajte upute softvera.
+• Reminder : Postavite vrijeme podsjetnika.
+*Potreban opcijski s3 trkaći senzor, G3 GPS senzor ili biciklistički senzor brzine W.I.N.D.
+
+Provođenje programiranih vježbi
+Početak vježbanja
+Ako ste postavili podsjetnik, vaš monitor srčane frekvencije će vas podsjetiti da vježbate u skladu s
+planom na postavljeni datum. Pregledajte informacije o planiranoj vježbi pritiskom na OK kada se
+podsjetnik ugasi.
+Početak dnevne vježbe
+Odaberite Today > Exercise view > OK > OK
+Odaberite Program > Week view > Day view > Exercise view > OK > OK
+Za dodatne informacije o snimanju vježbanja, pogledajte Počnite vježbati (stranica 13). Vaš monitor
+srčane frekvencije će vas voditi kroz ciklus vježbanja.
+
+Vježbanja u fazama
+Dolje je dan primjer intervalne vježbe, koja je podijeljena u četiri faze:
+Warm up / P1: Trčite 10 minuta s otkucajima srca između 55-65% vašeg maksimalnog broja otkucaja
+srca.
+Interval / P2: Trčite 3 km s ritmom između 3:30-4:00 min/km.
+Recovery / P3: Nakon 3 km neka broj otkucaja vašeg srca padne na 120 bpm. Ponovite faze 2 i 3 šest
+puta.
+Cool down / P4: Trčite 10 minuta s ritmom između 5:00-6:00 min/km.
+
+Prikazi za vrijeme vježbanja
+Za vrijeme vježbe vidjeti će te slijedeće vrste prikaza:
+
+Svaka faza započinje s prikazom:
+Naziv faze
+Vrsta zone
+Granice zone
+Broj preostalih ponavljanja faze
+Za vrijeme vježbe prikaz faze pokazuje:
+Odbrojavanje vremena/udaljenosti*, brojač vremena, broj trenutne faze
+Ciljanu zonu u grafičkom formatu (osvježavanje svakih 10 sek., prikazujući zadnjih
+8 minuta na zaslonu)
+Otkucaji srca
+Broj preostalih ponavljanja faze
+
+PROGRAM VJEŽBANJA
+
+43
+
+HRVATSKI, SRPSKI
+
+Svaka faza završava s prikazom:
+Trajanje ili udaljenost* faze
+Razlika otkucaja srca (koliko ste povećali ili smanjili vaše otkucaje srca za vrijeme
+ove faze) ili prosječna brzina/ritam
+Prosječni broj otkucaja srca
+Broj završenih faza
+Kada je programirana vježba završena, zaslon prikazuje da je vježba završena.
+Monitor srčane frekvencije ulazi u režim Free vježbe i možete nastaviti vježbati bez
+postavki. Vježba se sprema i informacije se skupljaju u datoteku dok ne zaustavite
+vježbu.
+
+Za dodatne informacije u svezi planiranja ciklusa i prebacivanja na vaš monitor srčane frekvencije sa
+softverom, pogledajte upute softvera.
+
+Funkcije za vrijeme vježbanja
+Promijenite iste postavke programirane vježbe kao i bilo koje druge vrste vježbe. Za dodatne informacije
+o različitim funkcijama za vrijeme vježbe, pogledajte Funkcije tipki tijekom vježbanja (stranica 20).
+Programirana vježba koristi postavke sportskog profila, postavljenih u softveru. Ako za vrijeme vježbanja
+promijenite postavke monitora srčane frekvencije (npr. faktor kalibracije), promjene će se odnositi samo
+na trenutnu vježbu. Slijedeći put kada počnete istu vježbu, monitor srčane frekvencije će koristiti
+postavke sportskog profila definirane u softveru.
+
+Izbornik kruga
+Za pregled izbornika kruga za vrijeme programirane vježbe, pritisnite i držite OK. Pomičite se između
+opcija s tipkama GORE ili DOLJE, i potvrdite s OK. Sadržaj izbornika kruga ovisi o vašoj vježbi.
+• End phase: završetak trenutne faze i prebacivanje na slijedeću fazu u vježbi.
+• Jump to: Prebacivanje na bilo koju drugu fazu vaše vježbe.
+• Lock zone ili Unlock zone: zaključajte otkucaje srca ili brzinu/ritam* prema određenoj sportskoj zoni ako
+vježbate bez postavljenih ciljanih zona.
+Za pregled rezultata vježbe
+Odaberite File > Exercise log
+Nakon završetka programirane vježbe, podaci vašeg vježbanja će biti spremljeni u File. Za dodatne
+informacije, pogledajte Analiza rezultata vježbanja (stranica 23).
+*Potreban opcijski s3 trkaći senzor, G3 GPS senzor ili biciklistički senzor brzine W.I.N.D.
+
+44
+
+PROGRAM VJEŽBANJA
+
+HRVATSKI, SRPSKI
+
+9. TESTOVI
+Polar Fitness Test TM
+
+Polar Fitness Test TM je lak, siguran i brz način za mjerenje vaših aerobnih (kardiovaskularnih)
+sposobnosti u mirovanju. Rezultat, Polar OwnIndex, je usporediv s maksimalnim unosom kisika (VO 2max),
+koji se obično koristi za ocjenu aerobnih sposobnosti. Vaša dugoročna fizička aktivnost, otkucaji srca,
+promjenjivost otkucaja srca u mirovanju, spol, starost, visina i masa utječu na OwnIndex. Polar Fitness
+Test je razvijen da ga koriste zdrave odrasle osobe.
+Aerobna sposobnost se odnosi na činjenicu koliko dobro vaš kardiovaskularni sustav radi za prijenos
+kisika u vaše tijelo. Što imate više aerobne sposobnosti, to je vaše srce jače i efikasnije. Dobre aerobne
+sposobnosti imaju mnoge zdravstvene prednosti. Na primjer, pomažu u smanjenju visokog krvnog tlaka i
+rizika od kardiovaskularnih bolesti i srčanog udara. Ako želite poboljšati vaše aerobne sposobnosti, u
+prosjeku treba šest tjedana redovitog vježbanja kako bi vidjeli značajnu promjenu vašeg OwnIndexa.
+Manje sposobni pojedinci će brže uočiti promjene. Što su vaše aerobne sposobnosti veće, to će
+promjene vašeg OwnIndexa biti manje
+Aerobne sposobnosti se najbolje poboljšavaju vrstama vježbi koje koriste velike grupe mišića. Takve
+aktivnosti uključuju trčanje, vožnju bicikla, hodanje, veslanje, plivanje, klizanje i skijaško trčanje.
+Kako bi nadgledali vaš napredak, počnite s mjerenjem vašeg OwnIndexa nekoliko puta tijekom prva dva
+tjedna kako bi dobili početnu vrijednost, i nakon toga test ponovite otprilike jednom mjesečno.
+S Polar Fitness Testom, također možete izračunati predviđeni maksimalni broj otkucaja srca (HR max-p).
+HRmax-p rezultat puno bolje predviđa vaš individualni maksimalni broj otkucaja srca od formule na osnovi
+godina (220-godine). Za dodatne informacije o vrijednosti HR max, pogledajte Korisničke postavke
+(stranica 37).
+Kako bi osigurali da su testni rezultati pouzdani, vrijede slijedeći osnovni zahtjevi:
+• Test možete provesti bilo gdje – u kući, u uredu, u fitnes centru – uz uvjet da je okolina mirna. Ne bi
+smjelo biti ometajuće buke (npr. televizija, radio ili telefon) i drugih ljudi koji vam pričaju.
+• Test uvijek provodite u istoj okolini i u isto vrijeme.
+• Izbjegavajte puno jesti ili pušiti 2-3 sata prije testa.
+• Izbjegavajte teške fizičke napore, alkohol i lijekove na dan testiranja i dan prije.
+• Trebali bi biti opušteni i mirni. Legnite 1-3 minute prije početak testa.
+
+Prije testa
+Nosite primopredajnik
+Za dodatne informacije, pogledajte Nošenje primopredajnika (stranica 13).
+Unesite korisničke informacije
+Odaberite Settings > User
+Za provođenje Polar Fitness Testa, unesite vaše osobne informacije i razinu dugoročnih fizičkih aktivnosti
+u Korisničke postavke.
+Uključite HRmax-p
+Ako želite dobiti predviđeni maksimalni broj otkucaja srca, uključite HR max-p.
+
+TESTOVI
+
+45
+
+HRVATSKI, SRPSKI
+
+Odaberite Test > Fitness > HR max-p > On
+
+Provođenje testa
+Odaberite Test > Fitness > Start > Fitness Test Lie Down
+Fitnes test započne unutar pet sekundi. Strelice označavaju da test traje. Legnite, ostanite opušteni i
+ograničite pokrete tijelom i komunikaciju s drugim osobama.
+Ako u Korisničkim postavkama niste postavili vašu dugoročnu fizičku aktivnost, na zaslonu se pojavi Set
+your personal activity level . Odaberite Top, High, Moderate ili Low. Za dodatne informacije o razinama
+aktivnosti, pogledajte Korisničke postavke (stranica 37).
+Ako vaš monitor srčane frekvencije ne prima otkucaje vašeg srca na početku ili za vrijeme testa, test nije
+uspio i prikaže se Test failed, check WearLink . Provjerite da li su elektrode primopredajnika vlažne i da li
+tekstilna traka dobro naliježe, te ponovo započnite test.
+Kada test završi, ćuti će te dva zvučna signala. Prikaže se OwnIndex s brojčanom vrijednosti i ocjeni
+razine. Za dodatne informacije o ocjenama, pogledajte Klase fitnes razina.
+Za prikaz vašeg predviđenog maksimalnog broja otkucaja srca ( Predicted maximum heart rate ) pritisnite
+DOLJE. Pritisnite OK za izlaz.
+Update to VO2 max? (Nadopuni VO2 max?)
+
+•
+•
+
+Odaberite Yes za spremanje OwnIndex vrijednosti u vaše korisničke postavke i izbornik Fitness Test
+Trend.
+Odaberite No samo ako znate vašu u laboratoriju izmjerenu vrijednost VO 2maxi ako se razlikuje sa više od
+jedne klase fitnes razine od OwnIndex rezultata. Vaša OwnIndex vrijednost se sprema samo u izbornik
+Fitness Test Trend. Za dodatne informacije, pogledajte Fitness Test Trend .
+
+Update to HR max? (ako je HRmax-p aktivirano)
+
+•
+•
+
+Odaberite Yes za spremanje vrijednosti u vaše korisničke postavke.
+Odaberite No ako znate vašu u laboratoriju izmjerenu vrijednost HR max.
+
+Test možete zaustaviti u bilo kojem trenutku pritiskom na STOP. Na par sekundi se prikaže Fitness Test
+canceled .
+
+Spremljene vrijednosti OwnIndex i HR max-p će se koristiti za proračun potrošnje kalorija.
+
+Nakon testa
+Klase fitnes razina
+Vaš OwnIndex ima najviše smisla prilikom usporedbe vaših individualnih vrijednosti i promjena kroz
+vrijeme. OwnIndex se također može interpretirati na osnovi spola i starosti. Pronađite vaš OwnIndex u
+donjoj tablici i usporedite kakve su vaše aerobne sposobnosti u odnosu na druge osobe vašeg spola i
+godina.
+Vrhunski sportaši obično imaju vrijednost OwnIndexa iznad 70 (muškarci) i 60 (žene). Sportaški
+olimpijske izdržljivosti mogu doseći vrijednosti i do 95. OwnIndex je najviši u sportovima koji uključuju
+velike grupe mišića, kao što su trčanje ili skijaško trčanje.
+Muškarci
+
+Starost
+
+Jako nisko
+
+Nisko
+
+Dovoljno
+
+Srednje
+
+Dobro
+
+Vrlo dobro
+
+Izvrsno
+
+20-24
+
+< 32
+
+32-37
+
+38-43
+
+44-50
+
+51-56
+
+57-62
+
+> 62
+
+25-29
+
+< 31
+
+31-35
+
+36-42
+
+43-48
+
+49-53
+
+54-59
+
+> 59
+
+30-34
+
+< 29
+
+29-34
+
+35-40
+
+41-45
+
+46-51
+
+52-56
+
+> 56
+
+46
+
+TESTOVI
+
+HRVATSKI, SRPSKI
+
+Starost
+
+Jako nisko
+
+Nisko
+
+Dovoljno
+
+Srednje
+
+Dobro
+
+Vrlo dobro
+
+Izvrsno
+
+35-39
+
+< 28
+
+28-32
+
+33-38
+
+39-43
+
+44-48
+
+49-54
+
+> 54
+
+40-44
+
+< 26
+
+26-31
+
+32-35
+
+36-41
+
+42-46
+
+47-51
+
+> 51
+
+45-49
+
+< 25
+
+25-29
+
+30-34
+
+35-39
+
+40-43
+
+44-48
+
+> 48
+
+50-54
+
+< 24
+
+24-27
+
+28-32
+
+33-36
+
+37-41
+
+42-46
+
+> 46
+
+55-59
+
+< 22
+
+22-26
+
+27-30
+
+31-34
+
+35-39
+
+40-43
+
+> 43
+
+60-65
+
+< 21
+
+21-24
+
+25-28
+
+29-32
+
+33-36
+
+37-40
+
+> 40
+
+Žene
+
+Starost
+
+Jako nisko
+
+Nisko
+
+Dovoljno
+
+Srednje
+
+Dobro
+
+Vrlo dobro
+
+Izvrsno
+
+20-24
+
+< 27
+
+27-31
+
+32-36
+
+37-41
+
+42-46
+
+47-51
+
+> 51
+
+25-29
+
+< 26
+
+26-30
+
+31-35
+
+36-40
+
+41-44
+
+45-49
+
+> 49
+
+30-34
+
+< 25
+
+25-29
+
+30-33
+
+34-37
+
+38-42
+
+43-46
+
+> 46
+
+35-39
+
+< 24
+
+24-27
+
+28-31
+
+32-35
+
+36-40
+
+41-44
+
+> 44
+
+40-44
+
+< 22
+
+22-25
+
+26-29
+
+30-33
+
+34-37
+
+38-41
+
+> 41
+
+45-49
+
+< 21
+
+21-23
+
+24-27
+
+28-31
+
+32-35
+
+36-38
+
+> 38
+
+50-54
+
+< 19
+
+19-22
+
+23-25
+
+26-29
+
+30-32
+
+33-36
+
+> 36
+
+55-59
+
+< 18
+
+18-20
+
+21-23
+
+24-27
+
+28-30
+
+31-33
+
+> 33
+
+60-65
+
+< 16
+
+16-18
+
+19-21
+
+22-24
+
+25-27
+
+28-30
+
+> 30
+
+Ova klasifikacija je dobivena na osnovi podataka iz 62 stručna ispitivanja gdje vrijednost VO 2max direktno
+mjerena na odraslim ljudima u SAD, Kanadi i 7 Europskih država. Referenca: Schwartz E., Reibold RC.
+Aerobic fitness norms for males and females aged 6 to 75 years: a review, Aviat Space Environ Med;
+61:3-11, 1990.
+Fitness Test Trend
+Odaberite Test > Fitness > Trend
+Razvoj vašeg OwnIndexa možete vidjeti u izborniku Trend. Prikazuje se do 16 OwnIndex vrijednosti i
+odgovarajući podaci. Kada datoteka trenda testa postane puna, najstariji rezultati se automatski brišu.
+Prikažu se zadnji datum testa, graf vaših OwnIndex rezultata i zadnja OwnIndex vrijednost. Za pregled
+drugih vrijednosti koristite tipke GORE ili DOLJE.
+Brisanje OwnIndex vrijednosti
+Odaberite Test > Fitness > Trend
+Odaberite vrijednost koju želite izbrisati i pritisnite i držite tipku SVJETLO > Delete value? No/Yes .
+Potvrdite s OK.
+Analiza OwnIndex rezultata sa softverom
+Prebacivanje testnih rezultata u softver nudi mogućnost analize rezultata na razne načine, kao i pristup
+više detaljnim informacijama o vašem napretku. Softver vam također omogućuje da napravite grafičku
+
+TESTOVI
+
+47
+
+HRVATSKI, SRPSKI
+
+usporedbu s prethodnim rezultatima.
+
+Polar OwnOptimizerTM
+
+Općenito
+Uspješno vježbanje zahtijeva privremeno preopterećivanje: duže trajanje vježbe, veći intenzitet ili viši
+ukupni volumen. Kako bi izbjegli preveliko prenaprezanje, preopterećenju mora uvijek slijediti adekvatno
+razdoblje odmora. Bez adekvatnog razdoblja odmaranja, možete iskusiti smanjenje performansi kao
+rezultat većih volumena vježbanja, umjesto poboljšanje. Polar OwnOptimizer je lak i pouzdan način za
+određivanje da li vaš program vježbanja optimalno povećava vaše performanse. Polar OwnOptimizer je
+razvijen za uporabu od strane zdravih odraslih osoba.
+Polar OwnOptimizer je modifikacija tradicionalnog ortostatičkog testa preopterećenja. To je savršen alat,
+ugrađen u Monitor srčane frekvencije, za svakoga tko redovito vježba, najmanje tri puta tjedno, za
+poboljšanje sposobnosti ili dosezanja konkurentnih ciljeva. Ova značajka je bazirana na mjerenju
+otkucaja srca i promjenjivosti otkucaja srca za vrijeme ortostatičkog testa (ustajanje nakon opuštenog
+ležanja). OwnOptimizer vam pomaže da optimizirate vaše opterećenje prilikom vježbanja tako da iskusite
+povećanje performansi, a ne da se one na duže vrijeme smanje. Polar OwnOptimizer je baziran na
+redovitim dugoročnim mjerenjima pet parametara otkucaja srca. Dvije od ovih pet vrijednosti se
+izračunavaju u mirovanju, jedna za vrijeme ustajanja i dvije u stajanju. Svaki put kada provedete ovaj
+test, Monitor srčane frekvencije sprema vrijednosti otkucaja srca i uspoređuje ih s prethodnim snimljenim
+vrijednostima.
+
+Prije testa
+Osnovni testovi
+Kada koristite OwnOptimizer po prvi put, treba provesti šest osnovnih testova tijekom dva tjedna kako bi
+se odredile vaše osnovne osobne vrijednosti. Ova osnovna mjerenja se trebaju provesti tijekom dva
+uobičajena tjedna vježbanja, ne tijekom tjedana teških vježbi. Osnovna mjerenja bi trebala uključivati
+testove provedene nakon dana vježbanja i nakon dana odmora.
+Nadzor OwnOptimizer vrijednosti
+Nakon osnovnih snimanja, trebali bi nastaviti provoditi test 2-3 puta na tjedan. Testirajte se tjedno, ujutro
+nakon dana odmora i nakon dana teškog vježbanja (ili niza dana teških vježbi). Opcijski treći test se
+može provesti nakon dana normalnog vježbanja. OwnOptimizer možda neće dati pouzdane informacije
+za vrijeme smanjenja intenziteta vježbanja ili tijekom vrlo neredovitog vježbanja. Ako uzmete pauzu od
+vježbanja od 14 dana ili više, treba ponovo provesti osnovne testove.
+
+Provođenje testa
+Test bi se trebao uvijek provoditi u standardnim/sličnim uvjetima kako bi se dobili najpouzdaniji podaci.
+Preporuča se da test provedete ujutro prije doručka. Vrijede slijedeći osnovni zahtjevi:
+• Nosite primopredajnik. Za dodatne informacije, pogledajte Nošenje primopredajnika.
+• Trebali bi biti opušteni i smireni.
+• Možete sjediti u opuštenom položaju ili ležati na krevetu. Tijekom testiranja položaj bi uvijek trebao biti
+isti.
+• Test možete provesti bilo gdje – u kući, u uredu, u fitnes centru – uz uvjet da je okolina mirna. Ne bi
+smjelo biti ometajuće buke (npr. televizija, radio ili telefon) ili drugih osoba koje vam pričaju.
+• • Izbjegavajte jesti, piti i pušiti 2-3 sata prije testa.
+Provođenje testa
+Odaberite Test > Optimizer > Start > Optimizer Lie Down
+
+48
+
+TESTOVI
+
+HRVATSKI, SRPSKI
+
+Strelice označavaju daje test u tijeku. Za vrijeme prvog dijela testa, koji traje 3 minute, nemojte se
+pomicati.
+Nakon 3 minute, ručna jedinica će se oglasiti i prikaže se Optimizer Stand up . Ustanite i ostanite stajati 3
+minute.
+Nakon 3 minute, ručna jedinica će se ponovo oglasiti i test je završen.
+Prikaže se numerička i pisana interpretacija rezultata. Pritisnite DOLJE kako bi vidjeli vaš prosječan broj
+otkucaja srca (bpm) za vrijeme ležanja ( HRrest), najviši broj otkucaja srca za vrijeme ustajanja ( HRpeak ) i
+prosječni broj otkucaja srca za vrijeme stajanja ( HRstand).
+Test možete zaustaviti u bilo kojem trenutku pritiskom na STOP. Na par sekundi se prikaže Optimizer Test
+canceled .
+Ako vaš monitor srčane frekvencije ne prima otkucaje vašeg srca, prikaže se Test failed. Check WearLink .
+Provjerite da li su elektrode primopredajnika vlažne i da li tekstilna traka dobro naliježe.
+
+Nakon testa
+Kako interpretirati rezultate
+Monitor srčane frekvencije izračunava pet parametara otkucaja srca i promjenjivosti otkucaja srca.
+OwnOptimizer vrijednosti se proračunavaju usporedbom vaših zadnjih i prethodnih rezultata. Monitor
+srčane frekvencije će prikazati pisani opis vašeg statusa vježbanja. Detaljni opisi su dani ispod.
+Good Recovery (1)
+
+Vaši otkucaji srca su niži od prosjeka. To znači da ste se dobro odmorili. Možete nastaviti s vježbanjem,
+uključujući cikluse intenzivnih vježbi.
+Normal State (2)
+
+Vaši otkucaji srca su na normalnoj razini. Nastavite s vježbanjem; uključite cikluse lakih i intenzivnih
+vježbi, kao i dane odmora.
+Training Effect (3)
+
+Vaši otkucaji srca su viši od prosjeka. Prethodnih dana ste možda intenzivno vježbali. Imate dvije
+mogućnosti: 1) odmarajte se ili lagano vježbajte dan ili dva, ili 2) nastavite s intenzivnim vježbanjem dan
+ili dva dana i dobro se odmorite. Drugi izvori stresa kao što je početak groznice ili napad gripe mogu
+rezultirati u istoj vrsti odziva.
+Steady State (4)
+
+Vaši otkucaji srca su kontinuirano bili na normalnoj razini dugo vrijeme. Efikasno vježbanje zahtijeva
+teško vježbe i dobar odmor, i to bi trebalo uzrokovati varijacije u otkucajima srca. Vaši OwnOptimizer
+rezultati ukazuju na činjenicu da niste teško vježbali ili se niste dobro odmorili. Ponovo provedite test
+nakon odmora ili dana lakog vježbanja. Ako je odmor bio efikasan, vaš rezultat bi trebao pokazati Good
+recovery.
+Stagnant State (5)
+
+Vaši otkucaji srca su još uvijek na normalnoj razini i to se nastavilo kroz duže razdoblje. Rezultati ukazuju
+na činjenicu da vaše vježbanje nije bilo dovoljno intenzivno kako bi se optimalno razvijali. Kako bi
+efikasno poboljšali vaše stanje, u vaš program bi sada trebali uključiti intenzivnije ili duže vježbe.
+Hard Training (6)
+
+Vaši otkucaji srca su nekoliko puta bili viši od prosjeka. Možda ste namjerno vježbali teško. Rezultati
+ukazuju na preopterećenje i sada bi se trebali dobro odmoriti. Kako bi nadgledali vaš odmor, ponovo
+provedite test nakon jednog ili dva odmora ili dana lakšeg vježbanja.
+
+TESTOVI
+
+49
+
+HRVATSKI, SRPSKI
+
+Overreaching (7)
+
+Vaš OwnOptimizer rezultat ukazuje na činjenicu da ste nekoliko dana ili tjedana vježbali s visokim
+intenzitetom. Vaši otkucaji srca su stalno bili na visokoj razini. To ozbiljno ukazuje da bi se trebali dobro
+odmoriti. Što ste duže teško vježbali, to bi razdoblje odmora trebalo biti duže. Ponovo provedite test
+nakon najmanje dva dana odmora.
+Sympathetic Overtraining (8)
+
+Vaš OwnOptimizer rezultat ukazuje na činjenicu da ste nekoliko dana ili tjedana vježbali s visokim
+intenzitetom, i da vaš odmor nije bio dovoljan. To je rezultiralo u takozvanom stanju "pretreniranja". Kako
+bi se vratili u normalno stanje za vježbanje, odmarajte se kroz pažljivo nadzirano razdoblje. Pratite vaš
+odmor provođenjem OwnOptimizer testa 2-3 puta tjedno.
+Parasympathetic Overtraining (9)
+
+Vaši otkucaji srca su ostali na niskoj razini, što obično ukazuje na dobar odmor. Međutim, drugi parametri
+ukazuju na "para-suosjećajno pretreniranje". Možda ste intenzivno vježbali dugo vrijeme, i odmor možda
+nije bio dovoljan. Provjerite druge znakove pretreniranja, kao što su smanjene performanse, povećani
+umor, promjene raspoloženja, problemi spavanja, stalni bolovi u mišićima, i/ili osjećaj pregorenosti ili
+malaksalosti. Možda ste također bili podvrgnuti drugim stresovima.
+Općenito, razvoj para-suosjećajnog pretreniranja zahtijeva dugo razdoblje intenzivnog vježbanja. Kako bi
+se oporavili od para-suosjećajnog pretreniranja, morate kompletno obnoviti ravnotežu tijela. Odmor može
+potrajati nekoliko tjedana. Ne bi trebali vježbati, umjesto toga dobro se odmarajte većinu razdoblja
+oporavka. Možda par dana možete provesti lagane aerobne vježbe u kratkim ciklusima, i povremeno
+uključiti kratke cikluse većeg intenziteta.
+Također možete u obzir uzeti sport koji nije vaš glavni sport. Međutim, trebao bi to biti sport s kojim se
+upoznati i u kojem vam je ugodno. Nadgledajte vaš oporavak provođenjem OwnOptimizer testa 2-3 puta
+tjedno. Kada osjetite da ste povratili ravnotežu, i vaši rezultati pokazuju Normal State ili Good recovery,
+po mogućnosti više od jednog puta, tada u obzir možete uzeti nastavak vježbanja. Kada počnete ponovo
+vježbati, započnite novo razdoblje testiranja s novim osnovnim mjerenjima.
+
+Prije radikalne promjene programa vježbanja, u obzir uzmite OwnOptimizer rezultate zajedno s vašim
+subjektivnim osjećajem i bilo kojim simptomima koje imate. Ponovite OwnOptimizer test ako niste sigurni u
+standardizirane uvjete. Na rezultate individualnog testa može utjecati nekoliko vanjskih faktora, kao što su
+mentalni stres, kronična bolest, promjene okoline (temperatura, nadmorska visina) i drugi. Najmanje jednom
+godišnje bi trebali nadopuniti osnovne proračune, kada počnete s novim ciklusom vježbanja.
+OwnOptimizer Trend
+Odaberite Test > Optimizer > Trend
+U Trend izborniku pogledajte razvoj vaše OwnOptimizer vrijednosti. On uključuje 16 zadnjih
+OwnOptimizer vrijednosti, i datume kada su rezultati spremljeni. Kada datoteka trenda postane puna,
+zadnji rezultat automatski zamjenjuje najstariji.
+Prikažu se zadnji datum testiranja, grafički trend vaših rezultata i zadnja vrijednost. Pritisnite OK za
+prikaz pisanog opisa rezultata. Za pregled drugih vrijednosti pritisnite tipke GORE ili DOLJE.
+Brisanje OwnOptimizer vrijednosti
+Odaberite Test > Optimizer > Trend
+Odaberite vrijednost koju želite izbrisati i pritisnite i držite tipku SVJETLO. Delete value? No/Yes .
+Potvrdite s OK.
+Poništavanje Trend datoteke
+
+50
+
+TESTOVI
+
+HRVATSKI, SRPSKI
+
+Odaberite Test > Optimizer > Reset
+Možete poništiti OwnOptimizer testno razdoblje. Svi testni rezultati će biti izbrisani iz memorije. Nakon
+provođenja testa nakon 365 dana dugog testnog razdoblja, ili po prvi put unutar 30 dana, prikaže se
+Reset test period?
+
+Analiza rezultata sa softverom
+Prebacivanje testnih rezultata u softver nudi mogućnost analize rezultata na razne načine, kao i pristup
+više detaljnim informacijama o vašem napretku. Softver vam također omogućuje da napravite grafičku
+usporedbu s prethodnim rezultatima.
+
+TESTOVI
+
+51
+
+HRVATSKI, SRPSKI
+
+10. UPORABA NOVOG PRIMOPREDAJNIKA
+Uvođenje novog primopredajnika
+Ako ste kupili novi primopredajnik, treba ga uvesti u monitor srčane frekvencije. To se naziva učenje i
+traje nekoliko sekundi. Uvođenje osigurava da vaš monitor srčane frekvencije prima signale samo s
+vašeg primopredajnika i omogućuje vježbanje u grupi bez smetnji.
+U vremenskom prikazu pritisnite OK > New WearLink found, Teach new WearLink? (Pronađen novi
+WearLink. Uvedi novi WearLink?).
+Nosite primopredajnik i provjerite da niste u blizini (40 m) drugih Polar WearLink W.I.N.D.
+primopredajnika. U vremenskom režimu, pritisnite OK. Monitor srčane frekvencije počne tražiti signal
+primopredajnika.
+Kada se identificira novi primopredajnik, prikaže se New WearLink found, Teach new WearLink?
+• Odaberite YES za potvrdu procesa uvođenja. Kada je proces uvođenja gotov, prikaže se Completed!.
+Počnite snimanje vježbanja pritiskom na OK.
+• Odaberite NO za poništavanje uvođenja.
+Za povratak u vremenski prikaz, pritisnite i držite STOP tipku.
+
+52
+
+UPORABA NOVOG PRIMOPREDAJNIKA
+
+HRVATSKI, SRPSKI
+
+11. DODATNE INFORMACIJE
+Polar sportske zone
+Polar sportske zone nude novu razinu efikasnosti u vježbanju na osnovi otkucaja srca. Vježbanje je
+podijeljeno u pet sportskih zona na osnovi postotka vašeg maksimalnog broja otkucaja srca. Sa
+sportskim zonama možete lako odabrati i nadgledati intenzitete vježbanja.
+
+Ciljana zona
+
+Intenzitet %
+od HRmax,
+bpm
+
+Primjer
+trajanja
+
+Manje od 5
+minuta
+
+Prednosti: Maksimalan ili skoro maksimalan
+napor disanja i mišića.
+Osjećaj: Jako iscrpljujuće disanje i za mišiće.
+Preporučeno za: Jako iskusne trkače u formi.
+Samo kratki intervali, obično završne pripreme
+za kratka natjecanja.
+
+2-10 minuta
+
+Prednosti: povećana mogućnost izdržavanja
+napora vožnje pri visokim brzinama.
+Osjećaj: Uzrokuje umor mišića i teško disanje.
+Preporučeno za: Iskusne trkače za
+cjelogodišnje vježbanje promjenjive dužine.
+Postaje važnije prije početka sezone
+natjecanja.
+
+10-40 minuta
+
+Prednosti: Unaprjeđuje ritam općenitog
+vježbanja, olakšava napore umjerenog
+intenziteta i poboljšava efikasnost.
+Osjećaj: Trčanje većom brzinom sa stalno
+visokim ritmom.
+Preporučeno za: Trkači koji se pripremaju za
+natjecanje ili žele povećati performanse.
+
+40-80 minuta
+
+Prednosti: Poboljšava općenite osnovne
+sposobnosti, poboljšava obnovu i pojačava
+metabolizam.
+Osjećaj: Ugodno i lako, malo opterećenje
+mišića i kardiovaskularnog sustava.
+Preporučeno za: Svakoga za duge cikluse
+vježbanja i za vježbe obnove za vrijeme
+sezone natjecanja.
+
+20-40 minuta
+
+Prednosti: Pomaže u zagrijavanju i hlađenju,
+te obnovi.
+Osjećaj: Vrlo lako, mali napor.
+Preporučeno za: za vježbe obnove i hlađenja
+kroz sezonu vježbanja.
+
+MAKSIMUM
+
+90–100%
+171–190 bpm
+
+TEŠKO
+
+80–90%
+152–172 bpm
+
+UMJERENO
+
+70–80%
+133–152 bpm
+
+LAKO
+
+60–70%
+114-133 bpm
+
+VRLO LAKO
+
+50–60%
+104–114 bpm
+
+Prednosti vježbanja
+
+HRmax = maksimalni broj otkucaja srca (220-starost). Primjer: 30 godina, 220-30 = 190 bpm.
+Trčanje u sportskoj zoni 1 (vrlo lako) se provodi s vrlo niskim intenzitetom. Glavni princip vježbanja je
+taj da se razina performansi poboljšava nakon vježbanja tijekom razdoblja obnove, a ne samo tijekom
+vježbanja. Možete ubrzati proces obnove vježbanjem s vrlo malim intenzitetom.
+Sportska zona 2 (lako) služi za vježbanje izdržljivosti, bitnog dijela bilo kojeg programa vježbanja.
+Ciklusi trčanja u ovoj zoni su laki i aerobni. Dugotrajno vježbanje u ovoj lakoj zoni rezultira u efikasnom
+
+DODATNE INFORMACIJE
+
+53
+
+HRVATSKI, SRPSKI
+
+trošenju energije. Napredak će zahtijevati upornost.
+Aerobna snaga je povećana u sportskoj zoni 3 (umjereno). Intenzitet vježbanja je viši nego u sportskim
+zonama 1 i 2, ali je uglavnom aeroban. Na primjer, vježbanje u sportskoj zoni 3 se može sastojati od
+intervala nakon kojih slijedi odmor. Trčanje u ovoj zoni je posebno efikasna za poboljšanje efikasnosti
+protoka krvi kroz srce i mišićima kostura.
+Ako vam je cilj sudjelovanje u vrhunskim natjecanjima, trebali bi vježbati u sportskim zonama 4
+sportskim zonama 4 5 (MAKSIMUM). U ovim zonama, Trčanje je aerobna u intervalima do 12 minuta. Što
+je interval kraći, to je intenzitet veći. Dovoljan odmor između intervala je jako važan. Raspored vježbanja
+u zonama 4 i 5 je tako dizajniran da proizvede vrhunske performanse.
+Polar sportske zone se mogu prilagoditi koristeći laboratorijski izmjerene HR max vrijednosti, ili
+provođenjem testa na terenu kako bi sami izmjerili tu vrijednost. Tijekom trčanja u određenoj sportskoj
+zoni, pokušajte iskoristiti cijelu zonu. Srednji dio zone je dobar cilj, ali nije potrebno držati otkucaje srca
+stalno oko iste vrijednosti. Otkucaji srca se postepeno prilagođavaju intenzitetu vježbanja. Na primjer,
+prilikom prelaska iz sportske zone 1 u 3, krvožilni sustav i otkucaji srca će se prilagoditi unutar 3-5
+minuta.
+Intenzitet vježbanja, razina odmora, okolni i drugi takvi čimbenici će doprinijeti odzivu otkucaja srca.
+Stoga je važno obratiti pažnju na subjektivni osjećaj umora i prema tome prilagoditi program vježbanja.
+Jednostavan način uporabe sportskih zona je postavljanje vlastitih zona ciljanih otkucaja srca. Za
+dodatne informacije pogledajte Planiranje vašeg vježbanja (stranica 9).
+Nakon završetka ciklusa, prikaže se trajanje vježbanja u sportskoj zoni. Pristupite tjednom prikazu za
+sportske zone u kojima ste vježbali, te vremenu provedenom u jednoj zoni.
+Polar ProTrainer 5 softver nudi do 10 sportskih zona, kako bi bolje odgovarale vašim potrebama
+vježbanja i rezervi otkucaja srca.
+
+OwnZone vježbanje
+Vaš monitor srčane frekvencije automatski određuje individualnu i sigurnu zonu intenziteta: vašu
+OwnZone. Jedinstvena Polar OwnZone funkcija definira vašu osobnu zonu za aerobno vježbanje.
+Funkcija vas vodi kroz zagrijavanje i u obzir uzima vaše trenutno fizičko i mentalno stanje. Za većinu
+odraslih osoba, OwnZone odgovara 65-85% maksimalnog broja otkucaja srca.
+OwnZone se može odrediti unutar 1-5 minuta tijekom zagrijavanja vožnjom bicikla, hodanjem, trčanjem ili
+bavljenjem nekim drugim sportom. Ideja je da počnete vježbati polako s blagim intenzitetom, i da
+postepeno povećate intenzitet i otkucaje srca. OwnZone je razvijena za zdrave osobe. Neki zdravstveni
+problemi mogu uzrokovati da ne uspije određivanje OwnZone na osnovi promjenjivosti otkucaja srca. Ovi
+uvjeti uključuju visoki krvni tlak, srčane aritmije i određene lijekove.
+Slušanje i interpretiranje signala koje vam vaše tijelo šalje za vrijeme fizičkih napora je važan dio
+postizanja forme. Kako se postupak zagrijavanja razlikuje za različite vrste vježbi i kako se vaše fizičko i
+mentalno stanje može razlikovati od dana do dana (zbog stresa ili bolesti), uporaba OwnZone funkcije za
+svaki ciklus jamči najefikasniju zonu ciljanog broja otkucaja srca za određenu vrstu vježbe i dan.
+
+Maksimalni broj otkucaja srca
+Maksimalni broj otkucaja srca (HR max) je najveći broj otkucaja srca u minuti (bpm) za vrijeme
+maksimalnog fizičkog napora. To je individualna vrijednost i ovisi o starosti, nasljednim faktorima i razini
+forme. Također se može mijenjati ovisno o vrsti sportova, HR max se koristi za izražavanje intenziteta
+vježbanja.
+Određivanje maksimalnog broja otkucaja srca
+Vaš HR max se može odrediti na nekoliko načina.
+• Najtočniji način je kliničko mjerenje HR max vrijednosti. Test stresa koji nadzire kardiolog ili fiziolog
+vježbanja se obično provodi na traci za trčanje ili biciklu.
+
+54
+
+DODATNE INFORMACIJE
+
+HRVATSKI, SRPSKI
+
+•
+•
+•
+
+Vaš HR max također možete odrediti provođenjem testa na otvorenom s partnerom za vježbanje.
+Procjena HRmax-p rezultata koji predviđa vaš HR max se može dobiti provođenjem Polar Fitness Testa.
+HRmax se također može procijeniti uporabom uobičajene formule: 220-starost, iako su istraživanja
+pokazala da ova metoda nije jako točna, pogotovo za starije osobe ili za one koji su u formi godinama.
+
+Ako ste zadnjih tjedana jako vježbali i znate da možete sigurno doseći maksimalni broj otkucaja srca,
+možete sigurno sami provesti test za određivanje vašeg HR max. Preporuča se tijekom testa uz sebe imati
+partnera za vježbanje. Ako imate sumnji, prije provođenja testa savjetujte se s liječnikom.
+Ovdje je dan primjer jednostavnog testa.
+Step 1: Zagrijavajte se 15 minuta na ravnoj površini, postepeno se približavajući vaše uobičajenom ritmu
+vježbanja.
+Step 2: Odaberite uspon ili stepenište, za koji će vam trebati više od 2 minute da ga svladate. Potrčite uz
+brdo/stepenište, održavajući što je veći ritam koji možete izdržati 20 minuta. Vratite se u podnožje
+uspona.
+Step 3: Ponovo potrčite uz brdo, približavajući se ritmu koji bi mogli izdržati 3 kilometra. Zabilježite vaš
+najviši broj otkucaja srca. Vaš maksimum je otprilike 10 otkucaja viši od zabilježene vrijednosti.
+Step 4: Otrčite nazad niz brdo, dopuštajući da vam broj otkucaja srca padne za 30-40 otkucaja u minuti.
+Step 5: Ponovo potrčite uz brdo ritmom koji bi mogli izdržati 1 minutu. Pokušajte trčati do polovice
+uspona. Zabilježite vaš najviši broj otkucaja srca. To vas dovodi do vašeg maksimalnog broja otkucaja
+srca. Koristite ovu vrijednost kao maksimalni broj otkucaja srca za postavljanje zona vježbanja.
+Step 6: Obavezno se dobro odmorite, minimalno 10 minuta.
+
+Otkucaji srca u sjedećem položaju
+HRsit predstavlja prosječni broj otkucaja srca kada potpuno mirujete (odnosno sjedite). Za lako
+određivanje HR sit, nosite vaš primopredajnik, sjednite i ne radite nikakvu fizičku aktivnost. Za preciznije
+mjerenje, ponovite postupak nekoliko puta i izračunajte prosječnu vrijednost.
+
+Rezerva otkucaja srca
+Rezerva otkucaja srca (HRR) je razlika između maksimalnog broja otkucaja srca (HR max) i otkucaja srca
+u mirovanju (HR rest)*. HRR se koristi za proračun otkucaja srca prilikom vježbanja. To je raspon u kojem
+se mijenja broj otkucaja srca ovisno o razini napora. HRR odgovara rezervi unosa kisika (VO 2R).
+Otkucaji srca tijekom vježbanja se mogu odrediti koristeći Karvonen formulu**. Dodajte dani postotak
+rezerve otkucaja srca otkucajima srca u mirovanju.
+HR vježbanje = % ciljanog intenziteta (HR max – HRrest) + HRrest
+Primjer:
+Ciljani intenzitet je 70% HRR za osobu s HR max 201 bpm and HR rest 50 bpm
+HR vježbanje = 70% (201-50) + 50
+HR vježbanje = 156 bpm
+Za precizni broj otkucaja srca tijekom vježbanja, trebate vaše točne vrijednosti HR max i HRrest. To je zbog
+praktičnih razloga jer se HRmax otkucaji srca tijekom vježbanja su uvijek procijenjeni.
+*Kod monitora srčane frekvencije RS800CX, vrijednost otkucaja srca za vrijeme odmaranja se mjeri u
+sjedećem položaju (HRsit). To je zbog praktičnih razloga jer se HR sit koristi u proračunu potrošnje
+energije zbog točnosti. HR sit odgovara niskom intenzitetu s kojim se mogu usporediti različiti intenziteti
+vježbanja.
+
+DODATNE INFORMACIJE
+
+55
+
+HRVATSKI, SRPSKI
+
+**Karvonen M. Kentala K, Mustala O. The effects of training on heart rate: a longitudinal study, Med Exp
+Biol Fenn 1957; 35:307-315.
+
+Promjenjivost otkucaja srca
+Broj otkucaja srca se mijenja sa svakim otkucajem. Promjenjivost otkucaja srca (HRV) je promjena
+intervala između otkucaja, također poznatih kao R-R intervali.
+
+HRV označava fluktuacije otkucaja srca oko prosječnog broja otkucaja srca. Prosječan broj otkucaja srca
+od 60 otkucaja u minuti, ne znači da svi intervali između otkucaja u nizu traju točno 1 sekundu, nego oni
+mogu fluktuirati od 0,5 sek do 2 sek.
+Na HRV utječe aerobna forma. HRV srca u dobroj kondiciji, u mirovanju je općenito velik. Drugi čimbenici
+koji utječu na HRV su starost, genetika, položaj tijela, vrijeme dana i zdravlje. Tijekom vježbanja, HRV se
+smanjuje kako se povećava broj otkucaja srca i intenzitet vježbanja. HRV se također smanjuje tijekom
+razdoblja mentalnih napora.
+HRV-om upravlja automatski živčani sustav. Para-suosjećajna aktivnost smanjuje broj otkucaja srca i
+povećava HRV, dok suosjećajna aktivnost povećava otkucaje srca i smanjuje HRV.
+HRV se koristi u Ownzone, OwnIndex i OwnOptimizer značajkama. Također se može sam nadzirati
+uporabom monitora srčane frekvencije. Ako se HRV mijenja tijekom danog ritma vožnje bicikla i broja
+otkucaja srca, to može značiti promjenu u opterećenju vježbanja.
+
+Ritam trčanja i dužina koraka
+Ritam* je broj koraka stopala sa senzorom brzine trčanja* u minuti.
+Dužina koraka* je prosječna dužina jednog koraka. To je udaljenost između desnog i lijevog stopala kad
+dodirnu tlo.
+Brzina trčanja = 2 * dužina koraka * ritam
+Postoje dva načina za brže trčanje: pomicanje nogu s bržim ritmom ili uzimanje dužih koraka.
+Elitni trkači na duge staze obično trče s visokim ritmom od 89-95. Uzbrdo, uobičajene vrijednosti ritma su
+niže. Nizbrdo, one su veće. Trkači namještaju dužinu koraka kako bi povećali brzinu: dužina koraka se
+povećava kako se povećava brzina.
+Ipak, jedna od najčešćih pogrešaka koju čine novi trkači su preveliki koraci. Najefikasnija dužina koraka
+je prirodna dužina – ona pri kojoj se osjećate najudobnije. U utrkama ćete trčati brže istezanjem mišića
+nogu tako da vas odnesu dalje s dužim korakom.
+Također bi trebali raditi na efikasnosti ritma. Ritam se ne povećava lako, ali ako budete pravilno vježbali,
+
+56
+
+DODATNE INFORMACIJE
+
+HRVATSKI, SRPSKI
+
+moći ćete ga održati tijekom vašeg trčanja i maksimalizirati performanse. Kako bi razvili ritam, treba
+vježbati spoj između živaca i mišića – i to redovito. Jedan ciklus vježbanja ritma tjedno je dobar početak.
+Uključite vježbanje ritma u ostatak vašeg tjedna. Tijekom dužih trčanja, trebali bi tu i tamo uključiti brži
+ritam.
+Tijekom vježbanja za duže utrke (1/2 maraton, maraton ili duže) možda će biti korisno nadzirati ritam.
+Niski ritam pri očekivanom ritmu utrke može ranije uzrokovati probleme, kako se vaše noge umaraju.
+Jedan način da se to zaobiđe je povećanja brzine rada nogu pri očekivanom ritmu utrke. Možete
+namjestiti vaš monitor srčane frekvencije sa prikazuje ritam trke i ritam nogu. Pokušajte skratiti korak i
+povećati ritam održavajući jednaki ritam utrke (namjestite usku zonu ritma kako bi dobili zvučnu povratnu
+informaciju). Možete ciljati povećanje ritma trčanja iznad slijedećega:
+• 80/min (4 satni maratonci)
+• 85/min (3,5 satni maratonci)
+• 88/min (3 satni maratonci)
+Ovo je samo općeniti vodič, viši trkaći će naravno imati nešto niži ritam. Trkači bi također trebali obratiti
+pažnju na onaj ritam s kojim se osjećaju ugodno.
+Dobar način povećanja dužine koraka je provođenje određenih napornih poslova, kao što je trčanje
+uzbrdo, trčanje kroz mekani pijesak, ili trčanje uz stepenice. Šesto-tjedni period vježbanja koji uključuje
+naporan posao, treba rezultirati u uočljivim poboljšanjima dužine koraka, a ako se kombinira s bržim
+radom nogu (kao s kratkim koracima pri najboljem ritmu od 5 km), također se trebaju uočiti vidljiva
+poboljšanja ukupne brzine.
+*Potreban je opcijski s3 senzor brzine trčanja W.I.N.D.
+
+R-R snimanje
+R-R snimanje sprema intervale otkucaja srca, odnosno intervale između dva otkucaja srca. Ova
+informacija se također u snimljenim utorcima prikazuje kao trenutni broj otkucaja srca u otkucajima u
+minuti.
+Prilikom snimanja svakog pojedinog intervala, mogu se također vidjeti dodatne sistole i artefakti.
+Preporučamo uporabu kontaktnog gela (ECG gel) za optimiziranje kontakta između vaše kože i
+primopredajnika. Očitanja otkucaja srca, označena kao nepravilna, se mogu namjestiti i ispraviti u
+softveru.
+
+Polar indeks trčanja
+Indeks trčanja nudi lak način nadzora promjena performansi. Na performanse (koliko brzo/lako trčite
+određenim ritmom) direktno utječe aerobna kondicija (VO 2max) i ekonomičnost vježbanja (koliko je vaše
+tijelo efikasno tijekom trčanja), te indeks trčanja je mjera ovog utjecaja. Snimanjem vašeg indeksa trčanja
+tijekom vremena, možete pratiti vaš napredak. Napredak znači da trčanje danim ritmom zahtijeva manji
+napor, ili je vaš ritam brži pri danoj razini napora. Indeks trčanja računa takva poboljšanja. Indeks trčanja
+također daje dnevne informacije o vašim performansama trčanja koje se mogu mijenjati iz dana u dan.
+Prednosti indeksa trčanja:
+• Naglašava pozitivne efekte dobrih ciklusa vježbanja i dana odmora.
+• Prati razvoj kondicije i performansi pri različitim otkucajima srca – ne samo tijekom maksimalnih
+performansi.
+• Možete odrediti vašu optimalnu brzinu trčanja usporedbom indeksa trčanja iz različitih vrsta vježbanja.
+• Naglašava napredak kroz bolju tehniku trčanja i višu kondiciju.
+Indeks trčanja se računa tijekom svake vježbe kada se snimaju otkucaji srca i signal trkaćeg senzora* i
+kada vrijede slijedeći zahtjevi.
+• Brzina treba biti 6 km/h ili veća i trajanje minimalno 12 minuta.
+• Otkucaji srca trebaju biti iznad 40% HR max.
+Provjerite je li trkaći senzor kalibriran. Proračun počne kada počnete snimati ciklus vježbanja. Na primjer,
+
+DODATNE INFORMACIJE
+
+57
+
+HRVATSKI, SRPSKI
+
+tijekom ciklusa možete stati na semaforu bez prekida proračuna.
+Na kraju vaš monitor srčane frekvencije prikazuje Indeks trčanja i rezultat sprema u datoteku. Usporedite
+vaše rezultate s donjom tablicom. Koristeći softver, možete pratiti i analizirati vaš napredak vrijednosti
+indeksa trčanja kroz vrijeme i pri različitim brzinama trčanja. Ili usporedite vrijednosti različitih ciklusa
+vježbanja i analizirajte ih kroz kratko i dugo razdoblje.
+Kratkoročna analiza
+Muškarci
+
+Dob /
+Godine
+
+Jako malo
+
+Malo
+
+Prihvatljivo
+
+Srednje
+
+Dobra
+
+Jako dobra
+
+Vrhunski
+
+20-24
+
+< 32
+
+32-37
+
+38-43
+
+44-50
+
+51-56
+
+57-62
+
+> 62
+
+25-29
+
+< 31
+
+31-35
+
+36-42
+
+43-48
+
+49-53
+
+54-59
+
+> 59
+
+30-34
+
+< 29
+
+29-34
+
+35-40
+
+41-45
+
+46-51
+
+52-56
+
+> 56
+
+35-39
+
+< 28
+
+28-32
+
+33-38
+
+39-43
+
+44-48
+
+49-54
+
+> 54
+
+40-44
+
+< 26
+
+26-31
+
+32-35
+
+36-41
+
+42-46
+
+47-51
+
+> 51
+
+45-49
+
+< 25
+
+25-29
+
+30-34
+
+35-39
+
+40-43
+
+44-48
+
+> 48
+
+50-54
+
+< 24
+
+24-27
+
+28-32
+
+33-36
+
+37-41
+
+42-46
+
+> 46
+
+55-59
+
+< 22
+
+22-26
+
+27-30
+
+31-34
+
+35-39
+
+40-43
+
+> 43
+
+60-65
+
+< 21
+
+21-24
+
+25-28
+
+29-32
+
+33-36
+
+37-40
+
+> 40
+
+Žene
+
+Dob /
+Godine
+
+Jako malo
+
+Malo
+
+Prihvatljivo
+
+Srednje
+
+Dobra
+
+Jako dobra
+
+Vrhunski
+
+20-24
+
+< 27
+
+27-31
+
+32-36
+
+37-41
+
+42-46
+
+47-51
+
+> 51
+
+25-29
+
+< 26
+
+26-30
+
+31-35
+
+36-40
+
+41-44
+
+45-49
+
+> 49
+
+30-34
+
+< 25
+
+25-29
+
+30-33
+
+34-37
+
+38-42
+
+43-46
+
+> 46
+
+35-39
+
+< 24
+
+24-27
+
+28-31
+
+32-35
+
+36-40
+
+41-44
+
+> 44
+
+40-44
+
+< 22
+
+22-25
+
+26-29
+
+30-33
+
+34-37
+
+38-41
+
+> 41
+
+45-49
+
+< 21
+
+21-23
+
+24-27
+
+28-31
+
+32-35
+
+36-38
+
+> 38
+
+50-54
+
+< 19
+
+19-22
+
+23-25
+
+26-29
+
+30-32
+
+33-36
+
+> 36
+
+55-59
+
+< 18
+
+18-20
+
+21-23
+
+24-27
+
+28-30
+
+31-33
+
+> 33
+
+60-65
+
+< 16
+
+16-18
+
+19-21
+
+22-24
+
+25-27
+
+28-30
+
+> 30
+
+Klasifikacija se temelji na pregledu literature od 62 studije u kojima je VO 2max izmjeren direktno na
+zdravim odraslim osobama u SAD-u, Kanadi i 7 Europskih zemalja. Referenca: Shvartz E, Reibold RC.
+Aerobni kondicijski propisi za muškarce i žene u dobi od 6 do 75 godina: na pregled. Aviat Space Environ
+Med; 61:3-11, 1990.
+Mogu će su dnevne varijacije indeksa trčanja zbog uvjeta trčanja npr. površina, usponi, vjetar,
+temperatura.
+
+58
+
+DODATNE INFORMACIJE
+
+HRVATSKI, SRPSKI
+
+Dugoročna analiza
+Pojedine vrijednosti indeksa trčanja formiraju trend koji predviđa vaš uspjeh tijekom trčanja određenih
+udaljenosti.
+Slijedeća tablica procjenjuje trajanje koje trkač može postići pri određenim udaljenostima uz maksimalne
+performanse. Za interpretaciju vrijednosti iz tablice koristite vaš prosječni dugoročni indeks trčanja.
+Predviđanje je najbolje za one vrijednosti indeksa trčanja koje su dobivene u uvjetima trčanja i pri
+brzini koji su slični ciljanim performansama.
+
+Indeks
+trčanja
+
+Cooperov test
+(m)
+
+5 km (h:mm:ss)
+
+10 km (h:mm:ss)
+
+21.098 km
+(h:mm:ss)
+
+42.195 km
+(h:mm:ss)
+
+36
+
+1800
+
+0:36:20
+
+1:15:10
+
+2:48:00
+
+5:43:00
+
+38
+
+1900
+
+0:34:20
+
+1:10:50
+
+2:38:00
+
+5:24:00
+
+40
+
+2000
+
+0:32:20
+
+1:07:00
+
+2:29:30
+
+5:06:00
+
+42
+
+2100
+
+0:30:40
+
+1:03:30
+
+2:21:30
+
+4:51:00
+
+44
+
+2200
+
+0:29:10
+
+1:00:20
+
+2:14:30
+
+4:37:00
+
+46
+
+2300
+
+0:27:50
+
+0:57:30
+
+2:08:00
+
+4:24:00
+
+48
+
+2400
+
+0:26:30
+
+0:55:00
+
+2:02:00
+
+4:12:00
+
+50
+
+2500
+
+0:25:20
+
+0:52:40
+
+1:57:00
+
+4:02:00
+
+52
+
+2600
+
+0:24:20
+
+0:50:30
+
+1:52:00
+
+3:52:00
+
+54
+
+2700
+
+0:23:20
+
+0:48:30
+
+1:47:30
+
+3:43:00
+
+56
+
+2800
+
+0:22:30
+
+0:46:40
+
+1:43:30
+
+3:35:00
+
+58
+
+2900
+
+0:21:40
+
+0:45:00
+
+1:39:30
+
+3:27:00
+
+60
+
+3000
+
+0:20:50
+
+0:43:20
+
+1:36:00
+
+3:20:00
+
+62
+
+3100
+
+0:20:10
+
+0:41:50
+
+1:32:30
+
+3:13:00
+
+64
+
+3200
+
+0:19:30
+
+0:40:30
+
+1:29:30
+
+3:07:00
+
+66
+
+3300
+
+0:18:50
+
+0:39:10
+
+1:26:30
+
+3:01:00
+
+68
+
+3350
+
+0:18:20
+
+0:38:00
+
+1:24:00
+
+2:55:00
+
+70
+
+3450
+
+0:17:50
+
+0:36:50
+
+1:21:30
+
+2:50:00
+
+72
+
+3550
+
+0:17:10
+
+0:35:50
+
+1:19:00
+
+2:45:00
+
+74
+
+3650
+
+0:16:40
+
+0:34:50
+
+1:17:00
+
+2:40:00
+
+76
+
+3750
+
+0:16:20
+
+0:33:50
+
+1:14:30
+
+2:36:00
+
+78
+
+3850
+
+0:15:50
+
+0:33:00
+
+1:12:30
+
+2:32:00
+
+*Potreban opcijski s3 trkaći senzor ili G3 GPS senzor W.I.N.D.
+Važno je zapamtiti da uz dobar indeks trčanja, maksimalne performanse trčanja zahtijevaju dobru
+pripremu, optimalne uvjete trčanja, izdržljivost i hrabrost. Količina i kvaliteta vježbanja imaju jednaki efekt
+kao prirodni talent.
+
+DODATNE INFORMACIJE
+
+59
+
+HRVATSKI, SRPSKI
+
+Biblioteka Polar članaka
+Za više činjenica i kako unaprijediti vaše trčanje, posjetite biblioteku Polar članaka Polar Article Library
+[http://articles.polar.fi] .
+
+60
+
+DODATNE INFORMACIJE
+
+HRVATSKI, SRPSKI
+
+12. INFORMACIJE SLUŽBE ZA KORISNIKE
+Briga i održavanje
+Briga o vašem proizvodu
+Kao i svaki elektronski uređaj, Polar monitor srčane frekvencije se treba brižno koristiti. Ispod dane
+preporuke će vam pomoći u ispunjavanju jamstvenih uvjeta i u puno godina uživanja u ovom proizvodu.
+Nakon uporabe skinite priključak primopredajnika s pojasa. Priključak očistite s otopinom blagog
+sapuna i vode. Osušite ga s krpom. Nikada ne koristite alkohol ili bilo kakve abrazivne materijale (čelična
+vuna ili kemikalije za čišćenje).
+Nakon uporabe isperite pojas primopredajnika s vodom. Ako pojas koristite više od tri puta na tjedan,
+operite ja najmanje jednom svaka tri tjedna u perilici rublja pri 40 °C. Koristite vrećicu za pranje. Nemojte
+je namakati, niti koristiti deterdžent s bjelilom niti omekšivač. Pojas nemojte sušiti u sušilici niti je
+izbjeljivati.
+Prije odlaganja na duže vrijeme i uvijek nakon uporabe, pojas operite u vodi s većim sadržajem klora. Ne
+koristite centrifugiranje ili peglanje. Nikada ne stavljajte priključak u perilicu ili sušilicu rublja! Osušite
+traku i priključak i spremite ih odvojeno.
+Čuvajte vaš monitor srčane frekvencije, primopredajnik i trkaći senzor na hladnom i suhom mjestu. Ne
+čuvajte ih u vlažnoj okolini, u materijalu koji ne popušta zrak (plastična vrećica ili sportska torba) niti u
+vodljivom materijalu (vlažan ručnik). Ne uranjajte trkaći senzor u vodu. Ne izlažite ih direktnom sunčevom
+svjetlu na duže vrijeme.
+Radne temperature su -10°C do +50°C.
+
+Servis
+Tijekom prve dvije godine jamstvenog razdoblja, preporučamo da servis proizvoda obavite u ovlaštenom
+Polar servisnom centru. Jamstvo ne pokriva štetu ili posljedičnu štetu nastalu u servisu koji nema
+ovlaštenje kompanije Polar Electro. Za dodatne informacije, pogledajte Ograničeno Polar međunarodno
+jamstvo (stranica 66).
+
+Zamjena baterija
+Bateriju neka zamjeni ovlašteni Polar Servisni Centar. Izbjegavajte otvaranje zapečaćenog poklopca
+baterije.
+Kako bi zamjenili bateriju vašeg monitora srčane frekvencije i primopredajnika sami, pažljivo pratite
+uputstva u Zamjena Baterije Monitora Srčane Frekvencije.
+
+Prije zamjene baterije, prenesite sve podatke sa vašeg monitora srčane frekvencije na Polar Protrainer 5 kako
+bi izbjegli gubitak tih podataka. Za više informacija pogledajte Polar Protrainer 5 pomoć.
+Ako želite da Polar zamijeni bateriju, kontaktirajte ovlašteni Polar servisni centar.
+
+Zamjena baterije monitora srčane frekvencije
+Za zamjenu baterije monitora srčane frekvencije, trebate kovanicu i bateriju (CR 2032).
+1.
+
+Koristeći kovanicu otvorite poklopac baterije laganim pritiskom i okretanjem u smjeru obrnutom od
+kazaljke na satu.
+
+2.
+
+Uklonite poklopac baterije. Baterija je zakačena za poklopac, koji se treba pažljivo podignuti. Izvadite
+bateriju i zamijenite je s novom. Pazite da ne oštetite navoje stražnjeg poklopca.
+
+3.
+
+Postavite pozitivnu (+) stranu baterije na poklopac a negativnu (-) prema monitoru srčane frekvencije.
+
+4.
+
+Prsten za brtvljenje poklopca baterije je također fiksiran za poklopac. Prsten zamijenite ako je oštećen.
+Prije zatvaranja poklopca baterije, provjerite da prsten za brtvljenje nije oštećen i da je pravilno
+postavljen u svoj utor.
+
+INFORMACIJE SLUŽBE ZA KORISNIKE
+
+61
+
+HRVATSKI, SRPSKI
+
+5.
+
+Vratite poklopac baterije na njegovo mjesto i s kovanicom ga okrenite u smjeru kazaljke na satu u
+zatvoreni (CLOSE) položaj. Provjerite da je poklopac dobro zatvoren!
+
+Pretjerana uporaba pozadinskog osvjetljenja monitora srčane frekvencije brže troši bateriju. U hladnim
+uvjetima, može se pojaviti indikator prazne baterije i ponovo nestati kada se vratite u topliju okolinu. Kako
+bi osigurali maksimalni radni vijek poklopca baterije, otvarajte ga samo prilikom zamjene baterije.
+Prilikom zamjene baterije, provjerite da prsten za brtvljenje nije oštećen, te ga u tom slučaju trebate
+zamijeniti s novim. Setovi baterija s prstenima za brtvljenje su dostupni u dobro opremljenim Polar
+prodavaonicama i ovlaštenim Polar servisnim centrima. U SAD i Kanadi, prsteni za brtvljenje su dostupni
+samo u ovlaštenim Polar servisnim centrima.
+
+Baterije držite dalje od djece. Ako se baterija proguta, odmah kontaktirajte liječnika. Baterije se trebaju pravilno
+odložiti u skladu s lokalnim propisima.
+
+Mjere opreza
+Smetnje za vrijeme vježbanja
+Elektromagnetske smetnje i oprema za vježbanje
+Smetnje se mogu pojaviti u blizini visokonaponskih dalekovoda, semafora, električkih željezničkih
+vodova, električkih vodova trolejbusa ili tramvaja, televizora, motora automobila, monitora srčane
+frekvencije, neke opreme za vježbanje pokretane motorom, mobitela ili električkih zaštitnih vrata. Kako bi
+izbjegli kriva očitanja, maknite se dalje od mogućih izvora smetnji.
+Oprema za vježbanje s elektronskim ili električkim komponentama, kao što su LED zasloni, motori i
+električke kočnice mogu uzrokovati smetnje. Za rješavanje ovih problema, pokušajte slijedeće:
+1.
+2.
+
+3.
+
+Uklonite primopredajnik s vaših prsa i normalno koristite opremu za vježbanje.
+Vozite se uokolo sa monitorom srčane frekvencije dok ne nađete mjesto na kojem ne prikazuje kriva
+očitanja ili ne trepće simbol srca. Smetnje su obično najveće direktno ispred zaslona opreme, dok su
+lijeva i desna strna relativno slobodne od smetnji.
+3. Vratite primopredajnik na vaša prsa i držite monitor srčane frekvencije u ovom području bez smetnji
+što je duže moguće.
+
+Ako monitor srčane frekvencije i dalje ne radi s ovom opremom za vježbanje, u okolini ima previše
+električkih smetnji za bežično mjerenje otkucaja srca.
+Uporaba RS800 monitora srčane frekvencije u vodi
+Ovaj monitor srčane frekvencije je otporan na vodu. Međutim, mjerenje otkucaja srca ne radi u vodi.
+
+62
+
+INFORMACIJE SLUŽBE ZA KORISNIKE
+
+HRVATSKI, SRPSKI
+
+Možete koristiti monitor srčane frekvencije pod vodom kao sat ali to nije instrument za ronjenje. Kako bi
+zadržali otpornost na vodu, ne pritišćite tipke monitora srčane frekvencije pod vodom. Uporaba monitora
+srčane frekvencije pri jakoj kiši također može uzokovati smetnje.
+
+Minimiziranje rizika prilikom vježbanja
+Vježbanje može uključivati neke rizike. Prije početka redovitog programa vježbanja, preporuča se da
+odgovorite na slijedeća pitanja u svezi vašeg zdravlja. Ako na bilo koje pitanje odgovorite potvrdno,
+preporučamo vam da se prije programa vježbanja posavjetujete s liječnikom.
+• Jeste li bili fizički neaktivni u zadnjih 5 godina?
+• Imate li visoki krvni tlak ili visoki kolesterol u krvi?
+• Uzimate li bilo kakve lijekove za visoki tlak ili srce?
+• Jeste li ikada imali problema s disanjem?
+• Imate li simptome bilo kakve bolesti?
+• Oporavljate li se od ozbiljne bolesti ili medicinskog tretmana?
+• Koristite li pacemaker ili drugi ugrađeni elektronski uređaj?
+• Pušite li?
+• Jeste li trudni?
+Uzmite u obzir da uz intenzitet vježbanja, lijekovi za srce, krvni tlak, psihološke probleme, astmu, disanje,
+itd., i neka energetska pića, alkohol i nikotin također mogu utjecati na otkucaje srca.
+Važno je za vrijeme vježbanja osluškivati svoje tijelo. Ako za vrijeme vježbanja osjetite neočekivanu
+bol ili preveliki umor, preporuča se da odmah prestanete vježbati ili nastavite vježbati s lakšim
+intenzitetom.
+Naputak za osobe s pacemakerom, defibrilatorima ili drugim ugrađenim elektronskim uređajima.
+Osobe koje imaju ugrađeni pacemaker mogu koristiti Polar monitor srčane frekvencije na vlastitu
+odgovornost. Prije početka uporabe, preporučamo provođenje testa maksimalnog naprezanja pod
+nadzorom liječnika. Test se provodi radi provjere sigurne i pouzdane istovremene uporabe pacemakera i
+Polar monitora srčane frekvencije.
+Ako ste alergični na bilo kakvu supstanciju koja dođe u kontakt s vašom kožom ili sumnjate na
+alergijsku reakciju zbog uporabe ovog proizvoda, provjerite dane materijale u Tehničkim
+specifikacijama. Kako bi izbjegli reakciju kože na primopredajnik, nosite ga preko majice, ali dobro
+navlažite majicu ispod elektroda kako bi osigurali siguran rad.
+Vaša sigurnost za nas je jako važna. Oblik trkaćeg senzora/senzora brzine je tako dizajniran da
+minimizira rizik da zapne za nešto. U svakom slučaju budite oprezni prilikom trčanja s trkaćim
+senzorom/senzorom trčanja kroz šipražje.
+
+Kombinirani dodir vlage i jakog trenja može uzrokovati pojavu crne boje na površini primopredajnika, što može
+ostaviti mrlju na svijetloj odjeći. Ako na koži koristite zaštitno sredstvo protiv insekata, pazite da to sredstvo ne
+dođe u kontakt s primopredajnikom.
+*s3 senzor brzine W.I.N.D. je potreban
+
+Tehničke specifikacije
+Monitor srčane frekvencije
+Uređaj spada u klasu 1 laserskih proizvoda
+Trajnost baterije:
+Vrsta baterije:
+Prsten za brtvljenje baterije:
+Radna temperatura:
+Materijal ručnog pojasa i kopče:
+Stražnji poklopac:
+Točnost sata:
+
+Prosječno 1 godina (1h/dan, 7 dana/tjedno)
+CR2032
+O-prsten 20.0 x 1.1, silikon
+-10°C do +50°C
+Poliuretan, nehrđajući čelik
+Poliamid, nehrđajući čelik koji zadovoljava EU Direktivu 94/27/EU i nadopune 1999/C
+205/05 o ispuštanju nikla iz proizvoda namijenjenih da dođu u direktni i produženi kontakt
+s kožom
+Bolja od ±0,5 sekundi/dan pri 25°C
+
+INFORMACIJE SLUŽBE ZA KORISNIKE
+
+63
+
+HRVATSKI, SRPSKI
+
+Točnost monitora otkucaja srca:
+Raspon mjerenja otkucaja srca:
+Raspon prikaza trenutne brzine:
+
+Raspon prikaza nadmorske visine:
+Rezolucija uspona/spusta:
+
+±1% ili 1 bpm, što je veće, definicija se odnosi na stabilne uvjete.
+15-240
+Senzor trčanja: 0-36 km/h, ritam 0-255 okr/min
+G3 GPS senzor: 0-250 km/h
+Senzor brzine: 0-127 km/h
+Senzor ritma: 15-200 okr/min
+-550 m… +9000 m
+Polar ručna jedinica računa nadmorsku visinu uporabom standardnu prosječnu
+nadmorsku visinu pri definiranom tlaku zraka prema ISO 2533
+5m
+
+Granične vrijednosti monitora srčane frekvencije
+Maksimalni broj datoteka:
+Maksimalno vrijeme:
+Maksimalni broj ručnih krugova:
+Maksimalni broj automatskih krugova:
+Cipele 1/2/3 ukupna udaljenost:
+Bicikl 1/2/3 ukupna udaljenost:
+Ukupna udaljenost cipele/GPS/bicikli:
+Ukupna udaljenost:
+Ukupno trajanje:
+Ukupno kalorija:
+Ukupni broj vježbi:
+Ukupni uspon:
+Ukupno odometar:
+
+99
+99 h 59 min 59 s
+99
+99
+999 999 km / 621370 mi
+999 999 km / 621370 mi
+999 999 km / 621370 mi
+999 999 km / 621370 mi
+9999h 59min 59s
+999 999 kcal
+9999
+304795 m / 999980 ft
+999 999 km / 621370 mi
+
+Primopredajnik
+Trajnost baterije WearLink W.I.N.D. uređaja:
+Vrsta baterije:
+Prsten za brtvljenje baterije:
+Radna temperatura:
+Materijal priključka:
+Materijal trake:
+
+Prosječno 2 godine (3h/dan, 7 dana/tjedan)
+CR2025
+O-prsten 20.0 x 1.0, silikon
+-10°C do +40°C
+poliamid
+poliuretan/poliamid/ poliester/elastan/najlon
+
+Polar ProTrainer 5™
+Zahtjevi sustava:
+
+PC
+Windows® 2000/XP (32bit), Vista
+IrDA kompatibilni port (vanjski IrDA uređaj ili unutrašnji IR port).
+Dodatno uz softver vaše računalo mora imati Pentium II 200 MHz
+procesor ili brži, SVGA ili monitor veće rezolucije, 50 MB prostora na
+tvrdom disku i CD-ROM uređaj.
+
+Polar WebLink koristeći IrDA komunikaciju
+Zahtjevi sustava:
+
+PC
+Windows® 98/98SE/ME/2000/XP
+IrDA kompatibilni port (vanjski IrDA uređaj ili unutrašnji IR port).
+
+Polar monitor srčane frekvencije prikazuje razinu fiziološkog napora i intenziteta za vrijeme vježbanja. Prikazuje i
+vremenske uvjete kao što su temperatura i nadmorska visina. Također mjeri brzinu i udaljenost prilikom vožnje s Polar
+trkaćim s3 senzorom brzine/G3 GPS senzorom, ritam trčanja pomoću s3 senzora, ritam bicikliranja sa senzorom ritma i
+podatke o lokaciji pomoću G3 GPS senzora. Uređaji nisu namijenjeni niti za jednu drugu uporabu.
+Polar monitor srčane frekvencije se ne bi trebao koristiti za mjerenja okoline, koja zahtijevaju profesionalnu ili industrijsku
+preciznost. Nadalje, uređaj se ne bi trebao koristiti za dobivanje mjerenja tijekom zračnih i podvodnih aktivnosti.
+
+Otpornost na vodu Polar proizvoda je testirana u skladu s međunarodnim standardom ISO 2281.
+Proizvodi su podijeljeni u tri različite kategorije prema otpornosti na vodu. Provjerite stražnju stranu
+vašeg Polar proizvoda radi kategorije otpornosti na vodu i usporedite je s donjom tablicom. Molimo vas
+da uzmete u obzir da ove definicije ne moraju vrijediti za proizvode drugih proizvođača.
+Oznaka na stražnjoj strani kućišta
+Otporan na vodu (Water resistant)
+Otporan na vodu 30m/50m (water resistant 30m/50m)
+Otporan na vodu 100m (Water resistant 100m)
+
+Karakteristike otpornosti na vodu
+Prskanje, kapljice kiše, itd.
+Minimum za kupanje i plivanje.
+Za čestu uporabu u vodi, ali bez spremnika za zrak
+
+*Ove karakteristike se također odnose na Polar WearLink 31 i Polar WearLink W.I.N.D. primopredajnik,
+
+64
+
+INFORMACIJE SLUŽBE ZA KORISNIKE
+
+HRVATSKI, SRPSKI
+
+označen s "Water resistant 30 m".
+
+Često postavljana pitanja
+Što da napravim ako…
+…ako je prikazan simbol baterije i poruka Battery low ?
+Indikator prazne baterije je obično prvi znak prazne baterije. Međutim, u hladnim uvjetima se može
+pojaviti indikator prazne baterije. Indikator će se ugasiti čim se vratite u okolinu s normalnom
+temperaturom. Kada se pojavi ovaj simbol, oglasi se monitor srčane frekvencije i pozadinsko osvjetljenje
+se automatski ugasi. Za dodatne informacije o promjeni baterije, pogledajte Briga i održavanje
+(stranica 61).
+… u izborniku ne znam gdje se nalazim?
+Pritisnite i držite tipku STOP dok se ne prikaže vrijeme.
+…nema reakcije na bilo koju tipku?
+Poništite monitor srčane frekvencije pritiskom na sve tipke odjednom na 2 sekunde dok se zaslon ne
+ispuni brojkama. Pritisnite bilo koju tipku i postavite vrijeme i datum, i ostatak postavki se spremi.
+Preskočite ostatak postavki pritiskom i držanjem tipke STOP.
+…očitanje otkucaja srca postane nepravilno, ekstremno visoko ili niša ne pokazuje (00)?
+• Provjerite da monitor srčane frekvencije nije dalje od 1 m od primopredajnika.
+• Provjerite da se za vrijeme vježbanja pojas primopredajnika nije olabavio.
+• Provjerite da tekstilne elektrode u sportskoj odjeći dobro naliježu.
+• Provjerite jesu li elektrode primopredajnika/sportske odjeće navlažene.
+• Provjerite je li primopredajnik/sportska odjeća čista.
+• Provjerite da unutar 1 m nema drugog primopredajnika otkucaja srca.
+• Snažni elektromagnetski signali mogu uzrokovati nepravilna očitanja. Za dodatne informacije pogledajte
+Mjere opreza (stranica 62).
+• Ako se nepravilna očitanja otkucaja srca nastave unatoč činjenici da ste se odmaknuli od izvora smetnji,
+smanjite brzinu i ručno provjerite svoj puls. Ako osjećate da odgovara visokom očitanju na zaslonu,
+možda prolazite kroz stanje srčane aritmije. Većina slučajeva aritmije nisu ozbiljni, ali bez obzira posjetite
+liječnika.
+• Srčani događaj je možda promijenio vaš ECG valni oblik. U tom slučaju, posavjetujte se s liječnikom.
+…se prikaže Memory full ?
+Ova poruka se pojavi tijekom vježbanja ako ste snimili 99 krugova ili ako za vježbu nije ostalo mjesta u
+memoriji. Za oslobađanje mjesta u memoriji, prebacite podatke o vježbanju u Polar ProTrainer 5 softver,
+te obrišite podatke iz memorije monitora srčane frekvencije.
+…se prikaže Check WearLink! I vaš monitor srčane frekvencije ne može očitati signal otkucaja srca?
+• Provjerite da monitor srčane frekvencije nije dalje od 1 m od primopredajnika.
+• Provjerite da se za vrijeme vježbanja pojas primopredajnika nije olabavio.
+• Provjerite da tekstilne elektrode u sportskoj odjeći dobro naliježu.
+• Provjerite jesu li elektrode primopredajnika/sportske odjeće navlažene.
+• Provjerite jesu li primopredajnik/elektrode u sportskoj odjeći čisti i neoštećeni.
+• Ako mjerenje otkucaja srca ne radi sa sportskom odjećom, pokušajte koristiti WearLink pojas. Ako
+monitor srčane frekvencije detektira otkucaje srca s pojasom, onda je problem vjerojatno u sportskoj
+odjeći. Molimo vas kontaktirajte proizvođača/prodavača odjeće.
+• • Ako ste proveli sve iznad navedene opcije i poruka se i dalje pojavljuje i mjerenje otkucaja srca ne radi,
+baterija vašeg primopredajnika je možda prazna. Za dodatne informacije pogledajte Briga i održavanje
+(stranica 61).
+
+INFORMACIJE SLUŽBE ZA KORISNIKE
+
+65
+
+HRVATSKI, SRPSKI
+
+…se prikaže New WearLink found. Teach new WearLink? ?
+Ako ste novi primopredajnik kupili kao dodatnu opremu, treba se uvesti u monitor srčane frekvencije. Za
+dodatne informacije pogledajte Uvođenje novog primopredajnika (stranica ).
+Ako je primopredajnik koji koristite došao u paketu sa monitorom srčane frekvencije i na zaslonu se
+prikaže ovaj tekst, monitor srčane frekvencije možda detektira signal s drugog primopredajnika. U tom
+slučaju, provjerite da nosite vaš primopredajnik, da su elektrode vlažne i da se pojas primopredajnika nije
+olabavio. Ako se poruka još uvijek pojavljuje, baterija vašeg primopredajnika je prazna. Za dodatne
+informacije pogledajte Briga i održavanje (stranica 61).
+…se prikaže S sensor calibration failed ?*
+Kalibracija nije uspjela i morate ponoviti. Kalibracija neće uspjeti ako se pomičete za vrijeme mjerenja.
+Kada dostignete dužinu kruga, prestanite trčati i stanite na mjestu za kalibriranje. Raspon kalibracijskog
+faktora ručne kalibracije je između 0,500 i 1,500. Ako ste kalibracijski faktor odredili ispod ili iznad ovih
+vrijednosti kalibracija neće biti provedena.
+...se prikaže Teach new sensor? ?
+Ako ste kupili novi senzor kao dodatnu opremu, potrebno ga je uskladiti s trening kompjuterom. Za više
+informacija, gledajte Postavke značajki (stranica 32).
+Ako je senzor koji koristite već uključen u set sa trening komjuterom i tekst se prikaže na zaslonu, trening
+kompjuter može uhvatiti signal drugog senzora. U tom slučaju, nosite vaš vlastiti senzor. Ako je poruka
+još uvijek prikazana, baterija senzora je prazna. Za više informacija, gledajte Briga i održavanje
+(stranica 61).
+... visina se mijenja, iako stojim na mjestu?
+Trening kompjuter pretvara tlak zraka u mjerenje nadmorske visine. Zato vremenske promjene mogu
+uzrokovati promjene očitanja nadmorske visine.
+... su prikazi nadmorske visine netočni?
+Vaš visinomjer može pokazivati krivu nadmorsku visinu, ako je izložen vanjskim utjecajima, kao npr.
+jakom vjetru ili vremenskim nepogodama. U tom slučaju kalibrirajte altimetar. Ako su očitanja altimetra i
+dalje netočna, moguće je da prljavština blokira kanale tlaka. U tom slučaju pošaljite vaš trening kompjuter
+Polar ovlaštenom serviseru.
+…se prikaže Memory low?
+Poruka Memory low prikaže ako je u memoriji ostalo mjesta za oko jedan sat snimanja. Kako bi
+maksimalizirali preostali kapacitet memorije, odaberite najdužu frekvenciju snimanja (60 sek) u Settings >
+Features > Rec.rate . Kada se memorija napuni do kraja prikaže se poruka Memory full . Za oslobađanje
+mjesta u memoriji, prebacite podatke o vježbanju u Polar ProTrainer 5 softver, te obrišite podatke iz
+memorije monitora srčane frekvencije.
+*Potreban je opcijski s3 senzor brzine trčanja W.I.N.D.
+
+Ograničeno Polar međunarodno jamstvo
+•
+
+Ovo jamstvo ne utječe na prava kupca koja su propisana nacionalnim ili državnim zakonima, ili na prava
+kupca u odnosu na prodavača koja proizlaze iz ugovora o kupnji.
+
+•
+
+Ovo ograničeno Polar međunarodno jamstvo izdaje kompanija Polar Electro Inc. kupcima koji su kupili
+ovaj proizvod u SAD ili Kanadi. Ovo ograničeno Polar međunarodno jamstvo izdaje kompanija Polar
+Electro Oy kupcima koji su kupili ovaj proizvod u drugim državama.
+
+•
+
+Polar Electro Oy / Polar Electro Inc. jamči originalnim kupcima ovog proizvoda da proizvod neće imati
+nikakve defekte materijala ili izrade na dvije (2) godine od datuma kupnje.
+
+•
+
+Molimo vas čuvajte vaš račun, koji je dokaz vaše kupnje!
+
+66
+
+INFORMACIJE SLUŽBE ZA KORISNIKE
+
+HRVATSKI, SRPSKI
+
+•
+
+Jamstvo ne pokriva bateriju, oštećenja zbog krive uporabe, nezgoda ili nepoštivanje upozorenja;
+nepravilno održavanje, uporabu u komercijalne svrhe, napuknuta ili potrgana kućišta/zaslone, elastične
+pojaseve i Polar odjeću.
+
+•
+
+Jamstvo ne pokriva bilo kakva oštećenja, gubitke, troškove, direktne ili indirektne, posljedične ili
+specijalne, koji su nastali ili povezani s proizvodom.
+
+•
+
+Kupljeni rabljeni proizvodi nisu pokriveni dvogodišnjim (2) jamstvom, osim ako nije drugačije propisano
+zakonom.
+
+•
+
+Tijekom jamstvenog razdoblja, proizvod će biti popravljen ili zamijenjen u ovlaštenom servisu, bez
+naplate, bez obzira na državu kupnje.
+
+Jamstvo u odnosu na bilo koji proizvod će biti ograničeno na države u kojima je početno oglašavan.
+
+Ovaj proizvod je sukladan Direktivama 93/42/EEC. Odgovarajuća Izjava o sukladnosti je dostupna na
+www.support.polar.fi/declaration_of_conformity.html.
+
+Ovaj znak prekriženog koša za otpad ukazuje na to da su Polar proizvodi elektronski uređaji i da spadaju
+pod Direktivu 2012/19/EU Europskog parlamenta i Vijeća za električki otpad i elektronsku opremu
+(WEEE), a baterije i akumulatori korišteni u proizvodima su pokriveni Direktivom 2006/66/EC Europskog
+parlamenta i Vijeća od 6. Rujna 2006. U svezi baterija i akumulatora, te potrošnih baterija i akumulatora.
+Stoga se u Europskim državama ovi proizvodi i baterije/akumulatori moraju odvojeno odlagati. Polar vas
+ohrabruje da minimizirate moguće efekte otpada na okoliš i ljudsko zdravlje, također i izvan Europske
+Unije, poštivanjem lokalnih propisa o odlaganju otpada i ako je moguće, provedete odvojeni skupljanje
+elektronskih uređaja, baterija i akumulatora.
+
+Ova oznaka ukazuje na činjenicu da je proizvod zaštićen od električkog udara.
+Pravo kopiranja © 2013 Polar Electro Oy. FIN-90440 KEMPELE, Finska
+Polar Electro Oy je kompanija koja posjeduje certifikat ISO 9001:2000.
+Sva prava pridržana. Niti jedan dio ovog priručnika se ne smije koristiti ili reproducirati u bilo kojem obliku
+ili na bilo koji način bez prethodnog pismenog odobrenja kompanije Polar Electro Oy, osim za Sound
+Blaster, koji je tržišni naziv kompanije Creative Technology, Ltd. Nazivi i logotipi označeni s simbolom ®
+u ovom priručniku ili na pakiranju proizvoda su registrirani tržišni znak kompanije Polar Electro Oy, osim
+naziva Windows, koji je registrirani tržišni naziv kompanije Microsoft Corporation.
+
+Polar pravna izjava
+•
+•
+•
+
+Materijal u ovom priručniku služi samo za informaciju. Proizvodi koje opisuje su podložni promjenama bez
+prethodne najave, zbog stalnog programa razvoja proizvođača.
+Polar Electro Inc. / Polar Electro Oy ne daje nikakva jamstva u odnosu na ovaj priručnik ili na u njemu
+opisan proizvod.
+Polar Electro Inc. / Polar Electro Oy ne preuzima odgovornost za oštećenja, gubitke, troškove, direktne ili
+indirektne, posljedične ili specijalne, koji proizlaze ili su povezani s uporabom ovog materijala ili u njemu
+opisanih proizvoda.
+
+Ovaj proizvod je zaštićen jednim od nekoliko slijedećih patenata: US 5486818, GB 2258587,
+HK306/1996, WO96/20640, EP 0748185, US6104947, EP 0747003, US5690119, DE69630834.7-08, WO
+97/33512, US 6277080, EP 0984719, US 6361502, EP 1405594, US6418394, EP 1124483, US
+6405077, US 6714812, US 6537227, FI 114202, US 6666562 B2, US 5719825, US 5848027, EP
+1055158, FI 113614, FI23471, USD49278S, USD492784S, USD492999S, FI68734, US4625733,
+DE3439238, GB2149514, HK81289, FI88972, US5486818, DE9219139.8, GB2258587, FR2681493,
+HK306/1996, FI96380, WO95/05578, EP665947, US5611346, JP3568954, DE69414362, FI4150,
+
+INFORMACIJE SLUŽBE ZA KORISNIKE
+
+67
+
+HRVATSKI, SRPSKI
+
+US6477397, DE20008882, FR2793672, ES1047774, FI112844, EP 724859 B1, US 5628324, DE
+69600098T2, FI110915. Vrijede i drugi patenti.
+Proizvođač:Polar Electro Oy
+Professorintie 5
+FIN-90440 KEMPELE
+Tel +358 8 5202 100
+Fax +358 8 5202 300
+www.polar.fi
+4.0 HR 05/2013
+
+68
+
+INFORMACIJE SLUŽBE ZA KORISNIKE
+
+HRVATSKI, SRPSKI
+
+INDEKS
+12h/24 prikaz vremena . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Često postavljana pitanja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+
+Tipke ručne jedinice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Trend fitnes testa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+
+A.Lap on/off . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Alarm ciljane zone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Analiza vježbanja u softveru . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+
+Ukupni rezultati . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Uvođenje . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+
+Blokiranje tipki . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Briga i održavanje . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+Brisanje datoteke . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31, 31
+Dužina koraka . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+
+VO2max . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 45
+Vremenska zona . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Zamjena baterije . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+Zaustavljanje snimanja vježbe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Zvuk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+
+Faze . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Granice brzine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Granice ritma trčanja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+HRmax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 54
+HRmax-p . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+HRsit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 55
+Indeks trčanja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25, 57
+Interval training . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Jamstvo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61, 66
+Kalibracija nadmorske visine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Mjere opreza . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+Naslovi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Noćni režim rada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Odabir vrste vježbe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Odbrojavanje do događaja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Osnovne postavke . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Osvjetljenje zaslona . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Otpornost na vodu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+OwnIndex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+OwnOptimizer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+OwnZone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22, 54
+Pauza vježbanja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Početak mjerenja otkucaja srca . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Početak snimanja vježbe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Polar ProTrainer 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 23, 42
+Postavke alarma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Postavke datuma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Postavke jedinica . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Postavke jezika . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Postavke tajmera . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 10
+Postavke vježbe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 9
+Postavke vremena . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Potrošnja kalorija . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Povećanje prikaza . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Povratak u vremenski prikaz . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Pozadinsko svjetlo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Prazna baterija . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+Prijenos podataka . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Prilagođavanje prikaza . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Primopredajnik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 13
+Procijenjeni maksimalni broj otkucaja srca . . . . . . . . . . . . . . . . . . . 45
+Programirana vježba . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42, 43
+Razina aktivnosti . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Ritam . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Spremanje kruga . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Stvaranje vježbi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 9
+
+Indeks
+
+69

@@ -1,0 +1,769 @@
+210 mm
+
+145 mm
+
+145 mm
+
+210 mm
+
+210 mm
+
+210 mm
+
+280/180 mm
+
+145 mm
+
+210 mm
+
+180 mm
+
+145 mm
+280/180 mm
+
+145 mm
+
+210 mm
+
+145 mm
+
+1
+
+R = Min. 6,5 mm
+Max. 8 mm
+
+0
+
+560 +2 mm
+
+580
+650
+700 mm
+
+Min. 50 mm
+0
+
+490 +2 mm
+
+510 mm
+
+mm
+
+52 mm
+
+A
+
+0
+
++1
+0
+
+583 +2 mm
+
+30
+
+483 mm
+
+553 mm
+
+R = 11,5 mm
+0
+
+490+2 mm
+
+0
+
+0
+513 +2
+
+560+2 mm
+mm
+
+R = 11,5 mm
+
+6 mm
+R = Min. 6,5 mm
+Max. 8 mm
+
+B
+
+R = Min. 6,5 mm
+Max. 8 mm
+
+0
+
+750 +2 mm
+
+Min. 50 mm
+0
+
+490 +2 mm
+
+510 mm
+
++1
+0
+
+30 mm
+
+52 mm
+
+770 mm
+
+483 mm
+
+0
+
+773 +2 mm
+
+R = 11,5 mm
+
+Min. 50 mm
+
+742 mm
+
+0
+
+490+2 mm
+
+0
+
+750+2 mm
+
+0
+
+513 +2 mm
+R = 11,5 mm
+
+6 mm
+R = Min. 6,5 mm
+Max. 8 mm
+
+C
+
+0
+
+350 mm
+
+750 +2 mm
+
++1
+0
+
+30 mm
+
+52 mm
+
+770 mm
+
+325 mm
+
+R = Min. 6,5 mm
+Max. 8 mm
+Min. 50 mm
+
+0
+330 +2
+
+mm
+
+742 mm
+
+3
+
+Min. 10 cm
+
+Min. 5 mm
+
+Min. 5 mm
+Min. 3 cm
+Max. 6 cm
+
+1
+
+2
+
+X4
+3
+
+4
+
+VAŽNE SIGURNOSNE INFORMACIJE
+Ove upute dostupne su i na web-mjestu: www.whirlpool.eu
+
+VAŠA SIGURNOST I SIGURNOST DRUGIH VRLO JE VAŽNA
+Ovaj priručnik i sam uređaj pružaju važne sigurnosne poruke koje morate pročitati i stalno ih se pridržavati.
+Ovo je simbol opasnosti i odnosi se na sigurnost, upozorenja na potencijalne opasnosti za korisnike i druge osobe.
+Svim sigurnosnim porukama prethode simbol opasnosti i sljedeći pojmovi:
+
+OPASNOST
+
+Upućuje na opasnu situaciju koja će, ako je ne izbjegnete, prouzročiti
+tešku ozljedu.
+
+UPOZORENJE
+
+Ukazuje na opasnu situaciju koja bi, ako je ne izbjegnete, mogla
+prouzročiti tešku ozljedu.
+
+Sve poruke koje se odnose na sigurnost određuju potencijalnu opasnost na koju se odnose i upućuju na to
+kako se može smanjiti opasnost od ozljede, oštećenja i udara električne struje zbog nepravilnog korištenja
+uređaja. Postupajte u skladu sa sljedećim smjernicama:
+- Pri svim radnjama otpakiravanja i instalacije koristite zaštitne rukavice.
+- Uređaj morate iskopčati iz napajanja prije vršenja bilo kakvog rada na postavljanju.
+- Postavljanje i održavanje mora vršiti specijalizirani tehničar, prema uputama proizvođača i sukladno
+važećim lokalnim odredbama. Nemojte popravljati ni zamjenjivati bilo koji dio uređaja, osim ako se to
+izričito ne navodi u korisničkom priručniku.
+- Uređaj se mora uzemljiti.
+- Električni kabel mora biti dovoljno dug kako bi se uređaj, nakon smještanja u element, mogao priključiti
+na izvor napajanja.
+- Da bi instalacija bila u skladu s važećim sigurnosnim propisima, potrebna je višepolarna sklopka s
+minimalnim razmakom između kontakata od 3 mm.
+- Ne koristite višestruke utikače ili produžne kabele.
+- Ne povlačite strujni kabel kućanskog aparata.
+- Nakon postavljanja električni dijelovi ne smiju biti dostupni korisniku.
+- Aparat je namijenjen isključivo upotrebi u kućanstvu, odnosno pripremi hrane. Nije dozvoljena nikakva
+druga upotreba (primjerice zagrijavanje prostorije). Proizvođač otklanja bilo kakvu odgovornost za
+neprikladnu uporabu ili neispravno postavljeno upravljanje.
+- Uređaj i njegovi dijelovi mogu se jako zagrijati tijekom uporabe. Morate paziti da ne dodirnete grijaće
+elemente. Vrlo malu (0-3 godine) i malu djecu (3-8 godina) treba držati dalje od uređaja osim ako su
+pod stalnim nadzorom.
+- Djeca starija od 8 godina i osobe sa smanjenim tjelesnim, senzornim ili mentalnim sposobnostima ili
+nedovoljnim iskustvom i znanjem smiju koristiti ovaj uređaj samo ako su pod nadzorom ili ako su dobili
+upute za sigurno korištenje uređaja i ako shvaćaju povezane opasnosti. Djeca se ne smiju igrati
+uređajem. Djeca ne smiju čistiti niti održavati uređaj bez nadzora.
+- Ne dodirujte grijače aparata tijekom i nakon upotrebe. Nemojte dopustiti da uređaj dođe u dodir s
+odjećom ili drugim zapaljivim materijalima, sve dok se svi dijelovi nisu potpuno ohladili.
+- Ne stavljajte zapaljive materijale na uređaj niti blizu njega.
+- Pregrijana ulja i masnoće lako se zapale. Budite vrlo pažljivi pri pripremi jela bogatih masnoćom i uljem.
+- U odjeljku ispod aparata mora biti instalirana razdvojna ploča (nije u opsegu isporuke).
+- Ako je površina napuknuta, isključite uređaj da biste izbjegli mogućnost udara električne struje (odnosi
+se samo na uređaje sa staklenom površinom).
+HR5
+
+- Uređaj nije namijenjen za rukovanje pomoću vanjskog mjerača vremena ili posebnog sustava za
+daljinsko upravljanje.
+- Kuhanje na ploči bez nadzora s mašću ili uljem može biti opasno i rezultirati požarom. NIKADA ne
+pokušavajte gasiti vatru vodom, već iskopčajte uređaj i pokrijte plamen, npr. poklopcem ili prekrivalom
+za vatru.
+Opasnost od požara: nemojte stavljati stvari na površine za kuhanje.
+- Ne koristite uređaje za parno čišćenje.
+- Metalni predmeti poput noževa, vilica, žlica i poklopaca ne bi se smjeli stavljati na površinu ploče za
+kuhanje jer se mogu jako zagrijati.
+- Nakon upotrebe isključite element ploče pomoću regulatora i nemojte se pouzdavati u detektor posude
+(odnosi se samo na indukcijske aparate).
+ZAŠTITA OKOLIŠA
+Odlaganje ambalaže
+Ambalažni materijal može se potpuno reciklirati i označen je simbolom recikliranja (
+u skladu s lokalnim propisima.
+
+). Različiti dijelovi pakiranja ne smiju se odlagati u okoliš, već se moraju zbrinuti
+
+Odlaganje
+Ovaj uređaj označen je sukladno Europskoj direktivi 2012/19/EZ o električnom i elektroničkom otpadu (WEEE).
+Osiguravanjem pravilnog odlaganja aparata korisnik može pomoći u sprječavanju mogućih negativnih posljedica za okoliš i zdravlje ljudi.
+Simbol
+na uređaju ili na popratnoj dokumentaciji označava da se ovaj proizvod ne smije odlagati kao nerazvrstani komunalni otpad, nego ga treba odnijeti u
+odgovarajući centar za obradu električnog i elektroničkog otpada.
+
+Savjeti za uštedu energije
+Da biste postigli optimalne rezultate, preporučuje se sljedeće:
+• Koristite lonce i tave sa širinom dna jednakoj širini zone kuhanja.
+• Koristite isključivo lonce i tave s ravnim dnima.
+• Uvijek kada je to moguće, poklopite posuđe.
+• Koristite ekspres-lonac da biste uštedjeli još više energije i vremena.
+• Posudu postavite u sredinu zone za kuhanje označene na ploči.
+
+IZJAVA O SUKLADNOSTI
+-
+
+Ovaj je kućanski uređaj dizajniran, proizveden i prodaje se u skladu sa sigurnosnim ciljevima Direktive o niskom naponu br. 2006/95/EZ (koja nadomješta
+Direktivu br. 73/23/EEZ s naknadnim dopunama) i zaštitnim zahtjevima Direktive EEC “EMC” br. 2004/108/EZ.
+Ovaj uređaj zadovoljava zahtjeve ekološkog načina izrade europske uredbe br. 66/2014 u skladu s europskom normom EN 60350-2.
+
+PRIJE UPOTREBE
+VAŽNO: Zone kuhanja neće se uključiti ako posude nisu odgovarajuće veličine. Koristite samo posude s oznakom INDUKCIJSKI SUSTAV (pogledajte
+sliku). Postavite posudu na odgovarajuću zonu kuhanja prije uključivanja ploče.
+
+POSTOJEĆE POSUĐE
+U
+
+Nije
+
+Pomoću magneta provjerite je li posuda prikladna za korištenje na indukcijskoj ploči: lonci i tave nisu prikladni ako ih magnet ne privlači.
+- Provjerite imaju li posude ravno dno, u protivnom bi mogle ogrepsti ploču. Provjerite posude.
+- Nikada ne stavljajte vruće lonce i tave na površinu upravljačke ploče. Mogli biste je oštetiti.
+
+HR6
+
+PREPORUČENE ŠIRINE DNA POSUDA
+Ø
+
+Ø
+
+XL
+
+28 cm
+
+L
+
+21 cm
+
+min. 17 cm
+
+maks. 28 cm
+
+Ø
+
+Ø
+min. 15 cm
+
+maks. 21 cm
+
+18 cm
+
+S
+
+14,5 cm
+
+maks.
+
+Funkcija Flexi cook
+
+Ø
+
+Ø
+
+M
+
+min. 12 cm
+
+maks. 18 cm
+
+Ø
+
+Ø
+min. 10 cm
+
+maks. 14,5 cm
+
+min.
+Ø
+12 cm
+
+23 cm
+39 cm
+
+POSTAVLJANJE
+Nakon što ste otpakirali, provjerite eventualna oštećenja proizvoda tijekom transporta. U slučaju poteškoća obratite se distributeru ili servisnoj službi.
+Informacije o ugradbenim mjerama i upute za montažu potražite na slikama na str. 2.
+
+UPOZORENJE
+
+-
+
+-
+
+•
+•
+•
+•
+•
+•
+
+Ispod ploče ugradite razdvojnu
+ploču.
+Nakon montaže ne smije biti
+moguć pristup donjem dijelu
+proizvoda.
+Ako ugrađujete i pećnicu,
+nemojte postavljati razdvojnu
+ploču.
+
+min. 5 mm
+
+PRIPREMA ELEMENTA ZA UGRADNJU
+
+min. 20 mm
+min. 5 mm
+
+Udaljenost od dna uređaja i razdvojne ploče mora biti u skladu s mjerama navedenim na slici.
+Kako bi se osigurao ispravan rad proizvoda, ne zatvarajte minimalno potreban razmak između ploče i gornjeg dijela proizvoda (min. 5 mm).
+Ako instalirate ugradnu pećnicu, provjerite je li opremljena sustavom hlađenja.
+Ne montirajte ploču iznad perilice posuđa ili perilice rublja kako elektronički krugovi ne bi došli u kontakt s parom ili vlagom koja bi ih mogla oštetiti.
+U slučaju upuštene montaže (u ravnini) nazovite servis i nabavite komplet vijaka 4801 211 00112.
+Pri demontaži ploče koristite odvijač (nije isporučen) za uklanjanje obodnih spojnica s donje strane uređaja.
+
+PRIKLJUČIVANJE NA ELEKTRIČNU MREŽU
+Iskopčajte aparat iz struje.
+Instalaciju mora provesti kvalificirano osoblje koje poznaje važeće sigurnosne i instalacijske
+propise.
+Proizvođač ne prihvaća nikakvu odgovornost za ozljede osoba ili životinja niti za oštećenja imovine zbog nepridržavanja propisa navedenih u
+ovom poglavlju.
+Kabel za napajanje mora biti dovoljno dugačak da bi se ploča mogla ukloniti iz radne površine.
+Napon naveden na pločici s podacima na dnu aparata mora biti jednak naponu mreže u stambenom objektu.
+
+UPOZORENJE
+
+-
+
+-
+
+HR7
+
+Spajanje na blok s priključcima
+Za električni priključak upotrijebite kabel H05RR-F ili H05V2V2-F kako je navedeno u donjoj tablici.
+
+4 x 1,5 mm2
+
+380-415 V 3N ~ +
+
+5 x 1,5 mm2
+
+380-415 V 2N ~ +
+
+4 x 1,5 mm2
+
+B
+
+C
+
+380-415 V 2N ~
+
+220-240 V 3 ~ (samo Belgija)
+
+230 V
+230 V
+
+230 V
+230 V
+
+A
+
+220-240 V ~
+
+230 V
+
+220-240 V 3 ~ +
+
+220-240 V ~ (samo AU i UK)
+380-415 V 3N ~
+
+380-415 V 2N
+~ (samo Nizozemska)
+
+230 V
+230 V
+
+220-240 V ~ +
+
+3 x 4 mm2
+
+230 V
+
+Broj x veličina
+
+230 V
+230 V
+230 V
+
+Žice
+
+Važno:
+- na temelju dijagrama ožičenja (pogledajte sliku) zadržite ili uklonite metalne prijemosnike između vijaka na priključnom bloku L1-L2 i N1-N2.
+- ako je isporučen kabel, pogledajte priložene upute za priključivanje.
+- nakon spajanja kabela provjerite je li pritegnuto svih šest vijaka na bloku s priključcima.
+Primjer s prijemosnikom (lijevo) i bez prijemosnika (desno). Pojedinosti potražite na dijagramu ožičenja (prijemosnici mogu biti između L1-L2 i između N1-N2).
+
+Žuto-zelenu žicu uzemljenja spojite na priključak s oznakom
+.
+Ta žica mora biti duža od drugih.
+1. Uklonite poklopac bloka s priključcima (A) – odvijte vijak i umetnite poklopac u okov bloka s priključcima (B).
+2. Kabel napajanja umetnite u kabelsku stezaljku i spojite žice na blok s priključcima kao što je navedeno na dijagramu priključivanja pokraj njega.
+3. Osigurajte kabel napajanja kabelskom stezaljkom.
+4. Zatvorite poklopac (C) i privijte ga na blok s priključcima vijkom koji ste prethodno uklonili.
+Pri svakom uključivanju napajanja ploča će provesti automatsku provjeru u trajanju od nekoliko sekundi.
+Ako ploča već ima napojni kabel, slijedite priložene upute. Priključite aparat na napajanje pomoću višepolne sklopke s minimalnim razmakom između kontakata
+od 3 mm.
+
+UPUTE ZA UPORABU
+Opis upravljačke ploče
+
+Upravljačka ploča
+“Model Flexicook” (kada je dostupan)
+Uklj./Isklj.
+
+Brzi pristup
+
+Zaključavanje upravljačke ploče
+
+Kliznik
+
+Regulatori zona za kuhanje i odgovarajući prikaz
+
+HR8
+
+Uključivanje/isključivanje ploče
+Da biste uključili ploču, pritisnite tipku i zadržite je otprilike 2 sekunde, dok se ne uključe prikazi zona za kuhanje. Za isključivanje pritisnite istu tipku i zadržite je
+dok se prikazi ne isključe. Sve zone za kuhanje se deaktiviraju
+Ako je ploča korištena, pokazatelj preostale topline H ostaje uključen dok se zone za kuhanje ne ohlade.
+Ako u roku od 10 sekundi od uključivanja ne odaberete nijednu funkciju, ploča će se automatski isključiti.
+
+Uključivanje i podešavanje zona za kuhanje
+Upravljanje kliznikom
+Prikaz pokazatelja snage
+
+Povećanje razine snage
+
+Pokazatelj odabrane zone za kuhanje
+
+Položaj zone za kuhanje
+
+Smanjenje razine snage
+
+Nakon uključivanja ploče za kuhanje, uključite željenu zonu za kuhanje pritiskom na odgovarajuću kružnu tipku i stavite lonac na zonu. Pomoću kliznika možete
+odabrati željenu razinu snage, od min. 0 do maks. 9 ili funkciju Booster “P” (Pojačanje) ako je dostupna.
+Da biste povećali razinu snage, kliznite prstom po klizniku slijeva nadesno nekoliko puta; da biste je smanjili, kliznite u suprotnom smjeru. Moguće je koristiti i tipke za
+brzi pristup “+” i “-”.
+
+Deaktivacija zona za kuhanje
+Za isključivanje zone za kuhanje, pritisnite i držite odgovarajuću tipku više od 3 sekunde.
+Zona za kuhanje se isključuje i, ako je još uvijek vruća, na prikazu zone pojavljuje se slovo “H”.
+
+Zaključavanje upravljačke ploče
+Ovom se funkcijom zaključavaju regulatori kako bi se spriječilo slučajno uključivanje ploče. Da biste aktivirali zaključavanje upravljačke ploče, uključite ploču za kuhanje
+te pritisnite i držite tipku mjerača vremena tri sekunde; zvučni signal i osvijetljena oznaka uz simbol brave označavaju aktivaciju. Na upravljačkoj ploči zaključavaju se
+sve funkcije osim funkcije za isključivanje. Da biste deaktivirali zaključavanje upravljačke ploče, ponovite postupak aktivacije. Uključena će se točka isključiti, a ploča će
+se ponovno aktivirati.
+Vodom, tekućinom prolivenom iz posude ili bilo kakvim predmetima na tipkama ispod simbola slučajno možete aktivirati ili deaktivirati funkciju zaključavanja
+upravljačke ploče.
+
+Mjerač vremena
+Mjerač vremena može se upotrijebiti za podešavanje vremena kuhanja do 99 minuta (1 sat i 39 minuta) za sve zone kuhanja.
+Odaberite zonu za kuhanje koju želite upotrijebiti s mjeračem vremena, pritisnite mjerač vremena i zvučni signal će označiti aktivaciju funkcije
+(pogledajte sliku). Na zaslonu se prikazuje “00” i uključuje se LED oznaka. Vrijednost mjerača vremena može se smanjiti i povećati držanjem tipki “+”
+i “-” funkcije kliznika. Nakon isteka postavljenog vremena oglasit će se zvučni signal i zona za kuhanje automatski će se isključiti. Za isključivanje
+mjerača vremena, pritisnite i držite tipku mjerača vremena minimalno 3 sekunde.
+Da biste postavili vrijeme za neku drugu zonu, ponovite prethodno opisane točke. Na zaslonu mjerača vremena uvijek se prikazuje mjerač vremena
+za odabranu zonu ili najkraći mjerač vremena.
+Da biste promijenili ili isključili mjerač vremena, pritisnite tipku za odabir zone za odgovarajući mjerač vremena.
+
+Upozorenja na upravljačkoj ploči
+Pokazatelj preostale topline.
+Ploča je opremljena pokazateljem preostale topline za sve zone za kuhanje. Ti pokazatelji upozoravaju korisnika kada su zone za kuhanje još vruće.
+Ako se na zaslonu prikaže , zona za kuhanje još je vruća. Ako je pokazatelj preostale topline za određenu zonu za kuhanje uključen, ta se zona može,
+primjerice, koristiti za održavanje topline jela ili topljenje maslaca.
+Kada se zona za kuhanje ohladi, zaslon se isključuje.
+Pokazatelj neodgovarajuće posude ili upozorenja da uopće nema posude.
+Ako koristite neodgovarajuću posudu, posudu koja nije pravilno postavljena ili njezine dimenzije ne odgovaraju vašoj indukcijskoj ploči, na zaslonu će se
+prikazati upozorenje da nema posude (pogledajte sliku). Ako se tijekom 60 sekundi ne otkrije posuda, ploča će se isključiti.
+
+HR9
+
+Funkcija brzog ključanja (Booster, Pojačanje)
+Ta funkcija dostupna je samo na nekim zonama za kuhanje, omogućuje iskorištavanje maksimalne snage ploče (primjerice za vrlo brzo zakuhavanje vode). Da biste
+aktivirali tu funkciju, pritišćite tipku “+” dok se na zaslonu ne prikaže slovo P. Nakon 10 minuta korištenja ove funkcije uređaj će zonu automatski podesiti na razinu 9.
+
+Funkcija Flexi cook
+Ako je dostupna, ova funkcija omogućuje korištenje zone za kuhanje kao dvije odvojene zone ili jedne vrlo velike zone.
+Savršeno je za ovalne, pravokutne i duguljaste posude (maksimalnih mjera dna 38x23 cm) ili više standardnih posuda istovremeno. Kako biste aktivirali funkciju
+Flexicook, uključite ploču, istovremeno pritisnite 2 tipke za odabir zona kao što je prikazano na donjoj slici: na prikazima obiju zona prikazat će se razina snage 5;
+obje točke pokraj broja razine su uključene i pokazuju da je funkcija Flexi cook aktivirana.
+
+Da biste promijenili razinu snage (od 1 do maksimalno 9 ili P) pritisnite tipke -/+ ili kliznite prstom vodoravno po klizniku. Da biste deaktivirali funkciju Flexi cook,
+istovremeno pritisnite 2 tipke za odabir zona. Za trenutačno isključivanje pritisnite zona i zadržite tipku za odabir zone 3 sekunde.
+
+i Poruka s upozorenjem da nema posude
+
+prikazat će se na zaslonu zone koja ne može otkriti bilo kakvu posudu (posuda nedostaje ili nije pravilno
+postavljena ili nije prikladna za indukcijsku ploču). Ta poruka ostaje aktivna 60 sekundi: tijekom tog vremena možete po želji dodavati ili premještati posude u području
+Flexicook.
+Ako se nakon 60 sekundi na zonu ne postavi nikakva posuda, sustav prestaje “tražiti” posude na toj zoni, a simbol
+zona onemogućena.
+
+ostaje vidljiv na zaslonu kao podsjetnik da je
+
+Da biste ponovno aktivirali funkciju Flexicook, pritisnite jednu od 2 tipke
+Funkcija Flexi cook također može otkriti premještanje posude iz jedne zone u drugu unutar područja Flexi cook i zadržati istu razinu snage u zoni na koju je posuda
+prvobitno bila postavljena (pogledajte primjer na donjoj slici: ako se posuda premjesti s prednjeg na stražnji grijač, razina snage prikazana na zaslonu odgovarat će zoni
+na koju je posuda postavljena).
+Moguće je i upravljanje područjem Flexi cook kao dvama neovisnim zonama pritiskom odgovarajuće tipke jedne zone. Postavite posudu u središte jedne zone i postavite
+razinu snage dodirivanjem klizača na zaslonu.
+
+i Važno: posude postavite na sredinu zone za kuhanje tako da pokrijete središte svake zone za kuhanje.
+U slučaju da je posuda velika, ovalna, pravokutna ili duguljasta, postavite je centrirano na zonu za kuhanje.
+Primjeri pravilnog i nepravilnog postavljanja posuda:
+
+HR10
+
+ČIŠĆENJE
+UPOZORENJE
+
+-
+
+Ne koristite uređaje za parno čišćenje.
+Prije čišćenja provjerite jesu li zone za kuhanje isključene i je li pokazatelj preostale topline (H) isključen.
+
+Ako se na staklu nalazi logotip iXeliumTM, ploča za kuhanje opremljena je obradom iXeliumTM. iXeliumTM je ekskluzivan način završne obrade tvrtke Whirlpool koji jamči
+savršeno čist i dugotrajan sjaj. Dakle, ako imate IXELIUM ploču za kuhanje, pridržavajte se sljedećih preporuka za čišćenje:
+• Upotrijebite meku krpu (najbolja je od mikrovlakana) navlaženu vodom ili uobičajenim sredstvom za pranje suđa.
+• Ako želite dodatno poboljšati rezultate čišćenja, na staklu nekoliko minuta ostavite vlažnu krpu.
+VAŽNO: ne koristite grube spužve ili spužve za ribanje. Njima biste mogli uništiti staklenu površinu.
+• Nakon svake upotrebe očistite ploču (kada se ohladi) kako biste uklonili ostatke i mrlje od ostataka hrane.
+• Šećer ili hrana koja sadrži puno šećera može oštetiti ploču i mora se odmah ukloniti.
+• Sol, šećer i pijesak mogli bi prouzročiti ogrebotine na staklenoj površini.
+• Koristite meku krpu, kuhinjske ručnike koji upijaju tekućine ili posebna sredstva za čišćenje ploča (u skladu s uputama proizvođača).
+• Tekuća prolijevanja na zonama za kuhanje mogu dovesti do vibriranja ili pomicanja lonaca
+• Dobro osušite ploču nakon čišćenja.
+
+VODIČ ZA UTVRĐIVANJE KVAROVA
+•
+•
+•
+•
+•
+
+Pročitajte i slijedite upute navedene u poglavlju Upute za upotrebu.
+Uvjerite se da napajanje nije isključeno.
+Dobro osušite ploču nakon čišćenja.
+Ako se na zaslonu nakon uključivanja ploče prikažu slovno-brojčani znakovi, upute potražite u sljedećoj tablici.
+Ako se ploča nakon upotrebe ne može isključiti, isključite je iz napajanja.
+ŠIFRA POGREŠKE
+
+OPIS
+
+MOGUĆI UZROCI
+
+UKLANJANJE POGREŠAKA
+
+C81, C82
+
+Upravljačka se ploča isključuje zbog
+prekomjerne temperature
+
+Unutarnja je temperatura elektroničkih
+dijelova previsoka
+
+Pričekajte da se ploča ohladi prije
+ponovne upotrebe.
+
+F42 ili F43
+
+Priključeni napon ne odgovara
+
+Senzor prepoznaje razliku između
+napona aparata i napona mrežnog
+napajanja
+
+Isključite ploču iz mrežnog
+napajanja i provjerite električni
+priključak
+
+F12, F21, F25, F36, F37, F40, F47, F56, F58, F60
+
+Nazovite servis i navedite šifru pogreške
+
+ZVUKOVI KOJE STVARA PLOČA
+Indukcijske ploče mogu “zviždati” ili “pucketati” tijekom uobičajenog rada. Ti zvukovi ustvari dolaze od posuda s različitim dnom (primjerice dnom sastavljenim od
+nekoliko slojeva materijala ili neravnim dnom). Ti zvukovi ovise o posudama koje koristite i količini namirnica koje sadrže i ne predstavljaju nikakav kvar.
+Osim toga, indukcijska ploča opremljena je unutarnjim sustavom hlađenja kojim se kontrolira temperatura elektroničkih dijelova; zbog toga će se zvuk ventilatora čuti
+tijekom rada i nekoliko minuta nakon isključivanja. To je normalno i potrebno za pravilan rad aparata.
+
+POSTPRODAJNI SERVIS
+Prije nego što se obratite servisu:
+1. Pogledajte možete li sami riješiti problem uz pomoć prijedloga danih u Vodiču za utvrđivanje kvarova.
+2. Isključite i ponovno uključite uređaj kako biste provjerili je li problem uklonjen.
+Ako se problem ne riješi nakon gore navedenih provjera, obratite se najbližem servisu.
+Uvijek navedite:
+• kratak opis kvara;
+• vrstu proizvoda i točan model;
+• servisni broj (broj nakon riječi Service na tipskoj pločici) koji se nalazi ispod aparata (na metalnoj pločici).
+• svoju potpunu adresu;
+• svoj telefonski broj.
+
+Ako su potrebni bilo kakvi popravci, obratite se ovlaštenom servisnom centru (kako biste osigurali primjenu originalnih rezervnih dijelova i odgovarajući popravak).
+Rezervni će dijelovi biti dostupni 10 godina.
+HR11
+
+TABLICA S RAZINAMA SNAGE
+Razina snage
+
+Vrsta pripreme jela
+
+Boost
+
+Brzo zagrijavanje
+
+Idealno za brzo povećanje temperature jela na brzo vrenje, predviđeno za vodu ili tekućine koje se brzo
+zagrijavaju
+
+8-9
+
+Prženje - vrenje
+
+Idealno za jače završno pečenje, početak kuhanja, prženje duboko zamrznutih proizvoda, brzo vrenje
+
+Najveća snaga
+
+7-8
+
+Jače završno pečenje - pirjanje
+Idealno za pirjanje, održavanje vrenja, kuhanje i pečenje na roštilju (kratkotrajno, 5-10 minuta)
+- vrenje - pečenje na roštilju
+
+6-7
+
+Jače završno pečenje - kuhanje
+Idealno za pirjanje, održavanje slabog vrenja, kuhanje i pečenje na roštilju (srednje dugo,
+- kuhanje gulaša i ragua 10-20 minuta), prethodno zagrijavanje pribora
+pirjanje - pečenje na roštilju
+
+Velika snaga
+
+4-5
+Srednja snaga
+
+3-4
+2-3
+1-2
+
+Kuhanje - priprema gulaša pirjanje - pečenje na roštilju
+Kuhanje - tiho vrenje zgušnjavanje - priprema
+umaka
+
+1
+
+Topljenje - odleđivanje održavanje topline hrane priprema umaka
+
+Nulta
+snaga
+
+Površina za postavljanje
+posuda
+
+Niska snaga
+
+OFF
+(ISKLJUČENO)
+
+Uporaba
+(s iskustvom i navikama pri pripremi jela)
+
+Idealno za pripremu gulaša i ragua, održavanje slabog vrenja, kuhanje (dulje vrijeme). Priprema umaka
+za tjesteninu
+Idealno za recepte s dugom pripremom (riža, umaci, pečenja, riba) s tekućinom (npr. voda, vino,
+temeljac, mlijeko), priprema umaka
+Idealno za recepte s dugom pripremom (u količini manjoj od jedne litre: riža, umaci, pečenja, riba) s
+tekućinama (npr. voda, vino, temeljac, mlijeko)
+Idealno za topljenje maslaca, pažljivo topljenje čokolade, odmrzavanje malih proizvoda i održavanje
+topline pripremljenih jela (npr. umaka, juha, mineštri)
+Idealno za održavanje topline pripremljenih jela, završavanje rižota i održavanje topline pribora za
+posluživanje (pribor predviđen za indukcijske ploče)
+Ploča u stanju pripravnosti ili isključena ploča (moguća preostala toplina nakon kuhanja, označena
+slovom H)
+
+NAPOMENA:
+Pri pripremi brzih jela koja zahtijevaju savršen raspored topline (npr. palačinke) na dvostrukoj zoni od 28 cm (ako postoji), koristite posude najvećeg promjera 24 cm.
+Za pažljivu pripremu (primjerice topljenje čokolade ili maslaca) koristite zone malog promjera.
+
+HR12

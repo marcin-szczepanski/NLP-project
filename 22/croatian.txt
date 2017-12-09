@@ -1,0 +1,2532 @@
+SM-J320FN
+
+Korisnički priručnik
+
+Croatian. 03/2016. Rev.1.0
+
+www.samsung.com
+
+Sadržaj
+Osnovne funkcije
+
+52	 Pametni upravitelj
+54	 S Planer
+56	Video
+57	Diktafon
+58	 Moje datoteke
+58	Zapis
+59	Sat
+60	Kalkulator
+61	Radio
+62	 Google aplikacije
+
+4	 Prvo pročitajte ovo
+5	 Sadržaj pakiranja
+6	 Prikaz uređaja
+8	Baterija
+14	 SIM ili USIM kartica
+15	 Memorijska kartica
+17	 Uključivanje i isključivanje uređaja
+17	 Zaslon na dodir
+20	 Početni zaslon
+26	 Zaslon zaključavanja
+27	 Ploča obavijesti
+29	 Unos teksta
+31	 Snimka zaslona
+31	 Otvaranje aplikacija
+31	 Uređaj i upravljanje podacima
+
+Postavke
+64	Uvod
+64	Wi-Fi
+66	Bluetooth
+67	 Profil Bez mreže
+68	 Mobilna pristupna točka i dijeljenje
+69	 Korištenje podataka
+70	 Mobilne mreže
+70	 NFC i plaćanje
+73	 Više postavki veze
+74	 Zvukovi i obavijesti
+74	Zaslon
+75	Aplikacije
+75	Pozadina
+75	Teme
+
+Aplikacije
+35	 Instaliranje ili deinstaliranje aplikacija
+36	Telefon
+40	Imenik
+41	Poruke
+43	Internet
+44	Email
+45	Kamera
+51	Galerija
+
+2
+
+Sadržaj
+75	 Zaslon zaklj. i sigurnost
+76	Privatnost
+76	 Jednostavan način
+77	Pristupačnost
+78	Računi
+79	 Sigurnosno kopiranje i poništavanje
+79	 Jezik i unos
+80	Baterija
+80	Pohrana
+81	 Datum i vrijeme
+81	 Korisnički priručnik
+81	 O uređaju
+
+Dodatak
+82	 Rješavanje problema
+
+3
+
+Osnovne funkcije
+Prvo pročitajte ovo
+Prije uporabe uređaja pažljivo pročitajte ovaj priručnik radi sigurne i pravile uporabe uređaja.
+• 	Opisi se temelje na zadanim postavkama uređaja.
+• 	Neki sadržaji mogu se razlikovati od vašeg uređaja ovisno o regiji, pružatelju usluga,
+specifikaciji modela ili softveru uređaja.
+• 	Sadržaj (sadržaj visoke kvalitete) koji zahtjeva intenzivnu uporabu CPU ili RAM-a utjecat će
+na cjelokupne performanse uređaja. Aplikacije povezane sa sadržajem možda neće ispravno
+raditi ovisno o specifikacijama uređaja te okruženju u kojem se koristi.
+• 	Tvrtka Samsung nije odgovorna za probleme u radu koje su izazvale aplikacije čiji dobavljač
+nije tvrtka Samsung.
+• 	Samsung nije odgovoran za probleme s radom ili nekompatibilnost nastalu uređivanjem
+registarskih postavki ili modificiranjem softvera operativnog sustava. Pokušaj prilagođavanja
+operativnog sustava može dovesti do neispravnog rada uređaja ili aplikacije.
+• 	Softver, izvori zvuka, pozadine, slike te ostali mediji koji se nalaze na uređaju licencirani su
+za ograničenu uporabu. Izdvajanje i uporaba tih materijala u komercijalne ili druge svrhe
+smatra se kršenjem autorskih prava. Korisnici su u potpunosti odgovorni za nezakonito
+korištenje medija.
+• 	Za podatkovne usluge kao što su razmjena poruka, učitavanje i preuzimanje, automatska
+sinkronizacija ili upotreba usluga lokacija mogu se obračunavati dodatni troškovi, ovisno o
+vašem podatkovnom planu. Za prijenose velikih podataka preporučujemo upotrebu Wi-Fi
+postavke.
+• 	Zadane aplikacije koje ste dobili uz uređaj mogu se ažurirati i ne moraju više biti podržane
+bez prethodne obavijesti. Ako imate pitanja u vezi aplikacija koje ste dobili uz uređaj,
+obratite se Samsung servisnom centru. Za aplikacije koje instaliraju korisnici, obratite se
+pružateljima usluga.
+• 	Promjena operacijskog sustava uređaja ili instaliranje softvera iz neovlaštenih izvora
+mogu dovesti do neispravnog rada uređaja i oštećenja ili gubitka podataka. Ti postupci
+predstavljaju povrede vašeg Samsung licencnog ugovora, te poništavaju jamstvo.
+
+4
+
+Osnovne funkcije
+
+Ikone uputa
+Pozor: Situacije koje mogu izazvati ozljede vama ili drugima
+Oprez: Situacije koje mogu izazvati oštećenje uređaja ili druge opreme
+Obavijest: Napomene, savjeti za uporabu i ostale informacije
+
+Sadržaj pakiranja
+Potražite sljedeće stavke u kutiji proizvoda:
+• 	Uređaj
+• 	Baterija
+• 	Kratke upute
+• 	Proizvodi dostavljeni s uređajem kao i dostupni dodaci mogu se razlikovati ovisno o
+području ili pružatelju usluge.
+• 	Dostavljeni proizvodi namijenjeni su samo za ovaj uređaj te možda neće biti
+kompatibilni s drugim uređajima.
+• 	Izgled i specifikacije podložni su promjeni bez prethodne obavijesti.
+• 	Dodatke možete kupiti kod svog lokalnog Samsung zastupnika. Prije kupnje provjerite
+jesu li dodaci kompatibilni s uređajem.
+• 	Koristite samo pribor koji je odobrila tvrtka Samsung. Upotreba neodobrenog
+dodatnog pribora može uzrokovati probleme u izvedbi i kvarove koje jamstvo ne
+pokriva.
+• 	Dostupnost svih pribora podložna je promjenama ovisno isključivo o tvrtkama koje
+su ih proizvele. Za više informacija o raspoloživom priboru pogledajte internetsku
+stranicu tvrtke Samsung.
+
+5
+
+Osnovne funkcije
+
+Prikaz uređaja
+Utičnica za slušalice
+Zvučnik
+Prednja kamera
+Senzor blizine
+Zaslon na dodir
+
+Tipka za uključivanje i
+isključivanje
+
+Tipka za početni zaslon
+
+Tipka za nedavne
+aktivnosti
+
+Tipka za povratak
+
+Mikrofon
+
+Višenamjenski priključak
+
+Stražnja kamera
+GPS antena
+Zvučnik za pojačavanje
+
+Bljeskalica
+
+Tipka za glasnoću
+
+Stražnji poklopac
+
+Antena NFC
+
+Glavna antena
+
+6
+
+Osnovne funkcije
+• 	Ne prekrivajte antenu rukama ili drugim objektima. To može dovesti do problema s
+povezivanjem ili istrošiti bateriju.
+• 	Preporučuje se upotreba zaštite za zaslon odobrene od tvrtke Samsung. Neodobrene
+zaštite za zaslon mogle bi uzrokovati neispravan rad senzora.
+• 	Ne dopustite kontakt zaslona osjetljivog na dodir s vodom. U vlažnim uvjetima ili
+uslijed doticaja s vodom može doći do kvara zaslona osjetljivog na dodir.
+
+Tipke
+Tipka
+
+Funkcija
+Uključivanje
+Nedavne
+aktivnosti
+
+• 	Pritisnite i držite za uključivanje ili isključivanje uređaja.
+• 	Pritisnite za uključivanje ili zaključavanje zaslona.
+• 	Dodirnite za otvaranje popisa nedavnih aplikacija.
+• 	Pritisnite za uključivanje zaslona dok je zaslon zaključan.
+
+Početna
+
+• 	Pritisnite za povratak na početni zaslon.
+• 	Pritisnite i držite za pokretanje Google.
+
+Nazad
+
+• 	Dodirnite za povratak na prethodni zaslon.
+
+Glasnoća
+
+• 	Pritisnite za podešavanje glasnoće uređaja.
+
+7
+
+Osnovne funkcije
+
+Baterija
+Umetanje baterije
+
+1	 Uklonite stražnji poklopac.
+
+Vodite računa i nemojte oštetiti nokte prilikom uklanjanja stražnjeg poklopca.
+Ne savijajte i ne presavijajte jako stražnji poklopac. Ako to učinite uređaj se može oštetiti.
+
+2	 Umetnite bateriju s pozlaćenim kontaktima koji moraju biti pravilno poravnati s kontaktima
+uređaja.
+
+2
+
+1
+
+8
+
+Osnovne funkcije
+
+3	 Vratite stražnji poklopac na njegovo mjesto.
+
+Uklanjanje baterije
+
+1	 Uklonite stražnji poklopac.
+2	 Izvadite bateriju.
+
+9
+
+Osnovne funkcije
+
+Punjenje baterije
+Prije prve uporabe baterije ili ako se nije koristila duže vrijeme napunite bateriju.
+Koristite samo punjače, baterije i kabele odobrene od tvrtke Samsung. Neodobreni
+punjači ili kabeli mogu izazvati eksplozije baterije ili oštećenja uređaja.
+
+1	 Spojite USB kabel na punjač, a zatim kraj USB kabela uključite u višenamjenski priključak.
+
+Neispravno priključivanje punjača može izazvati ozbiljno oštećenje uređaja. Jamstvo ne
+pokriva oštećenja nastala neispravnom uporabom.
+
+10
+
+Osnovne funkcije
+
+2	 Uključite USB punjač u struju utičnicu.
+3	 Kada se baterija u potpunosti napuni, odvojite uređaj od punjača. Prvo izvucite punjač iz
+uređaja, a zatim ga isključite iz električne utičnice.
+
+Ne uklanjajte bateriju prije nego što ste iskopčali punjač. Takva radnja može oštetiti
+uređaj.
+Za uštedu energije, isključite punjač iz strujne utičnice kad se ne koristi. Punjač nema
+tipku za uključivanje i isključivanje napajanja, stoga punjač trebate izvuči iz strujne
+utičnice kad se ne koristi kako biste izbjegli nepotrebno trošenje energije. Tijekom
+punjenja punjač treba biti blizu strujne utičnice i lako dostupan.
+
+Pregled preostalog vremena punjenja
+Tijekom punjenja otvorite početni zaslon i dodirnite Aplik. → Postavke → Baterija.
+Stvarno vrijeme punjenja može se razlikovati ovisno o statusu vašeg uređaja i uvjetima
+punjenja. Preostalo vrijeme punjenja možda se neće prikazati kada uređaj punite u jako
+vrućim ili hladnim uvjetima.
+
+Smanjenje potrošnje baterije
+Uređaj nudi različite opcije koje će vam pomoći smanjiti potrošnju baterije.
+• 	Optimirajte uređaj pomoću Pametnog upravitelja.
+• 	Kada ne koristite uređaj, prebacite u mod samoisključivanja pritiskom na tipku za
+uključivanje i isključivanje.
+• 	Aktivacija načina uštede energije.
+• 	Zatvorite nepotrebne aplikacije.
+• 	Deaktivirajte funkciju Bluetootha kad nije u upotrebi.
+• 	Deaktivirajte Wi-Fi funkciju kad nije u upotrebi.
+• 	Isključite automatsku sinkronizaciju aplikacija.
+• 	Smanjite vrijeme pozadinskog svjetla.
+• 	Smanjite osvjetljenje zaslona.
+
+11
+
+Osnovne funkcije
+
+Savjeti i mjere opreza pri punjenju baterije
+• 	Kada je baterija slaba ikona baterije prikazuje se praznom.
+• 	Ako je baterija potpuno prazna, uređaj se ne može uključiti odmah po spajanju na punjač.
+Dopustite da se ispražnjena baterija puni nekoliko minuta prije uključivanja uređaja.
+• 	Ako odjednom koristite više aplikacija, mrežne aplikacije ili aplikacije koje trebaju spajanje s
+drugim uređajem, baterija će se brzo prazniti. Za izbjegavanje odspajanja s mreže ili gubitak
+snage tijekom prijenosa podataka, te aplikacije uvijek koristite nakon što se baterije potpuno
+napuni.
+• 	Pri korištenju drugih izvora energije umjesto punjača, npr. računala, brzina punjenja može
+biti sporija zbog slabije struje.
+• 	Tijekom punjenja možete koristiti uređaj, ali u tom slučaju možda će trebati više vremena da
+se baterija potpuno napuni.
+• 	Ako uređaj prima nestabilno napajanje tijekom punjenja, zaslon osjetljiv na dodir možda
+neće raditi. Ako se to dogodi, izvucite punjač iz uređaja.
+• 	Može doći do zagrijavanja uređaja i punjača tijekom punjenja. To je normalno i ne bi trebalo
+utjecati na vrijeme trajanja uređaja niti na njegovu izvedbu. Ukoliko se baterija zagrije više
+od uobičajenog, punjač može prestati s punjenjem.
+• 	Ako uređaj nije napunjen na ispravan način, odnesite uređaj i punjač u servisni centar tvrtke
+Samsung.
+
+12
+
+Osnovne funkcije
+
+Štednja baterije
+Smanjite potrošnju baterije ograničavanjem funkcija uređaja.
+Na početnom zaslonu dodirnite Aplik. → Postavke → Baterija → Štednja baterije, a zatim
+dodirnite prekidač za aktivaciju.
+Za automatsko aktiviranje načina štednje energije kad preostala snaga baterije dosegne
+unaprijed postavljenu razinu dodirnite Započ. štednje energije i odaberite opciju.
+
+Maksimalna štednja baterije
+Ovaj način rada koristite za produžetak napajanja baterije. U ultra načinu uštede energije uređaj
+izvršava sljedeće funkcije:
+• 	Prikazuje sve boje kao tonove sive boje.
+• 	Ograničite dostupne aplikacije samo na osnovne i odabrane aplikacije.
+• 	Deaktivira mobilnu podatkovnu vezu kada je zaslon isključen.
+• 	Deaktivira Wi-Fi i Bluetooth funkciju.
+Na početnom zaslonu dodirnite Aplik. → Postavke → Baterija → Maksimalna štednja baterije,
+a zatim dodirnite prekidač za aktivaciju.
+Za deaktiviranje funkcije ultra štednje energije dodirnite VIŠE → Isključi maks. štednju baterije.
+Preostalo vrijeme korištenja pokazuje vrijeme preostalo prije nego se snaga baterije
+istroši. Preostalo vrijeme može se razlikovati ovisno o postavkama i uvjetima rada vašeg
+uređaja.
+
+13
+
+Osnovne funkcije
+
+SIM ili USIM kartica
+Instaliranje SIM ili USIM kartice
+Umetnite SIM ili USIM karticu koju ste dobili od pružatelja usluge mobilne telefonije.
+S ovim uređajem koristite samo mikro SIM karticu.
+
+1	 Uklonite stražnji poklopac i bateriju.
+2	 Umetnite SIM ili USIM karticu s kontaktima obojenim zlatnom bojom okrenutim prema dolje.
+
+• 	Ne stavljajte memorijsku karticu u utor za SIM karticu. Ako se memorijska kartica
+zaglavi u utoru za SIM karticu, uređaj morate odnijeti u servisni centar tvrtke Samsung
+gdje će izvaditi memorijsku karticu.
+• 	Pazite da ne izgubite i nemojte dopustiti drugima da koriste SIM ili USIM karticu.
+Tvrtka Samsung nije odgovorna za bilo kakvu štetu ili neugodnosti nastalu zbog
+izgubljenih ili ukradenih kartica.
+
+3	 Vratite bateriju i stražnji poklopac.
+
+14
+
+Osnovne funkcije
+
+Uklanjanje SIM ili USIM kartice
+
+1	 Uklonite stražnji poklopac i bateriju.
+2	 Izvadite SIM ili USIM karticu.
+
+Memorijska kartica
+Instaliranje memorijske kartice
+Vaš uređaj radi s memorijskim karticama maksimalnog kapaciteta 128 GB. Ovisno o proizvođaču
+i tipu memorijske kartice, neke memorijske kartice možda neće biti kompatibilne s vašim
+uređajem.
+• 	Neke memorijske kartice neće biti potpuno kompatibilne s uređajem. Uporaba
+nekompatibilne memorijske kartice može oštetiti uređaj, memorijsku karticu ili na njoj
+pohranjene podatke.
+• 	Vodite računa i umetnite memorijsku karticu okrenutu u pravom smjeru.
+• 	Uređaj podržava samo FAT i exFAT sustav datoteka za memorijske kartice. Ako
+umetnete memorijsku karticu formatiranu u drugom sustavu datoteka, uređaj će
+zatražiti ponovno formatiranje memorijske kartice.
+• 	Često pisanje i brisanje podataka skratit će vijek trajanja memorijskih kartica.
+• 	Pri umetanju memorijske kartice u uređaj direktorij s datotekama memorijske kartice
+pojavljuje se unutar mape Moje datoteke → SD kartica.
+
+15
+
+Osnovne funkcije
+
+1	 Uklonite stražnji poklopac i bateriju.
+2	 Umetnite memorijsku karticu s pozlaćenim kontaktima okrenutima prema dolje.
+
+3	 Vratite bateriju i stražnji poklopac.
+Uklanjanje memorijske kartice
+Prije uklanjanja memorijske kartice prvo je oslobodite radi sigurnog uklanjanja.
+Na početnom zaslonu dodirnite Aplik. → Postavke → Pohrana → Odspoji SD karticu.
+
+1	 Uklonite stražnji poklopac i bateriju.
+2	 Izvucite memorijsku karticu.
+3	 Vratite bateriju i stražnji poklopac.
+Ne uklanjajte memorijsku karticu dok uređaj prenosi ili pristupa informacijama. To
+može izazvati gubitak ili oštećenje podataka ili oštećenje memorijske kartice ili uređaja.
+Samsung nije odgovoran za gubitke koji proizlaze iz zloporabe oštećenih memorijskih
+kartica, uključujući gubitak podataka.
+
+Formatiranje memorijske kartice
+Memorijska kartica formatirana na računalu možda neće biti kompatibilna s uređajem.
+Memorijsku karticu formatirajte na uređaju.
+Na početnom zaslonu dodirnite Aplik. → Postavke → Pohrana → Format SD kartice →
+FORMATIRAJ SD KARTICU → OBRIŠI SVE.
+Ne zaboravite izraditi sigurnosnu kopiju svih važnih podataka pohranjenih na
+memorijskoj kartici prije nego što je formatirate. Jamstvo proizvođača ne obuhvaća
+gubitak podataka izazvan postupcima korisnika.
+
+16
+
+Osnovne funkcije
+
+Uključivanje i isključivanje uređaja
+Za uključivanje uređaja pritisnite i držite tipku za uključivanje i isključivanje.
+Ako uređaj uključujete prvi put ili nakon resetiranja podataka, slijedite upute na zaslonu za
+podešavanje uređaja.
+Za isključivanje uređaja, pritisnite i držite tipku za uključivanje i isključivanje, a zatim dodirnite
+Isključivanje.
+• 	Ako se vaš uređaj zamrzava ili ne reagira, istovremeno pritisnite i držite tipku za
+uključivanje i isključivanje i tipku glasnoće duže od 7 sekundi za ponovno pokretanje.
+• 	Slijedite sva istaknuta upozorenja i upute službenog osoblja kada se nalazite na
+područjima u kojima su zabranjeni bežični uređaji, primjerice u zrakoplovu ili bolnici.
+
+Zaslon na dodir
+• 	Pazite da zaslon osjetljiv na dodir ne dođe u dodir s ostalim električnim uređajima.
+Izbijanje statičkog elektriciteta može izazvati kvar zaslona osjetljivog na dodir.
+• 	Izbjegnite oštećenja zaslona osjetljivog na dodir stoga ga nemojte dodirivati oštrim
+predmetima i ne primjenjujte pretjeranu silu ako ga dirate prstima.
+• 	Uređaj možda neće prepoznati unose dodirom ako ste dodirnuli područje blizu
+rubova zaslona, jer je to izvan područja unosa dodirom.
+• 	Ako je zaslon osjetljiv na dodir neaktivan duže vrijeme to može rezultirati zadržanim
+slikama (upečenja slike) ili sjenama. Isključite zaslon osjetljiv na dodir kad ne koristite
+uređaj.
+• 	Preporučuje se korištenje prstiju prilikom korištenja zaslona osjetljivog na dodir.
+
+17
+
+Osnovne funkcije
+
+Dodirivanje
+Za otvaranje aplikacije, za odabir stavke izbornika, za pritisak gumba na zaslonu ili za upisivanje
+znaka koristeći se tipkovnicom, dodirnite ju prstom.
+
+Dodirivanje i držanje
+Dodirnite i držite stavku ili zaslon duže od 2 sekunde za pristup dostupnim opcijama.
+
+Povlačenje
+Za premještanje stavki, dodirnite je i držite te je povucite na željeno mjesto.
+
+18
+
+Osnovne funkcije
+
+Dvostruki dodir
+Dvaput dodirnite internetsku stranicu ili sliku za povećanje zuma. Ponovno dodirnite dvaput za
+povratak.
+
+Pomicanje
+Pomičite se ulijevo ili udesno na početnom zaslonu ili na zaslonu aplikacija za prikaz drugih
+okvira. Pomičite prstom prema gore ili dolje za pomicanje kroz mrežnu stranicu ili popis stavki,
+poput kontakata.
+
+Širenje i skupljanje prstiju
+Raširite dva prsta na internetskoj stranici, karti ili slici za djelomično povećanje zuma. Skupite
+prste za smanjenje zuma.
+
+19
+
+Osnovne funkcije
+
+Početni zaslon
+Početni zaslon
+Početni zaslon je početna točka za pristup svim funkcijama uređaja. On prikazuje widgete,
+prečace za aplikacije i sl.
+Za prikaz ostalih okvira prijeđite prstom ulijevo ili udesno.
+
+Widget
+Aplikacija
+
+Mapa
+Indikatori zaslona
+Ikona zaslona aplikacija
+
+Omiljene aplikacije
+
+20
+
+Osnovne funkcije
+
+Opcije početnog zaslona
+Kako biste pristupili dostupnim opcijama, na početnom zaslonu dodirnite i držite prazno
+područje ili skupite prste zajedno. Prilagodite početni zaslon dodavanjem, brisanjem ili
+premještanjem okvira početnog zaslona. Možete podesiti i pozadinu početnog zaslona, dodavati
+widgete na početni zaslon i više.
+• 	Pozadine: Promijenite sliku pozadine za početni zaslon i zaslon zaključavanja.
+• 	Widgeti: Dodavanje widgeta na početni zaslon. Widgeti su male aplikacije koje pokreću
+specifične funkcije aplikacija za pružanje informacija i prilagođeni pristup vašem početnom
+zaslonu.
+• 	Teme: Promijenite temu uređaja. Vizualni elementi sučelja, kao što su boje, ikone i pozadine,
+mijenjat će se ovisno o odabranoj temi.
+
+21
+
+Osnovne funkcije
+
+Dodavanje stavki
+Dodirnite i držite aplikaciju ili mapu na zaslonu aplikacija, a zatim je povucite na početni zaslon.
+Za dodavanje widgeta, dodirnite i držite prazno područje na početnom zaslonu, dodirnite
+Widgeti, dodirnite i držite widget, a zatim ga povucite na početni zaslon.
+
+Pomicanje i uklanjanje stavke
+Dodirnite i držite stavku na početnom zaslonu, a zatim je povucite na novu lokaciju.
+Za prebacivanje stavke na drugi okvir, povucite je do ruba zaslona.
+Također, često korištene aplikacije možete prebaciti na područje prečaca na dnu početnog
+zaslona.
+Za uklanjanje stavke, dodirnite i držite stavku. Zatim je povucite do Ukloni na vrhu zaslona.
+
+Kreiranje mapa
+
+1	 Na početnom zaslonu dodirnite i držite aplikaciju, a zatim je prevucite preko druge aplikacije.
+2	 Ispustite aplikaciju kad se mapa okvira pojavi oko aplikacije.
+Kreirat će se nova mapa koja sadrži odabrane aplikacije.
+
+3	 Unesite naziv mape.
+Za izmjenu boje mape dodirnite
+
+.
+
+Za dodavanje više aplikacija u mapu, dodirnite i držite drugu aplikaciju te je povucite u mapu.
+
+22
+
+Osnovne funkcije
+
+Upravljanje okvirima
+Na početnom zaslonu, dodirnite i držite prazno područje za dodavanje, pomicanje ili uklanjanje
+okvira.
+Za dodavanje okvira pomaknite se ulijevo, a zatim dodirnite
+
+.
+
+Za pomicanje okvira, dodirnite i držite predprikaz okvira, a zatim ga povucite na novu lokaciju.
+Za uklanjanje okvira, dodirnite i držite predprikaz okvira, a zatim ga povucite na Ukloni na vrhu
+zaslona.
+Za podešavanje okvira kao glavnog početnog zaslona dodirnite
+
+.
+
+Zaslon aplikacija
+Zaslon aplikacija prikazuje ikone svih aplikacija, uključujući i nedavno instalirane aplikacije.
+Na početnom zaslonu dodirnite Aplik. za otvaranje zaslona aplikacija. Za prikaz ostalih okvira
+prijeđite prstom ulijevo ili udesno.
+
+Premještanje stavki
+Ova funkcija možda neće biti dostupna ovisno o području i pružatelju usluga.
+Na zaslonu aplikacija dodirnite UREDI. Dodirnite i držite stavku, a zatim je premjestite na novu
+lokaciju.
+Za prebacivanje stavke na drugi okvir, povucite je do ruba zaslona.
+
+23
+
+Osnovne funkcije
+
+Kreiranje mapa
+Ova funkcija možda neće biti dostupna ovisno o području i pružatelju usluga.
+
+1	 Na zaslonu aplikacija dodirnite UREDI.
+2	 Dodirnite i držite aplikaciju, a zatim je prevucite preko druge aplikacije.
+3	 Ispustite aplikaciju kad se mapa okvira pojavi oko aplikacije.
+Kreirat će se nova mapa koja sadrži odabrane aplikacije.
+
+4	 Unesite naziv mape.
+Za izmjenu boje mape dodirnite
+
+.
+
+Za dodavanje više aplikacija u mapu, dodirnite i držite drugu aplikaciju te je povucite u mapu.
+
+24
+
+Osnovne funkcije
+
+Ikone za indikaciju
+Ikone za indikaciju pojavljuju se na statusnoj traci na vrhu zaslona. U donjoj tablici navedene su
+najčešće ikone.
+Traka stanja možda se neće pojaviti na zaslonu kod nekih aplikacija. Za prikaz statusne
+trake povucite prema dolje s vrha zaslona.
+Ikona
+
+Značenje
+Nema signala
+Jačina signala
+Roaming (izvan uobičajenog područja usluge)
+GPRS mreža je spojena
+EDGE mreža je spojena
+UMTS mreža je spojena
+HSDPA mreža je spojena
+HSPA+ mreža je spojena
+Wi-Fi je spojen
+Bluetooth funkcija je aktivirana
+GPS aktiviran
+Poziv u tijeku
+Propušteni poziv
+Nova SMS ili MMS poruka
+Alarm uključen
+
+25
+
+Osnovne funkcije
+
+Ikona
+
+Značenje
+Aktiviran način bez zvuka
+Aktiviran način vibracije
+Aktiviran način rada u zrakoplovu
+Pojavila se pogreška ili je potreban oprez
+Razina napunjenosti baterije
+
+Zaslon zaključavanja
+Pritiskom tipke za uključivanje i isključivanje isključuje se zaslon i zaključava se. Također, zaslon se
+isključuje i automatski zaključava ako se uređaj ne upotrebljava određeno vrijeme.
+Za otključavanje zaslona pritisnite tipku za uključivanje i isključivanje ili za početni zaslon i
+pomičite se u bilo kojem smjeru.
+
+Možete promijeniti način zaključavanja zaslona i tako drugima spriječiti pristup svojim osobnim
+podatcima.
+Na zaslonu aplikacija dodirnite Postavke → Zaslon zaklj. i sigurnost → Vrsta zaključavanja
+zaslona, a zatim odaberite način zaključavanja zaslona. Uređaj zahtjeva šifru za otključavanje
+svaki put kad ga trebate otključati.
+U slučaju da zaboravite šifru za otključavanje, donesite uređaj koji treba otključati u
+Samsungov servisni centar.
+
+Uzorak
+Ucrtajte uzorak povezivanjem četiri ili više točaka, te ponovno ucrtajte uzorak za potvrdu.
+Podesite sigurnosni PIN za otključavanje zaslona ako zaboravite uzorak za otključavanje.
+
+26
+
+Osnovne funkcije
+
+PIN
+PIN se sastoji samo od brojeva. Unesite barem četiri broja, a zatim ponovno unesite šifru za
+potvrdu.
+
+Lozinka
+Šifra se sastoji i od slova i od brojeva. Unesite barem četiri znaka uključujući brojeve i simbole, a
+zatim ponovno unesite šifru za potvrdu.
+
+Ploča obavijesti
+Uporaba okvira obavijesti
+Kada primite obavijest, poput poruka ili propuštenih poziva, na statusnoj traci pojavit će se ikone
+indikatora. Za više informacija o ikonama otvorite okvir obavijesti i pogledajte detalje.
+Za otvaranje okvira obavijesti povucite statusnu traku prema dolje. Za zatvaranje okvira
+obavijesti kližite na zaslonu prema gore.
+
+27
+
+Osnovne funkcije
+Na okviru obavijesti možete koristiti sljedeće funkcije.
+Reorganiziranje gumba brzih
+postavki.
+Pokrenite Postavke.
+
+Gumbi brzih postavki
+
+Prilagođavanje osvjetljenja.
+
+Povećajte osvjetljenje kako biste
+poboljšali vidljivost prilikom jakog
+osvjetljenja.
+
+Dodirnite obavijest i izvršite
+različite postupke.
+
+Brisanje svih obavijesti.
+
+Uporaba gumba brzih postavki
+Dodirnite gumbe za brze postavke za aktiviranje nekih funkcija. Za prikaz više gumbi kližite lijevo
+ili desno na području gumba. Za pregled detaljnijih postavki dodirnite i držite gumb.
+Za preraspoređivanje gumba dodirnite UREDI, dodirnite i držite gumb, a zatim ga povucite na
+drugu lokaciju.
+
+28
+
+Osnovne funkcije
+
+Unos teksta
+Prikaz tipkovnice
+Tipkovnica se automatski prikazuje kada unosite tekst za slanje poruka, kreirate zapise i sl.
+Unos teksta nije podržan u nekim jezicima. Za unos teksta trebate promijeniti jezik unosa
+na neki od podržanih jezika.
+
+Unos velikog slova. Za sva slova,
+dodirnite dva puta.
+
+Brisanje prethodnog znaka.
+
+Unos znakova interpunkcije.
+
+Prebacivanje u sljedeći redak.
+
+Promjena postavki tipkovnice.
+
+Unos razmaka.
+
+Promjene jezika unosa
+Dodirnite → Dodaj jezike unosa, a zatim odaberite jezik koji ćete koristiti. Ako odaberete
+dva ili više jezika, možete prebacivati između jezicka unosa pomicanjem razmaknice ulijevo ili
+udesno.
+
+Promjena prikaza tipkovnice
+Dodirnite
+koristiti.
+
+, odaberite jezik pod Unesite jezike, a zatim odaberite prikaz tipkovnice koji želite
+
+Na Tipkovnica 3x4, gumbi imaju tri ili četiri znaka. Za unos znaka odgovarajuću tipku
+dodirnite više puta dok se ne pojavi željeni znak.
+
+29
+
+Osnovne funkcije
+
+Dodatne funkcije tipkovnice
+Dodirnite i držite za upotrebu raznih funkcija. Druge ikone mogu se pojaviti umjesto
+ovisno o zadnjoj korištenoj funkciji.
+
+ikone
+
+• 	 : Glasovni unos teksta.
+
+Pokretanje ili prekidanje
+glasovnog unosa teksta.
+
+Otvaranje tipkovnice.
+
+• 	 : Unos emotikona.
+• 	
+
+: Promjena postavki tipkovnice.
+
+Kopiranje i lijepljenje
+
+1	 Dodirnite i držite iznad teksta.
+2	 Povucite ili za odabir željenog teksta ili dodirnite Odaberi sve za odabir cijelog teksta.
+3	 Dodirnite Kopiraj ili Reži.
+Odabrani tekst kopiran je u međuspremnik.
+
+4	 Dodirnite i držite gdje će se tekst umetnuti te dodirnite Zalijepi.
+
+30
+
+Osnovne funkcije
+
+Snimka zaslona
+Snimite snimku zaslona tijekom upotrebe uređaja.
+Istodobno pritisnite i držite tipku za početni zaslon i tipku za uključivanje i isključivanje. Možete
+pregledati snimljene slike u Galerija.
+Snimanje zaslona nije moguće tijekom uporabe nekih aplikacija i funkcija.
+
+Otvaranje aplikacija
+Na početnom zaslonu ili zaslonu aplikacije odaberite ikonu aplikacije i otvorite je.
+Za otvaranje aplikacije s popisa nedavno korištenih aplikacija dodirnite
+nedavno korištene aplikacije.
+
+i odaberite prozor
+
+Zatvaranje aplikacije
+Dodirnite
+i povucite prozor nedavno korištene aplikacije ulijevo ili udesno za zatvaranje
+aplikacije. Za zatvaranje svih pokrenutih aplikacija, dodirnite ZATVORI SVE.
+
+Uređaj i upravljanje podacima
+Prijenos podataka sa svojeg prethodnog uređaja
+Možete prenijeti podatke s prethodnog uređaja na vaš novi uređaj pomoću aplikacije Samsung
+Smart Switch.
+Dostupne su sljedeće verzije aplikacije Samsung Smart Switch.
+• 	Mobilna verzija: Prijenos podataka između mobilnih uređaja. Aplikaciju možete preuzeti iz
+Galaxy Apps ili Trg. Play.
+• 	Računalna verzija: Prijenos podataka između vašeg uređaja i računala. Aplikaciju možete
+preuzeti s www.samsung.com/smartswitch.
+• 	Samsung Smart Switch aplikacija nije podržana na nekim uređajima ili računalima.
+• 	Primjenjuju se ograničenja. Za detalje posjetite www.samsung.com/smartswitch.
+Samsung ozbiljno shvaća autorska prava. Prenosite samo onaj sadržaj na koji imate
+pravo.
+
+31
+
+Osnovne funkcije
+
+Prijenos podataka s mobilnog uređaja
+Prijenos podataka s vašeg prethodnog uređaja na vaš novi uređaj.
+Preuzmite i instalirajte aplikaciju Smart Switch iz trgovine Galaxy Apps ili Trg. Play.
+Pokrenite aplikaciju Smart Switch i slijedite upute na zaslonu kako biste prenijeli podatke s vašeg
+starog uređaja.
+
+Prijenos podataka s računala
+Sigurnosno kopirajte podatke sa svog prethodnog uređaja na računalo i uvezite podatke na svoj
+novi uređaj.
+
+1	 Na računalu posjetite www.samsung.com/smartswitch za preuzimanje aplikacije Smart
+Switch.
+
+2	 Na računalu pokrenite aplikaciju Smart Switch.
+Ako vaš prethodni uređaj nije Samsung uređaj, sigurnosno kopirajte podatke na računalo
+pomoću programa koji je isporučio proizvođač uređaja. Zatim prijeđite na peti korak.
+
+3	 Spojite svoj prethodni uređaj s računalom pomoću USB kabela.
+4	 Na računalu slijedite upute na zaslonu za sigurnosno kopiranje podataka s uređaja. Zatim
+odspojite svoj prethodni uređaj s računala.
+
+5	 Povežite svoj novi uređaj s računalom pomoću USB kabela.
+6	 Na računalu slijedite upute na zaslonu za prijenos podataka na novi uređaj.
+
+32
+
+Osnovne funkcije
+
+Uporaba uređaja kao izmjenjivog diska za prijenos podataka
+Prebacite audio, video, slikovne i druge vrste datoteka s uređaja na računalo i obrnuto.
+Nemojte odspajati USB kabel s uređaja dok se datoteke prenose. To može izazvati
+gubitak podataka ili oštetiti uređaj.
+Uređaji možda neće biti ispravno spojeni ako se spajaju putem USB adaptera. Izravno
+spojite uređaj na USB ulaz računala.
+
+1	 Spojite uređaj s računalom pomoću USB kabela.
+2	 Otvorite okvir s obavijestima, a zatim dodirnite Spojen kao medijski uređaj → Medijski
+uređaj (MTP).
+
+Dodirnite Fotoaparat (PTP) ako vaše računalo ne podržava Protokol za prijenos medija
+(MTP) ili nema instaliran odgovarajući upravljački program.
+
+3	 Prebacite datoteke između uređaja i računala.
+Ažuriranje uređaja
+Uređaj možete ažurirati s najnovijim verzijama softvera.
+
+Bežično ažuriranje
+Najnovija verzija softvera može se izravno ažurirati na uređaj putem usluge bežične nadogradnje
+softvera (FOTA).
+Na zaslonu aplikacija dodirnite Postavke → O uređaju → Aktualizacija softvera → Ručno
+preuzimanje aktualizacija.
+Da biste automatski provjerili ima li dostupnih ažuriranja, dodirnite prekidač Autom.
+preuzimanje aktualizacija za aktivaciju. Ažuriranja će biti preuzeta tek kada se uređaj
+poveže s mrežom Wi-Fi.
+
+33
+
+Osnovne funkcije
+
+Ažuriranje s aplikacijom Smart Switch
+Spojite uređaj na računalo i ažurirajte uređaj na najnoviju verziju softvera.
+
+1	 Na računalu posjetite www.samsung.com/smartswitch za preuzimanje i instaliranje
+aplikacije Smart Switch.
+
+2	 Na računalu pokrenite aplikaciju Smart Switch.
+3	 Spojite uređaj s računalom pomoću USB kabela.
+4	 Ako je ažuriranje softvera dostupno, slijedite upute na zaslonu kako biste ažurirali uređaj.
+• 	Nemojte isključivati računalo ili odspajati USB kabel dok se uređaj ažurira.
+• 	Tijekom ažuriranja uređaja ne spajajte druge medijske uređaje na računalo. Na taj
+način možete ometati postupak ažuriranja. Prije ažuriranja odspojite sve druge
+medijske uređaje s računala.
+
+Sigurnosno pohranjivanje i obnova podataka
+Zaštitite svoje osobne informacije, podatke o aplikacijama i postavke na uređaju. Svoje osjetljive
+informacije možete sigurnosno pohraniti na računu sigurnosne pohrane i pristupiti im kasnije.
+Morate se prijaviti u svoj račun za Google kako biste sigurnosno kopirali ili obnovili podatke. Više
+informacija pogledajte u Računi.
+
+Uporaba Google računa
+Na zaslonu aplikacija dodirnite Postavke → Sigurnosno kopiranje i poništavanje, a zatim
+dodirnite prekidač Pokreni sig. kopiju radi aktiviranja. Dodirnite Sigurnosno kopiranje računa i
+odaberite račun kao vaš račun sigurnosne pohrane.
+Dodirnite klizač Auto. vraćanje sigurnosne kopije kako biste ga uključili i napravili sigurnosnu
+kopiju pomoću računa za Google. Kada ponovno instalirate aplikacije, sigurnosno kopirane
+postavke i podaci bit će vraćeni.
+
+Vraćanje na zadane vrijednosti
+Brisanje svih postavki i podataka na uređaju. Prije vraćanja na tvorničke postavke, sigurnosno
+pohraniti kopije svih važnih podataka pohranjenih na uređaju. Više informacija pogledajte u
+Sigurnosno pohranjivanje i obnova podataka.
+Na zaslonu aplikacija dodirnite Postavke → Sigurnosno kopiranje i poništavanje → Vraćanje
+tvorničkih postavki → VRAĆANJE UREĐAJA → OBRIŠI SVE. Uređaj će se automatski ponovo
+pokrenuti.
+
+34
+
+Aplikacije
+Instaliranje ili deinstaliranje aplikacija
+Galaxy Apps
+Kupujte i preuzimajte aplikacije. Možete preuzeti aplikacije koje su specijalizirane za uređaje
+Samsung Galaxy.
+Dodirnite Galaxy Apps na zaslonu aplikacija.
+Ova aplikacija možda neće biti dostupna ovisno o području i pružatelju usluga.
+
+Instaliranje aplikacija
+Pretražite aplikacije po kategoriji ili dodirnite TRAŽI za pretraživanje pomoću ključne riječi.
+Odaberite aplikaciju za pregled informacija o njoj. Za preuzimanje besplatnih aplikacija dodirnite
+INSTALIRAJ. Za kupovinu i preuzimanje aplikacija koje se trebaju platiti, dodirnite cijenu i
+slijedite upute na zaslonu.
+→ Postavke →
+Za promjenu postavki automatskog ažuriranja dodirnite
+Automatsko ažuriranje aplikacija, a zatim odaberite opciju.
+
+Trg. Play
+Kupujte i preuzimajte aplikacije.
+Dodirnite Trg. Play na zaslonu aplikacija.
+
+Instaliranje aplikacija
+Pretražite aplikacije po kategoriji ili dodirnite polje za pretraživanje pomoću ključne riječi.
+Odaberite aplikaciju za pregled informacija o njoj. Za preuzimanje besplatnih aplikacija dodirnite
+INSTALIRAJ. Za kupovinu i preuzimanje aplikacija koje se trebaju platiti, dodirnite cijenu i
+slijedite upute na zaslonu.
+→ Postavke →
+Za promjenu postavki automatskog ažuriranja dodirnite
+Automatsko ažuriranje aplikacija, a zatim odaberite opciju.
+
+35
+
+Aplikacije
+
+Upravljanje aplikacijama
+Deinstaliranje ili deaktiviranje aplikacija
+Na zaslonu aplikacija dodirnite UREDI. Ikona
+pojavljuje se na aplikacijama koje možete
+deaktivirati ili deinstalirati. Odaberite aplikaciju i dodirnite ISKLJUČI ili DEINSTALIRAJ. Ili na
+zaslonu aplikacija dodirnite Postavke → Aplikacije → Upravljanje aplikacijama, odaberite
+aplikaciju, a zatim dodirnite ISKLJUČI ili DEINSTALIRAJ.
+• 	ISKLJUČI: Deaktiviranje odabranih zadanih aplikacija koje se ne mogu deinstalirati s uređaja.
+• 	DEINSTALIRAJ: Deinstaliranje preuzetih aplikacija.
+
+Aktiviranje aplikacija
+Na zaslonu aplikacija dodirnite Postavke → Aplikacije → Upravljanje aplikacijama, pomaknite
+se na ONEMOGUĆENO, odaberite aplikaciju i zatim dodirnite UKLJUČI.
+
+Telefon
+Uvod
+Uputite ili odgovorite na glasovne ili videopozive.
+
+Upućivanje poziva
+
+1	 Dodirnite Telefon na zaslonu aplikacija.
+2	 Unesite telefonski broj.
+Ako se tipkovnica ne pojavi na zaslonu dodirnite
+
+36
+
+kako biste otvorili tipkovnicu.
+
+Aplikacije
+
+3	 Dodirnite
+
+za upućivanje poziva ili dodirnite
+
+za upućivanje videopoziva.
+Pristup dodatnim opcijama.
+
+Dodavanje broja popisu
+kontakata.
+
+Predprikaz telefonskog broja.
+Brisanje prethodnog znaka.
+
+Sakrijte tipkovnicu.
+
+Upućivanje poziva sa zaključanog zaslona
+Na zaključanom zaslonu povucite
+
+izvan velikog kruga.
+
+Upućivanje poziva iz zapisa poziva ili s popisa kontakata
+Dodirnite ZAPIS ili IMENIK, a zatim se pomaknite udesno na kontakt ili telefonski broj za
+upućivanje poziva.
+
+Uspostavljanje međunarodnog poziva
+
+1	 Dodirnite da biste otvorili tipkovnicu ako se tipkovnica ne pojavi na zaslonu.
+2	 Dodirnite i držite 0 dok se ne pojavi znak +.
+3	 Unesite pozivni broj države, grada i telefonski broj te dodirnite .
+
+37
+
+Aplikacije
+
+Primanje poziva
+Odgovaranje na poziv
+Za dolazne pozive, povucite
+
+izvan velikog kruga.
+
+Odbijanje poziva
+Za dolazne pozive, povucite
+
+izvan velikog kruga.
+
+Za slanje poruke prilikom odbacivanja dolaznog poziva, povucite prema gore traku poruke
+odbacivanja.
+Kako biste stvorili različite poruke odbacivanja, otvorite zaslon aplikacija i dodirnite Telefon →
+VIŠE → Postavke → Blokiranje poziva → Poruke pri odb. poziva, unesite poruku odbacivanja i
+zatim dodirnite .
+
+Propušteni pozivi
+Ako je poziv propušten, ikona
+pojavit će se na statusnoj traci. Otvorite okvir s obavijestima za
+pregled popisa propuštenih poziva. Ili na zaslonu aplikacija dodirnite Telefon → ZAPIS za prikaz
+propuštenih poziva.
+
+38
+
+Aplikacije
+
+Opcije tijekom poziva
+Tijekom glasovnog poziva
+Dostupne su sljedeće aktivnosti:
+• 	Dodaj poziv: Upućivanje drugog poziva.
+• 	Dod. glasn.: Povećavanje glasnoće.
+• 	Bluetooth: Prebacuje se na Bluetooth slušalicu ako je spojena na uređaj.
+• 	Zvučnik: Aktiviranje ili deaktiviranje zvučnika. Držite uređaj podalje od ušiju kada koristite
+zvučnik.
+• 	Tipke / Sakrij: Otvorite ili zatvorite tipkovnicu.
+• 	Bešumno: Isključuje mikrofon, tako da vas sugovornik ne može čuti.
+• 	E-pošta: Slanje e-pošte.
+• 	Poruka: Šalje poruku.
+• 	Internet: Pretražite internetske stranice.
+• 	Imenik: Otvara popis kontakata.
+• 	S Planer: Otvorite kalendar.
+• 	Zapis: Stvaranje zapisa.
+• 	
+
+: Završite trenutni poziv.
+
+Tijekom video poziva
+Dodirnite zaslon i koristite sljedeće opcije:
+• 	Promij.: Prebacite s prednje na stražnju kameru.
+• 	
+
+: Završite trenutni poziv.
+
+• 	Bešumno: Isključuje mikrofon, tako da vas sugovornik ne može čuti.
+
+39
+
+Aplikacije
+
+Imenik
+Uvod
+Kreirajte nove kontakte ili upravljajte kontaktima na uređaju.
+
+Dodavanje kontakata
+Ručno kreiranje kontakata
+
+1	 Dodirnite Imenik na zaslonu aplikacija.
+2	 Dodirnite i odaberite mjesto pohrane.
+3	 Unesite kontaktne podatke.
+• 	
+• 	
+
+: Umetanje slike.
+/
+
+: Dodaje ili briše polje kontakta.
+
+4	 Dodirnite SPREMI.
+Za dodavanje telefonskog broja na popisa kontakata pomoću tipkovnice, otvorite zaslon
+aplikacija i dodirnite Telefon. Ako se tipkovnica ne pojavi na zaslonu dodirnite
+kako biste
+otvorili tipkovnicu. Unesite broj i dodirnite Dodaj u Imenik.
+Kako biste dodali telefonski broj na popis kontakata s kojeg ste primili poziv ili poruku, otvorite
+zaslon aplikacija i dodirnite Telefon → ZAPIS → kontakt → NOVI KONTAKT.
+
+Uvoz kontakata
+Uvezite kontakte s uređaja za pohranu na svoj uređaj.
+Na zaslonu aplikacija dodirnite Imenik → VIŠE → Postavke → Uvoz/izvoz imenika → UVOZ, a
+zatim odaberite opciju uvoza.
+
+40
+
+Aplikacije
+
+Traženje kontakata
+Na zaslonu aplikacija dodirnite Imenik.
+Koristite jednu od ovih metoda pretraživanja:
+• 	Pomaknite se gore ili dolje po popisu kontakata.
+• 	Dodirnite polje pretrage na vrhu popisa kontakata i unesite kriterij pretrage.
+Jednom kad je kontakt odabran, odaberite nešto od navedenog:
+• 	
+
+: Dodajte omiljeni kontakt.
+
+• 	 /
+
+: Uputite glasovni ili video poziv.
+
+• 	
+
+: Sastavite poruku.
+
+• 	
+
+: Sastavite e-poštu.
+
+Poruke
+Uvod
+Šaljite i pregledavajte poruke razgovorom.
+
+Slanje poruka
+Ako ste izvan područja domaćeg operatera, može doći do povećanja troškova slanja
+poruka.
+
+1	 Dodirnite Poruke na zaslonu aplikacija.
+2	 Dodirnite .
+
+41
+
+Aplikacije
+
+3	 Dodajte primatelje i unesite poruku.
+Pristup dodatnim opcijama.
+Unos primatelja.
+Odabir kontakata s popisa
+kontakata.
+Unos poruke.
+Dodavanje datoteka.
+
+Slanje poruke.
+
+4	 Dodirnite ŠALJI za slanje poruke.
+Pregled poruka
+Poruke su grupirane u nizove poruka prema kontaktu.
+Ako ste izvan područja domaćeg operatera, može doći do povećanja troškova primanja
+poruka.
+
+1	 Dodirnite Poruke na zaslonu aplikacija.
+2	 Na popisu poruka odaberite kontakt.
+3	 Pregledajte svoj razgovor.
+
+42
+
+Aplikacije
+
+Internet
+Pregledavajte Internet radi pretraživanja informacija i označite omiljene internetske stranice kako
+biste im lako pristupili.
+
+1	 Dodirnite Internet na zaslonu aplikacija.
+2	 Dodirnite adresno polje.
+3	 Unesite Internet adresu ili ključnu riječ, a zatim dodirnite Idi.
+Za prikaz alatnih traka, lagano povucite prstom prema dolje po zaslonu.
+Pristup dodatnim opcijama.
+
+Osvježavanje trenutne internetske
+stranice.
+
+Otvaranje početne stranice.
+
+Prikaz oznaka, spremljenih
+internetskih stranica i nedavne
+povijesti.
+Otvaranje upravitelja kartica
+preglednika.
+
+Prebacivanje na prije posjećenu
+stranicu.
+
+43
+
+Aplikacije
+
+Email
+Postavljanje računa e-pošte
+Postavite račun e-pošte kad prvi put otvorite Email.
+
+1	 Dodirnite Email na zaslonu aplikacija.
+2	 Unesite adresu e-pošte i lozinku, a potom dodirnite DALJE.
+Za ručni upis računa e-pošte tvrtke dodirnite RUČNO POSTAVLJ.
+
+3	 Slijedite upute na zaslonu kako biste dovršili postupak postavljanja.
+Za postavljanje drugog računa e-pošte dodirnite VIŠE → Postavke → Dodaj račun.
+Ako imate više računa e-pošte, možete jedan postaviti kao zadani račun. Dodirnite VIŠE →
+Postavke → VIŠE → Postavi zadani račun.
+
+Slanje poruka e-pošte
+
+1	 Dodirnite za sastavljanje poruke e-pošte.
+2	 Dodajte primatelje i unesite tekst poruke e-pošte.
+3	 Dodirnite POŠALJI za slanje pošte.
+Čitanje poruka e-pošte
+Na popisu poruka e-pošte dodirnite poruku za čitanje.
+
+44
+
+Aplikacije
+
+Kamera
+Uvod
+Snimajte fotografije ili videozapise koristeći razne načine i postavke.
+
+Osnovno snimanje
+Možete snimati fotografije ili videozapise. Pregledajte svoje fotografije i videozapise u Galerija.
+Dodirnite Kamera na zaslonu aplikacija.
+Pravila rada s kamerom
+• 	Ne snimajte fotografije ili videozapise na kojima su drugi ljudi ako vam nisu to dozvolili.
+• 	Ne snimajte fotografije ili videozapise gdje je to zakonom zabranjeno.
+• 	Ne snimajte fotografije ili videozapise na mjestima gdje možete povrijediti privatnost drugih
+ljudi.
+
+Snimanje fotografija ili snimanje videozapisa
+
+1	 Dodirnite sliku na zaslonu prikaza na mjesto na koje se kamera treba fokusirati.
+2	 Dodirnite za snimanje fotografije ili dodirnite za snimanje videozapisa.
+• 	Raširite dva prsta na zaslonu za povećanje zuma, a skupite ih za smanjenje zuma.
+• 	Za snimanje slike iz videozapisa tijekom snimanja videozapisa, dodirnite Snimanje.
+• 	Za promjenu fokusa tijekom snimanja videozapisa, dodirnite gdje se želite fokusirati. Za
+fokusiranje na središte zaslona, dodirnite .
+Trenutačan način
+
+Prikaz minijature
+
+Sakrivanje ili
+prikazivanje ikona
+postavki.
+
+Snimanje
+videozapisa.
+
+Brze postavke
+
+Snimite fotografiju.
+Prebacite s prednje
+na stražnju kameru.
+
+Postavke kamere
+
+Način fotografiranja
+
+45
+
+Aplikacije
+Na zaslonu prikaza kližite na desno za pristup popisu načina snimanja. Ili kližite prema lijevo za
+pregled fotografija i videozapisa koje ste snimili.
+• 	Zaslon prikaza može se razlikovati ovisno o načinu snimanja i kameri koju koristite.
+• 	Kad se ne koristi, kamera se automatski isključuje.
+• 	Provjerite je li objektiv čist. U protivnom, uređaj neće ispravno raditi u načinima rada
+koji zahtijevaju visoku rezoluciju.
+• 	Prednja je kamera opremljena lećama širokog kuta snimanja. Kod širokokutnih
+fotografija može se u manjoj mjeri pojaviti određena izobličenost, ali to ne znači kako
+je riječ o neispravnim performansama uređaja.
+
+Pokretanje kamere na zaključanom zaslonu
+Za brzo snimanje fotografija pokrenite Kamera na zaključanom zaslonu.
+Na zaključanom zaslonu povucite
+
+izvan velikog kruga.
+
+• 	Ova funkcija možda neće biti dostupna ovisno o području i pružatelju usluga.
+• 	Neke funkcije kamere nisu dostupne kad pokrenete Kamera sa zaključanog ekrana
+dok su aktivirane sigurnosne funkcije.
+
+Brzo pokretanje kamere
+Dvaput brzo pritisnite tipku za početni zaslon za pokretanje Kamera. Kamera se uvijek pokreće u
+automatskom načinu rada.
+Neke funkcije kamere nisu dostupne kad pokrenete Kamera sa zaključanog ekrana ili
+kad je zaslon isključen dok su aktivirane sigurnosne funkcije.
+
+Zaključavanje fokusa i ekspozicije
+Jak kontrast između svijetlog i tamnog te pozicija subjekta izvan područja automatskog fokusa
+mogu otežati postizanje odgovarajuće ekspozicije. Zaključajte fokus ili ekspoziciju, a zatim
+fotografirajte.
+Dodirnite i držite područje koje želite fokusirati, pojavit će se okvir AF/AE i fokus i ekspozicija bit
+će zaključani.
+Postavka ostaje zaključana čak i nakon što fotografirate.
+Ova značajka je dostupna samo u nekim načinima snimanja.
+
+46
+
+Aplikacije
+
+Auto način
+Automatski način omogućuje kameri procjenu okruženja te određivanje idealnog načina
+fotografiranja.
+Na zaslonu prikaza dodirnite NAČIN → Auto.
+
+Način rada Pro
+Fotografirajte i ručno podešavajte različite opcije snimanja kao što su vrijednost ekspozicije i ISO
+vrijednost.
+Na zaslonu prikaza dodirnite NAČIN → Profesionalno. Odaberite opcije i prilagodite postavke, a
+zatim dodirnite
+za snimanje fotografija.
+• 	
+
+: Odaberite odgovarajući balans bijele boje, kako bi slike imale realan raspon boja.
+
+• 	
+: Odaberite ISO vrijednost. Ova opcija kontrolira osjetljivost kamere na svjetlost. Male
+vrijednosti služe za nepokretne ili jako osvijetljene objekte. Velike vrijednosti služe za brze
+ili slabo osvijetljene objekte. Međutim, više ISO postavke mogu rezultirati zamućenim
+fotografijama.
+• 	 : Promjena vrijednosti ekspozicije. Određuje količinu svjetla koju prihvaća senzor kamere.
+Za situacije sa slabim osvjetljenjem koristite visoku ekspoziciju.
+
+Panorama
+Snimite niz fotografija horizontalno ili vertikalno i zatim ih zalijepite kako biste kreirali široki
+prikaz.
+Na zaslonu prikaza dodirnite NAČIN → Panorama.
+Za najbolje snimke dobivene panoramskom načinom slijedite donje savjete:
+• 	Polako pomaknite kameru u jednom smjeru.
+• 	Sliku držite unutar okvira na optičkom tražilu kamere.
+• 	Izbjegavajte snimanje fotografija s neizraženim pozadinama, kao što je čisto nebo ili
+obični zid.
+
+47
+
+Aplikacije
+
+Uzast. snim.
+Snimite niz fotografija objekata u pokretu.
+Na zaslonu prikaza dodirnite NAČIN → Uzast. snim.
+Dodirnite i držite
+
+kako biste snimili uzastopno nekoliko fotografija.
+
+Lijepo lice
+Snima fotografiju s prosvijetljenim licem za suptilnije slike.
+Na zaslonu prikaza dodirnite NAČIN → Lijepo lice.
+
+Autoportret
+Snimajte autoportrete prednjom kamerom.
+
+1	 Na zaslonu prikaza dodirnite za prebacivanje na prednju kameru za autoportrete.
+2	 Dodirnite NAČIN → Autoportret.
+3	 Okrenite se prema leći prednje kamere.
+4	 Kada uređaj prepozna vaše lice, dodirnite zaslon kako biste se samostalno slikali.
+Za snimanje fotografije korištenjem dlana dodirnite i dodirnite prekidač Upravljanje
+gestama za aktiviranje. Pokažite dlan prema prednjoj kameri. Uređaj snima fotografiju
+nekoliko sekunda nakon prepoznavanja vašeg dlana.
+
+Zvuk i snimka
+Slikajte fotografiju sa zvukom. Uređaj prepoznaje fotografije s pomoću
+Na zaslonu prikaza dodirnite NAČIN → Zvuk i snimka.
+
+Sport
+Slikajte fotografiju predmeta koji se brzo pomiču.
+Na zaslonu prikaza dodirnite NAČIN → Sport.
+
+48
+
+u Galerija.
+
+Aplikacije
+
+HDR (Bogati ton)
+Snimanje fotografija bogatih boja i reproduciranje detalja čak i na svijetlim i tamnim područjima.
+Na zaslonu prikaza dodirnite NAČIN → HDR (Bogati ton).
+
+Bez efekta
+
+S efektom
+
+Postavke kamere
+Brze postavke
+Na zaslonu prikaza koristite sljedeće brze postavke.
+Dostupne opcije mogu se razlikovati ovisno o načinu snimanja i kameri koju koristite.
+• 	
+
+: Odaberite filtar efekta za upotrebu pri snimanju fotografija ili videozapisa.
+
+• 	
+
+: Odaberite trajanje odgode prije nego što kamera automatski snimi fotografiju.
+
+• 	
+
+: Koristite kliznu traku za snimanje fotografije s osvijetljenim i suptilnijim izrazima lica.
+
+• 	 : Aktiviranje ili deaktiviranje bljeskalice.
+
+49
+
+Aplikacije
+
+Postavke kamere
+Na zaslonu prikaza dodirnite
+
+.
+
+Dostupne opcije mogu se razlikovati ovisno o načinu snimanja i kameri koju koristite.
+• 	Veličina foto. (straž.) / Veličina foto. (prednja): Odaberite razlučivost za fotografije.
+Korištenjem visoke rezolucije postići će se kvalitetnije fotografije, no one će zauzeti više
+memorije.
+• 	Veličina video. (straž.) / Veličina video. (prednja): Odaberite razlučivost za videozapise.
+Korištenjem visoke rezolucije postići će se kvalitetniji videozapisi, no oni će zauzeti više
+memorije.
+• 	Upravljanje gestama: Podesite uređaj da prepozna vaš dlan kako biste mogli snimati
+autoportrete.
+• 	Spremi slike kao pregledane: Kada snimate fotografije prednjom kamerom, okrenite sliku
+kako biste napravili zrcalnu sliku izvornog prizora.
+• 	Rešetkaste linije: Prikazuje smjernice tražila kao pomoć pri kompoziciji kad se odabiru
+objekti snimanja.
+• 	Lokacijske oznake: Dodaje GPS oznaku lokacije na fotografiju.
+• 	Snaga GPS signala može se smanjiti na mjestima gdje dolazi do ometanja signala, kao
+što su mjesta između zgrada ili nizine, ili snimanje pri lošim vremenskim uvjetima.
+• 	Vaša lokacija može se pojaviti na fotografijama kada ih pošaljete na internet. Da biste
+to izbjegli, isključite postavku označavanja lokacije.
+• 	Pregledaj slike: Podesite uređaj za prikaz fotografija nakon što su snimljene.
+• 	Brzo pokretanje: Postavite uređaj za brzo pokretanje kamere brzim pritiskom na tipku za
+početni zaslon.
+• 	Mjesto spremanja: Odabir memorijske lokacije za pohranu.
+• 	Funkc. tipki za glasnoću: Postavite uređaj za upotrebu tipke glasnoće radi upravljanja
+funkcijom okidača ili zumiranja.
+• 	Poništavanje postavki: Poništavanje postavki kamere.
+
+50
+
+Aplikacije
+
+Galerija
+Uvod
+Pregledajte i upravljajte fotografijama i videozapisima pohranjenima u uređaju.
+
+Prikazivanje slika ili videozapisa
+
+1	 Dodirnite Galerija na zaslonu aplikacija.
+2	 Odaberite sliku ili videozapis.
+Datoteke videozapisa prikazuju
+dodirnite .
+
+ikonu u prikazu minijatura. Za reprodukciju videozapisa
+
+Prebacivanje na prethodni zaslon.
+
+Više opcija
+
+Podijeli sliku s drugima.
+
+Mijenjanje slike.
+Brisanje slike.
+
+Za skrivanje ili prikazivanje izbornika dodirnite zaslon.
+
+51
+
+Aplikacije
+
+Brisanje slika ili videozapisa
+Brisanje slike ili videozapisa
+Odaberite sliku ili videozapis i dodirnite Obriši na vrhu zaslona.
+
+Višestruko brisanje slika i videozapisa
+
+1	 Na glavnom ekranu galerije i dodirnite i držite sliku ili videozapis za brisanje.
+2	 Označite slike ili videozapise za brisanje.
+3	 Dodirnite OBRIŠI.
+
+Pametni upravitelj
+Uvod
+Pametni upravitelj omogućuje pregled statusa baterije uređaja, skladištenja, RAM i sigurnosti
+sustava. Također možete automatski optimirati uređaj jednim dodirom prsta.
+
+52
+
+Aplikacije
+
+Uporaba funkcije brzog optimiranja
+Na zaslonu aplikacija dodirnite Pametni upravitelj → OČISTI SVE.
+Funkcija brzog optimiranja popravlja funkcioniranje uređaja sljedećim postupcima.
+• 	Identificiranje aplikacija koje koriste previše snage baterije i brisanje dijela memorije.
+• 	Brisanje neželjenih datoteka i zatvaranje aplikacija koje rade u pozadini.
+• 	Skeniranje u potrazi za zlonamjernim softverom.
+
+Korištenje Pametnog upravitelja
+Na zaslonu aplikacija dodirnite Pametni upravitelj i odaberite funkciju.
+
+Baterija
+Provjerite preostalu snagu baterije i vrijeme korištenja uređaja. Za uređaje s niskom razinom
+napunjenosti baterije sačuvajte snagu baterije aktiviranjem funkcije uštede energije i
+zatvaranjem aplikacija koje troše prekomjernu količinu snage baterije.
+Preostalo vrijeme korištenja pokazuje vrijeme preostalo prije nego se snaga baterije
+istroši. Preostalo vrijeme može se razlikovati ovisno o postavkama i uvjetima rada vašeg
+uređaja.
+
+Memorija
+Provjerite status iskorištenog i raspoloživog kapaciteta baterije. Možete obrisati nekorištene i
+zaostale datoteke ili deinstalirati aplikacije koje više ne koristite.
+
+RAM
+Provjerite količinu dostupnog RAM-a. Možete zatvoriti pozadinske aplikacije i smanjiti količinu
+RAM-a koji koristite kako biste ubrzali uređaj.
+
+Sigurnost uređaja
+Provjerite status sigurnosti uređaja. Ova značajka skenira uređaj u potrazi za zlonamjernim
+softverom.
+
+53
+
+Aplikacije
+
+S Planer
+Uvod
+Upravljajte svojim rasporedom unošenjem nadolazećih događaja ili zadataka u svoj planer.
+
+Kreiranje događaja
+
+1	 Dodirnite S Planer na zaslonu aplikacija.
+2	 Dodirnite ili dvaput dodirnite datum.
+Ako su na taj datum već spremljeni događaji ili zadaci dodirnite datum i dodirnite
+
+.
+
+3	 Unesite detalje o događanjima.
+Unos naslova.
+
+Podesite početni i završni datum
+događaja.
+Odabir kalendara koji će se
+koristiti ili s kojim će se izvršiti
+sinkronizacija.
+
+Podešavanje alarma.
+Unesite lokaciju događaja.
+Dodavanje više detalja.
+
+4	 Dodirnite SPREMI za spremanje događanja.
+
+54
+
+Aplikacije
+
+Kreiranje zadataka
+
+1	 Dodirnite S Planer na zaslonu aplikacija.
+2	 Dodirnite → Obaveze.
+3	 Unesite detalje zadatka i dodirnite DANAS ili SUTRA kako biste postavili rok.
+Za dodavanje više detalja dodirnite
+
+.
+
+4	 Dodirnite SPREMI za spremanje zadatka.
+Sinkronizacija događanja i zadataka s vašim računima
+Na zaslonu aplikacija dodirnite Postavke → Računi, odaberite uslugu računa, a zatim dodirnite
+prekidač Sinkronizacija Kalendar za sinkroniziranje događanja i zadataka s računom.
+Za dodavanje računa s kojima će se sinkronizirati otvorite zaslon aplikacija i dodirnite S Planer
+→ VIŠE → Upravljaj kalendarima → Dodaj račun. Zatim odaberite račun s kojim želite
+sinkronizirati i prijavite se.
+
+55
+
+Aplikacije
+
+Video
+Gledajte videozapise pohranjene u uređaju i prilagodite postavke reprodukcije.
+Dodirnite Video na zaslonu aplikacija.
+Odaberite video za reproducirati.
+Pristup dodatnim
+opcijama.
+Pauziranje i nastavak
+reprodukcije.
+
+Prebacivanje prema
+naprijed ili natrag
+povlačenjem trake.
+
+Izmjena omjera
+zaslona.
+
+Prilagodba glasnoće
+zvuka.
+Prebacivanje na
+sljedeći videozapis.
+Dodirnite i držite za
+brzo prebacivanje
+unaprijed.
+
+Prebacivanje na
+prethodni videozapis.
+Dodirnite i držite za
+brzo prebacivanje
+unatrag.
+
+56
+
+Aplikacije
+
+Diktafon
+Koristite ovu aplikaciju za snimanje ili reproduciranje glasovnih snimki.
+
+1	 Na zaslonu aplikacija dodirnite Tools → Diktafon.
+2	 Dodirnite za početak snimanja. Govorite u mikrofon.
+Dodirnite Pauza za stanku u snimanju.
+Dodirnite Odbij poziv kako bi tijekom snimanja glasovne snimke dolazni pozivi bili
+automatski odbijeni.
+
+Započnite sa snimanjem.
+
+3	 Dodirnite
+
+za završetak snimanja.
+
+57
+
+Aplikacije
+
+Moje datoteke
+Pristupite i upravljajte različitim datotekama koje su pohranjene na uređaju.
+Na zaslonu aplikacija dodirnite Tools → Moje datoteke.
+• 	Kategorija: Prikaz datoteka po kategorijama.
+• 	Lokalna memorija: Prikaz datoteka pohranjenih u uređaju.
+• 	ISKORIŠTENA MEMORIJA: Pregledajte informacije o pohrani vašeg uređaja.
+Kako biste pretraživali datoteke ili mape, dodirnite TRAŽI.
+
+Zapis
+Kreirajte zapise i organizirajte ih po kategorijama.
+Na zaslonu aplikacija dodirnite Tools → Zapis.
+
+Sastavljanje zapisa
+Dodirnite
+
+na popisu zapisa i unesite zapis. Prilikom sastavljanja zapisa koristite sljedeće opcije:
+
+• 	Kategorija: Kreiranje ili podešavanje kategorije.
+• 	Slika: Umetanje slika.
+• 	Glas: Snimanje glasa za umetanje.
+• 	Zadaci: Dodajte kućice za označavanje na početku svakog reda za kreiranje popisa zadataka.
+Za spremanje zapisa dodirnite SPREMI.
+Za uređivanje zapisa, dodirnite zapis, a zatim dodirnite sadržaj zapisa.
+
+Traženje zapisa
+Dodirnite TRAŽI na popisu zapisa i unesite ključnu riječ za pretraživanje zapisa koji uključuju tu
+ključnu riječ.
+
+58
+
+Aplikacije
+
+Sat
+Uvod
+Namjestite alarme, provjerite trenutačno točno vrijeme u mnogim gradovima diljem svijeta,
+odredite vrijeme nekom događanju ili postavite određeno trajanje.
+
+Alarm
+Na zaslonu aplikacija dodirnite Sat → Alarm.
+
+Postavljanje alarma
+Dodirnite DODAJ na popisu alarma, podesite vrijeme alarma, odaberite dane kad će se alarm
+ponavljati, podesite različite opcije alarma, a zatim dodirnite SPREMI.
+Za otvaranje tipkovnice kako biste unijeli vrijeme alarma, dodirnite TIPKOVNICA.
+Za aktiviranje ili deaktiviranje alarma dodirnite ikonu sata pored alarma na popisu alarma.
+
+Zaustavljanje alarma
+Dodirnite PREKID za zaustavljanje alarma. Ako ste prethodno omogućili opciju odgađanja
+dodirnite ODGOĐENO za ponavljanje alarma nakon određenog vremenskog razmaka.
+
+Brisanje alarma
+Dodirnite
+
+na alarmu na popisu alarma.
+
+Svjetsko vrijeme
+Na zaslonu aplikacija dodirnite Sat → Svjetsko vrijeme.
+
+Kreiranje satova
+Dodirnite DODAJ pa unesite naziv grada ili odaberite grad s popisa gradova.
+
+Brisanje satova
+Dodirnite
+
+na satu.
+
+59
+
+Aplikacije
+
+Štoperica
+
+1	 Na zaslonu aplikacija dodirnite Sat → Štoperica.
+2	 Dodirnite POČETAK za mjerenje trajanja događaja.
+Za snimanje vremena krugova tijekom mjerenja vremena na događaju dodirnite KRUG.
+
+3	 Dodirnite ZAUSTAVI za prekidanje brojanja vremena.
+Za poništavanje vremena krugova dodirnite NASTAVI.
+Za brisanje memoriranih vremena dodirnite PONIŠTI.
+
+Odbrojavanje
+
+1	 Na zaslonu aplikacija dodirnite Sat → Odbrojavanje.
+2	 Podesite trajanje, a zatim dodirnite POČETAK.
+Za otvaranje tipkovnice kako biste unijeli trajanje, dodirnite TIPKOVNICA.
+
+3	 Dodirnite PREKID kad se odbrojavanje završi.
+
+Kalkulator
+Obavite jednostavne ili složene matematičke operacije.
+Dodirnite Kalkulator na zaslonu aplikacija.
+Rotirajte uređaj u vodoravni prikaz za prikaz znanstvenog kalkulatora. Ako je Rotacija zaslona
+onemogućeno otvorite okvir obavijesti i dodirnite Rotacija zaslona radi aktivacije.
+Za pregled povijesti izračuna dodirnite POVIJEST. Za zatvaranje povijesti izračuna dodirnite
+TIPKOVNICA.
+Za brisanje povijesti, dodirnite POVIJEST → IZBRIŠI POVIJEST.
+
+60
+
+Aplikacije
+
+Radio
+Slušanje FM radija
+Dodirnite Radio na zaslonu aplikacija.
+Prije upotrebe ove aplikacije morate priključiti slušalice koje služe kao radijska antena.
+FM radio automatski pretražuje i pohranjuje dostupne postaje prilikom prvog
+pokretanja.
+Dodirnite
+za uključivanje FM radija. Odaberite radijsku postaju koju želite s popisa radijskih
+postaja i dodirnite
+za povratak na zaslon FM radija.
+Pretražujte i spremite automatski
+dostupne stanice.
+Pristup dodatnim opcijama.
+
+Snimanje pjesme s FM radija.
+
+Dodajte trenutačnu radiopostaju
+popisu omiljenih postaja.
+
+Ručno unesite frekvenciju radio
+postaje.
+
+Precizno namjestite frekvenciju.
+
+Uključivanje ili isključivanje FM
+radija.
+Pregledajte popis dostupnih
+postaja.
+Tražite dostupnu radiopostaju.
+
+61
+
+Aplikacije
+
+Pretraživanje radijskih postaja
+Dodirnite Radio na zaslonu aplikacija.
+Dodirnite SKENIRAJ, a zatim odaberite način pretraživanja. FM radio skenira i automatski sprema
+dostupne postaje.
+Odaberite radijsku postaju koju želite s popisa radijskih postaja i dodirnite
+zaslon FM radija.
+
+za povratak na
+
+Google aplikacije
+Google pruža zabavu, društvenu mrežu i poslovne aplikacije. Možda će vam biti potreban Google
+račun za pristup nekim aplikacijama. Više informacija pogledajte u Računi.
+Za prikaz više informacija o aplikacijama uđite u izbornik za pomoć u svakoj aplikaciji.
+Neke aplikacije možda neće biti dostupne ili mogu biti različito označene ovisno o
+području i pružatelju usluga.
+
+Chrome
+Pretražujte informacije i pregledavajte mrežne stranice.
+
+Gmail
+Šaljite ili primajte e-poštu putem usluge Google Mail.
+
+Karte
+Pronađite svoju lokaciju na karti, pretražujte lokacije i pogledajte informacije o lokaciji o raznim
+mjestima.
+
+Play glazba
+Otkrijte, slušajte i dijelite glazbu na svojem uređaju.
+
+62
+
+Aplikacije
+
+Play filmovi
+Gledajte videozapise pohranjene na vašem uređaju i preuzmite razne sadržaje za gledanje iz
+aplikacije Trg. Play.
+
+Disk
+Spremite svoje sadržaje u oblaku, pristupite im od bilo kuda i podijelite ih s drugima.
+
+YouTube
+Gledajte ili kreirajte videozapise i podijelite ih s drugima.
+
+Fotografije
+Na jednom mjestu pretražite, upravljajte i uređujte slike i videozapise iz različitih izvora.
+
+Hangouts
+Čavrljajte s prijateljima pojedinačno ili u grupama te se koristite slikama, emotikonima i
+videopozivima dok čavrljate.
+
+Google
+Brzo pretražujte stavke na internetu ili svojem uređaju.
+
+Glas. pretraživanje
+Brzo pretražujte stavke izgovaranjem ključne riječi ili fraze.
+
+Postavke usluge Google
+Konfigurirajte postavke za neke funkcije koje pruža Google.
+
+63
+
+Postavke
+Uvod
+Prilagodite postavke za funkcije i aplikacije. Možete više personalizirati uređaj konfiguriranjem
+brojnih opcija postavki.
+Na zaslonu aplikacija dodirnite Postavke.
+Za traženje postavki na temelju unesenih ključnih riječi dodirnite TRAŽI.
+Za uređivanje popisa često korištenih postavki dodirnite UREDI. Zatim označite stavke koje ćete
+dodati ili odznačite stavke koje ćete ukloniti.
+
+Wi-Fi
+Povezivanje s Wi-Fi mrežom
+Aktivirajte Wi-Fi značajku za spajanje na Wi-Fi mrežu i pristupanje internetu ili drugim mrežnim
+uređajima.
+Kad ne koristite Wi-Fi isključite ga zbog uštede potrošnje baterije.
+
+1	 Na zaslonu postavki dodirnite Wi-Fi, a zatim dodirnite prekidač za aktivaciju.
+2	 Odaberite mrežu u mrežnom popisu Wi-Fi.
+Mreže koje zahtijevaju unos šifre pojavit će se s ikonom lokota.
+
+3	 Dodirnite SPOJI.
+Jednom kada se uređaj spoji s Wi-Fi mrežom, uređaj će se ponovno spajati s tom mrežom
+svaki put kada je dostupna, bez traženja lozinke. Radi sprječavanja automatskog spajanja
+s mrežom, odaberite je s popisa mreža i dodirnite ZABORAVI.
+
+64
+
+Postavke
+
+Wi-Fi Direct
+Wi-Fi Direct izravno povezuje dva uređaja preko Wi-Fi mreže bez potrebe za pristupnim točkama.
+
+1	 Na zaslonu postavki dodirnite Wi-Fi, a zatim dodirnite prekidač za aktivaciju.
+2	 Dodirnite Wi-Fi Direct.
+Otkriveni uređaji prikazani su na popisu.
+Ako uređaj s kojim se želite povezati nije na popisu, zatražite da uređaj uključi opciju Wi-Fi
+Direct.
+
+3	 Odaberite uređaj s kojim se želite spojiti.
+Uređaji će se povezati kad drugi uređaj prihvati zahtjeve za povezivanjem s Wi-Fi Direct.
+
+Slanje i primanje podataka
+S drugim uređajima možete podijeliti podatke poput kontakata ili medijskih datoteka. Sljedeći
+postupci su primjer slanja slike na drugi uređaj.
+
+1	 Dodirnite Galerija na zaslonu aplikacija.
+2	 Odaberite sliku.
+3	 Dodirnite Dijeli → Wi-Fi Direct, odaberite uređaj na koji želite prebaciti slike i zatim
+dodirnite DIJELI.
+
+4	 Prihvatite Wi-Fi Direct zahtjev za spajanje na drugom uređaju.
+Ako su uređaji već spojeni, slika će biti poslana drugom uređaju bez zahtjeva za spajanje.
+
+Prekidanje veze s uređajem
+
+1	 Dodirnite Wi-Fi na zaslonu postavki.
+2	 Dodirnite Wi-Fi Direct.
+Uređaj prikazuje popis spojenih uređaja.
+
+3	 Dodirnite naziv uređaja za odspajanje uređaja.
+
+65
+
+Postavke
+
+Bluetooth
+Uvod
+Koristite Bluetooth za razmjenu podatkovnih ili multimedijskih datoteka s drugim uređajima koji
+imaju uključenu opciju Bluetooth.
+• 	Tvrtka Samsung ne snosi odgovornost za gubitak, presretanje ili zlouporabu podataka
+koji su poslani ili primljeni putem Bluetootha.
+• 	Uvijek se osigurajte da dijelite i primate podatke pomoću pouzdanih i propisno
+zaštićenih uređaja. Ako postoje prepreke između uređaja operativna udaljenost može
+se smanjiti.
+• 	Neki uređaji, naročito oni koje nije testirala udruga Bluetooth SIG, možda neće biti
+kompatibilni s vašim uređajem.
+• 	Ne koristite Bluetooth funkciju za protuzakonite svrhe (primjerice, piratske kopije
+datoteke ili protuzakonito prisluškivanje komunikacija u komercijalne svrhe).
+Samsung nije odgovoran za posljedice protuzakonite uporabe Bluetooth funkcije.
+
+Uparivanje s drugim Bluetooth uređajima
+
+1	 Na zaslonu postavki dodirnite Bluetooth, a zatim dodirnite prekidač za aktivaciju.
+Otkriveni uređaji prikazani su na popisu.
+
+2	 Odaberite uređaj s kojim se želite upariti.
+Ako je vaš uređaj prije uparen s drugim uređajem, dodirnite naziv uređaja bez potvrde
+automatski generiranog pristupnog koda (tzv. passkey).
+Ako uređaj s kojim se želite upariti nije na popisu, zatražite da uređaj uključi svoju opciju
+vidljivosti. Za više informacija pogledajte korisnički priručnik drugog uređaja.
+Vaš je uređaj vidljiv drugim uređajima dok je otvoren zaslon postavki Bluetootha.
+
+3	 Prihvatite zahtjev za povezivanjem Bluetooth na svom uređaju za potvrdu.
+Uređaji će se povezati kad drugi uređaj prihvati zahtjev za Bluetooth povezivanjem.
+
+66
+
+Postavke
+
+Slanje i primanje podataka
+Brojne aplikacije podržavaju prijenos podataka putem Bluetootha. S drugim Bluetooth uređajima
+možete podijeliti podatke poput kontakata ili medijskih datoteka. Sljedeći postupci su primjer
+slanja slike na drugi uređaj.
+
+1	 Dodirnite Galerija na zaslonu aplikacija.
+2	 Odaberite sliku.
+3	 Dodirnite Dijeli → Bluetooth, a zatim odaberite uređaj na koji želite prebaciti slike.
+Ako uređaj s kojim se želite upariti nije na popisu, zatražite da uređaj uključi svoju opciju
+vidljivosti.
+
+4	 Prihvatite zahtjev za autorizacijom Bluetootha na drugom uređaju.
+Odspajanje Bluetooth uređaja
+
+1	 Dodirnite Bluetooth na zaslonu aplikacija.
+Uređaj prikazuje popis uparenih uređaja.
+
+2	 Dodirnite pored naziva uređaja za deaktiviranje uparivanja.
+3	 Dodirnite Odspoji.
+
+Profil Bez mreže
+Ovo deaktivira sve bežične funkcije na uređaju. Možete koristiti samo izvanmrežne usluge.
+Na zaslonu postavki dodirnite Profil Bez mreže.
+Pripazite da uređaj bude isključen tijekom polijetanja i slijetanja. Uređaj možete
+upotrebljavati u zrakoplovnom načinu rada nakon polijetanja ako vam dopusti kabinsko
+osoblje.
+
+67
+
+Postavke
+
+Mobilna pristupna točka i dijeljenje
+Uređaj koristite kao mobilnu pristupnu točku za dijeljenje mobilne podatkovne mreže uređaja
+s drugim uređajima kad je mrežna veza nedostupna. Veza se može uspostaviti putem Wi-Fi-ja,
+USB-a ili Bluetootha.
+Na zaslonu postavki dodirnite Mobilna pristupna točka i dijeljenje.
+Dodatni troškovi mogu se zaračunati kada koristite ovu funkciju.
+• 	Mobilna pristupna točka: Koristite mobilnu pristupnu točku za dijeljenje mobilne
+podatkovne veze s računalima ili drugim uređajima.
+• 	Bluetooth dijeljenje: Bluetooth povezivanje koristite za dijeljenje mobilne podatkovne veze
+s računalima ili drugim uređajima putem Bluetootha.
+• 	USB dijeljenje: USB povezivanje koristite za dijeljenje mobilne podatkovne mrežne veze
+uređaja s računalima preko USB-a. Kada je spojen na računalo, uređaj se koristi kao bežični
+modem za računalo.
+
+Uporaba mobilne pristupne točke
+Uređaj koristite kao mobilnu pristupnu točku za dijeljenje mobilne podatkovne mreže uređaja s
+drugim uređajima.
+
+1	 Na zaslonu postavki dodirnite Mobilna pristupna točka i dijeljenje → Mobilna pristupna
+točka.
+
+2	 Dodirnite prekidač za aktivaciju.
+Ikona pojavljuje se na statusnoj traci. Ostali uređaji mogu pronaći vaš uređaj na popisu
+Wi-Fi mreža.
+Za podešavanje šifre mobilne pristupne točke dodirnite VIŠE → Konf. mobilnu pristupnu
+točku i odaberite razinu sigurnosti. Zatim unesite šifru i dodirnite SPREMI.
+
+3	 Na zaslonu drugog uređaja potražite i odaberite uređaj s popisa Wi-Fi mreža.
+4	 Na spojenom uređaju za pristup internetu koristite mobilnu podatkovnu vezu uređaja.
+
+68
+
+Postavke
+
+Korištenje podataka
+Pratite količinu upotrebe podataka i prilagodite postavke za ograničenje.
+Na zaslonu postavki dodirnite Korištenje podataka.
+• 	Mobilni podaci: Postavljanje uređaja da koristi podatkovne veze u bilo kojoj mobilnoj mreži.
+• 	Postavi ograničenje mobilnih podataka: Podesite ograničenje za korištenje mobilnih
+podataka.
+• 	Pozadinski podaci: Sprječavanje aplikacija koje rade u pozadini da koriste mobilnu
+podatkovnu vezu.
+→ Promijeni
+Za promjenu datuma mjesečnog resetiranja za razdoblje praćenja dodirnite
+ciklus.
+
+Ograničavanje korištenja podataka
+
+1	 Na zaslonu postavki dodirnite Korištenje podataka i dodirnite prekidač Postavi ograničenje
+mobilnih podataka za aktivaciju.
+
+2	 Za postavljanje limita vucite traku za podešavanje limita gore ili dolje.
+3	 Za postavljanje razine upozorenja za korištenje podataka vucite traku za podešavanje
+upozorenja gore ili dolje.
+
+Uređaj će vas upozoriti kad se dostigne razina upozorenja.
+
+69
+
+Postavke
+
+Mobilne mreže
+Konfigurirajte postavke svoje mobilne mreže.
+Na zaslonu postavki dodirnite Mobilne mreže.
+• 	Podatkovni roaming: Postavljanje uređaja da koristi podatkovne veze prilikom roaminga.
+• 	Pristupne točke (APN): Postavite nazive pristupnih točaka (APN).
+• 	Način rada mreže: Odaberite vrstu mreže.
+• 	Mrežni operatori: Traži dostupne mreže i ručno se prijavi na mrežu.
+
+NFC i plaćanje
+Uvod
+Uređaj vam omogućuje čitanje NFC (engl. Near field communication) oznaka koje sadrže
+informacije o proizvodima. Možete također upotrijebiti ovu značajku za plaćanje i kupovanje
+karata za prijevoz ili ulaznica za događanja nakon što preuzmete potrebne aplikacije.
+Baterija sadrži ugrađenu NFC antenu. Pažljivo postupajte s baterijom radi izbjegavanja
+oštećenja NFC antene.
+
+70
+
+Postavke
+
+Uporaba NFC funkcije
+NFC funkciju koristite za slanje slika ili kontakata na druge uređaje, te za čitanje informacija o
+proizvodu putem NFC oznake.
+
+1	 Na zaslonu postavki dodirnite NFC i plaćanje, a zatim dodirnite prekidač za aktivaciju.
+2	 Postavite NFC antenu na poleđinu uređaja pored NFC oznake.
+Prikazat će se informacije s oznakom.
+
+Vodite računa o tome da je zaslon uređaja otključan. U protivnom uređaj neće moći
+očitati NFC oznake ili primati podatke.
+
+Plaćajte pomoću NFC funkcije
+Prije upotrebe funkcije NFC za plaćanje morate se prijaviti na uslugu mobilnog plaćanja. Za
+prijavu ili za dobivanje više informacija o usluzi kontaktirajte sa svojim pružateljem usluga.
+
+1	 Na zaslonu postavki dodirnite NFC i plaćanje, a zatim dodirnite prekidač za aktivaciju.
+2	 Dodirnite područje NFC antene na poleđinu uređaja pored čitača NFC oznake.
+Za postavljanje zadane aplikacije za plaćanje otvorite zaslon postavki i dodirnite NFC i plaćanje
+→ Dodirni i plati, a zatim odaberite aplikaciju.
+Popis usluga plaćanja možda neće uključivati sve dostupne aplikacije plaćanja.
+
+71
+
+Postavke
+
+Slanje podataka
+Omogućite razmjenu podataka kada NFC antena vašeg uređaja dodirne NFC antenu drugog
+uređaja.
+
+1	 Na zaslonu postavki dodirnite NFC i plaćanje, a zatim dodirnite prekidač za aktivaciju.
+2	 Dodirnite Android Beam i dodirnite prekidač za aktivaciju.
+3	 Odaberite stavku i dodirnite NFC antenu drugog uređaja s NFC antenom vašeg uređaja.
+4	 Kada se na zaslonu pojavi Pritisnite za slanje. dodirnite zaslon svog uređaja za slanje stavke.
+Ako oba uređaja pokušaju istodobno poslati podatke, može doći do prekida prijenosa
+datoteka.
+
+72
+
+Postavke
+
+Više postavki veze
+Opcije
+Prilagođavanje postavki za upravljanje drugim funkcijama.
+Na zaslonu postavki dodirnite Više postavki veze.
+• 	Ispis: Konfiguriranje postavki dodataka pisača instaliranih na uređaju. Dostupne pisače
+možete potražiti ili ručno dodati za ispis datoteka. Više informacija pogledajte u Ispis.
+• 	VPN: Postavite i upravljajte virtualnim osobnim mrežama (VPN).
+• 	Zadana aplikac. za poruke: Odabir zadane aplikacije koja će se koristiti za slanje i primanje
+poruka.
+
+Ispis
+Konfiguriranje postavki dodataka pisača instaliranih na uređaju. Možete povezati uređaj s
+pisačem putem Wi-Fi ili Wi-Fi Directa i ispisivati slike ili dokumente.
+Neki pisači možda neće biti kompatibilni s uređajem.
+
+Dodavanje plug-inova za pisače
+Dodajte plug-inove za pisače s kojima želite spojiti uređaj.
+
+1	 Na zaslonu postavki dodirnite Više postavki veze → Ispis → Skini dodatke.
+2	 Potražite plug-in pisača u Trg. Play.
+3	 Odaberite plug-in pisača i instalirajte ga.
+4	 Odaberite plug-in pisača i dodirnite prekidač za aktivaciju.
+Uređaj traži pisače koji su spojeni na istu Wi-Fi mrežu kao i vaš uređaj.
+Za ručno dodavanje pisača dodirnite VIŠE → Dodaj pisač → ADD PRINTER.
+Za promjenu postavki pisača dodirnite VIŠE → Postavke ispisa.
+
+73
+
+Postavke
+
+Ispis sadržaja
+Prilikom prikaza sadržaja poput slika ili dokumenata dodirnite Dijeli → Ispis →
+a zatim odaberite pisač.
+
+→ Svi pisači,
+
+Zvukovi i obavijesti
+Promijenite postavke različitim zvukovima na uređaju.
+Na zaslonu postavki dodirnite Zvukovi i obavijesti.
+• 	Način zvuka: Podesite uređaj da koristi način zvuka ili način bez zvuka.
+• 	Glasnoća: Podesite razinu glasnoće zvukova zvona poziva, glazbe i videozapisa, zvukove
+zvona sustava uređaja i obavijesti.
+• 	Melodije zvona i zvukovi: Promijenite zvuk zvona i postavke zvukova sustava.
+• 	Vibracije: Promjena postavki vibracija.
+• 	Kvaliteta zvuka i efekti: Konfigurirajte dodatne postavke zvuka.
+• 	Ne ometajte: Postavite uređaj na bešumne dolazne pozive i zvukove obavijesti, osim
+dopuštenih iznimaka.
+• 	Obavijesti o aplikacijama: Promjena postavki obavijesti za svaku aplikaciju.
+
+Zaslon
+Promijenite postavke zaslona.
+Na zaslonu postavki dodirnite Zaslon.
+• 	Svjetlina: Prilagodite svjetlinu zaslona.
+• 	Način Vani: Uključite vanjski način rada kako biste imali bolju vidljivost zaslona prilikom
+jakog osvjetljenja.
+• 	Font: Promjena veličine i vrste slova.
+• 	Istek zaslona: Postavite vrijeme nakon kojeg uređaj isključuje pozadinsko osvjetljenje
+zaslona.
+• 	Način zaslona: Promijenite način zaslona kako biste prilagodili boju i kontrast prikaza.
+• 	Sanjarenje: Postavite uređaj tako da se tijekom punjenja pokrene zaštita zaslona.
+
+74
+
+Postavke
+
+Aplikacije
+Upravljajte aplikacijama uređaja i promijenite njihove postavke.
+Na zaslonu postavki dodirnite Aplikacije.
+• 	Upravljanje aplikacijama: Prikaz i upravljajte aplikacijama na uređaju.
+• 	Zadane aplikacije: Odabir zadanih postavki za korištenje aplikacija.
+
+Pozadina
+Promijenite sliku pozadine za početni zaslon i zaslon zaključavanja.
+Na zaslonu postavki dodirnite Pozadina.
+
+Teme
+Primijenite različite teme na uređaj kako biste promijenili vizualne elemente početnog zaslona,
+zaključanog zaslona i ikona.
+Na zaslonu postavki dodirnite Teme.
+Za preuzimanje više tema dodirnite VIŠE TEMA.
+
+Zaslon zaklj. i sigurnost
+Promijenite postavke sigurnosti za uređaj, te SIM ili USIM karticu.
+Na zaslonu postavki dodirnite Zaslon zaklj. i sigurnost.
+Dostupne opcije mogu se razlikovati ovisno o odabranoj metodi zaključavanja zaslona.
+• 	Vrsta zaključavanja zaslona: Promijenite način zaključavanja zaslona.
+• 	Prikaz informacija: Promijenite postavke za stavke prikazane na zaključanom zaslonu.
+• 	Otključavanje: Odaberite efekt koji ćete vidjeti pri otključavanju zaslona.
+• 	Pronađi moj mobitel: Aktivirajte ili deaktivirajte funkciju pronađi moj mobilni. Pristupite
+mrežnom mjestu Find my mobile (findmymobile.samsung.com) kako biste pratili i
+kontrolirali svoj izgubljeni ili ukradeni uređaj.
+
+75
+
+Postavke
+• 	Nepoznati izvori: Podesite uređaj tako da dozvoli instalaciju aplikacija iz nepoznatih izvora.
+• 	Ostale postavke sigurnosti: Konfigurirajte dodatne sigurnosne postavke.
+
+Privatnost
+Promijenite postavke kako biste zaštitili privatnost.
+Na zaslonu postavki dodirnite Privatnost.
+• 	Lokacija: Promjena postavki dozvola za informacije o lokaciji.
+• 	Slanje dijagnost. info.: Postavite uređaj za automatsko slanje tvrtki Samsung informacija o
+dijagnostici i korištenju uređaja.
+
+Jednostavan način
+Jednostavni način rada omogućava jednostavni korisnički doživljaj uporabom jednostavnog
+prikaza i većih ikona na početnom zaslonu.
+
+Prebacivanje na jednostavni način rada
+
+1	 Na zaslonu postavki dodirnite Jednostavan način → Jednostavan način.
+2	 Odaberite aplikacije pod Jednostavne aplikacije za primjenu jednostavnijeg prikaza.
+3	 Dodirnite OK.
+Povratak na standardni način rada
+Na početnom zaslonu kližite lijevo i dodirnite Postavke → Jednostavan način → Standardni
+način → OK.
+
+76
+
+Postavke
+
+Upravljanje prečacima
+Za dodavanje prečaca za aplikaciju na početni zaslon pomaknite se ulijevo, dodirnite
+odaberite aplikaciju.
+
+, a zatim
+
+Za dodavanje prečaca kontaktu na početnom zaslonu pomaknite se udesno i dodirnite
+
+.
+
+Za brisanje prečaca sa početnog zaslona dodirnite UREDI i odaberite aplikaciju ili kontakt s
+
+.
+
+Pristupačnost
+Konfigurirajte različite postavke za poboljšavanje pristupačnosti uređaja.
+Na zaslonu postavki dodirnite Pristupačnost.
+• 	Vid: Prilagodite postavke da biste poboljšali mogućnost pristupa slabovidnim ili slijepim
+osobama.
+• 	Sluh: Prilagodite postavke da biste poboljšali mogućnost pristupa nagluhim i gluhim
+osobama.
+• 	Motorika i interakcija: Prilagodite postavke da biste poboljšali mogućnost pristupa
+osobama s otežanim kretanjem.
+• 	Izravan pristup: Postavite uređaj da se odabrani izbornici za pristupačnost otvaraju kada
+triput brzo pritisnete gumb za početni zaslon.
+• 	Podsjetnik na obavijesti: Postavite uređaj da vas upozorava na obavijesti koje niste provjerili
+u određenom vremenskom razdoblju.
+• 	Preuzimanje i prekidanje poziva: Promjena načina preuzimanja ili prekidanja poziva.
+• 	Način rada jednim dodirom: Podesite uređaj na upravljanje dolaznim pozivima ili
+obavijestima dodirom na gumb umjesto povlačenjem gumba.
+• 	Usluge: Prikaz usluga pristupačnosti instaliranih na uređaju.
+
+77
+
+Postavke
+
+Računi
+Dodajte svoje Samsung i Google račune ili druge račune za sinkronizaciju.
+
+Dodavanje računa
+Neke aplikacije koje se koriste na uređaju zahtijevaju registrirani račun. Kreirajte račune i uživajte
+u svemu što vam uređaj pruža.
+
+1	 Na zaslonu postavki dodirnite Računi → Dodaj račun.
+2	 Odaberite uslugu računa.
+3	 Slijedite upute na zaslonu kako biste dovršili podešavanje računa.
+Za sinkroniziranje sadržaja s vašim računima odaberite račun i odaberite stavke za sinkronizaciju.
+
+Registriranje Samsung računa
+Treba vam Samsung račun prilikom korištenja nekih Samsung aplikacija. Možete sigurnosno
+kopirati ili vratiti podatke spremljene u uređaju na svoj Samsung račun. Registrirajte svoj
+Samsung račun na uređaj kako biste praktično koristili Samsung usluge.
+
+1	 Na zaslonu postavki dodirnite Računi → Dodaj račun.
+2	 Dodirnite Samsung account.
+3	 Slijedite upute na zaslonu kako biste dovršili podešavanje računa.
+Nakon što je vaš Samsung račun registriran, možete koristiti aplikacije koje traže Samsung račun
+bez postupka prijave.
+
+Uklanjanje računa
+Na zaslonu postavki dodirnite Računi, odaberite naziv računa, odaberite račun koji treba ukloniti
+i zatim dodirnite VIŠE → Ukloni račun.
+
+78
+
+Postavke
+
+Sigurnosno kopiranje i poništavanje
+Promijenite postavke za upravljanje postavkama i podacima.
+Na zaslonu postavki dodirnite Sigurnosno kopiranje i poništavanje.
+• 	Sigurnosno kopiranje računa: Postavite ili uredite svoj Google račun sigurnosne kopije.
+• 	Pokreni sig. kopiju: Podesite uređaj da sigurnosno pohrani postavke i podatke aplikacija na
+Google poslužitelju.
+• 	Auto. vraćanje sigurnosne kopije: Podesite uređaj za automatsko vraćanje postavki i
+podataka aplikacija s Google poslužitelja kada se aplikacije ponovno instaliraju.
+• 	Poništavanje postavki: Vratite postavke uređaja na tvornički zadane vrijednosti bez brisanja
+podataka.
+• 	Vraćanje tvorničkih postavki: Vraćanje postavki na tvornički zadane vrijednosti i brisanje
+svih podataka.
+
+Jezik i unos
+Izmijeni postavke za tekstualni unos. Neke opcije možda neće biti dostupne ovisno o odabranom
+jeziku.
+Na zaslonu postavki dodirnite Jezik i unos.
+• 	Jezik: Odaberite jezik zaslona za sve izbornike i aplikacije.
+• 	Zadana tipkovnica: Odaberite zadanu vrstu tipkovnice za unos teksta.
+• 	Samsung tipkovnica: Promijenite postavke Samsung tipkovnice.
+• 	Google unos teksta govorom: Promijenite postavke glasovnog unosa.
+• 	Glas. ulaz: Odaberite zadanu uslugu za glasovni unos. Također možete promijeniti postavke
+za svaku uslugu.
+• 	Opc. pret. teksta u govor: Promijenite postavke pretvaranja teksta u govor.
+• 	Brzina pokazivača: Prilagodite brzinu pokazivača za miš ili dodirnu podlogu koji su povezani
+s uređajem.
+
+79
+
+Postavke
+
+Baterija
+Pregled informacija o snazi baterije i promjena opcija za uštedu energije.
+Na zaslonu postavki dodirnite Baterija.
+Preostalo vrijeme korištenja pokazuje vrijeme preostalo prije nego se snaga baterije
+istroši. Preostalo vrijeme može se razlikovati ovisno o postavkama i uvjetima rada vašeg
+uređaja.
+• 	KORIŠTENJE BATERIJE: Prikažite količinu energije baterije koju troši vaš uređaj.
+• 	Štednja baterije: Aktivirajte način rada za uštedu energije i promijenite postavke načina rada
+za uštedu-energije. Više informacija pogledajte u Štednja baterije.
+• 	Maksimalna štednja baterije: Produživanje vremena u modu pripravnosti i smanjenje
+potrošnje baterije prikazivanjem jednostavnijeg prikaza i dozvoljavanje ograničenog
+pristupa aplikacijama. Više informacija pogledajte u Maksimalna štednja baterije.
+• 	Postotak na traci statusa: Postavljanje uređaja da prikazuje preostalu snagu baterije.
+
+Pohrana
+Pogled informacije o memoriji uređaja.
+Na zaslonu postavki dodirnite Pohrana.
+Trenutačno dostupni kapacitet unutarnje memorije manji je od navedenog kapaciteta
+jer operacijski sustav i zadane aplikacije zauzimaju dio memorije. Raspoloživi kapacitet
+može se promijeniti kada ažurirate uređaj.
+
+80
+
+Postavke
+
+Datum i vrijeme
+Pristupite i izmijenite sljedeće postavke za kontrolu načina prikaza vremena i datuma na zaslonu
+uređaja.
+Na zaslonu postavki dodirnite Datum i vrijeme.
+Ako je baterija potpuno ispražnjena ili je uklonite iz uređaja, vraćaju se postavke
+vremena i datuma.
+• 	Auto. datum i vrijeme: Automatski ažurirajte vrijeme i datum kada se krećete kroz
+vremenske zone.
+• 	Auto. vremenska zona: Postavljanje uređaja da prima podatke o vremenskoj zoni iz mreže
+prilikom prelaska iz jedne vremenske zone u drugu.
+• 	Postavi datum: Ručno postavljanje trenutačnog datuma.
+• 	Postavi vrijeme: Ručno postavljanje trenutačnog vremena.
+• 	Odabir vremenske zone: Postavite svoju vremensku zonu.
+• 	Upotreba formata 24 sata: Prikazuje vrijeme u 24-satnom formatu.
+
+Korisnički priručnik
+Pregledajte informacije o pomoći i saznajte kako koristiti uređaj i aplikacije ili kako konfigurirati
+važne postavke.
+Na zaslonu postavki dodirnite Korisnički priručnik.
+
+O uređaju
+Pristupanje informacijama o uređaju, uređivanje naziva uređaja ili ažuriranje softvera uređaja.
+Na zaslonu postavki dodirnite O uređaju.
+
+81
+
+Dodatak
+Rješavanje problema
+Prije nego što kontaktirate servisni centar tvrtke Samsung molimo pokušajte primijeniti sljedeća
+rješenja. Neke situacije možda se neće odnositi na vaš uređaj.
+
+Kad uključite uređaj ili prilikom uporabe, on će vas upozoriti na potrebu
+unosa određenih šifri:
+• 	Šifra: Kad je značajka zaključavanja uređaja aktivna, za podešavanje uređaja trebate unijeti
+šifru.
+• 	PIN: Kad uređaj koristite prvi pute ili kad je aktivan zahtjev za unos PIN-a, morate unijeti PIN
+koji ste dobili sa SIM ili USIM karticom. Ovu značajku možete deaktivirati putem izbornika
+Zaključaj SIM.
+• 	PUK: SIM ili USIM kartica je blokirana, to je najčešće rezultat nekoliko neispravnih unosa
+PIN-a. Trebate unijeti PUK koji ste dobili od pružatelja usluga.
+• 	PIN2: Kad pristupite izborniku koji zahtjeva PIN2, morate unijeti PIN2 kojeg ste dobili sa SIM
+ili USIM karticom. Kontaktirate vašeg pružatelja usluga radi više informacija.
+
+Vaš uređaj prikazuje poruke o pogreškama mreže ili usluge
+• 	Kad ste na područjima sa slabim signalom ili slabim prijemom, možete izgubiti prijem
+signala. Otiđite na drugu lokaciju i pokušajte ponovo. Kad ste u pokretu često se mogu
+pojaviti poruke o grešci.
+• 	Nekim opcijama ne možete pristupiti bez pretplate. Kontaktirate vašeg pružatelja usluga radi
+više informacija.
+
+Uređaj se ne uključuje
+• 	Ako je baterija potpuno ispražnjena tada se vaš uređaj neće uključiti. Potpuno napunite
+bateriju prije uključivanja uređaja.
+• 	Možda baterija nije ispravno umetnuta. Ponovo umetnite bateriju.
+• 	Obrišite oba pozlaćena kontakta i ponovo umetnite bateriju.
+
+82
+
+Dodatak
+
+Zaslon osjetljiv na dodir reagira slabo ili neispravno
+• 	Ako na zaslon osjetljiv na dodir pričvrstite zaštitni poklopac ili dodatke, u tom slučaju zaslon
+osjetljiv na dodir možda neće ispravno raditi.
+• 	Ako nosite rukavice, ako vam ruke nisu čiste kad dodirujete zaslon osjetljiv na dodir ili ako
+zaslon dodirujete oštrim predmetom ili vrhovima prstiju, u tom slučaju zaslon osjetljiv na
+dodir možda neće ispravno raditi.
+• 	U vlažnim uvjetima ili uslijed doticaja s vodom može doći do kvara zaslona osjetljivog na
+dodir.
+• 	Ponovo pokrenite uređaj kako biste uklonili trenutne softverske probleme.
+• 	Pobrinite se da je vaš uređaj nadograđen najnovijom verzijom softvera.
+• 	Ako je zaslon osjetljiv na dodir ogreben ili oštećen, posjetite servisni centar tvrtke Samsung.
+
+Vaš uređaj zamrzava se ili ima kritičnu pogrešku
+Pokušajte sljedeća rješenja. Ako se problem ne riješi, kontaktirajte servisni centar tvrtke Samsung.
+
+Ponovo pokretanje uređaja
+Ako se vaš uređaj zamrzava ili dolazi do prekida veze, u tom slučaju možda ćete morati zatvoriti
+aplikacije ili isključiti uređaj i ponovno ga uključiti.
+
+Prisilno ponovno pokretanje
+Ako se vaš uređaj zamrzava ili ne reagira, istovremeno pritisnite i držite tipku za uključivanje i
+isključivanje i tipku glasnoće duže od 7 sekundi za ponovno pokretanje.
+
+Ponovno namještanje uređaja
+Ako prethodno navedena rješenja ne riješe problem, obavite vraćanje uređaja na tvorničke
+postavke.
+Na zaslonu aplikacija dodirnite Postavke → Sigurnosno kopiranje i poništavanje → Vraćanje
+tvorničkih postavki → VRAĆANJE UREĐAJA → OBRIŠI SVE. Ne zaboravite prije vraćanja na
+tvorničke postavke, sigurnosno pohraniti kopije svih važnih podataka pohranjenih na uređaju.
+
+83
+
+Dodatak
+
+Pozivi se ne spajaju
+• 	Provjerite jeste li spojeni na pravu mobilnu mrežu.
+• 	Provjerite jeste li postavili zabranu poziva za telefonski broj koji birate.
+• 	Provjerite jeste li postavili zabranu poziva za telefonski broj s kojeg je upućen poziv.
+
+Drugi vas ne čuju tijekom poziva
+• 	Provjerite prekrivate li ugrađeni mikrofon.
+• 	Provjerite je li mikrofon u blizini vaših usta.
+• 	Ako koristite slušalicu, provjerite je li ispravno spojena.
+
+Jeka zvukova tijekom poziva
+Podesite glasnoću pritiskom na tipku glasnoće ili se premjestite na drugu lokaciju.
+
+Mobilna mreža ili internet se često prekida ili je kvaliteta zvuka jako loša
+• 	Provjerite ne blokirate li unutrašnju antenu uređaja.
+• 	Kad ste na područjima sa slabim signalom ili slabim prijemom, možete izgubiti prijem
+signala. Možda imate problema sa spajanjem zbog problema s baznim stanicama pružatelja
+usluge. Otiđite na drugu lokaciju i pokušajte ponovo.
+• 	Ako uređaj koristite kad ste u pokretu u tom slučaju usluga bežične mreže može se
+deaktivirati zbog problema s mrežom pružatelja usluge.
+
+Ikona baterije je prazna
+Vaša baterija je gotovo prazna. Promijenite bateriju.
+
+Baterija se ne puni ispravno (za punjače odobrene od tvrtke Samsung)
+• 	Provjerite je li punjač ispravno spojen.
+• 	Ako je priključak za bateriju onečišćen, baterija se možda neće moći ispravno napuniti ili se
+uređaj može isključiti. Obrišite oba pozlaćena kontakta i ponovo pokušajte napuniti bateriju.
+
+84
+
+Dodatak
+
+Baterija se brže prazni nego kada je tek kupljena
+• 	Ako uređaj ili bateriju izložite jako niskim ili visokim temperaturama može se umanjiti
+sposobnost potpunog punjenja.
+• 	Potrošnja baterije se povećava ako koristite funkcije razmijene poruka ili neke aplikacije,
+poput igrica ili interneta.
+• 	Baterija je potrošna i njena iskoristivost se s vremenom smanjuje.
+
+Vaš uređaj je vruć na dodir
+Kad koristite aplikacije koje zahtijevaju jače napajanje ili kad aplikacije koristite duže vrijeme,
+vaš uređaj može biti vruć na dodir. To je normalno i ne bi trebalo utjecati na vijek uređaja niti
+na njegovu izvedbu. Ako se uređaj pregrije ili ostane zagrijan duže vremensko razdoblje, ne
+upotrebljavajte ga neko vrijeme. Ako se uređaj nastavi pregrijavati, obratite se servisnom centru
+Samsung.
+
+Prilikom pokretanja kamere javlja se poruka o grešci
+Za rukovanje aplikacijom kamere vaš uređaj mora imati dovoljno raspoloživog memorijskog
+prostora i napajanja iz baterije. Ako prilikom pokretanja kamere primate poruku o grešci,
+pokušajte sljedeće:
+• 	Promijenite bateriju.
+• 	Oslobodite nešto memorijskog prostora prijenosom datoteka na računalo ili brisanjem
+datoteka s uređaja.
+• 	Ponovo pokrenite uređaj. Ako i dalje imate problema s aplikacijom kamere, nakon što ste
+primijenili ove savjete, kontaktirajte Samsung servisni centar.
+
+Kvaliteta fotografije je lošija od kvalitete prikaza
+• 	Kvaliteta vaših fotografija može se razlikovati ovisno o okruženju te primijenjenim tehnikama
+fotografiranja.
+• 	Ako snimate fotografije u tamni, noću ili u zatvorenim prostorima na slikama se može
+pojaviti šum ili slike mogu biti ne fokusirane.
+
+85
+
+Dodatak
+
+Prilikom otvaranja multimedijskih datoteka javlja se poruka o grešci
+Ako primate poruke o grešci ili ako se prilikom otvaranja multimedijske datoteke on ne mogu
+reproducirati, pokušajte sljedeće:
+• 	Oslobodite nešto memorijskog prostora prijenosom datoteka na računalo ili brisanjem
+datoteka s uređaja.
+• 	Provjerite kako glazbena datoteka nije zaštićena sustavom digitalnih autorskih prava
+(DRM). Ako je datoteka zaštićena DRM-om, provjerite imate li adekvatnu licencu ili šifru za
+reprodukciju datoteke.
+• 	Pripazite jesu li formati datoteka podržani na uređaju. Ako format datoteke nije podržan,
+poput DivX ili AC3 formata, instalirajte aplikaciju koja ga podržava. Za potvrdu formata
+datoteka koje vaš uređaj podržava posjetite www.samsung.com.
+• 	Vaš uređaj podržava fotografije i videozapise snimljene ovim uređajem. Fotografije i
+videozapisi snimljenim drugim uređajima možda se neće ispravno reproducirati.
+• 	Vaš uređaj podržava multimedijske datoteke autorizirane od strane pružatelja mrežnih
+usluga ili pružatelja dodatnih usluga. Neki sadržaji dostupni putem interneta poput zvukova
+zvona, videozapisa ili slika pozadine možda neće ispravno raditi.
+
+Drugi Bluetooth uređaj nije pronađen
+• 	Provjerite je li bežična Bluetooth značajka aktivirana na vašem uređaju.
+• 	Provjerite je li bežična Bluetooth značajka aktivirana na uređaju na koji se želite spojiti.
+• 	Provjerite jesu li vaš uređaj i drugi Bluetooth uređaj u dosegu maksimalnog Bluetooth
+raspona (10 m).
+Ako gornji savjeti nisu riješili problem, kontaktirajte Samsung servisni centar.
+
+Veza nije uspostavljena prilikom spajanja uređaja na računalo
+• 	Provjerite koristite li USB kabel koji je kompatibilan s vašim uređajem.
+• 	Provjerite imate na računalu li instaliran i ažuriran ispravan pogon.
+• 	Ako upotrebljavate Windows XP, provjerite je li na vašem računalu instaliran Windows XP
+Service Pack 3 ili novija verzija.
+
+86
+
+Dodatak
+
+Vaš uređaj ne može pronaći vašu trenutnu lokaciju
+GPS signal može biti ometan na nekim lokacijama, poput zatvorenih prostora. U tom slučaju
+podesite uređaj da prilikom traženja vaše trenutne lokacije koristi Wi-Fi ili mobilnu mrežu.
+
+Izgubljeni su podatci pohranjeni u uređaju
+Uvijek napravite sigurnosne kopije svih važnih podataka pohranjenih u uređaju. U protivnom,
+nećete moći obnoviti podatke ako se oštete ili izgube. Tvrtka Samsung nije odgovorna za gubitak
+podataka pohranjenih u uređaju.
+
+Mali razmak pojavljuje se oko vanjske strane uređaja
+• 	Taj razmak je neophodna proizvodna značajka i može doći do manjeg pokreta ili vibracija
+dijelova.
+• 	Tijekom vremena, trenje između dijelova može izazvati proširenje tog razmaka.
+
+87
+
+Autorsko pravo
+Copyright © 2016 Samsung Electronics
+Ovaj korisnički priručnik zaštićen je međunarodnim zakonima o autorskom pravu.
+Nije dopušteno reproduciranje, distribucija, prijevod ili prijenos dijelova ovog korisničkog
+priručnika u bilo kojem obliku i bilo kojim putem, elektroničkim ili mehaničkim, što uključuje
+fotokopiranje, snimanje ili spremanje u bilo koji sustav za pohranu i povrat podataka, bez
+prethodnog pismenog odobrenja tvrtke Samsung Electronics.
+
+Zaštitni znakovi
+• 	SAMSUNG i SAMSUNG logotip registrirani su zaštitni znakovi Samsung Electronicsa.
+• 	Bluetooth® je registrirani zaštitni znak Bluetooth SIG, Inc. u cijelom svijetu.
+
+• 	Wi-Fi®, Wi-Fi Protected Setup™, Wi-Fi Direct™, Wi-Fi CERTIFIED™, te Wi-Fi logotip registrirani
+su zaštitni znakovi Wi-Fi Alliance.
+• 	Svi ostali zaštitni znakovi i autorska prava pripadaju tvrtkama koje su njihovi vlasnici.

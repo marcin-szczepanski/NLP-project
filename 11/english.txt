@@ -1,0 +1,711 @@
+ENGLISH
+
+WIRELESS SPEAKER
+NP1540B / NP1540BP
+NP1540W / NP1540WP
+
+OWNER’S MANUAL
+
+Please read this manual carefully before operating your set and retain
+it for future reference.
+
+www.lg.com
+
+CAUTION: TO REDUCE THE RISK
+OF ELECTRIC SHOCK DO NOT
+REMOVE COVER (OR BACK) NO USERSERVICEABLE PARTS INSIDE REFER
+SERVICING TO QUALIFIED SERVICE
+PERSONNEL.
+This lightning flash
+with arrowhead
+symbol within an
+equilateral triangle
+is intended to alert
+the user to the
+presence of uninsulated dangerous
+voltage within the product’s enclosure
+that may be of sufficient magnitude to
+constitute a risk of electric shock to
+persons.
+The exclamation
+point within an
+equilateral triangle
+is intended to alert
+the user to the
+presence of
+important operating and maintenance
+(servicing) instructions in the literature
+
+2
+
+accompanying the product.
+WARNING:
+yy To prevent fire or electric shock
+hazard, do not expose this product to
+rain or moisture.
+yy Do not install this equipment in a
+confined space such as a book case
+or similar unit.
+CAUTION:
+yy The apparatus should not be exposed
+to water (dripping or splashing) and
+no objects filled with liquids, such
+as vases, should be placed on the
+apparatus.
+yy No naked flame sources, such as
+lighted candles, should be placed on
+the apparatus.
+yy Internal lithium battery in the unit
+should not be replaced by user
+because of danger of explosion if
+battery is incorrectly replaced ,and
+must be replaced with the same type
+battery by expert.
+
+yy To avoid fire or electric shock, do not
+open the unit. contact to qualified
+personnel only.
+yy Do not leave the unit in a place near
+the heating appliances or subject
+to direct sunlight, moisture, or
+mechanical shock.
+yy To clean the unit, use a soft, dry cloth.
+If the surfaces are extremely dirty, use
+a soft cloth lightly moistened with
+a mild detergent solution. Do not
+use strong solvents such as alcohol,
+benzine, or thinner, as these might
+damage the surface of the unit.
+yy Do not use volatile liquids such as
+insecticide spray near the unit.Wiping
+with strong pressure may damage
+the surface. Do not leave rubber or
+plastic products in contact with the
+unit for a long period of time.
+yy Do not place the unit over the
+vehicle’s air bag. When the air bag
+deploys, it may result in injury. Before
+using in the car, fix the unit.
+
+yy Do not leave the unit on an unstable
+place such as high shelves. it may fall
+down because of the vibration of the
+sound.
+CAUTION when using this product in
+environments of low humidity.
+yy It may cause static electricity in
+environments of low humidity.
+yy It is recommended to use this
+product after touching any metal
+object which conducts electricity.
+NOTICE: For safety making information
+including product identification and
+supply ratings, please refer to the main
+label on the bottom of the apparatus.
+
+3
+
+Disposal of your old appliance
+1.	 All electrical and
+electronic products
+should be disposed of
+separately from the
+municipal waste stream
+via designated
+collection facilities
+appointed by the
+government or the local
+authorities.
+2.	 The correct disposal of your old
+appliance will help prevent potential
+negative consequences for the
+environment and human health.
+3.	 For more detailed information
+about disposal of your old
+appliance, please contact your city
+office, waste disposal service or
+the shop where you purchased the
+product.
+
+4
+
+Disposal of waste batteries/
+accumulators
+
+Pb
+1.	
+
+2.	
+
+3.	
+
+This symbol may be combined with
+chemical symbols for mercury(Hg),
+cadmium(Cd) or lead(Pb) if the
+battery Contains more that 0.0005%
+of mercury,0.002% of cadmium or
+0.004% of lead.
+All batteries/accumulators should
+be disposed separately from
+the municipal waste stream via
+designated collection facilities
+appointed by the government or
+the local authorities.
+The correct disposal of Your old
+batteries/accumulators will help
+to prevent potential negative
+consequences for the environment,
+animal and human health.
+
+4.	
+
+For more detailed information
+about disposal of Your old batteries/
+accumulators, please contact Your
+city office, waste disposal service or
+the shop where You purchased the
+product.
+
+Removal of waste batteries and
+accumulators
+(Product with embedded battery ONLY)
+
+In case this product contains a battery
+incorporated within the product which
+cannot be readily removed by endThis device is equipped with a portable users, LG recommends that only qualified
+battery or accumulator.
+professionals remove the battery, either
+for replacement or for recycling at the end
+Safety way to remove the battery
+of this product’s working life. To prevent
+or the battery from the equipment: damage to the product, and for their own
+Remove the old battery or battery
+safety, users should not attempt to remove
+pack, follow the steps in reverse
+the battery and should contact LG Service
+order than the assembly. To prevent
+Helpline, or other independent service
+contamination of the environment
+providers for advice.
+and bring on possible threat to human
+Removal of the battery will involve
+and animal health, the old battery or
+dismantling of the product case,
+the battery put it in the appropriate
+disconnection of the electrical cables/
+container at designated collection
+contacts, and careful extraction of the
+points. Do not dispose of batteries or
+battery together with other waste. It is battery cell using specialized tools. If
+recommended that you use local, free you need the instructions for qualified
+professionals on how to remove the
+reimbursement systems batteries and
+battery safely, please visit http://www.lge.
+accumulators. The battery shall not
+com/global/sustainability/environment/
+be exposed to excessive heat such as
+take-back-recycling.
+sunshine, fire or the like.
+
+5
+
+For Wireless product European Union
+Notice
+
+LG Electronics hereby declares that this/
+these product(s) is/are in compliance
+with the essential requirements and
+other relevant provisions of Directive
+1999/5/EC, 2004/108/EC, 2006/95/EC,
+2009/125/EC and 2011/65/EU.
+Please contact to the following address
+for obtaining a copy of the DoC
+(Declaration of Conformity).
+Contact office for compliance of this
+product:
+LG Electronics Inc.
+EU Representative, Krijgsman 1,
+1186 DM Amstelveen, The Netherlands
+yy Please note that this is NOT a
+Customer Service contact point. For
+Customer Service Information, see
+Warranty Card or contact the dealer
+that you purchased this product.
+
+6
+
+Overview
+[Front]
+
+[Rear]
+
+Volume -
+
+T
+
++
+
+1
+
+Play / Pause
+Power on / off
+& Charging LED
+Dual pairing LED
+& PORT. IN LED
+
+Bluetooth LED
+
+L-MONO-R CHARGE PORT. IN
+
+Volume +
+Speaker mode switch
+(Left / Mono / Right)
+Micro USB port
+for charging
+Portable input
+connector
+
+7
+
+LED Indicator
+Status
+
+1 / Red / Blinking
+
+Charging
+
+1 / Red / Staying
+
+Charged
+
+1 / Off
+
+Turn on
+
+or
+
+Turn off
+Ready for single pairing
+
+/ Off
+/ Red / Blinking
+
+Single paired & Ready to play
+
+/ Red / Staying
+
+Ready to detect each other
+Paired each other &
+Ready for dual pairing
+Dual paired &
+Ready to play
+
+8
+
+LED
+
+Battery low
+
+/ Red / Staying
+
+/ Red / Blinking
+/ Red / Blinking
+/ Red / Blinking (L speaker only)
+/ Red / Staying
+/ Red / Staying
+/ Red / Staying
+
+Charging
+CHARGE
+
+L-MONO-R CHARGE PORT. IN
+
+Charging LED
+for battery status
+yy Charging : Red
+yy Charged : Off
+Charging time
+yy About 3 hours
+
+[Note] yy The battery can last up to 5 hours. (Based on 30 % volume, 1 kHz
+signal, 600 mV portable input and fully charged status)
+yy When the battery is low, the beep sound is heard in Bluetooth
+mode.
+yy Charging the unit using the PC takes longer time.
+yy To prevent electric shock, handle with care during charging.
+yy Avoid high or low temperature or humidity.
+yy AC adaptor is not supplied.
+yy This unit must always be operated with DC 5 V. certified/listed
+adaptor which complies with LPS.
+yy Do not use the adaptor higher than DC 5 V.
+
+9
+
+Bluetooth Connection
+a
+
+b
+L-MONO-R CHARGE PORT. IN
+
+-
+
+T
+
++
+
+1
+
+T
+
+L-MONO-R C
+
+Before turning on the unit, move
+the mode switch to MONO.
+
+10
+
+1
+
+Press and hold to turn on. The unit
+goes into the pairing mode.
+
+Bluetooth Connection
+
+c
+
+d
+-
+
+T
+
++
+
+1
+
+Select “LG BT Box (XX:XX)” on your
+Bluetooth device. (XX:XX means the
+last four digits of BT address.)
+
+After pairing, the voice notification is
+heard and Bluetooth LED stays turned
+on. If the unit fails to pair, go to step 1
+and try again.
+
+11
+
+Bluetooth Connection
+
+e
+z
+
+Play the desired music on the Bluetooth device. After
+pairing, you can control playback using the buttons
+on the front of the unit.
+
+[Note] yy Once pairing is performed, it does not need to be done again even
+if you turn off this unit.
+yy To unpair the Bluetooth device, press and hold T on the front of
+the unit for 3 seconds. The unit is unpaired.
+
+12
+
+Dual Speaker Connection
+* Two speakers are needed to enjoy in stereo.
+
+a
+
+b
+Within 5 m
+
+L-MONO-R CHARGE PORT. IN
+
+L-MONO-R C
+
+L-MONO-R CHARGE PORT. IN
+
+L-MONO-R C
+
+Before turning on the unit, move
+the each speaker’s mode switch to
+L and R.
+
+-
+
+T
+
++
+
+-
+
+T
+
+1
+
+1
+
+T
+
+T
+
+1
+
+1
+
++
+
+Press and hold to turn on. The two
+speakers begin to detect each other
+automatically. It takes about 45 seconds
+but can be longer depending on use
+environment.
+
+13
+
+Dual Speaker Connection
+
+c
+
+d
+
+-
+
+T
+
++
+
+1
+
+After detecting, beep sound is
+heard and dual pairing LED stays
+turned on. the unit goes into the
+pairing mode. If the units fail to
+detect, go to step 1 and try again.
+
+14
+
+Select “LG BT Box 2 (XX:XX)” on your
+Bluetooth device.
+
+Dual Speaker Connection
+
+e
+
+f
+
+-
+
+T
+
++
+
+z
+
+1
+
+After pairing, the voice
+notification is heard and the
+Bluetooth LED stay turned
+on. If the unit fails to pair, go
+to step 1 and try again.
+
+Play the desired music on the Bluetooth device.
+After pairing, you can control playback using
+the buttons on the front of the unit.
+
+15
+
+Portable Input Connection
+a
+
+b
+L-MONO-R CHARGE PORT. IN
+
+PORT. IN
+-
+
+T
+
++
+
+1
+
+T
+
+1
+
+<
+Connect the unit to the external
+device using PORT. IN cable.
+
+16
+
+Press and hold to turn on.
+PORT. IN LED stays turned
+on.
+
+Portable Input Connection
+
+c
+
+z
+
+Play the desired music on the device
+connected to the unit. While the unit is
+connected with PORT. IN cable, T in
+the front of the unit does not work.
+
+17
+
+Additional Information
+yy The operating time on battery is subject to battery status, operational status
+and environment conditions.
+yy The Bluetooth connection can be disconnected in case that the distance
+between the unit and your Bluetooth device is more than the Bluetooth
+range limitation.
+yy This unit is turned off automatically in case that any button is not pressed or
+any input source is not connected for 20 minutes in Bluetooth mode.
+yy PORT. IN cable (ø 3.5 mm mini stereo cable) is not supplied.
+yy While using PORT. IN connection, Bluetooth connection is unavailable.
+yy While using PORT. IN connection, stereo mode using extra speaker is
+unavailable.
+yy When you disconnect PORT. IN connection, previous Bluetooth connection is
+repaired to the unit automatically.
+yy Depending on the type of the Bluetooth device, some devices have a
+different way of pairing.
+yy The sound may be interrupted when the connection is interfered by the
+other electronic wave.
+
+18
+
+Additional Information
+
+yy In case that there are obstacles between your Bluetooth device and the unit,
+the device cannot be connected even though the distance between both is
+less than the Bluetooth range limitation.
+yy When you use dual speaker connection, keep the distance between the
+units closer than Bluetooth range limitation. If the distance between the
+units is more than the Bluetooth range limitation, the units can be turned off
+automatically.
+yy The electrical malfunction due to the devices using same frequency such as
+medical equipment, microwaves or wireless LAN devices, may make the unit
+disconnected.
+yy The sound notification function is available in Bluetooth mode only.
+yy Bluetooth connection using the PC or dongle is not supported.
+
+19
+
+Specification
+Power Supply
+
+yy 5 V 0 2 A
+yy Built-in rechargeable battery
+
+Power Consumption
+
+yy 2.5 W
+
+Dimensions (W x H x D)
+
+yy Approx. 83 mm x 95 mm x 83 mm
+
+Net Weight
+
+yy Approx. 370 g
+
+Operating Temperature
+
+yy 0 °C to 35 °C
+
+Operating Humidity
+
+yy 5 % to 60 %
+yy ø 3.5 mm mini jack
+yy Micro USB port for charging battery
+
+External Connector
+Communication
+Speaker
+
+yy
+yy
+yy
+yy
+yy
+
+Bluetooth 3.0
+Type : Built-in
+Impedance Rate : 4 Ω
+Max. Output Power : 2.8 W
+THD: 10%
+
+yy Design and specifications are subject to change without notice.
+
+20
+
+Troubleshooting
+No power
+yy The battery is discharged. Recharge
+the battery.
+yy Connect the unit to the power
+supply with the AC adapter.
+No sound or sound distortion
+yy The unit or your Bluetooth device’s
+volume is set to minimum. Check
+and adjust the volume of the unit or
+Bluetooth device’s volume.
+yy When you use an external device at
+high volume, the sound quality may
+be deteriorated. Lower the volume
+of the devices.
+yy If you use the unit for purposes other
+than listening to music, the sound
+quality may be lowered or the unit
+may not work properly.
+
+yy If the unit does not work well in
+Bluetooth mode, switch Bluetooth
+off and on again on your Bluetooth
+device.
+Bluetooth pairing does not work well.
+yy Switch Bluetooth off and on again
+on your Bluetooth device, then try
+pairing again.
+yy Be sure that your Bluetooth device is
+on.
+yy Remove the obstacle in the path of
+the Bluetooth device and the unit.
+yy Depending on the type of the
+Bluetooth device or surrounding
+environment, your device may not
+be paired with the unit.
+
+21
+
+Troubleshooting
+
+The unit does not operate normally.
+yy Press the reset hole on the bottom
+of the unit using an object like a thin
+pin. The unit is reset (Refer to below.).
+
+L-MONO-R CHARGE PORT. IN
+
+RESET
+yy In case of malfunction, use the
+unit in proper place where the
+temperature or humidity is not too
+high or low.
+
+22
+
+The unit is turned off without voice
+notification.
+yy In PORT. IN mode, voice notification
+on the battery status is unavailable.
+When the unit is turned off suddenly
+in PORT. IN mode, recharge the
+battery.
+The charging LED blinks rapidly when
+the unit is being charged.
+yy Turn down the volume of the unit.
+The LED stops blinking.

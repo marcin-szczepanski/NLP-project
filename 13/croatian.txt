@@ -1,0 +1,2429 @@
+RELEASING THIS DRAWING
+WITHOUT PERMISSION LG
+Electronics SHOULD BE
+ACCUSED ACCORDING TO THE
+LAWS AND COMPANY RULES.
+
+MFL67791832
+
+이 도면은 LG전자의 자산으로 불법
+유출시 관계법과 회사규정에 의해 처벌됨.
+
+WORK
+
+SEC.
+
+가
+BRAND
+
+32
+
+나
+MODEL
+
+LG
+
+F1*A8TDSA(1~9)
+
+다
+P/NO.
+
+PRINTING DEGREE
+
+MATERIAL AND PRINTING DESCRIPTION
+
+LG MODEL 명
+
+SUFFIX
+
+MFL67791832
+
+1
+
+SNOW WHITE 80g OFFSET 인쇄
+
+F1*A8TDSA(1~9)
+
+A**QCMR
+
+LANGUAGE
+
+CROATIAN
+
+REMARK
+
+PAGE
+
+40
+
+PRIME(R)_LED TOUCH,
+STEAM, 550, ENERGY UP
+DATA 작업처 : 가람기획
+
+<< 주기 >>
+<FRONT>
+
+<BACK>
+
+가
+
+210
+
+나
+
+1. 재질, 인쇄방법, 인쇄도수, 외곽치수등은 작업표에 준한다.
+2. 인쇄내용, 문자크기 및 형상, 선의 굵기 등은 설계에서 제시된 FILM에 준함.
+3. 외곽치수는 절단후 치수임.
+4. 양산전에 설계 한도를 득할 것.
+5. 본 부품에 금지물질이 포함되지 않도록 하고, 상세내용은 LG(63)-A-5501-34를 만족할 것
+<< NOTES >>
+
+P/NO. 다
+
+150
+
+150
+
+1.
+2.
+3.
+4.
+
+Material, printing and exterier size are refer to work tables.
+Printing, text size and line are based on LG design film.
+Exterier size on the drawing is cutting line.
+Before product controlled by criteria sample.
+
+5. The part should not contain prohibited substances(Pb,Cd,Hg,Cr+6,PBB,PBDE)and details
+should comply with LG standard of LG(63)-A-5501-34
+
+PDF
+ILLUSTRATOR
+TRIG.
+
+UNIT
+
+mm
+
+SCALE
+
+N
+
+S
+MODELING DESIGNED REVIEWED CHECKED APPROVED
+1
+
+규격 심볼 & 문구 적용에 따른 인쇄내용 변경.
+
+EAGDA00129
+
+13/10/04
+
+노현윤
+
+김영수
+
+2
+
+메뉴얼 인쇄 내용 변경에 따른 수정
+
+EAGE200257
+
+14/02/17
+
+전형준
+
+김영수
+
+3
+
+LG 전자
+
+4
+REV. NO.
+기호
+
+안은주
+13.09.04
+
+REVISION DESCRIPTION
+변경 사항
+
+REF. NO.
+시방 번호
+
+DATE
+
+년/월/일
+
+PREPARED APPROVED
+시방자
+
+승인자
+
+전종묵
+13.09.04
+
+(주)
+
+LG Electronics Inc.
+
+김민수
+13.09.05
+
+김영수
+13.09.06
+
+RELATED DWG.
+
+T
+I
+T
+L
+E
+DWG.
+No.
+
+DR COMPLETED
+도면 DR 완료
+완료일 :
+
+MANUAL,OWNER’S
+DRUM-EXPORT 1/1
+
+MFL67791832
+
+PRIRUâNIK ZA KORISNIKA
+
+PERILICA ZA PRANJE RUBLJA
+Prije početka instaliranja, pažljivo pročitajte upute.
+Tako ćete pojednostaviti instaliranje i osigurati pravilnu i sigurnu
+instalaciju perilice. Nakon instaliranja, čuvajte ove upute u blizini
+perilice za slučaj buduće potrebe.
+F14A8TDSA(1~9)
+F12A8TDSA(1~9)
+
+P/No.: MFL67791832
+
+www.lg.com
+
+SadrÏaj
+Sadræaj .........................................2
+Odlike proizvoda .......................3
+Vaæne sigurnosne upute
+Vaæne sigurnosne upute...........................4
+Osnovne mjere opreza .............................5
+Spremite ove upute ..................................6
+
+Specifikacija ...............................7
+Instaliranje
+Skidanje ambalaæe ....................................8
+Uklanjanje transportnih vijaka ...................8
+·to se traÏi od mjesta za instaliranje.........9
+Prikljuãivanje dovodnog crijeva ...............11
+Instaliranje odvodnog crijeva...................13
+Pode‰avanje visine .................................14
+
+Hvala vam ‰to ste kupili LG potpuno
+automatsku perilicu za pranje rublja.
+Molimo vas da paÏljivo proãitate svoj
+priruãnik za korisnika, on u sebi sadrÏi
+vaÏne informacije o sigurnom
+instaliranju, kori‰tenju i odrÏavanju.
+Ovaj priruãnik saãuvajte kao buduçu
+referencu.
+Zapi‰ite tip modela i serijski broj va‰e
+perilice za pranje rublja.
+Model br.
+Serijski br.
+Datum kupnje
+
+Kako koristiti perilicu rublja
+Rad perilice za rublje...............................16
+Briga prije pranja .....................................17
+Tablica programa za pranje.....................18
+Dodatne moguÊnosti ...............................19
+Podaci o radu ..........................................20
+UpravljaËka ploËa ....................................21
+Dodatni program......................................22
+- Odgoda pranja (Time Delay).................22
+- Parno pranje (Steam Wash)..................22
+- Omiljeni (Favorite).................................22
+- Pretpranje (Pre Wash) ..........................22
+Opcija ......................................................23
+- Medicinsko ispiranje (Medic Rinse).......23
+- Pranje (Wash) .......................................23
+- Temp. (Temp.) ......................................23
+- Ispiranje (Rinse) ....................................23
+- Centrifugiranje (Spin) ............................23
+- Ispiranje+Centrifugiranje (Rinse+Spin) .23
+Druge funkcije .........................................23
+- Samo centrifugiranje .............................23
+- Osvjeæavanje.........................................23
+Blokada za djecu je .................................24
+UkljuËivanje / IskljuËivanje zvuËnog
+signala ....................................................24
+âi‰çenje bubnja.......................................25
+ZakljuËavanje i Odreivanje teæine..........25
+
+2
+
+Dodavanje deterdÏenta
+Dodavanje deterdÏenta i omek‰ivaãa
+rublja........................................................26
+
+OdrÏavanje
+Ulazni filter za vodu.................................28
+Filter pumpe za odvod.............................29
+Ladica spremnika ....................................30
+Bubanj za pranje .....................................31
+âi‰çenje va‰e perilice..............................31
+Hladno stanje ..........................................31
+
+Vodiã za otklanjanje gre‰aka
+Otkrivanje problema ...............................32
+Poruke o greπci .......................................34
+Upotreba SMARTDIAGNOSISTM .............35
+
+Uvjeti garancije .........................36
+Podaci o radu.............................37
+
+Odlike proizvoda
+ Izravni pogonski sustav
+Unaprije√eni inverterski motor bez ãetkica izravno vrti bubanj bez remena
+i kotaãa.
+
+ 6 okretanja
+Perilica rublja moæe izvoditi razliËite radnje bubnja ili kombinaciju razliËitih
+radnji ovisno o odabranom programu pranja. U kombinaciji s
+kontroliranom brzinom okretanja i moguÊnosti da se bubanj okreÊe u lijevo
+i desno, znatno je poboljπana uËinkovitost pranja perilice, πto vam pruæa
+savrπene rezultate kod svakog pranja.
+
+ Za‰tita protiv guÏvanja
+S promjenama smjera vrtnje bubnja, smanjeno je guÏvanje rublja.
+
+ Ugra√eni grijaã
+Ugra√eni grijaã automatski zagrijava vodu na najbolju temperaturu za
+odabrani ciklus pranja.
+
+ Inteligentni sustav pranja pruÏa veçu ekonomiãnost
+Inteligentni sustav pranja detektira koliãinu rublja i temperaturu vode, i
+onda odre√uje optimalnu koliãinu vode i vrijeme pranja kako bi smanjio
+potro‰nju energije i vode na najmanju moguçu mjeru.
+
+추가선택
+
+예약
+
+ Za‰tita za djecu
+Sistem za‰tite za djecu koristi se kako bi se djecu onemoguçilo da
+pritiskanjem tipki promjene program za vrijeme rada.
+
+ Sustav kontrole brzine smanjene buke.
+Detektiranjem koliãine rublja i ravnoteÏe. Stroj ravnomjerno
+raspore√uje rublje kako bi na najmanju moguçu mjeru smanjio razinu
+buke vrtnje.
+
+3
+
+VaÏne sigurnosne upute
+PRO»ITAJTE SVE UPUTE I OBJA©NJENJA ZA INSTALIRANJE PRIJE
+UPOTREBE
+
+UPOZORENJE
+Zbog svoje sigurnosti se morate pridræavati uputa u ovom priruËniku kako bi u najveÊoj mjeri
+umanjili opasnost od poæara ili eksplozije, strujnog udara, ili kako bi sprijeËili oπteÊenje imovine,
+ozljede ili smrt.
+
+Vaπa sigurnosti i sigurnost drugih je vrlo vaæna.
+U priruËniku i na samom ureaju smo postavili brojne vaæne sigurnosne poruke.
+Uvijek proËitajte i pridræavajte se svih sigurnosnih poruka.
+Ovo je simbol sigurnosnog upozorenja.
+Ovaj simbol vas upozorava na moguÊe opasnosti koje vas ili druge mogu ubiti ili ozlijediti.
+Svim sigurnosnim porukama Êe prethoditi simbol sigurnosnog upozorenja s jednom od
+sljedeÊih rijeËi, OPASNOST, UPOZORENJE ili OPREZ.
+Te rijeËi znaËe:
+
+OPASNOST
+Ako se odmah ne budete pridræavali uputa bit Êete ozbiljno ozlijeeni ili ubijeni.
+
+UPOZORENJE
+Ukoliko se ne pridræavate uputa moæete biti ozbiljno ozlijeeni ili ubijeni.
+
+OPREZ
+Ako se ne budete pridræavali uputa moæete se lako ozlijediti ili moæete oπtetiti proizvod.
+Sve sigurnosne poruke Êe vam reÊi πto bi mogla biti moguÊa opasnost, reÊi Êe vam kako
+smanjiti moguÊnost ozljeivanja i reÊi Êe vam πto se moæe dogoditi ukoliko se ne pridræavate
+uputa.
+
+4
+
+VaÏne sigurnosne upute
+■ Osnovne mjere opreza
+
+UPOZORENJE
+Kako bi tijekom koriπtenja perilice smanjili opasnost od poæara, strujnog udara ili ozljeivanja,
+slijedite osnovne mjere opreza, ukljuËujuÊi sljedeÊe:
+
+• Prije instaliranja, provjerite vanjska
+oπteÊenja. Ukoliko ima vanjskih
+oπteÊenja, ne instalirajte ureaj.
+• Ne postavljajte i ne spremajte perilicu
+na mjesta izloæena vremenskim
+nepogodama.
+• Ne igrajte se upravljaËkim dijelovima.
+• Ne vrπite popravke i ne zamjenjujte
+dijelove perilice i ne pokuπavajte vrπiti
+servisiranje, osim u sluËajevima kada
+se to izriËito preporuËuje u uputama
+za korisniËko odræavanje ili kada je to
+objavljeno u uputama za popravak od
+strane samog korisnika, a koje ste
+razumjeli i za koje imate vjeπtinu
+potrebnu za popravak.
+• U podruËju ispod i oko vaπeg ureaja
+ne dræite zapaljive materijale kao πto
+su vlakna, papir, tepisi, kemikalije i sl.
+• Mala djeca i nesamostalne osobe ne
+mogu koristiti ureaj bez nadzora. Ne
+dopuπtajte djeci da se igraju s
+ureajem, na ureaju ili unutar ovog
+ili bilo kojeg drugog ureaja.
+• Dræite male æivotinje dalje od ureaja.
+• Ne ostavljajte vrata perilice otvorena.
+Otvorena vrata mogu privuÊi djecu da se
+vjeπaju o vrata ili da se zavuku u perilicu.
+
+• Nikada ne poseæite u perilicu kada
+radi. PriËekajte da se bubanj potpuno
+zaustavi.
+• Proces pranja rublja moæe smanjiti otpornost
+tkanina na vatru. Kako bi izbjegli taj
+uËinak, paæljivo slijedite upute
+proizvoaËa za pranje i odræavanje
+tkanine.
+
+• Ne perite predmete koji su bili
+oËiπÊeni, oprani, natopljeni ili
+poprskani sa zapaljivim ili
+eksplozivnim materijama (kao πto je
+vosak, nafta, boja, benzin,
+odmaπËivaÊi, otapala za kemijsko
+ËiπÊenje, kerozin i sl.) koji se mogu
+zapaliti ili eksplodirati. Ulje moæe ostati u
+kadi perilice nakon zavrπetka ciklusa pranja,
+πto moæe rezultirati poæarom tijekom suπenja.
+
+Zato ne stavljate u perilicu nauljenu
+odjeÊu.
+• Ne lupajte vratima perilice kod
+zatvaranja i ne otvarajte vrata na silu
+kada su zakljuËana. To moæe rezultirati
+oπteÊenjem perilice.
+
+• Kada perilica radi na visokim
+temperaturama, prednja vrata mogu
+biti jako vruÊa. Ne dirajte vrata.
+• Kako bi smanjili moguÊnost strujnog
+udara, iskopËajte utikaË perilice iz
+utiËnice ili iskljuËite (izvadite)
+osiguraË koji πtiti utiËnicu u koju je
+ukopËana perilica, prije svakog
+pokuπaja odræavanja ili ËiπÊenja
+perilice.
+• Kod iskapËanja elektriËnog kabela, ne
+poteæite utikaË potezanjem kabla.
+U protivnom moæete oπtetiti elektriËni kabel.
+
+• Nikada ne pokuπavajte koristiti ureaj
+ako je oπteÊen, neispravan za rad,
+djelomiËno rastavljen ili ukoliko
+nedostaju ili su polomljeni neki
+dijelovi, ukljuËujuÊi oπteÊeni utikaË ili
+utiËnicu.
+
+5
+
+VaÏne sigurnosne upute
+■ Osnovne mjere opreza
+
+UPOZORENJE
+Kako bi tijekom koriπtenja perilice smanjili opasnost od poæara, strujnog udara ili ozljeivanja,
+slijedite osnovne mjere opreza, ukljuËujuÊi sljedeÊe:
+
+• IskopËajte utikaË prije odbacivanja
+starog ureaja. Onesposobite utikaË.
+Odreæite kabel na samom kuÊiπtu
+ureaja kako bi onemoguÊili
+zloupotrebu ureaja.
+• Kada je proizvod potopljen u vodi.
+Molimo pozovite servisni centar.
+Postoji opasnost od strujnog udara i poæara.
+
+• Ureaj prikljuËite na prikljuËke za
+vodu koristeÊi nova crijeva za vodu.
+Ne koristite stara crijeva za vodu.
+
+• Kako bi smanjili opasnost od
+ozljeivanja, pridræavajte se svih
+preporuËenih sigurnosnih mjera i
+postupaka ukljuËujuÊi koriπtenje
+zaπtitnih rukavica s dugim rukavima i
+sigurnosnih naoËala. Nepridræavanje
+cjelokupnih sigurnosnih upozorenja u ovom
+priruËniku moæe imati za posljedicu oπteÊenje
+imovine, ozljede i smrt.
+
+• Ne pritiπÊite vrata prejakom silom,
+kada su vrata perilice otvorena. Tako
+moæete prevrnuti perilicu.
+
+■ Spremite ove upute
+UPUTE ZA UZEMLJENJE
+Ovaj ureaj mora biti uzemljen. U sluËaju neispravnosti ili kvara, uzemljenje Êe smanjiti
+opasnost od strujnog udara, stvarajuÊi put najmanjeg otpora za elektriËnu struju.
+Ureaj je opremljen s elektriËnim kabelom koji ima æicu vodiË za uzemljenje ureaja i utikaË s
+uzemljenjem. UtikaË se mora ukopËati u odgovarajuÊu utiËnicu koja je pravilno instalirana i
+uzemljena u skladu sa svim lokalnim zakonima i odredbama.
+• Ne koristite produæni kabel jer tako moæete utikaË ukopËati u neuzemljenu utiËnicu.
+• Ako nemate pravilnu utiËnicu, potraæite savjet elektriËara.
+
+UPOZORENJE
+Nepravilno prikljuËivanje vodiËa za uzemljenje na ureaju, moæe imati za posljedicu strujni udar.
+Ako sumnjate je li ureaj pravilno uzemljen, provjerite spoj uzemljenja s kvalificiranim
+elektriËarom ili serviserom. Ne prilagoavajte utikaË koji se isporuËuje s ureajem - ukoliko ne
+odgovara vaπoj utiËnici, neka kvalificirani elektriËar postavi pravilnu utiËnicu.
+
+6
+
+Specifikacija
+Prijenosni vijci
+
+Elektriãni utikaã
+
+Ladica
+
+• Ako je napojni kabel
+o‰teçen, njega mora
+zamjeniti proizvo√aã, ili
+njegov servisni predstavnik
+ili sliãna kvalificirana osoba
+kako bi se izbjegla opasnost.
+
+(Za deterdÏent
+i omek‰ivaã)
+
+Kontrolna ploãa
+Odvodne
+cijevi
+
+Bubanj
+
+Filter pumpe za odvod
+Vrata
+
+Odvodni prikljuãak
+
+Podesiva noga
+
+Poklopac donje ploãe
+
+■ Naziv
+
+: Perilica za pranje rublja s prednjim vratima
+
+■ Napajanje
+
+: 220 – 240V~, 50Hz
+
+■ Veliãina
+
+: 600mm (·) X 590mm (D) X 850mm (V)
+
+■ TeÏina
+
+: 66 kg
+
+■ Maksimalna snaga
+
+: 2100 W (Pranje) / 1100 W (Parno pranje)
+0,33 W (NaËin rada iskljuËeno, NaËin rada ostavljeno ukljuËeno)
+
+■ Kapacitet pranja
+
+: 8 kg
+
+■ Dozvoljeni pritisak vode : 100 - 1000 kPa (1,0 - 10,0 kgf / cm2)
+■ Razina buke
+
+:
+F14A8TDSA(1~9)
+F12A8TDSA(1~9)
+
+Pranje
+54 dB(A)
+54 dB(A)
+
+Centrifugiranje
+73 dB(A)
+72 dB(A)
+
+Izgled i specifikacije mogu se mijenjati bez napomene kako bi podigli kvalitetu ure√aja.
+
+■ Dodaci
+
+Dovodno crijevo
+
+Zatezni kljuã
+
+7
+
+Instaliranje
+ Skidanje ambalaæe
+1. Skinite kartonsku kutiju i ambalaæu od
+stiropora.
+2. Podignite perilicu rublja i izvadite donju
+ambalaæu postolja.
+
+Perilica
+
+3. Skinite traku koja osigurava elektriËni
+kabel i crijevo za odvod.
+4. Izvadite napojno crijevo iz bubnja.
+
+osnova
+pakiranje
+
+NAPOMENA
+Zatezni kljuã
+
+• SaËuvajte kljuË za poravnavanje
+perilice koji se nalazi u ambalaæi
+postolja.
+
+UPOZORENJE
+• AmbalaÏa (npr. plastika, stiropor) moÏe biti opasna za djecu.
+Postoji opasnost od gu‰enja ! âuvajte svu ambalaÏu izvan dohvata djece.
+
+ Uklanjanje transportnih vijaka
+Da bi se sprijeãila unutra‰nja o‰teçenja, zategnuta su 4 posebna vijka.
+Prije pu‰tanja u rad perilice, uklonite vijke zajedno s gumenim omotaãima.
+Ako nisu uklonjeni, oni mogu uzrokovati te‰ke vibracije, buku i nepravilan rad.
+1. Odvrnite 4 vijka sa zateznim kljuãem koji
+vam je dostavljen.
+2. Izvadite 4 vijka zajedno s gumenim
+omotaãima lagano okreÊuÊi omotaã.
+
+NAPOMENA
+• SaËuvajte vijke za transport za sluËaj
+buduÊe potrebe.
+3. Rupe zatvorite dostavljenim kapicama.
+Prijenosni vijci
+
+8
+
+Instaliranje
+ ·to se traÏi od mjesta za instaliranje
+Perilica
+
+❿Mjesto postavljanja
+• Ravan pod:
+Dopu‰teni pad ispod cijele perilice je 1°.
+• Elektriãna utiãnica:
+Mora biti unutar 1,5 m od svake strane poloÏaja perilice.
+Utiãnicu nemojte opteretiti s vi‰e od jednog ure√aja.
+
+pribliæno 2cm.
+
+• Dodatni prostor:
+Za zid, vrata i pod potreban je prostor.
+(10 cm: zadnji dio / 2 cm : desna i lijeva strana)
+Nikada ne stavljajte i ne odlaÏite rublje na vrh perilice.
+Ono moÏe o‰teti kraj ili upravljaãki sustav.
+
+❿Postavljanje
+• Instalirajte perilicu na ravan i ãvrsti pod. Pazite da kruÏenje zraka oko perilice nije zaprijeãeno
+tepisima i sl.
+• Nikada ne poku‰avajte neravnine poda ispraviti komadima drveta, kartona ili drugim sliãnim
+materijalima, stavljajuçi ih ispod perilice.
+• Ako nije moguçe izbjeçi instaliranje perilice pored plinskog kuhala ili peçi na ugljen, izme√u
+dva ure√aja je potrebno postaviti izolacijsku ploãu (85 x 60 cm) s aluminijskom stranom prema
+kuhalu ili peçi.
+• Perilica se ne smije instalirati u sobi u kojoj temperatura moÏe pasti ispod 0°C.
+• Molimo osigurajte da nakon instaliranja perilice, u sluãaju kvara, toj perilici moÏe priçi ovla‰teni
+serviser.
+• Kada se perilica instalira, podesite i uãvrstite sve ãetiri noÏice pomoçu isporuãenog kljuãa za
+transportne vijke, tako da je stroj stabilan i da ima najmanje 20 mm slobodnog prostora od
+vrha perilice do radne plohe iznad nje.
+• Ovaj aparat nije predvi√en za rad na moru ili u pokretnim vozilima kao ‰to su prikolice, avioni i
+sl.
+
+9
+
+Instaliranje
+❿Elektriãni prikljuãak
+• Nemojte koristiti produÏni kabel ili dvojni adapter.
+• Ako je napojni kabel o‰teçen, njega mora zamijeniti proizvo√aã, ili njegov servisni predstavnik
+ili sliãna kvalificirana osoba kako bi se izbjegla opasnost.
+• Poslije upotrebe uvijek iskopãajte utikaã perilice i zatvorite dovod vode.
+• Prikljuãite perilicu na uzemljenu utiãnicu u skladu sa vaÏeçim pravilima o spajanju na
+naponsku mreÏu.
+• Ure√aj mora biti postavljen tako da je utiãnica lako dostupna.
+• Perilicu smije popravljati samo struãna osoba. Ako popravke izvodi nestruãna osoba moÏe
+doçi do ozljeda i velikih gre‰aka u radu. Nazovite najbliÏi servis.
+• Perilica ne smije biti u prostorijama u kojima temperatura moÏe pasti ispod nule.
+Smrznute cijevi mogu puknuti pod pritiskom.
+Na temperaturama ispod nule elektroniãka kontrola se moÏe poremetiti.
+• Ako perilicu dopremite po zimi i na temperaturi ispod nule: Neka perilica ostane nekoliko sati u
+prostoriji na sobnoj temperaturi prije nego je ukljuãite.
+
+OPREZ
+OPREZ u vezi s elektriãnim kabelom
+Preporuãuje se da se veçina ure√aja ukljuãi u zasebni strujni krug; ‰to znaãi, ure√aj se
+ukljuãuje u jednu utiãnicu koja napaja samo taj ure√aj, a na tom strujnom krugu vi‰e
+nema nijedne druge utiãnice. Kako bi bili sigurni provjerite specifikacijsku stranicu u
+ovom priruãniku za vlasnika. Ne preoptereçujte zidne utiãnice. Preoptereçene zidne
+utiãnice, slabo spojene ili o‰teçene zidne utiãnice, produÏni kablovi, o‰teçeni elektriãni
+kablovi, o‰teçena ili ispucana izolacija na kabelu predstavljaju opasnost. Svako od ovih
+stanja moÏe dovesti do strujnog udara ili poÏara. S vremena na vrijeme provjerite
+elektriãni kabel va‰eg ure√aja, a ako pregledom ustanovite o‰teçenja ili pohabanost,
+iskopãajte utikaã, prestanite upotrebljavati ure√aj i neka ovla‰teni serviser zamjeni
+elektriãni kabel ispravnim zamjenskim kabelom.
+Za‰titite elektriãni kabel od fiziãkih ili mehaniãkih o‰teçenja, kao ‰to su presavijanje,
+lomljenje, probadanje, uklje‰tenja vratima ili gaÏenje kabela. Posebnu paÏnju obratite
+na utikaã, zidne utiãnice, i na toãku na kojoj kabel izlazi iz ure√aja.
+Ako se ureaj napaja preko produænog kabla ili elektriËnog ureaja s prijenosnom
+utiËnicom, produæni kabel ili ureaj s prijenosnom utiËnicom se moraju postaviti tako da
+budu zaπtiÊeni od vlage i pljuskanja vode.
+
+OPREZ
+• Ure√ajem se ne bi smjela koristiti djeca kao ni nemoçne osobe bez nadzora.
+• Djeca trebaju biti pod nadzorom kako bi se osiguralo da ure√aj ne koriste u igri.
+
+10
+
+Instaliranje
+ Prikljuãivanje dovodnog crijeva
+• Pritisak vode mora biti izme√u 100 kPa i 1000 kPa (1,0 - 10,0 kgf / cm2)
+• Kada prikljuãite dovodno crijevo na slavinu nemojte ga vuçi ni presavijati.
+• Ako je pritisak vode veçi od 1000 kPa, tada treba instalirati ure√aj za smanjenje pritiska.
+• Periodiãno provjerite stanje crijeva i ako je potrebno zamijenite crijevo.
+
+❿Korak 1: Provjera gumenih brtvi na dovodnom crijevu
+• Sa dovodnim crijevom isporuãene su dvije
+gumene brtve ãija je svrha sprjeãavanje
+curenja vode. Provjerite vodonepropusnost prikljuãka perilice potpunim
+odvrtanjem slavine za vodu.
+
+Prikljuãak za
+crijevo
+Gumena
+brtva
+
+❿Korak 2: PrikljuËivanje crijeva na slavinu za vodu
+Tip A: PrikljuËivanje crijeva s navojem na slavinu s navojem
+• Zavrnite prikljuËak s navojem na crijevu na
+slavinu za vodu.
+
+Tip B: PrikljuËivanje crijeva s navojem na slavinu bez navoja
+Gornji prikljuËak
+
+Gumeno
+pakiranje
+
+Vijci za uËvrπÊivanje
+
+PloËa
+Crijevo za
+napajanje vodom
+
+1. Odvrnite prsten adaptera i 4 vijka za
+priËvrπÊivanje adaptera.
+2. Gurnite adapter na kraj slavine tako da
+gumena brtva na adapteru bude
+nepropusna za vodu iz slavine. UËvrstite
+prsten adaptera i 4 vijka za priËvrπÊivanje
+adaptera.
+3. Gurnite dovodno crijevo za vodu okomito
+prema gore tako da gumeni dio unutar
+crijeva potpuno nasjedne na slavinu i
+zatim uËvrstite crijevo zavrtanjem na
+desnu stranu.
+
+11
+
+Instaliranje
+Tip C: PrikljuËivanje crijeva s nasadnim spojem na slavinu bez navoja
+1. Odvrnite prsten adaptera i 4 vijka za
+priËvrπÊivanje adaptera.
+2. Skinite vodeÊi prsten ako je slavina
+prevelika za adapter.
+
+Prstenasta ploËa
+Vodilica
+
+3. Gurnite adapter na kraj slavine tako da
+gumena brtva na adapteru bude
+nepropusna za vodu iz slavine. UËvrstite
+prsten adaptera i 4 vijka za priËvrπÊivanje
+adaptera.
+4. Povucite dolje prsten za zakljuËavanje
+konektora, gurnite dovodno crijevo na
+adapter i otpustite prsten za
+zakljuËavanje. Pazite da se adapter
+zakljuËa na svom poloæaju.
+
+NAPOMENA
+PloËa za kaËenje
+
+• Nakon spajanja dovodnog crijeva na
+slavinu za vodu, otvorite slavinu za
+vodu kako bi isprali strane materijale
+(neËistoÊe, pijesak ili piljevinu) u
+crijevu za vodu. Pustite vodu da curi u
+kantu i provjerite temperaturu vode.
+
+❿Korak 3: PrikljuËivanje crijeva na perilicu
+• Provjerite da na crijevu nema lomova i
+da nije stisnuto.
+
+NAPOMENA
+• Po zavr‰etku povezivanja, ako voda curi iz crijeva ponovite iste korake upotrijebite
+najobiãniju vrstu slavine za napajanje vodom. U sluãaju da je slavina ãetvrtasta ili
+prevelika, skinite razdjelni prsten prije nego ‰to ubacite slavinu u adapter.
+Koriπtenje vodoravne slavine
+Vodoravna slavina
+
+12
+
+Slavina s nastavkom
+
+Kvadratna slavina
+
+Instaliranje
+ Instaliranje odvodnog crijeva
+• Odvodno se crijevo ne smije postaviti vi‰e
+od 100 cm iznad poda.
+Voda ne otjeËe iz perilice ili otjeËe sporo.
+otprilike 100 cm
+
+• Pravilno osiguranje odvodnog crijeva
+saãuvati çe pod od o‰teçenja uzrokovanih
+curenjem vode.
+
+max. 100 cm
+
+otprilike 145 cm
+
+• Kada je odvodno crijevo predugo, ne
+gurajte ga silom natrag u perilicu. To çe
+prouzroãiti neuobiãajenu buku.
+otprilike 105 cm
+
+• Kod instaliranja odvodnog crijeva u
+sudoper, ãvrsto ga osigurajte vezanjem.
+• Pravilno osiguranje odvodnog crijeva
+saãuvati çe pod od o‰teçenja uzrokovanih
+curenjem vode.
+
+Korito za rublje
+DrÏaã
+crijeva
+max.100cm
+max.100cm
+
+Plastiãna
+vezica
+
+13
+
+Instaliranje
+ Pode‰avanje visine
+1. Pravilno pode‰avanje visine perilice
+sprijeãava pretjeranu buku i vibracije.
+Instalirajte ure√aj na ãvrstoj i ravnoj povr‰ini
+poda, po moguçnosti u kutu prostorije.
+
+NAPOMENA
+• Drveni pod ili vrste podignutih podova
+mogu dovesti do prevelikih vibracija i
+gre‰aka uslijed neravnoteÏe.
+
+2. Ako je pod neravan, podesite noge koliko je
+potrebno, ne podmeÊite komade drveta i sl.
+pod noge. Provjerite stoje li sve Ëetiri noge
+stabilno i oslanjaju li se na pod. Zatim uz
+pomoÊ vodene vage provjerite stoji li ureaj
+potpuno ravno.
+Dizanje
+
+Spuπtanje
+
+Matica za
+osiguranje
+Dobro priËvrstite sve
+4 matice za
+osiguranje.
+
+• Kada je perilica u ravnom poloæaju, zategnite
+matice za osiguranje prema gore u odnosu na
+postolje perilice. Sve matice za osiguranje
+moraju biti dobro zategnute.
+
+• Dijagonalna provjera
+Kod dijagonalnog pritiskanja rubova gornje
+ploãe perilice prema dolje, perilica se ne
+smije niti malo pomaknuti ni gore ni dolje.
+(Molimo vas da provjerite oba pravca) Ako se
+kod dijagonalnog pritiskanja perilica ljulja,
+ponovno podesite noge.
+
+NAPOMENA
+• Ako se perilica postavlja na podignuto postolje, mora se dobro uËvrstiti, kako bi se iskljuËila
+opasnost od padanja perilice.
+
+14
+
+Instaliranje
+❿Betonski podovi
+• Povr‰ina za instaliranje mora biti ãista, suha i ravna.
+• Instalirajte perilicu na ãvrsti ravan pod.
+
+❿Podovi s keramiãkim ploãicama (Skliski podovi)
+• Postavite svaku noÏicu na podloæak (Tread Mate) i podesite perilicu u ravan poloÏaj. (Isjecite
+podloæak (Tread Mate) u kvadrate veliãine 70x70 mm i zaljepite komade na suhe ploãice na
+mjestu gdje çe stajati perilica.)
+• Tread Mate je samoljepivi materijal koji se upotrebljava da sprijeãi klizanje na ljestvama i
+stepenicama.
+
+❿Drveni podovi (Podignuti podovi)
+• Drveni podovi su posebno osjetljivi na vibracije.
+• Kako biste sprijeãili vibraciju preporuãujemo vam da ispod svake
+noÏice postavite gumenu kapicu, debljine najmanje 15 mm, najmanje
+dvije kapice je potrebno uãvrstiti vijcima.
+
+Gumena kapica
+
+• Ako je to moguçe, perilicu instalirajte u kut sobe, jer je na tom mjestu
+pod ãvr‰çi.
+• Umetnite gumene kapice da smanjite vibracije.
+• Gumene kapice moÏete nabaviti (p/no.4620ER4002B) kod LG odjela za rezervne dijelove.
+
+NAPOMENA
+• Pravilno postavljanje i niveliranje perilice osigurava dug, redovan i pouzdan radni vijek
+stroja.
+• Perilica mora apsolutno stajati u okomitom poloÏaju i mora stajati ãvrsto na svom mjestu.
+• Kada je puna rublja perilica se ne smije ljuljati.
+• Povr‰ina za instaliranje mora biti ãista, bez la‰tila i drugih premaza za podove.
+• Ne dozvolite da se noÏice perilice namoãe vodom. Ako se noÏice navlaÏe vodom, tada moÏe
+doçi do klizanja.
+
+15
+
+Kako koristiti perilicu rublja
+ Rad perilice za rublje
+1. Razvrstajte rublje.
+(Pogledajte stranicu 17.)
+
+2. Otvorite vrata i stavite rublje u perilicu.
+
+3. Pritisnite tipku za ukljuËivanje.
+
+4. Odaberite program.
+(Pogledajte stranice 18 - 20.)
+Odaberite potrebne opcije.
+(Pogledajte stranice 22 - 25.)
+■
+■
+■
+■
+
+Dodatni program
+Temperatura
+Brzina centrifuge
+Druge funkcije
+
+5. Dodajte deterdæent.
+(Pogledajte stranice 26 - 27.)
+
+6. Pritisnite tipku za Start/Pauzu.
+
+16
+
+Kako koristiti perilicu rublja
+ Briga prije pranja
+Temperatura pranja
+Normalno pranje
+Materijal koji se
+ne guæva
+Ruãno pranje
+
+Osjetljivo rublje
+Pranje nije
+dozvoljeno
+
+Razvrstavanje rublja prema...
+Uprljanosti
+
+Temperatura
+pranja
+
+Boja
+
+Vrsta robe
+
+1. Etiketa na rublju
+Pogledajte etiketu na svom rublju. Ovdje çete saznati o
+tvorniãkom sastavu va‰e odjeçe i o naãinu na koji se treba prati.
+2. Sortiranje
+Kako biste postigli najbolji rezultat, sortirajte odjeçu u koliãine
+za pranje koje se mogu prati istim ciklusom pranja.
+Temperatura vode i brzina okretanja i razliãiti odjevni predmeti
+moraju se prati na razliãite naãine. Moæe doÊi do prijenosa
+boje i pamuËnih mrvica koji moæe uzrokovati gubitak bjeline i
+sl. Ako je to moguçe, ne perite te‰ko uprljane komade s malo
+uprljanim komadima.
+• Uprljanost ( Jako, normalno, malo)
+Odvojite odjeçu prema jaãini uprljanosti.
+• Boja ( Bijela, Svijetla, Tamna)
+Odvojite bijelu odjeçu od ‰arene odjeçe.
+• Pahuljice (odjeça koja skuplja ili pu‰ta pahuljice)
+Odvojeno perite odjeçu koja skuplja pahuljice od one koja
+pu‰ta pahuljice
+3. PaÏnja prije stavljanja rublja u perilicu
+Kombinirajte velike i male komade. Velike komade stavljajte
+prije, njihova koliËina ne smije biti veÊa od polovice ukupnog
+optereÊenja. Nemojte prati pojedinaËne komade. To moæe
+izazvati neuravnoteæeno optereÊenje. Umetnite joπ jedan ili
+viπe komada.
+• Provjerite sve dÏepove da se uvjerite jesu li prazni. Predmeti
+kao ‰to su pribadaãe, ukosnice, ‰ibice, olovke, kovanice i
+kljuãevi mogu o‰teti jednako va‰u perilicu i va‰e rublje.
+• Zatvorite zatvaraãe, kuke i vezice kako bi bili sigurni da se ovi
+predmeti neçe zakaãiti za drugo rublje.
+• Mrlje i neãistoçu obradite prije pranja utrljavajuÊi malo
+deterdÏenta rastopljenog u vodi na mrlje ovratnika i sliãnih
+mjesta da se lak‰e odstrani neãistoça.
+• Da biste sprijeãili o‰teçivanje gume vrata i odjeçe, uvjerite se
+da nijedan komad odjeçe nije zaglavio izme√u vrata bubnja i
+gume.
+• Provjerite da li se u naborima gume vrata nalaze mali
+predmeti koji su se tu moÏda zaglavili.
+• Provjerite da li je u bubnju ostao neki komad rublja
+nepaÏnjom zaglavljen u perilici, jer tokom sljedeçeg
+programa pranja moÏe se o‰tetiti. (npr. smanji ili izgubi boju)
+
+NAPOMENA
+• Prije prvog pranja, Odaberite ciklus Pamuk 60°C, dodajte polovicu deterdÏenta i pustite perilicu da pere bez
+odjeçe. Time çe se ukloniti ostaci iz bubnja koji su moÏda ostali poslije procesa proizvodnje.
+
+17
+
+Kako koristiti perilicu rublja
+ Tablica programa za pranje
+• Preporuãeni postupci prema vrsti rublja
+Program
+
+Opis
+
+Vrsta robe
+
+Pravilna
+Najviπa
+temp.
+teæina
+40°C
+(Hladno na 95°C)
+
+Pruæa bolje performanse kombinirajuÊi
+Obojeni odjevni predmeti (majice,
+razliËita okretanja bubnja.
+spavaÊice, pidæame, itd.) i punjenje
+Procjena
+Ekoloπki
+umjereno zaprljanog pamuka
+60°C
+Pruæa
+optimalne
+performanse
+pranja
+s
+program za
+(donje rublje).
+(Hladno na 60°C)
+manjom potroπnjom energije.
+pamuk
+Pamuk
+
+Easy Care
+
+Ovaj ciklus je prikladan za
+svakodnevne majice koje ne
+zahtijevaju glaËanje poslije pranja.
+
+Poliamid, akril, poliester.
+
+Mijeπano
+rublje
+
+OmoguÊuje istovremeno pranje
+raznovrsnih tkanina.
+
+Razne vrste tkanina izuzev posebne
+Prema
+40°C
+odjeÊe. (Svila/osjetljivi materijali,
+klasi
+sportska odjeÊa, tamna odjeÊa, vuna, (Hladno na 40°C)
+4,0 kg
+prekrivaËi/zavjese).
+
+Alergija
+program
+
+Uklanja izvore alergije kao πto su
+grinje, pelud i maËje dlake.
+
+Pamuk, donje rublje, jastuËnice,
+posteljina, odjeÊa za djecu.
+
+OmoguÊuje manje buke i treπnje i πtedi
+nova koristeÊi noÊnu elektriËnu energiju.
+
+OdjeÊa u boji (majice, pidæame i sl.) i
+slabo uprljani bijeli pamuk (donje
+rublje).
+
+40°C
+(Hladno na 60°C)
+
+Prema
+klasi
+4,5 kg
+
+PomoÊu pare uklanja nabore do
+20 min.
+
+Mijeπani pamuk, mijeπani poliester,
+koπulje, majice, bluze.
+
+Nema izbora
+
+3 komada
+
+Tiho pranje
+Osvjeæavanje
+
+Poplun
+
+Sportska
+odjeÊa
+Tamno
+rublje
+
+40°C
+(Hladno na 60°C)
+
+60°C
+
+PamuËni prekrivaËi izuzev posebnih
+Ovaj ciklus je namijenjen za velike
+tkanina (osjetljivi materijali, vuna, svila
+1 Jedna
+predmete kao πto su pokrivaËi za
+i sl.) sa ispunama. prekrivaËi, jastuci,
+veliãina
+40°C
+krevete, jastuci, pokrivaËi namjeπtaja i sl. prekrivaËi za fotelje s laganim
+(Hladno na 40°C)
+ispunama.
+Ovaj ciklus je namijenjen za sportsku
+odjeÊu kao πto je odjeÊa za trËanje.
+
+Coolmax, Gore-tex, flis i Sympatex.
+
+Ukoliko postoji moguÊnost gubljenja
+boje, molimo koristite ovaj ciklus. Ciklus Tamna odjeÊa napravljena od
+spreËava gubitak boje. (Molimo koristite pamuka i mijeπanih materijala.
+deterdæent za tkanine u boji.)
+
+20°C
+(Hladno na 40°C)
+
+Osjetljivo
+rublje
+
+Ovaj ciklus je namijenjen za osjetljivo
+rublje kao πto je donje rublje, bluze i sl.
+
+Osjetljivo rublje, koje se lako oπteÊuje.
+
+Vuna
+
+OmoguÊuje pranje vunenih tkanina.
+(Molimo koristite deterdæent za vunene
+tkanine perive u perilici.)
+
+40°C
+Vuneni materijali perivi u perilici samo
+(Hladno na 40°C)
+s Ëistom novom vunom.
+
+Brzo 30
+
+Ovaj ciklus omoguÊuje brzo pranje malih
+Obojano slabo uprljano rublje.
+koliËina slabo uprljane odjeÊe.
+
+Do 60 minuta omoguÊuje bolje
+Intenzivni
+performanse pranja i manju potroπnju
+program 60
+energije.
+
+18
+
+Pamuk i mijeπana tkanina. (Posebni
+PROGRAM do 60 minuta za
+normalno uprljano rublje.)
+
+Prema
+klasi
+2,0 kg
+
+20°C
+(Hladno na 40°C)
+60°C
+(Hladno na 60°C)
+
+Prema
+klasi
+4,0 kg
+
+Kako koristiti perilicu rublja
+• Temperatura vode: Odaberite temperaturu vode koja odgovara ciklusu pranja.
+Uvijek se pridræavajte naljepnice proizvoaËa odjeÊe ili uputa tijekom pranja.
+• Postavite program na “Ekoloπki program za pamuk 40°C + Intenzivno (Pola Punjenja)”,
+“Ekoloπki program za pamuk 60°C + Intenzivno (Pola Punjenja)”, “Ekoloπki program za pamuk 60°C +
+Intenzivno (Puni Teret)” opcija za test prema usklaenosti s EN60456 i Uredba 1015/2010.
+- Standardni program 60°C pamuk :
+- Standardni program 40°C pamuk :
+(Pogodno za pranje umjereno umazane pamuËne odjeÊe.)
+(To su najuËinkovitiji programi u uvijetima kombinacije potroπnje energije i vode za pranje tog tipa
+pamuËnog rublja.)
+* Stvarna temperatura vode se moæe razlikovati od naznaËene temperature za ciklus pranja.
+• Rezultati testa ovise o pritisku vode, tvrdoÊi vode, temperaturi vode kojom se napaja perilica, sobnoj
+temperaturi, vrsti i koliËini tereta, stupnju koriπtenja deterdæenta i zaprljanosti, protoku elektriËne
+energije i odabranim dodatnim opcijama.
+
+NAPOMENA
+• Preporuãuje se kori‰tenje neutralnog deterdÏenta.
+• U programu za pranje vune blago okretanje i centrifuga male brzine ãuvaju stanje
+odjeçe/materijala.
+
+ Dodatne moguÊnosti
+Program
+
+Odgoda
+pranja
+
+Parno
+pranje
+
+Medicinsko Ispiranje+
+Uπteda
+Omiljeni Pretpranje ispiranje Centrifugiranje vremena Intenzivno
+
+Pamuk
+Ekoloπki program za pamuk
+Easy Care
+Mijeπano rublje
+Alergija program
+
+*
+
+Tiho pranje
+Osvjeæavanje
+
+*
+
+Poplun
+Sportska odjeÊa
+Tamno rublje
+Osjetljivo rublje
+Vuna
+Brzo 30
+Intenzivni program 60
+
+* : Ova opcija je automatski ukljuËena u ciklus i ne moæe se iskljuËiti.
+
+*
+
+19
+
+Kako koristiti perilicu rublja
+ Podaci o radu
+Maks. okr/min
+Program
+F14**
+
+F12**
+
+Pamuk
+
+1400
+
+1200
+
+Ekoloπki program za pamuk
+
+1400
+
+1200
+
+Easy Care
+
+1000
+
+1000
+
+Mijeπano rublje
+
+1400
+
+1200
+
+Alergija program
+
+1400
+
+1200
+
+Tiho pranje
+
+1000
+
+1000
+
+Osvjeæavanje
+
+–
+
+–
+
+Poplun
+
+1000
+
+1000
+
+Sportska odjeÊa
+
+800
+
+800
+
+Tamno rublje
+
+1400
+
+1200
+
+Osjetljivo rublje
+
+800
+
+800
+
+Vuna
+
+800
+
+800
+
+Brzo 30
+
+1400
+
+1200
+
+Intenzivni program 60
+
+1400
+
+1200
+
+NAPOMENA
+• Informacija o glavnim programima za pranje pola punjenja.
+Preostali sadræaj vlage
+
+Vrijeme u
+minutama
+
+1400 rpm
+
+Pamuk (40°C)
+
+94
+
+44 %
+
+Ekoloπki program
+za pamuk (60°C)
+
+120
+
+44 %
+
+Program
+
+20
+
+1200 rpm
+
+Voda u
+litrama
+
+Energija
+u kW/h
+
+53 %
+
+41
+
+0,74
+
+53 %
+
+41
+
+0,84
+
+Kako koristiti perilicu rublja
+ UpravljaËka ploËa
+SMARTDIAGNOSISTM funkcija je
+moguÊa na proizvodima s oznakom
+“SMARTDIAGNOSISTM”.
+
+Tipka
+Ukljuãi/Iskljuãi
+
+Biranje
+programa
+
+Tipka
+Poãetak/Pauza
+
+Ukljuãi/Iskljuãi
+• Pritisni tipku Ukljuãi/Iskljuãi da biste ukljuãili i
+iskljuãili elektriãno napajanje.
+
+Tipke za dodatni
+program
+
+LED
+zaslon
+
+Ukljuãivanje /
+Tipka
+Iskljuãivanje
+Moguãnost
+zvuãnog signala
+
+Dodatni program
+• Koristite ove tipke za odabir æeljenih opcija za
+odabrani ciklus.
+
+• Za poni‰tenje funkcije odgode pranja treba
+pritisnuti tipku Ukljuãi/Iskljuãi.
+
+Biranje programa
+• Na raspolaganju vam je 14 programa prema
+vrsti rublja.
+• Za indikaciju odabranog programa Êe se
+upaliti æaruljica.
+
+Poãetak/Pauza
+• Ova Poãetak/Pauza tipka koristi se za
+zapoãinjanje ciklusa pranja ili za pauziranje
+ciklusa pranja.
+
+LED zaslon
+• Zaslon prikazuje postavke, procijenjeno
+preostalo vrijeme, opcije i poruke za stanje
+za vaπu perilicu. Zaslon Êe ostati aktivan
+tijekom cijelog ciklusa.
+
+Opcije
+• Ovo vam omoguÊuje odabir dodatnog ciklusa,
+a kod odabira Êe se upaliti indikacija.
+
+• Ako je potrebno privremeno zaustaviti ciklus
+pranja, pritisnite tipku Poãetak/Pauza.
+• Kada je u perilica stanju Pauze, nakon 4
+minute çe se automatski iskljuãiti elektriãno
+napajanje.
+
+21
+
+Kako koristiti perilicu rublja
+ Dodatni program
+
+Odgoda pranja (Time Delay)
+
+Omiljeni (Favorite)
+
+Moæete postaviti vrijeme kaπnjenja tako da se
+perilica automatski ukljuËi i zaustavi nakon
+odreenog vremenskog intervala.
+
+Omiljeni program vam omoguÊuje spremanje
+prilagoenog ciklusa pranja za buduÊu
+upotrebu.
+
+NAPOMENA
+• Vrijeme kaπnjenja je vrijeme do kraja
+programa, a ne do poËetka rada.
+Stvarno vrijeme rada se moæe
+razlikovati ovisno o temperaturi vode,
+koliËini rublja i drugim faktorima.
+1. Pritisnite tipku Ukljuãi/Iskljuãi.
+2. Odaberite ciklus.
+3. Pritisnite tipku za Odgoda pranja i
+podesite Ïeljeno vrijeme.
+
+1. Pritisnite tipku Ukljuãi/Iskljuãi.
+2. Odaberite ciklus.
+3. Odaberite naËin. (NaËin pranja, broj
+ispiranja, brzinu okretanja, temperaturu
+vode i sl.)
+4. Pritisnite i drÏite tipku Omiljeni program 3
+sekunde.
+Favorite program je sada spremljen za
+buduÊu upotrebu.
+Za ponovno koriπtenje programa, odaberite
+Favorite program i pritisnite tipku start/pauza.
+
+4. Pritisnite tipku Poãetak/Pauza.
+
+Parno pranje (Steam Wash)
+
+Pretpranje (Pre Wash)
+
+Parno pranje funkcija poboljπava performanse
+pranja s niskom potroπnjom energije.
+Osvjeæavanje ciklus smanjuje guævanje odjeÊe.
+
+Ako je rublje jako uprljano uãinkovit je
+program "Pretpranje".
+
+1. Pritisnite tipku Ukljuãi/Iskljuãi.
+
+2. Odaberite ciklus.
+
+1. Pritisnite tipku Ukljuãi/Iskljuãi.
+
+2. Odaberite parni naËin.
+
+3. Pritisnite Pretpranje tipku.
+
+3. Pritisnite Parno pranje tipku.
+
+4. Pritisnite tipku Poãetak/Pauza.
+
+4. Pritisnite tipku Poãetak/Pauza.
+❿Parno pranje
+• Za jako uprljanu odjeÊu, donje rublje ili odjeÊu
+za djecu.
+• Moæe se koristiti kod programa Pamuk,
+Ekoloπki program za pamuk, Mijeπano rublje,
+Easy Care, Poplun, Alergija program,
+Osvjeæavanje.
+• Osvjeæavanje ciklus je uvijek Parno pranje.
+• Ne koristite Parno pranje za osjetljive tkanine
+kao πto je vuna, svila i tkanine s osjetljivim
+bojama.
+
+22
+
+Kako koristiti perilicu rublja
+ Opcije
+
+Medicinsko ispiranje (Medic Rinse)
+
+Ispiranje+Centrifugiranje (Rinse+Spin)
+
+Za najbolje rezlutate pranja I ispiranja.
+Ovom opcijom se voda u zadnjem ispiranju
+zagrijava na 40 stupnjeva.
+
+1. Pritisnite tipku Ukljuãi/Iskljuãi.
+2. Odaberite ciklus.
+
+1. Pritisnite tipku Ukljuãi/Iskljuãi.
+
+nost.
+3. Pritisnite tipku Moguãn
+(Ispiranje+Centrifugiranje svijetli).
+
+2. Odaberite ciklus.
+
+4. Pritisnite tipku Poãetak/Pauza.
+
+3. Pritisnite tipku za Medicinsko ispiranje i
+podesite Ïeljeno vrijeme.
+4. Pritisnite tipku Poãetak/Pauza.
+
+ Druge funkcije
+
+Pranje (Wash)
+
+Samo centrifugiranje
+
+• Uπteda vremena : Ova opcija se moæe
+koristiti za smanjenje vremena ciklusa pranja.
+
+1. Pritisnite tipku Ukljuãi/Iskljuãi.
+
+• Intenzivno : Ako je rublje normalno ili jako
+uprljano, “Intenzivno” opcija je uËinkovita.
+
+3. Pritisnite tipku Poãetak/Pauza.
+
+Temp. (Temp.)
+• Pritiskanjem tipke za Temp. moÏe se
+izabrati temperatura vode.
+- Hladno
+- 20°C / 40°C / 60°C / 95°C
+• Temperatura vode se moÏe izabrati kao
+dolje u skladu sa programom.
+
+Ispiranje (Rinse)
+• Ispiranje + Zadræavanje : Dodajte jedno
+ispiranje, a zatim je, nakon procesa
+ispiranja, ciklus zaustavljen sve dok se ne
+pritisne start tipka.
+• Normal + Zadræavanje : Ciklus se
+zaustavlja nakon ispiranja sve dok se
+ponovo ne pritisne start tipka.
+• Ispiranje++ : Dodaje dvaput ispiranje.
+• Ispiranje+ : Dodaje dvaput ispiranje.
+
+Centrifugiranje (Spin)
+
+2. Odaberite brzinu centrifugiranja.
+
+NAPOMENA
+• Kada odaberete “Bez centrifuge”,
+bubanj Êe se neko vrijeme polako
+okretati kako bi se ubrzao odvod vode.
+
+Osvjeæavanje
+1. Pritisnite tipku Ukljuãi/Iskljuãi.
+2. Odaberite Osvjeæavanje program.
+3. Pritisnite viπe puta Parno pranje tipku sve
+dok se prikaæe pravilno vrijeme.
+4. Pritisnite tipku Poãetak/Pauza.
+
+NAPOMENA
+• Za bolje performanse stavite u perilicu 3
+komada ili manje.
+Kada se zavrπi Osvjeæavanje ciklus,
+rublje Êe se nastaviti polako okretati joπ
+30 minuta kako bi se sprijeËilo
+guævanje. U tom razdoblju moæete
+otvoriti vrata tako da pritisnete bilo koju
+tipku.
+
+• Brzina centrifuge moæe se odabrati
+pritiskanjem tipka ‘Centrifugiranje’ .
+
+23
+
+Kako koristiti perilicu rublja
+ Blokada za djecu je
+Odaberite ovu funkciju za zakljuËavanje tipki na upravljaËkoj ploËi kako bi sprijeËili sluËajno
+aktiviranje. “Blokada za djecu je” se moæe postaviti samo tijekom ciklusa pranja.
+ZakljuËavanje upravljaËke ploËe
+1. Pritisnite 3 sekunde istovremeno tipke
+Blokada za djecu je.
+2. »ut Êe se bip ton i ‘
+‘ Êe se privremeno
+prikazati na LED zaslonu. Kada se postavi
+zakljuËavanje za djecu, bit Êe zakljuËane sve
+tipke izuzev tipke za ukljuËivanje.
+
+NAPOMENA
+• IskljuËivanje perilice neÊe resetirati funkciju
+zakljuËavanja za djecu. Prije pristupa u
+druge funkcije morate deaktivirati
+zakljuËavanje za djecu.
+OtkljuËavanje upravljaËke ploËe
+1. Pritisnite 3 sekunde istovremeno tipke
+Blokada za djecu je.
+2. »ut Êe se bip ton, a na LED zaslonu Êe se
+ponovo prikazati preostalo vrijeme trenutnog
+programa.
+
+ UkljuËivanje / IskljuËivanje zvuËnog signala
+Beep ukljuãeno/iskljuãeno funkcija moÏe se postaviti samo tijekom ciklusa pranja.
+1. Pritisnite tipku Ukljuãi/Iskljuãi.
+2. Pritisnite tipku Poãetak/Pauza.
+3. Pritisnite i drÏite tipku Temp. i Ispiranje
+istodobno tri sekunde kako biste postavili
+ukljuãivanje/iskljuãivanje beep funkcije.
+Nakon ‰to je postavljena funkcija zvuãnog signala
+ukljuãeno / iskljuãeno postavke su memorirane
+ãak i ako je ure√aj iskljuãen.
+
+NAPOMENA
+• Ako æelite iskljuËiti bip ton, jednostavno
+ponovite postupak.
+
+24
+
+Kako koristiti perilicu rublja
+ âi‰çenje bubnja
+âi‰çenje bubnja predstavlja jedan poseban program.
+U ovom programu stroj funkcionira s veçom koliãinom vode i veçim brojem okretaja centrifuge.
+Redovno koristite ovaj program.
+1. Izvadite rublje iz perilice i zatvorite vrata.
+2. Otvorite vrata spremnika i dodajte sredstvo
+protiv kamenca (npr. Calgon) u odjeljak za
+Glavno pranje.
+3. Polako zatvorite ladicu spremnika.
+4. UkljuËite perilicu, a zatim pritisnite i dræite
+âi‰çenje bubnja tipku na 3 sekunde.
+zatim Êe se prikazati “
+” na LED zaslonu.
+5. Pritisnite tipku za start/pauzu za poËetak rada.
+6. Kada se ciklus zavrπi, ostavite vrata otvorena
+kako bi se osuπio otvor vrata, brtva vrata i
+staklo na vratima.
+
+NAPOMENA
+• Ne stavljajte nikakve deterdæente u odjeljke za deterdæente.
+• Moglo bi doÊi do stvaranje prevelike pjene i curenja iz perilice.
+
+OPREZ
+• Ukoliko imate djece, pazite da ne ostavljate predugo otvorena vrata.
+
+ ZakljuËavanje i Odreivanje teæine
+•
+
+“ZakljuËavanje” ‡ Iz sigurnosnih razloga,
+vrata Êe biti zakljuËana kada perilica radi i
+svijetlit Êe ikona za “ZakljuËavanje”. vrata Êe
+se moÊi otvoriti kada nestane ikona
+“ZakljuËavanje”.
+
+•
+
+“Odreivanje teæine” ikona Êe se upaliti
+kada se perilica bude polako okretala i kada
+bude detektirala koliËinu rublja u bubnju. To Êe
+kratko trajati.
+
+25
+
+Dodavanje deterdÏenta
+ Dodavanje deterdÏenta i omek‰ivaãa rublja
+
+❿Ladica spremnika
+• Samo glavno pranje ➔
+• Pretpranje + Glavno pranje ➔
+Omek‰ivaã
+rublja
+
+UPOZORENJE
+• Dræite deterdæente dalje od dosega djece jer
+postoji opasnost od trovanja.
+• Previπe deterdæenta, izbjeljivaËa ili omekπivaËa
+moæe uzrokovati poplavu.
+• Uvijek koristite pravilnu koliËinu deterdæenta.
+
+DeterdÏent za DeterdÏent za
+pretpranje
+glavno pranje
+
+❿Dodavanje omek‰ivaãa rublja
+• Nemojte prijeçi preko crte za maksimalno sipanje.
+Polako zatvorite razdjelnu ladicu. Presipavanje
+moÏe uzrokovati prijevremeno pu‰tanje
+omek‰ivaãa za rublje koje moÏe ostaviti mrlje na
+rublju.
+• Ne ostavljajte omek‰ivaã za rublje duÏe od dva
+dana u ladici deterdÏenta. (omek‰ivaã za rublje se
+moÏe stvrdnuti)
+• Omek‰ivaã za rublje çe se automatski dodati za
+vrijeme zadnjeg ciklusa ispiranja.
+• Ne otvarajte ladicu za vrijeme uzimanja vode.
+• Otapala (benzin i sl.) nisu dozvoljena.
+
+NAPOMENA
+• Ne sipajte omekπivaËe rublja izravno na odjeÊu.
+
+26
+
+Dodavanje deterdÏenta
+❿Doziranje deterdÏenta
+• Sredstvo za pranje trebalo bi se upotrebljavati u skladu s uputama njegova proizvoaËa, a odabirati
+prema vrsti i boji tkanine, stupnju zaprljanosti i temperature pranja.
+• Ako upotrijebite previ‰e detergenta, moÏe se stvoriti mnogo sapunice i to çe smanjiti uËinkovitost
+pranja ili çe preopteretiti motor.
+• PreporuËujemo koriπtenje deterdæenata u prahu za najbolje rezultate.
+• Ukoliko æelite koristiti tekuÊi deterdæent, pratite uputstva osiguranih od strane proizvoaËa deterdæenta.
+• Moæete koristiti tekuÊi deterdæent izravno u ladicu za deterdæent ukoliko Êete odmah nakon toga
+pokrenuti program pranja.
+• Molimo, nemojte koristiti tekuÊi deterdæent ukoliko koristite opciju odgode pranja buduÊi da se tekuÊi
+deterdæent moæe stvrdnuti, ili ukoliko ste odabrali opciju pretpranja.
+• U sluËaju nastanka prevelike koliËine pjene, molimo smanjite koliËinu deterdæenta.
+• Upotreba deterdÏenta çe se moÏda trebati pode‰avati prema temperaturi vode, tvrdoçi vode, koliãini i
+jaãini prljavosti rublja u perilici. Za najbolje rezultate, izbjegavajte stvaranje prevelikih koliãina pjene.
+• Prije odabira sredstva za pranje i temperature vode pogledajte etiketu na odjeÊi.
+• Prilikom upotrebe s perilicom rublja, stavite samo navedeno sredstvo za pranje.
+- Viπenamjenska sredstva za pranje u prahu za sve vrste tkanina (hladno - 95°C )
+- Sredstva za pranje u prahu za osjetljive tkanine (hladno - 40°C)
+- TekuÊa sredstva za pranje za sve vrste tkanina (hladno - 95°C) ili namjenska sredstva za pranje samo
+za vunu (hladno - 40°C)
+• Za veÊu uËinkovitost pranja i izbjeljivanja upotrebljavajte sredstvo za pranje s viπenamjenskim
+izbjeljivaËem u prahu.
+
+UPOZORENJE
+• Nemojte dozvoliti stvrdnjavanje deterdæenta.
+To moæe voditi do blokada, slabe uËinkovitosti ispiranja ili loπih mirisa.
+
+NAPOMENA
+• Puna koliãina rublja: prema preporukama proizvo√aãa.
+• Djelomiãna koliãina rublja: 3/4 normalne koliãine.
+• Minimalna koliãina rublja: 1/2 pune koliãine.
+• DeterdÏent se uzima iz spremnika na poãetku ciklusa.
+
+❿Dodavanje omekπivaËa za vodu
+
+❿Upotreba tableta
+
+1. Otvorite vrata i ubacite tablete u bubanj.
+
+• Kako biste smanjili potro‰nju deterdÏenta za
+rublje u sluãaju vode visoke tvrdoçe, moÏete
+upotrijebiti sredstvo za omek‰avanje vode, na
+primjer Sredstvo protiv kamenca (Calgon).
+Upotrijebite koliãinu koja je preporuãena na
+pakiranju. Najprije dodajte deterdÏent za rublje, a
+zatim dodajte sredstvo za omek‰avanje vode.
+• DeterdÏent dozirajte kao za meku vodu.
+
+2. Napunite bubanj rubljem.
+
+27
+
+OdrÏavanje
+• Prije ãi‰çenja unutra‰njosti perilice, iskljuãite iz utiãnice elektriãni kabel kako bi izbjegli
+opasnost strujnog udara.
+• Zatvorite dovod vode ako ostavljate perilicu na duÏe vrijeme (npr. godi‰nji odmor), naroãito
+ako u blizini ne postoji odvod u podu.
+• Kad odlaÏete perilicu odsijecite glavni kabel i onesposobite utikaã.
+• Onesposobite zakljuãavanje brave kako se djeca ne bi mogla unutra zakljuãati.
+
+ Ulazni filter za vodu
+•“
+” poruka za gre‰ku çe treptati na kontrolnoj ploãi kada voda ne ulazi u ladicu za
+deterdÏent.
+• Ako je voda koju koristite jako tvrda ili sadrÏi tragove kamenca moÏda se zaãepio ulazni filter
+za vodu. Zato je dobra ideja oãistiti ga s vremena na vrijeme.
+1. Zatvorite slavinu za vodu.
+
+2. Odvijte dovodno crijevo.
+
+3. Oãistite filter koristeçi o‰tru ãetku.
+
+4. Priãvrstite dovodno crijevo.
+
+28
+
+OdrÏavanje
+ Filter pumpe za odvod
+• Filter pumpe za odvod sakuplja niti i male predmete ostavljene u rublju.
+Redovito provjeravajte ãistoçu filtera kako biste osigurali dobar rad svoga stroja.
+
+OPREZ
+• Najprije pustite da voda isteãe kroz odvodno crijevo i tada otvorite filter pumpe za
+odvod kako bi uklonili sve niti ili predmete u njemu.
+• Kad ãistite filter ostavite da se voda ohladi, ako praznite perilicu u hitnom sluãaju ili otvarate
+vrata zbog nekog hitnog sluãaja.
+1. Otvorite vrata na prednjoj oplati stroja i
+odvijte ãep odvodne cijevi.
+
+2
+
+Spremnik za
+sakupljanje
+odvodne vode.
+
+2. Izvucite ãep. Za va√enje filtra, odvijte na lijevu
+stranu.
+
+1
+
+3. Odstranite sva strana tijela iz filtra pumpe (3).
+
+4. Nakon ãi‰çenja stavite na mjesto filtar i vratite
+odlivni ãep.
+
+5. Zatvorite vrata na prednjoj oplati stroja.
+
+29
+
+OdrÏavanje
+ Ladica spremnika
+• Nakon nekog vremena deterdÏenti i omek‰ivaãi rublja ostavljaju talog u ladici.
+• Spremnik se treba s vremena na vrijeme ãistiti mlazom tekuçe vode.
+• Ako je to potrebno on se moÏe potpuno izvaditi iz stroja pritiskanjem ruãke prema dolje i
+izvlaãenjem van.
+• Da pobolj‰ate ãi‰çenje, moÏe se ukloniti gornji dio dijela omek‰ivaãa za rublje.
+1. Izvucite odjeljak za doziranje.
+
+2. Oãistite je tekuçom vodom.
+
+3. Mjesto dozirne posude oãistite s jednom starom
+ãetkicom za zube.
+
+4. Vratite na mjesto odjeljak za doziranje.
+
+30
+
+OdrÏavanje
+ Bubanj za pranje
+• Ako Ïivite u podruãju s tvrdom vodom, povremeno se, na mjestima na kojima je to te‰ko vidjeti i stoga
+te‰ko otkloniti, moÏe nakupiti kamenac. Nakon nekog vremena nataloÏeni kamenac zarobljava ure√aje i
+ako ga se ne ãisti to moÏe dovesti do toga da se mora izvr‰iti zamjena.
+• Iako je bubanj za pranje napravljen od nehr√ajuçeg ãelika, toãkice hr√e mogu biti prouzroãene malenim
+metalnim predmetima (pribadaãama, spajalicama ) koji su ostavljeni u bubnju.
+• Bubanj za pranje treba s vremena na vrijeme oãistiti.
+• Ako upotrebljavate sredstva za izbjeljivanje ili bojanje, provjerite da li su prikladna za upotrebu u perilici za
+pranje rublja.
+• Odstranjivaã naslaga kamenca moÏe sadrÏavati kemikalije koje mogu o‰teti dio va‰e perilice za pranje
+rublja.
+• Svaku mrlju oãistite sredstvom za ãi‰çenje ner√ajuçeg ãelika
+• Nikada nemojte koristiti ãeliãnu vunu.
+
+ âi‰çenje va‰e perilice
+
+❿ Izvana
+• Pravilna briga za va‰u perilicu moÏe produÏiti njezin vijek trajanja.
+• Vanjski dio perilice moÏe se ãistiti toplom vodom i neutralnim nenagrizajuçim kuçnim deterdÏentom.
+• Odmah pobri‰ite svako proljevanje. Obri‰ite vlaÏnom krpom.
+• Poku‰ajte povr‰inu ne udarati o‰trim predmetima.
+• Ne koristite metilni alkohol, razrje√ivaãe ili sliãne proizvode.
+
+❿ Iznutra
+• Osu‰ite dio oko otvora vrata perilice, savitljivu gumu i staklo vrata.
+• Pustite perilicu da odradi cjelokupni ciklus koristeçi vruçu vodu.
+• Ponovite postupak ako je potrebno.
+
+NAPOMENA
+• Za uklanjanje naslaga nastalih od tvrde vode, koristite samo sredstva za ËiπÊenje sigurna za perilice
+rublja.
+
+ Hladno stanje
+Ako je perilica postavljena u podruãju u kojem se moÏe desiti smrzavanje ili ako je preno‰ena po
+smrzavajuçim temperaturama, slijedite sljedeçe upute kako biste sprijeãili o‰teçenja perilice:
+• Zatvorite slavinu za dovod vode.
+• Odspojite crijevo na prikljuËku dovoda i na samom ureaju.
+• Ukljuãite elektriãni kabel u pravilno uzemljenu elektriãnu utiãnicu.
+• Dodajte 3.8 L netoksiãnog antifriza za rekreaciona vozila (RV) u prazan bubanj za pranje. Zatvorite vrata.
+• Postavite ciklus centrifugiranja i pustite perilicu da centrifugira 1 minutu da ispumpa svu vodu. Sav RV
+antifriz neçe se izbaciti.
+• Iskljuãite elektriãni napojni kabel, isu‰ite unutra‰njost bubnja, zatvorite vrata.
+• Skinite ladicu spremnika, ocjedite i osu‰ite vi‰ak vode s odjeljaka ladice.
+• Postavite perilicu u uspravan poloÏaj.
+• Za uklanjanje antifriza iz perilice nakon spremanja, pokrenite praznu perilicu kroz cjelokupni ciklus
+koristeçi deterdÏent. Nemojte dodavati rublje za pranje.
+
+31
+
+Vodiã za otklanjanje gre‰aka
+• Ova perilica za pranje rublja opremljena je automatskim sigurnosnim funkcijama koje otkrivaju i
+dijagnosticiraju pogre‰ke u ranoj fazi i reagiraju na odgovarajuçi naãin. Ukoliko perilica ne radi
+ispravno ili ne radi uopçe, provjerite sljedeçe napomene prije nego kontaktirate va‰eg
+servisera.
+
+ Otkrivanje problema
+Simptom
+
+Moguçi uzrok
+
+Zvuk klopotanja i
+zveketanja
+
+• U bubanj ili pumpu su moÏda
+za‰li predmeti poput novãiça ili
+sigurnosnih kopãi.
+
+Zvuk bubnjanja
+
+• Te‰ki predmeti koji se peru mogu
+uzrokovati zvuk bubnjanja. To je
+inaãe normalno.
+
+Vibracijski zvuk
+
+• Jesu li svi povezi i dijelovi
+pakiranja uklonjeni s perilice?
+
+• Jesu li noge perilice postavljene
+ãvrsto na pod?
+Voda curi.
+
+• Odvodno ili dovodno crijevo nije
+dobro priãvr‰çeno na slavinu ili
+perilicu.
+
+Prekomjerno
+stvaranje sapunice
+
+• Zaãepljene su slavine kuçnog
+dovoda vode.
+
+Voda ne ulazi u
+perilicu ili ulazi
+polako.
+
+• Nedovoljna opskrba vodom na
+va‰em podruãju.
+• Slavina za dovod vode nije
+dovoljno otvorena.
+• Dovodno crijevo je zaãepljeno.
+• Filteri dovodnog crijeva su
+zaãepljeni.
+• Odvodno crijevo je zaãepljeno.
+• Filteri odvodnog crijeva su
+zaãepljeni.
+
+Voda u perilici se
+ne cijedi, ili se
+cijedi polako.
+
+32
+
+Rje‰enje
+Zaustaviti perilicu i provjerite bubanj i
+odvodni filter. Ukoliko se buka nastavi
+nakon ‰to ponovno ukljuãite perilicu,
+pozovite ovla‰tenog servisera.
+Ukoliko se zvuk nastavlja, perilica
+vjerojatno nije uravnoteÏena.
+Zaustavite je i prerasporedite teret
+rublja.
+Ukoliko dijelovi pakiranja nisu
+uklonjeni tijekom instalacije, za
+njihovo uklanjanje posavjetujte se s
+vodiãem za instalaciju.
+Rublje je moÏda nejednako
+raspore√eno u bubnju. Zaustavite
+perilicu i prerasporedite teret rublja.
+Provjerite i priãvrstite prikljuãke
+crijeva.
+Odãepite slavine. Ako je potrebno,
+pozovite vodoinstalatera.
+Previ‰e deterdÏenta ili neodgovarajuçeg deterdÏenta koji stvara
+previ‰e pjene moÏe dovesti do
+curenja vode.
+Provjerite druge slavine u kuçi.
+Potpuno otvorite slavinu.
+Priãvrstite i odãepite crijevo.
+Provjerite filtere dovodnog crijeva.
+Priãvrstite i odãepite odvodno crijevo.
+Provjerite filtere odvodnog crijeva.
+
+Vodiã za otklanjanje gre‰aka
+Simptom
+
+Moguçi uzrok
+
+Perilica ne poãinje s
+radom.
+
+• Napojni kabel nije ukljuãen ili
+nije ãvrsto prikljuãen.
+
+Pazite pristaje li utikaã u zidnu utiãnicu.
+
+• Kuçni osiguraã je pregorio,
+dogodio se kvar u strujnom
+krugu ili nestanak struje.
+
+Uspostavite ponovno strujni krug ili
+zamijenite osiguraã. Ne poveçavajte
+kapacitet osiguraãa. Ukoliko je strujni
+krug preoptereçen, neka kvar ispravi
+kvalificirani elektriãar.
+
+• Slavina za dovod vode nije
+otvorena.
+
+Otvorite slavinu za dovod vode.
+
+• Provjerite jesu li vrata ãvrsto
+zatvorena.
+
+Zatvorite vrata i pritisnite tipku
+PoËetak/Pauza. Nakon toga trebat çe
+nekoliko trenutaka da se perilica poãne
+vrtjeti. Prije centrifuge vrata moraju biti
+dobro zatvorena.
+
+Perilica ne
+centrifugira.
+
+Rje‰enje
+
+Dodajte 1 ili 2 sliãna predmeta kako biste
+uravnoteÏili teret. PresloÏite teret kako
+biste omoguçili pravilnu centrifugu.
+Vrata se ne
+otvaraju.
+
+Kada perilica poËne raditi, vrata se neÊe
+moÊi otvoriti iz sigurnosnih razloga.
+Provjerite svijetli li “ZakljuËavanje” ikona
+za zakljuËana vrata. Vrata Êe se moÊi
+otvoriti kada nestane ikona
+“ZakljuËavanje”.
+
+Vrijeme ciklusa
+pranja je odgo√eno.
+
+Vrijeme pranja moÏe odstupati ovisno o
+koliãini rublja, pritisku vode, temperaturi
+vode i ostalim uvjetima prilikom uporabe.
+Ukoliko se otkrije neka neravnoteÏa, ili
+ukoliko radi program uklanjanja pjene,
+vrijeme pranja çe se poveçati.
+
+Prevelika koliËina
+omekπivaËa za
+tkanine.
+OmekπivaË
+potroπen prerano.
+
+• Prevelika koliËina omekπivaËa
+moæe uzrokovati poplavu.
+
+Pratite upute za omekπivaË kako bi
+sigurno koristili pravilnu koliËinu. Nemojte
+staviti viπe od linije maksimuma.
+Polagano zatvorite ladicu za deterdæent.
+Nemojte otvarati ladicu tijekom ciklusa
+pranja.
+
+33
+
+Vodiã za otklanjanje gre‰aka
+ Poruke o greπci
+Simptom
+
+Moguçi uzrok
+
+Rje‰enje
+
+• Nedovoljni dovod vode na podruãju.
+• Dovodne slavine nisu dovoljno otvorene.
+• Dovodno crijevo je uvijeno.
+• Filter dovodnog crijeva je zaãepljen.
+
+Provjerite druge slavine u kuçi.
+Potpuno otvorite slavinu.
+Ispravite dovodno crijevo.
+Provjerite filtere dovodnog crijeva.
+
+• Odvodno crijevo je uvijeno.
+• Filter odvodnog crijeva je zaãepljen.
+
+Oãistite i ispravite odvodno crijevo.
+Oãistite filtere odvodnog crijeva.
+
+• Premalo tereta.
+• Teret nije uravnoteÏen.
+• Ure√aj ima sistem za otkrivanje i
+ispravljanje neravnoteÏe. Ako se stave
+te‰ki predmeti (npr. veliki ruãnici ili frotir
+ogrtaãi, itd), ovaj bi sistem mogao
+zaustaviti centrifugu ili prekinuti cijeli
+ciklus centrifugiranja.
+• Ukoliko je na kraju ciklusa jo‰ uvijek
+mokro, dodajte male predmete za
+ravnoteÏu i ponovite ciklus centrifuge.
+
+Dodajte 1 ili 2 sliãna predmeta kako
+biste uravnoteÏili teret.
+PresloÏite teret kako biste omoguçili
+pravilnu centrifugu.
+
+• Jesu li vrata otvorena?
+
+Zatvorite vrata.
+✥ Ukoliko natpis "
+" ne nestane,
+pozovite ovla‰tenog servisera.
+Iskopãajte iz utiãnice i pozovite
+ovla‰tenog servisera.
+
+• Voda se prepunjava zbog lo‰eg dotoka.
+
+Zatvorite slavinu.
+Iskopãajte iz utiãnice.
+Pozovite ovla‰tenog servisera.
+
+• Senzor za otkrivanje razine vode lo‰e radi.
+
+34
+
+• Preoptereçen motor.
+
+Ostavite perilicu da miruje 30 minuta
+kako bi se motor ohladio, a zatim
+ponovo pokrenite ciklus.
+
+• Nestalo je struje.
+
+Ponovo pokrenite program.
+
+• Voda teãe iz stroja.
+
+Pozovite ovla‰tenog servisera.
+
+Vodiã za otklanjanje gre‰aka
+NAPOMENA
+• SMARTDIAGNOSISTM funkcija je moguÊa na proizvodima s oznakom “SMARTDIAGNOSISTM”.
+U sluËaju mobitela sa statiËkom opcijom, smart diagnosis funkcija moæda neÊe raditi.
+
+ Upotreba SMARTDIAGNOSIS
+
+TM
+
+• Ovu funkciju treba upotrebljavati samo kada to traæi pozivni centar.
+Prijenos podataka zvuËi poput zvuka faksa, kao takav nema nikakvo znaËenje osim pozivnom centru.
+• SMARTDIAGNOSISTM se ne moæe pokrenuti ukoliko perilica nije upaljena. Ukoliko se to dogodi,
+problem se mora rijeπiti bez SMARTDIAGNOSISTM.
+Ukoliko imate problema s perilicom, nazovite pozivni centar.
+Pratite upute agenta iz pozivnog centra i na zahtjev pratite iduÊe upute:
+1. Pritisnite komandu za paljenje/gaπenje kako bi upalili perilicu.
+Nemojte pritisnuti nijednu drugu komandu ili vrtiti okretnu
+komandu za namjeπtanje ciklusa.
+
+2. Kada od Vas to zatraæi pozivni centar, smjestite mikrofon
+mobitela vrlo blizu komandi za paljenje/gaπenje.
+
+Max. 10 mm
+
+3. Pritisnite i zadræite “Temp.” komandu na 3 sekunde, dok dræite mikrofon mobitela na ikoni
+komande za paljenje/gaπenje.
+4. Dræite mobitel na mjestu dok traje prijenos zvuËnog signala.
+Ovo traje otprilike 6 sekundi, zaslon Êe odbrojavati vrijeme.
+• Za najbolje rezultate, nemojte pomicati mobitel dok traje prijenos zvuËnog signala.
+• Ukoliko agent u pozivnom centru nije uspio primiti toËne podatke, mogli bi Vas traæiti da
+ponovite postupak.
+• Pritiskanje komande paljenje/gaπenje tijekom prijenosa prekinut Êe rad SMARTDIAGNOSISTM.
+5. Kada odbrojavanje zavrπi i prijenos zvuËnog signala se zaustavi, nastavite razgovor s agentom
+u pozivnom centru, koji Êe Vam moÊi dalje pomoÊi nakon prijenosa podataka u pozivni centar.
+• Smart Diagnosis je znaËajka koja pomaæe pri rjeπavanju problema, no ne zamjenjuje
+tradicionalan naËin rjeπavanja problema pozivanjem servisnog centra. UËinkovitost ove znaËajke
+ovisi o raznim Ëimbenicima, izmeu ostalih i prijemu mobitela koji se koristi za prijenos, vanjskoj
+buci za vrijeme poziva te akustici prostorije u kojoj se ureaj nalazi.
+Sukladno tome, LG ne jamËi otklanjanje svakog problema pomoÊu znaËajke Smart Diagnosis.
+
+35
+
+Uvjeti garancije
+Uklanjanje starog aparata
+1. Ako se na proizvodu nalazi simbol prekriÏene kante za smeçe, to
+znaãi da je proizvod pokriven europskom direktivom 2002/96/EC.
+2. Elektriãni i elektronski proizvodi ne smiju se odlagati zajedno s
+komunalnim otpadom, veç u posebna odlagali‰ta koja je odredila
+vlada ili lokalne vlasti.
+3. Pravilno odlaganje starog proizvoda sprijeãit çe potencijalne
+negativne posljedice po okoli‰ i zdravlje ljudi.
+4. Podrobnije informacije o odlaganju starog proizvoda potraÏite u
+gradskom uredu, sluÏbi za odlaganje otpada ili u trgovini u kojoj ste
+kupili proizvod.
+
+NAPOMENA
+• Kod odlaganja ureaja, odreæite elektriËni kabel i uniπtite utikaË, onesposobite zakljuËavanje
+vrata kako bi sprijeËili potencijalno zakljuËavanje djece u perilici.
+
+·to nije obuhvaçeno:
+• Putovanja servisera da vas nauãe kako upotrebljavati proizvod.
+• Ako je proizvod prikljuãen na bilo koji drugi napon osim onog naznaãenog na specifikacijskoj
+ploãici.
+• Ako je gre‰ka pruzroãena sluãajno, nemarom, nepravilnom upotrebom ili vi‰om silom.
+• Ako je gre‰ka pruzroãena pomoçu faktora koji se razlikuju od onih tijekom normalne upotrebe u
+kuçanstvu ili upotrebom koja je u skladu s priruãnikom za vlasnika.
+• PruÏa upute o upotrebi proizvoda ili mijenja postavke za proizvod.
+• Ako je gre‰ka pruzroãena nametnicima, ‰takorima ili Ïoharima npr.
+• Buka ili vibracija koja se smatraju normalnim, na primjer zvuk izbacivanja vode, zvuk.
+• Ispravljanje instalacije na primjer, niveliranje proizvoda, pode‰avanje odvoda.
+• Normalno odrÏavanje koje je preporuãeno priruãnikom za korisnika.
+• Uklanjanje stranih predmeta / materija iz perilice, ukljuãujuçi pumpu i filter za ulazno crijevo,
+kamenãiçe, ãavle, Ïice, dugmad itd.
+• Zamijenite osiguraãe ili ispravite kuçnu elektriãnu ili vodovodnu instalaciju.
+• Ispravljanje neovla‰tenih popravaka.
+• Sluãajno ili posljediãno o‰teçenje osobne imovine uzrokovano moguçim neispravnostima ovog
+ure√aja.
+• Ako se ovaj proizvod uporebljava za komercijalne svrhe, garancija je iskljuãena.
+(Primjer : Javna mjesta kao ‰to su javne kupaonice, kuçe za pranje, sredi‰ta za vjeÏbanje,
+spavaonice)
+Ako je proizvod instaliran izvan normalnog servisnog podruãja, sve tro‰kove prijevoza vezane uz
+popravak proizvoda ili zamjene neispravnog dijela, snosit çe vlasnik.
+
+36
+
+Podaci o radu
+SaÏetak proizvoda_uredba ovla‰tene komisije (EU) No 1061/2010
+LG
+
+Naziv ili oznaka dobavljaËa
+Model dobavljaËa
+Nazivni kapacitet
+
+F14A8TDSA(1~9) F12A8TDSA(1~9)
+8
+
+8
+
+kg
+
+A+++
+
+A+++
+
+Nagraena “EU Eco Label” nagradom na temelju Uredbe (EZ-a) br 66/2010
+
+No
+
+No
+
+Procijenjena godiπnja potroπnja el energije (AEC) u kWh temeljeno
+na 220 standardnih ciklusa pranja za pamuËne programe na 60°C i
+40°C pri punom i djelomiËnom optereÊenju. Stvarna potroπnja
+energije ovisiti Êe o naËinu upotrebe stroja
+
+156
+
+156
+
+kWh /
+year
+
+Potroπnja energije
+- Standardni 60°C pamuk Program pod punim optereÊenjem
+- Standardni 60°C pamuk Program pod djelomiËnim optereÊenjem
+- Standardni 40°C pamuk Program pod djelomiËnim optereÊenjem
+
+0,89
+0,70
+0,66
+
+0,89
+0,70
+0,66
+
+kWh
+kWh
+kWh
+
+Procijenjena potroπnja el. Energije iskljuËenog ili ukljuËenog ureaja
+
+0,33
+
+0,33
+
+W
+
+Procijenjena godiπnja potroπnja vode (AWC) u litrama godiπnje
+temeljeno na 220 standardnih ciklusa pranja za pamuËne programe
+na 60°C i 40°C pri punom i djelomiËnom optereÊenju. Stvarna
+potroπnja vode ovisiti Êe o naËinu upotrebe stroja
+
+9900
+
+9900
+
+litres /
+year
+
+A
+
+B
+
+1400
+
+1200
+
+rpm
+
+44
+
+53
+
+%
+
+Klasa energetske uËinkovitosti
+
+Klasa uËinkovitosti suπenja vrtnjom “ X “ na skali od G (najmanje
+uËinkovito) do A (najuËinkovitije)
+Maksimalna brzina vrtnje postiæe se pri standardnim 60°C pamuËnim
+programom pod punim optereÊenjem ili standardnim 40°C pamuËnim
+programom pri djelomiËnim optereÊenjem, ovisno koja je vrijednost
+niæa, a preostala vlaga u standardnom pamuËnom programu 60°C pod
+punim optereÊenjem ili u standardnom 40°C pamuËnom programu pod
+djelomiËnim optereÊenjem, ovisno koja je vrijednost viπa
+
+Napomena da su programi “Ekoloπki program za pamuk 60°C” i “Ekoloπki program za pamuk 40°C” standardni
+programi pranja, na koje se odnosi informacija na etiketi i saæetak, da su ti programi pogodni za ËiπÊenje
+umjereno zaprljanog pamuËnog rublja te da su najuËinkovitiji programi u smislu kombinirane potroπnje el.
+energije i vode
+Program Vrijeme
+- Standardni 60°C pamuk Program pod punim optereÊenjem
+- Standardni 60°C pamuk Program pod djelomiËnim optereÊenjem
+- Standardni 40°C pamuk Program pod djelomiËnim optereÊenjem
+
+218
+206
+203
+
+218
+206
+203
+
+min.
+min.
+min.
+
+Trajanje naËina “ostavi ukljuËeno (TI)”
+
+10
+
+10
+
+min.
+
+54 (Pranje)
+
+54 (Pranje)
+
+dB(A)
+
+JaËina emisije buke izraæena je u dB(A) re 1 pW i zaokruæena na
+najbliæi cijeli broj tijekom faza pranja i centrifugiranja pri
+standardnim 60°C pamuËnim programom pod punim optereÊenjem
+
+73 (Centrifugiranje) 72 (Centrifugiranje) dB(A)
+
+Potrebna indikacija ukoliko je perilica rublja za domaÊinstvo namijenjena za ugradnju.
+
+37
+
+Memo

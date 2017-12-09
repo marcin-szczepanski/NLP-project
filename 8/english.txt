@@ -1,0 +1,276 @@
+OWNER’S MANUAL
+
+Magic Remote
+
+Please read this manual carefully before using your remote and retain it for future
+reference.
+AN-MR650A
+
+www.lg.com
+
+ACCESSORIES
+The remote control image shown may differ from the actual product.
+(Depending upon country)
+
+Magic Remote and Alkaline Batteries (AA)
+
+Owner’s manual
+
+ꔈꔈContents in this manual may be changed without prior notice due to upgrade of product functions.
+
+BATTERY
+1. Installing Batteries
+ꔈꔈPlease read this manual carefully.
+ꔈꔈPress the top of the battery cover, slide it back, and lift the cover as
+shown below.
+ꔈꔈTo replace batteries, open the battery cover, replace alkaline
+batteries (1.5 V, AA) matching and ends to the label inside
+the compartment, and close the battery cover. Be sure to point the
+remote control at the remote control sensor on the TV.
+ꔈꔈTo remove the batteries, perform the installation actions in reverse.
+Don’t mix old or used batteries with new ones. Close the cover
+securely.
+ꔈꔈOpen the battery cover to find the label.
+
+2. Precautions
+ꔈꔈAfter replacement of the batteries, pair the remote control and use it in accordance with user manual.
+ꔈꔈIf the unit does not operate after replacement of batteries, reattempt pairing in accordance with the user manual.
+ꔈꔈIf the remote controller is not being used for prolonged period of time, remove the batteries from the unit.
+ꔈꔈDo not dismantle or expose the batteries to heat.
+ꔈꔈDo not drop or exert extreme impact on the batteries. This may cause the case to be damaged.
+ꔈꔈDo not immerse the batteries in water.
+ꔈꔈThere is danger of explosion if batteries are inserted incorrectly.
+ꔈꔈProperly dispose of used batteries.
+
+2
+
+REMOTE DESCRIPTION
+ꔈꔈThe remote control image shown may differ from the actual product.
+ꔈꔈThe order of description may differ from the actual product.
+ꔈꔈSome buttons and services may not be provided depending on models or regions.
+
+(POWER)
+Turns the TV on or off.
+You can turn your set-top box on or off by adding the set-top box to the
+universal remote control for your TV.
+
+Number buttons
+Enters numbers.
+
+Alphabet buttons
+Enters letters.
+
+(Space)
+Opens an empty space on the screen keyboard.
+
+(DASH)
+Inserts a
+
+(DASH) between numbers such as 2-1 and 2-2.
+
+Accesses the saved channels or programmes list.
+
+*
+Press this button to bring up BML data broadcasting.
+You can access apps or Live TV using the number buttons corresponding to the
+features.
+
+(Screen remote)
+Displays the Screen Remote.
+-- Accesses the Universal Control Menu in some regions.
+
+Video/audio descriptions function will be enabled.
+-- SAP (Secondary Audio Program) feature can also be enabled by pressing the
+button. (Applicable to North America)
+
+Adjusts the volume level.
+
+(MUTE)
+Mutes all sounds.
+Scrolls through the saved channels or programmes.
+
+3
+
+(Voice recognition)
+Network connection is required to use the voice recognition function.
+1.	 Press the voice recognition button.
+2.	 Speak when the voice display window appears on the TV screen.
+
+(SEARCH)*
+Search for content such as TV programmes, movies and other videos, or
+perform a web search by entering text in the search bar.
+
+(HOME)
+Accesses the Home menu.
+Shows the previous history.
+
+Displays the set-top box Home menu. (When you are not watching via a settop box: the display changes to the set-top box screen.)
+
+Wheel (OK)
+Press the center of the Wheel (OK) button to select a menu.
+You can change channels or programmes by using the Wheel (OK) button.
+
+(up/down/left/right)
+Press the up, down, left, or right button to scroll the menu.
+If you press
+buttons while the pointer is in use, the pointer will
+disappear from the screen and the Magic Remote will operate like a general
+remote control.
+To display the pointer on the screen again, shake the Magic Remote to the left
+and right.
+Returns to the previous screen.
+
+Clears on-screen displays and returns to last input viewing.
+
+4
+
+Shows channels or programmes guide.
+Activates or deactivates the subtitles.
+
+(INPUT)
+Changes the input source.
+-- Pressing and holding the
+inputs.
+
+(INPUT) button displays all the lists of external
+
+Streaming Service buttons
+Connects to the Video Streaming Service.
+
+(Q. Settings)
+Accesses the Quick Settings.
+-- Pressing and holding the
+menu.
+
+(Q. Settings) button displays the All Settings
+
+Coloured buttons
+These access special functions in some menus.
+
+Control buttons (
+
+)
+
+Controls media contents.
+
+(TELETEXT buttons)
+These buttons are used for teletext.
+
+Provides content related to the programme you are currently watching.
+
+By zooming in on the selected area, you can view it in full screen.
+
+You can zoom in on the area where the remote control is pointed.
+
+* To use the button, press and hold for more than 3 seconds.
+
+5
+
+USING
+1. How to register (pair) or deregister (unpair)
+
+How to register (pair) the Magic Remote
+To use the Magic Remote, first pair it with your TV.
+1.	 Put batteries into the Magic Remote and turn the TV on.
+2.	 Point the Magic Remote at your TV and press the Wheel
+(OK) on the remote control.
+-- If the TV fails to register the Magic Remote, try again after
+turning the TV off and back on.
+
+How to deregister (unpair) the Magic Remote
+Press and hold the
+(HOME) and
+buttons at the
+same time for five seconds, to unpair the Magic Remote with
+your TV.
+ꔈꔈPressing and holding the
+button will let you
+cancel and re-register Magic Remote at once. (In some TV
+models, use
+button.)
+
+6
+
+2. How to use
+
+ꔈꔈShake the Magic Remote slightly to the right and left or
+press
+(HOME),
+(INPUT), or
+(Q. Settings) buttons
+to make the pointer appear on the screen.
+(In some TV models, the pointer will appear when you turn
+the Wheel (OK) button.)
+ꔈꔈIf the pointer has not been used for a certain period of time
+or Magic Remote is placed on a flat surface, then the pointer
+will disappear.
+ꔈꔈIf the pointer is not responding smoothly, you can reset the
+pointer by moving it to the edge of the screen.
+ꔈꔈThe Magic Remote depletes batteries faster than a normal
+remote due to the additional features.
+
+PRECAUTIONS TO TAKE
+ꔈꔈUse the remote control within the specified range (within 10 m).
+You may experience communication failures when using the device outside the coverage area or if there are
+obstacles within the coverage area.
+ꔈꔈYou may experience communication failures depending on the accessories.
+Devices such as a microwave oven and wireless LAN operate in the same frequency band (2.4 GHz) as the
+Magic Remote. This may cause communication failures.
+ꔈꔈThe Magic Remote may not work properly if a wireless router (AP) is within 1 m of the TV. Your wireless
+router should be more than 1 m away from the TV.
+ꔈꔈDo not disassemble or heat the batteries.
+ꔈꔈDo not drop the battery. Avoid extreme shocks to the battery.
+ꔈꔈInserting a battery in the wrong way may result in explosion.
+
+7
+
+SPECIFICATIONS
+CATEGORIES
+
+DETAILS
+
+Model No.
+
+AN-MR650A
+
+Range of frequency
+
+2.400 GHz to 2.4835 GHz
+
+Output Power (Max.)
+
+4 dBm
+
+Channel
+
+40 channels
+
+Reception sensitivity
+
+-94.5 dBm
+
+Dimensions (mm)
+
+Width 48.3 x Length 183.5 x Thickness 33.7
+(tolerance of ± 1 mm)
+
+Weight
+
+101.7 g ± 8 g
+(excluding batteries)
+
+Power source
+
+AA 1.5 V,
+2 alkaline batteries are used
+
+Power consumption
+
+300 mW
+
+Operational temperature
+range
+
+0 °C to 60 °C
+
+8
