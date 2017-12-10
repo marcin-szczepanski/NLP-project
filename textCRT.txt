@@ -5,7 +5,7 @@ MOLIMO VAS DA PRIJE RADA S UREDAJEM PAŽLJIVO
 PROČITATE OVAJ PRIRUČNIK ZA KORISNIKE I DRŽITE
 GA NADOHVAT RUKE.
 www.lg.com
-Sadržaj
+Sadržaj
 Uvod
 Instaliranje
 Rad
@@ -47,7 +47,7 @@ Način promjene strane otvaranja vrata
 16
 Ručka vrata
 18
-Uvod
+Uvod
 Uređaj je namijenjen za spremanje smrznute robe.
 IUpotreba uređaja je ograničena na kućanstvo.
 U slučaju
@@ -88,7 +88,7 @@ na zasebni strujni krug, utičnicu, kako bi, uslijed
 uključivanja drugih uređaja i rasvjete, spriječili moguće
 preopterećenje strujnog kruga iz kojeg se napaja uređaj.
 4
-Uvod
+Uvod
 Važne mjere opreza
 Pristupačnost
 utikača
@@ -147,7 +147,7 @@ sigurnost tih osoba.
 Djecu je potrebno nadzirati kako bi bili sigurni da se
 ne igraju s uređajem.
 5
-Uvod
+Uvod
 Odlaganje starog uređaja i
 pakiranja novog uređaja
 Stari uređaj koji je dotrajao treba oštetiti prije samog
@@ -198,7 +198,7 @@ Podrobnije informacije o odlaganju starog proizvoda
 potražite u gradskom uredu, službi za odlaganje
 otpada ili u trgovini u kojoj ste kupili proizvod.
 6
-Uvod
+Uvod
 Popis dijelova
 Ladica
 zamrzivača
@@ -210,7 +210,7 @@ NAPOMENA
 Ovo je osnovni model.
 Oblik hladnjaka je podložan promjenama.
 7
-Instaliranje
+Instaliranje
 Mjesto postavljanja
 Ovaj uređaj je namijenjen za upotrebu u sredinama koje
 imaju temperaturu od +16°C do +38°C.
@@ -240,9 +240,9 @@ visine na prednjoj strani hladnjaka.
 Ako je prednji dio malo viši od zadnjeg dijela, vrata
 će se lakše zatvarati.
 8
-Instaliranje
+Instaliranje
 Električno priključivanje
-Ovaj se uređaj treba priključiti na utičnicu AC 220~240V ,
+Ovaj se uređaj treba priključiti na utičnicu AC 220240V ,
 50 Hz.
 Ovaj uređaj morate priključiti isključivo na uzemljenu
 utičnicu u skladu s odgovarajućim odredbama, a uređaj
@@ -282,7 +282,7 @@ BTipka K3 (Regulacija temperature):
 Držite pritisnutu tipku K3 i prikazana će se temperatura
 mijenjati od -14°C do -24°C neprestano u krug.
 9
-Savjeti o spremanju hrane
+Savjeti o spremanju hrane
 Spremanje hrane
 Prečesto otvaranje vrata ili dugo držanje otvorenih vrata
 povećava unutarnju temperaturu.
@@ -317,7 +317,7 @@ Kocke leda ćete još lakše izvaditi ako posudu prelijete
 vodom, a zatim je zakrenete.
 Sav
 10
-Briga i održavanje
+Briga i održavanje
 Odmrzavanje
 Odmrzavanje odjeljka hladnjaka
 Kada zamrzivač radi, na zadnjem zidu odjeljka hladnjaka
@@ -349,7 +349,7 @@ Pazite kada koristite sredstva za odmrzavanje u spreju.
 Ti sprejevi sadrže eksplozivni plin, koji je štetan za
 hranu i zdravlje ljudi.
 11
-Briga i održavanje
+Briga i održavanje
 Čišćenje
 Prije čišćenje uvijek isključite uređaj i iskopčajte
 utikač iz utičnice.
@@ -392,7 +392,7 @@ izmjenjivača topline, kao i svaki drugi uzrok koji će
 ispustiti rashladno sredstvo u okolinu, jer to
 predstavlja opasnost za okolinu i zdravlje.
 12
-Briga i održavanje
+Briga i održavanje
 Općenite informacije
 Odlazak na
 duže vrijeme
@@ -428,7 +428,7 @@ temperatura okoline visoka,
 što je sasvim uobičajeno.
 13
 Cijev protiv kondenziranja
-Briga i održavanje
+Briga i održavanje
 Savjeti za štednju energije
 - Nakon premještanja uređaja, pričekajte 2 sata prije
 nego što ponovo uključite uređaj.
@@ -453,7 +453,7 @@ Tako ćete pomoći hlađenje hladnjaka.
 - Zamijenite magnetsku brtvu za vrata u slučaju da
 se vrata dobro ne zatvaraju.
 14
-Otklanjanje teškoća
+Otklanjanje teškoća
 Prije pozivanje servisa, provjerite ovaj popis.
 Tako možete uštedjeti vrijeme i novac.
 Popis sadrži uobičajena stanja koja nisu posljedica
@@ -491,7 +491,7 @@ hladnjaka je preniska
  Elektronski upravljač je postavljen na
 premalu vrijednost.
 15
-Otklanjanje teškoća
+Otklanjanje teškoća
 Problem
 Mogući uzroci
 Hladnjak ima
@@ -506,7 +506,7 @@ se formira vlaga
  Ova se pojava često javlja na vlažnim mjestima.
 Obrišite vlagu suhim ručnikom
 16
-Promjene strane otvaranja vrata
+Promjene strane otvaranja vrata
 Način promjene strane otvaranja vrata
 Hladnjak ima vrata kod kojih se može zamijeniti strana
 otvaranja, tako da se vrata mogu otvarati na lijevu ili desnu
@@ -546,7 +546,7 @@ na suprotnoj strani.
 4
 17
 4
-Promjene strane otvaranja vrata
+Promjene strane otvaranja vrata
 Način promjene strane otvaranja vrata
 6.
 Nakon podešavanja vrata, učvrstite donji okov (L) na

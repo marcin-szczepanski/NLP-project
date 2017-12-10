@@ -15,6 +15,38 @@ def writingToFile(addr):
                     outfile.write(line)
             os.system('del ' + fname)
 
+def deleteSpecialSymbols(line):
+    line = line.replace('...', '')
+    line = line.replace('..', '')
+    line = line.replace('•', '')
+    line = line.replace('@@', '')
+    line = line.replace('@@@', '')
+    line = line.replace('', '')
+    line = line.replace('', '')
+    line = line.replace('�', '')
+    line = line.replace('ꕲ', '')
+    line = line.replace('ꘃ', '')
+    line = line.replace('ꔉ', '')
+    line = line.replace('ꕊ', '')
+    line = line.replace('ꔂ', '')
+    line = line.replace('ꔦ', '')
+    line = line.replace('ꔅ', '')
+    line = line.replace('*', '')
+    line = line.replace('❶', '')
+    line = line.replace('❷', '')
+    line = line.replace('❸', '')
+    line = line.replace('❹', '')
+    line = line.replace('❺', '')
+    line = line.replace('❻', '')
+    line = line.replace('❼', '')
+    line = line.replace('❽', '')
+    line = line.replace('❾', '')
+    line = line.replace('~', '')
+    line = line.replace('▪', '')
+    line = line.replace('◉', '')
+    line = line.replace('◀', '')
+    line = line.replace('▶', '')
+    return line
 
 for i in range(1, n+1):
     open('textENG.txt', 'w', encoding='utf-8').close()
@@ -23,17 +55,13 @@ for i in range(1, n+1):
     en = ''
     for line in tmpENG:
         if line not in ['\n', '\r\n']:
-            line = line.replace('...', '')
-            line = line.replace('..', '')
-            line = line.replace('•', '')
+            line = deleteSpecialSymbols(line)
             en = en + line
     tmpCRT = open(str(i) + '\croatian.txt', encoding='utf-8').readlines()
     cr = ''
     for line in tmpCRT:
         if line not in ['\n', '\r\n']:
-            line = line.replace('...', '')
-            line = line.replace('..', '')
-            line = line.replace('•', '')
+            line = deleteSpecialSymbols(line)
             cr = cr + line
     sent_tokenize_list_ENG = sent_tokenize(en)
     sent_tokenize_list_CRT = sent_tokenize(cr)

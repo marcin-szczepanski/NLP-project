@@ -4,7 +4,7 @@ and keep it handy for reference at all times.
 P/NO.
 :MFL67225614
 www.lg.com
-Table of Contents
+Table of Contents
 Introduction
 Installation
 Operation
@@ -47,7 +47,7 @@ How to Reverse the Door
 16
 Door handle
 18
-Introduction
+Introduction
 The appliance is suitable for storing the frozen goods.
 It is restricted for household use.
 If it is used for industrial or
@@ -87,7 +87,7 @@ appliances or household lights from causing an overload.
 Don't use an
 extension cord
 4
-Introduction
+Introduction
 Do not store explosive substances such as aerosol cans
 with a flammable propellant in this appliance.
 This appliance is not intended for use by persons (including
@@ -98,7 +98,7 @@ appliance by a person responsible for their safety.
 Children should be supervised to ensure that they do not
 play with the appliance.
 5
-Introduction
+Introduction
 Disposal of the old appliance &
 packing of new appliance
 Disposal of the old
@@ -134,13 +134,13 @@ after rework (recycling).
 For take back, please contact
 with the local agency.
 6
-Identification of Parts
+Identification of Parts
 NOTE
 This is a basic model.
 The shape of refrigerator is
 subject to change.
 7
-Installation
+Installation
 Location
 This appliance is suitable for using at ambient
 temperature between +16°C and +38°C.
@@ -171,10 +171,10 @@ at the front edge of the cabinet.
 If the front is slightly higher than the rear, the door
 can close more easily.
 8
-Installation
+Installation
 Electrical connection
 This appliance should be connected to the mains AC
-220~240V , 50 Hz.
+220240V , 50 Hz.
 You must connect this appliance only
 to the power socket with grounding complying with the
 related regulations and only an approved expert should
@@ -210,7 +210,7 @@ Button K3 (Temperature regulation):
 Press button K3 continuously, the provided temperature
 displayed will be from -14°C to -24°C circularly.
 9
-Suggestion on food storage
+Suggestion on food storage
 Storing food
 Opening the door often or keeping the door opened a
 long time, increases the inside temperature.
@@ -246,7 +246,7 @@ before twisting.
 s
 Tip
 10
-Care and Maintenance
+Care and Maintenance
 Defrosting
 Defrosting the fridge compartment
 When the freezer is working, frost is formed at the
@@ -280,7 +280,7 @@ These sprays include
 substances containing explosive gas, or harmful for
 synthesis or human health.
 11
-Care and Maintenance
+Care and Maintenance
 Cleaning
 Always remove plugs or Switch off supply before
 cleaning.
@@ -323,7 +323,7 @@ leading to the exposure of the refrigerant to the
 environment, should be avoided because of
 potential environment and health risks.
 12
-Care and Maintenance
+Care and Maintenance
 General information
 When you plan to be away for an extended period,
 remove all food, disconnect the power cord, clean the
@@ -357,7 +357,7 @@ feel hot, which is quite normal.
 13
 Anti-Condensation
 Pipe
-Care and Maintenance
+Care and Maintenance
 Tips for saving Energy
 - After moving the appliance, allow 2 hours to turn
 on again.
@@ -384,7 +384,7 @@ They can be used for cooling the fridge.
 - Replace magnetic door gasket of the door if it is
 not properly functioning.
 14
-Trouble Shooting
+Trouble Shooting
 Before calling for service, check this list.
 It may save you both time and expense.
 This list includes common occurrences that are not
@@ -424,7 +424,7 @@ is too cold
  The electronic controller is setting to extremely
 low figure.
 15
-Trouble Shooting
+Trouble Shooting
 Problem
 Possible Causes
  Foods with strong odors should be tightly
@@ -438,7 +438,7 @@ Wipe it with a dry towel
 Moisture forms on
 cabinet surface
 16
-To Reverse the Doors
+To Reverse the Doors
 How to Reverse the Door
 Your refrigerator is designed with a reversible door, so
 you may open from either left or right.
@@ -476,7 +476,7 @@ opposite side hole.
 4
 17
 4
-To Reverse the Doors
+To Reverse the Doors
 How to Reverse the Door
 6.
 After refitting the door, fix the Lower Hinge(L) in the
