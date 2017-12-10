@@ -1,7 +1,7 @@
 from nltk.tokenize import sent_tokenize
 import os
 
-n = 45
+n = 50
 
 def writingToFile(addr):
     open(addr, 'w', encoding='utf-8').close()

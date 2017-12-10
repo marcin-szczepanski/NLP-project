@@ -1,0 +1,4298 @@
+Korisnički priručnik
+
+LG Minibeam Nano
+DLP Projektor
+
+Prije korištenja proizvoda pažljivo pročitajte sigurnosne informacije.
+
+PH300
+
+www.lg.com
+
+2
+
+LICENCE
+
+LICENCE
+Podržane licence mogu se razlikovati ovisno o modelu. Dodatne informacije
+o licencama potražite na www.lg.com.
+Proizvedeno pod licencom Dolby Laboratories.
+Dolby i duplo-D simbol su zaštitne marke Dolby
+Laboratories.
+This DivX Certified® device has passed rigorous
+testing to ensure it plays DivX® video.
+To play purchased DivX movies, first register your
+device at vod.divx.com. Find your registration code
+in the DivX VOD section of your device setup menu.
+DivX Certified® to play DivX® video up to HD 1080p,
+including premium content.
+DivX®, DivX Certified® and associated logos are
+trademarks of DivX, LLC and are used under
+license.
+Covered by DivX Patents 7,295,673; 7,515,710;
+RE45,052; and others available
+at [www.divx.com/patents]
+The terms HDMI and HDMI High-Definition Multimedia Interface, and the HDMI logo are trademarks or
+registered trademarks of HDMI Licensing LLC in the
+United States and other countries.
+Ovaj uređaj zadovoljava EMC zahtjeve za kućne uređaje (klase B)
+i namijenjen je kućnoj upotrebi. Ovaj uređaj može se koristiti u svim
+regijama.
+
+NAPOMENA
+￼ •	 Prikazana slika može se razlikovati od one na vašem projektoru.
+•	 Prikaz na zaslonu vašeg projektora može se malo razlikovati od onog
+prikazanog u ovom priručniku.
+
+SIGURNOSNE MJERE
+
+3
+
+SIGURNOSNE MJERE
+Poštujte sigurnosne upute kako biste izbjegli potencijalne nezgode ili
+pogrešno korištenje projektora.
+•	 Mjere opreza iskazuju se u dva oblika, kao UPOZORENJE i OPREZ. UPOZORENJE i OPREZ znače sljedeće:
+UPOZORENJE: nepoštivanje ovih uputa može dovesti do ozbiljnih
+ozljeda, pa čak i smrti.
+OPREZ: nepoštivanje ovih uputa može dovesti do manjih ozljeda
+osoba ili oštećenja proizvoda.
+•	 Pažljivo pročitajte korisnički priručnik i spremite ga pri ruci za buduću
+upotrebu.
+
+Simbol munje sa
+strelicom unutar
+istostraničnog trokuta
+namijenjen je kao upozorenje
+korisniku na prisutnost
+neizoliranog "opasnog napona" u
+kućištu proizvoda koji može biti
+dovoljno snažan da predstavlja
+rizik od strujnog udara za ljude.
+Uskličnik unutar
+istostraničnog trokuta
+namijenjen je kao
+upozorenje korisniku na
+prisutnost važnih uputa za
+rukovanje i održavanje (servis) u
+dokumentaciji koja je priložena
+uz uređaj.
+UPOZORENJE/OPREZ
+-- KAKO BI SE SMANJIO RIZIK
+OD POŽARA I STRUJNOG
+UDARA, NEMOJTE IZLAGATI
+PROIZVOD KIŠI ILI VLAZI.
+
+Pročitajte ove upute.
+Spremite ove upute pri ruci.
+Obratite pažnju na sva upozorenja.
+Slijedite sve upute.
+
+Postavljanje u zatvorenom
+prostoru
+UPOZORENJE
+•	 Projektor nemojte koristiti na
+otvorenom i ne izlažite ga vlazi
+i vodi.
+-- Budući da projektor nije vodootporan, to može uzrokovati
+požar ili strujni udar.
+•	 Projektor nemojte postavljati
+na izravnu sunčevu svjetlost ili
+u blizinu izvora topline kao što
+su radijatori, otvoreni plamen,
+pećnice itd.
+-- To može uzrokovati požar.
+•	 Nemojte stavljati zapaljive
+materijale u projektor, na njega ili
+blizu njega.
+-- To može uzrokovati požar.
+
+4
+
+SIGURNOSNE MJERE
+
+•	 Nemojte dopuštati djeci da se
+drže za projektor niti da se penju
+do njega.
+-- Projektor bi uslijed toga
+mogao pasti i uzrokovati
+ozljedu ili smrtne posljedice.
+•	 Projektor nemojte postavljati na
+mjesto bez ventilacije (npr. na
+policu za knjige ili u ormar) ili na
+tepih ili jastuk.
+-- To može uzrokovati požar
+zbog povećanja unutarnje
+temperature.
+•	 Proizvod ne postavljajte u blizinu
+izvora pare ili ulja (npr. ovlaživača
+ili kuhinjske radne ploče).
+-- Ako to ne učinite, moglo bi
+doći do požara, strujnog udara
+ili korozije.
+•	 Proizvod ne postavljajte na zid ili
+strop u blizini izvora isparavanja
+ulja.
+-- Tme se može prouzročiti
+oštećenje uređaja i njegovo ispadanje iz postolja, a
+posljedično i ozbiljne ozljede.
+•	 Projektor nemojte postavljati
+tamo gdje bi mogao biti izložen
+prašini.
+-- To može uzrokovati požar.
+•	 Projektor nemojte koristiti na
+vlažnim mjestima kao što je
+kupaonica, u kojima postoji velika
+mogućnost od ovlaživanja.
+-- To može uzrokovati požar ili
+strujni udar.
+•	 Pazite da stolnjak ili zavjesa ne
+blokiraju ventilacijski otvor.
+-- To može uzrokovati požar
+zbog povećanja unutarnje
+temperature.
+
+•	 Prostor oko projektora treba biti
+prozračan. Udaljenost između
+projektora i zida treba biti najmanje 30 cm.
+-- Time ćete spriječiti požar zbog
+povećanja unutarnje temperature.
+
+OPREZ
+•	 Postavljate li projektor na stol ili
+policu, nemojte ga postaviti blizu
+ruba.
+-- Projektor zbog neravnoteže
+može pasti i oštetiti se ili
+uzrokovati ozljede. Koristite
+ormarić i postolje koji odgovaraju projektoru.
+•	 Kada ga premještate, projektor
+obavezno isključite i iskopčajte
+kabel za napajanje i ostale
+kabele.
+-- Kabel za napajanje mogao bi
+se oštetiti i uzrokovati požar ili
+strujni udar.
+•	 Projektor nemojte postavljati na
+nestabilne ili pomične površine
+kao što je nedovoljno učvršćena
+polica ili nagnuta površina.
+-- Mogao bi pasti i ozlijediti
+nekoga.
+•	 Prilikom priključivanja vanjskih
+uređaja na projektor pazite da ga
+ne prevrnete.
+-- Projektor bi mogao ozlijediti
+nekoga i oštetiti se.
+
+SIGURNOSNE MJERE
+
+Napajanje
+UPOZORENJE
+•	 Spojnica uređaja koristi se kao
+uređaj za isključivanje.
+-- Uređaj svakako postavite
+blizu zidne utičnice na koju
+je priključen te provjerite je li
+zidna utičnica lako dostupna.
+•	 Spojite uzemljenje.
+-- Provjerite je li uzemljenje
+spojeno kako biste spriječili
+mogući strujni udar. Ako
+uzemljenje nije moguće, neka
+kvalificirani električar postavi
+zasebni prekidač strujnog
+kruga. Ne pokušavajte uzemljiti projektor spajanjem na
+telefonske žice, gromobrane ili
+plinske cijevi.
+•	 Utikač gurnite u strujnu utičnicu
+do kraja.
+-- Nestabilna veza može dovesti
+do požara.
+•	 Nemojte postavljati teške predmete na kabel napajanja.
+-- To može uzrokovati požar ili
+strujni udar.
+•	 Nikad ne dodirujte strujne
+priključke mokrom rukom.
+-- To može uzrokovati strujni
+udar.
+•	 Ne priključujte previše uređaja u
+jednu višestruku zidnu utičnicu.
+-- To može uzrokovati požar
+zbog pregrijavanja zidne
+utičnice.
+•	 Nemojte dopustiti da se prašina
+skuplja na izvodima napajanja ili
+zidne utičnice.
+-- To može uzrokovati požar.
+
+5
+
+•	 Kako biste isključili glavno napajanje, iskopčajte utikač napajanja
+koji treba biti postavljen tako da
+mu se može lako pristupiti.
+
+OPREZ
+•	 Prilikom iskopčavanja, čvrsto
+držite utičnicu.
+-- Oštećena žica predstavlja
+opasnost od požara.
+•	 Kabel napajanja ili utikač ne
+smiju biti oštećeni, izmijenjeni,
+jako savijeni, uvijeni, izvučeni,
+priklješteni ili pregrijani. Ne koristite projektor ako je zidna utičnica
+labavo pričvršćena.
+-- To može uzrokovati požar ili
+strujni udar.
+•	 Kabel za napajanje držite dalje
+od grijalica.
+-- Zaštitni omotač na žicama bi
+se mogao otopiti i uzrokovati
+požar ili strujni udar.
+•	 Projektor postavite tako da se
+ljudi ne spotiču i ne zapinju za
+kabel napajanja i priključite ga
+tako da zaštitite kabel napajanja i
+utikač od oštećenja.
+-- To može uzrokovati požar ili
+strujni udar.
+•	 Projektor nemojte uključivati/
+isključivati ukopčavanjem ili
+iskopčavanjem priključka napajanja iz utičnice
+(Kabel za napajanje nemojte
+koristiti kao prekidač napajanja.)
+-- To može uzrokovati strujni
+udar ili oštetiti uređaj.
+
+6
+
+SIGURNOSNE MJERE
+
+•	 Nemojte umetati sprovodnik s
+druge strane zidne utičnice u koju
+je ukopčan utikač. Osim toga,
+ne dodirujte utikač neposredno
+nakon što ga iskopčate iz zidne
+utičnice.
+-- To može uzrokovati strujni
+udar.
+•	 Koristite isključivo originalni kabel
+za napajanje tvrtke LG Electronics. Ne koristite druge kabele za
+napajanje.
+-- To može uzrokovati požar ili
+strujni udar.
+
+Tijekom upotrebe
+UPOZORENJE
+•	 Na projektor nemojte stavljati nikakve predmete s tekućinom, kao
+što su vaze, posude s cvijećem,
+šalice, kozmetički preparati,
+lijekovi ili ukrasi, svijeće itd.
+-- To može uzrokovati požar
+ili strujni udar te uzrokovati
+ozljedu zbog pada.
+•	 U slučaju snažnog udarca ili
+oštećenja ormarića, isključite
+ga, iskopčajte iz zidne utičnice i
+obratite se ovlaštenom servisnom
+centru.
+-- To može uzrokovati strujni
+udar.
+•	 U projektor nemojte umetati metalne predmete kao što su novčići,
+ukosnice ili komadići metala niti
+zapaljive materijale, npr. papir ili
+šibice.
+-- Time ćete spriječiti strujni udar
+ili požar.
+
+•	 Ako u projektor uđe tekućina ili
+upadne strano tijelo, isključite
+ga i iskopčajte iz zidne utičnice i
+obratite se servisnom centru.
+-- To može uzrokovati požar ili
+strujni udar.
+•	 Prilikom zamjene starih baterija
+za daljinski upravljač novima pazite da dijete ne proguta baterije.
+Baterije držite ga izvan dohvata
+djece.
+-- ako dijete proguta bateriju,
+odmah se obratite liječniku.
+•	 Nikada ne otvarajte nijedan
+poklopac projektora.
+-- Postoji velika opasnost od
+strujnog udara.
+•	 Ne gledajte izravno u leću dok
+projektor radi.
+-- Jarka svjetlost može oštetiti
+vaše oči.
+•	 Ako je lampa uključena ili ste
+je upravo isključili, ne dodirujte
+otvor za ventilaciju ili lampu jer
+su vreli.
+•	 Ako dođe do curenja plina u prostoriji s projektorom, ne dodirujte
+projektor ili zidnu utičnicu. Otvorite prozore kako biste prozračili
+prostor.
+-- Iskre mogu uzrokovati požar
+ili opekline.
+•	 Nikada ne dodirujte projektor ili
+kabel za napajanje ako grmi ili
+sijeva.
+-- To može uzrokovati strujni
+udar.
+•	 Projektor nemojte koristiti u blizini
+elektroničkog uređaja koji stvara
+snažno magnetsko polje.
+
+SIGURNOSNE MJERE
+
+•	 Plastičnu foliju pakiranja spremite
+izvan dosega djece.
+-- Ako se njome ne rukuje na
+siguran način, može izazvati
+gušenje.
+•	 Dok projektor radi, nemojte dugo
+držati ruku na njemu.
+•	 Kad igrate igru tako da je igraća
+konzola povezana s projektorom, preporučena udaljenost je
+veća od četiri dijagonalne duljine
+zaslona.
+-- Provjerite je li priključni kabel
+dovoljno dug. U suprotnom
+proizvod može pasti i oštetiti
+se ili uzrokovati ozljede.
+•	 Nemojte ostavljati projektor ili
+njegov daljinski upravljač s baterijom u okruženju s vrlo visokom
+temperaturom.
+-- To može uzrokovati požar.
+
+OPREZ
+•	 Nemojte stavljati teške predmete
+na projektor.
+-- Mogao bi pasti i ozlijediti
+nekoga.
+•	 Pazite da tijekom prijevoza ne
+oštetite leću.
+•	 Ne dodirujte leću.
+-- Možda je oštećena.
+•	 Nemojte koristiti oštre predmete
+na projektoru, kao što su nož
+ili čekić jer tako možete oštetiti
+kućište.
+•	 U slučaju da se na zaslonu ne
+prikazuje slika ili nema zvuka,
+prestanite koristiti projektor.
+Isključite projektor, iskopčajte ga iz
+strujne utičnice i obratite se našem
+servisnom centru.
+-- To može uzrokovati požar ili
+strujni udar.
+
+7
+
+•	 Nemojte ispuštati predmete na
+projektor i pripazite da ga nešto
+ne pritišće.
+-- Projektor bi mogao ozlijediti
+nekoga ili se oštetiti.
+•	 Preporučuje se da sadržaj na
+zaslonu gledate s udaljenosti
+5 do 7 puta veće od dijagonale
+zaslona.
+-- Ako zaslon dugo vremena
+gledate izbliza, vid bi vam
+mogao oslabjeti.
+•	 Svjetlosnu zraku iz projektora
+nemojte blokirati knjigom ili drugim predmetima.
+-- Dulja izloženost zraci projektora može uzrokovati požar.
+Osim toga, leća se može pregrijati i oštetiti zbog odbijene
+topline.
+•	 Ne pokrećite projektor s postavljenom velikom glasnoćom.
+-- Velika glasnoća može oštetiti
+sluh.
+•	 U blizini projektora nemojte koristiti visokonaponske električne
+uređaje (npr. električnu mlatilicu
+za komarce).
+-- To bi moglo rezultirati njegovim oštećenjem.
+
+Čišćenje
+UPOZORENJE
+•	 Prilikom čišćenja projektor
+nemojte prskati vodom. Nemojte
+dopustiti da vode uđe u projektor
+ili da se smoči.
+-- To može uzrokovati požar ili
+strujni udar.
+
+8
+
+SIGURNOSNE MJERE
+
+•	 Ako se iz projektora počne
+dimiti ili širiti neobičan miris ili
+pak u njega upadne strano tijelo,
+isključite ga i iskopčajte iz zidne
+utičnice i obratite se našem
+servisnom centru.
+-- U suprotnom biste time mogli uzrokovati požar ili strujni
+udar.
+•	 Za uklanjanje prašine ili mrlja s
+leće projektora koristite zračni
+sprej, meku krpicu ili pamučni
+štapić navlažen kemijskim
+sredstvom za čišćenje leće ili
+alkoholom.
+
+OPREZ
+•	 Jednom godišnje obratite se
+prodajnom predstavniku ili
+servisnom centru radi čišćenja
+unutrašnjosti projektora.
+-- Ako ne čistite projektor, prašina se skuplja u
+unutrašnjosti i može izazvati
+opasnost od požara ili kvar.
+•	 Prilikom čišćenja plastičnih
+dijelova poput kućišta projektora,
+iskopčajte napajanje i obrišite
+dio mekom krpicom. Nemojte
+prskati dijelove vodom ili ih brisati
+mokrom krpicom. Za čišćenje
+plastičnih dijelova kao što je
+kućište projektora nikada nemojte
+koristiti sredstva za čišćenje
+stakla, sredstva za poliranje automobila ili industrijska sredstva
+za poliranje, abrazivna sredstva
+ili vosak, benzen, alkohol itd. jer
+mogu oštetiti projektor.
+-- To može dovesti do opasnosti
+od požara, strujnog udara ili
+oštećenja uređaja (izobličenje,
+koroziju ili pucanje).
+
+•	 Projektor prije čišćenja iskopčajte
+iz zidne utičnice.
+-- U suprotnom biste mogli uzrokovati požar ili strujni udar.
+
+Ostalo
+UPOZORENJE
+•	 Kada napuštate prostoriju,
+projektor postavite izvan dosega
+životinja i isključite kabel za
+napajanje iz zidne utičnice.
+-- Korištenje oštećenog kabela
+za napajanje može izazvati
+kratki spoj ili požar.
+•	 Projektor nemojte koristiti u blizini
+elektroničkih uređaja s iznimno
+preciznom tehnologijom i uređaja
+koji emitiraju slab radijski signal.
+-- To može utjecati na rad projektora i uzrokovati nezgodu.
+•	 Samo kvalificirani tehničar smije
+rastavljati i modificirati projektor.
+Ako je potrebno dijagnosticirati
+kvar, prilagoditi ili popraviti projektor, obratite se prodavaču ili
+našem servisnom centru.
+-- To može uzrokovati požar ili
+strujni udar.
+•	 Prilikom rada nemojte izravno
+gledati u leću, može doći do
+oštećenja vida.
+•	 U jedinici nema dijelova koje
+korisnik sam može servisirati.
+Dijelovi pod visokim naponom
+mogu uzrokovati strujni udar.
+•	 Potrebna je dostatna ventilacija,
+nemojte blokirati protok zraka
+oko uređaja. To može uzrokovati ozljede i pregrijavanje
+unutrašnjosti uređaja.
+
+SIGURNOSNE MJERE
+
+•	 Kako se lampa ne bi oštetila,
+uređaj mora ostati ukopčan
+približno 3 minute nakon
+isključivanja, što omogućuje
+dostatno hlađenje (ne odnosi se
+na LED modele).
+•	 Nemojte dodirivati leću, to može
+uzrokovati opekline ili oštetiti
+leću. Leća i uređaj mogu biti
+VRUĆI tijekom upotrebe i odmah
+nakon nje. Uređajem pažljivo
+rukujte i omogućite dostatno
+hlađenje.
+•	 Koristite samo uzemljene strujne
+utičnice.
+•	 Nemojte ništa umetati u ventilacijske otvore i nemojte ih prekrivati.
+-- To može uzrokovati požar ili
+strujni udar.
+•	 Kako bi mogućnosti upotrebe bile
+optimalne, pratite sve smjernice
+za održavanje i uređaj servisirajte isključivo kod ovlaštenog
+servisera.
+•	 Lampa sadrži živu zbog čega
+se mora odlagati u skladu s
+lokalnim, županijskim i državnim
+propisima (ne vrijedi za LED
+modele).
+•	 Držite ga izvan dohvata djece.
+-- U protivnom, moglo bi doći do
+ozljede ili oštećenja proizvoda.
+
+9
+
+OPREZ
+•	 Ne koristite i ne pohranjujte
+projektor na otvorenom na dulje
+razdoblje.
+•	 Svakako iskopčajte projektor iz
+napajanja ako ga ne namjeravate
+koristiti duže vremena.
+-- Nakupljena prašina može
+izazvati požar ili strujni udar
+zbog pregrijavanja, iskrenja ili
+propadanja izolacije.
+•	 Koristite samo navedenu vrstu
+baterije.
+-- Napukle baterije ili baterije koje cure mogu izazvati oštećenje projektora ili
+ozljede.
+•	 Za zamjenu obavezno koristite
+istu vrstu baterija.
+-- Baterije bi se u suprotnom
+mogle ranije isprazniti, a
+daljinski upravljač možda
+neće pravilno funkcionirati
+zbog loše veze.
+•	 Baterija je litij-ionska pa s njom
+rukujte pažljivo.
+-- U suprotnom može doći do
+eksplozije ili požara.
+
+10 SIGURNOSNE MJERE
+•	 Iskorištene baterije odložite na
+odgovarajući način.
+-- U suprotnom može doći do
+eksplozije ili požara. Pravilan
+način odlaganja može se
+razlikovati ovisno o državi ili
+regiji. Baterije odložite prema
+uputama.
+•	 Bateriju nemojte bacati niti
+rastavljati.
+-- To može uzrokovati požar ili
+eksploziju zbog oštećenja
+baterije.
+•	 Uvijek koristite baterije koje je
+odobrila i certificirala tvrtka LG
+Electronics.
+-- Time ćete spriječiti oštećenja
+ili požar.
+•	 Bateriju pohranite podalje od
+metalnih predmeta kao što su
+ključevi i spajalice.
+-- Višak struje može dovesti do
+naglog podizanja temperature
+što može uzrokovati požar ili
+eksploziju.
+•	 Baterije nemojte pohranjivati u
+blizini bilo kakvog izvora topline
+poput grijača.
+-- To može uzrokovati požar ili
+oštetiti uređaj.
+
+•	 Ne pohranjujte baterije pri temperaturama višim od 60 °C niti na
+mjestima s visokom vlagom.
+-- U suprotnom može doći do
+eksplozije ili požara.
+•	 Provjerite je li baterija pravilno
+priključena.
+-- Time ćete spriječiti eksploziju
+ili požar.
+•	 Neodgovarajuća zamjenska baterija može uzrokovati požar.
+•	 Za zamjenu obavezno koristite
+istu vrstu baterija.
+(Vrsta baterije: CR2032 / 3 V)
+-- Ako kontakti baterije nisu ispravno postavljeni, baterija će
+se brzo isprazniti ili daljinski
+upravljač neće ispravno raditi.
+Rizična skupina 2
+OPREZ Uređaj proizvodi potencijalno opasno optičko zračenje. Ne
+gledajte u projektorsku lampu. To
+bi moglo oštetiti vaš vid.
+
+SADRŽAJ
+
+11
+
+Gledanje slike s projektora	
+--Uključivanje projektora	
+--Fokus slike na zaslonu	
+--Korištenje projektora	
+
+25
+25
+25
+26
+
+SADRŽAJ
+LICENCE	
+
+2
+
+SIGURNOSNE MJERE	
+
+3
+
+PRIPREMA	
+
+13
+
+Dodatna oprema	
+
+13
+
+Opcijski dodaci	
+
+14
+
+Dijelovi i komponente	
+--Glavna jedinica	
+--Stražnja strana	
+
+15
+15
+16
+
+Postavljanje	
+--Mjere opreza prilikom
+postavljanja	
+--Udaljenost projekcije
+prema veličini zaslona	
+--Kako postaviti projektor
+na stalak	
+--Sigurnosni sustav
+Kensington	
+
+17
+17
+18
+19
+20
+
+DALJINSKI UPRAVLJAČ	 21
+KORIŠTENJE
+PROJEKTORA	
+
+23
+
+Korištenje baterije	
+
+23
+
+Informacije o vremenu za
+korištenje baterije	
+
+23
+
+Dodatne opcije	
+27
+-- Podešavanje formata slike	 27
+--Korištenje funkcije Keystone
+(Korigiranje kuta)	
+28
+--Promjena ulaznog uređaja	28
+--Funkcija ispune	
+29
+Korištenje brzog izbornika	 30
+
+MY MEDIA (MOJI MEDIJI)	 31
+Prije korištenja	
+31
+--Povezivanje USB uređaja	 31
+--Isključivanje USB uređaja	 31
+Korištenje opcije My Media
+(Moji mediji)	
+--Gledanje videozapisa	
+--Gledanje fotografija	
+--Slušanje glazbe	
+--Pregled datoteka	
+
+33
+35
+41
+44
+47
+
+12 SADRŽAJ
+
+PRILAGOĐAVANJE
+POSTAVKI	
+
+51
+
+POSTAVKE	
+
+51
+
+Postavke opcije PICTURE
+(SLIKA)	
+
+52
+
+Postavke opcije AUDIO 	
+(ZVUK)	
+
+57
+
+Postavke opcije TIME
+(VRIJEME)	
+
+59
+
+INFORMATION 	
+(INFORMACIJE)	
+
+60
+
+Postavke opcije OPTION 1
+(OPCIJA 1)	
+
+61
+
+Postavke opcije OPTION 2
+(OPCIJA 2)	
+
+62
+
+POVEZIVANJE UREĐAJA	64
+Priključivanje HD prijemnika,
+DVD uređaja ili 	
+videorekordera	
+65
+--HDMI priključak	
+65
+Priključivanje slušalica	
+
+66
+
+Korištenje funkcije zrcaljenja
+na mobilni telefon	
+67
+--MHL/Slimport priključak	 67
+
+ODRŽAVANJE	
+
+68
+
+Čišćenje	
+--Čišćenje leće	
+--Čišćenje kućišta
+projektora	
+
+68
+68
+
+SPECIFIKACIJE	
+
+69
+
+68
+
+PRIPREMA
+
+PRIPREMA
+Proizvod na slici može se razlikovati od stvarnog proizvoda.
+
+Dodatna oprema
+Dodatna oprema uz projektor prikazana je u nastavku.
+Dodatna oprema podložna je promjenama bez prethodne najave.
+Nova se dodatna oprema može dodati, a stara ukloniti.
+POWER
+
+INPUT
+MUTE
+
+PAGE
+
+VOLUME
+
+PICTURE
+
+BLANK
+OK
+
+EXIT
+
+ꕣ
+SETTINGS
+
+Q.MENU
+
+STILL
+
+RATIO
+
+HELP
+
+KEY.S
+
+USB
+KEY.S
+
+Daljinski upravljač,
+litijska baterija (CR2032 / 3 V)
+(Pogledajte str. 21)
+
+Korisnički priručnik
+
+HDMI kabel
+
+AC-DC adapter
+
+Kabel za napajanje
+
+13
+
+14 PRIPREMA
+•	 Prilikom priključivanja HDMI ili USB
+kabela ili priključivanja USB flash
+memorije na HDMI ili USB priključak
+koristite proizvod širine 18 mm ili manje
+te visine 10 mm ili manje. Ako USB kabel
+ili USB flash memorija ne odgovaraju
+USB priključcima na projektoru, koristite
+produžni kabel koji podržava USB 2.0.
+•	 Koristite certificirani kabel s logotipom HDMI.
+•	 Ako ne koristite certificirani HDMI kabel, na zaslonu se možda neće
+prikazati slika ili može doći do pogreške u povezivanju. (Preporučene vrste
+HDMI kabela)
+-- High-Speed HDMI®/TM kabel
+-- High-Speed HDMI®/TM kabel s priključkom za Ethernet
+
+Opcijski dodaci
+Za kupnju dodatne opreme posjetite trgovinu elektroničkom robom ili internetsku stranicu za kupnju ili se obratite u trgovinu u kojoj ste kupili proizvod.
+Opcijska dodatna oprema podložna je promjenama bez prethodne najave.
+
+Projekcijski zaslon
+
+MHL ili Slimport kabel
+
+Stalak
+
+PRIPREMA
+
+15
+
+Dijelovi i komponente
+Projektor je proizveden pomoću iznimno precizne tehnologije. Međutim,
+mogli biste uočiti crne i/ili svijetle (crvena, plava ili zelena) točkice koje se
+stalno prikazuju na zaslonu projektora. One su uobičajen rezultat proizvodnog procesa i ne ukazuju na kvar.
+
+Glavna jedinica
+￼￼￼￼￼￼￼￼￼
+
+Zvučnik
+
+Upravljačka ploča
+
+Prsten za
+fokusiranje
+
+Ventilacijski
+otvor1
+Gumb
+
+Leća2
+
+Opis
+
+(NAPAJANJE)
+
+Uključivanje/isključivanje projektora.
+
+(POSTAVKE)
+
+Otvaranje ili zatvaranje izbornika Postavke.
+
+,
+
+Postavljanje funkcije ili pomicanje pokazivača.
+(Gumbi , : glasnoća se može podesiti prema
+načinu ulaza.)
+
+,
+
+,
+
+(U redu)
+
+Provjera trenutnog načina rada i spremanje promjena funkcije.
+
+1	 Budući da je temperatura područja ventilacijskih otvora visoka, nemojte
+mu se približavati.
+2	 Nemojte dodirivati leću prilikom upotrebe projektora. Možda je oštećena.
+
+16 PRIPREMA
+
+Stražnja strana
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+
+1
+
+2
+
+HDMI / MHL
+
+3
+
+OFF / ON
+
+4
+
+5
+
+DC IN
+
+6
+
+7
+Br.
+
+1
+
+Opis
+(Priključak za slušalice)
+
+2
+
+Priključak HDMI/MHL
+
+3
+
+Prekidač OFF/ON (Isključivanje/uključivanje)
+-- OFF (Isključivanje): potpuno isključivanje projektora.
+-- ON (Uključivanje): uključivanje projektora i prelazak u stanje
+mirovanja.
+Ako premještate projektor ili ga ne namjeravate koristiti duže
+vrijeme, postavite prekidač na OFF (Isključivanje).
+
+4
+
+Indikator napunjenosti baterije
+-- Crveno: puni se
+-- Zeleno: napunjeno
+
+5
+
+Priključak DC IN
+
+6
+7
+
+(Priključak USB)
+Priključak za Kensington sigurnosni sustav
+
+PRIPREMA
+
+Postavljanje
+Mjere opreza prilikom postavljanja
+•	 Projektor postavite u prostoriju
+koja se dobro prozračuje.
+-- Kako biste spriječili unutarnje zagrijavanje, projektor
+postavite u prostoriju koja se
+dobro prozračuje.
+Nemojte ništa postavljati blizu
+projektora. To može blokirati
+otvore za ventilaciju. Ako se
+ventilacijski otvori blokiraju,
+povećat će se unutarnja temperatura.
+
+-- Projektor nemojte postavljati
+na tepih ili sag. Ako se usisni
+ventilacijski otvori nalaze
+s donje strane projektora,
+pripazite da ih ne blokirate,a
+projektor uvijek koristite na
+čvrstoj, ravnoj površini.
+
+-- Pazite da u projektor ne uđu
+strana tijela, npr. komadići
+papira.
+
+17
+
+-- Oko projektora mora postojati
+odgovarajući razmak (30 cm
+ili više).
+
+•	 Projektor nemojte postavljati u
+prostorije u kojima je zrak vruć
+ili vlažan.
+-- Projektor postavite na mjesto
+s umjerenom temperaturom i
+niskom vlažnošću.
+•	 Projektor nemojte postavljati na
+mjesto na kojemu će privlačiti
+prašinu.
+-- Postoji rizik od požara.
+•	 Nikada ne otvarajte nijedan poklopac projektora. Postoji velika
+opasnost od strujnog udara.
+•	 Projektor je proizveden pomoću
+iznimno precizne tehnologije.
+Međutim, mogli biste uočiti crne
+i/ili svijetle točkice koje se stalno
+prikazuju na zaslonu projektora. One su uobičajen rezultat
+proizvodnog procesa i ne ukazuju
+na kvar.
+•	 Daljinski upravljač možda neće
+funkcionirati ako je lampa opremljena elektroničkim balastom
+ili ako je ugrađena lampa s tri
+valne duljine. Lampu zamijenite modelom koji udovoljava
+međunarodnim standardima kako
+bi daljinski upravljač nastavio
+normalno raditi.
+
+18 PRIPREMA
+
+Udaljenost projekcije prema veličini zaslona
+
+1	 Projektor postavite na čvrstu vodoravnu površinu zajedno s računalom ili
+izvorom audio/video signala.
+
+2	 Projektor postavite na odgovarajuću udaljenost od zaslona.
+
+Udaljenost između projektora i zaslona određuje stvarnu veličinu slike.
+
+3	 Projektor postavite tako da leća bude postavljena pod pravim kutom u
+
+odnosu na zaslon. Ako leću ne postavite pod pravim kutom, slika na
+zaslonu bit će iskrivljena. Kako biste ispravili izobličenje, koristite funkciju
+Keystone (Korigiranje kuta). (Pogledajte str. 28)
+
+4	 Ukopčajte kabele za napajanje projektora i priključenih uređaja u zidnu
+utičnicu.
+
+Omjer uspravne projekcije: 100 %
+Zaslon
+
+Y/2
+Y/2
+
+X/2
+
+Udaljenost projekcije (D)
+
+Širina zaslona (Y)
+
+X/2
+
+Visina zaslona (X)
+
+Zaslon
+
+27.0 mm
+
+Udaljenost projekcije (D)
+
+Format slike 16:9
+Veličina zaslona 	Širina zaslona (Y) Visina zaslona
+(mm)
+(mm)
+(X) (mm)
+508
+635
+762
+889
+1016
+1143
+1270
+1397
+1524
+1651
+1778
+1905
+2032
+2159
+2286
+2413
+2540
+
+443
+553
+664
+775
+886
+996
+1107
+1218
+1328
+1439
+1550
+1660
+1771
+1882
+1992
+2103
+2214
+
+249
+311
+374
+436
+498
+560
+623
+685
+747
+809
+872
+934
+996
+1058
+1121
+1183
+1245
+
+Udaljenost projekcije (D) (mm)
+742
+931
+1119
+1308
+1497
+1686
+1875
+2063
+2252
+2441
+2630
+2818
+3007
+3196
+3385
+3574
+3762
+
+PRIPREMA
+
+19
+
+Kako postaviti projektor na stalak
+•	 Ovaj projektor možete postaviti pomoću stalka za fotoaparat.
+•	 Kao što je prikazano u nastavku, projektor možete postaviti na stalak za
+kameru.
+•	 Za stabilizaciju stalka preporučamo korištenje vijka za učvršćivanje standardne dužine od 4,5 mm ili kraći. Maksimalna dopuštena dužina vijka za
+učvršćivanje je 5,5 mm. (dužim vijcima mogli biste oštetiti projektor).
+
+￼￼￼
+Donji dio projektora
+
+Vijak za
+pričvršćivanje
+projektora na
+stalak
+Ovdje se postavlja
+projektor.
+
+Stalak
+
+￼
+
+OPREZ
+•	 Ako koristite stalak, pripazite da na njega ne primjenjujete dodatnu silu.
+To može oštetiti projektor.
+•	 Ne stavljajte stalak na nestabilnu površinu.
+•	 Svakako koristite stalak najmanje nosivosti od 3 kg.
+•	 Da biste projektor sigurno koristili, postavite noge stalka što je šire i
+stabilnije moguće i sigurno pričvrstite projektor na stalak.
+
+20 PRIPREMA
+
+Sigurnosni sustav Kensington
+•	 Ovaj projektor ima priključak za sigurnosni standard Kensington, kao mehanizam protiv krađe. Priključite kabel za sigurnosni sustav tvrtke Kensington kao što je prikazano ispod.
+•	 Detaljne upute za instalaciju i korištenje sigurnosnog sustava tvrtke Kensington potražite u korisničkom vodiču koji se isporučuje sa sigurnosnim
+sustavom tvrtke Kensington.
+•	 Sigurnosni sustav tvrtke Kensington je dodatna oprema.
+•	 Što je Kensington?
+Kensington je tvrtka koja nudi sigurnosne sustave za prijenosna računala i
+druge elektroničke uređaje. Web-mjesto: http://www.kensington.com
+
+DALJINSKI UPRAVLJAČ
+
+DALJINSKI UPRAVLJAČ
+Otvorite poklopac na stražnjoj strani daljinskog
+upravljača i umetnite odgovarajuće baterije, sukladno
+uputama . Koristite nove baterije.
+
+￼￼￼
+POWER
+
+INPUT
+MUTE
+
+POWER
+
+￼ Uključivanje/isključivanje projektora.
+MUTE
+Isključivanje zvuka projektora.
+
+PAGE
+
+VOLUME
+
+PICTURE
+
+BLANK
+OK
+
+EXIT
+
+ꕣ
+SETTINGS
+
+Q.MENU
+
+STILL
+
+RATIO
+
+HELP
+
+KEY.S
+
+USB
+KEY.S
+
+INPUT
+Promjena izvora ulaznog signala.
+VOLUME +, Podešavanje glasnoće.
+PAGE
+Prelazak na prethodnu/sljedeću
+stranicu.
+
+,
+
+PICTURE
+Promjena načina rada slike.
+BLANK
+Uključivanje/isključivanje zaslona
+projektora.
+Gumbi za gore/dolje/lijevo/desno
+Postavljanje funkcije ili pomicanje
+pokazivača.
+OK
+Provjera trenutnog načina rada i spremanje promjena funkcije.
+EXIT
+Izlaz iz izbornika.
+Povratak na prethodnu razinu.
+SETTINGS
+Otvaranje ili zatvaranje izbornika
+Postavke.
+Q.MENU
+Pristup brzom izborniku.
+
+21
+
+22 DALJINSKI UPRAVLJAČ
+
+￼￼
+POWER
+
+INPUT
+MUTE
+
+STILL
+PAGE
+
+VOLUME
+
+Zamrzavanje pokretnih slika
+(Dostupno u svim načinima rada osim
+USB.)
+RATIO
+
+PICTURE
+
+BLANK
+OK
+
+Promjena veličine slike.
+USB
+Pristup USB načinu rada.
+
+EXIT
+
+ꕣ
+SETTINGS
+
+Q.MENU
+
+HELP
+Omogućavanje automatske dijagnoze.
+KEY.S
+
+STILL
+
+RATIO
+
+HELP
+
+KEY.S
+
+USB
+KEY.S
+
+,
+
+Korekcija kuta.
+Gumbi za upravljanje reprodukcijom
+Upravljanje reprodukcijom sadržaja iz
+izbornika MY MEDIA (MOJI MEDIJI).
+Gumbi u bojama
+Postavljanje detaljnih postavki ili
+pokreta za svaki izbornik.
+
+￼￼￼
+
+NAPOMENA
+•	 Optimalno područje korištenja daljinskog upravljača je 3 metra ili manje (lijevo/
+desno) te unutar 30 stupnjeva u odnosu
+na IC prijemnik daljinskog upravljača.
+•	 Za neometan rad nemojte blokirati IC
+prijemnik.
+•	 Kada nosite daljinski upravljač u torbi za
+prenošenje, pripazite da projektor, kabeli,
+dokumenti ili drugi predmeti u torbi ne
+pritišću gumbe na daljinskom upravljaču.
+U suprotnom biste mogli značajno smanjiti vijek trajanja baterije.
+
+HDMI / MHL
+
+DC IN
+
+OFF / ON
+
+POWER
+
+INPUT
+MUTE
+
+PAGE
+
+VOLUME
+
+PICTURE
+
+BLANK
+OK
+
+EXIT
+
+ꕣ
+SETTINGS
+
+Q.MENU
+
+STILL
+
+RATIO
+
+HELP
+
+KEY.S
+
+USB
+KEY.S
+
+KORIŠTENJE PROJEKTORA
+
+23
+
+KORIŠTENJE PROJEKTORA
+Korištenje baterije
+
+Low battery! The projector will
+turn off soon
+
+￼
+•	 Prikazuje se prije no što će se baterija isprazniti.
+•	 Budući da je baterija gotovo prazna, projektor će se isključiti za minutu.
+•	 Ako se na zaslonu prikaže poruka da je baterija pri kraju, napunite je.
+
+Informacije o vremenu za korištenje baterije
+Status
+
+Vrijeme i zaslon
+
+Punjenje
+
+Oko 3 sata
+
+Broj sati
+korištenja
+
+Do 2,5 sata
+(Baterija traje do 2,5 sata ako je način rada za štednju
+energije postavljen na maksimalnu razinu.
+Promjena zadanih vrijednosti načina rada za uštedu energije skratit će trajanje baterije.)
+
+Indikator
+napunjenosti baterije
+
+Step 1
+
+Step 2
+
+Step 3
+
+Step 4
+
+24 KORIŠTENJE PROJEKTORA
+•	 Ako projektor ne koristite dulje vremensko razdoblje, preporučeno je napuniti ju na 40 % - 50 % kapaciteta.
+•	 Nakon što projektor priključite u strujnu mrežu, baterija će se automatski
+početi puniti.
+•	 Prilikom prvog korištenja projektora bateriju napunite do kraja.
+•	 Standardno vrijeme trajanja baterije u radu navedeno u priručniku temelji
+se na mjerenjima tvrtke LG; stvarno vrijeme može se razlikovati ovisno o
+načinu korištenja.
+•	 Vrijeme trajanja baterije u radu ovisi o vrsti reproduciranog sadržaja, radnoj
+temperaturi, duljini vremena korištenja i korisničkim postavkama.
+•	 Budući da je baterija potrošna, njen se kapacitet vremenom smanjuje.
+Kad se kapacitet baterije smanji na pola, zamijenite je novom baterijom iz
+prodajnog centra tvrtke LG Electronics.
+•	 Bateriju punite isključivo pomoću opreme koja je isporučena uz proizvod. U
+protivnom, moglo bi doći do oštećenja baterije ili požara.
+•	 Obavezno koristite bateriju koju je odobrila i certificirala tvrtka LG Electronics, Inc. Ako to ne učinite, moglo bi doći do eksplozije ili požara.
+•	 Ako baterija curi ili iz nje dopire neugodan miris, odmah je prestanite koristiti i obratite se centru za korisničku podršku tvrtke LG Electronics.
+•	 Baterija je litij-ionska pa s njom rukujte pažljivo. Ako to ne učinite, moglo bi
+doći do eksplozije ili požara.
+
+KORIŠTENJE PROJEKTORA
+
+25
+
+Gledanje slike s projektora
+Uključivanje projektora
+Prikaz izbornika na zaslonu u ovom korisničkom priručniku služi kao primjer
+koji korisnicima pomaže u razumijevanju rukovanja proizvodom i može se
+razlikovati od stvarnog zaslona.
+
+1	 Ispravno priključite kabel za napajanje kako biste uključili projektor.
+2	 Postavite prekidač OFF/ON na području s priključcima na stražnjoj
+
+strani na ON i pritisnite gumb POWER na upravljačkoj ploči ili daljinskom upravljaču. (Ako je prekidač postavljen na OFF, projektor se neće
+uključiti.)
+
+3	 Na zaslonu za odabir jezika odaberite željeni jezik.
+4	 Ulazni signal odaberite pomoću gumba INPUT na daljinskom upravljaču.
+Fokus slike na zaslonu
+Nakon što se na zaslonu prikaže slika, provjerite je li fokusirana i je li
+prilagođena zaslonu.
+Za podešavanje fokusa slike, okrenite prsten za fokusiranje.
+
+Prsten za
+fokusiranje
+
+￼￼￼
+
+26 KORIŠTENJE PROJEKTORA
+
+Korištenje projektora
+
+1	 Dok je projektor u stanju mirovanja, pritisnite gumb POWER kako biste
+ga uključili.
+
+2	 Pomoću gumba INPUT odaberite željeni ulazni signal.
+3	 Tijekom gledanja projektorom možete upravljati pomoću sljedećih gumba.
+Gumb
+
+Opis
+
+VOLUME +, -
+
+Podešavanje glasnoće.
+
+MUTE
+
+Isključivanje zvuka projektora.
+
+Q.MENU
+
+Pristup brzom izborniku. (Pogledajte str. 30)
+
+RATIO
+KEY.S
+
+Promjena veličine slike.
+
+,
+
+Korekcija kuta. (Pogledajte str. 28)
+
+4	 Kako biste isključili projektor, pritisnite gumb POWER.
+
+KORIŠTENJE PROJEKTORA
+
+27
+
+Dodatne opcije
+Podešavanje formata slike
+
+1	 Pritisnite gumb Q.MENU.
+2	 Pomoću gumba , odaberite Aspect Ratio (Format slike) i pritisnite
+gumb OK.
+
+Izbornik
+
+￼
+
+Opis
+
+16:9
+
+Promjena veličine slike na format 16:9.
+
+Just Scan
+(Poklapanje piksela
+1:1)
+
+Prikaz slike u izvornoj veličini bez izrezivanja rubova.
+•	 Ako odaberete Just Scan (Poklapanje piksela 1:1),
+možda ćete uočiti šum slike na rubu ili rubovima zaslona.
+
+Set By
+Program
+(Original)
+
+Prikaz slike u istom formatu kao izvorna slika.
+
+4:3
+
+Prikaz zaslona u formatu slike 4:3.
+
+Zoom
+(Zum)
+
+Povećavanje slike kako bi odgovarala širini zaslona. Vrh i
+dno slike bit će odsječeni.
+•	 Pomoću gumba
+,
+povećajte ili smanjite sliku.
+•	 Pomoću gumba
+,
+premjestite sliku.
+
+Cinema
+Zoom1
+
+Formatiranje slike na kinematografski omjer 2,35:1. Kreće
+se od 1 do 16.
+•	 Pomoću gumba
+,
+povećajte ili smanjite sliku.
+•	 Pomoću gumba
+,
+premjestite sliku.
+•	 Ako sliku povećate ili smanjite, možda će se izobličiti.
+
+NAPOMENA
+•	Dostupni načini prikaza slike mogu se razlikovati ovisno o ulaznom signalu.
+•	Možete koristiti i gumb RATIO.
+
+28 KORIŠTENJE PROJEKTORA
+
+Korištenje funkcije Keystone (Korigiranje kuta)
+Kako biste spriječili trapezoidni oblik slike na zaslonu, opcija Keystone (Korigiranje kuta) omogućava prilagodbu širine gornjeg i donjeg dijela slike ako
+projektor nije postavljen pod pravim kutom u odnosu na zaslon.
+Budući da funkcija Keystone (Korigiranje kuta) može dovesti do lošije
+kvalitete zaslonskog prikaza, koristite je isključivo u slučajevima kada projektor ne možete postaviti pod optimalnim kutom.
+• Keystone	
+
+0 ◀
+
+L
+
+R
+
+▶
+
+Close
+
+￼￼
+
+1	 Pritisnite gumb SETTINGS.
+2	 Pomoću gumba , ,
+pritisnite gumb OK.
+
+3	 Pomoću gumba
+gumb OK.
+
+,
+
+odaberite OPTION 2 (OPCIJA 2) i
+
+odaberite Keystone (Korigiranje kuta) i pritisnite
+
+,
+
+4	 Podesite opciju Keystone (Korigiranje kuta) pomoću gumba
+5	 Keystone (Korigiranje kuta) možete postaviti od -40 do 40.
+6	 Nakon dovršetka pritisnite gumb OK.
+
+,
+
+.
+
+Promjena ulaznog uređaja
+Odabir vanjskog ulaza
+Možete odabrati ulaze povezane s projektorom.
+•	 Pritisnite gumb INPUT na daljinskom upravljaču kako bi se prikazao zaslon
+s opcijama za odabir.
+-- Najprije se prikazuju povezani ulazi.
+•	 Odaberite ulazni signal pomoću gumba INPUT na daljinskom upravljaču
+kako biste povezali projektor sa željenim ulazom.
+Za odabir načina rada ulaza možete koristiti gumbe
+ili .
+Input List
+
+USB
+
+￼
+
+ꔂ Move ꔉ OK
+
+HDMI
+
+Input Label
+
+Exit
+
+KORIŠTENJE PROJEKTORA
+
+29
+
+Odabir oznake ulaza
+Prikaz koji su uređaji priključeni na koji ulazni priključak.
+Input Label
+HDMI
+
+Close
+
+￼
+
+1	 Pritisnite gumb INPUT na daljinskom upravljaču kako bi se prikazao
+zaslon s opcijama za odabir.
+
+2	 Pritisnite crveni gumb.
+3	 Pomoću gumba ili
+
+odaberite jednu od oznaka unosa.
+
+Funkcija ispune
+Korištenje funkcije ispune
+Ova funkcija može biti učinkovita ako želite privući pažnju tijekom sastanka
+ili predavanja.
+
+1	 Pritisnite gumb BLANK i zaslon će ispuniti boja pozadine. Boju pozadine
+
+možete promijeniti prateći upute u odjeljku "Odabir boje pozadine za sliku
+ispune".
+
+2	 Pritisnite bilo koji gumb kako biste poništili funkciju ispune. Za privre-
+
+menu ispunu zaslona pritisnite gumb BLANK na daljinskom upravljaču.
+Dok projektor radi, nemojte blokirati leću nekim predmetom. Mogla bi se
+pregrijati, izobličiti, čak i zapaliti.
+
+30 KORIŠTENJE PROJEKTORA
+Odabir boje pozadine za sliku ispune
+
+1	 Pritisnite gumb SETTINGS.
+2	 Pomoću gumba , ,
+pritisnite gumb OK.
+
+ili
+
+odaberite OPTION 2 (OPCIJA 2) i
+
+3	 Pomoću gumba
+
+,
+
+odaberite Blank Image (Slika ispune) i pritisnite
+
+4	 Pomoću gumba
+
+ili
+
+prijeđite na željenu postavku ili opciju i pritisnite
+
+gumb OK.
+gumb OK.
+
+Korištenje brzog izbornika
+Možete prilagoditi često korištene izbornike.
+
+1	 Pritisnite gumb Q.MENU.
+2	 Pomoću gumba ili odaberite izbornik i pritisnite gumb OK.
+Izbornik
+
+Opis
+
+Aspect Ratio
+(Format slike)
+
+Promjena veličine slike.
+
+PJT Mode
+(Način rada
+PJT)
+
+Preokreće sliku s projektora ili je okreće vodoravno.
+
+Picture Mode
+(Način slike)
+
+Promjena načina slike.
+
+Sound Mode
+(Način zvuka)
+
+Postavljanje načina rada zvuka.
+
+Sleep Timer
+(Mjerač vremena gašenja)
+
+Postavljanje projektora na isključivanje u određeno
+vrijeme.
+
+Clear Voice II
+
+Za oštriji i jasniji zvuk iz projektora.
+
+Energy Saving 	
+(Štednja energije)
+
+Podešavanje svjetline.
+
+USB Device
+(USB uređaj)
+
+Omogućuje isključivanje povezanog USB uređaja na
+siguran način.
+(Izbornik se prikazuje samo ako je USB uređaj
+priključen.)
+
+3	 Pomoću gumba
+
+,
+
+pomičite se kroz sljedeće izbornike.
+
+MY MEDIA (MOJI MEDIJI)
+
+31
+
+MY MEDIA (MOJI MEDIJI)
+Prije korištenja
+Povezivanje USB uređaja
+Priključite USB uređaj (vanjski tvrdi disk,
+USB memorija) u USB priključak na projektoru kako biste na projektoru uživali
+u datotekama sadržaja pohranjenim
+na USB uređaju. Na USB uređaj ne
+možete zapisivati podatke niti ih brisati.
+USB flash memoriju povežite kao što je
+prikazano u nastavku.
+
+USB flash
+memorija
+
+￼
+
+Isključivanje USB uređaja
+
+1	 Pritisnite gumb Q.MENU.
+2	 Pomoću gumba ili prijeđite na USB Device (USB uređaj) i pritisnite
+gumb OK.
+
+3	 Odaberite USB uređaj koji želite isključiti. Prije isključivanja USB uređaja
+pričekajte potvrdu da je USB uređaj prestao s radom.
+
+￼
+
+NAPOMENA
+•	 Ako ga prerano izvadite, može doći do pogreške na projektoru ili USB
+uređaju za pohranu.
+•	 Nakon što odaberete opciju za uklanjanje USB uređaja, više se neće
+moći očitati. Izvadite USB uređaj za pohranu, a zatim ga ponovno
+priključite.
+
+32 MY MEDIA (MOJI MEDIJI)
+Savjeti za korištenje USB uređaja
+•	 Ako USB uređaj za pohranu ima ugrađen program za automatsko prepoznavanje ili koristi vlastiti upravljački program, možda neće funkcionirati.
+•	 Neki USB uređaji za pohranu možda neće funkcionirati ili neće ispravno
+funkcionirati.
+•	 Ako koristite produžni USB kabel, USB uređaj možda neće biti prepoznat ili
+neće ispravno funkcionirati.
+•	 Koristite samo USB uređaje za pohranu koji su formatirani pomoću Windows FAT32 ili NTFS datotečnog sustava.
+•	 Za vanjske USB tvrde diskove preporučuje se korištenje uređaja s nominalnim naponom manjim od 5 V i nominalnom jačinom struje manjom od
+500 mA.
+•	 Preporučuje se korištenje USB čvorišta ili tvrdog diska s napajanjem. (Ako
+napajanje nije dostatno, USB uređaj za pohranu možda se neće ispravno
+prepoznati.)
+•	 Preporučuje se korištenje USB flash memorija od 32 GB ili manje i USB
+tvrdih diskova od 1 TB ili manje.
+•	 Ako USB tvrdi disk s funkcijom uštede energije ne funkcionira pravilno,
+isključite i ponovno uključite napajanje. Dodatne informacije potražite u
+korisničkom priručniku za USB tvrdi disk.
+•	 Podaci na USB uređaju za pohranu mogu se oštetiti, stoga obavezno
+izradite sigurnosne kopije važnih datoteka na drugim uređajima. Korisnik
+je odgovoran za održavanje podataka; proizvođač ne snosi odgovornost u
+slučaju gubitka podataka.
+
+MY MEDIA (MOJI MEDIJI)
+
+33
+
+Korištenje opcije My Media (Moji mediji)
+1	 Na daljinskom upravljaču pritisnite gumb SETTINGS.
+2	 Odaberite MY MEDIA (MOJI MEDIJI).
+
+Odaberite željenu datoteku s popisa. Gledajte odabranu datoteku.
+Određivanje postavki vezanih uz reprodukciju označavanjem ove opcije
+tijekom reprodukcije.
+
+Podržana datoteka za opciju My Media (Moji mediji)
+•	 Maksimalna brzina prijenosa podataka: 20 Mb/s (megabita u sekundi)
+•	 Podržani formati vanjskih titlova: *.smi, *.srt, *.sub (MicroDVD, SubViewer
+1.0/2.0), *.ass, *.ssa, *.txt (TMPlayer), *.psb (PowerDivX)
+•	 Podržani formati internih titlova: SRT/ASS/SSA (podržava interne titlove
+koje generira DivX6)
+
+Podržani video kodek
+Maksimalna razlučivost: 1920 x 1080 pri 30p
+(samo Motion JPEG 640 x 480 pri 30p)
+Nastavak
+.asf, .wmv
+
+.divx, .avi
+.mp4, .m4v,
+.mov
+.mkv
+.ts, .trp, .tp,
+.mts, .m2ts
+.vob
+.mpg
+
+Kodek
+Video
+
+VC-1 napredni profil, VC-1 jednostavni i glavni profili
+
+Audio
+
+WMA Standard, WMA 9 Professional
+
+Video
+
+DivX3.11, DivX4, DivX5, DivX6, XVID, H.264/AVC
+
+Audio
+
+MPEG-1 Layer I, II, MPEG-1 Layer III (MP3), Dolby
+Digital
+
+Video
+
+H.264 / AVC, MPEG-4 Part 2
+
+Audio
+
+AAC
+
+Video
+
+H.264/AVC
+
+Audio
+
+HE-AAC, Dolby Digital
+
+Video
+
+H.264 / AVC, MPEG-2, VC-1
+
+Audio
+
+MPEG-1 Layer I, II, MPEG-1 Layer III (MP3), Dolby
+Digital, Dolby Digital Plus, AAC
+
+Video
+
+MPEG-1, MPEG-2
+
+Audio
+
+Dolby Digital, MPEG-1 Layer I, II, DVD-LPCM
+
+Video
+
+MPEG-1
+
+Audio
+
+MPEG-1 Layer I, II
+
+34 MY MEDIA (MOJI MEDIJI)
+Podržane audio datoteke
+Format
+datoteke
+MP3
+
+Stavka
+Brzina prijenosa
+podataka
+Brzina uzorkovanja
+
+AC3
+
+Brzina prijenosa
+podataka
+Brzina uzorkovanja
+
+MPEG
+
+Brzina prijenosa
+podataka
+Brzina uzorkovanja
+
+AAC,
+HEAAC
+
+CDDA
+
+Brzina prijenosa
+podataka
+Brzina uzorkovanja
+
+Informacije
+32 Kb/s do 320 Kb/s
+32 kHz do 48 kHz
+32 kb/s do 640 kb/s
+32 kHz, 44,1 kHz, 48 kHz
+32 kb/s do 448 kb/s
+32 kHz do 48 kHz
+24 kb/s do 3844 kb/s
+8 kHz do 96 kHz
+
+Brzina prijenosa
+podataka
+
+1,44 kb/s
+
+Brzina uzorkovanja
+
+44,1 kHz
+
+Brzina prijenosa
+podataka
+LPCM
+Brzina uzorkovanja
+
+1,41 Mb/s do 9,6 Mb/s
+Više kanala: 44,1 kHz, 88,2 kHz /
+48 kHz, 96 kHz
+Stereo: 176,4 kHz, 192 kHz
+
+MY MEDIA (MOJI MEDIJI)
+
+35
+
+Gledanje videozapisa
+Opcija Movie List (Popis filmova) prikazuje filmove koji se nalaze na USB
+uređaju i koje možete gledati.
+Upravljanje reprodukcijom i postavljanje opcija prilikom pregleda videozapisa.
+
+Savjeti za reprodukciju videozapisa
+•	 Neki korisnički titlovi možda neće ispravno funkcionirati.
+•	 Datoteka videozapisa treba biti u istoj mapi kao datoteka titlova. Kako bi
+se titlovi prikazali ispravno, datoteka videozapisa mora imati isti naziv kao
+datoteka titlova.
+•	 Ne podržavamo usmjeravanja koja sadrže GMC (Global Motion Compensation) ili Qpel (Quarterpel Motion Estimation).
+•	 Podržan je samo H.264/AVC profil razine 4.1 i niže.
+•	 Nije podržana reprodukcija videodatoteka većih od 50 GB (gigabajta).
+Ograničenje veličine datoteke ovisi o okruženju kodiranja.
+•	 DTS audio format nije podržan.
+
+Pregled popisa filmova
+Možete reproducirati videozapis spremljen na povezanom uređaju.
+
+1	 Priključite USB uređaj za pohranu.
+2	 Pritisnite gumb USB.
+3	 Pomoću gumba ili odaberite Movie List (Popis filmova) i pritisnite
+gumb OK.
+
+4	 Pomoću gumba
+gumb OK.
+
+,
+
+,
+
+2
+
+1
+
+ili
+
+odaberite željenu datoteku i pritisnite
+
+4
+
+3
+
+Page 1/1
+
+Movie List
+USB STORAGE DEVICE
+
+Drive1
+
+Drive2
+
+Drive3
+
+Drive4
+
+5
+PAGE
+
+Drive5
+
+Page 1/1
+
+Butterfly_...
+01:34:33
+
+Go to root folder
+
+7
+
+Page Change
+
+Go to upper folder
+
+Exit
+
+8
+
+9
+
+6
+
+36 MY MEDIA (MOJI MEDIJI)
+Br.
+
+Opis
+Sličice
+
+1
+
+Neispravna
+datoteka
+Datoteka nije
+podržana
+
+2
+
+Popis datoteka
+
+3
+
+Prelazak na mapu više razine.
+
+4
+
+Trenutna stranica / ukupni broj stranica s mapama
+
+5
+
+Prikaz preostalog trajanja baterije.
+
+6
+
+Trenutna stranica / ukupni broj stranica s datotekama
+
+7
+
+Prelazak na mapu najviše razine.
+
+8
+
+Prelazak na mapu više razine.
+
+9
+
+Izlaz iz prikaza popisa filmova.
+
+5	 Upravljajte reprodukcijom pomoću jednog od sljedećih gumba.
+
+￼
+Stavka
+
+Q.MENU
+
+Option
+
+Hide
+
+나가기 Exit
+
+Opis
+Prikaz trenutnog položaja reprodukcije. Pomoću gumba
+možete se pomicati naprijed ili natrag.
+Prekid reprodukcije i povratak na popis filmova.
+Povratak na običnu reprodukciju.
+
+,
+
+MY MEDIA (MOJI MEDIJI)
+
+Stavka
+
+37
+
+Opis
+Pauziranje multimedijskog reproduktora.
+Ako ne pritisnete nijedan gumb na daljinskom upravljaču
+10 minuta nakon pauziranja, reprodukcija će se ponovo
+pokrenuti.
+Usporena reprodukcija videozapisa.
+Pritiskom na ovaj gumb promijenit ćete brzinu reprodukcije.:
+x2, x4, x8, x16, x32
+Možete koristiti način rada za uštedu energije.
+
+Option
+(Opcija)
+
+Prikazat će se skočni prozor.
+
+Hide
+(Sakrij)
+
+Skrivanje trake za reprodukciju. Za njen prikaz pritisnite gumb
+OK.
+
+Exit
+(Izlaz)
+
+Povratak na zaslon s popisom filmova.
+
+Opcije za popis filmova
+
+1	 Pritisnite gumb Q.MENU.
+2	 Pomoću gumba ili prijeđite na željenu opciju i pritisnite gumb OK.
+3	 Pomoću gumba , , ili podesite svaku opciju.
+Set Video Play. (Postavke reprodukcije videozapisa.)
+Stavka
+
+Opis
+
+Picture
+Size
+(Veličina
+slike)
+
+Odabir veličine zaslona za reprodukciju.
+•	 Full (Puni zaslon): datoteke se reproduciraju u načinu
+rada za prikaz preko cijelog zaslona u skladu s formatom
+slike videozapisa.
+•	 Original: prikaz videozapisa u originalnom formatu.
+
+Audio
+Language
+(Audio
+jezik)
+
+Omogućava odabir željenog jezika kod datoteka s više
+audio kanala. Opcija neće biti dostupna ako datoteka sadrži
+samo jedan audio kanal.
+
+38 MY MEDIA (MOJI MEDIJI)
+Stavka
+
+Opis
+
+Subtitle
+Language
+(Jezik
+podnaslova)
+
+Podnaslovi se mogu uključiti ili isključiti.
+•	 Language (Jezik): možete odabrati neki od dostupnih jezika.
+•	 Code Page (Kodna stranica): možete odabrati skup znakova koje koristi podnaslov. Prema zadanim postavkama,
+podnaslov se prikazuje na jeziku koji je konfiguriran u
+izborniku OPTION 1 (OPCIJA 1) → Language (Jezik).
+-- Sync (Sinkronizacija): ako podnaslov nije sinkroniziran
+s pripadajućim videozapisom, možete prilagoditi njegovu brzinu u koracima od 0,5 sekundi.
+-- Position (Položaj): premještanje položaja podnaslova.
+-- Size (Veličina): promjena veličine fonta podnaslova.
+
+Repeat
+(Ponovi)
+
+Postavljanje funkcije ponavljanja na On (Uključeno) ili Off
+(Isključeno).
+Kada je isključena, sljedeća datoteka reproducirat će se
+automatski, ako je naziv datoteke sličan.
+
+Jezik podnaslova
+Jezik podnaslova
+Latinica1
+Latinica2
+Latinica4
+Ćirilica
+Grčki
+Turski
+Hebrejski
+Kineski
+Korejski
+Arapski
+
+Jezik
+Engleski, Španjolski, Francuski, Njemački, Talijanski, Švedski,
+Finski, Nizozemski, Portugalski, Danski, Rumunjski, Norveški,
+Albanski, Galski, Velški, Irski, Katalonski, Valencijski
+Bosanski, Poljski, Hrvatski, Češki, Slovački, Slovenski,
+Srpski, Mađarski
+Estonski, Latvijski, Litavski
+Bugarski, Makedonski, Ruski, Ukrajinski, Kazaški
+Grčki
+Turski
+Moderni hebrejski
+Pojednostavnjeni kineski
+Korejski
+Arapski
+
+Set Video. (Postavke videozapisa.)
+Možete promijeniti postavke videozapisa. (Pogledajte "Postavke opcije PICTURE (SLIKA)" na stranici 52.)
+Set Audio. (Postavke zvuka.)
+Možete promijeniti postavke zvuka. (Pogledajte "Postavke opcije AUDIO
+(ZVUK)" na stranici 57.)
+
+MY MEDIA (MOJI MEDIJI)
+
+39
+
+Registracija DivX koda
+Provjerava DivX reg. kod za reprodukciju videodatoteka s DivX zaštitom.
+Registrirajte se na http://vod.divx.com.
+Pomoću reg. koda možete posuditi ili kupiti filmove na stranici www.divx.com/
+vod.
+
+1	 Na izborniku Postavke prijeđite na OPTION 1 (OPCIJA 1) i pritisnite
+DivX(R) VOD.
+
+Registration
+Deregistration
+Close
+
+￼
+
+2	 Pomoću gumba
+
+ili
+
+nite gumb OK.
+
+prijeđite na Registration (Registracija) i pritisYou must register your device to
+play DivX(R) protected videos.
+Registration Code: XXXXXXXXXX
+Register at http://vod.divx.com
+
+￼
+
+OK
+
+3	 Provjerite Registration Code (Registracijski kod) za DivX.
+￼
+
+NAPOMENA
+•	 Posuđene/kupljene DivX datoteke ne mogu se reproducirati ako se
+upotrijebi DivX registracijski kôd drugog uređaja. Koristite samo onaj
+DivX registracijski kod koji je dodijeljen vašem uređaju.
+•	 Konvertirane datoteke koje nisu u skladu s DivX Codec standardom
+možda se neće reproducirati ili se njihov zvuk neće ispravno reproducirati.
+
+40 MY MEDIA (MOJI MEDIJI)
+Poništavanje registracije DivX koda
+Pomoću DivX koda za poništavanje registracije deaktivirajte funkciju DivX
+DRM.
+
+1	 Na izborniku Postavke prijeđite na OPTION 1 (OPCIJA 1) i pritisnite
+DivX(R) VOD.
+
+2	 Pomoću gumba
+
+ili
+prijeđite na Deregistration (Poništavanje registracije) i pritisnite gumb OK.
+
+3	 Odaberite Yes (Da).
+
+Your device is already registered.
+Are you sure you wish to deregister?
+Yes
+
+No
+
+Deregistration code : ********
+Deregister at http://vod.divx.com
+Continue with registration?
+Yes
+
+No
+
+￼
+￼
+
+NAPOMENA
+•	 Što je to DRM [Upravljanje digitalnim pravima]?
+Tehnologije i usluge DRM štite interese i prava vlasnika autorskih
+prava tako da sprječavaju nezakonito korištenje ilegalnog sadržaja.
+Datoteke možete reproducirati nakon potvrđivanja valjanosti licence
+online ili drugim putem.
+
+MY MEDIA (MOJI MEDIJI)
+
+41
+
+Gledanje fotografija
+Možete pregledavati fotografije spremljene na priključenom uređaju.
+
+Podržane slikovne datoteke
+FOTOGRAFIJA (*.JPEG)
+Osnovno: 64 piksela (širina) x 64 piksela (visina) do 15360 piksela (širina) x
+8640 piksela (visina)
+Progresivno: 64 piksela (širina) x 64 piksela (visina) do 1920 piksela (širina) x
+1440 piksela (visina)
+•	 Podržane su samo JPEG datoteke.
+•	 Datoteke koje nisu podržane prikazuju se u obliku ikone.
+•	 U slučaju neispravnih datoteka ili formata koji se ne mogu reproducirati
+prikazuje se poruka o pogrešci.
+•	 Neispravne datoteke možda se neće ispravno prikazati.
+•	 Za prikaz slika velike rezolucije preko cijelog zaslona možda će biti
+potrebno neko vrijeme.
+
+Pregled popisa fotografija
+
+1	 Priključite USB uređaj za pohranu.
+2	 Pritisnite gumb USB.
+3	 Pomoću gumba ili odaberite Photo List (Popis fotografija) i pritisnite gumb OK.
+
+4	 Pomoću gumba
+gumb OK.
+
+,
+
+,
+
+ili
+
+4
+
+3
+
+2
+
+1
+
+odaberite željenu datoteku i pritisnite
+
+Page 1/1
+
+Photo List
+USB STORAGE DEVICE
+
+Drive1
+
+Drive2
+
+Drive3
+
+Drive4
+
+5
+PAGE
+
+Drive5
+
+Page 1/1
+
+Butterfly_...
+06/09/2014
+
+Go to root folder
+
+7
+
+Page Change
+
+Go to upper folder
+
+Exit
+
+8
+
+9
+
+6
+
+42 MY MEDIA (MOJI MEDIJI)
+Br.
+
+Opis
+Sličice
+Neispravna datoteka
+
+1
+Datoteka nije
+podržana
+
+2
+
+Popis datoteka
+
+3
+
+Prelazak na mapu više razine.
+
+4
+
+Trenutna stranica / ukupni broj stranica s mapama
+
+5
+
+Prikaz preostalog trajanja baterije.
+
+6
+
+Trenutna stranica / ukupni broj stranica s datotekama
+
+7
+
+Prelazak na mapu najviše razine.
+
+8
+
+Prelazak na mapu više razine.
+
+9
+
+Izlaz iz prikaza popisa fotografija.
+
+5	 Upravljajte reprodukcijom pomoću jednog od sljedećih gumba.
+01_a.jpg
+2008/12/10
+1920 x 1080
+479 KB
+[1/4]
+
+￼
+Stavka
+
+Slideshow
+
+BGM
+
+Q.MENU
+
+Option
+
+Hide
+
+Exit
+
+Opis
+Odabir prethodne ili sljedeće fotografije.
+
+Slideshow
+(Dijaprojekcija)
+
+Tijekom prezentacijskog prikaza prikazivat će se sve
+fotografije.
+•	 Postavite Slide Speed (Brzina slajda) u izborniku Option (Opcija) → Set Photo View. (Postavke pregleda
+slika).
+
+MY MEDIA (MOJI MEDIJI)
+
+Stavka
+BGM
+
+43
+
+Opis
+Tijekom pregledavanja fotografija u punoj veličini možete
+slušati glazbu.
+Opciju BGM postavite u izborniku Option (Opcija) → Set
+Photo View. (Postavke pregleda slika).
+Zakretanje fotografija.
+•	 Zakretanje fotografija za 90°, 180°, 270° ili 360° u
+smjeru kazaljke na satu.
+•	 Fotografije ne možete zakretati ako im je širina veća od
+visine maksimalne podržane razlučivosti.
+Prikaz fotografije u punoj ili originalnoj veličini.
+Za povećavanje slike pritisnite plavi gumb.
+Možete koristiti način rada Energy Saving (Ušteda
+energije).
+
+Option
+(Opcija)
+
+Prikazat će se skočni prozor.
+
+Hide
+(Sakrij)
+
+Skrivanje izbornika na zaslonu u punoj veličini.
+•	 Za prikaz izbornika pritisnite gumb OK na daljinskom
+upravljaču.
+
+Exit (Izlaz)
+
+Zatvaranje pregleda slika preko cijelog zaslona.
+
+Opcije izbornika popisa slika
+
+1	 Pritisnite gumb Q.MENU.
+2	 Pomoću gumba ili prijeđite na željenu opciju i pritisnite gumb OK.
+3	 Pomoću gumba , , ili podesite svaku opciju.
+Set Photo View. (Postavke popisa slika.)
+Stavka
+
+Opis
+
+Slide speed
+(Brzina
+slajda)
+
+Odabir brzine dijaprojekcije.
+
+BGM
+
+Odabir mape s glazbom za pozadinsku glazbu.
+•	 Mapu s glazbom ne možete promijeniti dok svira pozadinska glazba.
+•	 Za pozadinsku glazbu možete odabrati samo mapu s
+istog uređaja.
+-- Repeat (Ponovi): odabir ponavljanja reprodukcije.
+-- Random (Nasumično): odabir nasumične reprodukcije.
+
+44 MY MEDIA (MOJI MEDIJI)
+Set Video. (Postavke videozapisa.)
+Možete promijeniti postavke videozapisa. (Pogledajte "Postavke opcije PICTURE (SLIKA)" na stranici 52.)
+Set Audio. (Postavke zvuka.)
+Možete promijeniti postavke zvuka. (Pogledajte "Postavke opcije AUDIO
+(ZVUK)" na stranici 57.)
+
+Slušanje glazbe
+Možete reproducirati zvučne datoteke koje su spremljene na povezanom
+uređaju.
+
+Podržane zvučne datoteke
+*.MP3
+Brzina prijenosa podataka 32 Kb/s - 320 Kb/s
+•	 Brzina uzorkovanja za MPEG1 Layer3 : 32 kHz, 44,1 kHz, 48 kHz
+•	 Brzina uzorkovanja za MPEG2 Layer3 : 16 kHz, 22,05 kHz, 24 kHz
+
+Pregled popisa glazbe
+
+1	 Priključite USB uređaj za pohranu.
+2	 Pritisnite gumb USB.
+3	 Pomoću gumba ili odaberite Music List (Popis glazbe) i pritisnite
+gumb OK.
+
+4	 Pomoću gumba
+gumb OK.
+
+,
+
+,
+
+ili
+
+odaberite željenu datoteku i pritisnite
+
+4
+
+3
+
+2
+
+1
+
+Page 1/1
+
+Music List
+USB STORAGE DEVICE
+
+Drive1
+
+Drive2
+
+Drive3
+
+Drive4
+
+5
+PAGE
+
+Drive5
+
+Page 1/1
+
+Butterfly_...
+01:34:33
+
+Go to root folder
+
+7
+
+Page Change
+
+Go to upper folder
+
+Exit
+
+8
+
+9
+
+6
+
+MY MEDIA (MOJI MEDIJI)
+
+Br.
+
+Opis
+Sličice
+Neispravna datoteka
+
+1
+Datoteka nije
+podržana
+
+2
+
+Popis datoteka
+
+3
+
+Prelazak na mapu više razine.
+
+4
+
+Trenutna stranica / ukupni broj stranica s mapama
+
+5
+
+Prikaz preostalog trajanja baterije.
+
+6
+
+Trenutna stranica / ukupni broj stranica s datotekama
+
+7
+
+Prelazak na mapu najviše razine.
+
+8
+
+Prelazak na mapu više razine.
+
+9
+
+Izlaz iz prikaza popisa glazbe.
+
+5	 Upravljajte reprodukcijom pomoću jednog od sljedećih gumba.
+Page 1/1
+
+Music List
+USB STORAGE DEVICE
+
+Drive1
+
+PAGE
+
+Page Change
+
+Page 1/1
+
+Butterfly_...
+01:34:33
+
+002. - B02.mp3
+
+￼
+
+Q.MENU
+
+Stavka
+
+Option
+
+Opis
+Promjena položaja reprodukcije.
+Prekid reprodukcije.
+
+Hide
+
+Exit
+
+45
+
+46 MY MEDIA (MOJI MEDIJI)
+Stavka
+
+Opis
+Povratak na običnu reprodukciju.
+Pauziranje multimedijskog reproduktora.
+Reprodukcija prethodne/sljedeće datoteke.
+Možete koristiti način rada Energy Saving (Ušteda energije).
+
+Option
+(Opcija)
+
+Postavljanje opcija za popis glazbe.
+
+Hide
+(Sakrij)
+
+Skrivanje trake za reprodukciju.
+•	 Pritisnite gumb OK za prikaz trake za reprodukciju.
+
+Exit (Izlaz)
+
+Povratak na zaslon s popisom glazbe.
+
+Opcije za popis glazbe
+
+1	 Pritisnite gumb Q.MENU.
+2	 Pomoću gumba ili prijeđite na željenu opciju i pritisnite gumb OK.
+3	 Pomoću gumba , , ili podesite svaku opciju.
+Postavke reprodukcije zvuka.
+Stavka
+
+Opis
+
+Repeat (Ponovi)
+
+Odabir ponavljanja reprodukcije.
+
+Random
+(Nasumično)
+
+Odabir nasumične reprodukcije.
+
+Set Audio. (Postavke zvuka.)
+Možete promijeniti postavke zvuka. (Pogledajte "Postavke opcije AUDIO
+(ZVUK)" na stranici 57.)
+
+MY MEDIA (MOJI MEDIJI)
+
+47
+
+Pregled datoteka
+Možete pregledati dokumente spremljene na povezanom uređaju.
+
+Podržani formati datoteka
+XLS, XLSX, DOC, DOCX, PPT, PPTX, TXT, PDF, HWP
+Microsoft Office verzije 97 / 2000 / 2002 / 2003 / 2007
+Adobe PDF verzije 1.0 / 1.1 / 1.2 / 1.3 / 1.4
+Hangul verzije 97/2003/2007
+•	 Preglednik datoteka presložit će dokument pa bi mogao izgledati drugačije
+od prikaza na računalu.
+•	 Kod dokumenata koji sadrže slike, razlučivost tijekom postupka preslagivanja može djelovati nižom.
+•	 Ako je dokument obiman ili se sastoji od mnogo stranica, učitavanje bi
+moglo potrajati.
+•	 Fontovi koji nisu podržani možda će biti zamijenjeni drugim fontovima.
+•	 Preglednik datoteka možda se neće otvoriti za dokumente sustava Office
+koji sadrže mnogo slika visoke razlučivosti. U tom slučaju smanjite veličinu
+slikovne datoteke, spremite je na USB uređaj za pohranu i ponovno
+pokrenite preglednik datoteka ili povežite računalo s projektorom i otvorite
+datoteku na računalu.
+
+48 MY MEDIA (MOJI MEDIJI)
+Pretraživanje popisa datoteka
+
+1	 Priključite USB uređaj za pohranu.
+2	 Pritisnite gumb USB.
+3	 Pomoću gumba ili odaberite File List (Popis datoteka) i pritisnite
+gumb OK.
+
+4	 Pomoću gumba
+gumb OK.
+
+,
+
+,
+
+ili
+
+odaberite željenu datoteku i pritisnite
+
+2
+
+1
+
+Page 1/1
+
+File List
+USB STORAGE DEVICE
+
+DOC
+
+3
+
+Drive1
+
+Drive2
+
+Drive3
+
+Drive4
+
+4
+PAGE
+
+Drive5
+
+Page Change
+
+Page 1/1
+
+Butterfly_...
+06/09/2014
+
+Go to root folder
+
+6
+
+Go to upper folder
+
+Exit
+
+7
+
+8
+
+Br.
+
+Opis
+
+1
+
+Popis datoteka
+
+2
+
+Prelazak na mapu više razine.
+
+3
+
+Trenutna stranica / ukupni broj stranica s mapama
+
+4
+
+Prikaz preostalog trajanja baterije.
+
+5
+
+Trenutna stranica / ukupni broj stranica s datotekama
+
+6
+
+Prelazak na mapu najviše razine.
+
+7
+
+Prelazak na mapu više razine.
+
+8
+
+Izlaz iz prikaza popisa datoteka.
+
+5
+
+MY MEDIA (MOJI MEDIJI)
+
+49
+
+5	 Upravljajte reprodukcijom pomoću jednog od sljedećih gumba.
+•	 Pritisnite Go Page (Prijeđi na stranicu) i prikazat će se skočni prozor za
+odabir broja stranice. Unesite broj stranice kako biste prešli na željenu
+stranicu.
+•	 Pritisnite gumb VOLUME +, - kako biste povećali ili smanjili prikaz.
+Pritisnite gumb OK, a zatim pomoću gumba za gore / dolje / lijevo / desno
+prijeđite na opciju Go Page (Prijeđi na stranicu) ili Zoom (Zum).
+
+￼
+Stavka
+
+Go Page
+
+ꔦ Zoom
+
+Q.MENU
+
+Option
+
+Hide
+
+Exit
+
+Opis
+
+Go Page
+(Prijeđi na
+stranicu)
+
+Prelazak na željenu stranicu.
+Pomoću gumba za gore / dolje / lijevo / desno odaberite
+stranicu i pritisnite gumb OK.
+
+Zoom
+(Zum)
+
+Povećavanje ili smanjenje dokumenta.
+
+Option
+(Opcija)
+
+Postavljanje opcija preglednika datoteka.
+
+Hide
+(Sakrij)
+
+Skrivanje izbornika.
+•	 Za njegov prikaz pritisnite gumb OK.
+
+Exit (Izlaz)
+
+Povratak na zaslon preglednika datoteka.
+
+50 MY MEDIA (MOJI MEDIJI)
+Opcije za popis datoteka
+
+1	 Pritisnite gumb Q.MENU.
+2	 Pomoću gumba , ,
+
+ili
+
+podesite svaku opciju.
+
+Set FileViewer Option (Postavljanje opcije preglednika datoteka)
+Stavka
+
+Single Page
+Loading
+(Učitavanje
+jedne stranice)
+
+Opis
+On
+(Uključeno)
+
+Učitavanje i prikaz stranica jedne za
+drugom. Početno učitavanje traje kratko,
+ali prikazivanje stranica s velikom
+količinom sadržaja može biti usporeno.
+
+Off
+(Isključeno)
+
+Učitavanje svih stranica datoteke u
+memoriju prije početka njihovog prikazivanja. Početno učitavanje je dugotrajno, ali je kretanje između stranica brzo
+nakon što se učitavanje dovrši.
+Ako je datoteka prevelika, možda neće
+uspjeti učitavanje svih datoteka.
+
+Image QuaIity
+(Kvaliteta
+slike)
+
+Možete postaviti kvalitetu slika uključenih u dokument.
+Za kvalitetu slike dostupne su ove tri postavke: Visoka,
+Srednja, Niska. Što je kvaliteta slike veća, to je vrijeme
+potrebno za prikaz duže.
+
+Document
+Align (Poravnavanje
+dokumenta)
+
+Odabir početne metode poravnavanja dokumenta.
+
+Postavke prikaza datoteka su zadane pa zatvorite dokument koji je trenutno
+otvoren kako bi se promjene, ako ih ima, primijenile na novi dokument.
+
+PRILAGOĐAVANJE POSTAVKI
+
+PRILAGOĐAVANJE POSTAVKI
+POSTAVKE
+1	 Pritisnite gumb SETTINGS.
+2	 Pomoću gumba , ,
+
+ili
+
+odaberite željenu stavku i pritisnite
+
+3	 Pomoću gumba
+
+ili
+
+postavite željenu stavku i pritisnite
+
+gumb OK.
+gumb OK.
+
+,
+
+,
+
+4	 Nakon dovršetka pritisnite gumb EXIT.
+Izbornik
+
+Opis
+
+PICTURE
+(SLIKA)
+
+Prilagodba kvalitete slike za optimalni prikaz.
+
+AUDIO (ZVUK)
+
+Prilagodba kvalitete zvuka i glasnoće.
+
+TIME 	
+(VRIJEME)
+
+Postavljanje postavki vremena.
+
+INFORMATION
+(INFORMACIJE)
+
+Prikaz informacija o projektoru.
+
+OPTION 1 	
+(OPCIJA 1)
+
+Prilagodba općih postavki.
+
+OPTION 2 	
+(OPCIJA 2)
+
+Prilagodba postavki projektora.
+
+INPUT (ULAZ)
+
+Odabir željenog izvora ulaznog signala.
+
+MY MEDIA
+(MOJI MEDIJI)
+
+Pristup fotografijama, glazbi, filmovima i dokumentima.
+
+51
+
+52 PRILAGOĐAVANJE POSTAVKI
+
+Postavke opcije PICTURE (SLIKA)
+1	 Pritisnite gumb SETTINGS.
+PICTURE
+2	 Pomoću gumba , , ili
+odaberite PICTURE (SLIKA) i
+pritisnite gumb OK.
+
+3	 Pomoću gumba
+
+,
+,
+ili
+postavite željenu stavku i
+pritisnite gumb OK.
+-- Za povratak na prethodni
+izbornik pritisnite gumb .
+
+ꔂ Move
+
+ꔉ OK
+
+•• ꕊ Energy Saving	 : Minimum
+•• Picture Mode	
+
+: Standard
+
+￼
+
+•• Contrast	 100	
+•• Brightness	 50	
+•• Sharpness	 20	
+
+4	 Nakon dovršetka pritisnite gumb
+EXIT.
+
+•• Color	
+
+60	
+
+•• Tint	
+
+0	
+
+R
+
+G
+
+Slijedi opis dostupnih postavki slike.
+Izbornik
+
+Energy Saving (Ušteda
+energije)
+
+Opis
+Smanjenje potrošnje energije podešavanjem svjetline
+zaslona.
+NAČIN RADA
+Minimum
+(Minimalna)/
+Primjenjuje prethodno postavljeni
+Medium
+način Energy Saving (Ušteda en(Srednja)/
+ergije).
+Maximum
+(Maksimalna)
+
+PRILAGOĐAVANJE POSTAVKI
+
+Izbornik
+
+53
+
+Opis
+
+Picture Mode
+(Način slike)
+
+Odabir načina slike optimiziran za prostor u kojem se
+nalazi televizor ili program.
+Za svaki način rada možete prilagoditi i napredne opcije.
+NAČIN RADA
+Maksimalno povećanje vizualnog
+efekta videozapisa.
+Vivid
+(Živopisno)
+Pojačavanje kontrasta, svjetline i
+oštrine za dobivanje jasnih slika.
+Standard
+Prikaz slika uz standardnu razinu
+(Standardno) kontrasta, svjetline i oštrine.
+Prikaz optimizirane slike za prizore iz
+Eco
+prirode.
+Cinema (Kino) Optimizacija prikaza za film.
+Optimizacija prikaza za sport
+Sport
+naglašavanjem osnovnih boja i
+dinamičke dinamike akcijskih radnji.
+Optimizacija prikaza za igranje igara
+Game (Igra)
+na zaslonima s brzim pokretima.
+Izbornik za podešavanje kvalitete
+slike koji omogućuje stručnjacima i
+amaterima gledanje najbolje slike na
+Expert1
+projektoru.
+(Stručni 1)
+-- Stručni način namijenjen je pro/ Expert2
+fesionalcima za fino namještanje
+(Stručni 2)
+pomoću posebne slike. Za
+uobičajene slike učinak možda
+neće biti tako jasan.
+
+Contrast (Kontrast)
+
+Podešavanje razlike između svijetlih i tamnih dijelova
+zaslona.
+
+Brightness
+(Svjetlina)
+
+Podešavanje ukupne svjetline zaslona.
+
+Sharpness
+(Oštrina)
+
+Podešavanje oštrine granica između svijetlih i tamnih
+dijelova slike. Vodoravna i Okomita oštrina dostupne
+su isključivo u načinima rada Expert1 (Stručni 1) /
+Expert2 (Stručni 2).
+
+Color (Boja)
+
+Prilagodba jakosti svih boja.
+
+Tint (Sjena)
+
+Prilagodba ravnoteže između crvene i zelene.
+
+54 PRILAGOĐAVANJE POSTAVKI
+Izbornik
+
+Opis
+
+Advanced
+Control
+(Napredne
+postavke)
+
+Prilagodba naprednih postavki.
+
+Picture Option
+(Opcija slike)
+
+Postavljanje dodatnih postavki.
+
+Picture Reset
+(Vraćanje postavki slike)
+
+Vraćanje vrijednosti koje je mijenjao korisnik na
+početne vrijednosti.
+Svi načini slike vraćaju se na početne postavke. Odaberite način slike koji želite vratiti.
+
+Aspect Ratio
+(Format slike)
+
+Promjena veličine slike.
+
+Advanced Control (Napredne postavke)
+Izbornik
+
+Opis
+
+Dynamic
+Contrast
+(Dinamički
+kontrast)
+
+Podešavanje kontrasta i boje na optimalnu razinu s obzirom na svjetlinu zaslona.
+
+Dynamic
+Color
+(Dinamična
+boja)
+
+Podešavanje boja na boje koje izgledaju prirodnije.
+
+Color Gamut (Skala
+boja)
+
+Odabir raspona boja koji se može prikazati.
+•	 Standard (Standardni): prikaz izvornih boja ulaznog
+signala, bez obzira na značajke zaslona.
+•	 Wide (Široki): prikaz bogatijih boja.
+
+Skin Color
+(Boja kože)
+
+Korisnik može zasebno namjestiti spektar boje kože po
+želji.
+
+Sky Color
+(Boja neba)
+
+Boju neba moguće je odvojeno namjestiti.
+
+Grass Color
+(Boja trave)
+
+Spektar prirodne zelene boje (livade, brda, itd.) moguće je
+odvojeno namjestiti.
+
+Gamma
+(Gama)
+
+Postavljanje krivulje gradacije prema odnosu izlaznog i
+ulaznog signala slike.
+
+* Ovisno o ulaznom signalu ili drugim postavkama slike, raspon detaljnih
+stavki za podešavanje može se razlikovati.
+
+PRILAGOĐAVANJE POSTAVKI
+
+55
+
+Expert Control (Postavke stručnog načina rada)
+Izbornik
+
+Opis
+
+Dynamic
+Contrast
+(Dinamički
+kontrast)
+
+Podešavanje kontrasta i boje na optimalnu razinu s
+obzirom na svjetlinu zaslona.
+
+Color Gamut
+(Skala boja)
+
+Odabir raspona boja koji se može prikazati.
+•	 Standard (Standardni): prikaz izvornih boja ulaznog
+signala, bez obzira na značajke zaslona.
+•	 Wide (Široki): prikaz bogatijih boja.
+
+Edge Enhancer
+(Naglašavanje
+rubova)
+
+Rubove videozapisa prikazuje jasnijima i oštrijima na
+prirodan način.
+
+Color Filter
+(Filtar boja)
+
+Filtriranje određenog spektra u RGB bojama kako bi se
+detaljno prilagodila zasićenost boja i nijanse.
+U načinu rada Expert (Stručni) možete prilagoditi
+opcije svakog načina rada.
+
+Color Temperature (Toplina
+boje)
+
+Gamma (Gama): odaberite 1,9, 2,2 ili 2,4.
+a. Method: 2 Points (Način: 2 točke)
+-- Pattern (Uzorak): Inner (Unutarnje), Outer
+(Vanjsko)
+-- Points (Točke): Low (Nisko), High (Visoko)
+-- Red (Crveno)/Green (Zeleno)/Blue (Plavo):
+Raspon podešavanja za svaku boju kreće se od
+-50 do +50.
+-- Apply to all inputs (Primijeni na sve ulaze):
+vrijednosti postavke Color Temperature (Toplina
+boje) primjenjuju se na sve načine ulaza.
+b. Method: 20 Point IRE (Način: 20 točaka IRE)
+-- Pattern (Uzorak): Inner (Unutarnje), Outer
+(Vanjsko)
+-- IRE (Institute of Radio Engineers) jedinica je za
+prikaz veličine video signala i može se postaviti
+na vrijednosti 5,10,15 itd. do 100. Svaku postavku
+možete precizno postaviti kao što je prikazano u
+nastavku.
+-- Luminance (Osvjetljenje): raspon podešavanja
+iznosi od 50 do 500.
+-- Red (Crvena)/Green (Zelena)/Blue (Plava):
+raspon podešavanja iznosi od -50 do +50.
+-- Apply to all inputs (Primijeni na sve ulaze): vrijednosti opcije Color Temperature (Toplina boje)
+primjenjuju se na sve načine ulaza.
+
+56 PRILAGOĐAVANJE POSTAVKI
+Izbornik
+
+Opis
+
+Color Management System
+(Sustav upravljanja bojom)
+
+Podešavanje crvene / zelene / plave / žute / svijetlo plave / ružičaste boje. Omogućava stručno
+podešavanje nijanse pomoću testnog uzorka. Možete
+selektivno podesiti šest boja (crvenu/zelenu/plavu/
+cijan/grimiznu/žutu) bez utjecaja na druge boje. Možda
+nećete uočiti promjene boja na slici normalne kvalitete,
+čak niti nakon podešavanja.
+-- Saturation (Zasićenost) Red (Crvena) / Green
+(Zelena) / Blue (Plava) / Yellow (Žuta) / Cyan
+(Cijan) / Magenta (Magenta), 	
+Tint (Sjena) Red (Crvena) / Green (Zelena) / Blue
+(Plava) / Yellow (Žuta) / Cyan (Cijan) / Magenta
+(Magenta),
+Luminance (Osvjetljenje) Red (Crvena) / Green
+(Zelena) / Blue (Plava) / Yellow (Žuta) / Cyan
+(Cijan) / Magenta (Magenta):
+Raspon podešavanja za svaku iznosi od -30 do +30.
+
+* Ovisno o ulaznom signalu ili drugim postavkama slike, raspon detaljnih
+stavki za podešavanje može se razlikovati.
+
+Opcija slike
+Izbornik
+
+Opis
+
+Noise Reduction
+(Smanjenje šuma)
+
+Smanjenje šuma u videosignalu.
+
+MPEG Noise Reduction (Smanjenje MPEG šuma)
+
+Smanjuje šum koja se generira prilikom stvaranja
+digitalnih signala slike.
+
+Black Level
+(Zacrnjenost)
+
+Podešavanje osvjetljenja/zatamnjenja zaslona kako
+bi se razina crne boje iz ulaznog signala prikazala u
+skladu s odabranim zatamnjenjem zaslona.
+
+Real Cinema
+(Pravo kino)
+
+Optimiziranje zaslona za gledanje filma.
+
+Color Temperature
+(Toplina boje)
+
+Prilagodba boje na zaslonu vašim željama.
+Odaberite opciju Warm (Topla), Natural (Prirodna),
+Cool (Hladna) ili Medium (Srednja).
+
+57
+
+PRILAGOĐAVANJE POSTAVKI
+
+Postavke opcije AUDIO (ZVUK)
+1	 Pritisnite gumb SETTINGS.
+AUDIO
+2	 Pomoću gumba , , ili
+odaberite AUDIO (ZVUK) i
+pritisnite gumb OK.
+
+ꔂ Move
+
+•• Sound Mode: Standard
+
+3	 Pomoću gumba
+
+•• Sound Effect
+
+,
+,
+ili
+postavite željenu stavku i
+pritisnite gumb OK.
+-- Za povratak na prethodni
+izbornik pritisnite gumb .
+
+•• Auto Volume: On
+
+4	 Nakon dovršetka pritisnite gumb
+EXIT.
+
+Slijedi opis dostupnih postavki zvuka.
+Izbornik
+
+Opis
+Postavite opciju prema želji.
+NAČIN RADA
+
+Sound
+Mode
+(Način
+zvuka)
+
+ꔉ OK
+
+Standard
+Prikladan za sve vrste videozapisa.
+(Standardni)
+News (Vijesti)
+/ Music
+(Glazba) /
+Postavlja zvuk optimiziran za određeni
+Cinema (Kino) žanr.
+/ Sport / Game
+(Igra)
+
+￼￼
+
+58 PRILAGOĐAVANJE POSTAVKI
+Izbornik
+
+Opis
+Korisnik može odabrati razne zvučne efekte.
+NAČIN RADA
+
+Sound
+Effect
+(Zvučni
+efekt)
+
+Auto Volume (Automatska
+glasnoća)
+
+Clear Voice II
+
+Za oštriji i jasniji zvuk iz projektora.
+
+Virtual
+Surround
+(Virtualno
+okruženje)
+
+Tehnologija tvrtke LG za obradu zvuka
+omogućuje surround zvuk poput 5-kanalnog iz dva zvučnika.
+•	 Kada je opcija Clear Voice II
+uključena, ne može se odabrati Virtual
+surround (Virtualno okruženje).
+
+Equalizer
+(Ekvilizator)
+
+Namješta glasnoću na razinu po vašem
+izboru pomoću ekvilizatora.
+•	 Vrijednost zvučnog frekvencijskog raspona (100 Hz / 300 Hz / 1 kHz / 3 kHz
+/ 10 kHz) može se podesiti na raspon
+od -10 do 10.
+•	 Reset (Vraćanje postavki): ponovno
+postavlja opcije glasa koje je korisnik
+promijenio.
+
+Balance
+(Ravnoteža)
+
+Podešavanje ravnoteže između lijevog i
+desnog zvučnika.
+
+Reset
+(Vraćanje
+postavki)
+
+Podešavanje primijenjenog efekta u
+izborniku Sound Effect (Efekt zvuka).
+
+Automatska prilagodba glasnoće.
+
+59
+
+PRILAGOĐAVANJE POSTAVKI
+
+Postavke opcije TIME (VRIJEME)
+1	 Pritisnite gumb SETTINGS.
+TIME
+2	 Pomoću gumba , , ili
+odaberite TIME (VRIJEME) i
+pritisnite gumb OK.
+
+3	 Pomoću gumba
+
+,
+,
+ili
+postavite željenu stavku i
+pritisnite gumb OK.
+-- Za povratak na prethodni
+izbornik pritisnite gumb .
+
+ꔂ Move
+
+•• Sleep Timer		
+
+: Off
+
+•• Auto Off		
+
+: 60 min.
+
+•• Automatic Standby	 : Off
+
+4	 Nakon dovršetka pritisnite gumb
+EXIT.
+
+Slijedi opis dostupnih vremenskih postavki.
+Izbornik
+
+Opis
+
+Sleep
+Timer (Mjerač
+vremena
+gašenja)
+
+Isključuje projektor nakon postavljenog broja minuta.
+Za isključivanje opcije Sleep Timer (Mjerač vremena
+gašenja) odaberite Off (Isključeno).
+
+Auto Off
+(Automatsko
+isključivanje)
+
+Ako nema signala ni pritiska tipke, projektor će se automatski isključiti nakon isteka određenog vremena.
+
+Automatic
+Standby
+(Automatsko
+stanje
+mirovanja)
+
+Automatsko isključivanje projektora nakon određenog
+vremenskog razdoblja ako se za to vrijeme ne pritišću
+tipke na projektoru.
+
+ꔉ OK
+
+￼￼
+
+60 PRILAGOĐAVANJE POSTAVKI
+
+INFORMATION (INFORMACIJE)
+1	 Pritisnite gumb SETTINGS.
+INFORMATION
+2	 Pomoću gumba , , ili
+odaberite INFORMATION
+(INFORMACIJE) i pritisnite gumb
+OK.
+
+ꔂ Move
+
+•• Model Name		
+
+: PH300
+
+•• INPUT		
+
+: HDMI
+
+ꔉ OK
+
+￼￼
+
+Slijede stavke koje se odnose na opciju INFORMATION (INFORMACIJE).
+Izbornik
+
+Opis
+
+Model Name
+(Naziv modela)
+
+Prikaz naziva modela proizvoda.
+
+INPUT
+(ULAZ)
+
+Prikaz trenutnog statusa ulaza.
+
+PRILAGOĐAVANJE POSTAVKI
+
+Postavke opcije OPTION 1 (OPCIJA 1)
+1	 Pritisnite gumb SETTINGS.
+OPTION 1
+2	 Pomoću gumba , , ili
+odaberite OPTION 1
+(OPCIJA 1) i pritisnite gumb OK.
+
+3	 Pomoću gumba
+
+,
+,
+ili
+postavite željenu stavku i
+pritisnite gumb OK.
+-- Za povratak na prethodni
+izbornik pritisnite gumb .
+
+ꔂ Move
+
+•• Language
+•• DivX(R) VOD
+
+￼￼
+
+•• Initial Setting
+
+4	 Nakon dovršetka pritisnite gumb
+EXIT.
+
+Slijedi opis dostupnih postavki za opciju Opcija 1.
+Izbornik
+
+Opis
+
+Language
+(Jezik)
+
+Odabir željenog jezika izbornika.
+
+DivX(R) VOD
+
+Postavljanje DivX postavki.
+
+Initial Setting
+(Vraćanje
+tvorničkih
+postavki)
+
+Ponovno postavljanje svih postavki projektora na
+tvornički zadane postavke.
+
+61
+
+ꔉ OK
+
+62 PRILAGOĐAVANJE POSTAVKI
+
+Postavke opcije OPTION 2 (OPCIJA 2)
+1	 Pritisnite gumb SETTINGS.
+OPTION 2
+2	 Pomoću gumba , , ili
+odaberite OPTION 2
+(OPCIJA 2) i pritisnite gumb OK.
+
+3	 Pomoću gumba
+
+,
+,
+ili
+postavite željenu stavku i
+pritisnite gumb OK.
+-- Za povratak na prethodni
+izbornik pritisnite gumb .
+
+4	 Nakon dovršetka pritisnite gumb
+
+ꔂ Move
+
+•• Keystone			
+•• Auto Keystone	
+
+: On
+
+•• PJT Mode		
+
+: Front
+
+•• High Altitude	
+
+: Off
+
+•• Blank Image		
+
+: Blue
+
+•• Auto Power		
+
+: Off
+
+ꔉ OK
+
+0-
+
++
+
+￼
+
+•• Self Diagnosis
+
+EXIT.
+
+Slijede postavke za opciju OPTION 2 (OPCIJA 2).
+Izbornik
+Keystone
+(Korigiranje
+kuta)
+
+Auto
+Keystone
+(Automatsko
+korigiranje
+kuta)
+
+Opis
+Kako biste spriječili trapezoidni oblik slike na zaslonu,
+opcija Keystone (Korigiranje kuta) omogućava prilagodbu
+širine gornjeg i donjeg dijela slike ako projektor nije postavljen pod pravim kutom u odnosu na zaslon.
+Auto Keystone (Automatsko korigiranje kuta) osigurava
+pravokutnu zaslonsku sliku automatskim podešavanjem
+broja za korigiranje kuta ukoliko uslijed naginjanja projektora slika poprimi trapezoidni oblik.
+Stavka
+On
+(Uključeno)
+
+Automatsko podešavanje broja za korigiranje kuta.
+
+Off
+(Isključeno)
+
+Ručno podešavanje broja za korigiranje
+kuta.
+
+PRILAGOĐAVANJE POSTAVKI
+
+Izbornik
+
+63
+
+Opis
+
+PJT Mode
+(Način rada
+PJT)
+
+Ovom funkcijom projicirana se slika okreće po okomitoj ili
+vodoravnoj osi.
+•	 Prilikom projekcije sa stražnje strane prozirnog
+zaslona koji ste dokupili zasebno, odaberite opciju
+Rear (Stražnja strana).
+•	 Prilikom postavljanja projektora na strop odaberite
+Front Ceiling (Prednja strana, strop).
+•	 Ako je za opciju PJT Mode (Način rada PJT) postavljeno Rear Ceiling (Stražnja strana, strop) / Front
+Ceiling (Prednja strana, strop), zvučnici će automatski
+zamijeniti strane.
+
+High Altitude
+(Velika
+nadmorska
+visina)
+
+Ovu opciju uključite ako projektor koristite na nadmorskoj
+visini iznad 1200 metara.
+U suprotnom bi se projektor mogao pregrijati ili bi se
+mogla aktivirati njegova funkcija za zaštitu. Ako se to
+dogodi, isključite projektor i zatim ga ponovno uključite
+nakon nekoliko minuta.
+
+Blank Image (Slika
+ispune)
+
+Odabir pozadine za sliku ispune.
+Automatsko uključivanje projektora nakon priključivanja
+adaptera.
+
+Auto Power
+(Automatsko
+uključivanje)
+
+Self
+Diagnosis
+(Automatska
+dijagnoza)
+
+Stavka
+On
+(Uključeno)
+
+Ako projektor priključite u strujnu mrežu,
+automatski će se uključiti.
+
+Off
+(Isključeno)
+
+Ako projektor priključite u strujnu mrežu,
+prijeći će u stanje mirovanja.
+
+Rješavanje tehničkih problema do kojih bi moglo doći
+tijekom korištenja uređaja.
+
+64 POVEZIVANJE UREĐAJA
+
+POVEZIVANJE UREĐAJA
+Na priključke projektora mogu se priključivati različiti vanjski uređaji.
+Računalo / prijenosno
+računalo
+
+DVD
+
+Video
+
+Digitalni uređaj
+USB
+
+Igraća 	
+konzola
+
+Slušalice
+
+￼
+
+Mobilni telefon
+
+HDMI - 65 Stranica
+USB uređaj - 31 Stranica
+Priključak za slušalice - 66 Stranica
+Mobilni telefon (MHL/Slimport) - 67 Stranica
+
+POVEZIVANJE UREĐAJA
+
+Priključivanje HD prijemnika, DVD uređaja
+ili videorekordera
+Nakon povezivanja HD prijemnika,
+DVD uređaja, videorekordera,
+računala, prijenosnog računala itd.
+i projektora putem HDMI kabela
+možete koristiti razne značajke.
+
+HDMI priključak
+Putem HDMI kabela možete uživati
+u slici i zvuku visoke kvalitete.
+Pomoću HDMI kabela povežite
+HDMI/MHL priključak na projektoru s HDMI izlaznim priključkom
+uređaja. Video signal i audio signal
+izlaze istovremeno.
+Pritisnite gumb INPUT na daljinskom upravljaču i odaberite HDMI.
+
+￼
+HDMI / MHL
+
+HDMI / MHL
+
+OFF / ON
+
+DC IN
+
+OFF / ON
+
+Dodatna oprema
+
+65
+
+U tablici su prikazani primjeri promjene izlaza. Dodatne informacije
+potražite u dokumentima "Vanjski
+izlaz", "Povezivanje s vanjskim
+monitorom" ili sličnim odjeljcima u
+korisničkom priručniku na računalu.
+Proizvođač
+
+Promjena izlaza
+
+NEC
+
+Fn + F3
+
+Panasonic
+
+Fn + F3
+
+Toshiba
+
+Fn + F5
+
+IBM
+
+Fn + F7
+
+Sony
+
+Fn + F7
+
+Fujitsu
+
+Fn + F10
+
+LG
+
+Fn + F7
+
+Samsung
+
+Fn + F4
+
+Podešavanje
+upravljačke
+ploče radi
+Macintosh
+omogućivanja
+DC IN
+zrcaljenja nakon
+pokretanja.
+
+66 POVEZIVANJE UREĐAJA
+
+Priključivanje
+slušalica
+Zvuk možete slušati preko
+slušalica.
+
+￼
+HDMI / MHL
+
+HDMI / MHL
+
+OFF / ON
+
+Opcijski dodaci
+
+DC IN
+
+OFF / ON
+
+DC IN
+
+POVEZIVANJE UREĐAJA
+
+67
+
+Korištenje funkcije zrcaljenja na mobilni telefon
+MHL/Slimport priključak
+Za povezivanje mobilnog uređaja s projektorom i reproduciranje slika i zvuka
+s mobilnog uređaja putem projektora potrebno je koristiti HDMI adapter.
+Kompatibilni HDMI adapteri razlikuju se ovisno o vrsti mobilnog telefona.
+Stoga kupite odgovarajući MHL ili Slimport adapter.
+(Kako biste provjerili je li vaš uređaj ima MHL/Slimport certifikat, obratite se
+proizvođaču uređaja.)
+
+￼
+HDMI / MHL
+OFF / ON
+
+Opcijski dodaci
+
+ANTENNA IN
+
+￼
+
+NAPOMENA
+•	 Prilikom povezivanja mobilnog telefona putem HDMI/MHL priključka
+možete vidjeti zaslon mobilnog telefona putem projektora.
+-- To se odnosi samo na mobilne telefone koji podržavaju MHL/
+Slimport.
+-- U nekim slučajevima možete koristiti daljinski upravljač.
+•	 Iskopčajte MHL/Slimport kabel iz projektora u sljedećim slučajevima:
+-- Funkcija MHL/Slimport je onemogućena.
+-- Mobilni uređaj napunjen je do kraja u stanju mirovanja.
+
+68 ODRŽAVANJE
+
+ODRŽAVANJE
+Projektor održavajte čistim i u optimalnom stanju.
+
+Čišćenje
+Čišćenje leće
+Ako na površini leće ima prašine ili mrlja, očistite je.
+Leću očistite pomoću zračnog spreja ili krpice.
+Prašinu ili mrlje uklonite pomoću zračnog spreja ili malom količinom tekućine
+za čišćenje natopite pamučni štapić ili meku krpicu i pažljivo istrljajte leću.
+Ako sprej nanesete izravno na leću, na njoj bi se mogla nakupiti tekućina.
+
+Čišćenje kućišta projektora
+Prije čišćenja kućišta projektora iskopčajte kabel napajanja.
+Za uklanjanje prašine ili mrlja koristite isključivo suhu, neabrazivnu krpicu
+koja ne ostavlja dlačice te njome ulaštite leću.
+Nemojte koristiti alkohol, benzen, razrjeđivače ili druge kemikalije kojima
+biste mogli oštetiti kućište.
+
+SPECIFIKACIJE
+
+69
+
+SPECIFIKACIJE
+MODELI
+Razlučivost 	
+(u pikselima)
+Format slike
+Udaljenost projekcije 	
+(Veličina videozapisa)
+Omjer uspravne
+projekcije
+Najveća udaljenost daljinskog
+upravljača
+AC-DC adapter
+Audioizlaz
+Visina (mm)
+Širina (mm)
+Dubina (mm)
+Težina (g)
+USB uređaj
+Napajanje
+
+Radno okruženje
+
+PH300 (PH300-GL)
+1280 (vodoravna) × 720 (okomita)
+16:9 (vodoravno:okomito)
+0,74 m do 3,76 m (50,8 cm do 254 cm)
+
+100 %
+3m
+19 V
+, 2,1 A ili 19 V
+, 2,53 A (Samo u Indiji)
+(ulaz adaptera 100 - 240 V pri 50/60 Hz)
+1W+1W
+63,9 (prednja strana) / 54,5 (stražnja strana), 65,9
+(s podnožjem)
+113,6
+85,5
+430
+5 V, 0,5 A (maks.)
+AC 100 do 240 V, 50 Hz/60 Hz
+Temperatura
+Rad
+0 °C do 40 °C
+Skladištenje -20 °C do 60 °C
+Relativna vlažnost
+Rad
+0 % do 80 %
+Skladištenje
+
+0 % do 85 %
+
+* Sadržaj ovog priručnika može se mijenjati bez prethodne najave zbog
+nadograđivanja funkcija uređaja.
+
+70 SPECIFIKACIJE
+Podržani HDMI (PC) načini rada
+Razlučivost
+
+Vodoravna frekvencija
+(kHz)
+
+Okomita frekvencija
+(Hz)
+
+640 x 350
+
+31,468
+
+70,09
+
+640 x 480
+
+31,469
+
+59,94
+
+720 x 400
+
+31,469
+
+70,08
+60,31
+
+800 x 600
+
+37,879
+
+1024 x 768
+
+48,363
+
+60,00
+
+1152 x 864
+
+54,348
+
+60,053
+
+1280 x 800
+
+49,68
+
+60
+
+1280 x 1024
+
+63,981
+
+60,02
+
+1360 x 768
+
+47,712
+
+60,015
+
+1400 x 1050
+
+65,317
+
+59,979
+
+1680 x 1050
+
+65,3
+
+60
+
+•	 Ako na projektor pošaljete neodgovarajući ulazni signal, slika se neće
+prikazati na zaslonu ili će se prikazati poruka No Signal (Nema signala) ili
+Invalid Format (Pogrešan format).
+•	 Projektor podržava DDC1/2B u obliku funkcije automatskog prepoznavanja
+(Plug & Play, automatsko prepoznavanje računalnog monitora).
+
+SPECIFIKACIJE
+
+71
+
+Podržani HDMI/DVI-DTV način rada
+Razlučivost
+
+Vodoravna frekvencija
+(kHz)
+
+Okomita frekvencija
+(Hz)
+
+480p
+
+31,47
+31,47
+31,50
+
+60
+59,94
+60
+
+576p
+
+31,25
+
+50
+
+720p
+
+45,00
+44,96
+37,5
+
+60,00
+59,94
+50
+
+1080i
+
+33,75
+33,72
+28,125
+
+60
+59,94
+50
+
+1080p
+
+67,500
+67,432
+27,000
+26,97
+33,75
+33,71
+56,25
+
+60
+59,939
+24,000
+23,976
+30,000
+29,97
+50
+
+•	 Za najbolju kvalitetu slike preporučuje se rezolucija 1280 x 720 (720p).
+
+Obavijest s informacijama o softveru s otvorenim izvornim kodom
+Za pristup otvorenom kodu prema licencama GPL, LGPL, MPL i ostalim
+licencama za softver s otvorenim kodom sadržan u ovom uređaju posjetite
+http://opensource.lge.com.
+Osim izvornog koda, možete preuzeti sve predmetne uvjete licence, izjave o
+odricanju odgovornosti i napomene o autorskim pravima.
+LG Electronics isporučit će vam otvoreni izvorni kod na CD-ROM mediju
+pri čemu će se naplatiti dostava takvog medija (tj. trošak nabave medija,
+poštarina i dostava) ako e-poštom uputite zahtjev na opensource@lge.com.
+Ta ponuda vrijedi tri (3) godine od datuma nabave proizvoda.
