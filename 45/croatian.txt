@@ -1,0 +1,5534 @@
+RH256_P2M_BHUNLLK_CRO
+
+HDD/DVD
+RECORDER
+PRIRUČNIK ZA
+KORISNIKE
+MODEL: RH266/RH265
+RH256/RH255
+
+Prije spajanja, upotrebe ili podešavanja ovog proizvoda,
+molimo pažljivo i temeljito pročitajte ovu knjižicu s uputama.
+
+UPOZORENJE
+RIZIK OD STRUJNOG
+UDARA NE OTVARAJ
+
+OPREZ: Ne izlažite ureœaj vodi koja kaplje ili pljuska, kiši niti
+vlazi. Ne odlažite na ureœaj predmete ispunjene vodom kao što su
+na primjer vaze.
+
+UPOZORENJE u vezi s električnim kabelom
+OPREZ: KAKO BISTE SMANJILI RIZIK OD STRUJNOG
+UDARA NE SKIDAJTE POKLOPAC (ILI ZADNJU PLOČU).
+UNUTRA NEMA DIJELOVA KOJE BI KORISNIK MOGAO
+SERVISIRATI, PREPUSTITE SERVISIRANJE
+KVALIFICIRANOM OSOBLJU ZA SERVISIRANJE.
+
+Znak munje sa simbolom strelice unutar
+jednakostraničnog trokuta ima za cilj da upozori na
+prisutnost neizoliranog opasnog napona unutar kučišta
+ureœaja koji je dovoljno velik da predstavlja opasnost
+od strujnog udara za osobe.
+Znak uskličnika unutar jednakostraničnog trokuta ima
+za cilj da upozori korisnika na prisutnost važnih
+informacija za rad i održavanje (servisiranje) ureœaja u
+pisanim materijalima koji dolaze zajedno s ureœajem.
+
+Za većinu ureœaja se preporučuje da imaju svoj zasebni strujni
+krug napajanja;
+Drugim riječima, zidna utičnica s koje se napaja ovaj ureœaj treba
+biti jedina utičnica na jednom osiguraču i na tom osiguraču ne
+smije biti drugih utičnica. Kako biste bili sigurni provjerite
+specifikacijsku stranicu ovog priručnika.
+Utičnice nemojte preopterećivati. Preopterećene zidne utičnice,
+slabo pričvršćene ili oštećene utičnice, produžni kablovi, izlizani
+električni kablovi ili kablovi s oštećenom ili napuklom izolacijom
+su opasni. Bilo koje od ovih stanja može dovesti do opasnosti od
+strujnog udara ili do požara. S vremena na vrijeme pregledajte
+električni kabel vašeg ureœaja, a ako pregledom utvrdite oštećenja
+ili izlizanost, iskopčajte kabel, prestanite upotrebljavati ureœaj i
+zamijenite kabel s točno odreœenim zamjenskim kabelom kod
+vašeg ovlaštenog servisera.
+
+UPOZORENJE: KAKO BISTE SPRIJEČILI POŽAR ILI
+STRUJNI UDAR NE IZLAŽITE OVAJ PROIZVOD KIŠI
+NITI VLAZI.
+
+Zaštitite električni kabel od fizičkih ili mehaničkih oštećivanja, kao
+što su presavijanje, lomljenje, probadanja, priklještenja vratima ili
+gaženje preko kabla. Posebnu pažnju posvetite utikačima, zidnim
+utičnicama i mjestu na kojem kabel izlazi iz ureœaja.
+
+UPOZORENJE: Ne uključujte ovaj ureœaj u ograničeno
+zatvorenim prostorima, kao što su na primjer police za knjige i
+slično.
+
+Kako biste odspojili napajanje iz utčnice, povucite prema van
+utikač napojnog kabela. Kada postavljate ureœaj pazite da je utikač
+lako dostupan.
+
+OPREZ:
+
+Uklanjanje starog aparata
+
+Ne smijete začepljavati otvore za ventilaciju. Instaliranje izvedite u
+skladu s preporukama proizvoœača.
+
+1. Ako se na proizvodu nalazi simbol prekrižene kante
+za smeće, to znači da je proizvod pokriven
+europskom direktivom 2002/96/EC.
+
+Priključci i otvori u ormaru namijenjini su za ventiranje i da
+osiguraju pouzdan rad ureœaja i da zaštiti ureœaj od pregrijavanja.
+Otvori se ne smiju blokirati stavljanjem ureœaja na krevet, ležaj,
+tepih ili neku drugu sličnu površinu. Ovaj se proizvod ne treba
+stavljati u ugraœene instalacije kao što su police za knjigu ili ormar
+osim kad je osigurana kvalitetna ventilacija ili to savjetuje
+proizvoœač.
+
+2. Električni i elektronski proizvodi ne smiju se
+odlagati zajedno s komunalnim otpadom, već u
+posebna odlagališta koja je odredila vlada ili lokalne
+vlasti.
+3. Pravilno odlaganje starog proizvoda sprečit će
+potencijalne negativne posljedice po okoliš i zdravlje
+ljudi.
+4. Podrobnije informacije o odlaganju starog proizvoda
+potražite u gradskom uredu, službi za odlaganje
+otpada ili u trgovini u kojoj ste kupili proizvod.
+
+OPREZ:
+KLASA 3B VIDLJIVOG I NEVIDLJIVOG LASERSKOG
+ZRAČENJA. KOD OTVARANJA I SKIDANJA ZAŠTITE
+IZBJEGAVAJTE IZLAGANJE ZRACI.
+UPOZORENJE:
+Ovaj proizvod upotrebljava laserski sistem.
+Kako biste osigurali pravilnu upotrebu ovog proizvoda molimo
+pažljivo i u cijelosti pročitajte ovaj priručnik za korisnika i
+sačuvajte ga kao buduću referencu. U slučaju potrebe servisiranja
+ureœaja, molimo potražite ovlašteni servisni centar.
+Upotreba upravljačkih kontrola, ili rad na način koji nije naveden u
+ovom priručniku može dovesti do opasnog izlaganja radijaciji.
+Kako biste spriječili izlaganje laserskoj zraci, ne pokušavajte
+otvarati kućište. U slučaju otvaranja dolazi do vidljivog laserskog
+zračenja. NE GLEDAJ U ZRAKU.
+
+2
+
+Ovaj proizvod je proizveden u skladu s EEC
+ODREDBAMA 2004/108/EC i 2006/95/EC.
+
+Sadržaj
+UVOD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4-9
+O
+simbolu na displeju . . . . . . . . . . . . . . . . . . . . . .4
+Simboli upotrebljeni u ovom priručniku . . . . . . . . . . .4
+Napomene o diskovima . . . . . . . . . . . . . . . . . . . . . . . .4
+Diskovi za snimanje i reprodukciju . . . . . . . . . . . . . . .5
+Diskovi koji se mogu reproducirati . . . . . . . . . . . . . . .6
+Kod područja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+Mogućnost kopiranja ili premještanja . . . . . . . . . . . . .6
+O unutarnjem tvrdom disku . . . . . . . . . . . . . . . . . . . .7
+Prednja ploča . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8
+Daljinski upravljač . . . . . . . . . . . . . . . . . . . . . . . . . . .9
+Rad s daljinskim upravljačem . . . . . . . . . . . . . . . . . . .9
+Spajanje i podešavanje . . . . . . . . . . . . . . . . . . . . . .10-22
+Zadnja ploča . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+Priključivanje antene . . . . . . . . . . . . . . . . . . . . . . . . .10
+Priključivanje na vaš TV . . . . . . . . . . . . . . . . . . . . . .11
+Priključivanje na pojačalo . . . . . . . . . . . . . . . . . . . . .12
+Dodatna Audio / Video (A/V) priključivanja . . . .13-14
+Automatsko podešavanje . . . . . . . . . . . . . . . . . . . . . .14
+Upotreba početnog izbornika . . . . . . . . . . . . . . . . . .15
+Početna podešavanja . . . . . . . . . . . . . . . . . . . . . . . . .15
+Opća podešavanja . . . . . . . . . . . . . . . . . . . . . . . .15-18
+Podešavanje jezika . . . . . . . . . . . . . . . . . . . . . . . . . .18
+Audio podešavanja . . . . . . . . . . . . . . . . . . . . . . . . . .18
+Podešavanje zaključavanja (Roditeljska kontrola) . . .19
+Podešavanje snimanja . . . . . . . . . . . . . . . . . . . . . . . .20
+Podešavanja za disk . . . . . . . . . . . . . . . . . . . . . . .20-21
+Općenito o displeju na ekranu . . . . . . . . . . . . . . . . . .22
+Reprodukcija . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23-32
+Općenite karakteristike reprodukcije . . . . . . . . . .23-26
+Reprodukcija DivX filmske datoteke . . . . . . . . . . . . .27
+Reprodukcija Audio CD ili MP3/WMA datoteka . . . .28
+Gledanje JPEG datoteke . . . . . . . . . . . . . . . . . . . .29-30
+Ureœivanje MP3/WMA, JPEG i DivX datoteka . .31-32
+Snimanje . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .33-37
+Više o DVD snimanju . . . . . . . . . . . . . . . . . . . . . . . .33
+Više o HDD snimanju . . . . . . . . . . . . . . . . . . . . . . . .33
+Timeshift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .34
+Osnovno snimanje TV programa . . . . . . . . . . . . . . . .35
+Brzo snimanje pomoću vremenskog
+brojača (Timer) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .35
+Snimanje pomoću vremenskog brojača (Timer) . . . . .36
+Provjera detalja za snimanje pomoću
+vremenskog brojača (Timer Recording) . . . . . . . .36-37
+Snimanje s vanjskog ulaza . . . . . . . . . . . . . . . . . . . .37
+Istovremeno snimanje i reprodukcija . . . . . . . . . . . . .37
+
+Ureœivanje . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .38-45
+Pregled izbornika za popis naslova i poglavlja
+(Title List i Chapter List) . . . . . . . . . . . . . . . . . . . . .38
+HDD disk, VR modus: Ureœivanje originala i
+popisa za reprodukciju (Playlist) . . . . . . . . . . . . . . . .39
+Dodavanje oznaka za poglavlja (Chapter Markers) . .39
+Mijenjanje sličica za naslove (Thumbnail) . . . . . . . .39
+Stvaranje novog popisa za
+reprodukciju (New Playlist) . . . . . . . . . . . . . . . . . . .40
+Dodavanje dodatnog naslova / poglavlja na
+popis za reprodukciju (Playlist) . . . . . . . . . . . . . . . . .40
+Brisanje originalnog ili playlist naslova/poglavlja . . .41
+Brisanje dijela . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .41
+Upisivanje naziva za naslov . . . . . . . . . . . . . . . . . . .42
+Pretraga vremena . . . . . . . . . . . . . . . . . . . . . . . . . . .42
+Sortiranje popisa naslova . . . . . . . . . . . . . . . . . . . . .43
+Podijelite jedan naslov u dva naslova . . . . . . . . . . . .43
+Kombiniranje dva poglavlja u jedno . . . . . . . . . . . . .44
+Dodatne funkcije za DVD diskove
+na koje se može snimati . . . . . . . . . . . . . . . . . . . . . .44
+Premještanje poglavlja na popisu za
+reprodukciju (Playlist Chapter) . . . . . . . . . . . . . . . . .45
+Sakrivanje poglavlja/naslova . . . . . . . . . . . . . . . . . . .45
+Zaštita naslova . . . . . . . . . . . . . . . . . . . . . . . . . . . . .45
+Presnimavanje . . . . . . . . . . . . . . . . . . . . . . . . . . . . .46-48
+Prije presnimavanja (Dubbing) . . . . . . . . . . . . . . . . .46
+Presnimavanje s HDD diska na DVD . . . . . . . . . . . .47
+Presnimavanje s DVD-a na HDD disk . . . . . . . . . . . .47
+Kopiranje jednim dodirom (HDD na DVD) . . . . . . .48
+Kopiranje jednim dodirom (DVD na HDD) . . . . . . .48
+Reference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .49-54
+Dodatne informacije . . . . . . . . . . . . . . . . . . . . . . . . .49
+Gledanje izbornika za popis naslova
+(Title List) koji je prikazan na drugim DVD
+rekorderima ili player-ima . . . . . . . . . . . . . . . . . .49
+Reproduciranje vašeg snimljenog materijala na
+drugim DVD player-ima (Finaliziranje diska) . . .49
+Kodovi jezika . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .50
+Kodovi zemalja . . . . . . . . . . . . . . . . . . . . . . . . . . . . .50
+Upravljanje s vašim TV-om pomoću isporučeng
+daljinskog upravljača . . . . . . . . . . . . . . . . . . . . . . . .51
+Rješavanje problema . . . . . . . . . . . . . . . . . . . . . .52-53
+Specifikacija . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .54
+
+3
+
+UVOD
+
+Napomene o diskovima
+
+Molimo vas da zbog pravilne uporabe ovog ureœaja
+pažljivo pročitate ovaj priručnik i da ga sačuvate kao
+referencu za buduće potrebe.
+
+Rukovanje diskovima
+Ne dirajte stranu diska koja se reproducira. Disk držite na
+rubovima tako da na njegovoj površini ne ostaju otisci
+prstiju. Nikada ne lijepite na disk papir ili trake.
+
+Ovaj priručnik sadrži informacije o operacijama i
+održavanju vašeg rekordera. Ukoliko ureœaj bude trebao
+servis obratite se ovlaštenom servisnom mjestu.
+
+O
+
+simbolu na displeju
+
+Simbol “ ” se može pojaviti na vašem TV ekranu tijekom
+rada koji pokazuje da funkcija objašnjena u ovom
+priručniku za vlasnika nije moguća za odreœeni medij.
+
+Simboli upotrebljeni u ovom
+priručniku
+Napomena:
+Označava displeju i operacijske pogodnosti.
+Savjet:
+Označava savjete za lakše postizanje željenog cilja.
+
+Spremanje diskova
+Nakon reprodukcije, diskove spremite u njihove kutije.
+Ne izlažite diskove izravnoj sunčevoj svjetlosti niti
+izvorima topline, ne ostavljajte ih u parkiranom automobilu
+izloženom izravnoj sunčevoj svjetlosti.
+Čišćenje diskova
+Otisci prstiju i prašina na disku mogu prouzrokovati lošu
+kvalitetu slike i izobličenje zvuka. Prije reprodukcije disk
+očistite čistom krpom. Disk brišite od sredine prema van.
+
+Odjeljak čiji naslov sadrži jedan od slijedećih simbola
+odnosi se samo na disk koji je predstavljen tim simbolom.
+HDD Naslovi snimljeni na HDD disku
+DVD ALL Svi DVD diskovi na donjem popisu.
+-RWVR DVD-RW s VR modusom snimanja
+-RWVideo DVD-RW s Video modusom snimanja
++RW DVD+RW disk
+-R
+
+DVD-R disk
+
++R
+
+DVD+R disk
+
+DVD DVD-Video disk
+VCD Video CD-i
+ACD Audio CD-i
+DivX DivX datoteke
+MP3 MP3 datoteke
+WMA WMA datoteke
+JPEG JPEG datoteke
+
+4
+
+Ne koristite jaka otapala poput alkohola, benzina,
+razrjeœivača, reklamiranih sredstava za čišćenje ili
+anti-statični spray namijenjen starim pločama od vinila.
+
+Kondenziranje vlage
+Nikada ne upotrebljavajte ovaj proizvod odmah nakon
+njegovog premještanja iz hladne u toplu prostoriju.
+Ostavite ureœaj da stoji dva do tri sata prije njegovog
+uključivanja. Ako ovaj proizvod upotrijebite u ovakvoj
+situaciji, može doći do uništenja diskova i unutrašnjih
+dijelova.
+
+Diskovi za snimanje i reprodukciju
+UVOD
+
+DVD-RW (Digital Video Disc - ReWritable):
+ DVD-RW diskovi se mogu formatirati za VR modus snimanja ili Video modus snimanja.
+ Na ovim diskovima je moguće ponavljati snimanje. Snimljeni materijal se može pobrisati, a zatim se na istom
+disku može ponovno snimati.
+[VR modus]
+ Moguće je u velikoj mjeri ureœivati snimljeni materijal.
+ Može se reproducirati na player-ima koji su kompatibilni s VR modusom (nakon finaliziranja)
+[Video modus]
+ Može se reproducirati na običnim DVD player-ima (nakon finaliziranja)
+ Ograničene mogućnosti ureœivanja
+DVD-R (Digital Video Disc - Recordable)
+ Ovi se diskovi mogu snimiti samo jedanput. Nakon što ste finalizirali DVD-R disk, na tom disku više ne možete
+snimati i ne možete ga više ureœivati.
+ DVD-R diskovi se mogu formatirati samo u Video modusu.
+ Može se reproducirati na običnim DVD player-ima (nakon finaliziranja)
+ Ograničene mogućnosti ureœivanja
+DVD+RW (Digital Video Disc + ReWritable)
+ Na ovim diskovima je moguće ponavljati snimanje. Snimljeni materijal se može pobrisati, a zatim na istom
+disku možete ponovno snimati.
+ Može se reproducirati na DVD+RW kompatibilnim player-ima (automatsko finaliziranje)
+ Ureœivani sadržaji se mogu reproducirati na DVD+RW kompatibilnim player-ima samo nakon finaliziranja
+diska
+ Snimljeni materijal se može ureœivati pomoću naslova / poglavlja
+DVD+R (Digital Video Disc + Recordable)
+ Ovi se diskovi mogu snimiti samo jedanput. Nakon što ste finalizirali DVD+R disk, na tom disku više ne
+možete snimati i ne možete ga više ureœivati.
+ Može se reproducirati na DVD+R kompatibilnim player-ima (nakon finaliziranja)
+ Svaki ureœeni sadržaj nije kompatibilan sa DVD+R kompatibilnim player-ima (Sakrij, kombiniraj poglavlje,
+dodaj oznaku za poglavlje, i sl.)
+ Ograničene mogućnosti ureœivanja naslova / poglavlja
+
+DVD diskovi koji se preporučuju za snimanje
+DVD-R
+DVD+R
+DVD-RW
+DVD+RW
+Mitsubishi (8x, 16x)
+Mitsubishi (8x, 16x)
+Mitsubishi (2x, 4x)
+Mitsubishi (2.4x, 4x)
+Verbatim (8x, 16x)
+Verbatim (8x, 16x)
+Victor (4x)
+Verbatim (4x)
+Maxell (4x)
+Philips (4x)
+Napomena: Ako su DVD-RW/DVD+RW diskovi snimljeni na osobnom računalu ili na nekon drugom DVD rekorderu,
+
+nećete moći formatirati disk pomoću ovog rekordera. Stoga, budete li htjeli uporabiti takav disk na ovom rekorderu, morat
+ćete ga formatirati pomoću originalnog rekordera.
+
+5
+
+Diskovi koji se mogu reproducirati
+DVD (8 cm / 12 cm disk)
+Diskovi kao što su filmovi koji se mogu kupiti ili iznajmiti
+Video CD (VCD) (8 cm / 12 cm disk)
+VIDEO CD-i ili CD-R-i/CD-RW-i u VIDEO CD/Super VIDEO CD formatu
+Audio CD (8 cm / 12 cm disk)
+Glazbeni CD-i ili CD-R-i/CD-RW-i u glazbenom CD formatu koji se mogu kupiti
+CD-R/CD-RW (8 cm / 12 cm disk)
+CD-R/CD-RW diskovi koji sadrži audio naslove, DivX, MP3, WMA, ili JPEG datoteke.
+
+Napomene:
+ Ovisno o uvjetima opreme za snimanje ili samog CD-R/RW (ili DVD±R/RW) diska, neki CD-R/RW (ili DVD±R/RW)
+diskovi neće se moći reproducirati na ureœaju.
+ Ne stavljajte nikakav pečat ili naljepnicu ni na jednu stranu (strana s naljepnicom ili snimljena strana) diska.
+ Ne upotrebljavajte CD diskove nepravilnog oblika (npr., u obliku srca ili osmerokuta). Upotreba takvih diskova može
+dovesti do nepravilnosti.
+ Ovisno o softveru za snimanje i finaliziranje, neki snimljeni diskovi (CD-R/RW ili DVD±R/RW) se možda neće moći
+reproducirati.
+ DVD-R/RW, DVD+R/RW i CD-R/RW diskovi koji su snimljeni pomoću osobnog računala ili pomoću DVD ili CD
+rekordera možda se neće reproducirati ako je disk oštećen ili prljav, ili ako na lećama rekordera ima nečistoće ili
+kondenzacije.
+ Ako disk snimate pomoću osobnog računala, čak i ako je disk snimljen u kompatibilnom formatu, postoje slučajevi u
+kojima možda neće doći do reprodukcije zbog postavki u software-u programa s kojim je snimljen disk. (Provjerite s
+proizvoœačem softvera za detaljnije informacije.)
+ Ovaj rekorder zahtijeva od diskova i snimanja da ispune odreœene tehničke standarde kako bi se postigla optimalna
+kvaliteta reprodukcije. Prije-snimljeni DVD-i su automatski podešeni na ove standarde. Postoji mnogo različitih vrsta
+formata diskova za snimanje (uključujući CD-R koji sadrži MP3 ili WMA datoteke), a oni zahtijevaju neke postojeće
+uvjete (pogledajte gore) kako bi osigurali kompatibilnu reprodukciju.
+ Korisnici moraju znati da je potrebno dopuštenje za download MP3 / WMA datoteka i glazbe s interneta. Naša
+kompanija nema nikavih prava da garantira ovo dopuštenje. Dopuštenje je potrebno tražiti od vlasnika autorskih prava.
+
+Kod područja
+Ovaj ureœaj ima kod područja otisnut na zadnjoj strani. Ovaj ureœaj može reproducirati samo DVD diskove koji su označeni
+istim kodom na pozadini ureœaja ili nose oznaku “ALL –Sve”
+Napomene o kodovima područja
+ Većina DVD diskova ima globus s jednim ili više brojeva u njemu koji se jasno vide na omotu. Ovaj broj mora
+odgovarati broju koda područja na ureœaju ili se disk neće moći reproducirati.
+ Ako pokušate reproducirati DVD s nekim drugim kodom područja, pojavit će se poruka “Incorrect region code. Can’t
+play back” na TV ekranu.
+
+Mogućnost kopiranja ili premještanja
+S
+
+Na
+
+MP3/WMA
+
+JPEG
+
+DivX
+
+Audio CD
+
+Video CD
+
+Naslov*1
+
+HDD
+
+DISK
+
+Ne
+
+Ne
+
+Ne
+
+Ne
+
+Ne
+
+Da
+
+DISK
+
+HDD
+
+Da
+
+Da
+
+Da
+
+Ne
+
+Ne
+
+Da
+
+*1: Naslov je snimljen s ovog ureœaja.
+
+6
+
+O unutarnjem tvrdom disku
+
+
+
+Ne mičite rekorder kad je uključen (on).
+
+
+
+Instalirajte i upotrebljavajte rekorder na stabilnoj i ravnoj
+površini.
+
+
+
+Ne upotrebljavajte rekorder na izuzetno vrućim ili
+vlažnim mjestima, ili na mjestima gdje će rekorder biti
+izložen naglim promjenama temperature. Nagle promjene
+temperature mogu prouzročiti kondenzaciju koja se može
+stvoriti unutar rekordera. To može biti uzrok
+nepravilnosti HDD diska.
+
+
+
+Kada je rekorder uključen (on), ne iskopčavajte ga iz
+zidne utičnice i ne prekidajte električno napajanje
+prekidačem za strujni krug (osigurač).
+
+
+
+Ne pomičite rekorder odmah nakon što ste ga isključili
+(off). Ako već trebate pomaknuti rekorder, molimo
+slijedite korake navedene dolje:
+
+UVOD
+
+Unutarnji tvrdi disk (hard disk drive (HDD) je osjetljivi dio
+opreme. Molimo upotrebljavajte rekorder tako da se
+pridržavate uputa dalje iznesenih kako biste se zaštitili od
+mogućih nepravilnosti na HDD disku. Preporučujemo da
+napravite kopiju (back up) vama važnog snimljenog
+materijala na DVD diskovima kako bi se zaštitili od
+mogućeg gubitka u slučaju greške.
+
+1. Nakon što se poruka OFF (El. napajanje isključeno)
+pojavi na displeju, pričekajte najmanje dvije minute.
+2. Iskopčajte utikač ureœaja iz zidne utičnice.
+3. Premjestite rekorder.
+
+
+Ako je došlo do nestanka električne struje za vrijeme dok
+je rekorder bio uključen postoji mogućnost da se izgube
+neki podaci na HDD disku.
+
+
+
+HDD disk je jako osjetljiv. Ako se upotrebljava na
+nepravilan način ili u neprikladnoj sredini, postoji
+mogućnost da doœe do greške na HDD disku nakon
+nekoliko godina rada. Znakovi problema uključuju
+neočekivano zamrzavanje reprodukcije i primjetne
+kvadratne smetnje na slici (mozaik).
+Meœutim, ponekad neće biti nikakvih znakova
+upozorenja na grešku na HDD disku.
+Ako postoji greška na HDD disku, neće biti moguće
+reprodukcija snimljenog materijala. U tom slučaju je
+neophodna zamjena neispravnog HDD diska.
+
+7
+
+Prednja ploča
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+i
+
+k
+
+RH266/RH265
+a
+
+b
+
+c
+
+d
+
+e
+
+f g h i j k
+
+l
+
+RH256/RH255
+a 1 / I ( POWER tipka)
+Uklučuje (ON) ili isključuje (OFF) ureœaj.
+b Disc Tray (Ladica za disk)
+Ovdje umetnite disk.
+c Prozor display-a
+Prikazuje trenutno stanje rekordera.
+T/S: Ukazuje na timeshift modus.
+REC: Rekorder vrši snimanje.
+HDD: Rekorder je u HDD modusu.
+DVD: Rekorder je u DVD modusu.
+HDD b B DVD: Rekorder vrši presnimavanje
+(dubbing).
+TV: Ukazuje na to da je rekorder u TV tuner modusu.
+: Ukazuje na to da rekorder snima pomoću
+vremenskog brojača ili je snimanje s vremenskim
+brojačem programirano.
+: Prikazuje trenutno stanje rekordera (sat,
+broj programa i sl.)
+d Senzor daljinskog upravljača
+Ovdje usmjerite daljinski upravljač rekordera.
+
+8
+
+e AV IN 3 (VIDEO IN/AUDIO IN (Lijevo / Desno))
+Priključite audio / video izlaz vanjskog izvora (Audio
+sistem, TV / Monitor, VCR, Video kamera, itd.).
+f Z (OPEN/CLOSE)
+Otvara ili zatvara ladicu za disk.
+g HDD/DVD
+Postavlja modus rekordera na HDD ili DVD.
+h TIMESHIFT
+Aktivira pauzu za živi TV / reprodukciju (timeshift) za
+živi TV program.
+i N (PLAY)
+Započinje reprodukciju.
+j x (STOP)
+Zaustavlja reprodukciju ili snimanje.
+k z (REC)
+Započinje snimanje. Pritisnite tipku više puta kako biste
+postavili vrijeme snimanja.
+l PROG. (V/v)
+Prelazi gore ili dolje kroz memorirane kanale.
+
+a
+
+AV/INPUT: Mijenja ulaz koji se
+upotrebljava za snimanje (Tuner,
+AV1-3).
+
+TIMESHIFT: Aktivira pauzu za živi
+TV / reprodukciju (timeshift) za živi
+TV program.
+
+0-9 brojčane tipke: Služe za izbor
+brojčanog sadržaja u izborniku.
+
+AUDIO ( ): Odabire audio jezik ili
+audio kanal.
+
+DUBBING: Presnimava DVD na
+HDD disk (ili HDD na DVD).
+
+SUBTITLE (
+titl.
+
+TV tipke za upravljanje: Pogledajte
+stranicu 51.
+
+CHP. ADD: Tijekom reprodukcije
+umetnite oznaku za poglavlje.
+
+
+
+
+
+
+
+
+
+
+
+b
+
+
+
+
+
+
+
+
+
+
+
+SCAN (m / M): Vrši traženje
+naprijed ili natrag.
+
+b
+
+SKIP (. / >): Prelazi na
+sljedeće ili prethodno poglavlje ili
+snimku.
+PAUSE/STEP (X) : Privremeno
+pauzira reprodukciju ili snimanje.
+
+c
+
+PLAY (N): Započinje reprodukciju.
+STOP (x): Zaustavlja reprodukciju ili
+snimanje.
+
+
+d
+
+
+
+
+
+
+
+
+
+c
+
+
+
+
+
+
+
+
+
+
+
+HOME: Otvara ili zatvara početni
+(HOME) izbornik.
+MENU/LIST: Otvara izbornik na DVD
+disku. Prelazi iz izbornika za listu
+naslova - original u izbornik za listu
+naslova – lista za reprodukciju (Title
+List-Original i Title List-Playlist ).
+
+
+
+
+
+
+
+
+
+
+
+a
+
+
+
+
+
+
+
+
+
+
+
+b / B / v / V tipke
+(lijevo/desno/gore/dolje): Služe za
+izbor sadržaja u izborniku.
+
+POWER: Uključuje (ON) ili
+isključuje (OFF) rekorder.
+
+ENTER (
+izbornika.
+
+OPEN/CLOSE (Z): Otvara i zatvara
+ladicu za disk.
+
+PR/CH (+/-): Služe za prelazak gore
+ili dolje kroz memorirane kanale.
+
+DVD: Odabire modus funkcije
+ureœaja za DVD.
+
+DISPLAY: Otvara displej na ekranu.
+
+): Potvrœuje izbor
+
+
+
+
+
+
+
+
+
+
+
+UVOD
+
+Daljinski upravljač
+
+): Vrši izbor jezika za
+
+d
+
+
+
+
+
+
+
+
+
+
+
+z REC: Započinje snimanje.
+REC MODE: Vrši izbor modusa
+snimanja.
+TITLE: Prikazuje izbornik za naslove
+na disku, ako je to moguće.
+THUMBNAIL: Odabire thumbnail
+sliku.
+ZOOM: Povećava video sliku.
+MARKER: Postavlja oznaku na bilo
+kojem mjestu tijekom reprodukcije.
+SEARCH: Prikazuje izbornik za
+traženje oznake (Marker Search).
+CLEAR: Uklanja oznaku (marker) u
+izborniku za traženje oznaka.
+REPEAT: Ponavlja poglavlje,
+snimku, naslov, sve.
+A-B: Ponavlja sekvencu.
+TV/DVD: Služi za gledanje kanala
+koji su odabrani pomoću tuner-a
+rekordera ili tuner-a TV-a.
+* tipka(e) nije moguća.
+
+RETURN (O): Zatvara izbornik.
+
+HDD: Odabire modus funkcije
+ureœaja za HDD.
+
+Rad s daljinskim upravljačem
+Usmjerite daljinski upravljač prema senzoru za daljinski
+upravljač i pritisnite tipke.
+Upozorenje
+Ne miješajte stare i nove baterije. Nikada ne miješajte
+različite vrste baterija (standardne, alkalne, i sl.).
+
+Umetanje baterija na daljinskom upravljaču
+Skinite poklopac za baterije na
+zadnjoj strani daljinskog upravljača
+i umetnite dvije R03 (veličina AAA)
+baterije s pravilno postavljenim
+i
+polovima.
+
+9
+
+Spajanje i podešavanje
+Zadnja ploča
+a
+
+e
+
+b
+
+f
+
+c
+
+g
+
+d
+
+h
+
+a ANTENNA IN (ANTENSKI ULAZ)
+Priključite antenu na ovaj priključak.
+
+f COAXIAL (Digitalni audio izlaz priključak)
+Priključite na digitalnu (koaksijalnu) audio opremu.
+
+b COMPONENT OUTPUT (Y PB PR)
+Priključi na TV s Y PB PR ulazima.
+
+g AUDIO OUTPUT (Lijevi/Desni)
+Priključite na TV s audio ulazima.
+
+c AV 2 DEKODER SCART priključak
+Priključite audio / video izlaz vanjskog izvora
+(TV dekoder, Set Top Box, VCR, i sl).
+
+h AV 1 SCART priključak
+Priključite na TV sa SCART konektorom.
+
+d AC Power Cord (El. kabel za istosmjernu struju)
+(AC IN~)
+Ukopčajte u izvor za el. napajanje.
+e ANTENNA OUT (ANTENSKI IZLAZ)
+Prosljeœuje signal s ANTENNA IN priključka na vaš
+TV/monitor.
+
+Priključivanje antene
+Skinite konektor antenskog kabela s vašeg TV ureœaja i
+umetnite ga u antenski priključak na zadnjoj ploči na
+rekorderu. Ukopčajte jedan kraj antenskog kabela u TV
+priključak na rekorderu, a drugi kraj u antenski ulazni
+priključak na vašem TV ureœaju.
+
+AERIAL (Antenna)
+
+Zadnja strana TV-a
+Rear of TV
+
+Aerial
+
+SCART INPUT
+
+ANTENNA
+INPUT
+
+AUDIO INPUT
+
+L
+
+VIDEO
+INPUT
+
+R
+
+R
+
+RF koaksijalno priključivanje
+Priključite ANTENNA OUT priključak na rekorderu na
+antenski ulazni priključak na TV-u pomoću 75-ohmskog
+koaksijalnog kabela koji je isporučen (R). ANTENNA
+OUT priključak prosljeœuje signal s ANTENNA IN
+priključka.
+Zadnja
+strana
+rekordera
+Rear of
+the recorder
+10
+
+SCART priključivanje
+
+
+
+Napravite jedno od sljedećih priključivanja, ovisno o
+mogućnostima vaše postojeće opreme.
+
+
+
+Kada upotrebljavate COMPONENT OUTPUT
+priključke, postavite Video Output Format opciju u
+izborniku za podešavanja na YPbPr. Kada upotrebljavate
+SCART priključak, postavite Video Output Format
+opciju u izborniku za podešavanja na RGB.
+
+Savjeti:
+ Ovisno o vašem TV-u i drugoj opremi koju želite
+priključiti, postoje razni načini na koje možete priključiti
+vaš rekorder. Upotrijebite samo jedan od dolje opisanih
+načina za priključivanje.
+ Molimo pogledajte priručnike za vaš TV, VCR, stereo
+sistem ili dugu opremu ako je potrebno kako biste
+napravili najbolje priključivanje.
+Upozorenje
+– Pazite da je rekorder priključen izravno na TV. Podesite
+TV na ispravan video ulazni kanal.
+– Ne priključujte konektor za AUDIO OUTPUT na
+rekorderu na konektor za ulaz za slušalice (record deck)
+na vašem audio sistemu.
+– Ne priključujte vaš rekorder preko vašeg VCR-a. Sistem
+za zaštitu od kopiranja bi mogao izobličiti DVD sliku.
+
+Zadnja
+TV-a
+Rear ofstrana
+TV
+COMPONENT VIDEO INPUT
+
+Y
+
+PB
+
+C
+
+SCART INPUT
+AUDIO INPUT
+
+PR
+
+L
+
+T
+
+R
+
+Priključite AV1 scart konektor na rekorderu na
+odgovarajuće konektore na TV-u pomoću scart kabla (T).
+
+Audio (Left/Right) priključivanje
+Priključite left (lijevo) i right (desno) konektore za AUDIO
+OUTPUT na rekorderu na audio left i right IN konektore na
+TV-u pomoću audio kablova (A). Ne priključujte konektor
+za AUDIO OUTPUT na rekorderu na konektor za ulaz za
+slušalice (record deck) na vašem audio sistemu.
+
+Spajanje i
+podešavanje
+
+Priključivanje na vaš TV
+
+Komponentni video priključivanje
+Priključite COMPONENT OUTPUT priključke na
+rekorderu na odgovarajuće ulazne priključke na TV-u
+pomoću Y PB PR kabla (C).
+Ako je vaš televizor ureœaj visoke definicije ili je “digital
+ready” televizor, tada možete iskoristiti prednost izlaza za
+progresivno skeniranje na rekorderu za najveću moguću
+video rezoluciju. Ako vaš TV ne prihvaća format za
+progresivno skeniranje, slika će se prikazati u izobličenom
+obliku ako pokušate na svom rekorderu postaviti opciju za
+progresivno skeniranje.
+ Postavite Progressive Scan na [ON] na setup izborniku
+za progresivni signal, vidite stranu 17.
+Upozorenje Oprez
+Jednom kada je podešavanje za izlaz za progresivno
+skeniranje, slika će se moći vidjeti samo na TV ili monitoru
+koji su kompatibilni s formatom signala za progresivno
+skeniranje. Ako greškom postavite Progressive Scan na
+[ON] (uključeno), tada morate resetirati rekorder. Najprije,
+izvadite disk iz rekordera. Zatim pritisnite tipku STOP (x)
+i držite tipku pritisnutu otprilike pet sekundi prije nego
+tipku otpustite. Video izlaz će se ponovno vratiti na
+standardno podešavanje, a slika će se ponovno moći vidjeti
+na konvencionalnom analognom TV-u ili monitoru.
+
+A
+
+Rear of the
+recorder
+Zadnja
+strana
+
+rekordera
+
+11
+
+Zadnja strana rekordera
+
+Priključivanje na pojačalo
+
+Rear of the recorder
+
+Priključivanje na pojačalo opremljeno s dvokanalnim analognim stereom ili Dolby Pro Logic
+ll/ Pro Logic
+Priključite Left i Right konektore za AUDIO OUTPUT na
+rekorderu na audio left i right ulazne konektore na vašem
+pojačalu, receiver-u, ili stereo sistemu, pomoću audio
+kablova (A).
+
+Priključivanje na pojačalo opremljeno s dvokanalnim digitalnim stereom (PCM) ili na
+Audio/Video receiver opremljenim s više-kanalnim
+dekoderom (Dolby Digital™, MPEG 2, ili DTS)
+
+A
+
+X
+
+1. Priključite jedan od DIGITAL AUDIO OUTPUT
+konektora na rekorderu (COAXIAL X) na odgovarajući
+konektor na vašem pojačalu. Upotrijebite dodatni
+digitalni (koaksijalni X) audio kabel.
+2. Potrebno je da aktivirate digitalni izlaz na rekorderu.
+(Pogledajte “Audio podešavanja” na strani 18).
+
+Digitalni više-kanalni zvuk
+Digitalno više-kanalno priključivanje pruža najbolju
+kvalitetu zvuka. Za ovo vam je potreban više-kanalni
+Audio/Video receiver koji podržava jedan ili više audio
+formata koje podržava vaš rekorder (MPEG 2, Dolby
+Digital i DTS). Provjerite priručnik za receiver i oznake
+logo-a na prednjoj ploči receiver-a.
+Upozorenje:
+Zbog ugovora o DTS licenci, digitalni izlaz će biti u DTS
+digitalnom formatu u slučaju kada je odabran DTS audio
+stream.
+Napomene:
+ Ako audio format digitalnog izlaza ne odgovara
+mogućnostima vašeg receiver-a, receiver će proizvoditi
+jaki, izobličeni zvuk ili neće proizvoditi nikakav zvuk.
+ Digitalni surround šestero-kanalni zvuk (Six Channel
+Digital Surround Sound) preko digitalnog priključivanja
+može se postići samo ako je vaš receiver opremljen s
+digitalnim više-kanalnim dekoderom.
+ Kako biste vidjeli audio format trenutnog DVD-a na
+ekranskom displeju, pritisnite tipku AUDIO.
+ Ovaj rekorder ne obavlja unutarnje (2 kanalno)
+dekodiranje DTS zvučnih snimki. Kako biste uživali u
+DTS više-kanalnom surround-u, ovaj rekorder morate
+priključiti na DTS kompatibilni receiver preko jednog od
+digitalnih audio izlaza na samom rekorderu.
+
+12
+
+COAXIAL
+DIGITAL INPUT
+
+L
+
+R
+
+AUDIO INPUT
+
+Pojačalo (Receiver)
+Amplifier
+(Receiver)
+Proizvedeno prema licenci Dolby Laboratories. “Dolby”,
+“Pro Logic”, i dvostruki D simbol su robne marke Dolby
+Laboratories.
+
+“DTS” i “DTS Digital Out” su robne marke Digital
+Theater Systems, Inc.
+
+Dodatna Audio / Video (A/V)
+priključivanja
+
+TV
+
+VCR,
+VCR,Cable
+CableBox,
+Box,ilior
+satelitski
+tuner,
+i sl.etc.
+Satellite Tuner,
+
+Priključivanje plaćanog (PAY) –TV / Kanal
+Plus Dekodera
+
+Spajanje i
+podešavanje
+
+Vi možete gledati ili snimati PAY-TV/Canal Plus programe
+ako priključite dekoder (nije isporučen) na rekorder. Kada
+priključujete dekoder iskopčajte napojni električni kabel
+rekordera.
+Za gledanje ili snimanje PAY-TV/Kanal Plus programa,
+postavite [AV2 Connection] opciju na [Decoder]
+(pogledajte stranicu 17) i postavite [Decoder On/Off] opciju
+programa na [On -Uključeno] u izborniku za podešavanja
+(Setup) (stranica 16).
+Savjet :
+Nije potrebno da uključite vaš rekorder kako biste vidjeli
+signale s priključenog tuner-a na vašem TV-u.
+
+Rear
+of the
+recorder
+Zadnja
+strana
+rekordera
+
+Napomena :
+Ako iskopčate električni kabel vašeg rekordera, nećete biti
+u stanju vidjeti signale s priključenog dekodera.
+
+Savjet :
+Nije potrebno da uključite vaš rekorder kako biste vidjeli
+signale s priključenog tuner-a na vašem TV-u.
+
+TV
+
+Napomene:
+PAY-TV/Canal
+PAY-TV/CanalPlus
+Plus
+Dekorder
+Decorder
+SCART AV
+
+
+
+Slike koje sadrže signale za zaštitu od kopiranja koji
+onemogućuju svako kopiranje se ne mogu snimati.
+
+
+
+Ako prosljedite signal s rekordera preko VCR, možda
+nećete dobiti jasnu sliku na ekranu vašeg TV-a. Provjerite
+jeste li priključili vaš VCR na rekorder kao i vaš TV na
+dolje prikazani način. Kako biste gledali video trake,
+gledajte trake preko drugog linijskog ulaza na vašem
+TV-u.
+Linijski
+ulaz1 1
+Line input
+VCR
+
+RECORDER
+
+TV
+Line
+input ulaz
+2
+Linijski
+
+Zadnja
+Rear strana
+of the rekordera
+recorder
+
+Priključivanje na AV2 DECODER konektor
+Priključite VCR ili sličan ureœaj za snimanje na AV2
+DECODER konektor na ovom rekorderu.
+
+2
+
+
+
+Kada s ovog rekordera snimate na VCR, ne uključujte
+ulazni izvor na TV pritiskom na tipku TV/DVD na
+daljinskom upravljaču.
+
+
+
+Ako upotrebljavate B Sky B tuner, pazite da priključite
+VCR SCART konektor na AV2 DECODER konektor.
+
+
+
+Ako iskopčate električni kabel vašeg rekordera, nećete
+biti u stanju vidjeti signale s priključenog VCR-a ili
+tuner-a.
+
+Za gledanje ili snimanje izvora s AV2 DECODER
+priključka, postavite [AV2 Connection] opciju na
+[Other Device] (pogledajte stranicu 17).
+
+13
+
+Priključivanje na AV IN 3 priključke
+Spojite ulazne priključke (AV IN 3) na rekorderu na
+audio/video izlazne priključke na vašoj dodatnoj
+komponenti pomoću audio/video kablova.
+Ploča s konektorom dodatne komponente
+Jack panel
+of Accessory
+(VCR,
+video kamera,
+i sl.) Component
+(VCR, Camcorder, etc.)
+AUDIO
+OUTPUT
+
+Automatsko podešavanje
+Nakon što se prvi put uključi POWER kako bi se uključio
+ili resetirao ureœaj, funkcija početnog čarobnjaka za
+podešavanje (Initial Setup Wizard) automatski postavlja
+jezik, sat i kanale prijemnika.
+1. Odaberite jezik za izbornik za podešavanje i displej na
+ekranu.
+Upotrijebite v / V kako biste odabrali jezik, a zatim
+pritisnite ENTER.
+
+R
+
+L
+
+VIDEO
+OUTPUT
+
+2. Molimo provjerite priključak vaše antene.
+Pritisnite ENTER kako biste prešli na sljedeći korak.
+
+Front of
+Prednja
+strana
+rekordera
+the recorder
+
+3. Upotrijebite v / V / b / B kako biste odabrali audio
+sustav, a zatim pritisnite ENTER kada je odabrana
+[Start] opcija.
+Prijemnik će automatski pretraživati sve dostupne
+kanale unutar područja te će ih pospremati u memeriju
+prijemnika.
+
+4. Unesite potrebne informacije za datum i vrijeme.
+
+• b / B (lijevo/desno): Pomiče kursor na prethodni ili
+sljedeći stupac.
+• v / V (gore/dolje): Mijenja postavku na trenutnom
+položaju kursora.
+• Pritisnite ENTER kako biste potvrdili vašu postavku.
+5. Pritisnite tipku ENTER za vrijeme dok je jače
+osvijetljeno [Close] kako bi završili podešavanje.
+
+14
+
+Upotreba početnog izbornika
+
+Opće operacije
+
+S ekrana početnog izbornika (Home Menu) možete
+pristupiti u sve medije za reprodukciju i snimanje na
+rekorderu.
+1. Pritisnite tipku HOME kako biste prikazali ekran
+početnog izbornika (Home).
+2. Upotrijebite b / B tipke kako biste odabrali glavnu
+opciju koju želite. Pojavit će se pod-opcije.
+3. Upotrijebite v / V i ENTER tipke kako biste odabrali
+pod opciju koju želite.
+
+1. Odaberite SETUP u početnom (HOME) izborniku.
+Pojavljuje se izbornik za podešavanje.
+2. Upotrijebite tipke v / V kako biste odabrali željenu
+mogućnost.
+3. Za vrijeme dok je željena stavka odabrana, pritisnite
+tipku B za prelazak na sljedeću razinu.
+
+Spajanje i
+podešavanje
+
+4. Upotrijebite tipke v / V kako biste odabrali drugu
+željenu mogućnost.
+5. Pritisnite tipku B za prelazak na sljedeću razinu.
+
+4. Za izlazak iz početnog izbornika (HOME), pritisnite
+tipku HOME.
+Lagani izbornik (Easy Menu)
+ SETUP: Prikazuje izbornik za podešavanje (Setup).
+ Timer Record: Prikazuje izbornik za snimanje
+vremenskim brojačem (Timer Record).
+TV
+ TV HDD: Vraća na gledanje TV-a uživo u HDD modusu.
+Pritiskom na HDD tipku na daljinskom upravljaču
+omogućit će vam da direktno izaberete ovu opciju.
+ TV DVD: Vraća na gledanje TV-a uživo u DVD modusu.
+Pritiskom na DVD tipku na daljinskom upravljaču
+omogućit će vam da direktno izaberete ovu opciju.
+FILM
+ HDD: Prikazuje izbornik za listu naslova za HDD. (stranica 38)
+ HDD DivX: Prikazuje izbornik za [Movie List] za HDD.
+(stranica 27)
+ DISC:
+- Prikazuje izbornik za listu naslova za disk za snimanje
+(stranica 38)
+- Prikazuje izbornik za [Movie List] za DivX disk.
+(stranica 27)
+- Reproducira Video CD ili DVD-Video disk (stranica
+23-26).
+PHOTO (Pogledajte stranicu 29-30)
+ HDD: Prikazuje izbornik za [Photo List] za HDD.
+ DISC: Prikazuje izbornik za [Photo List] za disk.
+MUSIC (Pogledajte stranicu 28)
+ HDD: Prikazuje izbornik za [Music list] za HDD.
+ DISC: Prikazuje izbornik za [Music list] (ili Audio CD)
+za disk.
+
+Početna podešavanja
+U ovom sistemu izbornika postoji nekoliko načina da se
+podese moguće postavke. Većina izbornika se satoji od tri
+razine za podešavanje mogućnosti (opcija), dok neki
+zahtjevaju više razina za raznovrsna podešavanja.
+
+6. Upotrijebite tipke v / V kako biste odabrali željenu
+mogućnost, a zatim pritisnite tipku ENTER za potvrdu
+svog izbora.
+Neke postavke zahtijevaju dodatne korake.
+7. Pritisnite tipku RETURN (O) za izlazak iz izbornika
+za podešavanj (Setup).
+Napomena:
+Pritisnite tipku b za prelazak na prethodnu razinu.
+
+Opća podešavanja
+Auto programiranje
+Ovaj rekorder je opremljen tuner-om koji sintetizara
+frekvencije koji može primiti najviše TV kanala.
+Priprema:
+Priključite rekorder na željeni tip antene, na način prikazan
+u Priključivanje antene na stranici 10.
+
+1. Odaberite mogućnost [Auto Programming].
+2. Pritisnite tipku B za prelazak na treću razinu.
+3. Upotrijebite tipke v / V kako biste odabrali audio
+sistem, a zatim pritisnite B.
+Ikona [Start] je jače osvijetljena.
+4. Pritisnite tipku ENTER za početak pretraživanja kanala.
+Prijemnik će automatski pretraživati sve dostupne
+kanale unutar područja te će ih pospremati u memeriju
+prijemnika.
+Napomena:
+Ako preskočite izbornik za automatsko podešavanje (Auto
+Setup), i po prvi put pristupite u izbornik za podešavanje,
+možete postaviti jedino opciju [Auto Programming].
+Druge opcije možete postaviti nakon što dovršite [Auto
+Programming].
+
+15
+
+Opće podešavanje (Nastavak)
+Ureœivanje programa (Edit)
+Kanal možete urediti ručno (dodavanje, brisanje, nazivanje,
+premještanje, i sl. ).
+1. Odaberite mogućnost [Program Edit], a zatim pritisnite
+tipku B.
+2. Pritisnite tipku ENTER za vrijeme dok je odabrano
+[Edit].Pojavljuje se izbornik za listu programa.
+
+3. Upotrijebite tipke v / V kako biste odabrali PR broj, a
+zatim pritisnite tipku ENTER.
+4. Upotrijebite tipke v / V kako biste odabrali mogućnost
+programa, a zatim pritisnite tipku ENTER.
+
+
+[Program Edit] - Ručno podešavanje kanala.
+Pogledajte “Program Edit” na desnoj strani.
+
+
+
+[Station Rename] - Mijenja naziv stanice. Pojavljuje
+se displej za unos slova. Za unos slova pogledajte
+stranu 42.
+Nazivi mogu imati najviše 5 znakova.
+
+
+
+[Move] Sortira položaje programa na listi programa.
+Pritisnite tipke v / V kako biste premjestili željini
+program na novi položaj.
+
+
+
+[Delete] Briše položaj koji vam nije potreban.
+
+
+
+[Decoder On/Off] Postavlja kanale za dekoder. Ovo
+podešavanje vam je potrebno kako biste mogli gledati
+ili snimati plaćene TV/Canal Plus programe.
+Pritisnite tipku ENTER kako bi se [Decoder] pojavio
+na displeju. Pritisnite tipku ENTER ponovno kako
+biste isključili podešavanje.
+
+5. Pritisnite tipku RETURN (O) više puta za redom za
+izlazak iz izbornika za listu programa.
+
+16
+
+Ureœivanje programa (Edit)
+Vi možete pokrenuti traženje kako biste ručno odabrali i
+pospremili TV kanale.
+Kada ste odabrali [Program Edit] u koraku 4 gore,
+pojavljuje se displej za podešavanje kanala.
+1. Upotrijebite tipke b / B kako biste odabrali postavku i
+pritisnite tipku v / V kako biste promijenili postavku.
+
+
+
+[PR] Ukazuje na položaj odabranog programa.
+
+
+
+[Seek] Automatski pretražuje kanale. Traženje
+prestaje kada se rekorder ugodi na kanal.
+
+
+
+[Ch.] Mijenja broj kanala.
+
+
+
+[MFT] Fino ugaœa kanal kako bi se postigla jasnija
+slika.
+
+
+
+[Audio] Mijenja audio sistem (BG, I ili DK).
+
+2. Odaberite [OK], a zatim pritisnite tipku ENTER kako
+biste potvrdili odabranu postavku i vratili se u izbornik
+za listu programa.
+AV1 dekoder
+Postavlja AV1 scart priključak za ulaz za kodirane video
+signale.
+1. Pritisnite tipku AV/INPUT za vrijeme dok je na ekranu
+izbornik za listu programa (Program List).
+2. Pritisnite tipku ENTER kako bi se [Decoder] pojavio na
+displeju.
+Pritisnite tipku ENTER ponovo kako biste isključili
+podešavanje.
+ Off (Isključeno): Unosi signale s AV1 scart
+priključka.
+Normalno birate ovo.
+ On (Uključeno): Ulaz kodiranog video signala s AV1
+scart priključka se vodi do izlaza za AV2 DECODER
+priključak za dekodiranje.
+Dekodirani signal se zatim vraća natrag na ulaz kroz
+AV2 DECODER konektor tako da možete gledati ili
+snimati programe za plaćenu
+(PAY)-TV/Canal Plus.
+
+AV2 priključivanje
+
+Clock set (Podešavanje sata)
+
+Dekoder ili neki drugi ureœaj možete priključiti na AV2
+DECODER priključak na zadnjoj strani ureœaja.
+
+1. Odaberite mogućnost [Clock set], a zatim pritisnite
+tipku B.
+2. Unesite potrebne podatke za vrijeme i datum.
+b / B (lijevo / desno): Premještaju kursor na prethodni
+ili sljedeći stupac.
+v / V (gore/dolje): Mijenjaju postavke trenutnog
+položaja kursora.
+
+
+
+[Decoder] Odaberite [Decoder] ako priključujete AV2
+DECODER priključak rekordera na PAY-TV ili Kanal
+Plus dekoder.
+
+
+
+[Other Device] Odaberite [Other Device] ako
+priključujete AV2 DECODER priključak rekordera na
+VCR ili sličan ureœaj za snimanje.
+
+3. Pritisnite tipku ENTER kako biste potvrdili vašu
+postavku.
+
+Format video izlaza
+
+TV aspekt
+
+
+
+Odaberite omjer aspekta za priključeni TV (4:3 standardni
+ili široki).
+
+
+
+
+
+
+
+
+
+[4:3 Letter Box] Odaberite ovu opciju kada se spajate na
+4:3 TV ekran. Prikazuje široku sliku s pojasevima na
+gornjem i donjem dijelu ekrana.
+[4:3 Pan Scan] Odaberite ovu opciju kada se spajate na
+4:3 TV ekran. Automatski prikazuje široku sliku na
+cijelom ekranu i odsijeca one dijelove koji se ne
+uklapaju.
+[16:9 Wide] Odaberite ovu opciju kada se spajate na
+široki TV ili TV sa funkcijom za rad u širokim modusu.
+
+Progresivno skeniranje
+Video s progresivnim skeniranjem omogućuje najvišu
+kvalitetu slike s manje treptanja.
+Ako upotrebljavate COMPONENT OUTPUT konektore ali
+rekorder priključujete na standardni (analogni)
+televizor, podesite Progressive Scan na [OFF - isključeno].
+Ako upotrebljavate COMPONENT OUTPUT konektore za
+priključivanje na TV ili monitor koji je kompatibilan sa
+signalom za progresivno skeniranje, podesite Progressive
+Scan na [ON - uključeno].
+
+Spajanje i
+podešavanje
+
+Opća podešavanja (Nastavak)
+
+Odaberite opciju format video izlaza u skladu s vrstom
+priključivanja ovog ureœaja.
+[RGB] Kada je vaš TV priključen pomoću SCART(RGB
+signal) priključka na ovaj ureœaj.
+[YPbPr] Kada je vaš TV priključen pomoću
+COMPONENT OUTPUT priključka na ovaj ureœaj.
+
+Modus štednje el. energije (Power Save)
+Ureœaj možete podesiti tako da radi u modusu ekonomične
+štednje el. energije. Kada je ureœaj isključen u prozoru
+displeja se ništa ne prikazuje.
+
+
+[OFF -Isključeno] Modus štednje el. energije nije
+aktivan.
+
+
+
+[ON - Uključeno] Modus štednje el. energije je aktivan.
+
+Napomene:
+ Kodirani televizijski kanali (CANAL+ ili PREMIERE)
+nisu dekodirani u modusu štednje el. energije.
+
+
+Modus štednje el. energije nije moguć u stanju
+pripravnosti za snimanje vremenskim brojačem i kada je
+ureœaj isključen nakon primanja kodiranih televizijskih
+signala (CANAL+ ili PREMIERE).
+
+Napomena:
+Progresivno skeniranje će se onemogućiti u izborniku za
+podešavanja kada je format video izlaza (Video Output
+Format) u izborniku za podešavanja postavljen na RGB.
+Upozorenje
+Jednom kada je podešavanje za izlaz za progresivno
+skeniranje, slika će se moći vidjeti samo na TV ili monitoru
+koji su kompatibilni s formatom signala za progresivno
+skeniranje. Ako greškom postavite Progressive Scan na
+[ON] (uključeno), tada morate resetirati rekorder. Najprije,
+izvadite disk iz rekordera. Zatim pritisnite tipku STOP (x)
+i držite tipku pritisnutu otprilike pet sekundi prije nego
+tipku otpustite. Video izlaz će se ponovno vratiti na
+standardno podešavanje, a slika će se ponovno moći vidjeti
+na konvencionalnom analognom TV-u ili monitoru.
+
+17
+
+Opća podešavanja (Nastavak)
+
+Audio podešavanja
+
+Inicijaliziranje
+
+Svaki DVD disk ima raznovrsne mogućnosti audio izlaza.
+Podesite Audio Output na rekorderu u skladu s vrstom
+audio sistema koji upotrebljavate.
+
+Rekorder možete resetirati na njegovo osnovno tvorničko
+podešavanje i tako inicijalizirati HDD disk.
+ [Factory Set] Ako imate potrebu, možete resetirati
+rekorder tako da je podešen na sve tvorničke postavke.
+Neke postavke nije moguće resetirati. (Ocjenjivanje,
+lozinka, i reginalni kod).
+
+
+[HDD format] Inicijalizira HDD disk (Hard Disk Drive):
+svi podaci koji su snimljeni na HDD disku će biti
+pobrisani.
+
+1. Odaberite mogućnost [Inicijaliziranje], a zatim pritisnite
+tipku B.
+2. Pritisnite tipku v / V kako biste odabrali željenu
+mogućnost, a zatim pritisnite tipku ENTER.
+Pojavit će se poruka za potvrdu.
+
+Dolby Digital / DTS / MPEG
+
+
+[Bitstream]: Odaberite “Bitstream” ako priključujete
+konektor za DIGITAL AUDIO OUT na rekorderu na
+pojačalo ili na drugu opremu s Dolby Digital, DTS ili
+MPEG dekoder.
+
+
+
+[PCM] (za Dolby Digital / MPEG): Odaberite u slučaju
+kada rekorder priključujete na dvo-kanalno digitalno
+stereo pojačalo.
+DVD-i koji su kodirani u Dolby Digital-u ili MPEG-u će
+biti automatski prilagoœeni na dvo-kanalni PCM audio.
+
+
+
+[OFF] (za DTS): Ako odaberete “OFF - isključeno”, DTS
+signal se neće prosljeœivati kroz konektor za DIGITAL
+AUDIO OUT.
+
+3. Upotrijebite tipke b / B kako biste odabrali [OK] ili
+[Cancel], a zatim pritisnite tipku ENTER.
+
+Podešavanje jezika
+
+Frekvencija uzorka
+
+Izbornik za display
+Odaberite jezik za izbornik za podešavanje (Setup) i za
+ekranski displej.
+
+Izbornik za disk / Audio / Titl
+
+18
+
+
+
+[Original] Odnosi se na original jezik na kojem je disk
+snimljen.
+
+
+
+[Others] Za odabir drugog jezika, unesite odgovarajući 4znamenkasti broj s popisa kodova za jezike u poglavlju s
+referencama (pogledajte stranicu 50). Ako unesete
+pogrešni kod za jezik, pritisnite tipku CLEAR.
+
+
+
+[OFF] (za titl na disku) : Isključuje titl.
+
+Ako vaš receiver ili pojačalo NIJE u stanju raditi s
+signalima od 96 kHz, odaberite [48 kHz]. Kada napravite
+ovaj izbor, ovaj će ureœaj automatski pretvarati sve signale
+od 96 kHz u signale od 48 kHz tako da ih vaš sistem može
+dekodirati.
+Ako je vaš receiver ili pojačalo u stanju raditi s
+signalima od 96 kHz, odaberite [96 kHz]. Kada napravite
+ovaj izbor, ovaj će ureœaj prosljeœivati svaki signal bez
+ikakvog daljnjeg obraœivanja.
+
+DRC ( Dinamična kontrola opsega -Dynamic
+Range Control)
+S DVD-e formatom, možete slušati zvučnu snimku na
+najtočniji i najstvarniji mogući način prezentacije,
+zahvaljujući digitalnoj audio tehnologiji. Meœutim, možda
+ćete poželjeti komprimirati dinamičko područje audio izlaza
+(razlika izmeœu najglasnijeg i najtišeg zvuka). Nakon toga
+možete slušati film na nižoj glasnoći a da ne izgubite
+jasnoću zvuka. Podesite DRC na [ON - uključeno] za
+dobijanje ovog efekta.
+
+Postavite lozinku (password)
+1. Odaberite mogućnost [Set Password], a zatim pritisnite
+tipku B.
+2. Slijedite korak 2 na način prikazan u “Rating”.
+Za promjenu lozinke, odaberite [Change], pritisnite
+ENTER, a zatim unesite trenutnu lozinku i unesite novi
+4-znamenkasti kod. Ponovo unesite kod za potvrdu. Za
+brisanje lozinke, odaberite [Delete], pritisnite ENTER, a
+zatim unesite trenutnu lozinku.
+
+Spajanje i
+podešavanje
+
+Podešavanje zaključavanja
+(Roditeljska kontrola)
+
+U slučaju da zaboravite vašu lozinku
+Ako zaboravite svoju lozinku, za brisanje trenutne lozinke
+slijedite dolje opisani postupak.
+
+Ocjenjivanje
+Onemogućuje reproduciranje ocijenjenih DVD-a na osnovu
+njihovog sadržaja. Svi diskovi nisu ocijenjeni.
+1. Odaberite mogućnost [Rating], a zatim pritisnite tipku B.
+2. Za pristup u funkcije: Rating (Ocjenjivanje), Password
+(Lozinka) i Country Code (Kod zemlje) morate unijeti
+4-znamenkasti sigurnosni kod koji ste sami odredili.
+Ako još niste unijeli sigurnosni kod, vas se upozorava
+da to učinite. Unesite 4-znamenkasti kod. Unesite ga još
+jednom za potvrdu. Ako pogriješite, pritisnite tipku
+CLEAR više puta kako biste pobrisali brojeve jedan po
+jedan.
+3. Odaberite ocjenu od 1 do 8 koriteći tipke v / V .
+[1] - [8]: Ocjena (1) postavlja najveća ograničenja, a
+ocjena osam (8) postavlja najmanja ograničenja.
+[No Limit]: Ako odaberete [No Limit], roditeljska
+kontrola neće biti aktivna i disk će se reproducirati u
+cijelosti.
+
+1. Prikaži izbornik za podešavanje (Setup), a zatim
+odaberite ikonu za razinu 1.
+2. Upotrijebite brojčane tipke kako bi unijeli 6-znamenkasti
+broj “210499”.
+3. Odaberite [OK], a zatim pritisnite tipku ENTER. 4znamenkasta lozinka je pobrisana. Unesite novi kod.
+
+Kod područja
+Unesite kod područja čiji su standardi upotrebljeni za
+ocjenjivanje DVD diska, pogledajte popis na strani 50,
+“Kodovi jezika”.
+1. Odaberite mogućnost [Area Code], a zatim pritisnite
+tipku B.
+2. Slijedite korak 2 na način pokazan u “Rating”.
+3. Odaberite prvi karakter koristeći tipke v / V .
+4. Pokrećite kursor koristeći tipku B i izaberite drugi
+karakter koristeći tipke v / V.
+5. Pritisnite tipku ENTER kako biste potvrdili vaš odabir
+koda području.
+
+4. Pritisnite tipku ENTER kako biste potvrdili vaš odabir
+ocjenjivanja.
+Napomena:
+Ako postavite ocjenu za rekorder, prikazivaće se sve disk
+scene s istom ili nižom ocjenom. Više ocjenjene scene se neće
+prikazivati osim ako na disku za njih ne postoji alternativa.
+Alternativa mora imati istu ili nižu ocjenu. Ako ne postoji
+prikladna alternativa, reprodukcija se zaustavlja. Morate
+unijeti 4-znamenkastu lozinku ili morate promijeniti razinu
+ocjenjivanja kako biste nastavili s reprodukcijom diska.
+
+19
+
+Podešavanje snimanja
+
+Podešavanja za disk
+Formatiranje diska
+
+Postavljanje modusa snimanja
+
+Ako ste umetnuli potpuno prazni disk, rekorder će
+inicijalizirati disk.
+DVD-R: Rekorder inicijalizira disk u Video modus.
+Snimanje će uvijek biti u Video modusu.
+DVD-RW/DVD+RW/DVD+R: Pojavit će se Izbornik za
+inicijaliziranje. Odaberite [OK], a zatim pritisnite tipku
+ENTER. DVD-RW disk je inicijaliziran za Video modus.
+Isto tako, vi možete reformatirati DVD-RW/DVD+RW iz
+izbornika za podešavanja (Setup) na dolje prikazani način.
+
+Vi možete postaviti kvalitetu slike za snimanje;
+XP (High Quality – Visoka kvaliteta), SP (Standard
+Quality),
+LP (Low Quality – Niska kvaliteta),
+EP (Extend Quality – Proširena kvaliteta),
+MLP (Maximum Long Play –Maksimalno duga
+reprodukcija)
+
+
+
+
+
+
+XP – Postavka najviše kvalitete, daje otprilike
+1 sat vremena za snimanja na DVD disku (4.7GB).
+SP – Default kvaliteta, dovoljna za većinu potreba, daje
+otprilike 2 sata snimanja na DVD disku (4.7GB).
+LP – Nešto niža video kvaliteta, daje otprilike 4 sata
+snimanja na DVD disku (4.7GB).
+EP – Slaba kvaliteta videa, omogućuje vrijeme snimanje
+na DVD (4.7GB) od 6 sati.
+MLP – Najduže vrijeme snimanja s najslabijom
+kvalitetom videa, omogućuje otprilike 11 sati snimanja
+na DVD (4.7GB).
+
+Napomena:
+Tijekom reprodukcije snimljenog materijala u EP i MLP
+modusu, slika može biti fragmentirana, a titl može biti
+izobličen.
+
+Samo-postavljanje poglavlja (Chapter)
+Kada se vrši DVD ili HDD snimanje, oznake za poglavlja
+se postavljaju u posebnom podešavanju. Ovaj interval
+možete promijeniti na 5 minuta, 10 minuta ili 15 minuta.
+Ako odaberete [None - Ništa], isključit ćete automatsko
+označavanje poglavlja zajedno s [None] podešavanjima.
+
+Timeshift
+Postavite ovu opciju na [ON] kako bi ovaj ureœaj
+automatski koristio Timeshift funkciju bez pritiskanja tipke
+TIMESHIFT. Timeshift funkcija će automatski početi 10
+sekundi nakon što se uključi TV prijemnik modus.
+Ako ovu funkciju želite upotrebljavati ručno, pogledajte
+“Timeshift” na stranici 34.
+ [OFF] Ručna upotreba Timeshift funkcije.
+ [ON] Automatska upotreba Timeshift funkcije.
+
+20
+
+1. Odaberite mogućnost [Disc Format], a zatim pritisnite
+tipku B.
+2. Pritisnite tipku ENTER za vrijeme dok je odabrano [Start].
+Pojavljuje se izbornik za formatiranje diska (Format Disc).
+3. Pritisnite tipku b / B kako biste odabrali željenu
+mogućnost (VR Mode ili Video Mode), a zatim
+pritisnite tipku ENTER.
+Pojavit će se poruka za potvrdu.
+Za DVD+RW diskove, prijeœite na korak 4.
+4. Pritisnite tipku b / B kako biste odabrali [OK], a zatim
+pritisnite tipku ENTER.
+Potrebno je nekoliko minuta da se disk inicijalizira.
+Upozorenje
+Ako želite promijeniti format diska, sav snimljeni
+materijal pohranjen na disku biti će pobrisan.
+
+Finaliziranje
+Finaliziranje ‘fiksira- učvršćuje’ snimljeni materijal na
+njegovom mjestu, tako da se disk može reproducirati na
+običnom DVD player-u ili računalu koje je opremljeno s
+odgovarajućim DVD-ROM pogonom.
+Finaliziranje diska kreira ekran izbornika za kretanje po
+disku. U ovaj izbornik pristupate tako da pritisnete tipku
+MENU/LIST ili TITLE.
+Upozorenje
+
+
+Kada ste jednom finalizirali DVD-R i DVD+R disk, taj
+disk više ne možete ureœivati i na njega više ne možete
+snimati.
+
+
+
+Snimati na i ureœivati DVD-RW disk možete odabirom
+[Unfinalize] opcije.
+
+
+
+Ureœivati i snimati DVD+RW disk možete i nakon
+finaliziranja.
+
+Naziv diska (Disc Label)
+Upotrijebite ovu mogućnost kako biste unijeli naziv za disk.
+Ovaj će se naziv pojaviti kad umetnete disk i kada prikažete
+informacije o disku na ekranu.
+ Naziv za disk može imati najviše 32 znaka.
+ Za diskove koji su formatirani na drugačijem rekorderu,
+vidjet ćete smo ograničeni broj znakova.
+1. Odaberite mogućnost [Disc Label], a zatim pritisnite
+tipku B.
+2. Pritisnite tipku ENTER za vrijeme dok je odabrano
+[Edit].
+Pojavit će se izbornik za tipkovnicu (Keyboard).
+Za unos znakova pogledajte stranu 42.
+
+Spajanje i
+podešavanje
+
+Podešavanja za disk (Nastavak)
+
+Zaštita diska (Disc Protect)
+Kod snimanja na DVD+RW / +R disk ili VR mode
+formatirani DVD-RW disk, postavite postavku [ON uključeno] kako biste spriječili slučajno snimanje,
+ureœivanje ili brisanje umetnutog diska. Ako je potrebno da
+otključate disk kako biste ga mogli ureœivati, odaberite
+postavku [OFF- isključeno].
+
+PBC
+
+1. Odaberite mogućnost [Finalize], a zatim pritisnite tipku B.
+2. Pritisnite tipku ENTER za vrijeme dok je odabrano
+[Finalize].
+Pojavljuje se izbornik za finaliziranje.
+3. Odaberite [OK], a zatim pritisnite tipku ENTER.
+Rekorder započinje finalizirati disk.
+Napomena:
+Koliko će vremena biti potrebno za finaliziranje ovisi o
+vrsti diska, o količini snimljenog materijala i broju naslova
+na disku.
+Savjeti
+ Ako ste umetnili DVD-RW disk koji je već bio
+finaliziran, vi možete poništiti njegovu finalizaciju tako
+da odaberete ‘Unfinalize’ u izborniku za finaliziranje.
+Nako šte ste to učinili, vi taj disk možete ureœivati i na
+njemu možete snimati.
+ Finaliziranje ne možete poništiti na DVD-R i DVD+R
+diskovima.
+ Ako je postavljena mogućnost [Disc Protect –zaštita
+diska] na [ON - uključeno], tada finaliziranje nije moguće.
+Kako biste mogli napraviti finaliziranje diska postavite
+mogućnost [Disc Protect] na [OFF - isključeno].
+
+PBC je kratica za Play Back Control (Upravljanje
+reprodukcijom) i odnosi se na posebne izbornike i
+mogućnosti navigacije koji su mogući na nekim Video CDima.
+ [OFF] Video CD-i se reproduciraju na isti način kao i
+Audio CD-i.
+ [ON ] Video CD-i se reproduciraju u skladu s PBC-om,
+ako je to moguće.
+
+DivX kod za registraciju
+Dodijelit ćemo vam DivX® VOD (Video On Demand Video na zahtjev) registracijski kod koji vam omogućuje
+iznajmljivanje i kupovinu video filmova pomoću usluge
+DivX® VOD. Za više informacija, molimo posjetite
+www.divx.com/vod.
+1. Odaberite opciju [DivX Reg. Code] m a zatim pritisnite
+tipku B.
+2. Pritisnite tipku ENTER tijekom odabiranja opcije
+prikaza [Enter], zatim će se pojaviti registracijski kod.
+3. Registracijski kod uporabite za iznajmljivanje ili
+kupovinu video filmova pomoću usluge DivX® VOD na
+www.divx.com/vod. Slijedite upute na stranici i
+preuzmite video film na disk za reprodukciju na ovom
+ureœaju.
+Napomena:
+Svi video filmovi preuzeti s DivX® VOD namijenjeni su
+reprodukciji isključivo na ovom ureœaju.
+
+21
+
+Općenito o displeju na ekranu
+Ovaj priručnik sadrži osnovne upute za rad s rekorderom.
+Neki DVD-i zahtjevaju posebne operacije ili ili dopuštaju
+samo ograničene operacije tijekom reprodukcije. Kada se to
+dogodi, Na TV ekranu se pojavljuje simbol
+koji ukazuje
+na to da ta operacija nije dopuštena od strane rekordera ili
+nije moguća na tom disku.
+
+Prikazivanje informacije o disku na ekranu
+Vi možete prikazati razne informacije o umetnutom disku
+na ekranu.
+1. Pritisnite tipku DISPLAY jedanput kako biste prikazali
+stanje.
+
+Prikazivanje informacije tijekom gledanja TV-a
+Tijekom gledanja TV-a, pritisnite DISPLAY kako bi
+prikazali/uklonili informaciju koja se prikazuje na
+ekranu.
+
+2. Pritisnite ponovno tipku DISPLAY jedanput kako biste
+prikazali razne informacije o reprodukciji.
+Prikazani sadržaj će se razlikovati ovisno o vrsti diska
+ili stanju reprodukcije.
+
+Pokazuje broj kanala, naziv stanice i audio
+signal (MONO) koje prima tuner.
+Pokazuje modus snimanja,
+slobodan prostor na disku, i
+proteklo vrijeme na liniji
+napredovanja.
+Pokazuje naziv diska
+i format.
+3. Postavku možete izabrati tako da pritisnete tipke v / V,
+a postavku mijenjate ili odabirete tako da pritisnete
+tipku b / B.
+Detalje o svakoj postavci potražite na stranama u
+zagradama.
+
+
+
+
+
+
+
+Pokazuje trenutni audio
+kanal.
+Pokazuje trenutni datum i vrijeme.
+
+22
+
+
+
+[Title]: Broj trenutnog naslova (ili snimak) / ukupan
+broj naslova (ili snimki) (strana 23, 25)
+[Chapter]: Broj trenutnog poglavlja / ukupan broj
+poglavlja (strana 23)
+[Time]: Proteklo vrijeme reprodukcije (strana 25)
+[Audio]: Odabrani audio jezik ( samo za DVD
+VIDEO) ili audio kanal (strana 24)
+[Subtitle]: Odabrani titl (strana 24)
+[Angle]: Odabrani kut / ukupan broj kutova
+(strana 25)
+[Sound]: Odabrani modus za zvuk (strana 26)
+
+Napomena:
+Ako nijedna tipka nije pritisnuta tijekom 10 sekundi, displej
+na ekranu će nestati.
+
+Reprodukcija
+Općenite karakteristike reprodukcije
+
+Tipke
+
+Operacije
+
+Diskovi
+
+OPEN / CLOSE (Z)
+
+Otvara ili zatvara ladicu za disk.
+
+Svi diskovi
+
+PAUSE/STEP (X)
+
+Tijekom reprodukcije, pritisnite tipku PAUSE/STEP (X) kako bi
+pauzirali reprodukciju.
+
+Svi diskovi i HDD
+
+Pritisnite tipku PAUSE/STEP (X) više puta kako bi reprodukciju
+vršili okvir po okvir.
+Savjet:
+Sliku možete pomicati naprijed ili nazad okvir po okvir pritiskom
+na tipke b / B više puta tijekom modusa PAUZA.
+Za Video CD nije moguće pomicati sliku okvir po okvir.
+SKIP (. / >)
+
+Tijekom reprodukcije, pritisnite tipku SKIP (. ili >) za
+odlazak na sljedeće poglavlje/ snimku ili kako bi se vratili na
+početak trenutnog poglavlja /snimke.
+Pritisnite tipku SKIP . dvaput kratko kako bi se vratili na
+prthodno poglavlje/snimku.
+
+HDD
+
+DVD ALL
+
+VCD
+
+HDD
+
+DVD ALL
+
+VCD
+
+DivX
+
+ACD
+
+Reprodukcija
+
+1. Odabrani disk umetnite u ladicu, tako da strana za reprodukciju gleda dolje.
+2. Pokrenite reprodukciju pomoću početnog izbornika (HOME) (pogledajte stranicu 15).
+3. Za zaustavljanje reprodukcije, pritisnite tipku STOP (x).
+Ureœaj snima zaustavljenu točku, ovisno o disku. Na ekranu se kratko pojavljuje “Xx”.
+Pritisnite tipku PLAY (N) kako biste nastavili reprodukciju (od točke zadnje scene). Ako ponovo pritisnete tipku
+STOP (x) ili izvadite disk (“x” se pojavljuje na ekranu), ureœaj će pobrisati točku zaustavljanja.
+4. Pritisnite tipku OPEN/CLOSE (Z) (Otvori/Zatvori) kako bi izvadili disk.
+Pritisnite tipku OPEN/CLOSE (Z) (Otvori/Zatvori) kako bi zatvorili ladicu za disk ili pritisnite tipku POWER (1),
+ladica za disk će se automatski zatvoriti, a ureœaj će se isključiti.
+Napomena:
+Ako je postavljena roditeljska kontrola, a disk nije unutar ocijenjenih postavki (nije ovlašten), tada se mora unijeti 4znamenkasti broj i/ili disk mora biti autoriziran (“Ocjenjivanje”, na stranici 19).
+
+MP3
+
+WMA
+
+Savjeti:
+ Za izravan odlazak na bilo koje poglavlje tijekom DVD
+reprodukcije, pritisnite tipku DISPLAY dvaput i i pritisnite
+tipku v / V kako biste odabrali ikonu za poglavlje. Zatim
+unesite broj poglavlja ili upotrijebite tipke b / B.
+ Na Audio CD-u, za izravan odlazak na snimku, unesite broj
+snimke pomoću brojčanih tipki (0-9) tijekom reprodukcije.
+SCAN (m / M)
+
+ZOOM
+
+Tijekom reprodukcije, pritisnite tipku SCAN (m ili M) više
+puta kako biste odabrali željenu brzinu skeniranja.
+HDD, DVD; 5 koraka
+Video CD, DivX, Audio CD; 3 koraka
+
+HDD
+
+DVD ALL
+
+VCD
+
+DivX
+
+ACD
+
+Kada je reprodukcija pauzirana, pritisnite tipku
+SCAN (m ili M) više puta kako bi reproducirali usporeno.
+HDD, DVD; 4 koraka
+Video CD; 4 koraka (samo naprijed)
+
+HDD
+
+DVD ALL
+
+VCD
+
+Tijekom reprodukcije ili modusa pauza, pritisnite tipku ZOOM
+kako bi uvećali video sliku.
+(x1 veličina → x2 veličina → x4 veličina → x1 veličina
+(normalna veličina)).
+Kroz uvećanu sliku se možete kretati pomoću tipki b B v V
+
+HDD
+
+DVD ALL
+
+VCD
+
+23
+
+Općenite karakteristike reprodukcije (Nastavak)
+Tipke
+
+Operacije
+
+REPEAT
+
+Tijekom reprodukcije, pritisnite više puta tipku REPEAT kako
+biste odabrali željeni način ponavljanja.
+HDD, DVD, Video modus DVD-R/RW, DVD+R/RW
+(Chapter/Title/Off)
+VR modus DVD-RW (Chapter/Title/All/Off)
+Video CD, Audio CD (Track/All/Off)
+MP3/WMA (Track/Folder/Off)
+Napomene:
+ Na Video CD-u s PBC morate PBC postaviti na [OFF Isključeno] u izborniku za podešavanja kako bi mogli koristiti
+funkciju za ponavljanje. Pogledajte stranicu 21.
+ Ako pritisnete tipku SKIP (>) tijekom ponavljanja
+reprodukcije poglavlja (snimke), tada se poništava ponavljana
+reprodukcija.
+
+HDD
+
+DVD ALL
+
+ACD
+
+MP3 WMA
+
+Tijekom reprodukcije, svaki pritisak tipke A-B, kako biste
+odabrali točku A i točku B i ponovili isječak od točke A (Početna
+točka) do točke B (Krajnja točka).
+Pritisnite A-B kako bi zaustavili A-B ponavljanje.
+Napomena:
+Ne možete odabrati isječak manji od 5 sekundi.
+
+HDD
+
+DVD ALL
+
+A-B
+
+Diskovi
+
+Ako trenutni DVD naslov ima izbornik, na ekranu će se pojaviti
+DVD
+izbornik za naslov. U protivnom se može pojaviti izbornik za disk.
+
+MENU/LIST
+
+Ne ekranu se pojavljuje izbornik za disk.
+
+AUDIO (
+
+)
+
+)
+
+DVD
+
+DVD
+Tijekom reprodukcije, pritisnite tipku SUBTITLE, a zatim
+pritisnite tipku b / B više puta kako biste odabrali željeni jezik za
+titl.
+
+DivX
+
+DVD
+
+DivX
+
+HDD
+
+-RWVR
+
+Pritisnite AUDIO, a zatim više puta pritisnite b / B kako biste
+čuli razne audio jezike, audio kanale ili načine kodiranja.
+
+VCD
+
+ACD
+
+TITLE
+
+SUBTITLE (
+
+VCD
+
+Napomena:
+Neki diskovi imaju snimke snimljene kao Dolby Digital i DTS.
+Kada je odabran DTS nema analognog audio izlaza. Za slušanje
+DTS snimke, spojite ovaj rekorder na DTS dekoder preko jednog
+od digitalnih izlaza.
+Pogledajte stranicu 12 za detalje o priključivanju.
+Pritisnite tipku AUDIO, a zatim pritisnite tipku b / B više puta
+tijekom reprodukcije kako biste čuli različite audio kanale
+(STEREO, LEFT (Lijevo) ili RIGHT (Desno)).
+
+24
+
++RW
+VCD
+
+-R
+
+-RWVideo
++R
+
+Izbornik za ekran se može prikazati najprije nakon umetanja
+DVD-a ili Video CD-a koji sadrže izbornik.
+DVD
+Upotrijebite tipke b / B / v / V kako biste odabrali naslov
+/ poglavlje koje želite gledati, a zatim pritisnite tipku
+ENTER da započnete reprodukciju.
+Pritisnite tipku TITLE ili MENU/LIST kako biste se vratili
+u izbornik za ekran.
+VCD
+ Upotrijebite brojčane tipke kako biste odabrali snimku
+koju želite gledati. Pritisnite tipku RETURN (O) kako
+biste se vratili u izbornik za ekran.
+ Podešavanja u izborniku i točni postupci rada se mogu
+razlikovati ovisno o disku. Slijedite upute koje su date u
+svakom izborniku za ekran. Takoœer možete postaviti
+PBC na OFF- isključeno u izborniku za podešavanja
+(Setup). Pogledajte stranu 21).
+
+Prelazak na sljedeći naslov (TITLE)
+HDD
+
+DVD ALL
+
+DivX
+
+Ako disk sadrži više od jednog naslova možete prijeći na
+drugi naslov na sljedeći način:
+ Pritisnite tipku DISPLAY davput tijekom reprodukcije, a
+zatim upotrijebite tipke v / V kako biste odabrali ikonu
+za naslov. Zatim, pritisnite odgovarajuću brojčanu tipku
+(0-9) ili b / B kako biste odabrali broj naslova.
+
+Traženje oznake (Marker)
+HDD
+
+DVD ALL
+
+VCD
+
+Unošenje oznake
+Reprodukciju možete započeti s memorirane oznake, može
+se unijeti do šest oznaka. Za unošenje oznaka (mark),
+pritisnite tipku MARKER na željenoj točki na disku.
+Ikona Marker pojavit će se na kratko na TV ekranu.
+Ponovite isto za unošenje do šest oznaka.
+Pozivanje ili brisanje označene scene
+1. Tijekom reprodukcije diska, pritisnite tipku SEARCH.
+Na ekranu će se pojaviti izbornik za tražnje oznaka
+(marker search).
+2. Upotrijebite tipke b / B / v / V kako biste pozvali ili
+pobrisali označene scene.
+
+Reprodukcija
+
+Ako je prikazan izbornik za ekran DVD VCD
+
+3. Pritisnite tipku ENTER i reprodukcija će započeti od
+označene scene.
+ili
+Pritisnite CLEAR i pojavit će se poruka za potvrdu.
+Odaberite [OK] i pritisnite ENTER kako bi obrisali
+scenu iz izbornika za traženje oznake.
+
+Traženje vremena (Time Search)
+HDD
+
+DVD ALL
+
+DivX
+
+Kako biste počeli s reprodukcijom na bilo kojem
+odabranom vremenu na disku:
+1. Pritisnite tipku DISPLAY dva puta tijekom
+reprodukcije. Kvadrat za traženje vremena prikazuje
+proteklo vrijeme reprodukcije.
+2. Pritisnite tipku v / V kako biste odabrali ikonu za
+vrijeme sata i pojavit će se “0:00:00”.
+3. Unesite potrebno početno vrijeme u satima, minutama i
+sekundama s lijeva na desno. Ako unesete pogrešno
+vrijeme, pritisnite tipke b / B za kretanje unutar
+prozora, da doœete do pogrešnog broja.
+Zatim unesite ispravno vrijeme.
+4. Pritisnite tipku ENTER za potvrdu. Reprodukcija će
+početi od postavljenog vremena.
+
+Kut kamere DVD
+Ako disk sadrži scene koje su snimljene pod različitim
+kutovima kamere, vi možete promijeniti kut kamere tijekom
+reprodukcije.
+1. Pritisnite dvaput DISPLAY tijekom reprodukcije.
+Na TV ekranu će se pojaviti displej na ekranu.
+2. Upotrijebite tipke v / V kako biste odabrali ikonu za
+kut u displeju na ekranu.
+3. Upotrijebite tipke b / B kako biste odabrali željeni kut.
+Broj trenutnog kuta se pojavljuje naTV ekranu.
+Savjet:
+Indikator za kut (ANGLE) će treptati na TV ekranu na
+scenama koje su snimljene pod raličitim kutovima kako bi
+vam pokazao da je moguće mijenjanje kuteva kamere.
+
+25
+
+3D Surround DVD ALL VCD
+Ovaj ureœaj može proizvesti 3D Surround učinak, koji
+simulira više-kanalnu audio reprodukciju na dva
+konvencionalna stereo zvučnika, umjesto da imate pet ili
+više zvučnika koji su normalno potrebni za slušanje višekanalnog audia na sistemu kućnog kina.
+1. Pritisnite dvaput DISPLAY tijekom reprodukcije.
+Na TV ekranu će se pojaviti displej na ekranu.
+2. Upotrijebite tipke v / V kako biste odabrali ikonu za
+Zvuk na displeju na ekranu.
+3. Upotrijebite tipke b / B kako biste odabrali
+“3D SUR.”.
+Za isključivanje 3D Surround efekta, odaberite
+“NORMAL”.
+
+Memoriranje zadnjeg stanja DVD
+Ovaj rekorder memorira podešavanja koja je korisnik
+odabrao za zadnji disk koji je gledao. Podešavanja ostaju u
+memoriji čak i onda kada disk izvadite iz rekordera ili kada
+isključite rekorder. Ako umetnete u rekorder disk koji je
+imao memorirana svoja podešavanja, pozvat će se
+automatski zadnje mjesto zaustavljanja.
+Napomene:
+
+26
+
+
+
+Podešavanja su pospremljena u memoriju kako bi se
+mogla upotrebljavati u bilo koje vrijeme.
+
+
+
+Ovaj rekorder ne memorira postavke za disk, ako
+pritisnete dvaput STOP ili ako isključite rekorder prije
+nego krenete reproducirati disk.
+
+Ovaj rekorder može reproducirati DivX datoteke. Prije
+reprodukcije DivX datoteka, pročitajte na desnoj strani
+“DivX datoteka zahtjevi”.
+1. Pritisnite tipku HOME, a zatim odaberite opciju
+[MOVIE].
+2. Odaberite medij koji sadrži DivX datoteku(e), a zatim
+pritisnite tipku ENTER.
+Izbornik za [Movie List] se pojavljuje na TV ekranu.
+
+Mogućnosti izbornika za popis filmova
+(Movie List)
+1. Pritisnite tipke v / V kako biste odabrali
+folder/datoteku u izborniku za [Movie List], a zatim
+pritisnite tipku ENTER.
+Pojavit će se izbornik za [Movie List].
+Prikazane opcije izbornika se razlikuju ovisno o
+odabranom mediju.
+2. Pritisnite tipku v / V / b / B kako biste odabrali
+mogućnost, a zatim pritisnite tipku ENTER.
+
+
+
+
+
+
+
+3. Pritisnite tipke v / V kako biste odabrali folder, a zatim
+pritisnite tipku ENTER.
+Pojavit će se popis datoteka u folderu. Ako se nalazite
+na strani s popisom datoteka a želite se vratiti u popis
+foldera, upotrijebite tipke v / V na daljinskom
+upravljaču kako biste jače osvijetlili odabrani
+i
+pritisnite tipku ENTER.
+4. Ako želite pogledati odreœenu datoteku, pritisnite tipke
+v / V kako biste jače osvijetlili odabranu datoteku i
+pritisnite tipku PLAY (N).
+Vi možete upotrijebiti različite funkcije za reprodukciju.
+Pogledajte više na stranama 23-26.
+5. Pritisnite tipku STOP (x) kako biste zaustavili
+reprodukciju. Pojavit će se izbornik za [Movie List].
+ Za izlazak iz ekrana s izbornikom, pritisnite
+RETURN (O)
+
+Napomena za prikazivanje DivX titla
+Ako se titlovi ne prikažu pravilno, molimo slijedite korake
+dolje.
+1. Pritisnite tipku PAUSE/STEP kada se titl pojavljuje.
+2. Pritisnite i držite tipku SUBTITLE otprilike 3 sekunde.
+Pojavit će se kod jezika.
+3. Pritisnite tipku b / B kako biste odabrali drugi kod za
+jezik sve dok se titl ne pravilno prikaže.
+4. Pritisnite tipku PLAY (N) za nastavak reprodukcije.
+
+[Play] Započinje reprodukciju odabranog titla.
+[Open] Otvara folder i pojavljuje se popis datoteka u
+folderu.
+[Delete] Briše datoteku(e) ili folder(e) s medija.
+[Rename] Ureœuje naziv za datoteku. (strana 31)
+[Move] Premješta datoteku(e) u drugi folder ili
+medij. (strana 32)
+[Copy] Kopira datoteku(e) u drugi folder ili medij.
+(strana 32)
+
+Reprodukcija
+
+Reprodukcija DivX filmske
+datoteke
+
+DivX datoteka zahtjevi
+Moguća veličina rezolucije: 720x576 (š x v) pixel
+DivX datoteka ekstenzije: “.avi”, “.divx
+DivX titl koji se može reproducirati: “.smi”, “.srt”,
+“.ssa”, “.sub (Mikro DVD, Subviewer 1.0/2.0)”,
+“.txt (TM player, DVD titl sistem)”
+Codec format koji se može reproducirati:
+“DIVX3.xx”, “DIVX4.xx”, “DIVX5.xx”
+Audio format koji se može reproducirati:
+“AC3”, “MP3”
+ Frekvencija uzorka (Sampling frequency):
+unutar 8 - 48 kHz (MP3)
+ Bit rate:
+unutar 8 - 320kbps (MP3)
+CD-R format: ISO 9660 i JOLIET.
+DVD±R/RW format: ISO 9660 (UDF Bridge format)
+Maksimum datoteka/folder: Manje od 2000
+Napomene o DivX formatu
+ Ako je broj okvira manji od 29.97 okvira po sekundi,
+ovaj ureœaj možda neće pravilno raditi.
+ Ako u nazivu DivX datoteke postoji kod koji se ne
+može izraziti, on se može prikazati kao “*” oznaka.
+
+
+
+Ako video i audio struktura snimljene datoteke nije
+interleaved, vrati se na ekran s izbornikom.
+Ovaj ureœaj ne podržava DivX datoteku snimljenu
+pomoću GMC (Global Motion Compensation).
+
+Napomena:
+Naziv DivX titl datoteke mora se identificirati s nazivom
+DivX datoteke kako bi ga ovaj ureœaj prikazivao.
+
+27
+
+Reprodukcija Audio CD ili
+MP3/WMA datoteka
+Rekorder može reproducirati audio CD-e i MP3/WMA
+datoteke.
+Prije reprodukcije MP3/WMA datoteka, pročitajte
+“MP3/WMA audio datoteka zahtjevi” na desnoj strani.
+1. Pritisnite tipku HOME.
+Pojavit će se početni izbornik (Home).
+2. Odaberite opciju [MUSIC].
+3. Odaberite medij koji sadrži MP3/WMA ili audio naslov,
+a zatim pritisnite tipku ENTER.
+Izbornik [Music List] se pojavljuje na TV ekranu.
+
+4. Upotrijebite tipke v/V kako biste odabrali snimak i
+zatim pritisnite tipku PLAY (N).
+Započinje reprodukcija.
+Možete vidjeti razne funkcije za reprodukciju.
+Pogledajte stranice 23-24.
+Savjeti:
+Pritisnite tipku DISPLAY kako biste vidjeli ID3-Tag
+informaciju za MP3 datoteku. Ako ID3-Tag
+informacija nije prisutna, [ID3-Tag: Not Checked] će
+se pojaviti. Ako vi odaberete folder, broj pod-foldera
+i broj MP3/WMA datoteka u folderu će se prikazati
+na displeju. Pritisnite tipku DISPLAY ponovno kako
+biste uklonili informaciju na ekranu.
+ Ako želite prijeći na viši direktorij, upotrijebite tipke
+v / V kako biste jače osvijetlili direktorij,
+a
+zatim pritisnite tipku ENTER.
+ Takoœer možete prikazati HOME izbornik kako biste
+odabrali drugi medij pritiskom na tipku HOME.
+ Za izlazak iz ekrana izbornika, pritisnite HOME i
+odaberite [TV DVD] ili [TV HDD] opciju, a zatim
+pritisnite ENTER.
+
+
+5. Kako biste zaustavili reprodukciju u bilo koje vrijeme,
+pritisnite tipku STOP (x).
+Savjet:
+Možete kreirati novi folder. Odaberite [New Album] opciju
+u izborniku za glazbu Music-HDD, a zatim pritisnite
+ENTER. Kreiran je “NONAME##” folder.
+
+Mogućnosti izbornika za audio CD i glazbu
+1. Pritisnite tipku v / V kako biste odabrali, a
+folder/datoteka izborniku za audio CD ili glazbu, a
+zatim pritisnite tipku ENTER.
+Pojavit će se mogućnosti izbornika.
+Prikazane opcije za izbornik se razlikuju ovisno o
+odabranom mediju.
+2. Pritisnite tipku v / V / b / B kako biste odabrali jednu
+mogućnost, a zatim pritisnite tipku ENTER.
+ [Play] Započinje reprodukciju odabranog naslova.
+ [Random -Nasumično] Start ili Stop za reprodukciju
+prema nasumičnom odabiru
+ [Open] Otvara folder i pojavljuje se popis datoteka u
+folderu.
+ [Delete] Briše datoteku(e) s medija.
+ [Rename] Ureœuje naziv za datoteku. (strana 31)
+ [Move] Premješta datoteku(e) u neki drugi folder ili
+medij. (strana 32)
+ [Copy] Kopira datoteku(e) u neki drugi folder ili
+medij. (strana 32)
+
+Reprodukcija nasumičnim odabirom
+(Random)
+1. Pritisnite tipku v / V kako biste odabrali datoteku, a
+zatim pritisnite tipku ENTER.
+Pojavljuju se opcije izbornika.
+2. Pritisnite tipku v / V kako biste odabrali [Random]
+opciju, a zatim pritisnite tipku ENTER.
+Ureœaj automatski započinje reprodukciju, a na ekranu
+izbornika se pokazuje “RANDOM”.
+3. Za povratak u normalnu reprodukciju, odaberite ponovo
+[Random] opciju, a zatim ponovo pritisnite tipku
+ENTER.
+Savjet:
+Pritiskom na tipku SKIP > tijekom Random
+reprodukcije, ureœaj će odabrati drugu snimku i nastaviti će
+reprodukciju prema nasumičnom odabiru.
+
+MP3/WMA audio datoteka zahtjevi
+Ekstenzija datoteke:
+“.mp3”, “.wma”.
+Sampling frequency:
+unutar 8 - 48 kHz (MP3), unutar 32 - 48kHz (WMA)
+Bit rate:
+unutar 8 - 320kbps (MP3), unutar 32 - 192kbps (WMA)
+CD-R format:
+ISO 9660 i JOLIET.
+DVD±R/RW format:
+ISO 9660 (UDF Bridge format)
+Maksimum datoteka/folder:
+Manje od 2000
+
+28
+
+Rekorder može reproducirati JPEG datoteke. Prije
+reproduciranja JPEG snimanja, pročitajte “Foto datoteka
+zzahtjevi” na desnoj strani.
+1. Pritisnite tipku HOME.
+Pojavit će se početni izbornik (Home).
+2. Odaberite [PHOTO] opciju.
+3. Odaberite medij koji sadrži JPEG datoteka, a zatim
+pritisnite tipku ENTER.
+Pojavit će se izbornik za [Photo List] na TV ekranu.
+
+4. Upotrijebite tipke b / B / v / V kako biste odabrali
+datoteku, a zatim pritisnite tipku ENTER. Mogućnosti
+izbornika će se pojaviti na lijevoj strani izbornika.
+Savjeti:
+Ako želite prijeći na viši direktorij, upotrijebite tipke
+b / B / v / V kako biste jače osvijetlili direktorij,
+a
+zatim pritisnite tipku ENTER.
+ Vi možete takoœer prikazati početni izbornik (HOME)
+kako biste odabrali drugi medij tako da pritisnite tipku
+HOME.
+
+
+5. Upotrijebite tipke v / V kako biste odabrali [Full
+Screen] mogućnost, a zatim pritisnite tipku ENTER.
+Odabrana slika će se potpuno prikazati na ekranu.
+Ovisno o veličini i broju JPEG datoteka, rekorderu
+može trebati puno vremena za čitanje datoteka.
+
+Mogućnosti izbornika za popis fotografija
+(Photo List)
+1. Pritisnite tipke v / V kako biste odabrali datoteku u
+[Photo List], a zatim pritisnite tipku ENTER.
+Pojavit će se mogućnosti izbornika.
+Ovisno o odabranom mediju razlikovat će se prikazane
+opcije odabranog medija.
+Vi možete odabrati sve datoteke i foldere u izborniku
+tako da pritisnete tipku CLEAR. Kako biste poništili
+odabreno, ponovo pritisnite tipku CLEAR.
+
+Odabiranje višestrukih datoteka (foldera)
+1. Pritisnite tipku MARKER.
+Oznaka će se pojaviti na datoteci/snimci ili folderu.
+Pritisnite ponovo tipku MARKER kako biste
+poništili označenu datoteku/snimku ili folder.
+2. Ponovite korak 1 kako biste označili dodatnu
+datoteku/snimku (foldere).
+
+Reprodukcija
+
+Gledanje JPEG datoteke
+
+2. Upotrijebite tipke v / V kako biste odabrali jednu
+mogućnost, a zatim pritisnite tipku ENTER za potvrdu
+svog izbora.
+ [Open] Otvara folder i pojavljuje se popis datoteka u
+folderu.
+ [Full Screen] Prikazuje odabranu datoteku na punom
+ekranu.
+ [Delete] Briše odabranu datoteku s medija.
+ [Slide Show] Prikazuje izbornik za Slide Show.
+ [Rename] Ureœuje naziv za datoteku. (strana 31)
+ [Move] Premješta datoteku(e) u drugi folder (album)
+ili medij. (strana 32).
+ [Copy] Kopira datoteku(e) u drugi folder ili medij.
+(strana 32)
+Savjet:
+Vi možete napraviti novi folder na HDD disku. Odaberite
+[New Album] mogućnost, a zatim pritisnite tipku ENTER.
+“NONAME##” folder je napravljen.
+
+Foto datoteka zahtjevi
+Ekstenzija datoteke
+“.jpg”
+Veličina foto:
+Preporučuje se manje od 4MB
+CD-R format:
+ISO 9660 i JOLIET.
+Pritisnite tipku ENTER, kako bi se ovaj izbornik pojavio ili
+izgubio tijekom gledanja punog ekrana.
+
+DVD±R/RW format:
+ISO 9660 (UDF Bridge format)
+
+6. Kako biste u bilo koje vrijeme zaustavili gledanje,
+pritisnite tipku STOP (x).
+Pojavit će se izbornik za [Photo List].
+ Za izlazak iz ekrana izbornika, pritisnite HOME i
+odaberite [TV DVD] ili [TV HDD] opciju, a zatim
+pritisnite ENTER.
+
+Maksimum datoteka /folder:
+Manje od 2000
+Napomene o JPEG datoteci
+ Progresivna i bez gubitaka kompresija JPEG slikovnih
+datoteka nisu podržane.
+ Ovisno o veličini i broju JPEG datoteke, učitavanje
+medija može potrajati nekoliko minuta.
+
+29
+
+Preskaknje slika (Skip Images)
+Za vrijeme gledanja slika, pritisnite tipku
+SKIP (. ili >) jedanput kako biste prešli na sljedeću
+datoteku ili se vratili na prethodnu datoteku.
+
+Okretanje slika (Rotate Images)
+Upotrijebite tipke v / V tijekom gledanja slike kako biste
+okrenuli sliku u smjeru kretanja sata ili suprotno.
+
+Gledanje Slide Show-a
+1. Odaberite [Slide Show] mogućnost u izborniku za
+[Photo List].
+(Pogledajte “Mogućnosti izbornika za Photo List” na
+strani 29).
+2. Pritisnite tipku ENTER.
+Pojavit će se izbornik za Slide Show.
+
+3. Upotrijebite b / B / v / V kako biste postavili
+mogućnosti.
+[Object] mogućnost:
+ [Selected] Gleda na način slide show-a samo
+odabrane datoteke. Upotrijebite tipku MARKER
+kako biste odabrali višestruke datoteke.
+
+
+[All] Gleda na način slide show-a sve datoteke.
+
+[Speed] mogućnost:
+Postavlja brzinu prikazivanja Slide Show-a na [Slow polako], [Normal], ili [Fast - brzo].
+4. Odaberite [Start] mogućnost, a zatim pritisnite tipku
+ENTER za početak Slide Show-a.
+5. Pritisnite tipku STOP (x) kako biste zaustavili Slide
+Show i vratili se u izbornik za [Photo List].
+Pauziranje Slide Show-a
+1. Pritisnite tipku PAUSE/STEP (X) kako biste pauzirali
+show.
+2. Kada želite nastaviti sa slide show-om, pritisnite tipku
+tipku PLAY (N).
+
+30
+
+Ureœivanje MP3/WMA, JPEG i
+DivX datoteka
+Ovi opisi rada s MP3 datotekama služe samo kao primjer,
+sa datotekama drugih vrsta se radi na isti način.
+
+Postavljanje naziva za datoteku na HDD
+disku
+MP3/WMA nazive datoteka možete postavljati nezavisno
+na HDD disku. Nazivi mogu imati najviše 32 znaka.
+
+Brisanje datoteke(a)/foldera(a) s HDD diska
+
+1. Odaberite u izborniku datoteku kojoj želite promijeniti
+naziv.
+
+MP3/WMA, JPEG ili DivX datoteku(e)/folder(e) možete
+pobrisati na HDD disku.
+
+2. Pritisnite tipku ENTER.
+Mogućnosti izbornika će se pojaviti u izborniku.
+
+1. Odaberite u izborniku datoteku koju želite pobrisati.
+Vi možete odabrati sve datoteke i foldere izborniku tako
+da pritisnete tipku CLEAR. Kako biste poništili prije
+odabrano, ponovo pritisnite tipku CLEAR.
+
+3. Odaberite [Edit] mogućnost, a zatim pritisnite tipku
+ENTER.
+Pojavit će se mogućnosti za ureœivanje (Edit).
+
+Odabiranje višestrukih datoteka (foldera)
+
+Reprodukcija
+
+1. Pritisnite tipku MARKER.
+Oznaka će se pojaviti na datoteci/snimci ili folderu.
+Pritisnite ponovo tipku MARKER kako biste
+poništili označenu datoteku/snimku ili folder.
+2. Ponovite korak 1 kako biste označili dodatnu
+datoteku/snimku (foldere).
+2. Pritisnite tipku ENTER.
+Mogućnosti izbornika će se pojaviti u izborniku.
+
+4. Odaberite [Rename] mogućnost, a zatim pritisnite tipku
+ENTER.
+Pojavit će se izbornik za tipkovnicu.
+Za unos znakova pogledajte stranu 42.
+
+3. Odaberite [Delete] opciju, a zatim pritisnite ENTER.
+Pojavit će se poruka za potvrdu brisanja.
+Upotrijebite b / B kako biste odabrali [OK], a zatim
+pritisnite ENTER.
+Odabrana datoteka(e) je obrisana.
+
+31
+
+Kopiranje datoteke(a) na HDD
+Datoteku(e)/folder(e) možete kopirati na HDD.
+
+Premještanje datoteke(a) u drugi folder na
+HDD
+
+1. Odaberite u izborniku datoteku koju želite kopirati.
+Vi možete odaberati sve datoteke i foldere u izborniku
+tako da pritisnete tipku CLEAR. Kako biste poništili
+odbrano, ponovo pritisnite tipku CLEAR.
+
+Datoteku(e)/folder(e) možete premještati u drugi folder na
+HDD. Nakon premještanja, datoteka(e)/folder(i) su
+pobrisani na trenutnoj lokaciji.
+
+Odabiranje višestrukih datoteka (foldera)
+
+2. Odaberite [Move] mogućnost, a zatim pritisnite tipku
+ENTER.
+Pojavit će se izbornik za premještanje (Move).
+
+1. Pritisnite tipku MARKER.
+Oznaka će se pojaviti na datoteci/snimci ili folderu.
+Pritisnite ponovo tipku MARKER kako biste
+poništili označenu datoteku/snimku ili folder.
+2. Ponovite korak 1 kako biste označili dodatnu
+datoteku/snimku (foldere).
+2. Pritisnite tipku ENTER.
+Mogućnosti izbornika će se pojaviti u izborniku.
+3. Odaberite [Edit] mogućnost a zatim pritisnite tipku
+ENTER.
+Pojavit će se mogućnost za ureœivanje (Edit).
+4. Odaberite [Copy] mogućnost, a zatim pritisnite tipku
+ENTER.
+Pojavit će se mogućnost za kopiranje (Copy).
+
+1. Slijedite korake 1-3 na način prikazan na lijevoj strani.
+
+3. Vi možete odabrati album (folder) za premještanje.
+1. Prvo odaberite medij, a zatim pritisnite tipku
+ENTER.
+Pojavit će se popis albuma (foldera).
+2. Odaberite folder.
+Takoœer, možete napraviti novi album (folder).
+Odaberite [New Album] mogućnost u izborniku za
+kopiranje, a zatim pritisnite tipku ENTER.
+Napravljen je “NONAME##” folder.
+4. Odaberite [Move] mogućnost, a zatim pritisnite tipku
+ENTER da započnete premještanje.
+
+5. Vi možete odabrati album (folder) za kopiranje.
+1. Nakon izbora medija a zatim pritisnite tipku
+ENTER.
+Pojavit će se popis albuma (foldera).
+2. Odaberite folder.
+Takoœer, možete napraviti novi album (folder).
+Odaberite [New Album] mogućnost u izborniku za
+kopiranje, a zatim pritisnite tipku ENTER.
+Napravljen je “NONAME##” folder.
+6. Odaberite [Copy] mogućnost, a zatim pritisnite tipku
+ENTER da započnete kopiranje.
+
+Napomene:
+• Ako je dubina foldera veća od 5 razina, tada nije
+moguće kopiranje.
+• Ako je veličina datoteke veća od 2GB, kopiranje nije
+moguće.
+32
+
+Napomena:
+Ako je veličina datoteke veća od 2GB, premještanje nije
+moguće..
+
+Više o DVD snimanju
+Napomene:
+ Ovaj rekorder ne može snimati na CD-R ili CD-RW
+diskove.
+ Naša kompanija ne preuzima nikavu odgovornost za
+greške kod snimanja koje nastaju zbog nestanka el.
+struje, neispravnih diskova ili oštećenja na rekorderu.
+ Otisci prstiju i male ogrebotine na disku mogu utjecati na
+kvalitetu reprodukcije i/ili snimanja. Molimo čuvajte
+svoje diskove na pravilan način.
+
+Napomene:
+ Maksimalan broj naslova koje možete snimiti na HDD
+disk je 255.
+ Upotreba HDD diska vam omogućuje neprestano
+snimanje od maksimalno 10 sati.
+
+Napomene za snimanje
+
+
+
+
+
+
+Vrste diskova i formati, modusi i postavke za
+snimanje
+Ovaj rekorder može reproducirati razne vrste DVD diskova:
+prije-snimljenih DVD-Video diskova, DVD-RW, DVD-R,
+DVD+RW and DVD+R diskova. Disk format za DVD-R,
+DVD+R, DVD+RW diskove je uvijek “Video format” —
+isti kao i kod prije-snimljenih DVD-Video diskova.
+To znači da možete, jednom kad su finalizirani,
+reproducirati DVD-R, DVD+R, ili DVD+RW diskove na
+običnom DVD player-u.
+Kao zadana postavka (default), format DVD-RW diska je
+Video format, iako vi to možete promijeniti u Video
+Recording (VR) format, ako je potrebno. (Ponovno
+inicijaliziranje diska će pobrisati sadržaj diska.)
+Modus snimanja je usko vezan s formatom diska. Ako je
+disk format Video Recording format, tada je modus
+snimanja VR modus; ako je format disk Video modus, tada
+je modus snimanja Video modus (osim za DVD-Video, koji
+nije za snimanje, i zato nema modus za snimanje).
+Unutar modusa snimanja (koj isu postavljeni za cijeli disk i
+ne mijenjaju se) nalaze se postavke za snimanje. Ove se
+postavke mogu prema potrebi promijeniti za svako
+snimanje i mogu odrediti kvalitetu slike i količinu prostora
+potrebnog da se snimljeni materijal pohrani na disk.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Više o HDD snimanju
+Snimanje na unutarnji tvrdi disk (hard disk drive (HDD)) je
+u osnovi slično snimanju na DVD-RW disk VR modusa.
+Imate mogućnost izbora različitih kvaliteta snimanja,
+uključujući i ručni modus, i naravno vi možete snimati,
+brisati, presnimavati kolikogod puta želite. Kapacitet tvrdog
+diska znači da na njega možete pospremiti mnogo sati
+videa, čak i u najvišoj kvaliteti modusa za snimanje. Kako
+bi vam pomogao organizirati sadržaj, HDD disk je
+podijeljen na deset žanrova. Ove žanrove možete nazivati i
+upotrebljavati kako god vi to želite — na primjer, možete
+imati jedan žanr za filmove, drugi za TV show-e, a jedan za
+snimanja s video kamerom.
+
+
+
+Potrebno vrijeme za snimanje nije točno zato što rekorder
+upotrebljava različiti bit-rate za kompresiju podataka. To
+znači da će točno vrijeme za snimanje ovisiti o materijalu
+koji se snima.
+Kada se snima TV prijenos, ako je prijemni signal slabe
+kvalitete ili slika ima interferenciju, vrijeme za snimanje
+može biti kraće.
+Ako snimate samo mirne slike ili audio, vrijeme za
+snimanje će možda biti duže.
+Prikazana vremena za snimanje i preostalo vrijeme
+možda neće uvijek točno odgovarati dužini na disku.
+Preostalo vrijeme za snimanje može se smanjiti ako
+povećavate ureœenje diska.
+Ako upotrebljavate DVD-RW disk, pazite da promijenite
+format za snimanje (Video modus ili VR modus) prije
+nego li bilo što snimite na disk. Pogledajte stranu 20
+(Disc Format) da vidite kako to učiniti.
+Kada upotrebljavate DVD-R ili DVD+R disk, možete
+nastaviti snimanje sve dok disk nije pun, ili dok disk ne
+finalizirate. Prije nego što započnete sa snimanjem,
+provjerite količinu vremena za snimanje preostalo na
+disku.
+Kada upotrebljavate DVD-RW disk u Video modusu,
+preostalo vrijeme za snimanje će se povećati samo ako
+pobrišete zadnji naslov koji je snimljen na disk.
+Mogućnost brisanja naslova (Delete Title) u izborniku za
+popis naslova (original) samo skriva naslov, naslov u
+stvari nije pobrisan s diska i povećava preostalo vrijeme
+za snimanje na disku (osim za zadnji snimljeni naslov na
+DVD-RW disku u Video modusu).
+Kada se upotrebljava DVD+R/RW, rekorder će izvršavati
+operaciju izrade izbornika kako bi ažurirao novi naslov i
+ureœivanje kada se disk izvadi iz rekordera ili kada se
+rekorder isključi. Zato morate izvaditi disk nakon što ste
+odabrali DVD modus kao operacijski modus rekordera.
+Ovaj ureœaj može snimati TV program samo na HDD.
+Ako TV program pokušate snimati u DVD modusu,
+ureœaj će automatski promijeniti modus u HDD i počet
+će sa snimanjem.
+
+Snimanje
+
+Snimanje
+
+33
+
+Timeshift
+
+HDD
+
+Nemojte propustiti scenu u živom TV prijenosu. Ako
+telefon zazvoni za vrijeme dok gledete vaš omiljeni TV
+prijenos, samo pritisnite “TIMESHIFT” i “PAUSE”.
+prije nego što odgovorite na telefonski poziv. Timeshift
+funkcija će se aktivirati, a živi prijenos će se snimati kako
+bi se mogao kasnije pogledati.
+Nakon telefonskog poziva ili gledanja prekida, pritisnite
+tipku “PLAY” ili “SCAN” kako biste gledali program.
+Pritisnite tipku “STOP” za povratak na živi TV prijenos.
+
+Timeshift (Pauza, TV u živo/reprodukcija)
+operacija HDD
+Vi možete privremeno pospremiti program na HDD disk
+memoriju.
+Pritisnite tipku TIMESHIFT tijekom gledanja TV
+programa.
+Linija za napredovanje će se pojaviti na ekranu na dolje
+prikazani način. Linija za napredovanje će se promijeniti u
+timeshift ikonu nakon 10 sekundi.
+1
+2
+
+3
+
+4
+
+Vi možete postaviti oznaku u Timeshift modusu. Pritisnite
+tipku MARKER na željenoj točci tijekom Timeshift-a.
+Pritisnite tipku SEARCH kako biste pozvali sve označene
+scene.
+
+Snimanje isječka (Clip Record) HDD
+Vi možete ureœivati tijekom Timeshift-a kako biste
+pospremili program na HDD disk (Hard Disk Drive).
+1. Tijekom Timeshift-a, upotrijebite korak pauze, traženje i i
+usporeno prikazivanje kako biste pronašli početnu točku.
+2. Pritisnite tipku z REC na početnoj točci isječka koji
+želite snimiti.
+Napredovanje ureœivanja je naznačeno u crvenoj boji na
+liniji za napredovanje.
+
+3. Upotrijebite korak pauze, traženje i i usporeno
+prikazivanje kako biste pronašli krajnju točku.
+4. Pritisnite z REC na krajnjoj točci odsjeka gdje želite
+zaustaviti snimanje.
+Normalna se reprodukcija nastavlja.
+5. Ponovite korake 1 i 4 kako biste napravili nekoliko
+snimanja isječaka programa (Clip Record)
+
+5
+
+1. Ukazuje na modus reprodukcije.
+2. Ukazuje na trenutni položaj Timeshift-a.
+3. Ukazuje na početno vrijeme za Timeshift.
+4. Ukazuje na proteklo vrijeme za Timeshift.
+5. Ukazuje na vrijeme koje je jedan sat poslije početnog
+vremena za Timeshift.
+Savjeti:
+ Vi možete upotrijebiti funkcije za trik reprodukciju
+(Polako, skeniranje, i sl.) tijekom timeshift-a. Pogledajte
+operacije reprodukcije na stranama 23-26.
+ Vi možete ureœivati memorirani odsječak tijekom
+Timeshift-a kako biste program zadržali na HDD disku.
+Pogledajte Clip Record na desnoj strani.
+Napomene:
+ Ako na HDD disku nema dovoljno prostora, najstariji
+odsjek timeshift-a u memoriji biće obrisan.
+ Ako tijekom 10 sati ne pritisnite nijednu tipku, Timeshift
+će se automatski zaustaviti.
+ Ako je TimeShift opcija u izborniku za podešavanja
+postavljena na [ON], ureœaj će automatski pokrenuti ovu
+funkciju, a da nije potrebno pritisnuti tipku TIMESHIFT .
+ Ako na HDD disku nema dovoljno prostora za vrijeme
+rada funkcije TimeShift, ta funkcija će se automatski
+zaustaviti. Pazite da prije upotrebe funkcije TimeShift na
+HDD disku imate dovoljno prostora.
+
+34
+
+Traženje oznake (Marker Search) u Timeshift
+modusu
+
+6. Pritisnite tipku STOP (x) kako biste zaustavili
+Timeshift.
+Pojavit će se poruka za potvrdu.
+7. Upotrijebite b / B kako biste odabrali [OK], a zatim
+pritisnite tipku ENTER. Ili, ponovo pritisnite tipku
+STOP.
+Trenutni TV prijenos će se prikazati na ekranu.
+Napomene:
+ Odabrani isječci su snimljeni na HDD disk.
+ Ako želite zaustaviti snimanje isječaka, pritisnite tipku
+STOP (x). Ako pritisnite tipku POWER kako biste
+zaustavili snimanje isječaka, program se možda neće
+snimiti na HDD disk.
+ Snimanja isječaka se ne mogu primijeniti na isječke koji
+su kraći od 5 sekundi.
+
+Skoči na početak ili kraj (Start ili End)
+tijekom Timeshift-a
+1. Pritisnite tipku ENTER tijekom timeshift-a. Pojavit će
+se izbornik.
+2. Pritisnite tipku b i reprodukcija će započeti od samog
+početka timeshift-a.
+Pritisnite tipku B i skočit ćete na sami kraj timeshift-a,
+a zatim će prijeći u modus pauze.
+
+Izlaz iz Timeshift-a
+1. Pritisnite tipku STOP kako biste izašli iz Timeshift funkcije.
+Pojavit će se poruka za potvrdu.
+2. Upotrijebite b / B kako biste odabrali [OK], a zatim
+pritisnite tipku ENTER.
+Trenutni TV prijenos će se prikazati na ekranu.
+
+Osnovno snimanje TV programa
+Za snimanja TV programa slijedite dolje iznesene upute.
+Snimanje će započeti odmah i nastavit će se dok se disk ne
+napuni ili dok ne zaustavite snimanje.
+Napomena:
+Ovaj ureœaj može snimati samo mono audio sadržaj s
+ugraœenog sustava prijemnika.
+1. Postavite modus za snimanje na željenu postavku tako
+da pritisnete tipku REC MODE više puta za redom.
+(XP, SP, LP, EP ili MLP)
+
+Brzo snimanje pomoću vremenskog
+brojača (Timer) HDD
+Brzo snimanje s vremenskim brojačem (Timer) vam
+omogućuje da lako snimate prije postavljenu dužinu bez
+upotrebe vremenskog brojača.
+1. Slijedite korake 1-2 na način pokazan na lijevoj strani
+(Osnovno snimanje TV programa).
+2. Pritisnite tipku z REC više puta kako biste odabrali
+dužinu vremena snimanja.
+
+2. Upotrijebite tipke PR/CH (+/-) kako biste odabrali TV
+kanal koji želite snimati.
+
+
+
+
+Snimanje se nastvalje sve dok ne pritisnite tipku
+STOP (x) ili dok se disk ne napuni.
+Za snimanje točne odreœene dužine vremena,
+pogledajte na desnoj strani Brzo snimanje timer-om
+na desnoj strani.
+
+4. Pritisnite tipku STOP (x) kako biste zaustavili
+snimanje.
+
+Snimanje će započeti nakon što prvi put pritisnete tipku.
+Svaki sljedeći put kada pritisnete tipku povećavate
+vrijeme za snimanje unutar slobodnog prostora
+(maksimalno 240 minuta).
+Vrijeme za snimanje se prikazuje na TV ekranu.
+Na kraju snimanja, rekorder će zaustaviti snimanje i
+isključit će se.
+
+Provjera vremena za snimanje
+
+1. Pritisnite tipku PAUSE/STEP (X) kako biste pauzirali
+snimanje.
+
+Pritisnite tipku z REC jedanpu kako biste provjerili
+vrijeme za snimanje. Pozvane postavke će se na trenutak
+odmah vratiti na TV ekran.
+Takoœer, preostalo vrijeme za snimanje je prikazano na
+prozoru displeja.
+
+2. Kada želite nastaviti snimanje, pritisnite tipku
+PAUSE/STEP (X).
+
+Povećavanje vremena za snimanje
+
+Kako pauzirati snimanje
+
+Snimanje jednog TV programa dok gledate
+drugi program
+1. Pritisnite tipku TV/DVD kako biste odabrali TV modus
+tijekom snimanja. Pojavit će se TV indikator.
+2. Pomoću TV-a odaberite kanal koji želite gledati.
+
+Snimanje
+
+3. Pritisnite tipku z REC jedanput.
+Snimanje će započeti. (REC indikator će se upaliti
+uprozoru display-a.)
+
+Vrijeme za snimanje se može povećati u bilo kojke vrijeme
+pritiskom na tipku z REC.
+Svakim sljedećim pritiskom na tipku povećavate vrijeme za
+snimanje unutar slobodnog prostora (maksimalno 240
+minuta).
+Upozorenje
+Ako je rekorder iskopčan iz zidne utičnice (ili je došlo do
+nestanka struje) za vrijeme dok rekorder snima, snimanje će
+biti izgubljeno.
+
+35
+
+Snimanje pomoću vremenskog
+brojača (Timer) HDD
+Ovaj rekorder se može programirati da snima najviše 16
+programa unutar perioda od 1 mjeseca. Za snimanje
+pomoću vremenskog brojača treba znati kanale koji će se
+snimati, početno i krajnje vrijeme snimanja.
+
+5. Pritisnite tipku RETURN (O) za izlazak s popisa
+Timer Record.
+6. Pazite da pritisnite tipku POWER kako bi ureœaj
+postavili u modus mirovanja (Standby).
+Napomene:
+
+
+1. Odaberite [Timer Record] opciju u [HOME] izborniku.
+Pojavit će se [Timer Record List] izbornik.
+2. Upotrijebite v / V kako biste odabrali [NEW], a zatim
+pritisnite ENTER.
+Pojavit će se [Timer Record] izbornik.
+
+
+
+Indikator za timer svijetli u prozoru displeja kada je
+rekorder u stanju pripravnosti a u isto vrijeme je timer
+aktivan. (Ne prikazuje se ništa dok je [Power Save
+Mode - Modus štednje el. energije] ON (Uključen).)
+Snimanje timer-om možete zaustaviti u samom tijeku.
+Pritisnite STOP i pojavit će se poruka za potvrdu.
+Pritisnite ENTER kako bi zaustavili snimanje ili pritisnite
+RETURN (O) kako bi nastavili snimanje.
+
+Provjera detalja za snimanje pomoću
+vremenskog brojača (Timer Recording)
+
+
+[Media] Opcija za mediju se ne može odabirati.
+
+
+
+[PR] Odaberite broj memoriranog programa, ili
+jedan od vanjskih ulaza s kojeg se snima.
+
+
+
+[Date - Datum] Odaberite datum najviše 1 mjesec
+unaprijed ili željeno ponavljanje (Monday
+(Ponedjeljak) – Friday (Petak), ili Every Sun~Sat
+(Svake Ned – Sub)).
+
+
+
+[Start Time] Postavite vrijeme za početak snimanja.
+
+
+
+[End Time] Postavite vrijeme za kraj snimanja.
+
+
+
+[Mode] – Odaberite modus snimanja (XP, SP, LP,
+EP, MLP ili AT).
+AT (Auto) modus odreœuje koliko je vremena na
+disku dostupno i ako je potrebno uključuje odnosno
+isključuje modus snimanja kako bi se završilo
+snimanje programa.
+
+Programiranje se može provjeriti uvijek kada je rekorder
+uključen.
+Odaberite [Timer Record] opciju u [HOME] izborniku.
+Pojavit će se [Timer Record List] izbornik.
+ Upotrijebite tipke v / V kako biste odabrali snimanje
+pomoću vremenskog brojača.
+ Pritisnite tipku ENTER za ureœivanje odabranog programa.
+Pojavit će se izbornik za snimanje pomoću vremenskog
+brojača (Timer Record).
+ Pritisnite tipku CLEAR za brisanje odabranog programa
+s popisa za snimanje pomoću vremenskog brojača (Timer
+Record List).
+ Ako odaberete [NEW], a zatim pritisnite ENTER, možete
+programirati novo snimanje pomoću timer-a.
+
+3. Unesite potrebnu informaciju za vaše(a) snimanje(a)
+pomoću vremenskog brojača.
+
+
+
+
+
+
+
+b / B (lijevo /desno) – pomiće kursor lijevo / desno
+v / V (gore/dolje) – mijenja postavke na trenutnom
+položaju kursora
+Pritisnite tipku RETURN (O) za izlazak iz
+izbornika za snimanje pomoću vremenskog brojača
+(Timer Record).
+Pritisnite tipku ENTER nakon što ste ispunili sve
+informacije o programu.
+Odaberite [Timer Record] opciju u [HOME]
+izborniku kako bi prikazali popis za snimanje timerom (Timer Record List).
+
+4. Pritisnite tipku ENTER, rekorder će memorirati
+program.
+Pojavit će se popis snimanja pomoću vremenskog
+brojača.
+Provjerite polja “Rec. OK” na popisu snimanja pomoću
+vremenskog brojača ukazuje na to da je snimanje
+pomoću vremenskog brojača pravilno programirano.
+
+36
+
+Poništavanje snimanja pomoću vremenskog
+brojača (Timer Recording)
+Vi možete pobrisati postavke za snimanje pomoću vremenskog
+brojača u bilo koje vrijeme prije nego što snimanje započne.
+ Upotrijebite tipke v / V kako biste odabrali program koji
+želite pobrisati na popisu za snimanja pomoću
+vremenskog brojača (Timer Record List).
+Pritisnite CLEAR i pojavit će se poruka za potvrdu.
+Pritisnite ENTER kada je odabrano [OK] kako biste
+obrisali snimanje.
+
+Nakon što je snimanje započeto, vi još uvijek možete
+poništiti program.
+ Snimanje timer-om možete zaustaviti u samom tijeku.
+Pritisnite STOP i pojavit će se poruka za potvrdu
+Pritisnite ENTER kako bi zaustavili snimanje ili pritisnite
+RETURN (O) kako bi nastavili snimanje.
+
+Rješavanje problema kod snimanja pomoću
+vremenskog brojača (Timer Recording)
+Čak i kad je vremenski brojač postavljen, rekorder neće
+snimati u slučaju kada:
+ Na HDD disku nema slobodnog prostora.
+ Uključeno je el.napajanje.
+ Na HDD-u je već snimljeno 255 naslova.
+Vi ne možete unijeti program za timer kada je:
+ Snimanje već započeto.
+ Vrijeme koje pokušavate postaviti već prošlo.
+ Već memorirano 16 programa za snimanje pomoću
+vremenskog brojača (timer).
+Ako se dva ili više programa za timer preklapaju:
+
+
+
+
+Raniji program će imati prednost.
+Kada se raniji program završi, započeti će kasniji
+program.
+Ako su dva programa postavljena da započnu u točno
+isto vrijeme, program koji je unešen prvi će imati
+prednost.
+
+Snimanje s vanjskog ulaza
+
+HDD
+
+Snimanje s vanjskih komponenti
+Vi možete snimati s vanjske komponente, kao što je video
+kamera ili VCR, koj isu priključeni na bilo koji od vanjskih
+ulaza na rekorderu.
+1. Pazite da komponenta s koje želite snimati bude
+pravilno priključena na rekorder. Pogledajte strane
+13-14.
+2. Pritisnite tipku AV/INPUT više puta kako biste odabrali
+vanjski ulaz s kojeg želite snimati.
+
+
+
+
+
+Tuner: Ugraœeni tuner
+AV1: AV1 scart priključak postavljen na zadnjoj ploči
+AV2: AV2 DECODER scart priključak postavljen na
+zadnjoj ploči
+AV3: AV IN 3 (VIDEO, AUDIO (L/R)) postavljen na
+prednjoj ploči
+
+3. Odaberite modus za snimanje prema potrebi tako da
+pritisnete tipku REC MODE više puta. (XP, SP, LP, EP
+ili MLP)
+
+4. Pritisnite tipku z REC jedanput.
+Snimanje će početi. (REC indikator će svijetliti u
+prozoru displeja)
+
+
+
+Snimanje se nastavlja sve dok ne pritisnete tipku
+STOP (x) ili dok se HDD ne napuni.
+Za snimanje točno odreœene dužine vremena,
+pogledajte “Brzo snimanje pomoću vremenskog
+brojača” na strani 35.
+
+5. Pritisnite tipku STOP (x) da zaustavite snimanje.
+Napomena:
+Ako je vaš izvor za snimanje zaštićen protiv presnimavanja
+s CopyGuard-om, tada vi nećete moći snimati pomoću ovog
+rekordera. Za više detalja pogledajte autorska prava
+(Copyright) na strani 46.
+
+Istovremeno snimanje i
+reprodukcija
+Reprodukcija drugog naslova tijekom
+snimanja
+Dok se odvija snimanje, vi istovremeno možete reproducirati
+izvor s drugog medija.
+1. Pokrenite snimanje.
+2. Pritisnite tipku HOME kako biste prikazali na ekranu
+početni izbornik (Home).
+
+Snimanje
+
+Zaustavljanje snimanja pomoću vremenskog
+brojača (Timer Recording)
+
+3. Upotrijebite v / V / b / B i ENTER tipke kako biste
+odabrali vrstu medija koji želite reproducirati.
+4. Pokrenite reprodukciju.
+Snimanje će se nastaviti za vrijeme reprodukcije medija
+s drugog izvora.
+Napomene:
+
+
+
+Istovremenu reprodukciju i snimanje ne možete imati
+dok kopirate, presnimavate i snimate pomoću timer-a.
+Vi ne možete ureœivati programe tijekom
+istovremenog snimanja i reprodukcije.
+
+Time Slip HDD
+Trenutno snimani naslov možete reproducirati.
+1. Pokrenite HDD snimanje.
+2. Pritisnite tipku PLAY (N).
+Započinje reprodukcija i snimanje će se nastaviti tijekom
+reprodukcije.
+ Možete upotrijebiti tipke PAUSE (X) i
+SCAN (m / M) za pauzu, skeniranje, sporu
+reprodukciju tijekom reprodukcije.
+3. Pritisnite tipku STOP (x).
+Reprodukcija će se zaustaviti, a zatim će se vratiti na
+trenutni položaj snimanja.
+Napomena:
+Reprodukcija ne može započeti prije nego što proœe 3
+sekundi nakon početka snimanja.
+
+37
+
+Ureœivanje
+
+12 3
+
+4 5
+
+6 7
+
+Pregled izbornika za popis naslova i
+poglavlja (Title List i Chapter List)
+Upotrebom izbornika za popis naslova (Title List) možete
+ureœivati video sadržaj. Funkcije za ureœivanje su dostupne
+u izborniku za popis naslova (Title List) ovisno o tome
+ureœujete li video na DVD-u, ili HDD disku, i ovisno o tome
+ureœujete li originalni sadržaj ili popis za reprodukciju.
+Postoje dva načina za ureœivanje DVD-RW diskova u VR
+modusu. Vi možete izravno ureœivati originalni sadržaj diska, ili
+možete napraviti i urediti popis za reprodukciju (Playlist). Popis
+za reprodukciju u stvari ne mijenja nikakav sadržaj na disku,
+već samo upravlja načinima na koji se sadržaj reproducira.
+Ureœivanje snimljenog materijala na HDD disku je slično
+ureœivanju originalnog sadržaja na DVD-RW-u u VR
+modusu, sa sličnim naredbama za brisanje i nazivanje
+naslova, isto kao i finu kontrolu nad sadržajem poglavlja
+unutar naslova za DVD disk.
+Napomena:
+Tijekom snimanja, ako ste prikazali izbornik za popis
+naslova (Title List) za HDD disk, neki se naslovi mogu
+pojaviti s oznakom. Ovi su naslovi snimljeni s postavkama
+za linijski ulaz koji je različit od trenutnih postavki
+rekordera.
+Tijekom snimanja, ovi se naslovi ne mogu reproducirati.
+1. Pritisnite tipku MENU/LIST kako biste prikazali
+izbornik za popis naslova (Title List).
+Kada to napravite reprodukcija se treba zaustaviti.
+ Ovdje takoœer možete ući pomoću početnog
+izbornika (HOME), tako da odaberete opciju
+[MOVIE], a zatim odaberete opciju [HDD] ili [DVD]
+i pritisnite tipku ENTER.
+ Kada odabirete naslove, upotrijebite tipke v / V kako
+biste prikazali prethodnu/sljedeću stranu ako postoji
+više od šest naslova.
+ Ako ureœujete disk u VR modusu, pritisnite tipku
+MENU/LIST kako biste prelazili izmeœu izbornika za
+original i izbornika za reprodukciju.
+Na lijevoj strani ekrana date su mogućnosti u izborniku.
+Glavni dio ekrana prikazuje sličice naslova (ili poglavlja)
+na DVD-u ili HDD disku. Vi možete promijeniti ove sličice
+pomoću tipke THUMBNAIL — pogledajte mijenjanje
+sličica za naslove na strani 39.
+Pritisnite tipku DISPLAY kako biste prikazali informaciju o
+odabranom naslovu u izborniku za popis naslova (Title List).
+Nakon što ste odabrali naslov ili poglavlje u izborniku za
+popis naslova u popisu poglavlja (Title List ili Chapter
+List), pritisnite tipku ENTER. Mogućnosti izbornika se
+pojavljuju se na lijevoj strani izbornika. Upotrijebite v / V
+kako biste odabrali mogućnost, a zatim pritisnite tipku
+ENTER za potvrdu svog izbora.
+2. Za izlazak iz izbornika za popis naslova (Title List),
+pritisnite tipku RETURN (O) više puta.
+38
+
+1. Mogućnosti izbornika: Kako biste prikazali mogućnosti
+izbornika, odaberite naslov ili poglavlje, a zatim
+pritisnite tipku ENTER. Prikazane mogućnosti se
+razlikuju zavisno o vrsti diska.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Combine] Kombinira dva poglavlja u jednu cijelinu (strana
+44).
+[Delete] Briše naslov ili poglavlje. (strana 41)
+[Delete Parts] Briše jedan dio naslova (strana 41).
+[Divide] Diijeli naslov na dva dijela (strana 43).
+[Dubbing] Kopira naslov na drugi medij. (strana 47)
+[Full Play] Započinje reprodukciju odabranog naslova
+uključujući i skrivena poglavlja.
+[Hide (Show)] Sakriva (ili prikazuje) odabrani naslov ili
+poglavlje. (strana 45)
+[Move] Premješta poglavlje na izbornika za popis poglavlja
+– popis za reprodukciju na položaj u izborniku. (strana 45)
+[Play] Započinje reprodukciju odabranog naslova ili
+poglavlja. Sakriveni naslovi i poglavlja na DVD+R/RW
+disku se ne mogu reproducirati.
+[Playlist Add] Dodaje naslov ili poglavlje na popis za
+reprodukciju (Playlist). (strana 40)
+[Protect] Štiti od slučajnog presnimavanja, mijenjanja ili
+brisanja naslova datoteke. (vidi stranicu 45)
+[Rename (Title Name)] Ureœuje naziv za naslov. (strana 42)
+[Search - Traženje]
+- [Chapter- Poglavlje]; Prikazuje popis poglavlja za naslov.
+- [Time - Vrijeme]; Tražite vrijeme na kojem želite otpočeti
+naslov. (strana 42)
+[Sort] Preslaguje programe na popisu izbornika za popis
+naslova (Title List) prema datumu, naslovu ili kategoriji.
+(strana 43)
+[Title] Prikazuje popis naslova (Title List) Title List
+poglavlje.
+
+2. Ukazuje na modus snimanja, slobodan prostor i
+proteklo vrijeme na liniji napredovanja.
+3. Trenutni medij.
+4. Trenutno odabrani naslov.
+5. Mala sličica (thumbnail)
+6. Prikazuje broj odabranog naslova i ukupan broj
+naslova.
+7. Pokazuje naziv naslova, snimljeni datum i dužinu
+snimanja.
+
+HDD disk, VR modus: Ureœivanje
+originala i popisa za reprodukciju
+(Playlist)
+Naslovi, poglavlja i dijelovi
+Naslovi u originalnom sadržaju diska sadrže jedno ili više
+poglavlja. Kada postavite naslov diska na popis za
+reprodukciju (Playlist), takoœer će se pojaviti sva poglavlja
+unutar tog naslova. Drugim riječima, poglavlja na popisu za
+reprodukciju (Playlist) ponašaju se na potpuno isti način
+kao i poglavlja na DVD-Video disku. Dijelovi su sekcije
+originalnih naslova ili naslova s popisa za reprodukciju
+(Playlist). Iz izbornika za original i
+Playlist vi možete dodavati ili brisati dijelove. Dodavanje
+poglavlja ili naslova na popis za reprodukciju (Playlist)
+stvara novi naslov koji je napravljen od sekcija (npr.,
+poglavlje) originalnog naslova. Poništavanje (Delete) dijela
+uklanja dio naslova s izbornika za original i Playlist.
+Upozorenje
+ Kada ureœujete sadržaja pomoću funkcija za brisanje,
+dodavanje i premještanje (Delete, Add i Move) okviri za
+početak i kraj možda neće biti postavljeni točno na
+prikazanim točkama za početak i kraj.
+ Tijekom reprodukcije s popisa za reprodukciju (Playlist),
+možete primjetiti malu pauzu izmeœu ureœenih dijelova.
+Ovo nije nepravilnost.
+
+Je li ureœivanje DVD-a isto kao i ureœivanje
+video trake?
+
+Dodavanje oznaka za poglavlja
+(Chapter Markers)
+HDD
+
+-RWVR
+
++RW
+
++R
+
+Vi možete napraviti poglavlje unutar naslova tako da na
+željenim točkama umetnete oznake za poglavlje (mark).
+Tijekom reprodukcije, na točci na kojoj želite započeti novo
+poglavlje, pritisnite CHP ADD.
+Ikona za oznaku poglavlja će se pojaviti na TV ekranu.
+Napomena:
+Oznake za poglavlja se automatski postavljaju u pravilnim
+razmacima. Vi možete mijenjati veličinu razmaka iz
+izbornika za početno podešavanje (Initial Setup) (pogledajte
+“Samo-postavljanje poglavlja (Chapter)” na strani 20).
+
+Mijenjanje sličica za naslove
+(Thumbnail)
+HDD
+
+-RWVR
+
++RW
+
++R
+
+Svaki naslov koji je prikazan u izborniku za popis naslova
+(Title List) predstavljen je sličicom (thumbnail) koja je
+uzeta s početka tog naslova ili poglavlja. Ukoliko želite,
+odaberite različitu mirnu sliku unutar tog naslova.
+Pritisnite tipku THUMBNAIL kako biste trenutno
+prikazanu sliku napravili kao onu koja će se pojavljivati u
+izborniku za popis naslova (Title List).
+Mirna slika koju odaberete pojavit će se i u izborniku za
+original kao i u izborniku popisa za reprodukciju (Playlist).
+
+Ureœivanje
+
+Ne. Kada ureœujete video traku vama je potreban jedan
+video ureœaj kako biste reproducirali originalnu, a drugi
+ureœaj vam je potreban za snimanje ureœivanja. U slučaju
+DVD-a, vi ureœujete tako da pravite popis za reprodukciju
+(Playlist) onoga što reproducirati i kada to reproducirati.
+Tijekom reprodukcije, rekorder reproducira disk u skladu s
+popisom za reprodukciju (Playlist).
+
+Više o riječi ‘Original’ i ‘Playlist’ -RWVR
+Kroz ovaj priručnik često ćete vidjeti da se riječi
+Original i Playlist odnose na aktualan sadržaj i
+ureœenu verziju.
+ Original: sadržaj se odnosi na ono što je stvarno
+snimljeno na disk.
+ Playlist: sadržaj se odnosi na ureœenu verziju na disku
+— način na koji će se originalni sadržaj reproducirati.
+
+39
+
+Stvaranje novog popisa za
+reprodukciju (New Playlist)
+
+-RWVR
+
+Upotrijebite i ovu funkciju kako bi dodali originalni naslov
+ili poglavlje na popis za reprodukciju (Playlist). Kada to
+napravite, cijeli naslov ili poglavlje su stavljeni na popis za
+reprodukciju (Playlist) (Ono što ne trebate možete obrisati
+kasnije — pogledajte Brisanje originalnog ili playlist
+naslova/poglavlja na stranici 41).
+Naslov se pojavljuje na popisu za reprodukciju (Playlist)
+potpuno s oznakama za poglavlja koje se pojavljuju u
+originalu. Meœutim, ako dodate više oznaka za poglavlje u
+original kasnije, ove se oznake neće automatski kopirati u
+naslov koji je na popisu za reprodukciju (Playlist).
+
+Dodavanje dodatnog naslova /
+poglavlja na popis za reprodukciju
+(Playlist) -RWVR
+Vi možete dodati originalni naslov ili poglavlje na popis za
+reprodukciju (Playlist) čak i ako je taj naslov već postavljen
+na popis.
+1. Odaberite naslov ili poglavlje u izborniku za popis
+naslova – original (Title List-Original) ili u izborniku za
+popis poglavlja – original (Chapter List-Original) koji
+ćete postaviti na popis za reprodukciju (Playlist), a
+zatim pritisnite tipku ENTER.
+Mogućnosti izbornika će se pojaviti na lijevoj strani
+izbornika.
+
+Vi možete dodati najviše 999 poglavlja na jedan disk.
+1. Odaberite naslov ili poglavlje u izborniku za popis
+naslova – original (Title List-Original) ili u izborniku za
+popis poglavlja – original (Chapter List-Original) koji
+ćete postaviti na popis za reprodukciju (Playlist), a
+zatim pritisnite tipku ENTER. Mogućnosti izbornika će
+se pojaviti na lijevoj strani izbornika.
+
+2. Upotrijebite tipke v / V kako biste odabrali [Playlist
+Add] mogućnost, a zatim pritisnite tipku ENTER.
+
+2. Upotrijebite tipke v / V kako biste odabrali [Playlist
+Add] mogućnost, a zatim pritisnite tipku ENTER.
+
+3. Odaberite popis naslova – popis za reprodukciju (Title
+List-Playlist) koji već postoji kako biste umetnuli
+naslov ili poglavlje, a zatim pritisnite tipku ENTER.
+
+3. Odaberite [New Playlist], a zatim pritisnite tipku
+ENTER. Novi naslov će se pojaviti u obnovljenom
+popisu za reprodukciju (Playlist). Sva poglavlja tog
+naslova su pridodana na popis za reprodukciju (Playlist).
+
+4. Ponovite korake 1-3 kako biste dodali dodatni naslov ili
+poglavlje na popis za reprodukciju (Playlist).
+Pridodana poglavlja možete vidjeti u u izborniku za
+popis poglavlja -playlist (Chapter List –Playlist).
+
+5. Pritisnite tipku RETURN (O) za izlazak, ili
+MENU/LIST za povratak u izborniku za popis naslova original (Title List-Original).
+40
+
+Brisanje originalnog ili playlist
+naslova/poglavlja
+Kada naslov ili poglavlje pobrišete u izborniku popisa za
+reprodukciju (Playlist), vi ga brišete samo s Playlist-e;
+naslov/poglavlje ostaju u izborniku za original.
+Ako odaberete pobrisati naslov ili poglavlje na izborniku za
+original (naslov/poglavlje), naslov ili poglavlje je stvarno
+pobrisano s diska i time povećavate preostalo stvarno
+vrijeme snimanja. Naslovi/poglavlja koji su pobrisani u
+izborniku za original istovremeno su i pobrisani s Playlist-e.
+Napomena:
+Možda nećete moći brisati poglavlja koja su kraća od 5
+sekundi.
+
+Brisanje dijela
+
+HDD
+
+-RWVR
+
+Vi možete pobrisati dio koji ne želite imati u naslovu.
+1. Upotrijebite tipke b / B / v / V za odabir poglavlja ili
+naslova koji želite brisati u izborniku za popis naslova
+(Title List), a zatim pritisnite tipku ENTER.
+Mogućnosti izbornika će se pojaviti na lijevoj strani
+izbornika.
+2. Odaberite [Delete Part] u opciji [Edit], a zatim pritisnite
+ENTER. Na TV ekranu će se pojaviti izbornik za
+ureœivanje naslova –brisanje dijela (Edit (Delete Part)).
+[Start Point] ikona je jače osvijetljena (početna točka).
+Primjer: Edit (Delete Part) (HDD)
+
+1. Upotrijebite tipke b / B / v / V za odabir poglavlja ili
+naslova koji želite brisati u izborniku za popis naslova
+ili poglavlja (Title List ili Chapter List), a zatim
+pritisnite tipku ENTER.
+Mogućnosti izbornika će se pojaviti na lijevoj strani
+izbornika.
+
+2. Odaberite [Delete] mogućnost u mogućnostima izbornika.
+Primjer: Title List (HDD)
+
+3. Upotrijebite reprodukciju, korak pauze, traženje i
+usporenu reprodukciju kako biste pronašli početnu
+točku.
+4. Pritisnite tipku ENTER na početnoj točci sekcije koju
+želite pobrisati.
+‘End Point’ ikona je jače osvijetljena (krajnja točka).
+Dio je označen na liniji napredovanja.
+5. Upotrijebite reprodukciju, korak pauze, traženje i
+usporenu reprodukciju kako biste pronašli krajnju
+točku.
+
+Ureœivanje
+
+Biranje višestrukih naslova na HDD-u
+1. Pritisnite MARKER.
+Na naslovu se pojavljuje oznaka.
+Pritisnite MARKER ponovo kako bi poništili
+označeni naslov.
+2. Ponovite korak 1 da označite drugi naslov.
+Maksimalno možete dodati 10 naslova.
+
+6. Na krajnjoj točci odsječka koji želite pobrisati pritisnite
+tipku ENTER.
+Vi možete poništiti odabranu točku, upotrijebite tipke
+v / V da odaberete [Cancel] ikonu, a zatim pritisnite
+tipku ENTER.
+
+3. Pritisnite tipku ENTER za potvrdu.
+Pojavit će se poruka za potvrdu.
+4. Upotrijebite tipke b / B kako biste odabrali [OK], a
+zatim pritisnite tipku ENTER.
+Odabrano poglavlje ili naslov je pobrisano.
+Nakon pritiska na tipku ENTER, novi, obnovljeni
+izbornik će se prikazati na displeju
+5. Ponovite korake 1 - 4 za nastavak brisanja u izborniku.
+6. Pritisnite tipku RETURN (O) više puta za izlazak iz
+izbornika.
+Napomene:
+ Kod DVD+RW snimanja, naziv pobrisanog naslova je
+promijenjen u ‘Deleted Title’ (Pobrisani naslov).
+ Ako su više od dva naslova više puta poništeni, naslovi
+se kombiniraju u jedan naslov.
+ Kada brišete naslov ili poglavlje, samo zadnji naslov na
+DVD+RW-u povećava preostalo vrijeme za snimanje.
+
+Savjet:
+Kod HDD snimanja, vi možete pobrisati dodatni dio.
+Odaberite [Next Part] ikonu u izborniku, pritisnite tipku
+ENTER, a zatim ponovite korake 3-6.
+7. Ako ste završili s ureœivanjem, odaberite [Done] ikonu,
+a zatim pritisnite tipku ENTER.
+Pojavit će se poruka za potvrdu.
+Upotrijebite tipke b / B kako biste odabrali [OK], a
+zatim pritisnite tipku ENTER.
+Odabrani dio je pobrisan iz naslova i pojavljuje se
+izborniku za popis naslova (Title List).
+Napomena:
+Ova funkcija nije moguća za naslove koji su kraći od 3
+sekundi.
+
+41
+
+Upisivanje naziva za naslov
+Naslovima možete dati nazive. Nazivi mogu imati najviše 32
+znaka.
+1. Odaberite naslov kojem želite dati naziv u izborniku za
+popis naslova (Title List), a zatim pritisnite tipku ENTER.
+Mogućnosti izbornika će se pojaviti na lijevoj strani
+izbornika.
+2. Upotrijebite v/V kako biste odabrali [Rename] ili [Title
+Name] opciju, a zatim pritisnite ENTER.
+Pojavit će se izbornik za tipkovnicu.
+
+4. Odaberite OK, a zatim pritisnite tipku ENTER da
+potvrdite ime i vratite se na prethodni izbornik na
+ekranu.
+5. Pritisnite tipku RETURN (O) više puta za izlazak iz
+izbornika.
+Napomene:
+ Nazivi mogu imati najviše 32 znaka.
+ Za diskove koji su formatirani na različitom r rekorderu,
+vi ćete vidjeti samo ograničen broj znakova.
+ Kod snimanja na DVD-R, DVD+R ili DVD+RW
+diskovima, upisani naziv je prikazan na DVD player- u
+samo nakon finaliziranja.
+
+Traženje vremena
+-RWVideo
+
++RW
+
+-R
+
+HDD
+
+-RWVR
+
++R
+
+Možete izabrati početno mjesto naslova.
+3. Unesite naziv za naslov. Upotrijebite tipke
+b / B / v / V kako biste odabrali znak, a zatim
+pritisnite tipku ENTER za potvrdu vašeg izbora.
+Pomoću tipke MENU/LIST mijenjajte vrstu
+tipkovnice.
+ OK: Odaberite za kraj.
+ Cancel: Poništava sve unešene znakove.
+ Space: Umeće prazan prostor na položaju kursora.
+ Delete: Briše prethodni znak na položaju kursora.
+ b / B: Pomiče kursor lijevo ili desno.
+Savjet:
+Tipke na daljinskom upravljaču za upisivanje imena
+PLAY (N): Na položaju kursora umeće razmak.
+X (PAUSE/STEP): Briše znak iza na položaju kursora.
+x (STOP), CLEAR: Briše prethodni znak na na
+položaju kursora.
+. / >: Pomjeraju kursor lijevo ili desno.
+Brojevi (0-9): Umeću odgovarajuće znakove na
+položaju kursora.
+Savjet:
+Vi možete postaviti žanr samo za naziv u naslovu na
+HDD disku.
+
+
+Savjet:
+Nazivu HDD naslova možete dodati žanr.
+Ako za naslov postavite žanr, onda taj naslov možete
+lako naći u relevantnom folderu u HDD izborniku za
+popis naslova.
+
+1. Upotrijebite tipke b / B / v / V kako biste odabrali
+naslov u izborniku za popis naslova (Title List), a zatim
+pritisnite tipku ENTER.
+Mogućnosti se pojavljuju na lijevoj strani izbornika.
+2. Odaberite mogućnost [Time -Vrijeme], a zatim pritisnite
+tipku ENTER.
+[Search] izbornik se pojavljuje na TV ekranu.
+Primjer: Popis naslova (Title List) (HDD)
+
+Trenutna slika
+Vrijeme
+završetka
+Vrijeme početka
+
+Odabrano vrijeme
+Odabrana točka
+
+3. Upotrijebite tipke b / B kako biste pronašli točku na
+kojoj želite početi.
+Točka se povećava korakom od 1-ne minute.
+Ako pritisnete i držite tipke b / B tada se točka
+povećava korakom od 5 minuta.
+4. Pritisnite tipku ENTER za početak odabrane točke.
+
+42
+
+Sortiranje popisa naslova
+
+HDD
+
+Ova funkcija vam omogućuje pristup u popis show-a koji je
+organiziran po datumu, naslovu ili kategoriji u izborniku za
+popis naslova (Title List-HDD) za HDD. Tako da željeni
+naslov možete s lakoćom naći.
+1. Odaberite bilo koji naslov u izborniku za popis naslova
+(Title List- HDD) za HDD, a zatim pritisnite tipku
+ENTER.
+Mogućnosti izbornika će se pojaviti na lijevoj strani
+izbornika.
+2. Upotrijebite tipke v/V kako biste odabrali [Sort]
+mogućnost, a zatim pritisnite tipku ENTER.
+Pojavit će se mogućnost sortiranja.
+
+Podijelite jedan naslov u dva
+naslova +RW
+Upotrijebite naredbu da podijelite jedan naslov u dva nova
+naslova.
+1. U izborniku za popis naslova (Title List), odaberite
+naslov koji želite podijeliti, a zatim pritisnite tipku
+ENTER.
+Mogućnosti izbornika će se pojaviti na lijevoj strani
+izbornika.
+2. Odaberite [Divide] mogućnost.
+
+3. Upotrijebite tipke v/V kako biste odabrali [Date],
+[Title] ili [Category] mogućnost, a zatim pritisnite tipku
+ENTER.
+Nakon pritiska na tipku ENTER, na displeju će se
+pojaviti izbornik za sortiranje.
+
+3. Pritisnite tipku ENTER.
+Pojavit će se izbornik za ureœivanje naslova (Dijeljenje)
+(Edit (Divide). [Divide] mogućnost je jače osvijetljena.
+Trenutna slika
+
+Sličica prvog
+naslova
+
+Ureœivanje
+
+Sličica drugog
+naslova
+
+4. Upotrijebite play, pauzu, korak, traženje i usporeno
+prikazivanje da naœete točku na kojoj želite podijeliti
+naslov.
+5. Odaberite [Divide] mogućnost, a zatim pritisnite tipku
+ENTER na odabranoj točci. Za brisanje točke (reset),
+odaberite [Cancel] mogućnost, a zatim pritisnite tipku
+ENTER. Ponovite isto od koraka 4.
+6. Odaberite [Done] mogućnost, a zatim pritisnite tipku
+ENTER da potvrdite točku podjele.
+Naslov je podijeljen u dva nova naslova. Potrebno je do
+4 minute da se napravi podjela naslova.
+Napomena:
+Vi ne možete odabrati točku za dijeljenje na mjestu koje je
+kraće od 3 sekunde.
+
+43
+
+Kombiniranje dva poglavlja u jedno
+HDD
+
+-RWVR
+
++RW
+
++R
+
+Upotrijebite ovu funkciju kako bi povezali dva susjedna
+poglavlja u jedno.
+1. U izborniku za popis poglavlja (Chapter List), odaberite
+drugo poglavlje od dva koje želite kombinirati, a zatim
+pritisnite tipku ENTER.
+Mogućnosti izbornika će se pojaviti na lijevoj strani
+izbornika.
+
+Dodatne funkcije za DVD diskove
+na koje se može snimati
+Upotrebom izbornika za popis naslova (Title List), možete
+koristiti funkcije za postavljanje diska bez ulaska u
+izbornik za podešavanja.
+1. U DVD izborniku za popis naslova, upotrijebite
+b / B / v / V kako biste odabrali [Disc] opciju, a zatim
+pritisnite ENTER.
+
+2. Upotrijebite tipke v / V kako biste odabrali [Combine]
+mogućnost.
+Indikator za kombiniranje će se pojaviti izmeœu dva
+poglavlja koje želite kombinirati.
+Primjer: Chapter List (HDD)
+
+2. Upotrijebite v / V kako biste odabrali opciju, a zatim
+pritisnite ENTER kako biste potvrdili izbor.
+
+3. Pritisnite tipku ENTER.
+Napomene:
+Ova funkcija nije moguća u slučaju kada:
+ Unutar naslova postoji samo jedno poglavlje.
+ Odabrano je prvo poglavlje.
+ Poglavlja koja želite kombinirati kreirana su tako što je
+obrisan dio originalnog naslova.
+ Poglavlja koja želite kombinirati kreirana su od različitih
+naslova.
+ Jedno od poglavlja s popisa za reprodukciju (playlist)
+koje želite kombinirati je premješteno.
+
+44
+
+
+
+[Disc Format] Formatira umetnuti disk. (stranica 21)
+
+
+
+[Finalize] Finalizira umetnuti disk. (stranica 21)
+
+
+
+[Unfinalize] Poništava finaliziranje umetnutog disk.
+(stranica 21)
+
+
+
+[Disc Label] Upotrijebite ovu opciju za unos naziva
+diska. Taj će se naziv pojaviti kada umetnete disk i
+kada informaciju o disku prikažete na ekranu.
+(stranica 21)
+
+
+
+[Protect] Upotrijebite ovu opciju kako bi spriječili
+slučajno snimanje, ureœivanje, brisanje umetnutog
+diska. (stranica 21)
+
+
+
+[Unprotect] Uklonite zaštitu.
+
+-RWVR
+
+Savjet
+Ako odaberete sakriveno poglavlje ili naslov u izborniku za
+popis naslova ili poglavlja (Title List ili Chapter List),
+možete ih prikazati odabirom [Show] mogućnosti u
+izborniku. Nakon što ste to učinili moći ćete vidjeti
+poglavlje ili naslov.
+
+Upotrijebite ovu funkciju kako biste preuredili redosljed
+reproduciranja na popisu poglavlja u izborniku za popis
+naslova –playlist (Title List-Playlist).
+
+Zaštita naslova
+
+Napomena:
+Ova funkcija nije dostupna ako postoji samo jedno poglavlje.
+
+Upotrijebite ovu funkciju da naslov zaštitite od slučajnog
+snimanja, ureœivanja ili brisanja.
+
+1. Odaberite poglavlje u izborniku za popis poglavlja playlist (Chapter Listt-Playlist).
+
+1. Pritisnite tipku MENU/LIST da prikažete izbornik za
+popis naslova (Title List).
+
+2. Pritisnite tipku ENTER.
+Mogućnosti izbornika će se pojaviti na lijevoj strani
+izbornika.
+
+2. Upotrijebite tipke v V b B kako biste odabrali naslov
+želite zaštititi, a zatim pritisnite tipku ENTER.
+Mogućnosti izbornika će se pojaviti na lijevoj strani
+izbornika.
+
+3. Upotrijebite tipke v / V kako biste odabrali [Move]
+mogućnost u Playlist mogućnostima, a zatim pritisnite
+tipku ENTER.
+
+4. Upotrijebite tipke b / B / v / V kako biste odabrali
+mjesto na koje želite premjestiti poglavlje, a zatim
+pritisnite tipku ENTER.
+Nakon pritiskanja tipke ENTER, na displeju će se
+pojaviti obnovljeni izbornik.
+
+Sakrivanje poglavlja/naslova
++RW
+
++R
+
+Vi možete preskočiti reprodukciju poglavlja ili naslova bez
+njihovog brisanja na disku.
+
++RW
+
++R
+
+-RWVR
+
+3. Odaberite [Protect -Zaštiti] mogućnost.
+
+4. Pritisnite tipku ENTER za potvrdu.
+Oznaka zaključavanja će se pojaviti na sličici naslova
+(thumbnail).
+Savjet
+Ako odaberete naslov koji je već zaštićen u izborniku za
+popis naslova (Title List), vi možete 'skinuti' zaštitu s
+naslova tako da odaberete [Unprotect] mogućnost u u
+izborniku za popis naslova (Title List). Nakon što ste to
+učinili, naslov možete ureœivati i pobrisati.
+
+Ureœivanje
+
+Premještanje poglavlja na popisu za
+reprodukciju (Playlist Chapter)
+
+1. Upotrijebite tipke v V b B za odabir poglavlja ili
+naslova koje želite sakriti u izborniku za popis naslova
+ili poglavlja (Title List ili Chapter List), a zatim
+pritisnite tipku ENTER.
+Mogućnosti izbornika će se pojaviti na lijevoj strani
+izbornika.
+2. Odaberite [Hide] mogućnost.
+Primjer: Title List (DVD+RW)
+
+3. Pritisnite tipku ENTER za potvrdu.
+Sličica (thumbnail) za poglavlje ili naslov će se prigušiti.
+
+45
+
+vlasništvo koje posjeduje Macrovision Corporation i
+drugi vlasnici prava. Upotreba ove tehnologije za zaštitu
+autorskih prava (copyright) mora ovlastiti Macrovision
+Corporation, i namijenjena je samo za kućnu upotrebu i
+ograničeno gledanje, osim ako to nije drugačije ovlašteno
+od strane Macrovision korporocaje. Zabranjeno je
+rastavljanje i ponovno sastavljanje.
+
+Presnimavanje
+Prije presnimavanja (Dubbing)
+Ovu funkciju kopiranja na rekorderu upotrijebite za:
+
+
+Pravljenje “back up-a” važnog snimljenog materijala koji
+je pohranjen na HDD disku na DVD.
+
+
+
+Pravljenje DVD kopije snimljenog materijala koji je
+pohranjen na HDD disku za reprodukciju na drugom
+player-u.
+
+
+
+Prijenos videa s DVD-a na HDD disk zbog ureœivanja.
+
+
+
+Prijenos ureœenog videa s HDD diska na DVD.
+
+Najjednostavniji način kopiranja je da upotrijebite funkciju
+kopiranja jednim dodirom (One Touch Copy). Pomoću ove
+funkcije, naslov koji se trenutno reproducira, vi možete
+jednostavno kopirati s HDD diska na DVD, ili obrnuto.
+Napomena:
+Ako je dužina naslova naslov kraća od 5 sekundi,
+presnimavanje (dubbing) nije moguće. (s HDD-a na DVD)
+
+Ograničenja kod kopiranja
+Neki video materijali su zaštićeni sistemom jednog-kopiranja:
+Takvi se materijali ne mogu kopirati na HDD ili DVD.
+Materijale koji su zaštićeni sistemom jednom-kopiraj mogu
+se prepoznati tijekom reprodukcije tako da se informacija o
+disku prikaže na ekranu.
+
+
+
+Signali NTSC formata s analognog uklaza ne snimaju se
+ispravno ovim rekorderom.
+Video signali u SECAM formatu (s ugraœenog TV tunera
+ili s analognih ulaza) bit će nasnimljeni u PAL formatu.
+
+Što je ‘CPRM’?
+CPRM je sistem zaštite protiv kopiranja (koristi “scramble”
+sistem) koji dopušta samo snimanje materijala koji su zaštićeni
+sistemom jednog kopiranja ‘copy once’ a koji se emitiraju sa
+stanica. CPRM je kratica za Content Protection for Recordable
+Media (Zaštita sadržaja na medijima za snimanje).
+CPRM snimanja se mogu napraviti na DVD-RW diskovima
+koji su formatirani u VR modusu diskovi, a CPRM
+snimanja se mogu reproducirati samo na player-ima koji su
+posebno kompatibilni s CPRM-om.
+
+Zaštita autorskih prava (Copyright)
+
+46
+
+
+
+Oprema za snimanje se treba upotrijebiti samo za
+kopiranja koja su u skladu sa zakonom, molimo vas da
+pažljivo provjerite što je to zakonito kopiranje u području
+u kojem obavljate kopiranje. Kopiranje materijala koji su
+zaštićeni autorskim pravom (copyright) kao što su
+filmovi ili glazba je nezakonito osim ako nije dopušteno
+zakonskim izuzećem ili pristankom vlasnika prava.
+
+
+
+Ovaj proizvod uključuje tehnologiju za zaštitu autorskih
+prava (copyright) koja se štite načinom koji je zaštičćen
+nekim U.S. patentima i drugim pravima na intelektualno
+
+
+
+KORISNICI MORAJU ZNATI DA NISU SVI TV
+UREŒAJI VISOKE REZOLUCIJE KOMPATIBILNI S
+OVIM PROIZVODOM ŠTO MOŽE DOVESTI DO
+NEKVALITETNE SLIKE. u SLUČAJU PROBLEMA
+SA SLIKOM KOD 625 PROGRESIVNOG
+SKENIRANJA, PREPORUČUJE SE KORISNIKU
+PREBACIVANJE PRIKLJUČIVANJA NA IZLAZ ZA
+“STANDARDNU DEFINICIJU”. AKO POSTOJE
+PITANJA U VEZI S TIM JELI NAŠ TV UREŒAJ
+KOMPATIBILAN S OVIM MODELOM 625p
+HDD/DVD REKORDERA, MOLIMO OBRATITE SE
+NAŠEM KORISNIČKOM SERVISNOM CENTRU.
+
+Brzo kopiranje (Maksimum 4x)
+Kopiranje izmeœu DVD-a i HDD diska je potpuno digitalni
+proces i zato neće doći ni do kakvog gubljenja kvalitete
+audio ili video zapisa. To znači da možete da možete
+bezbrižno presnimavati materijale bez straha da ćete
+izgubiti kvalitetu zapisa sa svakim daljnjim kopiranjem
+materijala. To isto tako znači da se kopiranje može izvesti
+najvećom mogućom brzinom. Kod kopiranja s HDD diska
+na DVD, brzina kopiranja ovisi o modusu snimanja i o vrsti
+DVD diska koji upotrebljavate.
+Vremena minimalno brzog kopiranja
+Tablica dolje prikazuje minimum vremena za kopiranje s
+HDD-a na DVD-e za 2 sata video-a snimljenog u SP
+modusu.
+Vrsta
+diska
+
+Brzina
+diska
+
+Vrijeme kopiranja
+(Brzina snimanja)
+
+DVD-R / DVD+R
+
+16x
+
+13.5 min. (12x)
+
+DVD-R / DVD+R / DVD+RW
+
+8x
+
+13.5 min. (8x)
+
+DVD-RW
+
+6x
+
+13.5 min. (6x)
+
+DVD-R / DVD+R
+DVD-RW / DVD+RW
+
+4x
+
+13.5 min. (4x)
+
+DVD+R / DVD+RW
+
+2.4x
+
+22 min. (2.4x)
+
+DVD-R / DVD-RW
+
+2x
+
+26.5 min. (2x)
+
+Napomene:
+ Sva vremena u gornjoj tablici su približna.
+ Stvarna brzina kopiranja se razlikuje ovisno o dijelu
+diska na koji se snima.
+ Postoje slučajevi kada se čak i 4x/6x/8x/16x kompatibilni
+diskovi ne kopiraju punom brzinom.
+ Brzo kopiranje možda neće biti moguće kada se
+upotrebljava disk koji koji je inicijaliziran na nekom
+drugom rekorderu.
+
+Presnimavanje s HDD diska na DVD
+
+Presnimavanje s DVD-a na HDD disk
+
+1. U izborniku za popis naslova –HDD (Title List-HDD),
+odaberite naslov koji želite presnimiti, a zatim pritisnite
+tipku ENTER.
+
+1. U izborniku za popis naslova (Title List), odaberite naslov
+koji želite presnimiti, a zatim pritisnite tipku ENTER.
+Mogućnosti izbornika će se pojaviti na lijevoj strani
+ekrana.
+
+Odabir višestrukih naslova na HDD-u
+1. Pritisnite MARKER.
+Na naslovu se pojavljuje oznaka za potvrdu.
+Pritisnite ponovo MARKER da poništite označeni
+naslov.
+2. Ponovite korak 1 da označite dodatni naslov.
+Možete dodati najviše 10 naslova.
+Mogućnosti izbornika će se pojaviti na lijevoj strani
+ekrana.
+
+2. Upotrijebite tipke v / V kako biste odabrali [Dubbing]
+mogućnost, a zatim pritisnite tipku ENTER.
+Pojavit će se izbornik za presnimavanje (Dubbing)
+
+3. Upotrijebite tipke b / B kako biste odabrali modus
+snimanja (XP, SP, LP, EP, MLP, AUTO ili Fast -brzo), a
+zatim pritisnite tipku V.
+Ikona ‘Start’ je jače osvijetljena.
+Fast-Brzo: Za više informacija pogledajte Brzo
+kopiranje na strani 46.
+
+3. Upotrijebite tipke b / B kako biste odabrali modus
+snimanja (XP, SP, LP, EP, MLP, AUTO ili Fast -brzo), a
+zatim pritisnite tipku V.
+Ikona ‘Start’ je jače osvijetljena.
+Fas - Brzo: Funkcija je dostupna samo za kopiranje s
+diska VR modusa na HDD disk. (Za više informacija
+pogledajte Brzo kopiranje na strani 46.)
+4. Kada je [Start] jače osvijetljena, pritisnite tipku
+ENTER.
+Presnimavanje će započeti.
+5. Kako biste presnimavanje zaustavili u bilo koje
+vrijeme, pritisnite tipku STOP (x).
+Napomene:
+
+
+Ovisno o uvjetima opreme za snimanje ili samog diska,
+presnimavanje možda neće biti moguće.
+
+4. Kada je ikona [Start] jače osvijetljena, pritisnite tipku
+ENTER.
+Presnimavanje će započeti.
+
+
+
+Zaustavljanje presnimavanja u [Fast] modusu koje je
+djelomično obavljeno će poništiti snimanje i svi će
+snimljeni podaci biti izgubljeni.
+
+5. Kako biste presnimavanje zaustavili u bilo koje
+vrijeme, pritisnite tipku STOP (x).
+Napomene:
+
+
+
+Vrijeme presnimavanja za [Fast] modus može trajati i do
+26.5 minuta.
+
+
+
+Vrijeme snimanja u [Fast] modusu se može razlikovati
+ovisno o veličini podataka izvora.
+
+
+
+Zaustavljanje presnimavanja u [Fast] modusu koje je
+djelomično obavljeno će poništiti snimanje i svi će
+snimljeni podaci biti izgubljeni.
+
+
+
+Ako preostali prostor na disk nije dovoljan za snimanje,
+[Fast] modus neće biti dostupan.
+
+
+
+Kada kopirate naslov s HDD-a na DVD-RW disk u VR
+modusu, [Fast] modus nije moguć za ureœeni HDD
+naslov.
+
+Presnimavanje
+
+2. Upotrijebite tipke v / V kako biste odabrali [Dubbing]
+mogućnost, a zatim pritisnite tipku ENTER.
+Pojavit će se izbornik za presnimavanje (Dubbing)
+
+47
+
+Kopiranje jednim dodirom
+(HDD na DVD)
+Funkcija kopiranja jednim dodirom kopira (One Touch
+Copy) trenutno reproducirani naslov s HDD diska na DVD.
+Kopira se cijeli naslov, bez obzira na kojem ste mjestu
+započeli s kopiranjem. Kopiranje će se napraviti u trenutno
+postavljenom modusu za snimanje (XP, SP, LP, EP ili
+MLP).
+Kako bi funkcija kopiranja jednim dodirom radila provjerite
+jeste li umetnuli DVD disk na kojem je moguće snimanje.
+Tijekom reprodukcije s HDD diska, pritisnite tipku
+DUBBING kako biste prekopirali trenutni naslov na DVD.
+Ekran na displeju će pokazati da je otpočeto kopiranje
+naslova. Reprodukcija se nastavlja tijekom procesa kopiranja.
+ Vi ne možete upotrijebiti funkciju kopiranja jednim
+dodirom za kopiranje naslova ako je bilo koji dio naslova
+zaštićen sistemom za jedno kopiranje.
+
+Kopiranje jednim dodirom (DVD
+na HDD)
+Funkcija kopiranja jednim dodirom (One Touch Copy) s
+DVD-a na HDD kopira jedan naslov na HDD u stvarnom
+vremenu. Kada počnete kopiranje, reprodukcija se vraća na
+početak naslova, a zatim se nastavlja sve do kraja naslova,
+kada se snimanje automatski nastavlja. Kopiranje će se
+napraviti u trenutno postavljenom modusu za snimanje (XP,
+SP, LP, EP ili MLP).
+Tijekom reprodukcije s DVD diska pritisnite tipku
+DUBBING kako biste prekopirali trenutni naslov na
+HDD.
+Reprodukcija će ponovo započeti od početka trenutnog
+naslova. Ekran na displeju će pokazati da je otpočeto
+kopiranje naslova.
+
+Napomene:
+ Video CD se ne može kopirati na HDD disk.
+ Kopiranje će se zaustaviti ako rekorder otkrije teško
+ogrebani ili protiv kopiranja zaštićeni dio.
+ Ako je neki dio naslova zaštićen autorskim pravom,
+kopiranje će početi ali se zaštićeni dijelovi neće snimiti.
+ Tijekom reprodukcije naslova s popisa naslova za
+reprodukciju, neće biti dostupna opcija kopiranja jednim
+dodirom (One Touch Copy).
+Savjet:
+Kako biste zaustavili kopiranje u bilo kojem trenutku,
+pritisnite tipku STOP (x).
+
+48
+
+Dodatne informacije
+Gledanje izbornika za popis naslova (Title
+List) koji je prikazan na drugim DVD
+rekorderima ili player-ima +RW +R
+Vi možete gledati izbornik za popis naslova (Title List) koji
+je prikazan na drugom DVD player-u koji može
+reproducirati DVD+RW ili DVD+R diskove.
+1. Umetnite već snimljeni DVD+R ili DVD+RW disk.
+2. Pritisnite tipku TITLE u modusu reprodukcija ili stop.
+Izbornik za popis naslova (Title List) će se prikazati na
+dolje prikazani način.
+Savjet
+Vi možete ukloniti izbornik za popis naslova (Title
+List) tako da pritisnete tipku STOP (x).
+
+3. Za reproduciranje naslova, odaberite naslov koji želite
+gledati, a zatim pritisnite tipku ENTER ili PLAY (N).
+
+Reproduciranje vašeg snimljenog materijala
+na drugim DVD player-ima (Finaliziranje
+diska)
+Većina običnih DVD player-a može reproducirati
+finalizirane DVD+R ili DVD+RW diskove koji su snimljeni
+u Video modusu. Mali broj player-a može isto tako
+reproducirati DVD-RW diskove koj isu snimljeni u VR
+modusu, bez obzira jesu li finalizirani ili ne. Provjerite
+priručnik koji dolazi sa svakim player-om kako biste
+provjerili koje formate diskova taj player može
+reproducirati.
+Finaliziranje ‘fiksira’ snimljeni materijal i ureœivanja na
+mjestu tako da se disk može reproducirati na običnom DVD
+player-u ili računalu koje je opremljeno s odgovarajućim
+DVDROM-om.
+Finaliziranje diska u Video modusu stvara ekran s
+izbornikom za navigaciju kroz sadržaj na disku. U izbornik
+se može pristupiti tako da pritisnete tipku MENU/LIST ili
+TITLE.
+Za finaliziranje diska, pogledajte “Finaliziranje” na
+strani 21.
+Napomene:
+ Nefinalizirani DVD+RW disk je moguće reproducirati na
+običnim DVD player-ima.
+ Ureœeni sadržaj na DVD+RW disku je kompatibilan s
+običnim DVD player-ima samo poslije finaliziranja.
+ Svaki ureœeni sadržaj na DVD+R disku nije kompatibilan
+s običnim DVD player-ima. (Sakrivanje, poglavlje,
+kombiniranje, oznaka za dodavanje poglavlja, i sl.)
+ Koliko je vremena potrebno za finaliziranje ovisi o vrsti
+diska, o količini snimljenog materijala na disku i broju
+naslova na disku.
+
+Reference
+
+Reference
+
+49
+
+Kodovi jezika
+Upotrijebite ovaj popis kako biste unijeli jezik koji želite za sljedeća početna podešavanja:
+Disk audio, disk titl i izbornik za disk.
+Jezik
+Abkazian
+Afar
+Afrikaanski
+Albanski
+Ameharički
+Arapski
+Armenski
+Asameski
+Ajmarski
+Azerbejdžanski
+Baškirski
+Baskijski
+Bengalski; Bangla
+Bhutanski
+Biharski
+Bretonski
+Bugarski
+Burmanski
+Bjeloruski
+Kambodžanski
+Katalanski
+Kineski
+Korzikanski
+Hrvatski
+Hrvatski
+Danski
+Nizozemski
+Engleski
+Esperanto
+Estonski
+Faroeski
+
+Kod
+6566
+6565
+6570
+8381
+6577
+6582
+7289
+6583
+6588
+6590
+6665
+6985
+6678
+6890
+6672
+6682
+6671
+7789
+6669
+7577
+6765
+9072
+6779
+7282
+6783
+6865
+7876
+6978
+6979
+6984
+7079
+
+Jezik
+Fidžijski
+Finski
+Francuski
+Frizijski
+Galicijski
+Gruzijski
+Njemački
+Grčki
+Grenlandski
+Guaranski
+Guœaratski
+Hauski
+Židovski
+Hinduski
+Maœarski
+Islandski
+Indonezijski
+Interlingva
+Irski
+Talijanski
+Japanski
+Javanski
+Kanadski
+Kašmirski
+Kozački
+Kirgijski
+Korejski
+Kurdski
+Laotski
+Latinski
+Latvijski, Letski
+
+Kod
+7074
+7073
+7082
+7089
+7176
+7565
+6869
+6976
+7576
+7178
+7185
+7265
+7387
+7273
+7285
+7383
+7378
+7365
+7165
+7384
+7465
+7487
+7578
+7583
+7575
+7589
+7579
+7585
+7679
+7665
+7686
+
+Jezik
+Lingalski
+Litvanski
+Makedonski
+Malagasijski
+Malajski
+Malajalamski
+Malteški
+Maorski
+Maratski
+Moldavijski
+Mongolski
+Naurski
+Nepalski
+Norveški
+Orijski
+Panœapski
+Paštanski, Pušto
+Perzijski
+Poljski
+Portugalski
+Kečuanski
+Reto-romanski
+Rumunjski
+Ruski
+Samoanski
+Sanskrtski
+Škotsko Galski
+Srpski
+Srpsko – Hrvatski
+Šonanski
+Sindski
+
+Kod
+7678
+7684
+7775
+7771
+7783
+7776
+7784
+7773
+7782
+7779
+7778
+7865
+7869
+7879
+7982
+8065
+8083
+7065
+8076
+8084
+8185
+8277
+8279
+8285
+8377
+8365
+7168
+8382
+8372
+8378
+8368
+
+Jezik
+Singaleski
+Slovački
+Slovenski
+Somalijski
+Španjolski
+Sudanski
+Svahili
+Švedski
+Tagaloški
+Taœiski
+Tamilski
+Tatarski
+Teluški
+Thai
+Tibetanski
+Tigrinijski
+Tongoanski
+Turski
+Turkmenski
+Tvi
+Ukrajinski
+Urdski
+Uzbekistanski
+Vijetnamski
+Volapski
+Velški
+Volofski
+Xhosa
+Jidiš
+Yorupski
+Zulu
+
+Kod
+8373
+8375
+8376
+8379
+6983
+8385
+8387
+8386
+8476
+8471
+8465
+8484
+8469
+8472
+6679
+8373
+8479
+8482
+8475
+8487
+8575
+8582
+8590
+8673
+8679
+6789
+8779
+8872
+7473
+8979
+9085
+
+Kodovi zemalja
+Odaberite odgovarajući kod za zemlje s popisa.
+Zemlja
+Afganistan
+Argentina
+Australija
+Austrija
+Belgija
+Bolivija
+Brazil
+Butan
+Kambodža
+Kanada
+Kongo
+Čile
+Kina
+Kolumbija
+Kostarika
+Hrvatska
+Češka Republika
+Danska
+Ekvador
+Egipat
+Salvador
+
+50
+
+Kod
+AF
+AR
+AU
+AT
+BE
+BO
+BR
+BT
+KH
+CA
+CG
+CL
+CN
+CO
+CR
+HR
+CZ
+DK
+EC
+EG
+SV
+
+Zemlja
+Etiopija
+Fiœi
+Finska
+Francuska
+Njemačka
+Velika Britanija
+Grčka
+Grendland
+
+Kod
+ET
+FJ
+FI
+FR
+DE
+GB
+GR
+GL
+Heard i McDonald Otočje HM
+Hong Kong
+HK
+Maœarska
+HU
+Indija
+IN
+Indonezija
+ID
+Izrael
+IL
+Italija
+IT
+Jamajka
+JM
+Japan
+JP
+Kenija
+KE
+Kuvajt
+KW
+Libija
+LY
+Luksemburg
+LU
+
+Zemlja
+Malezija
+Maldivi
+Meksiko
+Monako
+Mongolija
+Maroko
+Nepal
+Nizozemska
+Nizo. Antili
+Novi Zeland
+Nigerija
+Norveška
+Oman
+Pakistan
+Panama
+Paragvaj
+Filipini
+Poljska
+Portugal
+Rumunjska
+Ruska Federacija
+
+Kod
+MY
+MV
+MX
+MC
+MN
+MC
+NP
+NL
+AN
+NZ
+NE
+NO
+OM
+PK
+PA
+PY
+PH
+PL
+PT
+RO
+RU
+
+Zemlja
+Saudijska Arabija
+Senegal
+Singapur
+Slovačka Republika
+Slovenija
+Južna Afrika
+Južna Koreja
+Španjolska
+Šri Lanka
+Švedska
+Švicarska
+Tajvan
+Tajland
+Turska
+Uganda
+Ukrajina
+Sjedinjene Države
+Urugvaj
+Uzbekistan
+Vijetnam
+Zimbabve
+
+Kod
+SA
+SN
+SG
+SK
+SI
+ZA
+KR
+ES
+LK
+SE
+CH
+TW
+TH
+TR
+UG
+UA
+US
+UY
+UZ
+VN
+ZW
+
+Upravljanje s vašim TV-om pomoću
+isporučeng daljinskog upravljača
+
+Upravljanje s drugim TV-om pomoću
+daljinskog upravljača
+
+Vi možete kontrolirati jačinu zvuka, ulazni izvor i prekidač
+za uključivanje/isključivanje na vašem LG TV-u pomoću
+isporučenog daljinskog upravljača.
+
+Isto tako vi možete kontrolirati jačinu zvuka, ulazni izvor i
+prekidač za uključivanje/isključivanje na drugom TV-u koji
+nije LG TV.
+Ako je vaš TV na donjem popisu, postavite odgovarajući
+kod proizvoœača.
+
+TV možete kontrolirati pomoću dolje navedenih tipki.
+
+1. Dok držite pritisnutom tipku TV POWER, pritisnite
+brojčane tipke kako biste odabrali kod proizvoœača
+vašeg TV-a (pogledajte tabelu dolje).
+2. Otpustitte tipku TV POWER.
+
+Brojevi kodova za TV-e koje je moguće
+kontrolirati
+
+Pritiskom na tipku Vi možete
+POWER
+AV/INPUT
+
+Uključiti (on) i isključiti (off) TV.
+Prebacivati ulazni izvor za TV
+izmeœu TV-a i drugih ulaznih izvora.
+
+PR/CH +/–
+
+Prelaziti gore i dolje preko
+memoriranih kanala.
+
+VOL +/–
+
+Podešaviti jačinu zvuka na TV-u.
+
+Ako se na popisu nalazi više od jednog kodnog broja,
+pokušajte unijeti jedan po jedan dok ne naœete onaj koji
+radi za vaš TV-u.
+Proizvoœač
+
+Kodni broj
+
+LG / GoldStar
+
+1 (Default), 2
+
+Zenith
+
+1, 3, 4
+
+Samsung
+
+6, 7
+
+Sony
+
+8, 9
+
+Hitachi
+
+4
+
+Napomene:
+ Ovisno o vašem TV-u, neke ili sve tipke neće raditi na
+TV -u, čak i kada unesete ispravan kod proizvoœača.
+ Ako unesete novi kodni broj, prethodno unešeni kodni
+broj će se pobrisati.
+ Kada mijenjate baterije na daljinskom upravljaču, kodni
+broj koji ste postavili se može resetirati na default
+postavku. Ponovno postavite odgovarajući kodni broj.
+
+Reference
+
+TV tipke za
+upravljanje
+
+51
+
+Rješavanje problema
+Provjerite sljedeći vodič kako biste našli mogući uzrok problema prije nego što pozovete servis.
+Mogući uzrok
+
+Simptom
+
+
+Napojni kabel nije priključen.
+
+
+
+Sigurno priključi napojni kabel u utičnicu
+u zidu.
+
+Nema slike.
+
+
+
+TV/DVD modus za rekorder je podešen
+na TV.
+
+
+
+Pritisnite tipku TV/DVD na daljinskom
+upravljaču više puta i odaberite DVD
+modus. TV indikator će nestati s displeja.
+
+
+
+TV nije podešen da prima izlazni signal s
+rekordera.
+
+
+
+Na TV-u izaberite pravi video ulazni
+modus tako dasse slika s rekordera pojavi
+na ekranu TV-a.
+
+
+
+TV video kabel nije sigurno priključen.
+
+
+
+Priključi sigurno video kabel.
+
+
+
+TV el. napajanje je isključeno.
+
+
+
+Uključite (on) TV.
+
+
+
+Oprema koja je priključena s audio
+kabelom nije podešena da prima izlazni
+signal s rekordera.
+
+
+
+Izaberite ispravan ulazni modus audio
+prijemnika kako bi mogli slušati zvuk s
+rekordera.
+
+
+
+Audio kablovi nisu sigurno ukopčani.
+
+
+
+Ukopčajte sigurno audio kabel.
+
+
+
+Nije uključeno napajanje opreme koja je
+priključena na audio kabel.
+
+
+
+Uključite opremu spojenu na audio kabel.
+
+
+
+Priključni audio kabel je oštećen.
+
+
+
+Zamijenite oštećeni kabel novim kablom.
+
+Reprodukcija slike je
+slabe kvalitete.
+
+
+
+Disk nije čist.
+
+
+
+Očistite disk.
+
+DVD player ne počinje s
+reprodukcijom.
+
+
+
+Nema umetnutog diska.
+
+
+
+Umetnite disk (Provjerite je li indikator za
+disk upaljen na displeju).
+
+
+
+Stavljen je disk koji se ne može
+reproducirati.
+
+
+
+Umetni disk koji se može reproducirati
+(provjerite vrstu diska, sistem za boju i
+regionalni kod).
+
+
+
+Disk je naopačke umetnut.
+
+
+
+Umetnite disk tako da strana za
+reprodukciju gleda prema dolje.
+
+
+
+Disk nije umetnut unutar vodilice.
+
+
+
+Postavite disk ispravno u ladicu za disk
+unutar vodilice.
+
+
+
+Disk nije čist.
+
+
+
+Očistite disk.
+
+
+
+Postavljena je razina za ocjenjivanje.
+
+
+
+Poništi funkciju Ocjenjivanja (Rating) ili
+promijeni razinu ocjene.
+
+Slika s vanjskog ulaza je
+izobličena.
+
+
+
+Video signal s vanjske komponente je
+zaštićen protiv kopiranja.
+
+
+
+Vi se ne možete priključiti preko
+rekordera. Priključite komponentu izravno
+na vaš TV.
+
+Neki se kanali preskaču
+kad se upotrebljavaju
+tipke PR/CH (+/-).
+
+
+
+Ti kanali nisu pospremljeni u memoriju
+rekordera.
+
+
+
+Obnovite kanale. Pogledajte “Ureœivanje
+programa - Program Edit” na strani 16.
+
+Slika ili zvuk emitiranog
+kanala su slabi ili ih nema.
+
+
+
+Antenna ili kablovi nisu dobro učvršćeni.
+
+
+
+Učvrstite priključke ili zamijenite kabel.
+
+Nema zvuka.
+
+52
+
+Ispravljanje
+
+Nema napajanja.
+
+Snimanje s vremenskim
+brojačem (Timer) nije
+moguće.
+
+Daljinski upravljač ne radi
+ispravno.
+
+
+
+Disk je snimljen u Video modusu.
+
+
+
+Finalizirajte disk. (strana 21)
+
+
+
+Neki player-i neće reproducirati neki disk
+čak i kad je on finaliziran u Video modusu.
+
+
+
+Nema rješenja.
+
+
+
+Disk je snimljen u VR modusu.
+
+
+
+Drugi player mora biti RW kompatibilan
+kako biste ga reproducirali.
+
+
+
+Diskovi koji su snimljeni s materijalom
+jedno-kopiraj ne mogu se reproducirati na
+drugim rekorderima.
+
+
+
+Nema rješenja.
+
+
+
+Preostali prazan prostor na disku je nedovoljan.
+
+
+
+Upotrijebite drugi disk.
+
+
+
+Izvor koji pokušavate snimiti je zaštićen
+protiv kopiranja.
+
+
+
+Izvor ne možete snimati.
+
+
+
+Kada postavljate kanal za snimanje, kanal je
+podešen na kanal TV prijemnika.
+
+
+
+Odaberite kanal na prijemniku koji je
+ugraœen u vašem TV-u.
+
+
+
+Kad snimate na disk u Video modusu, neće
+biti moguće kopirati progra,mem koji su
+zaštićeni sistemom “jednog-kopiranja”.
+
+
+
+Upotrijebite disk koji je formatiran u VR
+modusu za kopiranje materijala koji je
+zaštićen sistemom “jednog-kopiranja”.
+
+
+
+Sat na rekorderu nije pravilno postavljen.
+
+
+
+
+
+Timer je nepravilno programiran.
+
+
+
+Postavite ispravno vrijeme na satu.
+Poglledajte “Clock set (Podešavanje
+sata)” na strani 17.
+Reprogramirajte timer. Pogledajte “Snimanje
+pomoću vremenskog brojača (Timer)” na strani 36.
+
+
+
+Žaruljica inikatora za snimanje timer-om se
+ne pojavljuje nakon programiranja timer-a.
+
+
+
+Reprogramirajte timer.
+
+
+
+Daljinski upravljač nije usmjeren prema
+senzoru daljinskog upravljača na rekorderu.
+
+
+
+Usmjerite daljinski upravljač prema
+senzoru za daljinski upravljač na
+rekorderu.
+
+
+
+Daljinski upravljač je previše udaljen od
+rekordera.
+
+
+
+Radite s daljinskim upravljačem unutar 7
+m.
+
+
+
+Postoji prepreka na putu izmeœu daljinskog
+upravljača i rekordera.
+
+
+
+Uklonite prepreku.
+
+
+
+Baterije u daljinskom upravljaču su
+ispražnjene.
+
+
+
+Zamjenite stare baterije novim baterijama.
+
+Resetiranje rekordera
+Ako primjetite neki od sljedećih simptoma...
+
+
+rekorder možete resetirati na sljedeći način:
+
+
+5 sekundi. Ovo će prisiliti ureœaj da se isključi, a zatim
+
+Ureœaj je iskopčan, ali se el. napajanje ne isklučuje ili
+ne uključuje.
+
+
+
+Prednja ploča displeja ne radi.
+
+
+
+Rekorder ne radi normalno...
+
+Pritisnite tipku POWER i držite je pritisnutom otprilike
+ponovo uključite ureœaj .
+
+
+
+Iskopčajte električni kabel, pričekajte najmanje pet
+sekundi, a zatim ponovno ukopčajte kabel.
+
+Reference
+
+Ne može snimati ili nije
+uspješno snimio.
+
+Ispravljanje
+
+Mogući uzrok
+
+Simptom
+Ne može reproducirati na
+nekom drugom rekorderu,
+disk koji je snimljen na
+ovom rekorderu.
+
+53
+
+Specifikacija
+Općenito
+Električno napajanje
+Potrošnja el. snage
+Dimenzije (približno)
+Neto težina (približno)
+Radna temperatura
+Radna vlaga
+Televizijski sistem
+Format za snimanje
+
+AC 200-240V, 50/60 Hz
+30W
+430 X 54 X 285 mm (š x v x d) bez nogu
+3.5 kg
+5˚C to 35˚C
+5 % to 90 %
+PAL I, B/G, I/I, SECAM D/K, K1 kolor sistem
+PAL
+
+Snimanje
+Format za snimanje
+Medij za snimanje
+Vrijeme za snimanje
+
+Format za video snimanja
+Frekvencija uzorka
+Format kompresije
+Format za audio snimanja
+Frekvencija uzorka
+Format kompresije
+
+DVD Video snimanje, DVD-VIDEO
+HDD ( RH265/RH255: 80GB, RH266/RH256: 160GB), DVD-ReWritable, DVDRecordable, DVD+ReWritable, DVD+Recordable
+DVD (4.7GB): Približno 1 sat (XP modus), 2 sata (SP modus),
+4 sata (LP modus), 6 sati (EP modus), 11 sati (MLP modus)
+HDD ( 80/160GB, MPEG2 snimanje):
+Približno 18/37 sati (XP modus), 37/75 sati (SP modus), 75/149 sati (LP
+modus), 112/223 sati (EP modus), 233/477 sati (MLP modus)
+27MHz
+MPEG 2 (podržava VBR)
+48kHz
+Dolby Digital
+
+Reprodukcija
+Frekvencijski odgovor
+Omjer signal-šum
+Izobličenje harmonika
+Dinamički opseg
+
+DVD (PCM 48 kHz): 8 Hz to 22 kHz, CD: 8 Hz to 20 kHz
+DVD (PCM 96 kHz): 8 Hz to 44 kHz
+Više od 100 dB (AUDIO OUT konektor)
+Manje od 0.008% (AUDIO OUT konektor)
+Više od 95 dB (AUDIO OUT konektor)
+
+Ulazi
+AERIAL IN
+VIDEO IN
+AUDIO IN
+
+Antenski ulaz, 75 ohma
+1.0 Vp-p 75 ohma, sync negativna, RCA konektor x 1 / SCART x 2
+2.0 Vrms više od 47 kohms, CA konektor (L, R) x 1 / SCART x 2
+
+Izlazi
+COMPONENT VIDEO OUT
+Audio izlaz (digitalni audio)
+Audio izlaz (analogni audio)
+
+(Y) 1.0 V (p-p), 75 Ω, sync negativna, RCA konektor x 1
+(PB)/(PR) 0.7 V (p-p), 75 Ω, RCA konektor x 2
+0.5 V (p-p), 75 Ω, RCA konektor x 1
+2.0 Vrms (1 KHz, 0 dB), 600 Ω, RCA konektor (L, R) x 1 / SCART x 2
+
+Dodatna oprema
+Scart kabel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+Daljinski upravljač . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+
+
+
+54
+
+RF koaksijalni kabel . . . . . . . . . . . . . . . . .1
+Baterije . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+
+Izvedba i specifikacije su podložni promjenama bez posebnog najavljivanja.

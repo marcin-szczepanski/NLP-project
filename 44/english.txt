@@ -1,0 +1,4642 @@
+Network
+Blu-ray Disc Player
+Owner’s Manual
+Model: BD300
+Before connecting, operating or adjusting this product,
+please read this instruction booklet carefully and completely.
+
+As an ENERGY STAR® Partner, LG
+has determined that this product
+or product models meet the
+ENERGY STAR® guidelines for
+energy efficiency.
+ENERGY STAR® is a U.S. registered mark.
+
+CAUTION
+RISK OF ELECTRIC SHOCK
+DO NOT OPEN
+
+CAUTION: The apparatus should not be exposed to water
+(dripping or splashing) and no objects filled with liquids,
+such as vases, should be placed on the apparatus.
+CAUTION concerning the Power Cord
+
+CAUTION: TO REDUCE THE RISK
+OF ELECTRIC SHOCK
+DO NOT REMOVE COVER (OR BACK)
+NO USER-SERVICEABLE PARTS INSIDE
+REFER SERVICING TO QUALIFIED SERVICE
+PERSONNEL.
+This lightning flash with arrowhead symbol within an equilateral triangle is intended to alert the
+user to the presence of uninsulated dangerous
+voltage within the product’s enclosure that may
+be of sufficient magnitude to constitute a risk of
+electric shock to persons.
+The exclamation point within an equilateral triangle is intended to alert the user to the presence of important operating and maintenance
+(servicing) instructions in the literature accompanying the product.
+WARNING: TO PREVENT FIRE OR ELECTRIC SHOCK
+HAZARD, DO NOT EXPOSE THIS PRODUCT TO RAIN
+OR MOISTURE.
+WARNING: Do not install this equipment in a confined
+space such as a book case or similar unit.
+CAUTION:
+Do not block any ventilation openings. Install in accordance with the manufacturer’s instructions.
+Slots and openings in the cabinet are provided for ventilation and to ensure reliable operation of the product and to
+protect it from over heating.
+The openings should never be blocked by placing the
+product on a bed, sofa, rug or other similar surface.This
+product should not be placed in a built-in installation such
+as a bookcase or rack unless proper ventilation is provided
+or the manufacturer’s instruction have been adhered to.
+
+Most appliances recommend they be placed upon a
+dedicated circuit;
+That is, a single outlet circuit which powers only that appliance and has no additional outlets or branch circuits.
+Check the specification page of this owner’s manual to be
+certain.
+Do not overload wall outlets. Overloaded wall outlets, loose
+or damaged wall outlets, extension cords, frayed power
+cords, or damaged or cracked wire insulation are dangerous. Any of these conditions could result in electric shock
+or fire. Periodically examine the cord of your appliance,
+and if its appearance indicates damage or deterioration,
+unplug it, discontinue use of the appliance, and have the
+cord replaced with an exact replacement part by an authorized servicer.
+Protect the power cord from physical or mechanical abuse,
+such as being twisted, kinked, pinched, closed in a door, or
+walked upon. Pay particular attention to plugs, wall outlets,
+and the point where the cord exits the appliance.
+To disconnect power from the mains, pull out the mains
+cord plug. When installing the product, ensure that the plug
+is easily accessible.
+Disposal of your old appliance
+1. When this crossed-out wheeled bin symbol
+is attached to a product it means the product
+is covered by the European Directive
+2002/96/EC.
+2. All electrical and electronic products should
+be disposed of separately from the municipal
+waste stream via designated collection facilities appointed by the government or the
+local authorities.
+3. The correct disposal of your old appliance
+will help prevent potential negative consequences for the environment and human
+health.
+4. For more detailed information about disposal
+of your old appliance, please contact your
+city office, waste disposal service or the
+shop where you purchased the product.
+This product is manufactured to comply
+with EMC Directive 2004/108/EC and Low
+Voltage Directive 2006/95/EC.
+
+CAUTION:
+This product employs a Laser System.
+To ensure proper use of this product, please read this
+owner’s manual carefully and retain it for future reference.
+Should the unit require maintenance, contact an authorized
+service centre.
+Use of any controls, adjustments, or procedures other than
+those specified herein may result in hazardous radiation
+exposure.
+To prevent direct exposure to laser beam, do not try to
+open the enclosure. Visible laser radiation when open. DO
+NOT STARE INTO BEAM.
+
+2
+
+European representative :
+LG Electronics Service Europe B.V.
+Veluwezoom 15, 1327 AE Almere, The
+Netherlands
+(Tel : +31-036-547-8940)
+
+Contents
+
+Installation and Setup . . . . . . . . . . . . . . . .12-23
+Rear Panel . . . . . . . . . . . . . . . . . . . . . . . . .12
+HDMI connection . . . . . . . . . . . . . . . . . . . .13
+Connections to Your TV . . . . . . . . . . . . . . . .14
+Connecting to an Amplifier . . . . . . . . . . . . . .15
+Internet connection . . . . . . . . . . . . . . . . . . .16
+Resolution Setting . . . . . . . . . . . . . . . . .17-18
+Initial Settings . . . . . . . . . . . . . . . . . . . . . . .19
+- General Operation . . . . . . . . . . . . . . . .19
+- [DISPLAY] Menu . . . . . . . . . . . . . . . . .19
+- [LANGUAGE] Menu . . . . . . . . . . . . . .20
+- [AUDIO] Menu . . . . . . . . . . . . . . . . . .20
+- [LOCK] Menu (Parental Control) . . . . . .21
+- [NETWORK] Menu . . . . . . . . . . . . . . . .22
+- [OTHERS] Menu . . . . . . . . . . . . . . . . .23
+
+Operations . . . . . . . . . . . . . . . . . . . . . . . . .24-32
+General playback features . . . . . . . . . . .24-25
+If a disc menu screen is displayed . . . . . . . .26
+Enlarge the playback image . . . . . . . . . . . . .26
+Time Search . . . . . . . . . . . . . . . . . . . . . . . .26
+Skip Search . . . . . . . . . . . . . . . . . . . . . . . . .26
+Marker Search . . . . . . . . . . . . . . . . . . . . . . .26
+Using Colour (A, B, C, D) Buttons . . . . . . . .26
+Last Scene Memory . . . . . . . . . . . . . . . . . . .26
+Screen Saver . . . . . . . . . . . . . . . . . . . . . . .26
+Displaying Disc Information On-Screen . . . .27
+Enjoying BD-LIVE™ or BONUS VIEW™
+in BD-Video . . . . . . . . . . . . . . . . . . . . . . . .28
+Playing a DivX movie file . . . . . . . . . . . . . . .29
+Playing a DVD VR Format Disc . . . . . . . . . .30
+Playing an Audio CD or MP3/WMA files . . . .31
+Viewing a Photo file . . . . . . . . . . . . . . . . . . .32
+
+Introduction
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . .5-11
+About the
+Symbol Display . . . . . . . . . . . . .5
+Symbols Used in this Manual . . . . . . . . . . . . .5
+Notes on Discs . . . . . . . . . . . . . . . . . . . . . . .5
+Moisture Condensation . . . . . . . . . . . . . . . . .5
+Handling the Unit . . . . . . . . . . . . . . . . . . . . . .5
+Playable Discs . . . . . . . . . . . . . . . . . . . . . . . .6
+Regional Code . . . . . . . . . . . . . . . . . . . . . . .6
+BD-ROM Disc Features . . . . . . . . . . . . . . . . .7
+Compatibility Notes . . . . . . . . . . . . . . . . . . . .8
+Certain System Requirements . . . . . . . . . . . .8
+Important Notice for TV colour system . . . . . .8
+Using USB Device . . . . . . . . . . . . . . . . . . . . .9
+Using the Home Menu . . . . . . . . . . . . . . . . . .9
+Front Panel . . . . . . . . . . . . . . . . . . . . . . . . .10
+Display Window . . . . . . . . . . . . . . . . . . . . . .10
+Remote Control . . . . . . . . . . . . . . . . . . . . . .11
+Remote Control Operation . . . . . . . . . . . . . .11
+
+Reference . . . . . . . . . . . . . . . . . . . . . . . . . .33-40
+Controlling a TV with the Supplied
+Universal Remote Control . . . . . . . . . . . . . .33
+To programme the remote to control the TV
+using the manufacturer code . . . . . . . . . . . .33
+Code numbers of controllable TVs . . . . .34-35
+Language Codes . . . . . . . . . . . . . . . . . . . . .36
+Area Codes . . . . . . . . . . . . . . . . . . . . . . . . .36
+Troubleshooting . . . . . . . . . . . . . . . . . . . . . .37
+Customer Support . . . . . . . . . . . . . . . . . . . .37
+Specifications . . . . . . . . . . . . . . . . . . . . . . .38
+This unit’s Audio Output Specifications . . . . .39
+Open source software notice . . . . . . . . . . . .40
+
+3
+
+Notes on Copyrights
+
+
+
+
+
+
+
+
+Because AACS (Advanced Access Content
+System) is approved as content protection system for BD format, similar to use of CSS (Content
+Scramble System) for DVD format, certain restrictions are imposed on playback, analogue signal
+output, etc., of AACS protected contents. The
+operation of this product and restrictions on this
+product may vary depending on your time of purchase as those restrictions may be adopted
+and/or changed by AACS after the production of
+this product.
+Furthermore, BD-ROM Mark and BD+ are additionally used as content protection systems for
+BD format, which imposes certain restrictions
+including playback restrictions for BD-ROM Mark
+and/or BD+ protected contents. To obtain additional information on AACS, BD-ROM Mark, BD+,
+or this product, please contact an authorized
+Customer Service Centre.
+Many BD-ROM/DVD discs are encoded with copy
+protection. Because of this, you should only connect your player directly to your TV, not to a VCR.
+Connecting to a VCR results in a distorted picture
+from copy-protected discs.
+
+Manufactured under licence from Dolby Laboratories.
+Dolby and the double-D symbol are trademarks of
+Dolby Laboratories.
+Manufactured under licence under U.S. Patent #:
+5,451,942; 5,956,674; 5,974,380; 5,978,762;
+6,487,535 & other U.S. and worldwide patents
+issued & pending. DTS is a registered trademark
+and the DTS logos, Symbol, DTS-HD and DTS-HD
+Advanced Digital Out are trademarks of DTS, Inc.
+© 1996-2007 DTS, Inc. All Rights Reserved.
+HDMI, the HDMI logo and High-Definition
+Multimedia Interface are trademarks or registered
+trademarks of HDMI licensing LLC.
+“BD-LIVE” logo is trademark of Blu-ray Disc
+association.
+“DVD Logo” is trademark of DVD Format/Logo
+Licensing Corporation.
+
+What is SIMPLINK?
+
+This product incorporates copyright protection
+technologies that are protected by certain U.S.
+patents and other intellectual property rights
+owned by Macrovision Corporation and other
+rights owners. Use of this copyright protection
+technology must be authorized by Macrovision
+Corporation and is intended for home and other
+limited viewing uses only, unless otherwise authorized by Macrovision Corporation. Reverse engineering or disassembly is prohibited.
+
+Some functions of this unit are controlled by the
+TV’s remote control when this unit and LG TV’s with
+SIMPLINK are connected through HDMI connection.
+
+Under the U.S. Copyright laws and Copyright
+laws of other countries, unauthorized recording,
+use, display, distribution, or revision of television
+programmes, videotapes, BD-ROM discs, DVDs,
+CDs and other materials may subject you to civil
+and/or criminal liability.
+
+Note:
+
+• Controllable functions by LG TV’s remote control;
+Play, Pause, Scan, Skip, Stop, Power Off, etc.
+• Refer to the TV owner’s manual for the details of
+SIMPLINK function.
+• LG TV’s with SIMPLINK function have the logo as
+shown above.
+
+Depending on the disc type or playing status, some
+SIMPLINK operation may differ from your purpose
+or not work.
+
+To use BD-Live functionality
+You must attach an external USB device using the
+USB port (see page 9).
+
+4
+
+To ensure proper use of this product, please read
+this owner’s manual carefully and retain for future
+reference.
+
+Cleaning Discs
+Fingerprints and dust on the disc can cause poor
+picture quality and sound distortion. Before playing,
+clean the disc with a clean cloth. Wipe the disc from
+the centre out.
+
+Introduction
+
+Introduction
+This manual provides information on the operation
+and maintenance of your player. Should the unit
+require service, contact an authorized service centre.
+
+About the
+
+Symbol Display
+
+“
+“ may appear on your TV display during operation and indicates that the function explained in this
+owner’s manual is not available on that specific
+media.
+
+Symbols Used in this Manual
+Note:
+Indicates special notes and operating features.
+Tip:
+Indicates tips and hints for making the task easier.
+A section whose title has one of the following symbols are applicable only to the disc represented by
+the symbol.
+BD BD-ROM disc
+DVD DVD-Video, DVD±R/RW in Video mode or
+VR mode and finalized
+AVCHD DVD±R/RW in AVCHD format
+DivX DivX files
+ACD Audio CDs
+MP3 MP3 files
+WMA WMA files
+PHOTO Photo files
+
+Notes on Discs
+Handling Discs
+Do not touch the playback side of the disc. Hold the
+disc by the edges so that fingerprints do not get on
+the surface. Never stick paper or tape on the disc.
+
+Do not use strong solvents such as alcohol, benzine, thinner, commercially available cleaners, or
+anti-static spray intended for older vinyl records.
+
+Moisture Condensation
+Never operate this product immediately after moving
+it from a cold location to a warm location. Leave it
+for two or three hours without operating it. If you use
+this product in such a situation, it may damage discs
+and internal parts.
+
+Handling the Unit
+When shipping the unit
+Please save the original shipping carton and packing materials. If you need to ship the unit, for maximum protection, re-pack the unit as it was originally
+packed at the factory.
+Keeping the exterior surfaces clean
+Use the supplied cloth for cleaning the surfaces of
+the player.
+•
+
+Do not use volatile liquids such as insecticide
+spray near the unit.
+
+•
+
+Wiping with strong pressure may damage the
+surface.
+
+•
+
+Do not leave rubber or plastic products in contact with the unit for a long period of time.
+
+Cleaning the unit
+To clean the player, use a soft, dry cloth. If the surfaces are extremely dirty, use a soft cloth lightly
+moistened with a mild detergent solution.
+Do not use strong solvents such as alcohol, benzine,
+or thinner, as these might damage the surface of the
+unit.
+Maintaining the Unit
+The unit is a high-tech, precision device. If the optical pick-up lens and disc drive parts are dirty or
+worn, the picture quality could be diminished.
+
+Storing Discs
+After playing, store the disc in its case. Do not
+expose the disc to direct sunlight or sources of heat
+and never leave it in a parked car exposed to direct
+sunlight.
+
+For details, please contact your nearest authorized
+service centre.
+
+5
+
+Playable Discs
+Blu-ray Disc
+- Discs such as movies that can be purchased or rented
+- BD-R/RE discs that contain audio titles,
+DivX, MP3, WMA, or Photo files.
+
+Regional Code
+This unit has a regional code printed on the rear of
+the unit. This unit can play only BD-ROM or DVD
+discs labelled same as the rear of the unit or “ALL”.
+Notes:
+
+
+Depending on the conditions of the recording
+equipment or the CD-R/RW (or DVD±R/RW) disc
+itself, some CD-R/RW (or DVD±R/RW) discs cannot be played on the unit.
+
+
+
+Do not attach any seal or label to either side (the
+labelled side or the recorded side) of a disc.
+
+
+
+Do not use irregularly shaped CDs (e.g., heartshaped or octagonal). Doing so may result in
+malfunctions.
+
+
+
+Depending on the recording software & the finalization, some recorded discs (CD-R/RW or
+DVD±R/RW) may not be playable.
+
+DVD+R (8 cm / 12 cm disc)
+- Finalized disc only
+- Supports the dual layer disc also
+- AVCHD format
+
+
+
+DVD±R/RW and CD-R/RW discs recorded using
+a personal computer or a DVD or CD Recorder
+may not play if the disc is damaged or dirty, or if
+there is dirt or condensation on the player’s lens.
+
+DVD+RW (8 cm / 12 cm disc)
+- Video mode and finalized only
+- AVCHD format
+
+
+
+If you record a disc using a personal computer,
+even if it is recorded in a compatible format, there
+are cases in which it may not play because of the
+settings of the application software used to create
+the disc. (Check with the software publisher for
+more detailed information.)
+
+
+
+This player requires discs and recordings to meet
+certain technical standards in order to achieve
+optimal playback quality. Pre-recorded DVDs are
+automatically set to these standards. There are
+many different types of recordable disc formats
+(including CD-R containing MP3 or WMA files)
+and these require certain pre-existing conditions
+to ensure compatible playback.
+
+
+
+Customers should note that permission is
+required in order to download MP3 / WMA files
+and music from the Internet. Our company has no
+right to grant such permission. Permission should
+always be sought from the copyright owner.
+
+DVD-VIDEO (8 cm / 12 cm disc)
+Discs such as movies that can be purchased or rented
+DVD-R (8 cm / 12 cm disc)
+- Video mode and finalized only
+- Supports the dual layer disc also
+- AVCHD format
+DVD-RW (8 cm / 12 cm disc)
+- VR mode, Video mode and finalized
+only
+- AVCHD format
+
+Audio CD (8 cm / 12 cm disc)
+Music CDs or CD-Rs/CD-RWs in music
+CD format that can be purchased
+CD-R/CD-RW (8 cm / 12 cm disc)
+CD-R/CD-RW discs that contain audio
+titles, DivX, MP3, WMA, or Photo files.
+AVCHD (Advanced Video Codec High Definition)
+• This player can playback AVCHD format discs.
+These discs are normally recorded and used in
+camcorders.
+• The AVCHD format is a high definition digital video
+camera format.
+• The MPEG-4 AVC/H.264 format is capable of
+compressing images at higher efficiency than that
+of the conventional image compressing format.
+• Some AVCHD discs use the “x.v.Colour” format.
+• This player can playback AVCHD discs using
+“x.v.Colour” format.
+• “x.v.Colour” is a trademark of Sony Corporation.
+• “AVCHD” and the AVCHD logo are trademarks of
+Matsushita Electronic Industrial Co., Ltd. and Sony
+Corporation.
+• Some AVCHD format discs may not play, depending on the recording condition.
+• AVCHD format discs need to be finalized.
+• “x.v.Colour” offers a wider colour range than normal DVD camcorder discs.
+
+6
+
+BD-ROM Discs can store 25 GB (single layer) or
+50 GB (dual layer) on a single sided disc - about
+5 to 10 times the capacity of a DVD.
+BD-ROM Discs also support the highest quality HD
+video available in the industry (up to 1920 x 1080) Large capacity means no compromise on video
+quality. Furthermore, a BD-ROM disc has the same
+familiar size and look as DVD.
+• The following BD-ROM disc features are disc
+dependent and will vary.
+• Appearance and navigation of features will also
+vary from disc to disc.
+• Not all discs will have the features described
+below.
+• BD-ROM, Hybrid disc have both BD-ROM and
+DVD (or CD) layers on one side. On such discs,
+BD-ROM layer will be only played back in this
+player.
+Video highlights
+The BD-ROM format for movie distribution supports
+three highly advanced video codecs, including
+MPEG-2, MPEG4 AVC (H.264), and SMPTE VC1.
+HD video resolutions are also available:
+• 1920 x 1080 HD
+• 1280 x 720 HD
+For High-Definition Playback
+To view high-definition contents from BD-ROM discs,
+an HDTV is required. Some discs may require HDMI
+OUT for viewing of high-definition contents. Ability to
+view high-definition contents in BD-ROM discs may
+be limited depending on the resolution of your TV.
+Graphic planes
+Two individual, full HD resolution (1920x1080)
+graphic planes (layers) are available, on top of the
+HD video layer. One plane is assigned to videorelated, frame accurate graphics (like subtitles), and
+the other plane is assigned to interactive graphic
+elements, such as buttons or menus.
+For both planes, various wipes, fades and scroll
+effects may be available.
+
+Menu sounds
+When you highlight or select a menu option, sounds
+can be heard such as button clicks or a voice-over
+explaining the highlighted menu choice.
+
+Introduction
+
+BD-ROM Disc Features
+
+Multi-page/PopUp Menus
+With DVD-Video, playback is interrupted each time a
+new menu screen is accessed. Due to BD-ROM
+disc’s ability to preload data from the disc without
+interrupting playback, a menu can consist of several
+pages.
+You can browse through the menu pages or select
+different menu paths, while the audio and video
+remain playing in the background.
+Interactivity
+Certain BD-ROM Discs may contain animated
+menus and/or trivia games.
+User Browsable Slideshows
+With BD-ROM Discs, you can browse through various still pictures while the audio remains playing.
+Subtitles
+Depending on what is contained on the BD-ROM
+disc, you may be able to select different font styles,
+sizes and colours for some subtitles. Subtitles may
+also be animated, scrolled or faded in and out.
+BD-J Interactive Capability
+The BD-ROM format supports Java for interactive
+functions. “BD-J” offers content providers almost
+unlimited functionality when creating interactive
+BD-ROM titles.
+
+BD-ROM Disc Compatibility
+This player supports BD-ROM Profile 2.
+• Discs supporting BD-Live (BD-ROM version 2
+Profile 2) that allows interactive functions to be
+used when this unit is connected to the Internet in
+addition to the BONUSVIEW function.
+• Discs supporting BONUSVIEW (BD-ROM version
+2 Profile 1 version 1.1/Final Standard Profile) that
+allows Virtual packages or Picture-in-Picture functions to be used.
+
+Graphic
+Plane
+
+HD Video
+7
+
+Compatibility Notes
+
+
+Because BD-ROM are a new format, certain disc,
+digital connection and other compatibility issues
+are possible. If you experience compatibility problems, please contact an authorized Customer
+Service Centre.
+
+
+
+Viewing high-definition content and up-converting
+standard DVD content may require an HDMIcapable input or HDCP-capable DVI input on
+your display device.
+
+
+
+Some BD-ROM and DVD discs may restrict the
+use of some operation commands or features.
+
+
+
+Dolby TrueHD, Dolby Digital Plus and DTS-HD
+are supported with maximum 7.1 channels if you
+use HDMI connection for the audio output of the
+unit.
+
+
+
+You can use the USB device that is used to store
+some disc related information, including downloaded on-line content. The disc you are using
+will control how long this information is retained.
+
+Certain System Requirements
+For high definition video playback:
+
+
+High definition display that has COMPONENT or
+HDMI input jacks.
+
+
+
+BD-ROM disc with high definition content.
+
+
+
+HDMI or HDCP capable DVI input on your display
+device is required for some content (as specified
+by disc authors).
+
+
+
+For up-conversion of standard definition DVD, an
+HDMI or HDCP capable DVI input on your display
+device is required for copy protected content.
+
+For Dolby® Digital Plus, Dolby TrueHD and DTS-HD
+multi-channel audio playback:
+
+8
+
+
+
+An amplifier/receiver with a built-in (Dolby Digital,
+Dolby Digital Plus, Dolby TrueHD, DTS or
+DTS-HD) decoder.
+
+
+
+Main, centre, surround speakers and subwoofer
+as necessary for chosen format.
+
+Important Notice for TV colour
+system
+The colour system of this player differs according to
+currently playing discs.
+For example, when the player plays back the disc
+recorded in the NTSC colour system, the image is
+outputted as a NTSC signal.
+Only the multi system colour TV can receive all
+signals outputted from the player.
+Notes:
+ If you have a PAL colour system TV, you will see
+just distorted images when using discs recorded in
+NTSC.
+ The multi system colour TV changes the colour
+system automatically according to input signals. In
+case that the colour system is not changed
+automatically, turn it off and then on to see normal
+images on screen.
+ If you try to record a NTSC output signal from the
+player with your recorder, the recorder may not
+record the signal correctly.
+
+Using the USB Device
+
+Using USB Devices
+
+1. Connect a USB Device.
+
+Inserting/Removing the USB Device
+
+2. Press HOME on the Remote Control.
+
+Introduction
+
+This unit can play the movie, music and photo files
+contained on the USB device.
+
+3. Select [Movie], [Music] or [Photo] option then
+press ENTER.
+4. Select [USB] then press ENTER.
+MOVIE, MUSIC or PHOTO menu will appear.
+Details for the menu are on pages 29-32.
+
+Using the Home Menu
+From the Home Menu screen you can access all the
+Media for playback and setting of the unit.
+1. Press HOME and the Home Menu appears.
+USB Flash Drive
+USB External HDD
+Inserting the USB device
+Insert straight-in until it fits into place.
+Removing the USB device
+Withdraw the USB device or cable carefully.
+Notes:
+
+
+This unit supports only USB Flash Drive and USB
+External HDD with FAT16 or FAT32 format.
+
+
+
+The USB device can be used for the local storage
+for enjoying BD-Live discs with Internet
+
+
+
+This unit can support up to 4 partitions of the USB
+device.
+
+
+
+Do not extract the USB device during operation
+(play, etc.).
+
+
+
+A USB device which requires additional programme installation when you have connected it to
+a computer, is not supported.
+
+
+
+USB device: USB device that support USB1.1 and
+USB2.0.
+
+
+
+Movie Files (DivX), Music files (MP3/WMA) and
+photo files (JPEG/PNG) can be played.
+For details of operations on each file, refer to relevant pages.
+
+
+
+Regular back up is recommended to prevent data
+loss.
+
+
+
+If you use a USB extension cable or USB HUB,
+the USB device may not be recognised.
+
+
+
+Some USB device may not work with this unit.
+
+
+
+Digital camera and mobile phone are not supported.
+
+
+
+USB Port on the unit cannot be connected to PC.
+The unit cannot be used as a storage device.
+
+2. Use b / B to select the desired option then
+press ENTER.
+[Movie] – Start video media’s playback or displays MOVIE menu. (pages 29-30)
+[Photo] – Displays PHOTO menu. (page 32)
+[Music] – Displays MUSIC menu. (page 31)
+[Setup] – Displays Setup menu. (page 19)
+Tip:
+If you select the [Photo] or [Music] option when the
+USB Device is connected and a disc is inserted
+simultaneously, the menu for selecting a media will
+appear. Select a media then press ENTER.
+For example:
+
+Notes:
+• The unit will be in stop mode then HOME menu
+will appear if you press HOME during playback.
+• If you insert a DVD or an unplayable disc that is
+formatted as ISO9660 or UDF, the [Movie], [Photo]
+or [Music] option can be selected in the HOME
+menu. But you cannot play it
+
+9
+
+Front Panel
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+a 1 (POWER) Button
+Switches the unit ON or OFF.
+
+g
+
+h
+
+i
+
+f N / X (PLAY / PAUSE)
+Starts playback.
+Pause playback temporarily, press again to exit
+pause mode.
+
+b Disc Tray
+Insert a disc here.
+
+g x (STOP)
+Stops playback.
+
+c Display Window
+Shows the current status of the player.
+
+h . / > (SKIP)
+Go to next or previous track/chapter.
+
+d Remote Sensor
+Point the Remote Control here.
+
+i USB Port
+Connect a USB Device.
+
+e Z (OPEN/CLOSE)
+Opens or closes the disc tray.
+
+Display Window
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+TITLE
+
+TRK CHAP RPT ALL A-B
+
+g
+
+h i
+
+RDM
+
+AGL
+
+j
+a TITLE Indicator
+Indicates current title number.
+
+g RDM (Random) Indicator
+Indicates when playing in random order.
+
+b TRK (Track) Indicator
+Indicates current track number.
+
+h AGL (Angle) Indicator
+Indicates when playing a scene recorded with
+multi angles.
+
+c CHAP (Chapter) Indicator
+Indicates current chapter number.
+d Repeat Mode Indicator
+Indicates when playing in repeat mode.
+e ALL Repeat Mode Indicator
+Indicates when playing in all repeat mode.
+f A-B Repeat Mode Indicator
+Indicates when playing in A-B repeat mode.
+
+10
+
+i Remote Control Indicator
+Indicates when Remote Control signal is
+received.
+j Character Indicators
+Indicates total playing time, elapsed time, title
+number, chapter number or message, etc.
+
+a
+
+OPEN/CLOSE (Z): Opens and
+closes the disc tray.
+
+MARKER: Marks any point during playback.
+
+PIP*: Switches on/off Secondary
+Video (Picture-in-picture) (BDROM only).
+
+TITLE/POPUP: Displays the DVD
+title menu or BD-ROM’s popup
+menu, if available.
+
+REPEAT: Repeat a desired section.
+PIP AUDIO*: Switch on/off
+Secondary Audio (BD-ROM only).
+SUBTITLE ON/OFF: Switches
+the subtitle on or off.
+A-B: Repeat sequence.
+
+b
+
+AUDIO ( ): Selects an audio
+language or audio channel.
+SUBTITLE ( ): Selects a
+subtitle language.
+ANGLE ( ): Selects a disc
+camera angle, if available.
+
+c
+
+b     
+Colour (A, B,C, D) buttons: Use
+to navigate BD-ROM menus.
+They are also used for [PHOTO]
+and [MUSIC] menu.
+
+
+
+
+
+
+
+
+
+
+DISPLAY: Displays or exits OnScreen Display.
+
+d
+
+HOME: Displays or exits Home
+Menu.
+DISC MENU: Accesses menu on
+a disc.
+Direction buttons: Select an
+option in the menu.
+ENTER ( ): Acknowledges
+menu selection.
+
+a     
+POWER: Switches the player ON
+or OFF.
+
+
+
+
+
+
+
+
+
+
+TV POWER: Switches the TV ON
+or OFF.
+
+RETURN (O): Exits the menu or
+resumes playback. The resume
+play function may work depending on the BD-ROM disc.
+
+
+
+
+
+
+
+
+
+
+
+c
+
+
+
+
+
+
+
+
+
+
+
+x (STOP): Stops playback.
+
+Introduction
+
+Remote Control
+
+N (PLAY): Starts playback.
+X (PAUSE/STEP): Pauses
+playback.
+SEARCH: Displays or exits the
+search menu.
+m / M (SCAN): Search
+backward or forward.
+. / > (SKIP): Go to next or
+previous chapter.
+d     
+TV Control Buttons: See page
+33.
+
+
+
+
+
+
+
+
+
+
+0-9 numerical buttons: Select
+numbered options in a menu.
+CLEAR: Removes a mark on the
+search menu or a number when
+setting the password.
+RESOLUTION: Sets the output
+resolution for HDMI and
+COMPONENT VIDEO OUT
+jacks.
+* Depending on a disc type or
+the pre-recorded contents of
+the BD-ROM disc, different
+functions may be executed or
+there is no response when
+pressing some buttons
+(depending on media used).
+
+ZOOM: Displays or exits the
+[Zoom] menu.
+
+Remote Control Operation
+Point the Remote Control at the remote sensor and
+press the buttons.
+Caution
+Do not mix old and new batteries. Never mix different
+types of batteries (standard, alkaline, etc.).
+
+Remote Control Battery Installation
+Remove the battery cover on
+the rear of the Remote Control,
+and insert two R03 (size AAA)
+batteries with
+and
+matched correctly.
+
+11
+
+Installation and Setup
+Rear Panel
+a
+
+b
+
+f
+
+g
+
+c
+
+d
+
+e
+
+h
+
+a AC IN connector
+Connect the supplied power cord.
+b COMPONENT VIDEO OUT (Y PB PR)
+Connect to a TV with Y Pb Pr inputs.
+c DIGITAL AUDIO OUT (COAXIAL)
+Connect to digital (coaxial) audio equipment.
+d HDMI OUT (Type A)
+Connect to TV with HDMI inputs. (Interface for
+digital audio and video)
+
+12
+
+e LAN port
+Connect a network with an always-on
+broadband connection.
+f VIDEO OUT
+Connect to a TV with video inputs.
+g 2CH AUDIO OUT (Left/Right)
+Connect to a TV with 2 channel audio inputs.
+h DIGITAL AUDIO OUT (OPTICAL)
+Connect to digital (optical) audio equipment.
+
+HDMI connection
+
+HDMI compatible TV
+HDMI
+
+If you have a HDMI TV or monitor, you can connect
+it to this player using a HDMI cable.
+1. Connect the HDMI jack on the player to the HDMI
+jack on a HDMI compatible TV or monitor (H).
+2. Set the TV’s source to HDMI (refer to TV’s
+Owner’s manual).
+Notes:
+ You must select a HDMI audio output and a
+maximum sampling frequency that your TV
+accepts using [HDMI] and [Sampling Freq.]
+options on the setup menu (see page 20).
+
+
+If a connected HDMI device does not accept the
+audio output of the unit, the HDMI device’s audio
+sound may be distorted or may not output.
+
+Tips:
+• When you use HDMI connection, you can change
+the resolution for the HDMI output. (Refer to
+“Resolution Setting” on page 17.)
+
+Rear of the player
+
+Additional Information for HDMI
+
+
+When you connect a HDMI or DVI compatible
+device make sure of the following:
+- Try switching off the HDMI/DVI device and this
+player. Next, switch on the HDMI/DVI device
+and leave it for around 30 seconds, then switch
+on this player.
+- The connected device’s video input is set correctly for this unit.
+- The connected device is compatible with
+720x576p, 1280x720p, 1920x1080i or
+1920x1080p video input.
+
+
+
+Not all HDCP-compatible HDMI or DVI devices
+will work with this player.
+- The picture will not be displayed properly with
+non-HDCP device.
+- This player does not playback and TV screen is
+changed to black screen.
+
+• Select the type of video output from the HDMI
+OUT jack using [HDMI colour Setting] option on
+the setup menu (see page 19).
+Cautions
+Changing the resolution when the connection has
+already been established may result in malfunctions. To solve the problem, turn off the player and
+then turn it on again.
+ When the HDMI connection with HDCP is not verified, TV screen is changed to black screen. In this
+case, check the the HDMI connection, or disconnect the HDMI cable.
+ If there is noise or lines on the screen, please
+check the HDMI cable (length is generally limited
+to 4.5m).
+
+
+Installation and
+Setup
+
+H
+
+13
+
+Connections to Your TV
+Make one of the following connections, depending
+on the capabilities of your existing equipment.
+
+Rear of TV
+
+L
+
+Tips
+ Depending on your TV and other equipment you
+wish to connect, there are various ways you
+could connect the player. Use only one of the
+connections described below.
+ Please refer to the manuals of your TV, Stereo
+System or other devices as necessary to make
+the best connections.
+Caution
+– Make sure the player is connected directly to the
+TV. Tune the TV to the correct video input channel.
+– Do not connect the player’s AUDIO OUT jack to
+the phono in jack (record player) of your audio
+system.
+– Do not connect your player via your VCR. The
+image could be distorted by the copy protection
+system.
+
+Component Video Connection
+Connect the COMPONENT VIDEO OUT jacks on
+the player to the corresponding input jacks on the
+TV using Y Pb Pr cables (C).
+Tip:
+When you use COMPONENT VIDEO OUT connection, you can change the resolution for the output.
+(Refer to “Resolution setting” on page 17.)
+
+Video Connection
+Connect the VIDEO OUT jack on the player to the
+video in jack on the TV using a video cable (V).
+
+Audio (Left/Right) Connection
+Connect the left and right AUDIO OUT jacks of the
+player to the audio left and right IN jacks on the TV
+using the audio cables (A).
+
+14
+
+VIDEO
+INPUT
+
+AUDIO INPUT
+
+A
+
+COMPONENT VIDEO INPUT
+
+Y
+
+R
+
+V
+
+Pb
+
+Pr
+
+C
+
+Rear of the
+player
+
+Make one of the following connections, depending
+on the capabilities of your existing equipment.
+Note:
+Since many factors affect the type of audio output,
+see “The unit’s Audio Output Specifications” on page
+39 for details.
+
+Connecting to an Amplifier via 2 Channel
+Audio Output
+Connect the Left and Right 2CH AUDIO OUT jacks
+on the player to the audio left and right in jacks on
+your amplifier, receiver, or stereo system, using
+audio cables (A).
+
+Connecting to an Amplifier via Digital Audio
+Output (Optical or Coaxial)
+1. Connect the player’s DIGITAL AUDIO OUT jack
+to the corresponding in jack (OPTICAL O or
+COAXIAL X) on your amplifier. Use an optional
+digital (optical O or coaxial X) audio cable.
+
+Notes:
+ You must select a digital audio output and a
+maximum sampling frequency that your Amplifier
+(or AV receiver) accepts using [SPDIF], [HDMI]
+and [Sampling Freq.] options on the setup menu
+(see page 20).
+
+
+With digital audio connection (SPDIF or HDMI),
+Disc Menu button sounds from the BD-ROM may
+not be heard if the [SPDIF] or [HDMI] option is
+set to [Primary Pass-Thru].
+
+
+
+If the audio format of the digital output does not
+match the capabilities of your receiver, the receiver
+will produce a strong, distorted sound or no sound at
+all.
+
+
+
+Multi-channel Digital Surround Sound via digital
+connection can only be obtained if your receiver is
+equipped with a Digital Multi-channel decoder.
+
+
+
+To see the audio format of the current disc in the
+on-screen display, press AUDIO.
+
+Installation and
+Setup
+
+Connecting to an Amplifier
+
+Rear of the player
+
+2. You will need to activate the player’s digital output. (See “[AUDIO] Menu” on pages 20.)
+
+Connecting to an Amplifier via HDMI Output
+1. Connect the player’s HDMI OUT jack to the corresponding in jack on your amplifier. Use a HDMI
+cable (H1).
+2. You will need to activate the player’s digital output. (See “[AUDIO] Menu” on pages 20.)
+Tip:
+Connect the amplifier’s HDMI output jack to HDMI
+input jack on your TV using a HDMI cable (H2) if
+your amplifier has a HDMI output jack.
+
+A
+
+O
+
+X
+
+H1
+
+Digital Multi-channel sound
+A digital multi-channel connection provides the best
+sound quality. For this you need a multi-channel
+Audio/Video Receiver that supports one or more of
+the audio formats supported by your player. Check
+the receiver manual and the logos on the front of the
+receiver. (PCM Stereo, PCM Multi-Ch, Dolby Digital,
+Dolby Digital Plus, Dolby TrueHD, DTS and/or
+DTS-HD)
+
+HDMI OUTPUT
+L
+
+R
+
+AUDIO INPUT
+
+COAXIAL
+
+OPTICAL
+
+DIGITAL INPUT
+
+DIGITAL INPUT
+
+HDMI INPUT
+
+Amplifier (Receiver)
+H2
+
+HDMI
+
+HDMI compatible TV
+
+15
+
+Internet connection
+
+•
+
+This player can be connected to a local area network (LAN) via the LAN port on the rear panel.
+After making the physical connection the player
+needs to be set up for network communication. This
+is done from the [Setup] menu — see “[NETWORK]
+Menu” on page 22 for detailed instructions.
+
+•
+
+Connect the player’s LAN port to the corresponding
+port on your Modem or Router using a LAN cable.
+Use a commercially available straight LAN cable
+(Category 5/CAT5 or better with RJ45 connector).
+By connecting the unit to broadband Internet, you
+can use a disc that offers BD-Live function (see
+page 28).
+Caution:
+
+
+When plugging or unplugging the LAN cable, hold
+the plug portion of the cable. When unplugging,
+do not pull on the LAN cable but unplug while
+pressing down on the lock.
+
+
+
+Do not connect a modular phone cable to the
+LAN port.
+
+
+
+Since there are various connection configurations, please follow the specifications of your
+telecommunication carrier or internet service
+provider.
+
+•
+•
+
+•
+
+•
+
+•
+
+•
+•
+
+Rear of the player
+
+Broadband
+Service
+
+•
+Router
+
+Notes:
+• Depending on the internet service provider (ISP),
+the number of devices that can receive internet
+service may be limited by the applicable terms of
+service. For details, contact your ISP.
+• Our company is not responsible for any malfunction of the player and/or the internet connection
+feature due to communication errors/malfunctions associated with your broadband internet
+connection, or other connected equipment.
+
+16
+
+•
+
+Our company is not responsible for any trouble
+in your internet connection.
+The features of BD-ROM discs made available
+through the Internet Connection feature are not
+created or provided by our company, and our
+company is not responsible for their functionality
+or continued availability. Some disc related material available by the Internet Connection may not
+be compatible with this player. If you have questions about such content, please contact the producer of the disc.
+Some internet contents may require a higher
+bandwidth connection.
+Even if the player is properly connected and configured, some internet contents may not operate
+properly because of internet congestion, the
+quality or bandwidth of your internet service, or
+problems at the provider of the content.
+Some internet connection operations may not be
+possible due to certain restrictions set by the
+Internet service provider (ISP) supplying your
+broadband Internet connection.
+Any fees charged by an ISP including, without
+limitation, connection charges are your responsibility.
+A 10 Base-T or 100 Base-TX LAN port is
+required for connection to this player. If your
+internet service does not allow for such a connection, you will not be able to connect the player.
+You must use a Router to use xDSL service.
+A DSL modem is required to use DSL service
+and a cable modem is required to use cable
+modem service. Depending on the access
+method of and subscriber agreement with your
+ISP, you may not be able to use the internet connection feature contained in this player or you
+may be limited to the number of devices you can
+connect at the same time. (If your ISP limits subscription to one device, this player may not be
+allowed to connect when a PC is already connected.)
+The use of a “Router” may not be allowed or its
+usage may be limited depending on the policies
+and restrictions of your ISP. For details, contact
+your ISP directly.
+Your ISP may protect this player from being connected to network when confirming MAC
+ADDRESS. In that case, contact your ISP to
+request to initialize MAC ADDRESS.
+
+Resolution Setting
+
+5. Use v / V to select the desired resolution then
+press ENTER to confirm your selection.
+
+The player provides several output resolutions for
+HDMI OUT and COMPONENT VIDEO OUT jacks.
+You can change the resolution using [Setup] menu
+or pressing the RESOLUTION button in stop mode.
+
+Available resolution according to
+connection and media format
+HDMI OUT connection
+
+Since several factors affect the resolution of video
+output, see “Video output according to the
+Resolution setting” on next page.
+Auto – If the HDMI OUT jack is connected for
+TVs providing display information (EDID), automatically selects the resolution best suited to the
+connected TV. If the COMPONENT VIDEO OUT
+is only connected, this changes the resolution to
+1080i as default resolution.
+1080p – Outputs 1080 lines of progressive
+video. (only for HDMI connection)
+1080i – Outputs 1080 lines of interlaced video.
+720p – Outputs 720 lines of progressive video.
+576p – Outputs 576 lines progressive video.
+576i – Outputs 576 lines of interlaced video.
+
+How to change the resolution using
+RESOLUTION button
+Press RESOLUTION button in stop mode.
+
+RESOLUTION button
+
+• For the 576i resolution setting, real output resolution of HDMI OUT will change to 576p.
+• If you select a resolution manually and then connect the HDMI jack to TV and your TV does not
+accept it, the resolution setting is set to [Auto].
+• If you select a resolution that your TV does not
+accept, the warning message will appear. After
+resolution change, if you cannot see the screen,
+please wait 20 seconds and the resolution will
+automatically revert back to the previous resolution.
+• The 1080p video output frame rate may be automatically set to either 24Hz or 50Hz depending
+both on the capability and preference of the connected TV and based on the native video frame
+rate of the content on the BD-ROM disc.
+
+Installation and
+Setup
+
+Note:
+
+COMPONENT VIDEO OUT connection
+• For the 1080p resolution setting with unprotected
+media, real output resolution of COMPONENT
+VIDEO OUT will change to 1080i.
+• For the 720p, 1080i, 1080p resolution setting with
+protected media, real output resolution of COMPONENT VIDEO OUT will change to 576i or 576p
+depending on the connectivity of HDMI cable.
+• BD or DVD could prevent up-scaling on analogue
+output.
+VIDEO OUT connection
+
+How to change the resolution using
+Setup menu
+1. Press HOME and the Home Menu appears.
+2. Select [Setup] and press ENTER. The Setup
+menu appears.
+3. Use v / V to select [DISPLAY] option then press
+B to move to the second level.
+4. Use v / V to select the [Resolution] option then
+press B to move to the third level.
+
+• The resolution of the VIDEO OUT jack is fixed to
+576i.
+Notes:
+• Depending on your display, some of the resolution
+settings may result in the picture disappearing or
+an abnormal picture appearing. In this case, press
+HOME key then RESOLUTION repeatedly until
+the picture re-appear.
+• This player supports simultaneous output of all
+video out jacks. The resolution of the HDMI output
+will not be the same as the resolution output on
+the component video output.
+
+17
+
+Video output according to the Resolution setting
+• When the copy unprotected media is playing back
+Video Output
+
+HDMI OUT
+
+Resolution Setting
+
+COMPONENT VIDEO OUT
+HDMI connected
+
+576i
+
+576p
+
+576p
+
+576p
+
+VIDEO OUT
+
+HDMI disconnected
+576i
+
+576i
+
+576i
+
+576p
+
+576i
+
+720p
+
+720p
+
+720p
+
+576i
+
+1080i
+
+1080i
+
+1080i
+
+576i
+
+1080p / 24Hz Mode
+
+1080p / 24Hz Mode
+
+576i
+
+1080i
+
+576i
+
+1080p / 50Hz Mode
+
+1080p / 50Hz Mode
+
+576i
+
+1080i
+
+576i
+
+• When the copy protected media is playing back
+Video Output
+
+HDMI OUT
+
+Resolution Setting
+
+18
+
+COMPONENT VIDEO OUT
+HDMI connected
+
+VIDEO OUT
+
+HDMI disconnected
+
+576i
+
+576p
+
+576i
+
+576i
+
+576p
+
+576p
+
+576i
+
+576p
+
+576i
+
+720p
+
+720p
+
+576i
+
+576p
+
+576i
+
+1080i
+
+1080i
+
+576i
+
+576p
+
+576i
+
+1080p / 24Hz Mode
+
+1080p / 24Hz Mode
+
+576i
+
+576p
+
+576i
+
+1080p / 50Hz Mode
+
+1080p / 50Hz Mode
+
+576i
+
+576p
+
+576i
+
+By using the Setup menu, you can make various
+adjustments to items such as picture and sound.
+You can also set a language for the subtitles and the
+Setup menu, amongst other things. For details on
+each Setup menu item, see pages 19 to 23.
+To display and exit the Menu:
+Press HOME and the Home Menu appears. Select
+[Setup] then press ENTER, and Setup menu
+appears.
+Press RETURN or HOME to exit the Setup menu.
+To go to the next level:
+Press B on the Remote Control.
+To go back to the previous level:
+Press b on the Remote Control.
+
+General Operation
+1. Press HOME and the Home Menu appears.
+2. Select [Setup] and press ENTER. The Setup
+menu appears.
+
+TV Aspect Ratio
+[4:3 Letter Box] – Select when a standard 4:3
+TV is connected. Displays theatrical images with
+masking bars above and below the picture.
+[4:3 Pan Scan] – Select when a standard 4:3 TV
+is connected. Displays pictures cropped to fill
+your TV screen. Both sides of the picture are cut
+off.
+[16:9 Wide] – Select when a 16:9 wide TV is
+connected.
+Note:
+You cannot select [4:3 Letter Box] and [4:3 Pan
+Scan] option when the resolution is set to higher
+than 720p.
+Resolution
+Sets the output resolution of the Component and
+HDMI video signal.
+Refer to “Resolution Setting” on page 17 for details
+about the resolution.
+
+Installation and
+Setup
+
+Initial Settings
+
+1080p Display Mode
+When the resolution is set to 1080p, select [24Hz]
+for smooth presentation of film material (1080/24p)
+with an HDMI-equipped display compatible with
+1080/24p input.
+
+3. Use v / V to select the desired option then press
+B to move to the second level. The screen
+shows the current setting for the selected item,
+as well as alternate setting(s).
+
+Notes:
+• When you select [24Hz], you may experience
+some picture disturbance when the video switches
+video and film material. In this case, select [50Hz].
+• Even when [1080p Display Mode] is set to [24Hz],
+if your TV is not compatible with 1080/24p, the
+actual frame frequency of the video output will be
+50Hz or 60Hz to match the video source format.
+
+4. Use v / V to select the second desired option
+then press B to move to the third level.
+
+HDMI Color Setting
+
+5. Use v / V to select the desired setting then
+press ENTER to confirm your selection. Some
+items require additional steps.
+
+Select the type of output from the HDMI OUT jack.
+For this setting, please refer to the manuals of your
+display device.
+
+6. Press RETURN or HOME to exit the Setup
+menu.
+
+[YCbCr] – Select when connecting to a HDMI
+display device.
+
+[DISPLAY] Menu
+
+[RGB] – Select when connecting to an RGB display device.
+
+19
+
+[LANGUAGE] Menu
+
+[PCM Stereo] – Select if you connect this unit’s
+HDMI OUT or DIGITAL AUDIO OUT jack to a
+device with two-channel digital stereo decoder.
+[PCM Multi-Ch] (HDMI only) – Select if you
+connect this unit’s HDMI OUT jack to a device
+with multi-channel digital decoder.
+[DTS Re-Encode] – Select if you connect this
+unit’s HDMI OUT or DIGITAL AUDIO OUT jack to
+a device with DTS decoder.
+
+Display Menu
+Select a language for the Setup menu and onscreen display.
+
+[Primary Pass-Thru] – Select if you connect this
+unit’s DIGITAL AUDIO OUT and HDMI OUT jack
+to a device with LPCM, Dolby Digital, Dolby
+Digital Plus, Dolby TrueHD, DTS and DTS-HD.
+
+Disc Menu / Disc Audio / Disc Subtitle
+
+Notes:
+
+Select the language you prefer for the audio track
+(disc audio), subtitles, and the disc menu.
+
+• When [HDMI] option is set to [PCM Multi-CH], the
+audio may output as PCM Stereo if the PCM
+Multi-Ch information is not detected from HDMI
+device with EDID.
+
+[Original] – Refers to the original language in
+which the disc was recorded.
+[Other] – Press ENTER to select another language. Use number buttons then ENTER to
+enter the corresponding 4-digit number according to the language code list on page 36.
+[Off] (for Disc Subtitle) – Turn off Subtitle.
+Note:
+Depending on the disc, your language setting may
+not work for some discs.
+
+[AUDIO] Menu
+Each disc has a variety of audio output options. Set
+the player’s Audio options according to the type of
+audio system you use.
+Note:
+Since many factors affect the type of audio output,
+see “The unit’s Audio Output Specifications” on page
+39 for details.
+
+• When [HDMI] and [SPDIF] options are set to
+[DTS Re-Encode], the DTS audio will output on
+BD-ROM disc, and the original audio will output on
+the other discs (like [Primary Pass-Thru]).
+Sampling Freq. (Maximum Sampling Frequency)
+[192KHz] – Select this if your A/V Receiver or
+Amplifier is capable of handling 192 KHz signals.
+[96KHz] – Select this if your A/V Receiver or
+Amplifier is NOT capable of handling 192 KHz
+signals. When this choice is made, this unit automatically converts any 192 KHz signals to
+96 KHz so your system can decode them.
+[48KHz] – Select this if your A/V Receiver or
+Amplifier is NOT capable of handling 192 KHz
+and 96 KHz signal. When this choice is made,
+this unit automatically converts any 192 KHz and
+96 KHz signals to 48 KHz so your system can
+decode them.
+Check the documentation for your A/V Receiver or
+Amplifier to verify its capabilities.
+DRC (Dynamic Range Control)
+
+HDMI / SPDIF (Digital Audio Output)
+Select the output sound format when a device
+equipped with a HDMI or Digital Audio input jack is
+connected to the HDMI OUT or DIGITAL AUDIO
+OUT jack on this player.
+
+20
+
+When a disc encoded in Dolby Digital or Dolby
+Digital Plus is playing back, you may wish to compress the dynamic range of the audio output (the difference between the loudest sounds and the quietest ones). This allows you to listen to a movie at a
+lower volume without losing clarity of sound. Set
+DRC to [On] for this effect.
+Note:
+The DRC setting can be changed only when a disc
+is not inserted or the unit is in complete stop mode.
+
+[LOCK] Menu (Parental Control)
+
+Rating
+
+The [LOCK] settings affect only BD and DVD playback.
+
+Blocks playback of rated disc based on their content. (Not all discs are rated.)
+1. Select [Rating] on the [LOCK] menu then
+press B.
+
+Password
+You can enter or change the password.
+1. Select [Password] option on the [LOCK] menu
+then press B.
+2. To create new password, press ENTER when the
+[New] option is highlighted. Input new password
+and press ENTER. Enter it again and press
+ENTER to verify.
+To change the password, press ENTER when the
+[Change] option is highlighted, then input old
+password and press ENTER. Input new password
+and press ENTER. Enter it again and press
+ENTER to verify.
+To delete the password, select [Delete] option
+then press ENTER, then input old password and
+press ENTER. The password is deleted.
+Tip:
+If you make a mistake before pressing ENTER,
+press CLEAR. Then input the correct password.
+If you forget your password
+
+3. Select a rating from 1 to 8 using the v / V buttons.
+[Rating 1-8] – Rating one (1) has the most
+restrictions and rating eight (8) is the least
+restrictive.
+[Unlock] – If you select unlock, parental control
+is not active and the disc plays in full.
+4. Press ENTER to confirm your rating selection.
+BD Age
+Set an age limit for BD-ROM playback.
+1. Select [BD Age] on the [LOCK] menu then
+press B.
+2. Follow step 2 as shown above (Rating).
+3. Use number buttons to input an age limit for
+BD-ROM viewing.
+[255] – All BD-ROM can be played.
+[0-254] – Prohibits play of BD-ROM with corresponding ratings recorded on them.
+
+If you forget your password, you can clear it using
+the following steps:
+
+4. Press ENTER to confirm your selection.
+
+1. Remove any disc that might be in the player.
+
+Area Code
+
+2. Select [Password] option.
+
+Enter the code of the area whose standards were
+used to rate the DVD video disc, based on the list
+on page 36.
+
+3. Use Number buttons to enter the 6-digit number
+“210499”.
+The “PIN CLEAR” appears in the display window
+and the password is deleted.
+
+Installation and
+Setup
+
+2. To access this option, you must input the password you have created. If you have not yet
+entered password, you will be prompted to do so.
+Input a password and press ENTER. Enter it
+again and press ENTER to verify. If you make a
+mistake before pressing ENTER, press CLEAR.
+
+1. Select [Area Code] on the [LOCK] menu then
+press B.
+2. Follow step 2 as shown above (Rating).
+3. Select the first character using v / V buttons
+then press ENTER.
+4. Select the second character using v / V buttons
+then press ENTER to confirm your selection.
+
+21
+
+[NETWORK] Menu
+
+BD-LIVE connection
+
+The [NETWORK] settings are needed to use the BD
+Live feature.
+Some BD-ROM discs may enable you to access
+special BD-ROM sites, if you connect the player to
+the Internet. For example, if a BD-ROM site includes
+content such as links to future movie trailers, you
+can watch the downloaded on-line content on the
+player.
+You do not need to connect to a PC to use this function.
+
+You can restrict Internet access when BD-Live functions are used.
+[Permitted] – Internet access is permitted for all
+BD-Live contents.
+[Partially permitted] – Internet access is permitted
+only for BD-Live contents which have content owner
+certificates. Internet access and AACS Online functions are prohibited for all BD-Live contents without
+a certificate.
+[Prohibited] – Internet access is prohibited for all
+BD-Live contents.
+
+Preparations:
+• This feature requires an always-on broadband
+internet connection. (see page 16.)
+• A BD-ROM disc compatible with this feature is
+required. Not all BD-ROM discs are compatible.
+
+IP Mode
+If there is a DHCP server on the local area network
+(LAN), this player will automatically be allocated an
+IP address. If you’re using a broadband router or
+broadband modem that has a DHCP (Dynamic Host
+Configuration Protocol) server function, select
+[Dynamic IP]. The IP address will automatically be
+determined.
+If there is no DHCP server on the network and you
+want to set the IP address manually, select
+[Static IP] then set the [IP Address], [Subnet Mask],
+[Gateway] and [DNS Server] using [IP Setting]
+option.
+Note:
+The [IP Mode] menu shows if the internet is connected or not. “ ” will appear when connection has
+failed.
+IP Setting
+This option is available only if [IP Mode] option is set
+to [Static IP].
+Use the v / V / b / B buttons to select a field; use
+the number buttons to enter a value. Press ENTER
+when [OK] is highlighted to finish and exit the
+screen.
+
+22
+
+[OTHERS] Menu
+
+DivX Registration Code
+We provide you the DivX® VOD (Video On Demand)
+registration code that allows you to rent and purchase videos using the DivX® VOD service. For
+more information, visit www.divx.com/vod.
+1. Select [DivX Reg. Code] option then press B.
+
+Skin
+Changes the background of the initial screen.
+Java Font Size
+
+BD
+
+You can adjust the default text size displayed for the
+BD-J contents during BD-ROM playback.
+This setting is only valid when BD-J contents do not
+set the size of text.
+Please select a font size bigger than 24 when the
+player is connected with a HD TV.
+
+3. Use the registration code to purchase or rent the
+videos from DivX® VOD service at
+www.divx.com/vod. Follow the instructions and
+download the video onto a disc for playback on
+this unit.
+Note:
+All the downloaded videos from DivX® VOD can only
+be played back on this unit.
+
+Installation and
+Setup
+
+2. Press ENTER or B and the registration code will
+appear.
+
+Initialize
+You can reset the player to its original factory settings, initialize the BD storage or deactivate the player.
+1. Select [Initialize] option then press B.
+2. Press v / V to select the desired option then
+press ENTER.
+The confirm message will appear.
+[Factory Set] – If you need to, you can reset the
+player to all its factory settings. Some options
+cannot be reset. (Rating, Password and Area
+Code, etc.)
+[BD Storage Clear] – Initializes the BD contents
+from the connected USB device.
+3. Use b / B to select [Yes] or [No] then press
+ENTER.
+
+23
+
+Operations
+General playback features
+1. Load your chosen disc in the tray, with the playback side down.
+2. Start playback using the HOME menu (see page 9).
+
+Buttons
+
+Operations
+
+Discs
+
+OPEN / CLOSE (Z)
+
+Opens or closes the disc tray.
+
+All Discs
+
+x (STOP)
+
+Stops the playback.
+The unit records the stopped point, depending on the
+disc. “Xx” appears on the screen briefly. Press
+N (PLAY) to resume playback (from the scene point). If
+you press STOP (x) again or unload the disc (“x”
+appears on the screen.), the unit will clear the stopped
+point. (Xx = Resume Stop, x = Complete Stop)
+Notes:
+• The resume point may be cleared when a button is
+pressed (for example; POWER, OPEN/CLOSE, etc).
+• On BD-Video discs including BD-J, the resume play
+function does not work.
+• On BD-ROM interactive title, the unit will be in
+Complete Stop mode if you press STOP once during
+playback.
+
+All Discs
+
+During playback, press X to pause playback.
+Tip: During Audio CD or MP3/WMA playback, press X
+once again to resume playback.
+
+All Discs
+
+X (PAUSE)
+
+Press X repeatedly to play Frame-by-Frame.
+
+BD
+MP3
+
+DVD ACD
+WMA AVCHD
+
+DVD
+DivX
+
+. / > (SKIP)
+
+During playback, press . or > to go to the next
+chapter/track/file or to return to the beginning of the current chapter/track/file.
+Press . twice briefly to step back to the previous
+chapter/track/file.
+
+All Discs
+
+m / M (SCAN)
+
+During playback, press SCAN (m or M) repeatedly
+to select the required scan speed.
+- DVD, BD, AVCHD, DivX: 5 steps,
+- Audio CD, MP3, WMA: 3 steps
+
+All Discs
+
+While the playback is paused, press SCAN M repeatedly to play in slow motion (4 steps, forward only).
+
+DVD
+DivX
+
+REPEAT
+
+During playback, press REPEAT repeatedly to select a
+desired repeat mode.
+DVD, BD, AVCHD: Chapter/Title/Off
+Audio CD, MP3, WMA: Track/All/Off
+Note:
+If you press > once during Repeat Chapter/Track
+playback, the repeat playback cancels.
+
+DVD
+MP3
+
+A-B
+
+During playback, each press of A-B button to select
+point A and point B and repeats a sequence from point A
+(Starting point) to point B (End point).
+To cancel the sequence, press A-B.
+
+DVD
+AVCHD
+
+BD
+
+AVCHD
+
+BD
+
+AVCHD
+
+BD
+ACD
+WMA AVCHD
+
+BD
+
+ACD
+
+Continued t
+
+24
+
+General playback features (Continued)
+Buttons
+
+Operations
+
+TITLE/POPUP
+
+If the current DVD or BD-ROM disc has a menu, the Title DVD
+menu or Popup menu appears on the screen. Depending
+on the disc, the menu may not be available.
+
+BD
+
+AVCHD
+
+DISC MENU
+
+The menu appears on the screen. Depending on the
+disc, the menu may not be available.
+
+DVD
+
+BD
+
+AVCHD
+
+ANGLE (
+
+During playback of the disc contains scenes recorded at DVD
+different camera angles, press ANGLE repeatedly to
+select a desired angle.
+Note:
+When you are playing a disc containing scenes recorded
+at different camera angles, the angle indicator will
+appear on the TV screen for a while and display window
+during scenes recorded at different angles as an indication that angle switching is possible.
+
+BD
+
+During playback, press SUBTITLE repeatedly to select a DVD
+desired subtitle language.
+DivX
+Note:
+Some discs allow you to change subtitle selections only
+via the disc menu. If this is the case, press
+TITLE/POPUP or DISC MENU button and choose the
+appropriate subtitle from the selections on the disc
+menu.
+DVD
+During playback, press SUBTITLE ON/OFF to switch
+the subtitle on or off.
+DivX
+During playback, press AUDIO repeatedly to hear a difDVD
+ferent audio language or audio track.
+DivX
+Notes:
+• Some discs allow you to change audio selections only
+via the disc menu. If this is the case, press
+TITLE/POPUP or DISC MENU button and choose the
+appropriate audio from the selections on the disc
+menu.
+• Immediately after you have switched sound, there
+may be a temporary discrepancy between the display
+and actual sound.
+• On BD-ROM disc, the multi audio format (5.1CH or
+7.1CH) is displayed with [MultiCH] in the on-screen
+display.
+
+BD
+
+AVCHD
+
+BD
+
+AVCHD
+
+BD
+
+AVCHD
+
+SUBTITLE (
+
+)
+
+SUBTITLE ON/OFF
+AUDIO (
+
+)
+
+Operation
+
+)
+
+Discs
+
+Notes on general features:
+•
+•
+
+When you turn on the player or replace a disc, the player returns to the initial default setting. Depending
+on a disc, a specific type of audio the disc has is output.
+Depending on the pre-recorded contents of the BD-ROM, some functions may not be available or may be
+operated differently than other media.
+
+25
+
+If a disc menu screen is displayed
+DVD
+
+BD
+
+AVCHD
+
+Use b / B / v / V buttons to select the title/chapter
+you want to view, then press ENTER to start playback.
+
+AVCHD
+
+DivX
+
+1. During playback or pause mode, press ZOOM to
+display the [Zoom] menu.
+2. Use b / B to select zoom mode (16 steps).
+Press RETURN to make the menu disappear.
+3. To return to the normal picture size, select [Off]
+on the [Zoom] menu.
+Note:
+This function may not work on some disc or titles.
+
+Time Search DVD
+
+BD
+
+AVCHD
+
+DivX
+
+To start playing at any chosen time on the disc:
+1. Press DISPLAY during playback.
+2. Press v / V to select the time clock icon and
+“--:--:--” appears.
+3. Input the required start time in hours, minutes,
+and seconds from left to right. For example, to
+find a scene at 2 hours, 10 minutes, and
+20 seconds, enter “21020” and press ENTER. If
+you enter the wrong numbers, press CLEAR to
+remove the numbers you entered. Then input the
+correct numbers.
+4. Press ENTER to confirm. Playback starts from
+the selected time.
+Note:
+This function may not work on some disc or titles.
+
+Skip Search DVD
+
+AVCHD
+
+DivX
+
+BD
+
+AVCHD
+
+You can start playback from up to nine memorized
+points. To enter a marker, press MARKER at the
+desired point on the disc. The Marker icon appears
+on the TV screen briefly. Repeat to enter up to nine
+markers.
+To Recall or Clear a Marked Scene
+
+Enlarge the playback image
+BD
+
+BD
+
+To enter a Marker
+
+The menu screen may be displayed after first loading
+a disc which contains a menu.
+
+DVD
+
+Marker Search DVD
+
+DivX
+
+You can skip the playback 15 seconds forward or
+backward using the search menu.
+1. During playback, press SEARCH and the search
+menu appears on the screen.
+2. Press b / B to skip the playback forward or
+backward.
+Tip:
+You can select a point that you want to skip by
+pressing and holding b / B button.
+
+1. Press SEARCH and the search menu appears
+on the screen.
+2. Press a number button to select a marker number that you want to recall. Playback starts from
+the marked scene.
+OR
+Press V to highlight a marker number. Use b / B
+to select a marked scene that you want to recall
+or clear.
+Press ENTER and playback starts from the
+marked scene. Press CLEAR and the marked
+scene is erased from the search menu.
+Notes:
+• This function may not work on some disc or
+titles.
+• All marked points are cleared if you press
+STOP (x) twice (complete stop), the title is
+changed or if you unload the disc.
+
+Using colour (A, B, C, D) Buttons BD
+These buttons are available only during BD-J
+contents playback. Use the appropriate buttons as
+indicated by the display. Depending on the disc
+contents, the functions of each button may differ.
+
+Last Scene Memory DVD
+
+BD
+
+This unit memorizes last scene from the last disc
+that is viewed. The last scene remains in memory
+even if you remove the disc from the unit or switch
+off the unit. If you load a disc that has the scene
+memorized, the scene is automatically recalled.
+Notes:
+• Settings are stored in memory for use any time.
+• This unit does not memorize settings of a disc if
+you switch off the unit before commencing to
+play it.
+• Last Scene Memory function for a previous disc
+is erased once a different disc is played.
+• This function may not work depending on the
+disc.
+
+Screen Saver
+The screen saver appears when you leave the player in Stop mode for about five minutes.
+
+26
+
+Displaying Disc Information On-Screen
+DVD
+
+BD
+
+AVCHD
+
+DivX
+
+You can display various information about the disc
+loaded on-screen.
+
+2. During BD-ROM or DVD playback, you can
+select an item by pressing v / V and change or
+select the setting by pressing b / B.
+ Title – Current title number/total number of
+titles.
+ Chapter – Current chapter number/total number of chapters.
+ Time – Elapsed playing time.
+ Audio – Selected audio language or channel.
+ Subtitle – Selected subtitle.
+ Angle – Selected angle/total number of angles.
+Notes:
+• If no button is pressed for a few seconds, the onscreen display disappears.
+• A title number cannot be selected on some discs.
+• An item may not be available on some discs or
+titles.
+• If BD interactive title is playing back, some setting information is displayed on the screen but
+prohibited to be changed.
+
+Operation
+
+1. Press DISPLAY to show various playback information.
+The items displayed differ depending on the disc
+type or playing status.
+
+27
+
+Enjoying BD-LIVE™ or BONUS
+VIEW™ in BD-Video BD
+
+–
+
+Additional contents such as movie’s trailer, subtitles and BD-J, etc. can be downloaded to USB
+device to play them.
+
+This unit allows you to enjoy functions such as picture-in-picture, secondary audio and Virtual packages, etc., with BD-Video supporting BONUSVIEW
+(BD-ROM version 2 Profile 1 version 1.1/ Final
+Standard Profile). In addition to the BONUSVIEW
+function, BD-Video supporting BD-Live (BD-ROM
+version 2 Profile 2) that has a network extension
+function allows you to enjoy more functions such as
+online games by connecting this unit to the Internet.
+
+–
+
+Special video data, etc. may be played back
+while they are being downloaded to a USB
+device.
+
+Playing secondary video (picture-in-picture)
+and secondary audio
+
+When discs supporting BD-Live are played back, the
+player or disc IDs may be sent to the content
+provider via the Internet.
+Services and functions to be provided differ depending on the disc.
+– You can be introduced to other similar movies if
+you record your viewing history on the server by
+using these IDs.
+
+Secondary video can be played from a disc compatible with the picture-in-picture function.
+For the playback method, refer to the instructions for
+the disc.
+–
+
+–
+
+To turn on/off secondary video, press PIP.
+Secondary video is played.
+Press the button to turn it ON and OFF.
+To turn on/off audio with the secondary video,
+press PIP AUDIO. The secondary audio is
+played. Press the button to turn it ON and OFF.
+
+Notes:
+• Discs may not always be played back according to
+the settings on this unit, as certain playback formats are prioritized on certain discs.
+• Only the primary video is played during
+search/slow-motion or frame-by-frame.
+• When the secondary video is turned off, the secondary audio does not play.
+• This function may not work depending on the disc.
+
+Enjoying BD-Live discs with Internet
+Preparations:
+• The unit must be connected to the Internet and
+set up to use the BD-Live functions (see page 16
+and 22).
+• A USB device is required to use this function.
+Connect a USB device (see page 9).
+• The free space in the USB device must be more
+than 1GB.
+This unit supports BD-Live, a new BD-Video function
+that allows you to use the following interactive functions when connected to the Internet. (The usable
+functions and the operating method may vary with
+each disc. For details, refer to the instructions for
+the disc.)
+
+28
+
+Caution:
+Do not extract the USB device while contents are
+being downloaded to it. Doing so may result in malfunctions.
+AACS Online
+
+–
+
+Game score histories can be saved.
+
+Notes:
+• It may take up to several minutes to load and
+start enjoying BD-Live contents.
+•
+
+Depending on a disc, the BD-Live function
+may not be operated if [BD-LIVE connection]
+option is set to [Partially Permitted]. (See
+page 22.)
+
+•
+
+The connection to the Internet may take time
+or the Internet may not be connected depending on the connection environment. It is
+required that you use a broadband connection.
+
+•
+
+Do not remove the USB device during operation. The USB device may be damaged. Stop
+playback and turn off the menu beforehand.
+
+Tip:
+Special video data, etc. may be played back while
+they are being downloaded to a USB device using
+one function of BD-Live. The playback may be
+paused depending on the communication environment.
+Some functions may be disabled to prevent skipping
+to sections that have not been downloaded, etc.
+
+Playing a DivX Movie File
+
+DivX file requirement
+
+The player can play DivX files. Before playing DivX
+files, read “DivX file requirement” on right.
+
+DivX file compatibility with this player is limited as
+follows:
+
+1. Insert a disc containing DivX files, or connect the
+USB Device containing DivX files.
+
+• Available resolution size: 720x576 (W x H) pixel.
+
+2. Press HOME and Home Menu appears.
+
+• The file names of DivX and subtitle are limited to
+50 characters.
+
+3. Select [Movie] then press ENTER.
+The MOVIE menu appears on the TV screen.
+
+• DivX file extensions: “.avi”, “.divx”, “.mpg”,
+“.mpeg”
+
+Note:
+When the USB Device is connected and a disc is
+inserted simultaneously, the menu for selecting a
+media will appear. Select a media then press
+ENTER.
+
+• Playable DivX subtitle: SubRip (.srt / .txt),
+SAMI (.smi), SubStation Alpha (.ssa/.txt),
+MicroDVD (.sub/.txt), SubViewer 1.0 (.sub),
+SubViewer 2.0 (.sub/.txt), TMPlayer (.txt),
+DVD Subtitle System (.txt)
+• Playable Codec format: “DIVX3.xx”, “DIVX4.xx”,
+“DIVX5.xx”, “XVID”, “DIVX6.xx” (Standard playback only)
+• Only the playback function is supported with
+DivX 6.0 in the unit.
+• Playable Audio format: “Dolby Digital”, “DTS”,
+“MP3”, “WMA”
+
+2. Press v / V to select a title then press ENTER
+or N (PLAY) and playback starts.
+You can use variable playback functions.
+Refer to pages 24-27.
+3. Press DISC MENU to move to the list menu.
+Note:
+On the [MOVIE] menu, use red or blue colour button
+to move to the previous or next page.
+
+• Bit rate: within 8 - 320 kbps (MP3),
+within 32 - 384 kbps (WMA)
+• CD-R/RW, DVD±R/RW, BD-R/RE Format:
+ISO 9660+JOLIET, UDF and UDF Bridge format
+• Maximum Files/Disc: Less than 1999 (total number of files and folders)
+
+Operation
+
+• Sampling frequency: within 8 - 48 kHz (MP3),
+within 32 - 48 kHz (WMA)
+
+• Not all the WMA Audio format is compatible with
+this unit.
+
+Notice for displaying the DivX subtitle
+If the subtitle does not display properly, press and
+hold SUBTITLE for 3 seconds during playback. The
+language code will appear. Press SUBTITLE reapeatedly to select another language code until the
+subtitle is displayed properly and then press
+ENTER.
+
+29
+
+Playing a DVD VR Format Disc
+
+MOVIE menu options
+
+This unit will play DVD-RW disc that is recorded
+using the Video Recording (VR) format.
+
+1. Use v / V to select a title on the [MOVIE] menu
+then press ENTER.
+The menu options appear.
+
+1. Insert a disc and close the tray.
+The [MOVIE] menu appears on the TV screen
+
+2. Use v / V to select an option, then press
+ENTER.
+
+2. Press v / V to select a title then press
+N (PLAY) and playback starts.
+You can use variable playback functions. Refer
+to pages 24-27.
+3. Press DISC MENU to move to the list menu.
+• [Play] Starts playback of the selected title.
+
+Notes:
+• On the [MOVIE] menu, use red or blue colour button to move to the previous or next page.
+• Unfinalized DVD-VR format discs may not be
+
+played in this player.
+• Some DVD-VR disc are made with CPRM data by
+
+DVD RECORDER. This unit cannot support these
+kinds of discs.
+What is CPRM?
+CPRM is a copy protection system (with scramble
+system) only allowing the recording of ‘copy once’
+broadcast programmes. CPRM stands for Content
+Protection for Recordable Media.
+
+30
+
+• [Resume Play] Starts playback from where
+
+you stopped it previously.
+• [Close] Exits menu options. Also you can dis-
+
+appear it by pressing RETURN button.
+
+Playing an Audio CD or
+MP3/WMA files ACD MP3
+
+MUSIC menu options
+WMA
+
+The player can play Audio CDs and MP3/WMA files.
+Before playing MP3/WMA files, read “MP3/WMA
+audio file requirement” on right.
+
+1. Use v / V to select a track or file on the MUSIC
+menu then press ENTER.
+The menu options appear.
+2. Use v / V to select an option, then press
+ENTER.
+
+1. Insert Audio CD or a disc containing MP3/WMA
+files, or connect the USB Device containing
+MP3/WMA files
+2. Press HOME and Home Menu appears.
+3. Select [Music] then press ENTER.
+The MUSIC menu appears on the TV screen.
+Note:
+When the USB Device is connected and a disc is
+inserted simultaneously, the menu for selecting a
+media will appear. Select a media then press
+ENTER.
+• [Play] Starts playback of the selected track or
+
+file.
+track(s) or file(s). Use MARKER for selecting
+the multiple files or tracks.
+• [Random] Starts or stops random playback.
+
+Example) Audio CD
+4. Use v/V to select a track or file then press
+N (PLAY). Playback starts.
+You can use variable playback functions. Refer
+to page 24.
+5. To stop playback at any time, press STOP (x).
+Tips:
+• To go directly to any track or file and play, enter
+the track/file number using the numbered
+buttons (0-9).
+
+By pressing > during random playback, the
+unit selects another track and resumes random playback.
+• [Unmark All] Unmarks all marked files or
+
+Operation
+
+• [Select Play] Plays back only the marked
+
+tracks.
+• [Close] Exits menu options. Also you can
+
+make it disappear by pressing the RETURN
+button.
+Note:
+You cannot use [Select Play] and [Random]
+functions simultaneously.
+
+MP3/WMA audio file requirement
+
+•
+
+The playback may start automatically if the
+Audio CD inserted.
+
+•
+
+Select a folder then press ENTER and you can
+view the files in the folder. If you want to move to
+the upper directory, use b or v/V to highlight
+[UP Folder] and press ENTER.
+
+Sampling frequency: 8 - 48 kHz
+
+•
+
+On the MUSIC menu, use red or blue colour button to move to the previous or next page.
+
+Maximum Files/Disc:
+Less than 1999 (total number of files and folders)
+
+•
+
+The equalizer indicator is not coupled with the
+music in play back.
+
+•
+
+If there is impossible code to express in the file
+name, it may be displayed as illegible.
+
+File extensions: “.mp3”, “.wma”
+Bit rate: 8 - 320kbps
+CD-R/RW, DVD±R/RW, BD-R/RE Format:
+ISO 9660+JOLIET, UDF and UDF Bridge format
+
+Notes on MP3/WMA file
+• Depending on the size and number of the
+MP3/WMA files, it may take several minutes to
+read the contents of the media.
+• This unit cannot support the ID3 Tag embedded
+in the MP3 file.
+
+31
+
+Viewing a Photo file
+
+PHOTO
+
+Options during viewing a photo file
+in full screen
+
+This unit can play a photo files. Before playing photo
+recordings, read “Photo file requirement” below.
+
+1. Follow steps 1-4 as shown left (Viewing a Photo
+file).
+
+1. Insert a disc containing photo files, or connect
+the USB Device containing photo files.
+
+2. You can use variable options during viewing a
+picture.
+
+2. Press HOME and Home Menu appears.
+
+3. Use v V b B to select an option.
+
+3. Select [Photo] then press ENTER.
+The PHOTO menu appears on the TV screen.
+Note:
+When the USB Device is connected and a disc is
+inserted simultaneously, the menu for selecting a
+media will appear. Select a media then press
+ENTER.
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+a Use b/B to advance to the previous or next
+file.
+b Use ENTER to start or pause the slide show.
+c Use ENTER to play or pause the background
+music. This option is available after the background music is selected using [Music Select]
+option.
+d Use ENTER to rotate the picture clockwise.
+This option is not available during slide show.
+
+4. Use v V b B to select a file and press ENTER.
+The selected image is displayed in full screen.
+
+e Use ENTER to set the Slide Show speed.
+f Selects the background music.
+1) Press ENTER and the menu will appear.
+2) Use v V b B to select a media or folder
+where there are music file(s).
+3) Press ENTER to confirm your selection.
+g Press ENTER to exit the option menu.
+To make the menu appear again, press
+ENTER.
+
+5. To stop viewing at any time, press STOP (x).
+The PHOTO menu appears.
+Tips:
+• To go directly to any file and play, enter the file
+number using the numbered buttons (0-9).
+
+File extensions: “.jpg”, “.jpeg”, “.png”
+
+•
+
+You can advance to the previous or next file by
+pressing . or > during viewing a photo file
+in full screen.
+
+Recommended size:
+Less than 3,000 x 3,000 x 24 bit/pixel
+Less than 3,000 x 2,250 x 32 bit/pixel
+
+•
+
+You can start the slide show by pressing
+N (PLAY) while the PHOTO menu appears.
+Select a folder then press ENTER and you can
+view the files in the folder. If you want to move to
+the upper directory, use v/V/b/B to highlight
+[UP Folder] and press ENTER.
+
+CD-R/RW, DVD±R/RW, BD-R/RE Format:
+ISO 9660+JOLIET, UDF and UDF Bridge format
+
+•
+
+32
+
+Photo file requirement
+
+•
+
+On the PHOTO menu, use red or blue colour
+button to move to the previous or next page.
+
+•
+
+If there is impossible code to express in the file
+name, it may be displayed as illegible.
+
+Maximum Files/Disc:
+Less than 1999 (total number of files and folders)
+Notes on Photo file
+ Progressive and lossless compression photo
+image files are not supported.
+ Depending on the size and number of the photo
+files, it may take several minutes to read the
+contents of the media.
+
+To programme the remote to control
+the TV using the manufacturer code
+
+Reference
+Controlling a TV with the
+Supplied Universal Remote
+Control
+You can control the volume, input source, and power
+state of your TV with the supplied Universal Remote
+Control.
+If your TV is listed in the table on pages 34-35, set
+the appropriate manufacturer code. Follow steps 1-2
+as shown right.
+You can control your TV using the buttons below.
+
+If your TV is listed in the table on the next page, set
+the appropriate manufacturer code.
+1. While holding down TV POWER button, press
+the number buttons to select the manufacturer
+code for your TV (Refer to table on the next
+page).
+• If more than one code number is listed, try
+entering them one at a time until you find the
+one that works with your TV.
+2. Release TV POWER button.
+
+TV POWER
+Button
+
+TV Control
+Buttons
+
+Number
+Buttons
+
+By pressing
+
+You can
+
+TV POWER
+AV
+
+Turn the TV on or off.
+Switch the TV’s input source
+between the TV and other input
+sources.
+
+PR +/–
+
+Scan up or down through
+memorized channels.
+
+VOL +/–
+
+Adjust the volume of the TV.
+
+MUTE
+
+Temporarily turns TV sound
+OFF, press again to restore.
+
+Note:
+Depending on the unit being connected, you may
+not be able to control your TV using some of the
+buttons.
+
+•
+
+If you enter a new code number, the code number previously entered will be erased.
+
+•
+
+When you replace the batteries of the remote,
+the code number you have set may be reset to
+the default setting. Set the appropriate code
+number again.
+
+Reference
+
+Notes:
+• Depending on your TV, some or all buttons may
+not function on the TV, even after entering the
+correct manufacturer code.
+
+33
+
+Code numbers of controllable TVs
+If more than one code number is listed, try entering them one at a time until you find the one that works with
+your TV.
+BRANDS
+ADMIRAL
+ADYSON
+AKAI
+AKURA
+ALBA
+ALLSTAR
+AMSTRAD
+AMWAY
+ANITECH
+ANTECNO
+ARC EN CIEL
+ASA
+ASBERG
+ASORA
+ATLANTIC
+AUDIOSONIC
+AUTOVOX
+BANK
+BEKO
+BESTAR
+BLAUPUNKT
+BONDSTEC
+BOSCH
+BRANDT
+ELECTRONIQUE
+BRIONVEGA
+BSR
+BUSH
+CENTURY
+CGE
+CIE
+CLATRONIC
+CLARIVOX
+CONDOR
+CONIC
+CONTEC
+CONTINENTAL
+EDISON
+COSMOS
+CROSLEY
+CROWN
+
+CODES
+137 204
+159 219
+009 010 108 132
+133 135 139 140
+156 174 175
+064 086 108 110
+155 171
+009 060 064
+108
+006 025 157
+108
+010 049 108 185
+219
+064
+173 179 239
+087 102 108 235
+236
+185
+171
+089 197
+085
+159 163 197
+232
+045 085 086 108
+250
+086
+031 091 092 096
+097 098 099 210
+253
+163
+210
+173 179 225 239
+204
+144
+009 136 139 144
+232
+165 204
+139 165 210
+025 108 170
+009 010 064 108
+144 149 159 164
+165 171 185
+033
+108 149 191
+219
+171 222
+173 179 225 239
+
+108
+165
+084
+144
+CS-ELECTRONICS 064
+DAEWOO
+051
+170
+DANSAI
+010
+DE GRAAF
+108
+DECCA
+070
+162
+206
+DECCAVIDEO
+108
+DUAL
+233
+DUMONT
+204
+
+34
+
+204
+085 086 108
+171 185
+108 120 127
+219
+134
+108 159 161
+184 189 190
+
+BRANDS
+ELBE
+
+CODES
+058 144 157 160
+192 246
+ELBIT
+108 248
+ELECTROVENDA 108
+ELEKTRONIKA
+108
+ELIN
+108
+ELITE
+064 149
+ELMAN
+144
+ELTA
+010 171
+EMERSON
+108 204
+ESC
+108
+ETRON
+133
+EUROPHON
+144 159
+EXPERT
+089
+FENNER
+171
+FERGUSON
+078 079 080 160
+182 195 198 199
+200 201 202
+FINLANDIA
+194 195
+FINLUX
+008 087 102 104
+105 107 108 140
+144 159 161 174
+189 235 236
+FIRST-LINE
+144
+FISHER
+086 208 222 233
+FORMENTI
+108 149
+FRABA
+108
+FRONTECH
+136 171 220
+FUBA
+073 109
+FUJITSU GENERAL 088 159 197
+FUNAI
+010
+GALAXIS
+108 185
+GALERIA
+171
+GBC
+137 144 171
+GEC
+011 108 129 147
+159 189
+GELOSO
+064 137 144 164
+171
+GENERAL
+171
+GENERAL TECHNIC 171
+GOLDHAND
+159 171
+GOLDSTAR
+038 050 108 110
+136 144 159 163
+166 171 191 219
+237
+GOODMANS
+009 064 108 109
+110 120 159 170
+171
+GORENJE
+086
+GPM
+010 064
+GRANADA
+027 105 108 111
+121 134 140 159
+162 167 187 194
+195 238
+GRUNDIG
+091 092 093 094
+095 097 098 100
+101 172 232 238
+HCM
+010 108 159 171
+HIFIVOX
+173 179 239
+HINARI
+010 064 108 133
+171
+HIT
+204
+
+BRANDS
+HITACHI
+
+CODES
+011 013 015 017
+021 022 023 024
+028 029 030 035
+039 040 041 048
+053 054 055 056
+057 120 127 128
+129 134 135 140
+143 145 147 151
+156 159 173 193
+219
+HYPER
+009 159 163 171
+ICE
+009 010 064 108
+171
+IMPERIAL
+043 049 108 139
+144 154 165 255
+INGERSOLL
+171
+INNO HIT
+159 189 237
+INTERBUY
+010
+INTERCORD
+233
+INTERFUNK
+108 109 113 130
+133 134 135 137
+141 146 147 148
+165 179 210
+INTERVISION
+010 086 108 132
+144 166
+IRRADIO
+163 235 237
+ITC
+144 159
+ITS
+009 010 064 171
+ITT
+141 151 186
+JVC
+009 169
+KAIDO
+136
+KAPSCH
+089 147 148 197
+KARCHER
+084 108
+KATHREIN
+109
+KAWA
+009
+KENDO
+060 108 137 157
+KENNEDY
+197
+KNEISSEL
+108
+KONKA
+009
+KORTING
+086 204 209
+KUBA
+233
+KUBA ELECTRONIC 233
+KURA
+134
+LENCO
+108 170
+LG
+001(Default) 038
+050 108 110 136
+144 159 163 166
+171 191 219 237
+LIESENKOTTER
+108 210
+LIFETEC
+010 064 108 170
+LOEWE
+109 113 204 205
+LOGIK
+070 227
+LUMA
+137 197
+LUXOR
+102 104 132 133
+134 135 138 140
+143 145 153 156
+174 186 237
+M ELECTRONIC
+103 104
+MAGNADYNE
+163 164 204
+MAGNAFON
+199
+MAGNASONIC
+108
+MARANTZ
+108
+MARSHAL
+064
+MATSUI
+009 016 025 060
+061 062 063 070
+108 131 136 152
+154 159 171 172
+
+CODES
+132
+047 092 097 098
+100 101 108 204
+207 254
+MITSUBISHI
+075 076 077 097
+113 204 222 224
+240
+MIVAR
+044 042 159 235
+MNARTT
+007
+MTC
+086 109 134
+MULTITECH
+136 159 171 185
+MURPHY
+232
+NAONIS
+137
+NECKERMANN
+037 059 060 092
+098 100 101 108
+109 113 115 118
+119 134 135 137
+143 157 159
+NEI
+064 108
+NIKKAI
+219
+NIKKO
+108
+NOBLIKO
+232 235
+NOGAMATIC
+173 179 239
+NOKIA
+014 019 032 102
+103 104 108 132
+133 134 135 138
+140 141 145 146
+147 148 156 174
+NORDMENDE
+129 173 179 180
+181 193 195 225
+226 228 239
+NORMN
+108
+NOVA
+087
+OCEANIC
+032 103 104 135
+140 156
+OKANO
+108
+ONWA
+009 010 064
+ORAVA
+108
+ORBITER
+086
+ORION
+025 059 060 061
+062 064 070 108
+110 118 219
+OSAKE
+106
+OTTO-VERSAND 002 005 009 014
+059 060 081 082
+083 085 092 097
+098 100 101 108
+109 111 113
+PAEL
+235
+PANASONIC
+002 003 005 167
+168 229
+PATHE CINEMA
+144
+PATHE MARCONI 173 179 225 239
+PHILCO
+090 108 139 144
+148 165 204
+PHILIPS
+065 066 067 068
+069 092 108 109
+111 112 114 115
+116 119 122 123
+124 125 193 212
+251 252
+PIONEER
+193
+PRANDONI-PRINCE 137 235
+PRIMA
+219
+PRO VISION
+108
+
+BRANDS
+PROFEX
+PROFITRONIC
+QUELLE
+
+RADIOLA
+RADIOTONE
+REDIFUSSION
+REVOX
+REX
+
+RFT
+RITAR
+ROADSTAR
+ROSITA
+SABA
+
+SAISHO
+SAKIO
+SALORA
+
+SAMBERS
+SAMSUNG
+
+SANY
+SANYO
+
+SCHNEIDER
+
+SEG
+
+SEI-SINUDYNE
+SELECO
+SENTRA
+SHARP
+SHINTOM
+SHINTOSHI
+SHIVAKI
+SIAREM
+SIEMENS
+
+SIESTA
+SILVER
+SINGER
+SINUDYNE
+SMARAGO
+SOLAVOX
+SONOLOR
+SONTEC
+SONY
+
+CODES
+108 136 171
+108
+002 010 014 019
+025 059 060 072
+084 086 087 088
+092 097 098 100
+101 102 175
+108
+010 085 108 171
+187
+109
+088 089 137 157
+158 164 197 246
+247
+064 085 135 204
+138
+108
+171
+079 146 147 173
+179 181 193 195
+225 226 239
+025 060 070 136
+159
+171
+019 032 103 104
+132 133 134 135
+137 138 140 142
+143 145 150 156
+174 237 241
+235
+004 010 050 086
+108 117 126 171
+220 237
+193
+014 018 019 020
+032 034 071 086
+087 189 218 221
+222 223
+009 064 088 108
+133 141 159 163
+233
+010 064 108 144
+159 165 171 185
+219
+025 108 204 212
+088 089 137 157
+197 222
+064 133
+081 082 083 222
+108
+108
+108
+204
+092 096 097 098
+100 101 108 210
+218 219 221
+085
+010 064
+108 164 204
+118 131
+172
+133
+140 156
+108
+072 074 211 212
+213 214 215 216
+217 222
+
+BRANDS
+SPECTRA
+STARLITE
+STARLUX
+STERN
+
+CODES
+170
+108 171
+171
+088 089 137 157
+197
+SUNSTAR
+108 171
+SUPERTECH
+108 139 152 171
+TADISTAR
+108
+TASHIKO
+108 159 218
+TEC
+108 139 144 159
+170 171
+TECHLINE
+185
+TECHNISAT
+108 165
+TECNISON
+108 171
+TEKON
+171
+TELEAVIA
+173 178 179 225
+239
+TELEFUNKEN
+079 177 179 181
+193 195 200 210
+TELEOPTA
+171
+TELERNT
+109
+TELETECH
+165 171
+TELETEXT
+115
+TELETON
+088
+TELETON
+089 134 159 197
+TENSAI
+064 108 144 149
+171 191
+TENSON
+171
+TESLA
+204
+THOMSON
+052 078 079 134
+173 178 179 181
+193 195 225 239
+THORN
+011 014 016 018
+026 028 066 072
+075 087 097 102
+108 116 135 141
+145 146 160
+THORN-FERGUSON 160 188 200 227
+TOSHIBA
+012 016 026 036
+037 222 232
+TOWADA
+144 185
+TRISTAR
+010 064
+TRIUMPH
+025 219 236
+UHER 089
+108 109 149 185
+197 233
+ULTRAVOX
+108 164 185 204
+UNIVERSUM
+174
+UNIVOX
+204
+VESTEL
+108
+VIDEOSAT
+165
+VIDEOTON
+178 193
+VIDEOWAY
+230
+VISION
+108 149
+VOXSON
+137 204
+WALTHAM
+178
+WATSON
+064 108 149 171
+WEGA
+208 222
+WHITE
+108 110 149
+WESTINGHOUSE
+YOKO
+010 064 108 136
+144 159 164 170
+171
+ZANUSSI
+137 197
+ZENITH
+231
+
+Reference
+
+BRANDS
+MERRIT
+METZ
+
+35
+
+Language Codes
+Use this list to input your desired language for the following initial settings:
+Disc Audio, Disc Subtitle, Disc Menu.
+Language
+Abkhazian
+Afar
+Afrikaans
+Albanian
+Ameharic
+Arabic
+Armenian
+Assamese
+Aymara
+Azerbaijani
+Bashkir
+Basque
+Bengali; Bangla
+Bhutani
+Bihari
+Breton
+Bulgarian
+Burmese
+Byelorussian
+Cambodian
+Catalan
+Chinese
+Corsican
+Croatian
+Czech
+Danish
+Dutch
+English
+Esperanto
+Estonian
+Faroese
+
+Code
+6566
+6565
+6570
+8381
+6577
+6582
+7289
+6583
+6589
+6590
+6665
+6985
+6678
+6890
+6672
+6682
+6671
+7789
+6669
+7577
+6765
+9072
+6779
+7282
+6783
+6865
+7876
+6978
+6979
+6984
+7079
+
+Language
+Fiji
+Finnish
+French
+Frisian
+Galician
+Georgian
+German
+Greek
+Greenlandic
+Guarani
+Gujarati
+Hausa
+Hebrew
+Hindi
+Hungarian
+Icelandic
+Indonesian
+Interlingua
+Irish
+Italian
+Japanese
+Javanese
+Kannada
+Kashmiri
+Kazakh
+Kirghiz
+Korean
+Kurdish
+Laothian
+Latin
+Latvian, Lettish
+
+Code
+7074
+7073
+7082
+7089
+7176
+7565
+6869
+6976
+7576
+7178
+7185
+7265
+7387
+7273
+7285
+7383
+7378
+7365
+7165
+7384
+7465
+7487
+7578
+7583
+7575
+7589
+7579
+7585
+7679
+7665
+7686
+
+Language
+Lingala
+Lithuanian
+Macedonian
+Malagasy
+Malay
+Malayalam
+Maltese
+Maori
+Marathi
+Moldavian
+Mongolian
+Nauru
+Nepali
+Norwegian
+Oriya
+Panjabi
+Pashto, Pushto
+Persian
+Polish
+Portuguese
+Quechua
+Rhaeto-Romance
+Rumanian
+Russian
+Samoan
+Sanskrit
+Scots Gaelic
+Serbian
+Serbo-Croatian
+Shona
+Sindhi
+
+Code
+7678
+7684
+7775
+7771
+7783
+7776
+7784
+7773
+7782
+7779
+7778
+7865
+7869
+7879
+7982
+8065
+8083
+7065
+8076
+8084
+8185
+8277
+8279
+8285
+8377
+8365
+7168
+8382
+8372
+8378
+8368
+
+Language
+Singhalese
+Slovak
+Slovenian
+Somali
+Spanish
+Sudanese
+Swahili
+Swedish
+Tagalog
+Tajik
+Tamil
+Tatar
+Telugu
+Thai
+Tibetan
+Tigrinya
+Tonga
+Turkish
+Turkmen
+Twi
+Ukrainian
+Urdu
+Uzbek
+Vietnamese
+Volapük
+Welsh
+Wolof
+Xhosa
+Yiddish
+Yoruba
+Zulu
+
+Code
+8373
+8375
+8376
+8379
+6983
+8385
+8387
+8386
+8476
+8471
+8465
+8484
+8469
+8472
+6679
+8473
+8479
+8482
+8475
+8487
+8575
+8582
+8590
+8673
+8679
+6789
+8779
+8872
+7473
+8979
+9085
+
+Area Codes
+Choose an Area code from this list.
+Area
+Afghanistan
+Argentina
+Australia
+Austria
+Belgium
+Bhutan
+Bolivia
+Brazil
+Cambodia
+Canada
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Czech Republic
+Denmark
+Ecuador
+Egypt
+El Salvador
+
+36
+
+Code
+AF
+AR
+AU
+AT
+BE
+BT
+BO
+BR
+KH
+CA
+CL
+CN
+CO
+CG
+CR
+HR
+CZ
+DK
+EC
+EG
+SV
+
+Area
+Code
+Ethiopia
+ET
+Fiji
+FJ
+Finland
+FI
+France
+FR
+Germany
+DE
+Great Britain
+GB
+Greece
+GR
+Greenland
+GL
+Herd and Mcdonald Islands HM
+Hong Kong
+HK
+Hungary
+HU
+India
+IN
+Indonesia
+ID
+Israel
+IL
+Italy
+IT
+Jamaica
+JM
+Japan
+JP
+Kenya
+KE
+Kuwait
+KW
+Libya
+LY
+Luxembourg
+LU
+
+Area
+Malaysia
+Maldives
+Mexico
+Monaco
+Mongolia
+Morocco
+Nepal
+Netherlands
+Netherlands Antilles
+New Zealand
+Nigeria
+Norway
+Oman
+Pakistan
+Panama
+Paraguay
+Philippines
+Poland
+Portugal
+Romania
+Russian Federation
+
+Code
+MY
+MV
+MX
+MC
+MN
+MA
+NP
+NL
+AN
+NZ
+NG
+NO
+OM
+PK
+PA
+PY
+PH
+PL
+PT
+RO
+RU
+
+Area
+Saudi Arabia
+Senegal
+Singapore
+Slovak Republic
+Slovenia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Taiwan
+Thailand
+Turkey
+Uganda
+Ukraine
+United States
+Uruguay
+Uzbekistan
+Vietnam
+Zimbabwe
+
+Code
+SA
+SN
+SG
+SK
+SI
+ZA
+KR
+ES
+LK
+SE
+CH
+TW
+TH
+TR
+UG
+UA
+US
+UY
+UZ
+VN
+ZW
+
+Troubleshooting
+Possible Cause
+
+Symptom
+
+Correction
+
+No power.
+
+• The power cord is disconnected.
+
+• Plug the power cord into the wall outlet securely.
+
+The power is on, but
+the player does not
+work.
+
+• No disc is inserted.
+
+• Insert a disc. (Check the disc indicator in the display window is lit.)
+
+No picture.
+
+• The TV is not set to receive DVD signal output.
+
+• Select the appropriate video input
+mode on the TV.
+
+• The video cable is not connected
+securely.
+
+• Connect the video cable securely.
+
+• The selected resolution is not capable with your TV.
+
+• Select another resolution using
+RESOLUTION button.
+
+• The equipment connected with the
+audio cable is not set to receive disc
+signal output.
+
+• Select the correct input mode of the
+audio receiver so you can listen to
+the sound from the player.
+
+• The power of the equipment connected with the audio cable is turned off.
+
+• Turn on the equipment connected
+with the audio cable.
+
+• The [AUDIO] options are set to the
+wrong position.
+
+• Set the [AUDIO] options to the correct position (see page 20).
+
+• An unplayable disc is inserted.
+
+• Insert a playable disc. (Check the
+disc type and regional code.)
+
+• The rating level is set.
+
+• Change the rating level.
+
+The player does not
+start playback.
+
+BD-Live feature does
+not work.
+
+• External USB device is not connected. • Connect a FAT16 or FAT32 formatted
+USB device to the USB port (see
+page 9).
+• Internet connection is not established.
+
+The Remote Control
+• The Remote Control is not pointed at
+the remote sensor on the player.
+does not work properly.
+• The Remote Control is too far from
+the player.
+
+Resetting the Player
+If you observe any of the following symptoms...
+ When the Player is plugged in, but the power will
+not turn on or off.
+ When the display window is not working.
+ When the Player does not operate normally.
+
+• Ensure that the unit is correctly connected to the local area network and
+can access the internet (see page 16).
+• Point the Remote Control at the
+remote sensor of the player.
+• Operate the Remote Control closer to
+the player.
+
+You can reset the Player as follows:
+Press and hold the POWER button for more than
+five seconds. This will force the Player to power
+off. Press the POWER button again to turn the
+Player back on.
+ Unplug the power cord and then plug the power
+cord again after more than five seconds.
+
+
+Reference
+
+No sound.
+
+Customer Support
+You can update the Player using the latest software to enhance the products operation and/or add new features.
+To obtain the latest software for this player (if updates have been made), please visit http://www.lgservice.com
+or contact LG Electronics customer care centre.
+
+37
+
+Specifications
+General
+Power requirements:
+
+AC 200-240 V~, 50/60 Hz
+
+Power consumption:
+
+26W
+
+Dimensions (W x H x D):
+
+Approx. 430 x 58 x 277 mm (16.9 x 2.3 x 10.9 inches) without foot
+
+Net Weight (Approx.):
+
+3 kg
+
+Operating temperature:
+
+5 °C to 35 °C
+
+Operating humidity:
+
+5 % to 90 %
+
+Outputs
+VIDEO OUT:
+
+1.0 V (p-p), 75 Ω, sync negative, RCA jack x 1
+
+COMPONENT VIDEO OUT:
+
+(Y) 1.0 V (p-p), 75 Ω, sync negative, RCA jack x 1
+(Pb)/(Pr) 0.7 V (p-p), 75 Ω, RCA jack x 2
+
+HDMI OUT (video/audio):
+
+19 pin (HDMI standard, Type A)
+
+ANALOGUE AUDIO OUT:
+
+2.0 Vrms (1 kHz, 0 dB), 600 Ω, RCA jack (L, R) x 1
+
+DIGITAL OUT (COAXIAL):
+
+0.5 V (p-p), 75 Ω, RCA jack x 1
+
+DIGITAL OUT (OPTICAL):
+
+3 V (p-p), Optical jack x 1
+
+System
+Laser:
+
+Semiconductor laser, wavelength: 405nm / 650 nm
+
+Signal system:
+
+Standard PAL/NTSC colour TV system
+
+Frequency response:
+
+20 Hz to 20 kHz (48 kHz, 96 kHz, 192 kHz sampling)
+
+Signal-to-noise ratio:
+
+More than 100 dB (ANALOGUE OUT connectors only)
+
+Harmonic distortion:
+
+Less than 0.008%
+
+Dynamic range:
+
+More than 95 dB
+
+LAN port:
+
+Ethernet jack x 1, 10BASE-T/100BASE-TX
+
+Accessories:
+
+Video cable (1)
+Audio cable (1)
+Remote control (1)
+Batteries (2)
+
+Note: Design and specifications are subject to change without prior notice.
+
+38
+
+The unit’s Audio Output Specifications
+Jack/
+Setting
+Source Format
+
+Analogue
+Output Stereo
+
+SPDIF (DIGITAL AUDIO OUT) *5
+PCM
+Stereo
+
+DTS
+Re-encode *3 *6
+
+Primary
+Pass-Thru *1
+
+Dolby Digital
+
+PCM 2ch
+
+PCM 2ch
+
+DTS
+
+Dolby Digital
+
+Dolby Digital Plus
+
+PCM 2ch
+
+PCM 2ch
+
+DTS
+
+Dolby Digital
+
+Dolby TrueHD
+
+PCM 2ch
+
+PCM 2ch
+
+DTS
+
+Dolby Digital
+
+DTS
+
+PCM 2ch
+
+PCM 2ch
+
+DTS
+
+DTS
+
+DTS-HD
+
+PCM 2ch
+
+PCM 2ch
+
+DTS
+
+DTS
+
+Linear PCM 2ch
+
+PCM 2ch
+
+PCM 2ch
+
+DTS
+
+PCM 2ch
+
+Linear PCM 5.1ch
+
+PCM 2ch
+
+PCM 2ch
+
+DTS
+
+PCM 2ch
+
+Linear PCM 7.1ch
+
+PCM 2ch
+
+PCM 2ch
+
+DTS
+
+PCM 2ch
+
+PCM
+Stereo
+
+PCM
+Multi-Ch *3
+
+Jack/
+Setting
+Source Format
+
+HDMI OUT
+DTS
+Re-encode *6
+
+Primary
+Pass-Thru *1, *2
+
+Dolby Digital
+
+PCM 2ch
+
+PCM 5.1ch
+
+DTS
+
+Dolby Digital
+
+Dolby Digital Plus
+
+PCM 2ch
+
+PCM 7.1ch
+
+DTS
+
+Dolby Digital Plus
+Dolby TrueHD
+
+Dolby TrueHD
+
+PCM 2ch
+
+PCM 7.1ch
+
+DTS
+
+DTS
+
+PCM 2ch
+
+PCM 5.1ch
+
+DTS
+
+DTS
+
+DTS-HD
+
+PCM 2ch
+
+PCM 5.1ch
+
+DTS
+
+DTS-HD
+
+Linear PCM 2ch
+
+PCM 2ch
+
+PCM 2ch
+
+DTS
+
+PCM 2ch
+
+Linear PCM 5.1ch
+
+PCM 2ch
+
+PCM 5.1ch
+
+DTS
+
+PCM 5.1ch
+
+Linear PCM 7.1ch
+
+PCM 2ch
+
+PCM 7.1ch
+
+DTS
+
+PCM 7.1ch *4
+
+Notes:
+*1 The secondary and interactive audio may not be included in the output bitstream if [SPDIF] or [HDMI]
+option is set to [Primary Pass-Thru]. (Except LPCM Codec : the output always include interactive and
+secondary audio.)
+
+*3 The [PCM Multi-CH]/[Primary Pass-Thru] setting of the [HDMI] option and [DTS re-encode] setting of the
+[SPDIF] option cannot be set together. If you set the [HDMI] option to [PCM Multi-CH] or
+[Primary Pass-Thru], the [SPDIF] option is set to [PCM Stereo] automatically. Also, if you set the [SPDIF]
+option to [DTS Re-encode] and the [HDMI] option is set to [PCM Stereo] automatically.
+*4 The LPCM audio recorded at 192kHz sampling frequency will be outputted as stereo sound.
+*5 On the PCM audio output, the sampling frequency of HDMI/SPDIF (DIGITAL AUDIO OUT) is limited to
+96 kHz.
+*6 If the [HDMI] or [SPDIF] option is set to [DTS re-encode], the audio output is limited to 48 kHz and
+5.1 ch. If the [HDMI] or [SPDIF] option is set to [DTS re-encode], the DTS Re-encode audio is outputted
+for BD-ROM discs, and the original audio is outputted for the other discs (like [Primary Pass-Thru]).
+
+Reference
+
+*2 This player automatically selects the HDMI audio according to the decoding capability of the connected
+HDMI device even though [HDMI] option is set to [Primary Pass-Thru].
+
+• If [HDMI] option is set to [PCM Multi-CH] and [SPDIF] option is set to [Primary Pass-Thru] when the unit
+plays back Dolby Digital Plus audio, SPDIF (DIGITAL AUDIO OUT) jack is limited to “PCM 2ch”.
+• If the HDMI connection is version 1.3 and Dolby Digital Plus/Dolby TrueHD/DTS-HD is outputted from
+HDMI OUT jack, SPDIF (DIGITAL AUDIO OUT) jack is limited to “PCM 2ch” (When the HDMI and SPDIF
+are connected simultaneously).
+• The audio is always output as PCM 48kHz/16 bit during Audio CD or MP3/WMA file is playing back.
+• The Dolby TrueHD audio recorded on the BD disc is consist of Dolby Digital and TrueHD audio.
+The Dolby Digital audio is outputted through DIGITAL AUDIO OUT jacks and DD displays on the screen if
+the player does not use Lossless audio. (for example, when [HDMI] is set to [PCM Stereo] or
+[DTS Re-encode] and [SPDIF] is set to [Primary Pass-Thru])
+
+39
+
+Open source software notice
+The following GPL executables and LGPL libraries used in this product are subject to the GPL2.0/LGPL2.1
+Licence Agreements:
+GPL EXECUTABLES:
+Linux kernel 2.6, bash, busybox, dhcpcd, mtd-utils, net-tools, procps, sysutils, tinylogin
+LGPL LIBRARIES:
+uClibc, DirectFB, iconv, cairo
+LG Electronics offers to provide source code to you on CD-ROM for a charge covering the cost of performing
+such distribution, such as the cost of media, shipping and handling upon e-mail request to LG Electronics at:
+opensource@lge.com
+This offer is valid for a period of three(3) years from the date of the distribution of this product by LG
+Electronics.
+You can obtain a copy of the GPL, LGPL licences from
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html and
+http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+This software is based in part on the work of the Independent JPEG Group copyright © 1991-1998,
+Thomas G. Lane.
+This product includes
+• Freetype library : Copyright © 2003 The FreeType Project (www.freetype.org).
+• libpng library: Copyright © 2004 Glenn Randers-Pehrson
+• Zlib compression library: Copyright © 1995-2002 Jean-loup Gailly and Mark Adler
+• cryptographic software written by Eric Young (eay@cryptsoft.com).
+• software written by Tim Hudson (tjh@cryptsoft.com).
+• software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org)
+This product includes other open source software.
+• Copyright © David L. Mills 1992-2006
+• Copyright © 1998-2003 Daniel Veillard.
+• Copyright © 1998, 1999, 2000 Thai Open Source Software Centre Ltd.
+• Copyright © 1990 The Regents of the University of California.
+• Copyright © 1998-2005 The OpenSSL Project.
+All rights reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the “Software”), to deal in the Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and
+to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+P/NO : MFL40858016
+40

@@ -1,0 +1,3295 @@
+X7
+
+X7
+(M5 X L65)
+12
+
+14
+
+16
+
+20
+
+OLED TV
+
+OLED65W7*
+OLED77W7*
+
+AA
+
+AA
+
+CR2032
+
+a X2
+(M3 X L10)
+
+b
+
+c
+
+OLED65W7*
+
+e
+
+d
+OLED77W7*
+
+e
+
+X 5 (+2)
+
+e
+
+X 8 (+2)
+
+f X 5 (+2)
+(Ø5 X L65)
+
+f X 8 (+2)
+(Ø5 X L65)
+
+X 5 (+4)
+(Ø3 X L18)
+
+X 8 (+4)
+(Ø3 X L18)
+
+: Depending on model / Abhängig vom Modell / Selon le modèle / In base al modello / En función del modelo / Dependendo do modelo / Afhankelijk van het model /
+Ανάλογα με το μοντέλο / Odvisno od modela / Típusfüggő / Zależnie od modelu / Závisí na modelu / V závislosti od modelu / În funcţie de model / В зависимост
+от модела / Sõltub mudelist / Priklauso nuo modelio / Atkarībā no modeļa / U zavisnosti od modela / Ovisno o modelu / Në varësi të modelit / Ovisno o modelu /
+Во зависност од моделот / Beroende på modell / Avhengig av modell / Afhængigt af modellen / Mallin mukaan /
+
+www.lg.com
+
+OLED65W7*
+https://youtu.be/frR9EA89e4A
+
+P/No: MFL69649062 (1705-REV03)
+Printed in Korea
+
+1
+
+2
+
+4
+
+5
+
+3
+
+6
+
+7
+
+OLED65W7*
+
+f
+
+6
+
+480 mm
+
+e
+
+7
+
+OLED77W7*
+e
+f
+
+400 mm
+
+8
+
+10
+
+9
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+1
+
+b
+2
+
+a
+
+23
+
+ANTENNA /
+CABLE IN
+
+HDMI IN
+
+HDMI IN/ARC
+
+USB IN
+
+LAN
+
+AUDIO OUT/
+H/P OUT
+
+LAN
+
+AUDIO OUT/
+H/P OUT
+
+Satellite IN
+
+PCMCIA CARD SLOT
+
+OPTICAL DIGITAL
+AUDIO OUT
+
+AV IN
+
+VIDEO
+
+L/MONO AUDIO R
+
+COMPONENT IN
+
+AUDIO
+
+VIDEO
+
+1
+1
+
+b
+
+2
+
+d
+
+2
+
+a
+e
+
+3
+
+c
+4
+
+a
+
+1
+
+2
+
+3
+
+4
+
+1
+
+2
+
+AA
+
+1
+
+2
+
+3
+
+3
+
+4
+
+1
+
+2
+
+1
+
+2
+
+3
+
+0
+
+1
+
+2
+
+A
+
+C
+B
+
+E
+
+D
+
+F
+
+G
+
+H
+
+B
+
+A
+
+C
+
+D
+
+I
+
+E
+
+F
+
+G
+
+H
+
+I
+
+OLED65W7V-Z
+
+1450
+
+825
+
+3.85
+
+7.6
+
+1260
+
+78
+
+198
+
+10.0
+
+2.3
+
+OLED77W7V-Z
+
+1721
+
+989
+
+5.96
+
+12.3
+
+1460
+
+84
+
+208
+
+13.1
+
+5.0
+
+Power Requirement
+
+AC 100-240 V ~ 50 / 60 Hz
+
+*MFL69649062*
+
+Safety and Reference
+
+Please read this manual carefully before operating your set and
+retain it for future reference.
+
+*MFL69727242*
+
+www.lg.com
+P/NO : MFL69727242 (1708-REV03)
+Copyright ⓒ 2017 LG Electronics Inc. All Rights Reserved.
+
+Warning! Safety instructions
+ENGLISH
+
+CAUTION
+RISK OF ELECTRIC SHOCK
+DO NOT OPEN
+
+CAUTION : TO REDUCE THE RISK OF ELECTRIC SHOCK, DO NOT
+REMOVE COVER (OR BACK). NO USER-SERVICEABLE PARTS INSIDE.
+REFER TO QUALIFIED SERVICE PERSONNEL.
+This symbol is intended to alert the user to the presence of
+uninsulated “dangerous voltage” within the product’s
+enclosure that may be of sufficient magnitude to constitute a risk
+of electric shock to persons.
+This symbol is intended to alert the user to the presence of
+important operating and maintenance (servicing)
+instructions in the literature accompanying the appliance.
+WARNING : TO REDUCE THE RISK OF FIRE AND ELECTRIC SHOCK,
+DO NOT EXPOSE THIS PRODUCT TO RAIN OR MOISTURE.
+TO PREVENT THE SPREAD OF FIRE, KEEP CANDLES OR
+OTHER ITMES WITH OPEN FLAMES AWAY FROM THIS
+PRODUCT AT ALL TIMES.
+•• Do not place the TV and/or remote control in the following
+environments:
+-- A location exposed to direct sunlight
+-- An area with high humidity such as a bathroom
+-- Near any heat source such as stoves and other devices that produce
+heat
+-- Near kitchen counters or humidifiers where they can easily be
+exposed to steam or oil
+-- An area exposed to rain or wind
+-- Near containers of water such as vases
+Otherwise, this may result in fire, electric shock, malfunction or
+product deformation.
+•• Do not place the product where it might be exposed to dust. This may
+cause a fire hazard.
+•• Mains Plug is the TV connecting/disconnecting device to AC mains
+electric supply. This plug must remain readily attached and operable
+when TV is in use.
+
+2
+
+•• Do not touch the power plug with wet hands. Additionally, if the cord
+pin is wet or covered with dust, dry the power plug completely or
+wipe dust off. You may be electrocuted due to excess moisture.
+•• Make sure to connect Mains cable to compliant AC mains socket with
+Grounded earth pin. (Except for devices which are not grounded on
+earth.) Otherwise possibility you may be electrocuted or injured.
+•• Insert power cable plug completely into wall socket otherwise if not
+secured completely into socket, fire ignition may break out.
+•• Ensure the power cord does not come into contact with hot objects
+such as a heater. This may cause a fire or an electric shock hazard.
+•• Do not place a heavy object, or the product itself, on power cables.
+Otherwise, this may result in fire or electric shock.
+•• Bend antenna cable between inside and outside building to prevent
+rain from flowing in. This may cause water damaged inside the
+Product and could give an electric shock.
+•• When mounting TV onto wall make sure to neatly install and isolate
+cabling from rear of TV as to not create possibility of electric shock /
+fire hazard.
+•• Do not plug too many electrical devices into a single multiple
+electrical outlet. Otherwise, this may result in fire due to overheating.
+•• Do not drop the product or let it fall over when connecting external
+devices. Otherwise, this may result in injury or damage to the
+product.
+•• Keep the anti-moisture packing material or vinyl packing out of the
+reach of children. Anti-moisture material is harmful if swallowed. If
+swallowed by mistake, force the patient to vomit and visit the nearest
+hospital. Additionally, vinyl packing can cause suffocation. Keep it out
+of the reach of children.
+•• Do not let your children climb or cling onto the TV.
+Otherwise, the TV may fall over, which may cause serious injury.
+•• Dispose of used batteries carefully to ensure that a small child
+does not consume them. Please seek Doctor- Medical Attention
+immediately if child consumes batteries.
+•• Do not insert any metal objects/conductors (like a metal chopstick/
+cutlery/screwdriver) into the end of power cable while the power
+plug is plugged into wall socket. Additionally, do not touch the
+power plug right after unplugging from the wall socket. You may be
+electrocuted.
+
+•• Only use an authorized AC adapter and power cord approved by
+LG Electronics. Otherwise, this may result in fire, electric shock,
+malfunction or product deformation.
+•• Never Disassemble the AC adapter or power cord. This may result in
+fire or electric shock.
+•• Be careful in handling the adapter to prevent any external shocks to
+it. An external shock may cause damage to the adapter.
+•• Make sure the power cord is connected securely to the power plug
+on the TV.
+•• Install the product where no radio wave occurs.
+•• There should be enough distance between an outside antenna and
+power lines to keep the former from touching the latter even when
+the antenna falls. This may cause an electric shock.
+•• Do not install the product on places such as unstable shelves or
+inclined surfaces. Also avoid places where there is vibration or where
+the product cannot be fully supported. Otherwise, the product may
+fall or flip over, which may cause injury or damage to the product.
+•• If you install the TV on a stand, you need to take actions to prevent
+the product from overturning. Otherwise, the product may fall over,
+which may cause injury.
+•• If you intend to mount the product to a wall, attach VESA standard
+mounting interface (optional parts) to the back of the product. When
+you install the set to use the wall mounting bracket (optional parts),
+fix it carefully so as not to drop. (Only OLED65/77G7*)
+•• Only use the attachments / accessories specified by the manufacturer.
+•• When installing the antenna, consult with a qualified service
+technician. If not installed by a qualified technician, this may create a
+fire hazard or an electric shock hazard.
+•• We recommend that you maintain a distance of at least 2 to 7 times
+the diagonal screen size when watching TV. If you watch TV for a long
+period of time, this may cause blurred vision.
+•• Only use the specified type of battery. This could cause damage to the
+remote control.
+•• Do not mix new batteries with old batteries. This may cause the
+batteries to overheat and leak.
+•• Batteries should not be exposed to excessive heat. For example, keep
+away from direct Sunlight, open fireplace and electric heaters.
+
+ENGLISH
+
+•• Do not put or store inflammable substances near the product. There is
+a danger of combustion/explosion or fire due to careless handling of
+the inflammable substances.
+•• Do not drop metallic objects such as coins, hair pins, chopsticks or
+wire into the product, or inflammable objects such as paper and
+matches. Children must pay particular attention. Electrical shock, fire
+or injury can occur. If a foreign object is dropped into the product,
+unplug the power cord and contact the service centre.
+•• Do not spray water on the product or scrub with an inflammable
+substance (thinner or benzene). Fire or electric shock accident can
+occur.
+•• Do not allow any impact, shock or any objects to fall into the unit,
+and do not drop anything onto the screen. You may be injured or the
+product can be damaged.
+•• Never touch this product or antenna during a thunder or lighting
+storm.
+You may be electrocuted.
+•• Never touch the wall outlet when there is leakage of gas, open the
+windows and ventilate. It may cause a fire or a burn by a spark.
+•• Do not disassemble, repair or modify the product at your own
+discretion. Fire or electric shock accident can occur.
+Contact the service centre for check, calibration or repair.
+•• If any of the following occur, unplug the product immediately and
+contact your local service centre.
+-- The product has been damaged
+-- Foreign objects have entered the product
+-- The product produced smoke or a strange smell
+This may result in fire or electric shock.
+•• Unplug the TV from AC mains wall socket if you do not intend to
+use the TV for a long period of time. Accumulated dust can cause
+fire hazard and insulation deterioration can cause electric leakage/
+shock/fire.
+•• Apparatus shall not be exposed to dripping or splashing and no
+objects filled with liquids, such as vases, shall be placed on the
+apparatus.
+•• Do not install this product on a wall if it could be exposed to oil or oil
+mist. This may damage the product and cause it to fall.
+•• If water enters or comes into contact with TV, AC adapter or power
+cord please disconnect the power cord and contact service centre
+immediately. Otherwise, this may result in electric shock or fire.
+
+3
+
+ENGLISH
+
+•• Signal from Remote Control can be interrupted due to external/
+internal lighting eg Sunlight, fluorescent lighting. If this occurs turn
+off lighting or darken viewing area.
+•• When connecting external devices such as video game consoles,
+make sure the connecting cables are long enough. Otherwise, the
+product may fall over, which may cause injury or damage the product.
+•• Do not turn the product On/Off by plugging-in or unplugging the
+power plug to the wall outlet. (Do not use the power plug for switch.)
+It may cause mechanical failure or could give an electric shock.
+•• Please follow the installation instructions below to prevent the
+product from overheating.
+-- The distance between the product and the wall should be more
+than 10 cm. (Not applicable for OLED65/77W7*)
+-- Do not install the product in a place with no ventilation (e.g., on a
+bookshelf or in a cupboard).
+-- Do not install the product on a carpet or cushion.
+-- Make sure the air vent is not blocked by a tablecloth or curtain.
+This may result in fire.
+•• Take care not to touch the ventilation openings when watching the
+TV for long periods as the ventilation openings may become hot. This
+does not affect the operation or performance of the product.
+•• Periodically examine the cord of your appliance, and if its appearance
+indicates damage or deterioration, unplug it, discontinue use of the
+appliance, and have the cord replaced with an exact replacement part
+by an authorized servicer.
+•• Prevent dust collecting on the power plug pins or outlet. This may
+cause a fire hazard.
+•• Protect the power cord from physical or mechanical abuse, such as
+being twisted, kinked, pinched, closed in a door, or walked upon. Pay
+particular attention to plugs, wall outlets, and the point where the
+cord exits the appliance.
+•• Do not press strongly upon the panel with a hand or sharp object
+such as nail, pencil or pen, or make a scratch on it, as it may
+cause damage to screen.
+•• Avoid touching the screen or holding your finger(s) against it for long
+periods of time. Doing so may produce some temporary or permanent
+distortion/damage to screen.
+
+4
+
+•• As long as this unit is connected to the AC wall outlet, it is not
+disconnected from the AC power source even if you turn off this unit
+by SWITCH.
+•• When unplugging the cable, grab the plug and unplug it, by pulling
+at the plug. Don’t pull at the cord to unplug the power cord from the
+power board, as this could be hazardous.
+•• When moving the product, make sure you turn the power off first.
+Then, unplug the power cables, antenna cables and all connecting
+cables.
+The TV set or power cord may be damaged, which may create a fire
+hazard or cause electric shock.
+•• When moving or unpacking the product, work in pairs because the
+product is heavy. Otherwise, this may result in injury.
+•• Refer all servicing to qualified service personnel. Servicing is required
+when the apparatus has been damaged in any way, such as power
+supply cord or plug is damaged, liquid has been spilled or objects
+have fallen into the apparatus, the apparatus has been exposed to
+rain or moisture, does not operate normally, or has been dropped.
+•• Do not use high voltage electrical goods near the TV (e.g. electric
+mosquito-swatter). This may result in product malfunction.
+•• When cleaning the product and its components, unplug the power
+first and wipe it with a soft cloth. Applying excessive force may cause
+scratches or discolouration. Do not spray the panel with water or
+wipe with a wet cloth. Do not clean your TV with chemicals including
+glass cleaner, any type of air freshener, insecticide, lubricants, wax
+(car, industrial), abrasive, thinner, benzene, alcohol etc., which can
+damage the product and/or its panel. Otherwise, this may result in
+fire, electric shock or product damage (Deformation, corrosion or
+breakage).
+•• To clean the top of the Companion Box (AV box), spray a soft cloth
+with water. Then, wipe the surface so that the product does not come
+in direct contact with water. Next, wipe it again so that no moisture
+remains. (Only OLED65/77W7*)
+
+Preparing
+
+B
+
+B
+A
+
+A
+
+*	 A <
+= 10 mm
+*	 B <
+= 18 mm
+
+•• Use a certified cable with the HDMI logo attached.
+•• If you do not use a certified HDMI cable, the screen may not display or
+a connection error may occur. (Recommended HDMI Cable Types)
+-- High-Speed HDMI®/TM Cable (3 m or less)
+-- High-Speed HDMI®/TM Cable with Ethernet (3 m or less)
+
+ENGLISH
+
+•• If the TV is turned on for the first time after it was shipped from the
+factory, initialization of the TV may take a few minutes.
+•• Image shown may differ from your TV.
+•• Your TV’s OSD (On Screen Display) may differ slightly from that shown
+in this manual.
+•• The available menus and options may differ from the input source or
+product model that you are using.
+•• New features may be added to this TV in the future.
+•• The items supplied with your product may vary depending on the
+model.
+•• Product specifications or contents of this manual may be changed
+without prior notice due to upgrade of product functions.
+•• For an optimal connection, HDMI cables and USB devices should have
+bezels less than 10 mm thick and 18 mm width. Use an extension
+cable that supports USB 2.0 if the USB cable or USB memory stick
+does not fit into your TV’s USB port.
+
+•• When supported cable is not long enough to connect
+TV set with Companion Box (AV Box), you can use an
+extension cable. (Only OLED65/77W7V)
+•• Please do not pile the stuff up or press strongly
+the speaker. This may result in product damage or
+degradation. (Only OLED65/77W7*)
+•• Do not use any unapproved items to ensure the safety
+and product life span.
+•• Any damage or injuries caused by using unapproved
+items are not covered by the warranty.
+•• Some models have a thin film attached on to the
+screen and this must not be removed.
+•• When attaching the stand to the TV set, place the
+screen facing down on a cushioned table or flat surface
+to protect the screen from scratches.
+•• Make sure that the screws are fastened completely. (If
+they are not fastened securely enough, the TV may tilt
+forward after being installed.) Do not use too much
+force and over tighten the screws; otherwise screw
+may be damaged and not tighten correctly.
+•• Make sure to wring any excess water or cleaner from
+the cloth.
+•• Do not spray water or cleaner directly onto the TV
+screen.
+•• Make sure to spray just enough of water or cleaner
+onto a dry cloth to wipe the screen.
+
+Separate purchase
+Separate purchase items can be changed or modified for quality
+improvement without any notification. Contact your dealer to buy
+these items. These devices only work with certain models. The model
+name or design may be changed depending on the upgrade of product
+functions, manufacturer’s circumstances or policies.
+The manufacturer shall not be held responsible for any injuries,
+damages, or quality issues that may arise if an item that is not listed
+below is purchased separately and used.
+(Depending on model)
+W7AWB
+Companion Box (AV box) Wall mount
+
+5
+
+Lifting and moving the TV
+
+•• Avoid touching the screen at all times, as this may
+result in damage to the screen.
+•• Do not move the TV by holding the cable holders, as
+the cable holders may break, and injuries and damage
+to the TV may occur.
+•• Make sure to attach the AV box fixing supporter to the
+AV box before you lift the product and move. Moving
+the product without attaching the AV box fixing
+supporter to the AV box first may cause injury to your
+fingers. (Only OLED65/77G7*)
+
+Please note the following advice to prevent the TV from being scratched
+or damaged and for safe transportation regardless of its type and size.
+ENGLISH
+
+•• It is recommended to move the TV in the box or packing material that
+the TV originally came in.
+•• Before moving or lifting the TV, disconnect the power cord and all
+cables.
+•• When holding the TV, the screen should face away from you to avoid
+damage.
+
+Using the button
+•• Hold the top and bottom of the TV frame firmly. Make sure not to
+hold the transparent part, speaker, or speaker grill area.
+
+(Depending on model)
+You can simply operate the TV functions, using the button.
+<A type>
+
+•• When transporting a large TV, there should be at least 2 people.
+•• When transporting the TV by hand, hold the TV as shown in the
+following illustration.
+<B type>
+
+•• When transporting the TV, do not expose the TV to jolts or excessive
+vibration.
+•• When transporting the TV, keep the TV upright, never turn the TV on
+its side or tilt towards the left or right.
+•• Do not apply excessive pressure to cause flexing /bending of frame
+chassis as it may damage screen.
+•• When handling the TV, be careful not to damage the protruding
+buttons.
+
+6
+
+Securing the TV to a wall
+
+Basic functions
+Power On (Press)
+Power Off (Press and hold)1
+
+(This feature is not available for all models.)
+ENGLISH
+
+Volume Control
+Programmes Control
+
+1	 All running apps will close, and any recording in progress will stop.
+
+Adjusting the menu
+When the TV is turned on, press the
+the Menu items using the button.
+
+button one time. You can adjust
+
+Turns the power off.
+Clears on-screen displays and returns to TV viewing.
+
+1	 Insert and tighten the eye-bolts, or TV brackets and bolts on the
+back of the TV.
+•	 If there are bolts inserted at the eye-bolts position, remove the
+bolts first.
+2	 Mount the wall brackets with the bolts to the wall.
+Match the location of the wall bracket and the eye-bolts on the rear
+of the TV.
+3	 Connect the eye-bolts and wall brackets tightly with a sturdy rope.
+Make sure to keep the rope horizontal with the flat surface.
+
+Changes the input source.
+Accesses the settings menu.
+
+•• Make sure that children do not climb on or hang on
+the TV.
+
+Mounting on a table
+(This feature is not available for all models.)
+1	 Lift and tilt the TV into its upright position on a table.
+•	 Leave a 10 cm (minimum) space from the wall for proper
+ventilation.
+
+•• Use a platform or cabinet that is strong and large enough to support
+the TV securely.
+•• Brackets, bolts and ropes are not provided. You can obtain additional
+accessories from your local dealer.
+
+10 cm
+10 cm
+10 cm
+
+10 cm
+10 cm
+
+2	 Connect the power cord to a wall outlet.
+•• Do not place the TV near or on sources of heat, as this
+may result in fire or other damage.
+•• Do not apply foreign substances (oils, lubricants, etc.)
+to the screw parts when assembling the product.
+(Doing so may damage the product.)
+
+7
+
+Mounting on a wall
+
+•• Fold the AV box before installing the TV on a wall
+mount by performing the stand type installation in
+reverse.
+•• To install the wall mount, switch the selector to
+as shown in the figure below. (Only
+OLED77G7*)
+
+(This feature is not available for all models.)
+ENGLISH
+
+10 cm
+
+10 cm
+
+10 cm
+10 cm
+
+(Only OLED65/77G7*)
+Attach an optional wall mount bracket at the rear of the TV carefully
+and install the wall mount bracket on a solid wall perpendicular to
+the floor. When you attach the TV to other building materials, please
+contact qualified personnel. LG recommends that wall mounting be
+performed by a qualified professional installer. We recommend the use
+of LG’s wall mount bracket. LG’s wall mount bracket is easy to move with
+cables connected. When you do not use LG’s wall mount bracket, please
+use a wall mount bracket where the device is adequately secured to the
+wall with enough space to allow connectivity to external devices. It is
+advised to connect all the cables before installing fixed wall mounts.
+
+•• Fold the AV box and attach the AV box fixing supporter / Wall mount
+spacer to the AV box before installing the product on a wall mount.
+(Only when the item of the following form is provided)
+Provided item
+
+AV box fixing supporter
+Make sure to use screws and wall mount bracket that meet the VESA
+standard. Standard dimensions for the wall mount kits are described in
+the following table.
+
+Separate purchase (Wall mounting bracket)
+Model
+
+OLED65G7*
+
+OLED77G7*
+
+VESA (A x B) (mm)
+
+400 x 200
+
+600 x 300
+
+Standard screw
+
+M6
+
+M8
+
+M4
+
+Number of screws
+
+4
+
+4
+
+2
+
+A
+
+Wall mount bracket BOTW420B
+
+A
+B
+
+8
+
+OTW630B
+
+1
+
+2
+
+x2
+
+Wall Material
+
+Provided item
+
+Concrete
+Brick
+Wall mount spacer
+
+Natural stone
+Metal Panel
+Plywood
+
+x2
+
+x2
+
+x2
+
+EPS Panel
+Plasterboard +
+Plywood
+
+Wall Width
+
+Wall mounting
+anchor, Wall
+mounting screw,
+Ø 3/6/8 mm Drill bit
+
+70 mm
+
+Wall mounting
+screw, Ø 1.8 mm
+Drill bit
+
+ENGLISH
+
+AV box fixing supporter /
+Wall mount spacer
+
+Tools
+
+30 mm
+Penetrate the wall
+30 mm
+
+•• When installing on a gypsum board or medium-density fiberboard
+(MDF) wall, fasten the screws to the studs that support the wall. If
+there are no studs, check the distance from the inner wall before
+installing.
+-- 30 mm or below: Install directly on the inner wall using a 65 mm
+screw.
+-- 30 mm or above: Install using a separate hanger.
+
+(Only OLED65/77W7V)
+Provided item
+
+Wall
+•• When installing the wall mount, check the positions of the wooden
+studs using a stud finder. Then, fasten the screws on at least two
+separate studs before proceeding.
+
+Wall mount
+
+Punching Guide
+
+Wall mounting screw
+Ø5 x L65
+
+Wall mounting anchor
+
+Wall mounting screw for wood
+Ø3 x L18
+•• Check the material of the wall and the thickness of the finishing.
+•• Use the Wall mount anchor for wall material of concrete, light
+concrete, strong natural stone, soft natural stone masonry brick and
+hallow block that do not crack.
+
+Stud
+
+Wall mount
+•• When installing the product on wall material not designated, install
+the product so that each location can withstand the pull out load of
+70 kgf (686 N) and shear load of 100 kgf (980 N) or above.
+•• Use the Ø 8 mm drill bit for concrete and hammer (Impact) drill.
+
+Tools you will need
+•• Phillips head + driver (manual or motorized), Ø 3/6/8 mm Drill bit,
+Level, Stud finder, Drill
+
+9
+
+How to attach to masonry walls
+Please follow the below direction.
+1	 Use a drill bit Ø 8 mm to drill a hole for the anchor location within a
+depth of 80 mm to 100 mm.
+ENGLISH
+2	 Clean the drilled hole.
+
+3	 Insert the sealed wall mounting anchor to the hole. (When inserting
+the anchor, use a hammer.)
+
+Wall mounting anchor
+4	 Set the wall mount on the wall by aligning to the location of the
+hole. And, set the angle adjusting part to face upward.
+
+Wall mount
+5	 Align the wall mounting screw to the hole and tighten it. Then,
+fasten the screws at torque of 45 kgf/cm to 60 kgf/cm.
+
+Wall mounting screw
+
+10
+
+•• Make sure that children do not climb on or hang on
+the TV.
+•• Use a platform or cabinet that is strong and large
+enough to support the TV securely.
+•• When installing the product, first check that the wall is
+strong enough. Use the anchors and screws provided.
+-- If you use anchors and screws that are not specified
+by the manufacturer, they may not hold the weight
+of the product, causing safety issues.
+•• Be sure to use the accessory cable provided.
+Otherwise, friction between the product and the wall
+may cause damage to the connector.
+•• When drilling holes into the wall, make sure you use
+a drill and drill bit with the specified diameter. Ensure
+that you also follow the instructions regarding the
+depth of the holes.
+-- Otherwise, the product may be installed incorrectly
+and cause safety issues.
+•• Wear safety gloves when installing the product. Do not
+use your bare hands.
+-- Otherwise, it may cause personal injury.
+•• If some parts of the wall mount do not touch the wall
+after it is attached, use the double-sided tape included
+in the accessory box to stick the mount to the wall.
+•• If some parts of the wall mount do not touch the wall
+after using the wall mounting screws for wood, use
+the remaining screws.
+•• Be sure to use only the exclusive wall mounting screws
+provided as accessories.
+•• If you want to connect the TV Cable is connected to
+the back panel partition, please use the enclosed
+Punching Guide.
+
+Using the kensington security
+system
+
+Antenna connection
+
+(Only OLED65W7*)
+The Kensington security system connector is located at the rear of
+the Companion Box (AV Box). For more information of installation
+and using, refer to the manual provided with the Kensington security
+system or visit http://www.kensington.com.
+
+•• Use a signal splitter to use more than 2 TVs.
+•• If the image quality is poor, install a signal amplifier properly to
+improve the image quality.
+•• If the image quality is poor with an antenna connected, try to realign
+the antenna in the correct direction.
+•• An antenna cable and converter are not supplied.
+•• Supported DTV Audio: MPEG, Dolby Digital, Dolby Digital Plus,
+HE-AAC
+•• For a location that is not supported with ULTRA HD broadcasting,
+this TV cannot receive ULTRA HD broadcasts directly. (Depending on
+model)
+
+Connect the TV to a wall antenna socket with an RF cable (75 Ω).
+ENGLISH
+
+Satellite dish connection
+(Only satellite models)
+Connect the TV to a satellite dish to a satellite socket with a satellite RF
+cable (75 Ω).
+
+Connections (notifications)
+Connect various external devices to the TV and switch input modes to
+select an external device. For more information of external device’s
+connection, refer to the manual provided with each device.
+Available external devices are: HD receivers, DVD players, VCRs, audio
+systems, USB storage devices, PC, gaming devices, and other external
+devices.
+•• The external device connection may differ from the model.
+•• Connect external devices to the TV regardless of the order of the TV
+port.
+•• If you record a TV program on a DVD recorder or VCR, make sure to
+connect the TV signal input cable to the TV through a DVD recorder or
+VCR. For more information of recording, refer to the manual provided
+with the connected device.
+•• Refer to the external equipment’s manual for operating instructions.
+•• If you connect a gaming device to the TV, use the cable supplied with
+the gaming device.
+•• In PC mode, there may be noise associated with the resolution,
+vertical pattern, contrast or brightness. If noise is present, change the
+PC output to another resolution, change the refresh rate to another
+rate or adjust the brightness and contrast on the PICTURE menu until
+the picture is clear.
+•• In PC mode, some resolution settings may not work properly
+depending on the graphics card.
+•• If ULTRA HD content is played on your PC, video or audio may become
+disrupted intermittently depending on your PC’s performance.
+•• When connecting via a wired LAN, it is recommended to use a
+CAT 7 cable.
+
+CI module connection
+(Depending on model)
+View the encrypted (pay) services in digital TV mode.
+•• Check if the CI module is inserted into the PCMCIA card slot in the
+right direction. If the module is not inserted properly, this can cause
+damage to the TV and the PCMCIA card slot.
+•• If the TV does not display any video and audio when CI+ CAM is
+connected, please contact to the Terrestrial/Cable/Satellite Service
+Operator.
+
+USB connection
+Some USB Hubs may not work. If a USB device connected through a USB
+Hub is not detected, connect it directly to the USB port on the TV.
+
+11
+
+ENGLISH
+
+Other connections
+
+A
+
+Connect your TV to external devices. For the best picture and audio
+quality, connect the external device and the TV with the HDMI cable.
+Some separate cable is not provided.
+
+(POWER) Turns the TV on or off.
+You can turn your set-top box on or off by adding the set-top
+box to the universal remote control for your TV.
+Adjusts the volume level.
+Scrolls through the saved programmes.
+(MUTE) Mutes all sounds.
+-- Pressing and holding the
+button accesses the Accessibility menu.
+Returns to the previous level.
+* Clears on-screen displays and returns to last input viewing.
+(HOME) Accesses the Home menu.
+(INPUT) Changes the input source.
+-- Pressing and holding the button displays all the lists of external
+inputs.
+Selects menus or options and confirms your input.
+Navigation buttons (up/down/left/right)
+Press the up, down, left or right button to scroll the menu.
+
+General HDMI ULTRA HD Deep Colour :
+-- On : Support 4K @ 50/60 Hz (4:4:4, 4:2:2, 4:2:0)
+-- Off : Support 4K @ 50/60 Hz 8 bit (4:2:0)
+If the device connected to Input Port also supports ULTRA HD Deep
+Colour, your picture may be clearer.
+However, if the device doesn’t support it, it may not work properly.
+In that case, connect the device to a different HDMI port or change the
+TV’s HDMI ULTRA HD Deep Colour setting to Off.
+••
+
+•• Supported HDMI Audio format :
+DTS (44.1 kHz, 48 kHz),
+Dolby Digital / Dolby Digital Plus (32 kHz, 44.1 kHz, 48 kHz),
+PCM (32 kHz, 44.1 kHz, 48 kHz, 96 kHz, 192 kHz)
+(Depending on model)
+
+*	 To use the button, press and hold for more than 3 seconds.
+
+Slim remote control
+The descriptions in this manual are based on the buttons on the remote
+control. Please read this manual carefully and use the TV correctly.
+To replace coin batteries, turn the battery cover counterclockwise by
+using a coin. Take the battery cover off and insert the battery (CR2032)
+facing forward . Put the battery cover on the remote control and
+turn it clockwise to close. To remove the coin batteries, perform the
+installation actions in reverse.
+Make sure to point the remote control toward the remote control sensor
+on the TV.
+
+STB
+PWR
+
+A
+BACK
+EXIT
+
+12
+
+Battery installation
+•• DO NOT INGEST BATTERY. CHEMICAL BURN HAZARD.
+•• The battery used in this device may present a fire or
+chemical burn hazard if mistreated. Do not recharge,
+disassemble, incinerate, or heat above 100 °C. Replace
+the battery part no. CR2032 only. Use of another
+battery may present a risk of fire or explosion. Dispose
+of used battery. Keep battery away from children. Do
+not disassemble or dispose of in fire.
+•• [The remote control supplied with] This product
+contains a coin/button cell battery. If the coin/button
+cell battery is swallowed, it can cause severe internal
+burns in just 2 hours and can lead to death. Keep new
+and used batteries away from children. If the battery
+compartment does not close securely, stop using
+the product and keep it away from children. If you
+think batteries might have been swallowed or placed
+inside any part of the body, seek immediate medical
+attention.
+•• If you have long nails, do not open the battery cover by
+using your finger. Or else, your nail could break.
+
+Magic remote functions
+STB
+PWR
+
+(Voice recognition)
+Network connection is required to use the voice recognition function.
+1	 Press the voice recognition button.
+2	 Speak when the voice display window appears on the TV screen.
+(SEARCH)* Search for content such as TV programmes, movies and
+other videos, or perform a web search by entering text in the search bar.
+
+/
+
+•• Some buttons and services may not be provided depending on
+STB
+/
+MENU
+models or regions.
+RECENT
+
+BACK
+
+STB
+PWR
+
+1
+
+B
+
+GUIDE
+
+EXIT
+
+ENGLISH
+
+When the message “Magic remote battery is low. Change the battery.” is
+displayed, replace the battery.1. @ 2 abc 3 def
+To replace batteries, open the battery
+batteries (1.5 V AA)
+5 jklreplace
+4 ghi cover,
+6 mno
+matching the and ends to the label inside the compartment,
+pqrs
+8 tuvthe magic
+9wxyzremote toward
+and close the battery cover. Be7sure
+to point
+the remote control sensor on the
+TV. To remove
+the
+batteries, perform
+LIST
+0
+the installation actions in reverse.
+It is recommended that an Access Point (AP) be located more than
+0.2 m away from the TV. If the AP is installed closer than 0.2 m the
+Magic remote may not work properly due to frequency interference.
+
+Adjusts the volume level.
+Scrolls through the saved programmes.
+(MUTE) Mutes all sounds.
+-- Pressing and holding the
+button accesses the Accessibility menu.
+
+2
+
+1
+
+3 def
+
+6 mno
+
+TEXT
+
+9wxyz
+
+T.OPT
+
+A
+
+FOCUS
+
+LIVE ZOOM
+
+B
+STB
+
+MENU
+
+GUIDE
+
+OCUS
+
+E ZOOM
+
+A
+(POWER) Turns the TV on or off.
+You can turn your set-top box on or off by adding the set-top
+box to the universal remote control for your TV.
+Number buttons Enters numbers.
+Alphabet buttons Enters letters.
+(Space) Opens an empty space on the screen keyboard.
+Accesses the saved programmes list.
+(Screen Remote) Displays the Screen Remote.
+-- Accesses the Universal Control Menu.
+* You can access apps or Live TV using the number
+buttons corresponding to the features.
+* Audio descriptions function will be enabled.
+
+(HOME) Accesses the Home menu.
+* Shows the previous history.
+Displays the set-top box Home menu.
+1
+-- When you are not watching via a set-top box: the display changes to
+the set-top box screen.
+Wheel (OK) Press the center of the Wheel button to select a menu.
+You can change programmes by using the Wheel button.
+Navigation buttons (up/down/left/right)
+Press the up, down, left or right button to scroll the menu.
+If you press
+buttons while the pointer is in use, the pointer
+will disappear from the screen and Magic Remote will operate like a
+general remote control. To display the pointer on the screen again, shake
+Magic Remote to the left and right.
+Returns to the previous level.
+* Clears on-screen displays and returns to last input viewing.
+Shows programmes guide.
+
+13
+
+ENGLISH
+
+1 2 Streaming Service buttons Connects to the Video Streaming
+Service.
+(INPUT) Changes the input source.
+-- Pressing and holding the button displays all the lists of external
+inputs.
+(Q. Settings) Accesses the Quick Settings.
+1
+-- Pressing and holding the button displays the All Settings menu.
+Teletext buttons (
+,
+) These buttons are used for teletext.
+* Provides content related to the programme you are
+currently watching.
+Views the information of the current programme and screen.
+Control buttons (
+) Controls media contents.
+By zooming in on the selected area, you can view it in full
+screen.
+* You can zoom in on the area where the remote control is
+pointed.
+,
+,
+,
+These access special functions in some menus.
+
+*	 To use the button, press and hold for more than 3 seconds.
+
+Registering magic remote
+How to register the magic remote
+To use the Magic Remote, first pair it with your TV.
+1	 Put batteries into the Magic Remote and turn the TV on.
+2	 Point the Magic Remote at your TV and press the Wheel (OK)
+on the remote control.
+*	 If the TV fails to register the Magic Remote, try again after turning the
+TV off and back on.
+
+How to deregister the magic remote
+Press the
+and
+(HOME) buttons at the same time, for five
+seconds, to unpair the Magic Remote with your TV.
+*	 Pressing and holding the
+button will let you cancel and reregister Magic Remote at once.
+
+14
+
+Licenses
+Supported licenses may differ by model. For more information about
+licenses, visit www.lg.com.
+
+Open source software
+notice information
+To obtain the source code under GPL, LGPL, MPL, and other open source
+licenses, that is contained in this product, please visit
+http://opensource.lge.com.
+In addition to the source code, all referred license terms, warranty
+disclaimers and copyright notices are available for download.
+LG Electronics will also provide open source code to you on CD-ROM
+for a charge covering the cost of performing such distribution (such
+as the cost of media, shipping, and handling) upon email request to
+opensource@lge.com. This offer is valid for three (3) years from the date
+on which you purchased the product.
+
+External control device
+setup
+To obtain the external control device setup information, please visit
+www.lg.com.
+
+Troubleshooting
+Cannot control the TV with the remote control.
+
+No image display and no sound is produced.
+•• Check if the product is turned on.
+•• Check if the power cord is connected to a wall outlet.
+•• Check if there is a problem in the wall outlet by connecting other
+products.
+The TV turns off suddenly.
+•• Check the power control settings. The power supply may be
+interrupted.
+•• Check if the Sleep Timer / Timer Power Off is activated in the
+Timers settings.
+•• Check if the Auto Power Off is activated in the General Eco
+Mode settings. (Depending on model)
+•• If there is no signal while the TV is on, the TV will turn off
+automatically after 15 minutes of inactivity.
+When connecting to the PC (HDMI), ‘No Signal’ or ‘Invalid Format’ is
+displayed.
+•• Turn the TV off/on using the remote control.
+•• Reconnect the HDMI cable.
+•• Restart the PC with the TV on.
+
+•• If the product feels cold to the touch, there may be a small “flicker”
+when it is turned on. This is normal, there is nothing wrong with
+product.
+•• This panel is an advanced product that contains millions of pixels.
+You may see tiny black dots and/or brightly coloured dots (white, red,
+blue or green) at a size of 1 ppm on the panel. This does not indicate
+a malfunction and does not affect the performance and reliability of
+the product.
+This phenomenon also occurs in third-party products and is not
+subject to exchange or refund.
+•• You may find different brightness and color of the panel depending
+on your viewing position(left/right/top/down).
+This phenomenon occurs due to the characteristic of the panel. It is
+not related with the product performance, and it is not malfunction.
+•• Displaying a still image for a prolonged period of time may cause
+image sticking. Avoid displaying a fixed image on the TV screen for a
+long period of time.
+•• Some horizontal lines may appear when the Pixel Refresher feature is
+performed. It is normal and there is no need to be concerned.
+
+ENGLISH
+
+•• Check the remote control sensor on the product and try again.
+•• Check if there is any obstacle between the product and the remote
+control.
+•• Check if the batteries are still working and properly installed ( to
+, to ).
+
+Abnormal Display
+
+(Only OLED65/77W7*)
+•• A blue light blinks on the front of the Companion Box (AV Box).
+-- The TV may have a problem with the cooling fan or the
+temperature in the TV may be too high. Contact an authorized
+service center.
+•• A magenta light blinks on the front of the Companion Box (AV
+Box).
+-- The TV may have a problem in the moving speaker. Contact an
+authorized service center.
+•• An orange light blinks on the front of the Companion Box (AV
+Box).
+-- The cable from panel may not be properly connected to the
+Companion Box (AV Box). Unplug the power cord and reconnect
+the cable and then plug the power cord and press the power
+button. If it still doesn’t work after the steps above, contact an
+authorized service center.
+
+15
+
+Generated Sound
+
+ENGLISH
+
+•• “Cracking” noise: A cracking noise that occurs when watching or
+turning off the TV is generated by plastic thermal contraction due to
+temperature and humidity. This noise is common for products where
+thermal deformation is required.
+•• Electrical circuit humming/panel buzzing: A low level noise is
+generated from a high-speed switching circuit, which supplies a large
+amount of current to operate a product. It varies depending on the
+product.
+This generated sound does not affect the performance and reliability
+of the product.
+
+Specifications
+Wireless module specifications
+•• As band channels can vary per country, the user cannot change or
+adjust the operating frequency. This product is configured for the
+regional frequency table.
+•• For consideration of the user, this device should be installed and
+operated with a minimum distance of 20 cm between the device and
+the body.
+Wireless module (LGSBWAC72) specifications
+Wireless LAN (IEEE 802.11a/b/g/n/ac)
+Frequency range
+
+Output power(Max.)
+
+2400 to 2483.5 MHz
+5150 to 5725 MHz
+5725 to 5850 MHz (Not for EU)
+
+14 dBm
+16.5 dBm
+11.5 dBm
+
+Bluetooth
+Frequency range
+
+Output power(Max.)
+
+2400 to 2483.5 MHz
+
+8.5 dBm
+
+*	 "IEEE 802.11ac" is not available in all countries.
+
+16
+
+CI Module (W x H x D)
+
+Environment
+condition
+
+100.0 mm x 55.0 mm x
+5.0 mm
+
+Operating
+Temperature
+
+0 °C to 40 °C
+
+Operating
+Humidity
+
+Less than 80 %
+
+Storage
+Temperature
+
+-20 °C to 60 °C
+
+Storage Humidity
+
+Less than 85 %
+
+(Depending on country)
+
+DVB-S/S2
+Channel coverage
+(Band)
+
+Maximum number of
+storable programmes
+External antenna
+impedance
+
+950 ~ 2150 MHz
+
+Analogue TV
+
+DVB-T
+DVB-T2
+DVB-C
+DVB-S/S2
+
+PAL/SECAM, B/G, D/K, I
+SECAM L
+
+DVB-C
+
+DVB-T/T2
+
+46 ~ 890 MHz
+
+VHF III : 174 ~ 230 MHz
+UHF IV : 470 ~ 606 MHz
+UHF V : 606 ~ 862 MHz
+S Band II : 230 ~ 300 MHz
+S Band III : 300 ~ 470 MHz
+
+6,000
+
+ENGLISH
+
+Television system
+
+Digital TV
+
+46 ~ 862 MHz
+
+2,000
+75 Ω
+
+17
+
+ENGLISH
+
+18
+
+OWNER’S MANUAL
+
+EXTERNAL CONTROL
+DEVICE SETUP
+Please read this manual carefully before operating the set and retain it for
+future reference.
+
+www.lg.com
+
+2
+
+KEY CODES
+
+ENGLISH
+ENG
+
+KEY CODES
+•	 This feature is not available for all models.
+Code
+(Hexa)
+
+Function
+
+Note
+
+Code
+(Hexa)
+
+Function
+
+Note
+
+00
+
+CH +, PR +
+
+R/C Button
+
+53
+
+List
+
+R/C Button
+
+01
+
+CH -, PR -
+
+R/C Button
+
+5B
+
+Exit
+
+R/C Button
+
+02
+
+Volume +
+
+R/C Button
+
+60
+
+PIP(AD)
+
+R/C Button
+
+03
+
+Volume -
+
+R/C Button
+
+61
+
+Blue
+
+R/C Button
+
+06
+
+> (Arrow Key / Right Key)
+
+R/C Button
+
+63
+
+Yellow
+
+R/C Button
+
+07
+
+< (Arrow Key / Left Key)
+
+R/C Button
+
+71
+
+Green
+
+R/C Button
+
+08
+
+Power
+
+R/C Button
+
+72
+
+Red
+
+R/C Button
+
+09
+
+Mute
+
+R/C Button
+
+79
+
+Ratio / Aspect Ratio
+
+R/C Button
+
+0B
+
+Input
+
+R/C Button
+
+91
+
+AD (Audio Description)
+
+R/C Button
+
+0E
+
+SLEEP
+
+R/C Button
+
+7A
+
+User Guide
+
+R/C Button
+
+0F
+
+TV, TV/RAD
+
+R/C Button
+
+7C
+
+Smart / Home
+
+R/C Button
+
+R/C Button
+
+7E
+
+SIMPLINK
+
+R/C Button
+
+10 - 19 * Number Key 0 - 9
+1A
+
+Q.View / Flashback
+
+R/C Button
+
+8E
+
+►► (Forward)
+
+R/C Button
+
+1E
+
+FAV (Favorite Channel)
+
+R/C Button
+
+8F
+
+◄◄ (Rewind)
+
+R/C Button
+
+20
+
+Text (Teletext)
+
+R/C Button
+
+AA
+
+Info
+
+R/C Button
+
+21
+
+T. Opt (Teletext Option)
+
+R/C Button
+
+AB
+
+Program Guide
+
+R/C Button
+
+28
+
+Return (BACK)
+
+R/C Button
+
+B0
+
+► (Play)
+
+R/C Button
+
+30
+
+AV (Audio / Video) Mode
+
+R/C Button
+
+B1
+
+ꕗ (Stop / File List)
+
+R/C Button
+
+39
+
+Caption/Subtitle
+
+R/C Button
+
+BA
+
+ꕘ (Freeze / Slow Play /
+Pause)
+
+R/C Button
+
+40
+
+Λ (Arrow Key / Cursor Up)
+
+R/C Button
+
+BB
+
+Soccer
+
+R/C Button
+
+41
+
+V (Arrow Key / Cursor
+Down)
+
+R/C Button
+
+BD
+
+ꔄ (REC)
+
+R/C Button
+
+42
+
+My Apps
+
+R/C Button
+
+DC
+
+3D
+
+R/C Button
+
+43
+
+Menu / Settings
+
+R/C Button
+
+99
+
+AutoConfig
+
+R/C Button
+
+44
+
+OK / Enter
+
+R/C Button
+
+9F
+
+App / *
+
+R/C Button
+
+45
+
+Q.Menu
+
+R/C Button
+
+9B
+
+TV/PC
+
+R/C Button
+
+4C
+
+List, - (ATSC Only)
+
+R/C Button
+
+*	 Key code 4C (0x4C) is available on ATSC/ISDB models which use major/minor channel.
+(For South Korea, Japan, North America, Latin America except Colombia models)
+
+EXTERNAL CONTROL DEVICE SETUP
+
+3
+
+•	 Image shown may differ from your TV.
+Connect the USB to Serial converter/RS-232C input jack to an external control device (such as a computer
+or an A/V control system) to control the product’s functions externally.
+Note: The type of control port on the TV can be different between model series.
+*	 Please be advised that not all models support this type of connectivity.
+*	 Cable is not provided.
+
+USB to Serial converter with USB Cable
+
+USB IN
+
+USB Type
+
+(PC)
+
+(TV)
+
+•	 LGTV supports PL2303 chip-based (Vendor ID : 0x0557, Product
+ID :IN0x2008) USB to serial converter
+RS-232C
+(CONTROL & SERVICE)
+which is not made nor provided by LG.
+•	 It can be purchased from computer stores that carry accessories for IT support professionals.
+
+(TV)
+
+(PC)
+
+USB IN
+
+RS-232C With RS232C Cable
+
+(PC)
+
+(TV)
+
+SERVICE ONLY
+
+DE9 (D-Sub 9pin) Type
+1
+•	 You need to purchase the RS-232C (DE9, D-Sub
+3 9pin female-to-female type) to RS-232C cable required
+for the connection between the PC and the TV, which is specified in the manual.
+
+(PC)
+
+2
+
+RS-232C IN
+
+(CONTROL & SERVICE)
+
+(PC)
+
+SERVICE ONLY
+
+1
+
+3
+
+RS-232C IN
+
+(CONTROL & SERVICE)
+
+2
+
+(PC)
+
+(TV)
+
+1
+
+3
+
+(PC)
+The connection interface may differ from your TV.
+
+(TV)
+
+2
+
+(TV)
+(TV)
+
+1
+
+3
+
+(PC)
+
+RS-232C IN
+
+2
+RS-232C IN
+
+(CONTROL & SERVICE)
+
+RS-232C IN
+
+(CONTROL & SERVICE)
+
+(CONTROL & SERVICE)
+
+(TV)
+
+ENGLISH
+ENG
+
+EXTERNAL CONTROL DEVICE SETUP
+
+USB USB
+IN IN
+
+4
+
+EXTERNAL CONTROL DEVICE SETUP
+
+(PC)
+(PC)
+
+(TV)
+(TV)
+
+RS-232C IN
+
+(CONTROL
+SERVICE)
+•	 You need to purchase the phone-jack to RS-232 cable required
+for &the
+connection between the PC and
+the TV, which is specified in the manual.
+RS-232C IN
+
+(PC)
+(PC)
+
+(CONTROL & SERVICE)
+
+*	 For other models, connect to the USB port.
+*	 The connection interface may differ from your TV.
+1
+
+3
+
+(PC)
+(PC)
+
+1
+
+3
+2
+2
+
+- or
+
+(TV)
+(TV)
+(TV)
+(TV)
+
+1
+
+3
+
+(PC)
+(PC)
+
+SERVICE
+ONLY ONLY
+SERVICE
+
+ENGLISH
+ENG
+
+Phone jack Type
+
+1
+
+3
+
+RS-232C IN
+
+(CONTROL & SERVICE)
+
+2
+
+RS-232C IN
+
+(CONTROL & SERVICE)
+
+2
+
+Customer Computer
+
+(TV)
+(TV)
+
+RS-232C configurations
+3-Wire Configurations(Not standard)
+
+1
+
+5
+
+PC
+RXD
+
+RS-232C IN
+
+(CONTROL & SERVICE)
+
+TXD
+
+RS-232C IN
+
+(CONTROL & SERVICE)
+
+GND
+
+6
+
+2
+
+2
+
+TXD
+
+3
+
+1
+
+RXD
+
+5
+
+3
+
+GND
+
+OR
+
+9
+RS-232C
+(Serial port)
+
+TV
+
+RXD
+
+3
+
+2
+
+TXD
+
+TXD
+
+2
+
+1
+
+RXD
+
+GND
+
+5
+
+3
+
+GND
+
+D-Sub 9
+
+Phone
+
+Set ID
+For Set ID number, see "Real Data Mapping" on p.6
+1.	 Press SETTINGS to access the main menus.
+2.	 Press the Navigation buttons to scroll to (*General → About this TV or OPTION) and press OK.
+3.	 Press the Navigation buttons to scroll to SET ID and press OK.
+4.	 Scroll left or right to select a set ID number and select CLOSE. The adjustment range is 1-99.
+5.	 When you are finished, press EXIT.
+* (Depending on model)
+
+EXTERNAL CONTROL DEVICE SETUP
+
+5
+
+•	 Baud rate : 9600 bps (UART)
+•	 Data length : 8 bits
+•	 Parity : None
+
+ENGLISH
+ENG
+
+Communication Parameters
+•	 Stop bit : 1 bit
+•	 Communication code : ASCII code
+•	 Use a crossed (reverse) cable.
+
+Command reference list
+(Depending on model)
+COMMAND1 COMMAND2
+
+DATA
+(Hexadecimal)
+
+01. Power*
+
+k
+
+a
+
+00 to 01
+
+02. Aspect
+Ratio
+
+k
+
+c
+
+(p.7)
+
+03. Screen
+Mute
+
+k
+
+d
+
+(p.7)
+
+k
+
+e
+
+00 to 01
+
+k
+
+f
+
+00 to 64
+
+06. Contrast
+
+k
+
+g
+
+00 to 64
+
+07.
+Brightness
+
+k
+
+h
+
+00 to 64
+
+08. Color/
+Colour
+
+k
+
+i
+
+00 to 64
+
+09. Tint
+
+k
+
+j
+
+00 to 64
+
+k
+
+00 to 32
+
+l
+
+00 to 01
+
+m
+
+00 to 01
+
+04. Volume
+Mute
+05. Volume
+Control
+
+10.
+k
+Sharpness
+11. OSD
+k
+Select
+12. Remote
+Control Lock k
+Mode
+13. Treble
+
+k
+
+r
+
+00 to 64
+
+14. Bass
+
+k
+
+s
+
+00 to 64
+
+COMMAND1 COMMAND2
+
+DATA
+(Hexadecimal)
+
+15. Balance k
+16. Color
+(Colour)
+x
+Temperature
+17. ISM
+Method (Only j
+Plasma TV)
+
+t
+
+00 to 64
+
+u
+
+00 to 64
+
+p
+
+(p.8)
+
+18. Equalizer j
+
+v
+
+(p.8)
+
+q
+
+00 to 05
+
+a
+
+(p.9)
+
+b
+
+00 to 01
+
+19. Energy
+j
+Saving
+20. Tune
+m
+Command
+21. Channel m
+(Programme)
+Add/Del(Skip)
+22. Key
+
+m
+
+c
+
+Key Codes
+
+23. Control
+Backlight,
+Control Panel
+Light
+24. Input
+select (Main)
+25. 3D (Only
+3D models)
+26. Extended
+3D (Only 3D
+models)
+27. Auto
+Configure
+
+m
+
+g
+
+00 to 64
+
+x
+
+b
+
+(p.11)
+
+x
+
+t
+
+(p.11)
+
+x
+
+v
+
+(p.11)
+
+j
+
+u
+
+(p.12)
+
+* Note:	During playing or recording media, all commands except Power (ka) and Key (mc) are not
+executed and treated as NG.
+With RS232C cable, TV can communicate "ka command" in power-on or power-off status. but with
+USB-to-Serial converter cable, the command works only if TV is on.
+
+6
+
+EXTERNAL CONTROL DEVICE SETUP
+
+ENGLISH
+ENG
+
+Transmission / Receiving Protocol
+Transmission
+[Command1][Command2][ ][Set ID][ ][Data][Cr]
+[Command 1]	 :	 First command to control the TV. (j, k, m or x)
+[Command 2]	 :	 Second command to control the TV.
+[Set ID]	
+:	You can adjust the [Set ID] to choose desired monitor ID number in option menu.
+Adjustment range in TV is 1 to 99. If [Set ID] value is selected to ‘0’, every connected set
+can be controlled.
+		* [Set ID] is indicated as decimal (1 to 99) on menu and as Hexadecimal (0x00 to 0x63) on
+transmission/receiving protocol.
+[DATA] 	
+:	 To transmit command data (hexadecimal). Transmit ‘FF’ data to read status of command.
+[Cr] 	
+:	 Carriage Return - ASCII code ‘0x0D’
+[ ]	
+:	 Space – ASCII code ‘0x20’
+OK Acknowledgement
+[Command2][ ][Set ID][ ][OK][Data][x]
+*	 The set transmits ACK (acknowledgement) based on this format when receiving normal data. At this time,
+if the data is data read mode, it indicates present status data. If the data is data write mode, it returns the
+data of the PC computer.
+Error Acknowledgement
+[Command2][ ][Set ID][ ][NG][Data][x]
+*	 The set transmits ACK (acknowledgement) based on this format when receiving abnormal data from
+non-viable functions or communication errors.
+Data 00: Illegal Code
+Real data mapping (Hexadecimal b Decimal)
+*	 When you enter the [data] in hexadecimal, refer to following conversion table.
+*	 Channel Tune (ma) Command uses two-byte hexadecimal value([data]) to select channel number.
+00 : Step 0
+01 : Step 1 (Set ID 1)
+...
+0A : Step 10 (Set ID 10)
+...
+0F : Step 15 (Set ID 15)
+10 : Step 16 (Set ID 16)
+...
+
+32 : Step 50 (Set ID 50)
+33 : Step 51 (Set ID 51)
+...
+63 : Step 99 (Set ID 99)
+...
+C7 : Step 199
+C8 : Step 200
+...
+
+FE : Step 254
+FF : Step 255
+...
+01 00 : Step 256
+...
+27 0E : Step 9998
+27 0F : Step 9999
+...
+
+EXTERNAL CONTROL DEVICE SETUP
+
+7
+
+01.	Power (Command: k a)
+►► To control Power *On or Off of the set.
+Transmission[k][a][ ][Set ID][ ][Data][Cr]
+Data 00 : Power Off
+
+01 : *Power On
+
+Ack [a][ ][Set ID][ ][OK/NG][Data][x]
+►► To Show TV is Power On or *Off
+Transmission [k][a][ ][Set ID][ ][FF][Cr]
+Ack [a][ ][Set ID][ ][OK][Data][x]
+*	 Similarly, if other functions transmit ‘FF’ data
+based on this format, Acknowledgement feedback
+presents status about each function.
+
+02.	Aspect Ratio (Command: k c)
+(Main Picture Size)
+►► To adjust the screen format. (Main picture format)
+You can also adjust the screen format using the
+Aspect Ratio in the Q.MENU. or PICTURE menu.
+Transmission [k][c][ ][Set ID][ ][Data][Cr]
+Data 01 : Normal screen 07 : 14:9
+(4:3)
+(Europe, Colombia, Mid-East,
+	
+02 : Wide screen
+Asia except South Korea and
+(16:9)
+Japan)
+	
+04 : Zoom
+09 : * Just Scan
+	
+05 : Zoom 2
+0B : Full Wide
+	(Latin America
+(Europe, Colombia, Midexcept Colombia
+East, Asia except South
+Only)
+Korea and Japan)
+	
+06 : Set by Program/ 10 to 1F : C
+ inema Zoom 1
+Original
+to 16
+Ack [c][ ][Set ID][ ][OK/NG][Data][x]
+
+Ack [d][ ][Set ID][ ][OK/NG][Data][x]
+*	 In case of video mute on only, TV will display On
+Screen Display(OSD). But, in case of Screen mute
+on, TV will not display OSD.
+
+04.	Volume Mute (Command: k e)
+►► To control volume mute on/off.
+You can also adjust mute using the MUTE button
+on remote control.
+Transmission [k][e][ ][Set ID][ ][Data][Cr]
+Data 00 : Volume mute on (Volume off)
+	
+01 : Volume mute off (Volume on)
+Ack [e][ ][Set ID][ ][OK/NG][Data][x]
+
+05.	Volume Control (Command: k f)
+►► To adjust volume.
+You can also adjust volume with the volume
+buttons on remote control.
+Transmission [k][f][ ][Set ID][ ][Data][Cr]
+Data Min : 00 to Max : 64
+Ack [f][ ][Set ID][ ][OK/NG][Data][x]
+
+06.	Contrast (Command: k g)
+►► To adjust screen contrast.
+You can also adjust contrast in the PICTURE
+menu.
+Transmission [k][g][ ][Set ID][ ][Data][Cr]
+Data Min : 00 to Max : 64
+Ack [g][ ][Set ID][ ][OK/NG][Data][x]
+
+*	 Using the PC input, you select either 16:9 or 4:3
+screen aspect ratio.
+*	 In DTV/HDMI/Component mode (high-definition),
+Just Scan is available.
+*	 Full wide mode may work differently based on
+model and is supported for DTV fully, and ATV,
+AV partially.
+
+07.	Brightness (Command: k h)
+►► To adjust screen brightness.
+You can also adjust brightness in the PICTURE
+menu.
+Transmission [k][h][ ][Set ID][ ][Data][Cr]
+Data Min : 00 to Max : 64
+
+03.	Screen Mute (Command: k d)
+►► To select screen mute on/off.
+
+Ack [h][ ][Set ID][ ][OK/NG][Data][x]
+
+Transmission [k][d][ ][Set ID][ ][Data][Cr]
+Data	00 : Screen mute off (Picture on)
+Video mute off
+	
+01 : Screen mute on (Picture off)
+	
+10 : Video mute on
+
+08.	Color/Colour (Command: k i)
+►► To adjust the screen Color(Colour).
+You can also adjust colour in the PICTURE menu.
+Transmission [k][i][ ][Set ID][ ][Data][Cr]
+
+ENGLISH
+ENG
+
+* Commands may work differently depending on model and signal.
+
+8
+
+EXTERNAL CONTROL DEVICE SETUP
+
+ENGLISH
+ENG
+
+Data Min : 00 to Max : 64
+
+* (Depending on model)
+
+Ack [i][ ][Set ID][ ][OK/NG][Data][x]
+
+09.	Tint (Command: k j)
+►► To adjust the screen tint.
+You can also adjust tint in the PICTURE menu.
+Transmission [k][j][ ][Set ID][ ][Data][Cr]
+Data Red : 0
+ 0 to Green : 64
+Ack [j][ ][Set ID][ ][OK/NG][Data][x]
+
+10.	Sharpness (Command: k k)
+►► To adjust the screen sharpness.
+You can also adjust sharpness in the PICTURE
+menu.
+Transmission [k][k][ ][Set ID][ ][Data][Cr]
+
+14.	 Bass (Command: k s)
+►► To adjust Bass.
+You can also adjust in the AUDIO menu.
+Transmission [k][s][ ][Set ID][ ][Data][Cr]
+Data Min : 00 to Max : 64
+Ack [s][ ][Set ID][ ][OK/NG][Data][x]
+* (Depending on model)
+
+15.	Balance (Command: k t)
+►► To adjust balance.
+You can also adjust balance in the AUDIO menu.
+Transmission [k][t][ ][Set ID][ ][Data][Cr]
+Data Min : 00 to Max : 64
+Ack [t][ ][Set ID][ ][OK/NG][Data][x]
+
+Data Min : 00 to Max : 32
+Ack [k][ ][Set ID][ ][OK/NG][Data][x]
+
+16.	Color(Colour) Temperature (Command: x u)
+11.	OSD Select (Command: k l)
+►► To select OSD (On Screen Display) on/off when
+controlling remotely.
+Transmission [k][l][ ][Set ID][ ][Data][Cr]
+Data 00 : OSD off
+
+►► To adjust colour temperature. You can also adjust
+Color(Colour) Temperature in the PICTURE menu.
+Transmission [x][u][ ][Set ID][ ][Data][Cr]
+Data Min : 00 to Max : 64
+Ack [u][ ][Set ID][ ][OK/NG][Data][x]
+
+01 : OSD on
+
+Ack [l][ ][Set ID][ ][OK/NG][Data][x]
+
+17.	ISM Method (Command: j p) (Only Plasma TV)
+12.	Remote control lock mode (Command: k m)
+►► To lock the front panel controls on the monitor and
+remote control.
+Transmission [k][m][ ][Set ID][ ][Data][Cr]
+Data 00 : Lock off
+
+01 : Lock on
+
+►► To control the ISM method. You can also adjust
+ISM Method in OPTION menu.
+Transmission [j][p][ ][Set ID][ ][Data][Cr]
+Data Min : 02: Orbiter
+08: Normal
+20: Color(Colour) Wash
+Ack [p][ ][Set ID][ ][OK/NG][Data][x]
+
+Ack [m][ ][Set ID][ ][OK/NG][Data][x]
+*	 If you are not using the remote control, use this
+mode.
+When main power is off & on (plug-off and plug-in,
+after 20 - 30 seconds), external control lock is
+released.
+
+18.	Equalizer (Command : j v)
+►► Adjust EQ of the set.
+Transmission [j][v][ ][Set ID][ ][Data][Cr]
+
+MSB
+
+*	 In the standby mode (DC off by off timer or ‘ka’,
+‘mc’ command), and if key lock is on, TV will not
+turn on by power on key of IR & Local Key.
+
+0
+
+Transmission [k][r][ ][Set ID][ ][Data][Cr]
+Data Min : 00 to Max : 64
+Ack [r][ ][Set ID][ ][OK/NG][Data][x]
+
+0
+
+0
+
+0
+
+0
+
+Frequency
+
+13.	 Treble (Command: k r)
+►► To adjust treble.
+You can also adjust in the AUDIO menu.
+
+LSB
+0
+
+0
+
+0
+
+Data
+
+7
+
+6
+
+5
+
+Frequency
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Step
+
+0
+
+0
+
+0
+
+1st Band
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0(decimal)
+
+0
+
+0
+
+1
+
+2nd Band
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1(decimal)
+
+0
+
+1
+
+0
+
+3rd Band
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+0
+
+1
+
+1
+
+4th Band
+
+1
+
+0
+
+0
+
+1
+
+1
+
+19(decimal)
+
+EXTERNAL CONTROL DEVICE SETUP
+
+0
+
+0
+
+5th Band
+
+1
+
+0
+
+1
+
+0
+
+0
+
+20(decimal)
+
+Acknowledgement [v][ ][Set ID][ ][OK/NG][Data][x]
+
+* It depends on model, and can adjust when sound
+mode is EQ adjustable value.
+
+19.	Energy Saving (Command: j q)
+►► To reduce the power consumption of the TV. You
+can also adjust Energy Saving in PICTURE menu.
+Transmission [j][q][ ][Set ID][ ][Data][Cr]
+Data	
+	 00 : Off
+	 01 : Minimum
+	 02 : Medium
+	 03 : Maximum
+	 04 : Auto (For LCD TV / LED TV) /
+Intelligent sensor (For PDP TV)
+	 05 : Screen off
+*	 (Depending on model)
+Ack [q][ ][Set ID][ ][OK/NG][Data][x]
+
+Set ID = All = 00
+Data 00 & 01 = Channel Data is 10 = 00 0a
+Data 02 = Analog Antenna TV = 00
+Result = ma 00 00 0a 00
+2.	Tune to the digital antenna (DVB-T) Channel 01.
+Set ID = All = 00
+Data 00 & 01 = Channel Data is 1 = 00 01
+Data 02 = Digital Antenna TV = 10
+Result = ma 00 00 01 10
+3.	Tune to the satellite (DVB-S) Channel 1000.
+Set ID = All = 00
+Data 00 & 01 = Channel Data is 1000 = 03 E8
+Data 02 = Digital Satellite TV = 40
+Result = ma 00 03 E8 40
+Ack [a][ ][Set ID][ ][OK][Data 00][Data 01]
+[Data 02][x][a][ ][Set ID][ ][NG][Data 00][x]
+
+•	 For South Korea, North/Latin America except
+Colombia Model
+
+►► To tune channel to following physical/major/minor
+number.
+Transmission [m][a][ ][0][ ][Data00][ ][Data01]
+
+20.	Tune Command (Command: m a)
+*	 This command may work differently depending on
+model and signal.
+
+•	 For Europe, Mid-East, Colombia, Asia except
+South Korea and Japan Model
+►► Select channel to following physical number.
+Transmission [m][a][ ][Set ID][ ][Data 00][ ]
+[Data 01][ ][Data 02][Cr]
+*	 Analog Antenna/Cable
+[Data 00][Data 01] Channel Data
+Data	00	 :	 High byte channel data
+Data	01	 :	 Low byte channel data
+	 - 00 00 ~ 00 C7 (Decimal : 0 ~ 199)
+Data 02 : Input Source (Analog)
+	 - 00 : Antenna TV (ATV)
+	 - 80 : Cable TV (CATV)
+*	 Digital Antenna/Cable/Satellite
+[Data 00][Data 01]: Channel Data
+Data	00 : High Channel data
+Data	01 : Low Channel data
+	 - 00 00 ~ 27 0F (Decimal: 0 ~ 9999)
+Data	02 : Input Source (Digital)
+	 - 10 : Antenna TV (DTV)
+	 - 20 : Antenna Radio (Radio)
+	 - 40 : Satellite TV (SDTV)
+	 - 50 : Satellite Radio (S-Radio)
+	 - 90 : Cable TV (CADTV)
+	 - a0 : Cable Radio (CA-Radio)
+*	 Tune Command Examples:
+1.	Tune to the Analog antenna (PAL) Channel 10.
+
+[ ][Data02][ ][Data03][ ][Data04][ ][Data05][Cr]
+Digital channels have a Physical, Major, and Minor
+channel number. The Physical number is the actual
+digital channel number, the Major is the number that
+the channel should be mapped to, and the Minor is
+the sub-channel. Since the ATSC tuner automatically
+maps the channel from the Major / Minor number,
+the Physical number is not required when sending a
+command in Digital.
+*	 Analog Antenna/Cable
+Data	00	 : Physical Channel Number
+	 - Antenna (ATV) : 02~45 (Decimal: 2 ~ 69)
+	 - Cable (CATV) : 01, 0E~7D (Decimal : 1, 14~125)
+[Data 01 ~ 04]: Major/Minor Channel Number
+Data	01 & 02: xx (Don't care)
+Data	03 & 04: xx (Don't care)
+Data	05: Input Source (Analog)
+	 - 00 : Antenna TV (ATV)
+	 - 01 : Cable TV (CATV)
+*	 Digital Antenna/Cable
+Data	00 : xx (Don't care)
+[Data 01][Data 02]: Major Channel Number
+Data	01 : High byte Channel Data
+Data	02 : Low byte Channel Data
+	 - 00 01 ~ 27 0F (Decimal: 1 ~ 9999)
+[Data 03][Data 04]: Minor Channel Number
+Data	03 : High byte Channel Data
+Data	04 : Low byte Channel Data
+Data	05 : Input Source (Digital)
+	 - 02 : Antenna TV (DTV) – Use Physical Channel
+Number
+	 - 06 : Cable TV (CADTV) – Use Physical Channel
+
+ENGLISH
+ENG
+
+1
+
+9
+
+10 EXTERNAL CONTROL DEVICE SETUP
+
+ENGLISH
+ENG
+
+Number
+- 22 : Antenna TV (DTV) – Don’t Use Physical
+Channel Number
+	 - 26 : Cable TV (CADTV) - Don’t Use Physical
+Channel Number
+	 - 46 : Cable TV (CADTV) – Use Major Channel
+Number Only (One Part Channel)
+Two bytes are available for each major and minor
+channel data, but usually the low byte is used alone
+(high byte is 0).
+	
+
+* Tune Command Examples:
+1.	Tune to the Analog cable (NTSC) channel 35.
+Set ID = All = 00
+Data 00 = Channel Data is 35 = 23
+Data 01 & 02 = No Major = 00 00
+Data 03 & 04 = No Minor = 00 00
+Data 05 = Analog Cable TV = 01
+Total = ma 00 23 00 00 00 00 01
+2.	Tune to the digital antenna (ATSC) channel 30-3.
+Set ID = All = 00
+Data 00 = Don’t know Physical = 00
+Data 01 & 02 = Major is 30 = 00 1E
+Data 03 & 04 = Minor is 3 = 00 03
+Data 05 = Digital Antenna TV = 22
+Total = ma 00 00 00 1E 00 03 22
+Ack [a][ ][Set ID][ ][OK][Data 00][Data 01]
+[Data 02][Data 03][Data 04][Data 05]
+[x][a][ ][Set ID][ ][NG][Data 00][x]
+
+•	 For Japan Model
+
+►► To tune channel to following physical/major/minor
+number.
+Transmission [m][a][ ][0][ ][Data00][ ][Data01]
+[ ][Data02][ ][Data03][ ][Data04][ ][Data05][Cr]
+
+Data 05 = Digital Antenna TV = 02
+Total = ma 00 00 00 11 00 01 02
+2.	Tune to the BS (ISDB-BS) channel 30.
+Set ID = All = 00
+Data 00 = Don’t know Physical = 00
+Data 01 & 02 = Major is 30 = 00 1E
+Data 03 & 04 = Don’t Care = 00 00
+Data 05 = Digital BS TV = 07
+Total = ma 00 00 00 1E 00 00 07
+*	 This feature is varied based on the model.
+Ack [a][ ][Set ID][ ][OK][Data 00][Data 01]
+[Data 02][Data 03][Data 04][Data 05]
+[x][a][ ][Set ID][ ][NG][Data 00][x]
+
+21.	Channel(Programme) Add/Del(Skip)
+(Command: m b)
+►► To skip current channel(programme) for next time.
+Transmission [m][b][ ][Set ID][ ][Data][Cr]
+Data 00 : Del(ATSC,ISDB)/Skip(DVB)
+Ack [b][ ][Set ID][ ][OK/NG][Data][x]
+*	 Set the saved channel status to del(ATSC, ISDB)/
+skip(DVB) or add.
+
+22.	Key (Command: m c)
+►► To send IR remote key code.
+Transmission [m][c][ ][Set ID][ ][Data][Cr]
+
+*	 Digital Antenna/Satellite
+Data 00: xx (Don't care)
+
+Data	Key code - p.2.
+
+[Data 01][Data 02]: Major Channel Number
+Data 01: High byte Channel Data
+Data 02: Low byte Channel Data
+	 - 00 01 ~ 27 0F (Decimal: 1 ~ 9999)
+
+23.	Control Backlight (Command: m g)
+
+[Data 03][Data 04]: Minor/Branch Channel Number
+(Don’t care in Satellite)
+Data 03: High byte Channel Data
+Data 04: Low byte Channel Data
+Data 05 : Input Source (Digital/Satellite for Japan)
+	 - 02 : Antenna TV (DTV)
+	 - 07 : BS (Broadcasting Satellite)
+	 - 08 : CS1 (Communication Satellite 1)
+	 - 09 : CS2 (Communication Satellite 2)
+*	 Tune Command Examples:
+1	 Tune to the digital antenna (ISDB-T) channel 17-1.
+Set ID = All = 00
+Data 00 = Don’t know Physical = 00
+Data 01 & 02 = Major is 17 = 00 11
+Data 03 & 04 = Minor/Branch is 1 = 00 01
+
+01 : Add
+
+Ack [c][ ][Set ID][ ][OK/NG][Data][x]
+
+•	 For LCD TV / LED TV
+
+►► To control the backlight.
+Transmission [m][g][ ][Set ID][ ][Data][Cr]
+Data Min : 00 to Max : 64
+Ack [g][ ][Set ID][ ][OK/NG][Data][x]
+Control Panel Light (Command: m g)
+
+•	 For Plasma TV
+
+►► To control the panel light.
+Transmission [m][g][ ][Set ID][ ][Data][Cr]
+Data Min : 00 to Max : 64
+Ack [g][ ][Set ID][ ][OK/NG][Data][x]
+
+EXTERNAL CONTROL DEVICE SETUP
+
+►► To select input source for main picture.
+Transmission [x][b][ ][Set ID][ ][Data][Cr]
+Data
+	 00 : DTV
+01 : CADTV
+	 02 : Satellite DTV
+10 : ATV
+ISDB-BS (Japan)
+	 03 : ISDB-CS1 (Japan)
+	 04 : ISDB-CS2 (Japan)
+	 11 : CATV
+
+O
+
+01
+
+X
+
+X
+
+X
+
+02
+
+X
+
+X
+
+X
+
+03
+
+X
+
+O
+
+O
+
+[Data03][x]
+[t][ ][Set ID][ ][NG][Data00][x]
+
+20 : AV or AV1
+
+21 : AV2
+
+40 : Component1
+60 : RGB
+
+41 : Component2
+
+	
+	
+
+90 : HDMI1
+92 : HDMI3
+
+91 : HDMI2
+93 : HDMI4
+
+26.	Extended 3D(Command: x v) (only 3D models)
+(Depending on model)
+►► To change 3D option for TV.
+Transmission [x][v][ ][Set ID][ ][Data 00][ ]
+[Data 01][Cr]
+
+Ack [b][ ][Set ID][ ][OK/NG][Data][x]
+*	 This function depends on model and signal.
+
+25.	3D(Command: x t) (only 3D models)
+(Depending on model)
+►► To change 3D mode for TV.
+Transmission [x][t][ ][Set ID][ ][Data 00][ ][Data 01]
+[ ][Data 02][ ][Data 03][Cr]
+
+* (Depending on model)
+
+Data	Structure
+[Data 00]	00 : 3D On
+01 : 3D Off
+02 : 3D to 2D
+03 : 2D to 3D
+[Data 01]	00 : Top and Bottom
+01 : Side by Side
+02 : Check Board
+03 : Frame Sequential
+04 : Column interleaving
+05 : Row interleaving
+[Data 02]	00 : Right to Left
+01 : Left to Right
+[Data 03]	3D Effect(3D Depth): Min : 00 - Max : 14
+(*transmit by Hexadecimal code)
+*	 [Data 02], [Data 03] functions depend on model
+and signal.
+*	 If [Data 00] is 00 (3D On), [Data 03] has no
+meaning.
+*	 If [Data 00] is 01 (3D off) or 02 (3D to 2D), [Data
+01], [Data 02] and [Data 03] have no meaning.
+*	 If [Data 00] is 03 (2D to 3D), [Data 01] and
+[Data 02] have no meaning.
+*	 If [Data 00] is 00 (3D On) or 03 (2D to 3D), [Data
+03] works when 3D Mode (Genre) is manual only.
+*	 All 3D pattern options ([Data 01]) may not be
+available according to broadcasting/video signal.
+[Data 02]
+
+O
+
+Ack [t][ ][Set ID][ ][OK][Data00][Data01][Data02]
+
+	
+
+[Data 01]
+
+O
+
+X : don’t care
+
+	
+
+[Data 00]
+
+00
+
+[Data 03]
+
+[Data 00]	3D option
+00 : 3D Picture Correction
+01 : 3D Depth (3D Mode is Manual Only)
+02 : 3D Viewpoint
+06 : 3D Color Correction
+07 : 3D Sound Zooming
+08 : Normal Image View
+09 : 3D Mode (Genre)
+[Data 01]	It has own range for each 3D option
+determined by [Data 00].
+1) When	[Data 00] is 00
+00 : Right to Left
+01 : Left to Right
+2) When	[Data 00] is 01, 02
+Data		Min: 0 - Max: 14 (*transmit by Hexadecimal
+code)
+Data value range(0 - 20) converts Viewpoint range
+(-10 - +10) automatically (Depending on model)
+* This option works when 3D Mode (Genre) is manual
+only.
+3) When	[Data 00] is 06, 07
+00 : Off
+01 : On
+4) When	[Data 00] is 08
+00 : Revert to 3D video from 3D-to-2D
+converted 2D video
+		 01 : Change 3D video to 2D video, except
+2D-to-3D video
+* If conversion condition doesn’t meet, command is
+treated as NG.
+5) When [Data 00] is 09
+00 : Standard
+02 : Cinema
+04 : Manual
+
+01 : Sport
+03 : Extreme
+05 : Auto
+
+Ack [v][ ][Set ID][ ][OK][Data00][Data01][x]
+[v][ ][Set ID][ ][NG][Data00][x]
+
+ENGLISH
+ENG
+
+24.	Input select (Command: x b)
+(Main Picture Input)
+
+11
+
+12 EXTERNAL CONTROL DEVICE SETUP
+
+ENGLISH
+ENG
+
+27.	Auto Configure (Command: j u)
+(Depending on model)
+►► To adjust picture position and minimize image
+shaking automatically. It works only in RGB (PC)
+mode.
+Transmission [j][u][ ][Set ID][ ][Data][Cr]
+Data 01 : Run Auto Configure
+Ack [u][ ][Set ID][ ][OK/NG][Data][x]

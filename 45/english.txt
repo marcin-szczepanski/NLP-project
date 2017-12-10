@@ -1,0 +1,5386 @@
+RH256_P2M_BHUNLLK_ENG
+
+HDD/DVD
+RECORDER
+OWNER’S MANUAL
+MODEL: RH266/RH265
+RH256/RH255
+
+Before connecting, operating or adjusting this product,
+please read this instruction booklet carefully and completely.
+
+CAUTION
+RISK OF ELECTRIC SHOCK
+DO NOT OPEN
+
+CAUTION: The apparatus should not be exposed to water
+(dripping or splashing) and no objects filled with liquids, such
+as vases, should be placed on the apparatus.
+CAUTION concerning the Power Cord
+
+CAUTION: TO REDUCE THE RISK
+OF ELECTRIC SHOCK
+DO NOT REMOVE COVER (OR BACK)
+NO USER-SERVICEABLE PARTS INSIDE
+REFER SERVICING TO QUALIFIED SERVICE
+PERSONNEL.
+This lightning flash with arrowhead symbol within
+an equilateral triangle is intended to alert the user
+to the presence of uninsulated dangerous voltage
+within the product’s enclosure that may be of
+sufficient magnitude to constitute a risk of electric
+shock to persons.
+The exclamation point within an equilateral
+triangle is intended to alert the user to the
+presence of important operating and maintenance
+(servicing) instructions in the literature
+accompanying the product.
+WARNING: TO PREVENT FIRE OR ELECTRIC SHOCK
+HAZARD, DO NOT EXPOSE THIS PRODUCT TO RAIN
+OR MOISTURE.
+WARNING: Do not install this equipment in a confined space
+such as a book case or similar unit.
+CAUTION:
+Do not block any ventilation openings. Install in accordance
+with the manufacturer's instructions.
+Slots and openings in the cabinet are provided for ventilation
+and to ensure reliable operation of the product and to protect
+it from over heating.
+The openings should be never be blocked by placing the
+product on a bed, sofa, rug or other similar surface.This
+product should not be placed in a built-in installation such as
+a bookcase or rack unless proper ventilation is provided or
+the manufacturer's instruction have been adhered to.
+
+Most appliances recommend they be placed upon a
+dedicated circuit;
+That is, a single outlet circuit which powers only that
+appliance and has no additional outlets or branch circuits.
+Check the specification page of this owner's manual to be
+certain.
+Do not overload wall outlets. Overloaded wall outlets, loose
+or damaged wall outlets, extension cords, frayed power
+cords, or damaged or cracked wire insulation are dangerous.
+Any of these conditions could result in electric shock or fire.
+Periodically examine the cord of your appliance, and if its
+appearance indicates damage or deterioration, unplug it,
+discontinue use of the appliance, and have the cord replaced
+with an exact replacement part by an authorized servicer.
+Protect the power cord from physical or mechanical abuse,
+such as being twisted, kinked, pinched, closed in a door, or
+walked upon. Pay particular attention to plugs, wall outlets,
+and the point where the cord exits the appliance.
+To disconnect power from the mains, pull out the mains cord
+plug. When installing the product, ensure that the plug is
+easily accessible.
+Disposal of your old appliance
+1. When this crossed-out wheeled bin symbol is
+attached to a product it means the product is
+covered by the European Directive 2002/96/EC.
+2. All electrical and electronic products should be
+disposed of separately from the municipal
+waste stream via designated collection facilities
+appointed by the government or the local
+authorities.
+3. The correct disposal of your old appliance will
+help prevent potential negative consequences
+for the environment and human health.
+4. For more detailed information about disposal of
+your old appliance, please contact your city
+office, waste disposal service or the shop
+where you purchased the product.
+This product is manufactured to comply with
+the EEC DIRECTIVE 2004/108/EC and
+2006/95/EC.
+
+CAUTION:
+CLASS 3B VISIBLE AND INVISIBLE LASER RADIATION
+WHEN OPEN AND INTERLOCKS DEFEATED AVOID
+EXPOSURE TO THE BEAM.
+CAUTION:
+This product employs a Laser System.
+To ensure proper use of this product, please read this
+owner’s manual carefully and retain it for future reference.
+Should the unit require maintenance, contact an authorized
+service center.
+Performing controls, adjustments, or carrying out procedures
+other than those specified herein may result in hazardous
+radiation exposure.
+To prevent direct exposure to laser beam, do not try to open
+the enclosure. Visible laser radiation when open. DO NOT
+STARE INTO BEAM.
+2
+
+Recording from an External Input . . . . . . . . . . .37
+
+Contents
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4-9
+About the
+
+symbol display . . . . . . . . . . . . . . . .4
+
+Symbol Used in this Manual . . . . . . . . . . . . . . . .4
+Notes on Discs . . . . . . . . . . . . . . . . . . . . . . . . . .4
+Recordable and Playable Discs . . . . . . . . . . . . .5
+Playable Discs . . . . . . . . . . . . . . . . . . . . . . . . . .6
+Regional Code . . . . . . . . . . . . . . . . . . . . . . . . . .6
+Availability of copying or moving feature . . . . . . .6
+About the internal Hard Disk Drive . . . . . . . . . . .7
+Front Panel . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8
+Remote Control . . . . . . . . . . . . . . . . . . . . . . . . .9
+Remote Control Operation . . . . . . . . . . . . . . . . .9
+Hookup and Settings . . . . . . . . . . . . . . . . . . .10-22
+Rear Panel . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+Connecting to the antenna . . . . . . . . . . . . . . . .10
+
+Simultaneous recording and playback . . . . . . . .37
+Editing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .38-45
+Title List and Chapter List Menu Overview . . . .38
+HDD, VR Mode: Original and Playlist Editing . . .39
+Adding Chapter Markers
+
+. . . . . . . . . . . . . . . . .39
+
+Changing the Title Thumbnails . . . . . . . . . . . . .39
+Making a New Playlist . . . . . . . . . . . . . . . . . . . .40
+Adding Additional Title/Chapters to the Playlist .40
+Deleting an Original or Playlist Title/Chapter . . .41
+Deleting a Part . . . . . . . . . . . . . . . . . . . . . . . . .41
+Naming a Title . . . . . . . . . . . . . . . . . . . . . . . . .42
+Time Search
+
+. . . . . . . . . . . . . . . . . . . . . . . . . .42
+
+Sorting the Title List . . . . . . . . . . . . . . . . . . . . .43
+Divide One Title Into Two . . . . . . . . . . . . . . . . .43
+Combining Two Chapters Into One . . . . . . . . . .44
+
+Connections to Your TV . . . . . . . . . . . . . . . . . .11
+
+Additional functions for the recordable
+DVD discs . . . . . . . . . . . . . . . . . . . . . . . . . . . .44
+
+Connecting to an Amplifier . . . . . . . . . . . . . . . .12
+
+Moving a Playlist Chapter . . . . . . . . . . . . . . . . .45
+
+Accessory Audio/Video (A/V) Connections . .13-14
+
+Hide a Chapter/Title . . . . . . . . . . . . . . . . . . . . .45
+
+Auto Setup . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+
+Protect a Title . . . . . . . . . . . . . . . . . . . . . . . . . .45
+
+Using the Home Menu . . . . . . . . . . . . . . . . . . .15
+Initial Settings . . . . . . . . . . . . . . . . . . . . . . . . . .15
+
+Dubbing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .46-48
+
+General Settings . . . . . . . . . . . . . . . . . . . . .15-18
+
+Before Dubbing . . . . . . . . . . . . . . . . . . . . . . . . .46
+
+Language Settings . . . . . . . . . . . . . . . . . . . . . .18
+
+Dubbing from HDD to DVD
+
+Audio Settings . . . . . . . . . . . . . . . . . . . . . . . . .18
+
+Dubbing from DVD to HDD . . . . . . . . . . . . . . . .47
+
+Lock (Parental Control) Settings . . . . . . . . . . . .19
+
+One Touch Copy (HDD to DVD) . . . . . . . . . . . .48
+
+Recording Settings . . . . . . . . . . . . . . . . . . . . . .20
+
+One Touch Copy (DVD to HDD) . . . . . . . . . . . .48
+
+. . . . . . . . . . . . . . .47
+
+Disc Settings . . . . . . . . . . . . . . . . . . . . . . . .20-21
+General Explanation of On-Screen Display . . . .22
+
+Reference . . . . . . . . . . . . . . . . . . . . . . . . . . . .49-54
+Additional Information . . . . . . . . . . . . . . . . . . . .49
+
+Playback . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23-32
+General Playback Features . . . . . . . . . . . . .23-26
+Playing a DivX Movie File . . . . . . . . . . . . . . . . .27
+
+Viewing Title List menu displayed on other
+DVD Recorders or Players . . . . . . . . . . . . .49
+
+Playing an Audio CD or MP3/WMA file . . . . . . .28
+
+Playing Your Recordings on Other DVD
+Players (Finalizing a Disc) . . . . . . . . . . . . . .49
+
+Viewing a JPEG File . . . . . . . . . . . . . . . . . .29-30
+
+Language Codes . . . . . . . . . . . . . . . . . . . . . . .50
+
+Editing a MP3/WMA, JPEG, DivX file . . . . . .31-32
+
+Area Codes . . . . . . . . . . . . . . . . . . . . . . . . . . .50
+
+Recording . . . . . . . . . . . . . . . . . . . . . . . . . . . .33-37
+About DVD recording . . . . . . . . . . . . . . . . . . . .33
+About HDD recording . . . . . . . . . . . . . . . . . . . .33
+
+Controlling Your TV with the Supplied
+Remote Control . . . . . . . . . . . . . . . . . . . . . . . .51
+Troubleshooting . . . . . . . . . . . . . . . . . . . . . .52-53
+Specifications . . . . . . . . . . . . . . . . . . . . . . . . . .54
+
+Timeshift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .34
+Basic Recording from a TV . . . . . . . . . . . . . . . .35
+Instant Timer Recording . . . . . . . . . . . . . . . . . .35
+Timer Recording . . . . . . . . . . . . . . . . . . . . . . . .36
+Checking Timer Recording Details . . . . . . . .36-37
+3
+
+Introduction
+
+Notes on Discs
+
+To ensure proper use of this product, please read this
+owner’s manual carefully and retain for future
+reference.
+
+Handling Discs
+Do not touch the playback side of the disc. Hold the
+disc by the edges so that fingerprints do not get on
+the surface. Never stick paper or tape on the disc.
+
+This manual provides information on the operation
+and maintenance of your recorder. Should the unit
+require service, contact an authorized service location.
+
+About the
+
+Symbol Display
+
+“
+” may appear on your TV display during
+operation and indicates that the function explained in
+this owner’s manual is not available on that specific
+media.
+
+Symbol Used in this Manual
+Note:
+Indicates special notes and operating features.
+Tip:
+Indicates tips and hints for making the task easier.
+
+Storing Discs
+After playing, store the disc in its case. Do not expose
+the disc to direct sunlight or sources of heat and never
+leave it in a parked car exposed to direct sunlight.
+Cleaning Discs
+Fingerprints and dust on the disc can cause poor
+picture quality and sound distortion. Before playing,
+clean the disc with a clean cloth. Wipe the disc from
+the center out.
+
+A section whose title has one of the following symbols
+are applicable only to the disc represented by the
+symbol.
+HDD Titles recorded on the HDD
+DVD ALL All DVD discs listed below.
+-RWVR DVD-RW with VR recording mode
+-RWVideo DVD-RW with Video recording mode
++RW DVD+RW disc
+-R DVD-R disc
++R DVD+R disc
+DVD DVD-Video disc
+VCD Video CDs
+ACD Audio CDs
+DivX DivX files
+MP3 MP3 files
+WMA WMA files
+JPEG JPEG files
+
+4
+
+Do not use strong solvents such as alcohol, benzine,
+thinner, commercially available cleaners, or anti-static
+spray intended for older vinyl records.
+
+Moisture Condensation
+Never operate this product immediately after
+moving it from a cold location to a warm location.
+Leave it for two or three hours without operating it.
+If you use this product in such a situation, it may
+damage discs and internal parts.
+
+Introduction
+
+Recordable and Playable Discs
+DVD-RW (Digital Video Disc - ReWritable):
+ DVD-RW discs can be formatted for VR mode recording or Video mode recording.
+ These Discs can be recorded on repeatedly. Recordings can be erased, then you can record again
+on the same Disc.
+[VR mode]
+ Recordings can be extensively edited
+ Playable only on VR mode compatible players (after finalization)
+[Video mode]
+ Playable on regular DVD players (after finalization)
+ Limited editing features
+DVD-R (Digital Video Disc - Recordable)
+ These Discs can be recorded only once. After you finalize a DVD-R, you cannot record on it or edit
+it.
+ DVD-R discs can be only formatted to Video mode.
+ Playable on regular DVD players (after finalization)
+ Limited editing features
+DVD+RW (Digital Video Disc + ReWritable)
+ These Discs can be recorded on repeatedly. Recordings can be erased, then you can record again
+on the same Disc.
+ Playable on DVD+RW compatible players (automatically finalization)
+ The edited contents are playable on DVD+RW compatible players only after finalization
+ Recordings can be edited the title/chapter
+DVD+R (Digital Video Disc + Recordable)
+ These Discs can be recorded only once. After you finalize a DVD+R, you cannot record on it or edit
+it any more.
+ Playable on DVD+R compatible players (after finalization)
+ Any edited contents are not be compatible on DVD+R compatible players. (Hide, chapter combine,
+added chapter mark, etc.)
+ Limited title/chapter editing features.
+
+Recommended recordable DVD discs
+DVD-R
+Mitsubishi (8x, 16x)
+Verbatim (8x, 16x)
+-
+
+DVD+R
+Mitsubishi (8x, 16x)
+Verbatim (8x, 16x)
+-
+
+DVD-RW
+Mitsubishi (2x, 4x)
+Victor (4x)
+Maxell (4x)
+
+DVD+RW
+Mitsubishi (2.4, 4x)
+Verbatim (4x)
+Philips (4x)
+
+Note: If a DVD-RW/DVD+RW discs is recorded using a personal computer or other DVD recorder, you cannot
+format the disc using this recorder. So if you want to use the disc on this recorder, you must format the disc
+using the original recorder.
+
+5
+
+Playable Discs
+DVD (8 cm / 12 cm disc)
+Discs such as movies that can be purchased or rented
+Video CD (VCD) (8 cm / 12 cm disc)
+VIDEO CDs or CD-Rs/CD-RWs in VIDEO CD/Super VIDEO CD format
+Audio CD (8 cm / 12 cm disc)
+Music CDs or CD-Rs/CD-RWs in music CD format that can be purchased
+CD-R/CD-RW (8 cm / 12 cm disc)
+CD-R/CD-RW discs that contain audio titles, DivX, MP3, WMA, or JPEG files.
+
+Notes:
+ Depending on the conditions of the recording equipment or the CD-R/RW (or DVD±R/RW) disc itself, some
+CD-R/RW (or DVD±R/RW) discs cannot be played on the unit.
+ Do not attach any seal or label to either side (the labeled side or the recorded side) of a disc.
+ Do not use irregularly shaped CDs (e.g., heart-shaped or octagonal). Doing so may result in malfunctions.
+ Depending on the recording software & the finalization, some recorded discs (CD-R/RW or DVD±R/RW) may
+not be playable.
+ DVD-R/RW, DVD+R/RW and CD-R/RW discs recorded using a personal computer or a DVD or CD Recorder
+may not play if the disc is damaged or dirty, or if there is dirt or condensation on the Recorder’s lens.
+ If you record a disc using a personal computer, even if it is recorded in a compatible format, there are cases
+in which it may not play because of the settings of the application software used to create the disc. (Check
+with the software publisher for more detailed information.)
+ This recorder requires discs and recordings to meet certain technical standards in order to achieve optimal
+playback quality. Pre-recorded DVDs are automatically set to these standards. There are many different types
+of recordable disc formats (including CD-R containing MP3 or WMA files) and these require certain preexisting conditions (see above) to ensure compatible playback.
+ Customers should note that permission is required in order to download MP3 / WMA files and music from the
+Internet. Our company has no right to grant such permission. Permission should always be sought from the
+copyright owner.
+
+Regional Code
+This unit has a regional code printed on the rear of the unit. This unit can play only DVD discs labeled same as
+the rear of the unit or “ALL”.
+Notes on Regional Codes
+ Most DVD discs have a globe with one or more numbers in it clearly visible on the cover. This number must
+match your unit’s regional code or the disc cannot play.
+ If you try to play a DVD with a different regional code from the unit, the message “Incorrect region code. Can’t
+play back” appears on the TV screen.
+
+Availability of copying or moving feature
+From
+
+To
+
+HDD
+
+DISC
+
+No
+
+DISC
+
+HDD
+
+Yes
+
+*1: The title is recorded from this unit.
+
+6
+
+MP3/WMA
+
+JPEG
+
+DivX
+
+Audio CD
+
+Video CD
+
+Title*1
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+Introduction
+
+About the internal Hard Disk
+Drive
+The internal hard disk drive (HDD) is a fragile piece of
+equipment. Please use the recorder following the
+guidelines below to protect against possible HDD
+failure.
+We recommend that you back up your important
+recordings onto DVD discs in order to protect against
+accidental loss.
+
+
+Do not move the recorder while it is on.
+
+
+
+Install and use the recorder on a stable, level
+surface.
+
+
+
+Do not use the recorder in excessively hot or humid
+places, or in places that may be subject to sudden
+changes in temperature. Sudden changes in
+temperature can cause condensation to form inside
+the recorder. This can be a cause of HDD failure.
+
+
+
+While the recorder is switched on, do not unplug
+from the wall socket or switch the electricity off from
+the breaker switch.
+
+
+
+Do not move the recorder immediately after
+switching it off. If you need to move the recorder,
+please follow the steps below:
+1. After the message OFF is shown in the display,
+wait at least two minutes.
+2. Unplug from the wall socket.
+3. Move the recorder.
+
+
+
+If there’s a power failure while the recorder is on
+there is a chance that some data on the HDD will
+be lost.
+
+
+
+The HDD is very delicate. If used improperly or in
+an unsuitable environment, it is possible that the
+HDD will fail after a few years of use. Signs of
+problems include playback unexpectedly freezing
+and noticeable block noise (mosaic) in the picture.
+However, sometimes there will be no warning signs
+of HDD failure.
+If the HDD fails, no playback of recorded material
+will be possible. In this case it will be necessary to
+replace the HDD unit.
+
+7
+
+Front Panel
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+i
+
+k
+
+RH266/RH265
+a
+
+b
+
+c
+
+d
+
+e
+
+f g h i j k
+
+l
+
+RH256/RH255
+a 1 / I (POWER button)
+Switches the recorder ON or OFF.
+b Disc Tray
+Insert a disc here.
+c Display window
+Shows the current status of the recorder.
+T/S: Indicates the timeshifting mode.
+REC: The recorder is recording.
+HDD: The recorder is HDD mode.
+DVD: The recorder is DVD mode.
+
+f Z (OPEN/CLOSE)
+Opens or closes the disc tray.
+g HDD/DVD
+Set the recorder’s mode to HDD or DVD.
+h TIMESHIFT
+Activates pause live TV/playback (timeshift) for a
+live TV program.
+
+HDD b B DVD: The recorder is dubbing.
+TV: Indicates when the recorder is in TV tuner
+mode.
+
+i N (PLAY)
+Starts playback.
+
+: Indicates when the recorder is in timer
+recording or a timer recording is programmed.
+
+j x (STOP)
+Stops playback or recording.
+
+: Shows the current status of the
+recorder (clock, program number, etc).
+
+k z (REC)
+Starts recording. Press repeatedly to set the
+recording time.
+
+d Remote Sensor
+Point the recorder remote control here.
+
+8
+
+e AV IN 3 (VIDEO IN/AUDIO IN (Left/Right))
+Connect the audio/video output of an external
+source (Audio system, TV/ Monitor, VCR,
+Camcorder, etc.).
+
+l PROG. (V/v)
+Scans up or down through memorized channels.
+
+0-9 numerical buttons: Selects
+numbered options in a menu.
+DUBBING: Copies DVD to HDD
+(or HDD to DVD).
+
+a
+
+TV Control Buttons: See page
+51.
+
+
+
+
+
+
+
+
+
+
+b
+
+
+
+
+
+
+
+
+
+
+
+c
+
+
+
+
+
+a
+
+
+
+
+
+
+
+POWER: Switches the recorder
+ON or OFF.
+OPEN/CLOSE (Z): Opens and
+closes the disc tray.
+DVD: Selects the unit’s function
+mode to DVD.
+
+
+
+
+
+d
+
+
+
+
+
+
+
+
+
+
+
+THUMBNAIL: Selects a thumbnail
+picture.
+
+
+
+
+
+
+
+
+
+c
+
+
+
+
+
+
+
+
+
+
+
+HOME: Accesses or removes the
+HOME menu.
+
+
+
+
+
+PLAY (N): Starts playback.
+
+ENTER ( ): Acknowledges menu
+selection.
+
+
+
+
+TITLE: Displays the disc’s Title
+menu, if available.
+
+b / B / v / V (left/right/up/down):
+Selects an option in the menu.
+
+
+
+CHP. ADD: Inserts a chapter
+marker when playing.
+
+PAUSE/STEP (X) : Pause
+playback or recording temporarily.
+
+MENU/LIST: Accesses menu on a
+DVD disc. Switches between Title
+List-Original and Title List-Playlist
+menu.
+
+
+
+): Selects a subtitle
+
+SKIP (. / >): Go to next or
+previous chapter or track.
+
+
+
+
+
+SUBTITLE (
+language.
+
+z REC: Starts recording.
+REC MODE: Selects the recording
+mode.
+
+STOP (x): Stops playback or
+recording.
+
+d
+
+AUDIO ( ): Selects an audio
+language or audio channel.
+
+
+
+SCAN (m / M): Search
+backward or forward.
+
+b
+
+TIMESHIFT: Activates pause live
+TV/playback (timeshift) for a live
+TV program.
+
+PR/CH (+/-): Scans up or down
+through memorized channels.
+DISPLAY: Accesses On-Screen
+Display.
+
+Introduction
+
+AV/INPUT: Changes the input to
+use for recording (Tuner, AV1-3).
+
+Remote Control
+
+ZOOM: Enlarges video image.
+MARKER: Marks any point during
+playback.
+SEARCH: Displays Marker Search
+menu.
+CLEAR: Removes a mark on the
+Marker Search menu.
+REPEAT: Repeat chapter, track,
+title, all.
+A-B: Repeat sequence.
+TV/DVD: To view channels
+selected by the recorder tuner or
+by the TV tuner.
+* These buttons are not available
+for this recorder.
+
+RETURN (O): Removes the
+menu.
+
+HDD: Selects the unit’s function
+mode to HDD.
+
+Remote Control Operation
+Point the Remote Control at the remote sensor and
+press the buttons.
+Caution
+Do not mix old and new batteries. Never mix different
+types of batteries (standard, alkaline, etc.).
+
+Remote Control Battery Installation
+Remove the battery cover on the
+rear of the Remote Control, and
+insert two R03 (size AAA)
+batteries with
+and
+matched
+correctly.
+
+9
+
+Hookup and Settings
+Rear Panel
+a
+
+e
+
+b
+
+f
+
+g
+
+c
+
+d
+
+h
+
+a ANTENNA IN
+Connect the antenna to this terminal.
+
+f COAXIAL (Digital audio output jack)
+Connect to digital (coaxial) audio equipment.
+
+b COMPONENT OUTPUT (Y PB PR)
+Connect to a TV with Y PB PR inputs.
+
+g AUDIO OUTPUT (Left/Right)
+Connect to a TV with audio inputs.
+
+c AV 2 DECODER SCART jack
+Connect the audio/video output of an external
+source (Pay-TV decoder, Set Top Box, VCR, etc.).
+
+h AV 1 SCART jack
+Connect to a TV with SCART jack.
+
+d AC Power Cord (AC IN ~)
+Plug into the power source.
+e ANTENNA OUT
+Passes the signal from the ANTENNA IN jack to
+your TV/monitor.
+
+Connecting to the antenna
+Remove the antenna cable plug from your TV set and
+insert it into the antenna socket at the back of the
+recorder. Plug one end of the antenna cable into the
+TV socket on the recorder and the other end into the
+antenna input socket on your TV set.
+
+Aerial
+
+Rear of TV
+SCART INPUT
+
+ANTENNA
+INPUT
+
+AUDIO INPUT
+
+L
+
+VIDEO
+INPUT
+
+R
+
+R
+
+RF coaxial connection
+Connect the ANTENNA OUT jack on the recorder to
+the antenna input jack on the TV using the 75-ohm
+Coaxial Cable supplied (R). The ANTENNA OUT jack
+passes the signal through from the ANTENNA IN jack.
+Rear of the recorder
+10
+
+SCART connection
+
+
+
+Make one of the following connections, depending
+on the capabilities of your existing equipment.
+
+
+
+When using the COMPONENT OUTPUT jacks, set
+the Video Output Format option in the setup menu
+to YPbPr. When using the SCART jack, set the
+Video Output Format option in the setup menu to
+RGB.
+
+Tips
+ Depending on your TV and other equipment you
+wish to connect, there are various ways you could
+connect the recorder. Use only one of the
+connections described below.
+ Please refer to the manuals of your TV, VCR,
+Stereo System or other devices as necessary to
+make the best connections.
+Caution
+– Make sure the recorder is connected directly to the
+TV. Tune the TV to the correct video input channel.
+– Do not connect the recorder’s AUDIO OUTPUT jack
+to the phono in jack (record deck) of your audio
+system.
+– Do not connect your recorder via your VCR. The
+DVD image could be distorted by the copy
+protection system.
+
+Rear of TV
+COMPONENT VIDEO INPUT
+
+Y
+
+PB
+
+C
+
+SCART INPUT
+AUDIO INPUT
+
+PR
+
+L
+
+T
+
+R
+
+Connect the AV1 SCART jack on the recorder to the
+corresponding in jacks on the TV using the scart cable
+(T).
+
+Audio (Left/Right) Connection
+Connect the left and right AUDIO OUTPUT jacks of
+the recorder to the audio left and right IN jacks on the
+TV using the audio cables (A). Do not connect the
+recorder’s AUDIO OUTPUT jack to the phono in jack
+(record deck) of your audio system.
+
+Hookup and
+Settings
+
+Connections to Your TV
+
+Component Video connection
+Connect the COMPONENT OUTPUT jacks on the
+recorder to the corresponding input jacks on the TV
+using an Y PB PR cable (C).
+If your television is a high-definition or “digital ready”
+television, you may take advantage of the recorder’s
+progressive scan output for the highest video
+resolution possible. If your TV does not accept the
+Progressive Scan format, the picture will appear
+scrambled if you try Progressive Scan on the recorder.
+ Set the Progressive Scan to [ON] on the setup
+menu for progressive signal, see page 17.
+Caution
+Once the setting for Progressive Scan output is
+entered, an image will only be visible on a
+Progressive Scan compatible TV or monitor. If you set
+Progressive Scan to [ON] in error, you must reset the
+recorder. First, remove the disc in the recorder. Next,
+press STOP (x) and hold it for five seconds before
+releasing it. The video output will be restored to the
+standard setting, and a picture will once again be
+visible on a conventional analog TV or monitor.
+
+A
+
+Rear of the recorder
+
+11
+
+Connecting to an Amplifier
+
+Rear of the recorder
+
+Connecting to an amplifier equipped with two
+channel analog stereo or Dolby Pro Logic ll/
+Pro Logic
+Connect the Left and Right AUDIO OUTPUT jacks on
+the recorder to the audio left and right in jacks on your
+amplifier, receiver, or stereo system, using the audio
+cables (A).
+
+Connecting to an amplifier equipped with two
+channel digital stereo (PCM) or to an Audio/
+Video receiver equipped with a multi-channel
+decoder (Dolby Digital™, MPEG 2, or DTS)
+
+A
+
+X
+
+1. Connect one of the recorder’s DIGITAL AUDIO
+OUTPUT jacks (COAXIAL X) to the corresponding
+in jack on your amplifier. Use an optional digital
+(coaxial X) audio cable.
+2. You will need to activate the recorder’s digital
+output. (See “Audio Settings” on page 18).
+
+Digital Multi-channel sound
+A digital multi-channel connection provides the best
+sound quality. For this you need a multi-channel
+Audio/Video receiver that supports one or more of the
+audio formats supported by your recorder (MPEG 2,
+Dolby Digital and DTS). Check the receiver manual
+and the logos on the front of the receiver.
+Caution:
+Due to the DTS Licensing agreement, the digital
+output will be in DTS digital out when DTS audio
+stream is selected.
+Notes:
+• If the audio format of the digital output does not
+match the capabilities of your receiver, the receiver
+will produce a strong, distorted sound or no sound
+at all.
+• Six Channel Digital Surround Sound via digital
+connection can only be obtained if your receiver is
+equipped with a Digital Multi-channel decoder.
+• To see the audio format of the current DVD in the
+on-screen display, press AUDIO.
+• This recorder does not perform internal (2 channel)
+decoding of a DTS sound track. To enjoy DTS
+multi channel surround, you must connect this
+recorder to a DTS compatible receiver via one of
+this recorder’s digital audio outputs.
+
+12
+
+COAXIAL
+DIGITAL INPUT
+
+L
+
+R
+
+AUDIO INPUT
+
+Amplifier (Receiver)
+Manufactured under license from Dolby
+Laboratories. “Dolby”, “Pro Logic”, and the
+double-D symbol are trademarks of Dolby
+Laboratories.
+“DTS” and “DTS Digital Out” are trademarks of
+Digital Theater Systems, Inc.
+
+Accessory Audio/Video (A/V)
+Connections
+
+TV
+VCR, Cable Box, or
+Satellite Tuner, etc.
+
+Connecting a PAY-TV/Canal Plus Decoder
+
+Hookup and
+Settings
+
+You can watch or record PAY-TV/Canal Plus
+programmes if you connect a decoder (not supplied)
+to the recorder. Disconnect the recorder’s mains lead
+from the mains when connecting the decoder.
+To watch or record PAY-TV/Canal Plus programmes,
+set [AV2 Connection] option to [Decoder] (see page
+17) and set the program’s [Decoder On/Off] option to
+[On] on the Setup menu (page 16).
+Tip:
+You do not need to turn on the recorder to view the
+signals from the connected tuner on your TV.
+Note:
+If you disconnect the recorder’s mains lead, you will
+not be able to view the signals from the connected
+decoder.
+
+Rear of the recorder
+
+Tip:
+You do not need to turn on the recorder to view the
+signals from the connected tuner on your TV.
+
+TV
+
+PAY-TV/Canal Plus
+Decorder
+SCART AV
+
+Notes:
+Pictures containing copy protection signals that
+prohibit any copying cannot be recorded.
+
+
+
+
+
+If you pass the recorder signals via the VCR, you
+may not receive a clear image on your TV screen.
+Be sure to connect your VCR to the recorder and
+your TV in the order shown below. To watch video
+tapes, watch the tapes through a second line input
+on your TV.
+Line input 1
+
+VCR
+
+RECORDER
+
+TV
+Line input 2
+
+Rear of the recorder
+
+
+
+When you record to a VCR from this recorder, do
+not switch the input source to TV by pressing the
+TV/DVD button on the remote.
+
+
+
+If you are using a B Sky B tuner, be sure to connect
+the tuner’s VCR SCART jack to the AV2 DECODER
+jack.
+
+
+
+If you disconnect the recorder’s mains lead, you will
+not be able to view the signals from the connected
+VCR or tuner.
+
+Connecting to the AV2 DECODER jack
+Connect a VCR or similar recording device to the AV2
+DECODER jack of this recorder.
+To watch or record the source from AV2 DECODER
+jack, set [AV2 Connection] option to [Other Device]
+(see page 17).
+
+13
+
+Connecting to the AV IN 3 Jacks
+Connect the input jacks (AV IN 3) on the recorder to
+the audio/video out jacks on your accessory
+component, using audio/video cables.
+Jack panel of Accessory Component
+(VCR, Camcorder, etc.)
+
+Auto Setup
+After the POWER is pressed for the first time to turn
+on the unit or resetting the unit, the Initial Setup
+Wizard function sets the language, clock and tuner
+channels automatically.
+1. Select a language for the Setup menu and onscreen display. Use v / V to select a language
+then press ENTER.
+
+AUDIO
+OUTPUT
+
+R
+
+L
+
+VIDEO
+OUTPUT
+
+2. Please check your antenna connections.
+Press ENTER to move next step.
+
+Front of
+the recorder
+
+3. Use v / V / b / B to select a audio system then
+press ENTER while [Start] option is selected.
+The tuner will automatically cycle through all
+available channels in the area and place them in
+the tuner’s memory.
+
+4. Enter the necessary information for date and time.
+
+• b / B (left/right): Moves the cursor to the
+previous or next column.
+• v / V (up/down): Changes the setting at the
+current cursor position.
+• Press ENTER to confirm your setting.
+5. Press ENTER while [Close] is highlighted to finish
+setup.
+
+14
+
+General Operation
+
+From the Home Menu screen you can access all the
+Media for playback and recording of the recorder.
+
+1. Select the SETUP option in the HOME menu.
+The setup menu appears.
+
+1. Press HOME to display the Home Menu screen.
+
+2. Use v / V to select the desired option.
+
+2. Use the b / B buttons to select a main option you
+want. Sub options appears.
+
+3. While the desired item is selected, press B to
+move to the second level.
+
+3. Use the v / V and ENTER buttons to select the
+sub option you want.
+
+4. Use v / V to select the second desired option.
+
+Hookup and
+Settings
+
+Using the Home Menu
+
+5. Press B to move to the third level.
+6. Use v / V to select the desired setting then press
+ENTER to confirm your selection.
+Some items require additional steps.
+7. Press RETURN (O) to exit the Setup menu.
+
+4. To exit the HOME menu, press HOME.
+Easy Menu
+ SETUP: Displays Setup menu.
+ Timer Record: Displays Timer Record menu.
+TV
+ TV HDD: Returns to live TV viewing in HDD mode.
+Pressing the HDD button on the remote control will
+also allow you to directly choose this option.
+ TV DVD: Returns to live TV viewing in DVD mode.
+Pressing the DVD button on the remote control will
+also allow you to directly choose this option.
+MOVIE
+ HDD: Displays the Title List menu for HDD.
+(page 38)
+ HDD DivX: Displays the [Movie List] menu for HDD.
+(page 27)
+ DISC:
+- Displays Title List menu for recordable disc.
+(page 38)
+- Displays [Movie List] menu for DivX disc.
+(page 27)
+- Plays Video CD or DVD-Video disc (page 23-26).
+PHOTO (See page 29-30)
+ HDD: Displays [Photo List] menu for HDD.
+ DISC: Displays [Photo List] menu for disc.
+MUSIC (See page 28)
+ HDD: Displays [Music List] menu for HDD.
+ DISC: Displays [Music List] (or Audio CD) menu for
+disc.
+
+Initial Settings
+In this menu system, there are several ways to
+customize the settings provided. Most menus consist
+of three levels to set up the options, but some require
+greater depth for the variety of settings.
+
+Note:
+Press b to go back to the previous level.
+
+General Settings
+Auto Programming
+This recorder is equipped with a frequency
+synthesized tuner capable of receiving up to 88 TV
+channels.
+Preparation:
+Connect the recorder to the desired type of antenna,
+as shown in Connecting to the Antenna on page 10.
+
+1. Select the [Auto Programming] option.
+2. Press B to move to the third level.
+3. Use v / V to select a audio system then press B.
+[Start] icon is highlighted.
+4. Press ENTER to begin the channel search.
+The tuner will automatically cycle through all
+available channels in the area and place them in
+the tuner’s memory.
+Note:
+If you skip the Auto Setup menu and access the
+Setup menu for the first time, you can only set the
+[Auto Programming] option. You can set the other
+options after finishing [Auto Programming].
+
+15
+
+General Settings (Continued)
+Program Edit
+You can edit a channel manually (add, delete, name,
+move, etc.).
+1. Select [Program Edit] option then press B.
+2. Press ENTER while [Edit] is selected.
+The Program List menu appears.
+
+Program Edit
+You can perform a search to select and store TV
+channels manually.
+When you select [Program Edit] in step 4 above, the
+display for setting channels appears.
+1. Use b / B to select the item and press v / V to
+change the setting.
+
+
+
+[PR] indicates the selected programme position.
+
+
+
+[Seek] Searches for a channel automatically.
+Searching stops when the recorder tunes in a
+channel.
+
+
+
+[Ch.] Changes the channel number.
+
+
+
+[MFT] Fine tunes the channel to obtain a clearer
+picture.
+
+[Audio] Changes the audio system (BG, I or
+DK).
+2. Choose [OK] then press ENTER to confirm the
+setting and returns to the Program List menu.
+
+
+3. Use v / V to select a PR number then press
+ENTER.
+4. Use v / V to select the program option then press
+ENTER.
+ [Program Edit] Sets the channel manually. See
+“Program Edit” on the right.
+ [Station Rename] Changes the station name.
+The display for entering characters appears.
+To enter characters, see page 42.
+Names can be up to 5 characters long.
+ [Move] Sorts the programme positions on the
+Program List. Press v / V to move the selected
+programme position to a new location.
+ [Delete] Disables a programme position you do
+not need.
+ [Decoder On/Off] Sets the channels for the
+decoder. You need this setting to watch or
+record PAY-TV/Canal Plus programmes.
+Press ENTER so [Decoder] appears on the
+display. Press ENTER again to turn off the
+setting.
+5. Press RETURN (O) repeatedly to exit Program
+List menu.
+
+16
+
+AV1 Decoder
+Sets the AV1 scart jack for inputting encoded video
+signals.
+1. Press AV/INPUT while the Program List menu
+appears.
+2. Press ENTER so [Decoder] appears on the
+display. Press ENTER again to turn off the setting.
+ Off: Inputs the signals from the AV1 scart jack.
+Normally select this.
+ On: The encoded video signal input from the
+AV1 scart jack is output to the AV2 DECODER
+jack for decoding.
+The decoded signal is then input back through
+the AV2 DECODER jack so you can record or
+view PAY-TV/Canal Plus programmes.
+
+AV2 Connection
+
+Clock Set
+
+You can connect a decoder or other device to the
+AV2 DECODER jack on the back.
+
+1. Select [Clock Set] option then press B.
+2. Enter the necessary information for date and time.
+b / B (left/right): Moves the cursor to the previous
+or next column.
+v / V (up/down): Changes the setting at the
+current cursor position.
+
+
+
+[Decoder] Select [Decoder] if you connect the
+recorder’s AV2 DECODER jack to a PAY-TV or
+Canal Plus decoder.
+
+
+
+[Other Device] Select [Other Device] if you connect
+the recorder’s AV2 DECODER jack to a VCR or
+similar recording device.
+
+Hookup and
+Settings
+
+General Settings (Continued)
+
+3. Press ENTER to confirm your setting.
+
+Video output format
+TV Aspect
+Selects the aspect ratio of the connected TV (4:3
+standard or wide).
+
+
+
+
+
+
+Select the Video output format option according ro the
+connection type of this unit
+
+
+[4:3 Letter Box] Select this when connecting to a 4:3
+screen TV. Displays a wide picture with bands on
+the upper and lower portions of the screen.
+
+[RGB] When your TV is connected with the
+SCART(RGB signal) jack on this unit.
+
+
+
+[YPbPr] When your TV is connected with the
+COMPONENT OUTPUT jack on this unit.
+
+[4:3 Pan Scan] Select this when connecting to a 4:3
+screen TV. Automatically displays a wide picture on
+the entire screen and cuts off the portions that do
+not fit.
+
+Power Save Mode
+
+[16:9 Wide] Select this when connecting to a widescreen TV or TV with a wide mode function.
+
+Progressive Scan
+Progressive Scan Video provides the highest quality
+pictures with less flickering.
+If you are using the COMPONENT OUTPUT jacks,
+but are connecting the recorder to a standard (analog)
+television, set Progressive Scan to [OFF].
+If you are using the COMPONENT OUTPUT jacks for
+connection to a TV or monitor that is compatible with
+a progressive scan signal, set Progressive Scan to
+[ON].
+
+You can set up the unit into an economic power save
+mode. Nothing is displayed in the display window
+when the unit is turned off.
+
+
+[OFF] Power Save Mode is not active.
+
+
+
+[ON] Power Save Mode is active.
+
+Notes:
+
+
+The encoded television signals (CANAL+ or
+PREMIERE) are not decoded in the Power Save
+Mode.
+
+
+
+The Power Save Mode is not available in the
+standby mode for the timer recording and when
+power off of the unit after receiving the encoded
+television signals (CANAL+ or PREMIERE).
+
+Note:
+Progressive Scan will be disable in the setup menu
+when the Video Output Format in the setup menu is
+set to RGB.
+Caution
+Once the setting for Progressive Scan output is
+entered, an image will only be visible on a
+Progressive Scan compatible TV or monitor. If you set
+Progressive Scan to [ON] in error, you must reset the
+recorder. First, remove the disc in the recorder. Next,
+press STOP (x) and hold it for five seconds before
+releasing it. The video output will be restored to the
+standard setting, and a picture will once again be
+visible on a conventional analog TV or monitor.
+
+17
+
+General Settings (Continued)
+
+Audio Settings
+
+Initialization
+
+Each DVD disc has a variety of audio output options.
+Set the recorder’s Audio Output according to the type
+of audio system you use.
+
+You can reset the recorder to its original factory
+settings and initialize the HDD.
+ [Factory Set] If you need to, you can reset the
+recorder to all its factory settings. Some options
+cannot be reset. (Rating, Password, and Area
+Code)
+
+
+[HDD format] Initializes the HDD (Hard Disk Drive):
+everything recorded on the HDD will be erased.
+
+1. Select [Initialization] option then press B.
+2. Press v / V to select the desired option then press
+ENTER.
+The confirm message will appear.
+3. Use b / B to select [OK] or [Cancel] then press
+ENTER.
+
+Dolby Digital / DTS / MPEG
+
+
+[Bitstream]: Select “Bitstream” if you connect the
+recorder’s DIGITAL AUDIO OUT jack to an amplifier
+or other equipment with a Dolby Digital, DTS or
+MPEG decoder.
+
+
+
+[PCM] (for Dolby Digital / MPEG): Select when
+connected to a two-channel digital stereo amplifier.
+DVDs encoded in Dolby Digital or MPEG will be
+automatically downmixed to two-channel PCM
+audio.
+
+
+
+[OFF] (for DTS): If you select “OFF”, the DTS signal
+is not output through the DIGITAL AUDIO OUT jack.
+
+Language Settings
+
+Sampling Frequency
+Display Menu
+Select a language for the Setup menu and on-screen
+display.
+
+Disc Menu/Audio/Subtitle
+
+
+[Original] Refers to the original language in which
+the disc was recorded.
+
+
+
+[Others] To select another language, enter the
+corresponding 4-digit number according to the
+language code list in the reference chapter (see
+page 50). If you enter the wrong language code,
+press CLEAR.
+
+
+
+18
+
+[OFF] (for Disc Subtitle) : Turn off Subtitle.
+
+If your receiver or amplifier is NOT capable of
+handling 96 kHz signals, select [48 kHz]. When this
+choice is made, this unit will automatically convert any
+96 kHz signals to 48 kHz so your system can decode
+them.
+If your receiver or amplifier is capable of handling
+96 kHz signals, select [96 kHz]. When this choice is
+made, this unit will pass each type of signal through
+without any further processing.
+
+DRC (Dynamic Range Control)
+With the DVD format, you can hear a program’s
+soundtrack in the most accurate and realistic
+presentation possible, thanks to digital audio
+technology. However, you may wish to compress the
+dynamic range of the audio output (the difference
+between the loudest sounds and the quietest ones).
+Then, you may listen to a movie at a lower volume
+without losing clarity of sound. Set DRC to [ON] for
+this effect.
+
+Lock (Parental Control) Settings
+
+Set Password
+
+Hookup and
+Settings
+
+1. Select [Set Password] option then press B.
+2. Follow step 2 as shown “Rating”.
+To change the password, select the [Change],
+press ENTER then input the current password
+and input the new 4-digit code. Input it again to
+verify. To delete the password, select the [Delete],
+press ENTER then input the current password.
+If you forget your 4-digit code
+If you forget your password, to clear the current
+password, follow the procedure below.
+
+Rating
+Blocks playback of rated DVDs based on their
+content. Not all discs are rated.
+1. Select [Rating] option then press B.
+2. To access the Rating, Set Password and Area
+Code features, you must input the 4-digit security
+code you created.
+If you have not yet entered a security code you
+are prompted to do so. Input a 4-digit code. Enter
+it again to verify. If you make a mistake while
+entering number, press CLEAR repeatedly to
+delete numbers one by one then correct it.
+3. Select a rating using the v / V buttons.
+[1] - [8]: Rating one (1) has the most restrictions
+and rating eight (8) is the least restrictive.
+[No Limit]: If you select [No Limit], parental control
+is not active and the disc plays in full.
+
+1. Display Setup menu then select an 1 level icon.
+2. Use the Number buttons to enter the 6-digit
+number “210499”.
+3. Select [OK] then press ENTER. The 4-digit
+password is cleared. Enter a new code.
+
+Area Code
+Enter the code of an area whose standards were used
+to rate the DVD video disc, referring to the list (See
+“Area Codes”, page 50.).
+1. Select [Area Code] option then press B.
+2. Follow step 2 as shown “Rating”.
+3. Select the first character using the v / V
+buttons.
+4. Shift the cursor using B buttons and select the
+second character using v / V buttons.
+5. Press ENTER to confirm your area code selection.
+
+4. Press ENTER to confirm your rating selection.
+Note:
+If you set a rating for the recorder, all disc scenes with
+the same rating or lower are played. Higher rated
+scenes are not played unless an alternate scene is
+available on the disc. The alternative must have the
+same rating or a lower one. If no suitable alternative is
+found, playback stops. You must enter the 4-digit
+password or change the rating level in order to play
+the disc.
+
+19
+
+Recording Settings
+
+Disc Settings
+Disc Format
+
+Record Mode Set
+
+If you load a completely blank disc, the recorder will
+initialize the disc.
+DVD-R: The recorder initialize the disc to Video
+mode. The recording mode will always be Video
+mode.
+DVD-RW/DVD+RW/DVD+R: The Initialize menu will
+appears. Select [OK] then press ENTER.
+DVD-RW disc is initialized to Video mode.
+Also, you can reformat the DVD-RW/DVD+RW from
+the Setup menu as below.
+
+You can set the picture quality for recording;
+XP (Excellent Play), SP (Standard Play),
+LP (Long Play), EP (Extended Play),
+MLP (Maximum Long Play)
+
+
+
+
+
+
+
+XP – Highest quality setting, gives about
+1 hour of recording time on a DVD (4.7GB).
+SP – Default quality, sufficient for most applications,
+gives about 2 hours of recording time on a DVD
+(4.7GB).
+LP – Slightly lower video quality, gives about 4
+hours of recording time on a DVD disc (4.7GB).
+EP – Low video quality, gives about 6 hours of
+recording time on a DVD (4.7GB).
+MLP – The longest recording time with the lowest
+video quality, gives about 11 hours of recording time
+on a DVD (4.7GB).
+
+Note:
+You may see a fragmented picture or distorted subtitle
+during playing back the contents recorded in EP and
+MLP mode.
+
+Auto Chapter
+When DVD or HDD recording, chapter markers are
+put in specified setting. You can change this interval to
+5 minutes, 10 minutes or 15 minutes. If you select
+[None], switch off automatic chapter marking
+altogether with the [None] setting.
+
+Timeshift
+Set this option to [ON] make this unit to use the
+Timeshift function automatically without pressing the
+TIMESHIFT button. The Timeshift function will start
+automatically about 10 seconds after the TV tuner
+mode is started.
+If you want to use this function manually, see
+“Timeshift” on page 34.
+• [OFF] Use Timeshift function manually.
+• [ON] Use Timeshift function automatically.
+
+20
+
+1. Select [Disc Format] option then press B.
+2. Press ENTER while [Start] is selected.
+Format Disc menu appears.
+3. Use b / B to select a desired mode (VR Mode or
+Video Mode) then press ENTER.
+Confirm message will appear.
+For DVD+RW discs, go to step 4.
+4. Use b / B to select [OK] then press ENTER.
+It takes a few moments to initialize the disc.
+Caution
+If you want to change the disc format, everything
+recorded on the disc will be erased.
+
+Finalize
+Finalizing ‘fixes’ the recordings in place so that the
+disc can be played on a regular DVD player or
+computer equipped with a suitable DVD-ROM drive.
+Finalizing a disc creates a menu screen for navigating
+the disc. This is accessed by pressing MENU/LIST or
+TITLE.
+Caution
+
+
+Once you have finalized a DVD-R and DVD+R disc,
+you cannot edit or record anything else on that disc.
+
+
+
+You can record and edit a DVD-RW disc by
+choosing [Unfinalize] option.
+
+
+
+You can edit or record on the DVD+RW disc even
+after finalizing.
+
+Disc Label
+Use this to enter a name for the disc. This name
+appears when you load the disc and when you display
+disc information on-screen.
+ The disc name can be up to 32 characters long.
+ For discs formatted on a different recorder, you will
+see only a limited character set.
+1. Select [Disc Label] option then press B.
+2. Press ENTER while [Edit] is selected.
+Keyboard menu appears.
+To enter characters, see page 42.
+
+Hookup and
+Settings
+
+Disc Settings (Continued)
+
+Disc Protect
+When recording in DVD+RW / +R disc or VR mode
+formatted DVD-RW disc, set to [ON] to prevent
+accidental recording, editing or deleting of the disc
+loaded. If you need to unlock the disc to make edits,
+select [OFF].
+
+PBC
+PBC stands for Playback Control and refers to special
+menus and navigation features that are available on
+some Video CDs.
+ [OFF] Video CDs are played the same way as Audio
+CDs.
+
+
+1. Select [Finalize] option then press B.
+2. Press ENTER while [Finalize] is selected.
+Finalize menu appears.
+3. Select [OK] then press ENTER.
+The recorder starts finalizing the disc.
+Note:
+How long finalization takes depends on the type of
+disc, how much is recorded on the disc, and the
+number of titles on the disc.
+Tips
+ If you load a DVD-RW that has already been
+finalized, you can ‘Unfinalize’ it by choosing
+Unfinalize from the Finalize menu. After doing this,
+you can edit and re-record onto the disc.
+
+
+You cannot unfinalize a DVD-R and DVD+R disc.
+
+
+
+If [Disc Protect] option is set to [ON], the finalize is
+not available. To finalize, set [Disc Protect] option to
+[OFF].
+
+[ON] Video CDs are played according to the PBC, if
+available.
+
+DivX Registration Code
+We provide you the DivX® VOD (Video On Demand)
+registration code that allows you to rent and purchase
+videos using the DivX® VOD service. For more
+information, visit www.divx.com/vod.
+1. Select [DivX Reg. Code] option then press B.
+2. Press ENTER while [Enter] is selected and the
+registration code will appear.
+3. Use the registration code to purchase or rent the
+videos from DivX® VOD service at
+www.divx.com/vod. Follow the instructions and
+download the video onto a disc for playback on
+this unit.
+Note:
+All the downloaded videos from DivX® VOD can only
+be played back on this unit.
+
+21
+
+General Explanation of
+On-Screen Display
+This manual gives basic instructions for operating the
+recorder. Some DVDs require specific operation or
+allow only limited operation during playback. When
+this occurs, the symbol
+appears on the TV screen,
+indicating that the operation is not permitted by the
+recorder or is not available on the disc.
+
+Displaying Information While Watching TV
+During viewing the TV, press DISPLAY to
+display/remove the information displayed
+on-screen.
+
+Displaying Disc Information on-screen
+You can display various information about the disc
+loaded on-screen.
+1. Press DISPLAY once to show current status.
+
+2. Press DISPLAY once again to show various
+playback information.
+The items displayed differ depending on the disc
+type or playing status.
+
+Indicates channel number, station name, and
+audio signal (MONO) received by the tuner.
+Indicates the record mode,
+free space, and elapsed
+time progress bar.
+Indicates disc name
+and format.
+3. You can select an item by pressing v / V and
+change or select the setting by pressing b / B.
+For details about each item, see the pages in
+parenthesis.
+
+
+
+
+
+
+
+
+Indicates current audio
+channel.
+Indicates current date and time.
+
+22
+
+[Title]: Current title (or track) number/total
+number of titles (or tracks) (page 23, 25)
+[Chapter]: Current chapter number/total number
+of chapters (page 23)
+[Time]: Elapsed playing time (page 25)
+[Audio]: Selected audio language (DVD VIDEO
+only) or audio channel (page 24)
+[Subtitle]: Selected subtitle (page 24)
+[Angle]: Selected angle/total number of angles
+(page 25)
+[Sound]: Selected sound mode (page 26)
+
+Note:
+If no button is pressed for 10 seconds, the on-screen
+display disappears.
+
+Playback
+General Playback Features
+1. Load your chosen disc in the tray, with the playback side down.
+2. Starts playback using HOME menu (see page 15).
+3. To stop the playback, press STOP (x).
+The unit records the stopped point, depending on the disc. “Xx” appears on the screen briefly.
+Press PLAY (N) to resume playback (from the scene point). If you press STOP (x) again or unload the disc
+(“x” appears on the screen.), the unit will clear the stopped point.
+4. Press OPEN/CLOSE (Z) to remove the disc.
+Press OPEN/CLOSE (Z) to close disc tray or press POWER (1), the disc tray closes automatically and unit
+turns off.
+
+Buttons
+
+Operations
+
+Discs
+
+OPEN / CLOSE (Z)
+
+Opens or closes the disc tray.
+
+All Discs
+
+PAUSE/STEP (X)
+
+During playback, press PAUSE/STEP (X) to pause
+playback.
+
+All Discs and HDD
+
+Press PAUSE/STEP (X) repeatedly to play Frame-by-Frame.
+Tip:
+You can advance or back up the picture frame-by-frame by
+pressing b / B repeatedly during PAUSE mode.
+The picture frame-by-frame in reverse is not available for
+Video CD.
+
+HDD
+
+DVD ALL
+
+Playback
+
+Note:
+If Parental Control is set and the disc is not within the Rating settings (not authorized), the 4-digit code must be
+entered and/or the disc must be authorized (see “Rating”, on page 19).
+
+VCD
+
+SKIP (. / >)
+
+During playback, press SKIP (. or >) to go to the next HDD DVD ALL VCD
+chapter/track or to return to the beginning of the current
+DivX ACD MP3
+chapter/track.
+WMA
+Press SKIP . twice briefly to step back to the previous
+chapter/track.
+Tips:
+ To go directly to any chapter during DVD playback, press
+DISPLAY twice and press v / V to select the chapter
+icon. Then, input the chapter number or use b / B.
+ On an Audio CD, to go directly to any track, enter the
+track number using the numbered buttons (0-9) during
+playback.
+
+SCAN (m / M)
+
+During playback, press SCAN (m or M) repeatedly to
+select the required scan speed.
+HDD, DVD; 5 steps
+Video CD, Audio CD, DivX; 3 steps
+While the playback is paused, press SCAN (m or M)
+repeatedly to play in slow motion.
+HDD, DVD; 4 steps
+Video CD; 4 steps (Forward only)
+
+ZOOM
+
+During playback or pause mode, press ZOOM to enlarge
+the video image.
+(x1 size → x2 size → x4 size → x1 size (normal size)).
+You can move through the zoomed picture using b B v V
+buttons.
+
+HDD
+DivX
+
+DVD ALL
+ACD
+
+VCD
+
+HDD
+
+DVD ALL
+
+VCD
+
+HDD
+
+DVD ALL
+
+VCD
+
+23
+
+General Playback Features (Continued)
+Buttons
+
+Operations
+
+REPEAT
+
+During playback, press REPEAT repeatedly to select a
+desired repeat mode.
+HDD, DVD, Video mode DVD-R/RW, DVD+R/RW
+(Chapter/Title/Off)
+VR mode DVD-RW (Chapter/Title/All/Off)
+Video CD, Audio CD (Track/All/Off)
+MP3/WMA (Track/Folder/Off)
+Notes:
+ On a Video CD with PBC, you must set PBC to [OFF] in the
+Setup menu to use the Repeat function. See page 21.
+ If you press SKIP (>) once during Repeat Chapter
+(Track) playback, the repeat playback cancels.
+
+A-B
+
+During playback, each press of A-B button to select point A
+and point B and repeats a sequence from point A (Starting
+point) to point B (End point). Press A-B to stop A-B repeat.
+Note:
+You cannot select a sequence less than 5 seconds.
+
+Discs
+HDD
+ACD
+
+DVD ALL VCD
+MP3 WMA
+
+HDD
+ACD
+
+DVD ALL
+
+VCD
+
+TITLE
+
+If the current DVD title has a menu, the title menu appears
+on the screen. Otherwise, the disc menu may appears.
+
+DVD
+
+MENU/LIST
+
+The disc menu appears on the screen.
+
+DVD
+
+During playback, press SUBTITLE then press b / B
+repeatedly to select a desired subtitle language.
+
+DVD
+
+DivX
+
+Press AUDIO then press b / B repeatedly to hear a
+different audio language, audio channel or encoding
+method.
+
+DVD
+
+DivX
+
+HDD
++RW
+VCD
+
+-RWVR -RWVideo
+-R
++R
+
+SUBTITLE (
+AUDIO (
+
+)
+)
+
+Note:
+Some discs feature both Dolby Digital and DTS
+soundtracks. There is no analog audio output when DTS is
+selected. To listen to the DTS soundtrack, connect this
+recorder to a DTS decoder via one of the digital outputs.
+See page 12 for connection details.
+Press AUDIO then press b / B repeatedly during playback
+to hear a different audio channel (STEREO, LEFT or
+RIGHT).
+
+24
+
+VCD
+
+The menu screen may be displayed first after loading a
+DVD or Video CD which contains a menu.
+DVD
+Use the b / B / v / V buttons to select the
+title/chapter you want to view, then press ENTER to
+start playback.
+Press TITLE or MENU/LIST to return to the menu
+screen.
+VCD
+Use the number buttons to select the track you want
+to view.
+Press RETURN (O) to return to the menu screen.
+ Menu setting and the exact operating procedures
+for using the menu may differ depending on the
+disc. Follow the instructions on the each menu
+screen. You may also set PBC to [OFF] under
+Setup menu (see page 21).
+
+
+Moving to another TITLE
+HDD
+
+DVD ALL
+
+DivX
+
+Marker Search
+HDD
+
+DVD ALL
+
+VCD
+
+To enter a Marker
+You can start playback from up to six memorized
+points. To enter a marker, press MARKER at the
+desired point on the disc. The Marker icon appears on
+the TV screen briefly. Repeat to enter up to six
+markers.
+To Recall or Clear a Marked Scene
+1. During disc playback, press SEARCH. The marker
+search menu appears on the screen.
+2. Use b / B / v / V to select a marked scene that
+you want to recall or clear.
+3. Press ENTER and playback starts from the
+marked scene.
+
+Playback
+
+If a menu screen is displayed DVD
+
+or
+Press CLEAR and the confirm message will
+appear. Select [OK] and press ENTER to erase
+the scene from the marker search menu.
+
+When a disc has more than one title, you can move to
+another title as follows:
+ Press DISPLAY twice during playback then use
+v / V to select the title icon. Then, press the
+appropriate numbered button (0-9) or b / B to
+select a title number.
+
+Time Search HDD DVD ALL DivX
+To start playing at any chosen time on the disc:
+1. Press DISPLAY twice during playback. The time
+search box shows the elapsed playing time.
+2. Press v / V to select the time clock icon
+and “0:00:00” appears.
+3. Input the required start time in hours, minutes, and
+seconds from left to right.
+If you enter the wrong numbers, press b / B to
+move the under bar (_) to the wrong number. Then
+enter the correct numbers.
+4. Press ENTER to confirm. Playback starts from the
+selected time.
+
+Camera Angle DVD
+If the disc contains scenes recorded at different
+camera angles, you can change to a different camera
+angle during playback.
+1. Press DISPLAY twice during playback. The OnScreen Display appears on the TV screen.
+2. Use v / V to select the Angle icon in the OnScreen Display.
+3. Use b / B to select a desired angle.
+The number of the current angle appears on the
+TV screen.
+Tip:
+The ANGLE indicator will blink on the TV screen at
+scenes recorded at different angles to indicate that
+angle switching is possible.
+
+25
+
+3D Surround DVD ALL VCD
+This unit can produce a 3D Surround effect, which
+simulates multi-channel audio playback from two
+conventional stereo speakers, instead of the five or
+more speakers normally required to listen to multichannel audio from a home theater system.
+1. Press DISPLAY twice during playback. The OnScreen Display appears on the TV screen.
+2. Use v / V to select the Sound icon in the OnScreen Display.
+3. Use b / B to select “3D SUR.”.
+To turn off the 3D Surround effect, select
+“NORMAL”.
+
+Last Condition Memory DVD
+This recorder memorizes the user settings for the last
+disc that you have viewed. Settings remain in memory
+even if you remove the disc from the recorder or
+switch off the recorder. If you load a disc that had its
+settings memorized, the latest stop position is
+automatically recalled.
+Notes:
+ Settings are stored in memory for use any time.
+
+
+26
+
+This recorder does not memorize settings of a disc,
+if you press STOP twice or switch off the recorder
+before commencing to play it.
+
+Playing a DivX Movie File
+
+Movie List menu options
+
+The recorder can play DivX files. Before playing DivX
+files, read “DivX file requirement” on right.
+
+1. Press v / V to select a folder/file on the [Movie
+List] menu then press ENTER.
+[Movie List] menu options appear.
+The menu options displayed differ depending on
+the selected media.
+
+2. Select a media that contains DivX file(s) then
+press ENTER.
+The [Movie List] menu appears on the TV screen.
+
+2. Press v / V / b / B to select an option, and press
+ENTER.
+
+
+
+
+
+
+
+3. Press v / V to select a folder, and press ENTER.
+A list of files in the folder appears. If you are in a
+file list and want to return to the Folder list, use the
+v / V buttons on the remote to highlight
+and
+press ENTER.
+4. If you want to view a particular file,
+press v / V to highlight a file and press
+PLAY (N).
+You can use variable playback functions. Refer to
+pages 23-26.
+5. Press STOP (x) to stop the playback. The [Movie
+List] menu appears.
+ To exit the menu screen, press RETURN (O).
+
+Notice for displaying the DivX subtitle
+If the subtitle does not display properly, please follow
+the steps below.
+1. Press PAUSE/STEP when the subtitle appears.
+2. Press and hold SUBTITLE about 3 seconds.
+The language code will appear.
+3. Press b / B to select another language code until
+the subtitle is displayed properly.
+4. Press PLAY (N) to continue playback.
+Note:
+The DivX subtitle file name has to be identified with
+the DivX file name to display by this unit.
+
+[Play] Start playback the selected title.
+[Open] Opens the folder and a list of files in the
+folder appears.
+[Delete] Deletes the file(s) or folder(s) from the
+media.
+[Rename] Edits the file name. (page 31)
+[Move] Moves the file(s) to another folder or
+media. (page 32)
+[Copy] Copies the file(s) to another folder or
+media. (page 32)
+
+Playback
+
+1. Press HOME then select [MOVIE] option.
+
+DivX file requirement
+Available resolution size: 720x576 (W x H) pixel
+DivX file extensions: “.avi”, “.divx”
+Playable DivX subtitle: “.smi”, “.srt”, “.ssa”,
+“.sub (Micro DVD, Subviewer 1.0/2.0)”,
+“.txt (TM player, DVD subtitle system)”
+Playable Codec format:
+“DIVX3.xx”, “DIVX4.xx”, “DIVX5.xx”
+Playable Audio format: “AC3”, “MP3”
+ Sampling frequency:
+within 8 - 48 kHz (MP3)
+ Bit rate:
+within 8 - 320kbps (MP3)
+CD-R Format: ISO 9660 and JOLIET.
+DVD±R/RW Format: ISO 9660 (UDF Bridge format)
+Maximum Files/Folder: Less than 2000
+Notes on DivX format
+ If the number of the screen frame is over 29.97
+frames per second, this unit may not operate
+normally.
+ If there is impossible code to express in the DivX
+file name, it may be displayed as “*” mark.
+
+
+
+If the video and audio structure of recorded file is
+not interleaved, returns to the menu screen.
+This unit does not support the DivX file that is
+recorded with GMC (Global Motion
+Compensation).
+
+27
+
+Playing an Audio CD or MP3/WMA
+file
+
+Audio CD and Music menu options
+
+The recorder can play audio CDs and MP3/WMA files.
+Before playing MP3/WMA files, read “MP3/WMA audio
+file requirement” on right.
+
+1. Press v / V to select a folder/file on the Audio CD
+or Music menu then press ENTER.
+The menu options appear.
+The menu options displayed differ depending on
+the selected media.
+
+1. Press HOME.
+The HOME menu appears.
+
+2. Press v / V / b / B to select an option, and press
+ENTER.
+
+2. Select [MUSIC] option.
+
+
+
+[Play] Start playback the selected title.
+
+3. Select a media that contains MP3/WMA or audio
+title then press ENTER.
+The [Music List] menu appears on the TV screen.
+
+
+
+[Random] Start or stop random playback.
+
+
+
+[Open] Opens the folder and a list of files in the
+folder appears
+
+
+
+[Delete] Deletes the file(s) from the media.
+
+
+
+[Rename] Edits the file name. (page 31)
+
+
+
+[Move] Moves the file(s) to another folder or
+media. (page 32)
+
+
+
+[Copy] Copies the file(s) to another folder or
+media. (page 32)
+
+4. Use v/V to select a track then press PLAY (N).
+Playback starts.
+You can use variable playback functions. Refer to
+pages 23-24.
+Tips:
+Press DISPLAY to view ID3-Tag information for
+the MP3 file. If ID3-Tag information is not
+present, [ID3 Tag: Not Checked] will appear.
+If you select a folder, the number of subfolders
+and number of MP3/WMA files in the folder are
+displayed. Press DISPLAY again to remove the
+information screen.
+ If you want to move to the upper directory, use
+the v / V to highlight
+and press ENTER.
+ You also display HOME menu to select another
+media by pressing HOME.
+ To exit the menu screen, press HOME and
+select [TV DVD] or [TV HDD] option then press
+ENTER.
+
+
+Random
+1. Press v / V to select a file then press ENTER.
+The menu options appear.
+2. Press v / V to select [Random] option then press
+ENTER.
+The unit automatically begins random playback
+and “RANDOM” appears on the menu screen.
+3. To return to normal playback, select [Random]
+option again then press ENTER.
+Tip:
+By pressing SKIP > during Random playback, the
+unit selects another track and resumes Random
+playback.
+
+5. To stop playback at any time, press STOP (x).
+
+MP3/WMA audio file requirement
+Tip:
+You can create new folder. Select [New Album] option
+on the Music-HDD menu then press ENTER.
+“NONAME##” folder is created.
+
+File extensions
+“.mp3”, “.wma”.
+Sampling frequency:
+within 8 - 48 kHz (MP3), within 32 - 48kHz (WMA)
+Bit rate:
+within 8 - 320kbps (MP3), within 32 - 192kbps (WMA)
+CD-R Format:
+ISO 9660 and JOLIET.
+DVD±R/RW Format:
+ISO 9660 (UDF Bridge format)
+Maximum Files/Folder:
+Less than 2000
+
+28
+
+Viewing a JPEG File
+
+Photo List menu options
+
+The recorder can play JPEG files. Before playing
+JPEG recordings, read “Photo file requirement” on
+right.
+
+1. Press v / V to select a file on the [Photo List]
+menu then press ENTER.
+The menu options appear.
+The menu options displayed differ depending on
+the selected media.
+You can select all files and folders on the menu by
+pressing CLEAR button. To cancel the selections,
+press CLEAR again.
+
+1. Press HOME.
+The HOME menu appears.
+2. Select [PHOTO] option.
+3. Select a media that contains JPEG file then press
+ENTER.
+The [Photo List] menu appears on the TV screen.
+
+Selecting multiple files (folders)
+1. Press MARKER.
+A check mark appears on the file or folder.
+Press MARKER again to cancel the marked file
+or folder.
+2. Repeat step 1 to mark additional file (folders).
+
+4. Use b / B / v / V to select a file, then press
+ENTER.
+The menu options appear on the left side of the
+menu.
+Tips:
+ If you want to move to the upper directory, use the
+b / B / v / V to highlight
+and press ENTER.
+ You can also display HOME menu to select another
+media by pressing HOME.
+5. Use v / V to select [Full Screen] then press
+ENTER.
+The selected image is displayed in full screen.
+Depending upon the size and number of JPEG
+files, it could take a long time for the recorder to
+read the files.
+
+
+
+[Open] Opens the folder and a list of files in the
+folder appears
+
+
+
+[Full Screen] Shows the selected file as full
+screen.
+
+
+
+[Delete] Deletes the selected file from the media.
+
+
+
+[Slide Show] Displays Slide Show menu.
+
+
+
+[Rename] Edits the file name. (page 31)
+
+
+
+[Move] Moves the file(s) to another folder
+(album) or media. (page 32)
+
+
+
+[Copy] Copies the file(s) to another folder or
+media. (page 32)
+
+Playback
+
+2. Use v / V to select an option then press ENTER
+to confirm your selection.
+
+Tip:
+You can create new folder in the HDD .
+Select [New Album] option then press ENTER.
+“NONAME##” folder is created.
+
+Photo file requirement
+File extensions
+“.jpg”
+Photo size:
+Less than 4MB recommended
+CD-R Format:
+ISO 9660 and JOLIET.
+Press ENTER to appear or
+disappear this menu during viewing
+the full screen.
+6. To stop viewing at any time, press STOP (x).
+The [Photo List] menu appears.
+ To exit the menu screen, press HOME and
+select [TV DVD] or [TV HDD] option then press
+ENTER.
+
+DVD±R/RW Format:
+ISO 9660 (UDF Bridge format)
+Maximum Files/Folder:
+Less than 2000
+Notes on JPEG file
+ Progressive and lossless compression JPEG
+image files are not supported.
+ Depending on the size and number of the JPEG
+files, it may take several minutes to read the
+contents of the media.
+
+29
+
+Skip Images
+While viewing a picture, press SKIP (.or >)
+once to advance to the next file or return to the
+previous file.
+
+Rotate Images
+Use v / V while viewing a picture to flip the picture
+clockwise or counterclockwise.
+
+View Slide Shows
+1. Select [Slide Show] option on the [Photo List] menu
+(Refer to “Photo List menu options” on page 29).
+2. Press ENTER.
+The Slide Show menu appears.
+
+3. Use b / B / v / V to set the options.
+[Object] option:
+ [Selected] Views slide show only selected files.
+Use the MARKER button to select multiple files.
+
+
+[All] Views slide show all files.
+
+[Speed] option:
+Sets the Slide Show speed to [Slow], [Normal], or
+[Fast].
+4. Select the [Start] option then press ENTER to start
+the Slide Show.
+5. Press STOP (x) to stop the Slide Show and
+returns to the [Photo List] menu.
+To Pause the Slide Show
+1. Press PAUSE/STEP (X) to pause slide show.
+2. When you want to continue slide show, press
+PLAY (N).
+
+30
+
+Editing a MP3/WMA, JPEG, DivX
+file
+These descriptions are MP3 file’s operation for
+example, other kind’s files are operated same way.
+
+Erasing a file(s)/folder(s) from the HDD
+You can erase MP3/WMA, JPEG or DivX file(s)/
+folder(s) on the HDD.
+
+Naming a file on the HDD
+You can name MP3/WMA files on the HDD
+independently. Names can be up to 32 characters
+long.
+1. Select a file you wish to rename on the menu.
+2. Press ENTER.
+The menu options appear on the menu.
+3. Select [Edit] option then press ENTER.
+Edit options appears.
+
+1. Select a file you wish to erase on the menu.
+You can select all files and folders on the menu by
+pressing CLEAR button. To cancel the selections,
+press CLEAR again.
+
+Selecting multiple files (folders)
+
+Playback
+
+1. Press MARKER.
+A check mark appears on the file or folder.
+Press MARKER again to cancel the marked file
+or folder.
+2. Repeat step 1 to mark additional file (folders).
+2. Press ENTER.
+The menu options appear on the menu.
+
+4. Select [Rename] option then press ENTER.
+Keyboard menu appears.
+To enter characters, see page 42.
+
+3. Select [Delete] option then press ENTER.
+The confirm message for deleting will appear.
+Use b / B to select [OK] then press ENTER.
+The selected file(s) is deleted.
+
+31
+
+Copying a file(s) to the HDD
+You can copy a file(s)/folder(s) to the HDD.
+1. Select a file you wish to copy on the menu.
+You can select all files and folders on the menu by
+pressing CLEAR button. To cancel the selections,
+press CLEAR again.
+
+Selecting multiple files (folders)
+1. Press MARKER.
+A check mark appears on the file or folder.
+Press MARKER again to cancel the marked file
+or folder.
+
+Moving a file(s) to the other folder on the
+HDD
+You can move a file(s)/folder(s) to the other folder on
+the HDD. After moving, the file(s)/folder(s) are deleted
+from the current location.
+1. Follow steps 1-3 as shown left.
+2. Select [Move] option then press ENTER.
+Move menu will appear.
+
+2. Repeat step 1 to mark additional file (folders).
+2. Press ENTER.
+The menu options appear on the menu.
+3. Select [Edit] option then press ENTER.
+Edit options appears.
+4. Select [Copy] option then press ENTER.
+Copy menu appears.
+
+3. You can select a album (folder) to move.
+1. After selecting a media then press ENTER.
+The album (folder) list appears.
+2. Select a folder.
+Also, you can create new album (folder). Select
+[New Album] option on the Move menu then
+press ENTER.
+“NONAME##” folder is created.
+4. Select [Move] option then press ENTER to begin
+moving.
+
+5. You can select a album (folder) to copy.
+1. After selecting a media then press ENTER.
+The album (folder) list appears.
+2. Select a folder.
+Also, you can create new album (folder). Select
+[New Album] option on the Copy menu then
+press ENTER.
+“NONAME##” folder is created.
+6. Select [Copy] option then press ENTER to begin
+copying.
+
+Notes:
+• If a folder’s depth is more than 5 level, the copy is
+not available.
+• If a file size is more than 2GB, the copy is not
+available.
+
+32
+
+Note:
+If a file size is more than 2GB, the move is not
+available.
+
+About DVD recording
+Notes:
+ This recorder cannot make recordings on CD-R or
+CD-RW discs.
+ Our company takes no responsibility for recording
+failure due to power outages, defective discs, or
+damage to the Recorder.
+ Fingerprints and small scratches on a disc can
+affect playback and/or recording performance.
+Please take proper care of your discs.
+
+Notes:
+ The maximum number of titles that can be recorded
+on the HDD is 255.
+ Using the HDD allows you to record a maximum of
+10 hours continuously.
+
+Notes for recording
+
+
+
+
+
+
+Disc types and recording formats, modes,
+and settings
+This recorder can play various kinds of DVD discs:
+pre-recorded DVD-Video discs, DVD-RW,
+DVD-R, DVD+RW and DVD+R discs. The disc format
+for DVD-R, DVD+R, DVD+RW discs is always “Video
+format”—the same as pre-recorded DVD-Video discs.
+This means that once finalized, you can play a
+DVD-R, DVD+R, or DVD+RW in a regular DVD
+player.
+By default, the DVD-RW disc format is Video format,
+though you can change this to Video Recording (VR)
+format, if required. (Reinitializing the disc will erase
+the contents of the disc.)
+The recording mode is closely related to the disc
+format. If the disc format is Video Recording format,
+then the recording mode is VR mode; if the disc
+format is Video mode, then the recording mode is
+Video mode (except for DVD-Video, which is not
+recordable, and so does not have a recording mode).
+Within the recording modes (which are fixed for them
+whole disc) are the record settings. These can be
+changed as required for each recording and
+determine the picture quality and how much space the
+recording will take up on the disc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About HDD recording
+Recording to the internal hard disk drive (HDD) is
+basically similar to recording to a VR mode DVD-RW
+disc. You have the full choice of recording quality
+options, including the manual mode, and of course
+you can record, erase and re-record as many times as
+you like. The capacity of the hard disk drive means
+that you can store many hours of video on it, even in
+the higher quality recording modes. To help you
+organize the contents, the HDD is divided into ten
+genre. You can name and use these genres as you
+like—for example, you might have a genre for movies,
+another for TV shows, and one for camcorder
+recordings.
+
+
+
+The recording times shown are not exact because
+the recorder uses variable bit-rate video
+compression. This means that the exact recording
+time will depend on the material being recorded.
+When recording a TV broadcast, if the reception is
+poor or the picture contains interference, the
+recording times may be shorter.
+If you record still pictures or audio only, the
+recording time may be longer.
+The displayed times for recording and time
+remaining may not always add up to exactly the
+length of the disc.
+The recording time available may decrease if you
+heavily edit a disc.
+If using a DVD-RW disc, make sure you change the
+recording format (Video mode or VR mode) before
+you record anything on the disc. See page 20 (Disc
+Format) for how to do this.
+When using a DVD-R or DVD+R disc, you can keep
+recording until the disc is full, or until you finalize the
+disc. Before you start a recording session, check
+the amount of recording time left on the disc.
+When using a DVD-RW disc in Video mode,
+recording time available will only increase if you
+erase the last title recorded on the disc.
+The Delete Title option in the Title List (Original)
+menu only hides the title, it does not actually erase
+the title from the disc and increase the recording
+time available (except for the last recorded title on a
+DVD-RW disc in Video mode).
+When using a DVD+R/RW, the recorder will execute
+the Menu-making operation to update the new title
+and editing when removing the disc from the recorder
+or turn off the recorder. So you must remove the disc
+after selecting the recorder’s operation mode to DVD
+mode.
+This unit can record TV program to HDD only. If you
+try to record TV program in DVD mode, the unit
+automatically change the mode to HDD then start
+recording.
+
+Recording
+
+Recording
+
+33
+
+Timeshift
+
+HDD
+Do not miss a scene from a live broadcast. If the
+telephone rings while you are watching your favorite
+live broadcast, just press “TIMESHIFT” and “PAUSE”
+before answering the phone. The timeshift function will
+be activated and the broadcast is then recorded for
+later viewing.
+After the phone call or viewing interruption, press
+“PLAY” or “SCAN” to watch the program.
+Press “STOP” to return to the live broadcast.
+
+Timeshift (Pause, Live TV/Playback)
+Operation HDD
+You can store a program in the HDD storage cache
+temporarily.
+Press TIMESHIFT while watching a TV program.
+The Progress Bar display appears on the screen as
+shown below. The Progress Bar changes to timeshift
+icon after 10 seconds.
+1
+
+3
+
+2
+
+4
+
+5
+
+Marker Search in Timeshift mode
+You can mark one in Timeshift mode. Press MARKER
+at the desired point during Timeshift.
+Press SEARCH to recall the marked scene.
+
+Clip Record HDD
+You can edit during Timeshift to store the program on
+the HDD (Hard Disk Drive).
+1. During Timeshift, use pause step, search and
+slow-motion to find the starting point.
+2. Press z REC at the starting point of the section
+you want to record.
+Progress of the edit is indicated in red on the
+Progress Bar.
+
+3. Use pause step, search and slow-motion to find
+the ending point.
+4. Press z REC at the ending point of the section
+you want to stop recording.
+Normal playback continues.
+5. Repeat steps 1 and 4 to make several Clip
+Records of a program.
+
+1. Indicates playback mode.
+2. Indicates current Timeshift position.
+3. Indicates Timeshift start time.
+4. Indicates Timeshift elapsed time.
+5. Indicates the time that is one hour from Timeshift
+start time.
+Tips:
+ You can use trick play functions (Slow, Scan, etc.)
+during timeshift. Refer to Playback Operation on
+pages 23-26.
+ You can edit the cached clip during Timeshift to
+retain the program on the HDD. Refer to Clip
+Record on the right.
+Notes:
+ If there is no free space on the HDD, the oldest
+timeshift section of the cache will be incrementally
+deleted.
+ If no button is pressed for 10 hours, the Timeshift
+will stop automatically.
+ If the TimeShift option in the Setup menu is set to
+[ON], the unit will starts this function automatically
+without pressing the TIMESHIFT button.
+ If the HDD space is not sufficient while operating
+TimeShift function, it will be stopped automatically.
+Ensure the sufficient HDD space before using
+TimeShift function.
+
+34
+
+6. Press STOP (x) to stop Timeshift.
+Confirm message will appear.
+7. Use b / B to select [OK] then press ENTER. Or,
+press STOP(x) again.
+The current broadcast is displayed on the screen.
+Notes:
+Selected sections are recorded on the HDD.
+ If you want to stop Clip recording, press the STOP
+button. If you press POWER to stop Clip recording,
+the program may not be recorded on the HDD.
+ Clip records cannot be made for sections lasting
+less than 5 seconds.
+
+
+Jump to Start or End during Timeshift
+1. Press ENTER during timeshift. The menu will
+appear.
+2. Press b and playback starts from the very
+beginning of the timeshift.
+Press B and jumps to the very end of the timeshift
+then goes to pause mode.
+
+To Exit the Timeshift
+1. Press STOP to exit Timeshift function.
+Confirm message will appear.
+2. Use b / B to select [OK] then press ENTER.
+The current broadcast is displayed on the screen.
+
+Basic Recording from a TV
+
+HDD
+
+Instant Timer Recording
+
+HDD
+
+Follow the instructions below to record a TV program.
+Recording starts immediately and continues until the
+disc is full or you stop the recording.
+
+Instant Timer Recording allows you to make a
+recording easily of a preset length without using the
+program timer.
+
+Note:
+This unit can record only a mono audio content from
+the built-in tuner system.
+
+1. Follow steps 1-2 as shown left (Basic Recording
+from a TV).
+
+1. Set a recording mode as necessary by pressing
+REC MODE repeatedly. (XP, SP, LP, EP or MLP)
+
+2. Press z REC repeatedly to select the recording
+time length.
+
+2. Use PR/CH (+/-) buttons to select the TV channel
+to record.
+
+
+
+
+Recording continues until you press STOP (x)
+or the HDD is full.
+To record for a fixed length of time, see Instant
+Timer Recording on right.
+
+4. Press STOP (x) to stop recording.
+
+To Pause the Recording
+1. Press PAUSE/STEP (X) to pause recording.
+2. When you want to continue recording, press
+PAUSE/STEP (X).
+
+To record one TV program while
+watching another
+1. Press TV/DVD to select the TV mode during
+recording. The TV indicator appears.
+2. Using the TV, select the channel to be viewed.
+
+Recording starts after the first press. Each
+subsequent press increases the recording time
+within free space (maximum 240 minutes).
+The recording time is displayed on the TV screen.
+At the end of the recording, the recorder will stop
+recording and shut off.
+
+Checking the Recording Time
+Press z REC once to check the recording time. The
+recalled setting will automatically return to the TV
+screen for a moment.
+Also, remaining time of recording is shown in the
+display window.
+
+Recording
+
+3. Press z REC once.
+Recording will start. (The REC indicator lights in
+the display window.)
+
+To Extend the Recording Time
+The recording time can be extended anytime by
+pressing z REC.
+Each subsequent press increases the recording time
+within free space (maximum 240 minutes).
+Caution
+If the recorder is unplugged (or there is a power
+failure) while the recorder is recording, the recording
+will be lost.
+
+35
+
+Timer Recording
+
+HDD
+This recorder can be programmed to record up to 16
+programs within a period of 1 month. For unattended
+recording, the timer needs to know the channels to be
+recorded, the starting and ending time.
+1. Select [Timer Record] option in the [HOME] menu.
+The [Timer Record List] menu will appear.
+
+Notes:
+The timer indicator lights in the display window
+when the recorder is in standby with the timer
+active. (Nothing is displayed while the [Power Save
+Mode] is ON.)
+ You can stop a timer recording in progress.
+Press STOP and the confirm message will appear.
+Press ENTER to stop the recording or
+press RETURN (O) to continue the recording.
+
+
+2. Use v / V to select the [NEW] then press ENTER.
+The [Timer Record] menu will appear.
+
+Checking Timer Recording
+Details
+Programming can be checked whenever the recorder
+is turned on.
+
+
+
+[Media] The media option is not selectable.
+
+
+
+[PR] Choose a memorized program number, or
+one of the external inputs from which to record.
+
+
+
+[Date] Choose a date up to 1 month in advance
+or desired repeat (Monday ~ Friday, or Every
+Sun~Sat).
+
+
+
+
+
+[Start Time] Set the start time.
+
+
+
+
+
+[End Time] Set the end time.
+
+
+
+[Mode] Choose a record mode (XP, SP, LP, EP,
+MLP or AT).
+AT (Auto) mode determines how much disc time
+is available and switches record mode, if
+necessary, to complete recording the program.
+
+Select [Timer Record] option in the [HOME] menu.
+The [Timer Record List] menu will appear.
+
+
+
+
+Use v / V to select a timer recording.
+Press ENTER to edit the selected program.
+Timer Record menu appears.
+Press CLEAR to delete the selected program
+from the Timer Record List.
+If you select [NEW] then press ENTER, you can
+program a new timer record.
+
+3. Enter the necessary information for your timer
+recording(s).
+
+
+
+
+
+
+b / B (left/right) – move the cursor left/right
+v / V (up/down) – change the setting at the
+current cursor position
+Press RETURN (O) to exit the Timer Record
+menu.
+Press ENTER after filling in all the program
+information.
+Select [Timer Record] option in the [HOME]
+menu to display Timer Record List.
+
+4. Press ENTER, the program will be memorized by
+the recorder.
+To check the programming, the Timer Record List
+will appear.
+Check field’s “Rec. OK” on the Timer Record List
+indicates that the timer recording is programmed
+correctly.
+5. Press RETURN (O) to exit the Timer Record List.
+6. Make sure that you press POWER to switch your
+unit to Standby.
+
+36
+
+Canceling a Timer Recording
+You can clear a timer setting anytime before the
+recording actually starts.
+ Use v / V to select a program you want to erase on
+the Timer Recorder List.
+Press CLEAR and the confirm message will appear.
+Press ENTER while the [OK] is selected to erase
+the recording.
+
+Stopping a Timer Recording in Progress
+After a timer recording has started, you can still
+cancel the program.
+ You can stop a timer recording in progress.
+Press STOP and the confirm message will appear.
+Press ENTER to stop the recording or
+press RETURN (O) to continue the recording.
+
+4. Press z REC once.
+Recording will start. (The REC indicator lights in
+the display window.)
+
+
+
+Recording continues until you press STOP (x)
+or the HDD is full.
+To record for a fixed length of time, see “Instant
+Timer Recording” on page 35.
+
+5. Press STOP (x) to stop recording.
+Even though the timer is set, the recorder will not
+record when:
+ There is no free space on the HDD.
+ Power is turned on.
+ There are already 255 titles recorded on the HDD.
+You cannot enter a timer program when:
+ A recording is already underway.
+ The time you’re trying to set has already passed.
+ There are already 16 timer programs set.
+If two or more timer programs overlap:
+
+
+
+
+The earlier program takes priority.
+When the earlier program finishes, the later
+program starts.
+If two programs are set to start at exactly the same
+time, the program entered first takes priority.
+
+Recording from an External
+Input HDD
+Recording from External Components
+You can record from an external component, such as
+a camcorder or VCR, connected to any of the
+recorder’s external inputs.
+
+Note:
+If your source is copy-protected using CopyGuard,
+you will not be able to record it using this recorder.
+See Copyright on page 46 for more details.
+
+Simultaneous recording and
+playback
+Playback another title during recording
+While the recording is in progress, you can playback a
+source from other media at the same time.
+1. Start recording.
+2. Press HOME to display the Home Menu screen.
+3. Use the v / V / b / B and ENTER buttons to
+select a media type that you want to play.
+
+Recording
+
+Timer Recording Troubleshooting
+
+4. Start Playback.
+The recording will continue while playing the
+media from the other mode.
+Notes:
+ You cannot use simultaneous playback and
+recording while copying, dubbing or timer
+recording.
+ You cannot edit programs during simultaneous
+recording and playback.
+
+Time Slip HDD
+1. Make sure that the component you want to record
+from is connected properly to the recorder. See
+page 13-14.
+2. Press AV/INPUT repeatedly to select the external
+input to record from.
+
+
+
+
+
+Tuner: Built-in tuner
+AV1: AV1 scart jack mounted on back panel
+AV2: AV2 DECODER scart jack mounted on
+back panel
+AV3: AV IN 3 (VIDEO, AUDIO (L/R)) mounted on
+front panel
+
+3. Select the recording mode as necessary by
+pressing REC MODE repeatedly. (XP, SP, LP, EP
+or MLP)
+
+You can play back the currently recording title.
+1. Start HDD recording.
+2. Press PLAY (N).
+The playback starts and the recording will continue
+while playing back.
+ You can use PAUSE (X) and SCAN (m / M)
+buttons for pause, scan, slow-motion during
+playback.
+3. Press STOP (x).
+The playback will stop then returns to the current
+recording position.
+Note:
+Playback cannot be started until 3 seconds after
+recording starts.
+
+37
+
+Editing
+
+12 3
+
+4 5
+
+6 7
+
+Title List and Chapter List Menu
+Overview
+Using the Title List menu you can edit video content.
+The editing features available in the Title List menu
+depend on whether you are editing video on DVD, or
+the HDD, and whether you’re editing Original content,
+or a Playlist.
+There are two ways to edit VR mode DVD-RW discs.
+You can directly edit the Original content of the disc,
+or you can create and edit a Playlist. The Playlist
+doesn’t actually change any of the content on the
+disc, but just controls how the content is played back.
+Editing material recorded on the HDD is similar to
+editing the Original content of a VR mode DVD-RW,
+with similar commands for erasing and naming titles,
+as well as fine control over the content of chapters
+within titles for DVD disc.
+Note:
+During recording, if you display the Title List menu for
+the HDD, some of the titles may appear with a mark.
+These titles were recorded with a Line Input setting
+different to the current setting of the recorder.
+During recording, these titles cannot be played.
+1. Press MENU/LIST to display the Title List menu.
+Playback should be stopped when you do this.
+
+
+You can also access it using HOME menu,
+select [MOVIE] option then select [HDD] or
+[DVD] option and press ENTER.
+
+
+
+When selecting titles, use the v / V buttons to
+display the previous/next page if there are more
+than six titles.
+
+
+
+If you are editing a VR mode disc, press
+MENU/LIST to switch between Original and
+Playlist menu.
+
+On the left side of the screen are the menu options.
+The main part of the screen shows thumbnails of the
+titles (or chapter) on the DVD or HDD. You can
+change these thumbnails using the THUMBNAIL
+button—see Changing Title Thumbnails on page 39.
+Press DISPLAY to display the information of selected
+title on the Title List menu.
+After selecting a title or chapter on the Title List or
+Chapter List menu, then press ENTER. The menu
+options appears on the left side of the menu. Use
+v / V to select a option then press ENTER to confirm
+your selection.
+2. To exit the Title List menu, press RETURN (O)
+repeatedly.
+
+38
+
+1. Menu options: To display menu option, select a
+title or chapter then press ENTER. The options
+displayed differ depending on the disc type.
+
+
+[Combine] Combines two chapters into one (page 44).
+
+
+
+[Delete] Deletes the title or chapter. (page 41)
+
+
+
+[Delete Part] Deletes a part of the Title (page 41).
+
+
+
+[Divide] Divides a title into two (page 43).
+
+
+
+[Dubbing] Copies the title to another media. (page 47)
+
+
+
+[Full Play] Starts playback of the selected title
+including the hidden chapters.
+
+
+
+[Hide (Show)] Hides (or Shows) the selected title or
+chapter. (page 45)
+
+
+
+[Move] Moves a chapter on the Chapter List-Playlist
+menu to a position on the menu. (page 45)
+
+
+
+[Play] Start playback of the selected title or chapter.
+The hidden titles and chapters on the DVD+R/RW
+cannot be play back.
+
+
+
+[Playlist Add] Adds the title or chapter to the Playlist.
+(page 40)
+
+
+
+[Protect] Protects accidental recording, editing or
+deleting of the title. (page 45)
+
+
+
+[Rename (Title Name)] Edits the title name. (page 42)
+
+
+
+[Search]
+- [Chapter]; Displays Chapter List of the Title.
+- [Time]; Search time for you want start point
+of the title. (page 42)
+
+
+
+[Sort] Lists the programs on the Title List menu by
+Date, Title, or Category. (page 43)
+
+
+
+[Title] Displays Title List of the chapter.
+
+2. Indicates the record mode, free space, and
+elapsed time progress bar.
+3. Current media.
+4. Currently selected title.
+5. Thumbnail.
+6. Shows the selected title number and total number
+of titles.
+7. Shows the title name, recorded date, and
+recording length.
+
+Titles, Chapters and Parts
+Titles in the disc’s original content contain one or
+more chapters. When you insert a disc’s title into the
+Playlist, all the chapters within that title also appear. In
+other words, chapters in the Playlist behave exactly as
+chapters on a DVD-Video disc do. Parts are sections
+of Original or Playlist titles. From the Original and
+Playlist menu you can add or delete parts. Adding a
+chapter or title to the Playlist creates a new title made
+up of a section (ie., chapter) of an Original title.
+Deleting a part removes part of a title from the
+Original or Playlist menu.
+Caution
+ When editing using the Delete, Add and Move
+functions, the start and end frames may not be
+exactly as set in the start and end point display.
+ During Playlist playback, you may notice a
+momentary pause between edits. This is not a
+malfunction.
+
+Is editing a DVD like editing a video
+tape?
+No. When you edit a video tape you need one video
+deck to play the original tape and another to record
+the edits. With DVD, you edit by making a ‘Playlist’ of
+what to play and when to play it. On playback, the
+Recorder plays the disc according to the Playlist.
+
+Adding Chapter Markers
+HDD
+
+-RWVR
+
++RW
+
++R
+
+You can create chapters within a title by inserting
+chapter marks at the desired points.
+During playing back, at the point you want to start a
+new chapter, press CHP ADD.
+A chapter marker icon appears on the TV screen.
+Note:
+Chapter markers are inserted at regular intervals
+automatically. You can change this interval from the
+Initial Setup menu (see “Auto Chapter” on page 20).
+
+Changing the Title Thumbnails
+HDD
+
+-RWVR
+
++RW
+
++R
+
+Each title displayed in the Title List menu is
+represented by a thumbnail picture taken from the
+start of that title or chapter.
+If you prefer, select a different still picture from within
+a title.
+Press THUMBNAIL to make the currently displayed
+picture the one that appears in the Title List menu.
+The still picture that you choose appears in both the
+Original or Playlist menu.
+
+Editing
+
+HDD, VR Mode: Original and
+Playlist Editing
+
+About word ‘Original’ and ‘Playlist’ -RWVR
+Throughout this manual, you will often see the words
+Original and Playlist to refer to the actual content and
+the edited version.
+ Original: content refers to what’s actually recorded
+on the disc.
+ Playlist: content refers to the edited version of the
+disc — how the Original content is to be played.
+
+39
+
+Making a New Playlist
+
+-RWVR
+
+Use this function to add an Original title or chapter to
+the Playlist. When you do this, the whole title or
+chapter are put into the Playlist (you can delete bits
+you don’t need later — see Deleting an Original or
+Playlist title/chapter on page 41).
+The title appears in the Playlist complete with the
+chapter markers that appear in the Original. However,
+if you add more chapter markers to the Original later,
+these are not automatically copied over into the
+Playlist title.
+
+Adding Additional Title/Chapters
+to the Playlist -RWVR
+You can add an Original title or chapter to add to a
+Playlist title even if it is already registered.
+1. Choose a title or chapter on the Title List-Original
+menu or Chapter List-Original menu to put into the
+Playlist, then press ENTER.
+The menu options appears on the left side of the
+screen.
+
+You can add up to 999 chapters to one disc .
+1. Choose a title or chapter on the Title List-Original
+menu or Chapter List-Original menu to put into the
+Playlist, then press ENTER.
+The menu options appears on the left side of the
+menu.
+2. Use v / V to select [Playlist Add] from menu
+options then press ENTER.
+
+2. Use v / V to select [Playlist Add] option then press
+ENTER.
+
+3. Choose a Title List-Playlist that is already
+registered to insert a title or chapter, then press
+ENTER.
+4. Repeat steps 1-3 to add additional title or chapter
+on the Playlist.
+You can view the added chapters on the Chapter
+List-Playlist menu.
+3. Select [New Playlist] then press ENTER.
+The new title appears in the updated Playlist. All
+chapters of the title are added to the Playlist.
+
+5. Press RETURN (O) to exit, or MENU/LIST to go
+back to the Title List-Original menu.
+
+40
+
+Deleting an Original or Playlist
+Title/Chapter
+When you erase a title or chapter from the Playlist
+menu, you only remove it from the Playlist; the
+title/chapter remains in the Original menu.
+If you choose to delete a title or chapter from the
+Original (title/chapter) menu, the title or chapter is
+actually deleted from the disc and the remaining time
+available for recording increases. Titles/chapters deleted
+from the Original are also removed from the Playlist.
+
+Deleting a Part
+
+HDD
+
+-RWVR
+
+You can delete a part which you do not want in the
+title.
+1. Use b / B / v / V to choose a title you want to
+delete on the Title List menu then press ENTER.
+The options appears on the left side of the menu.
+2. Select [Delete Part] in the [Edit] option then press
+ENTER. Edit (Delete Part) menu appears on the
+TV screen. [Start Point] icon is highlighted.
+Example: Edit (Delete Part) (HDD)
+
+Note:
+It may not be possible to delete chapters that are less
+than 5 seconds long.
+1. Use b / B / v / V to choose a chapter or title you
+want to delete on the Title List or Chapter List
+menu then press ENTER.
+The menu options appears on the left side of the
+screen.
+1. Press MARKER.
+A check mark appears on the title.
+Press MARKER again to cancel the marked title.
+
+3. Use play, pause step, search and slow-motion to
+find the starting point.
+
+2. Repeat step 1 to mark additional title.
+You can add the titles up to 10 titles.
+
+4. Press ENTER at the starting point of the section
+you want to delete.
+‘End Point’ icon is highlighted.
+The part is indicated on the Progress Bar.
+
+2. Select [Delete] option from the options on the
+menu.
+
+5. Use play, pause step, search and slow-motion to
+find the ending point.
+
+Example: Title List (HDD)
+
+6. Press ENTER at the ending point of the section
+you want to delete.
+You can cancel the selected point, use v / V to
+select [Cancel] icon then press ENTER.
+
+Editing
+
+Selecting multiple titles on HDD
+
+Tip:
+With HDD recordings, you can delete additional part.
+Select [Next Part] icon on the menu then press
+ENTER, then repeat steps 3-6.
+
+3. Press ENTER to confirm.
+The confirm message for deleting will appear.
+4. Use b / B to select [OK] then press ENTER.
+The selected chapter or title is deleted.
+After pressing ENTER, the new, updated menu is
+displayed.
+5. Repeat steps 1 - 4 to continue to delete from the
+menu.
+6. Press RETURN (O) repeatedly to exit the menu.
+
+7. If you finish to edit, select [Done] icon then press
+ENTER.
+The confirm message for deleting will appear.
+Use b / B to select [OK] then press ENTER.
+The selected part is deleted from the title and Title
+List menu appears.
+Note:
+This function is not available for the titles that are less
+than 3 seconds long.
+
+Notes:
+When DVD+RW recording, the deleted title’s name
+is changed to ‘Deleted Title’.
+ If more than two titles are repeatedly deleted, the
+titles are combined into one.
+ When you are deleting a title or chapter, only the last
+one on DVD+RW increases remaining recording time.
+
+
+41
+
+Naming a Title
+
+4. Choose OK then press ENTER to fix the name
+and return to the previous menu screen.
+
+You can name the titles. The names can be up to 32
+characters long.
+
+5. Press RETURN (O) repeatedly to exit the menu.
+
+1. Choose the title you want to name on the Title List
+menu, then press ENTER.
+The menu options appears on the left side of the
+menu.
+2. Use v/V to select [Rename] or [Title Name] option
+then press ENTER.
+Keyboard menu appears.
+
+Notes:
+ Names can be up to 32 characters long.
+ For discs formatted on a different recorder, you will
+see only a limited character set.
+ When recording on DVD-R, DVD+R or DVD+RW
+discs, the entered name is displayed on the DVD
+player only after finalization.
+
+Time Search
++RW
+
+-R
+
+HDD
+
+-RWVR
+
+-RWVideo
+
++R
+
+You can select start point of the title.
+1. Use b / B / v / V to choose a title on the Title List
+menu then press ENTER.
+The options appears on the left side of the menu.
+3. Enter a name for the title. Use b / B / v / V to
+select a character then press ENTER to confirm
+your selection.
+
+
+
+
+
+
+
+Use MENU/LIST button to change keyboard
+type.
+OK: Select to finish.
+Cancel: Cancels all entered characters.
+Space: Inserts a space at the cursor position.
+Delete: Deletes the previous character at the
+cursor position.
+b / B: Moves cursor to left or right.
+
+2. Select [Time] option then press ENTER.
+[Search] menu appears on the TV screen.
+Example: Title List (HDD)
+
+Tip:
+Remote control buttons for entering a name
+PLAY (N): Inserts a space at the cursor position.
+X (PAUSE/STEP): Deletes the after character at
+the cursor position.
+x (STOP), CLEAR: Deletes the previous
+character at the cursor position.
+
+Current picture
+
+. / >: Moves cursor to left or right.
+Numbers (0-9): Enters the corresponding
+character at the cursor position.
+
+End time
+
+Tip:
+You can add the genre for HDD title name.
+If you set the genre for the title, you can easily find
+the title on the relevant genre folder of HDD title
+list menu.
+
+Start time
+
+Selected time
+Selected point
+
+3. Use b / B to find the point you want to start.
+The point increase 1 minute step.
+If you press and hold b / B then the point increase
+5 minute step.
+4. Press ENTER to start selected point.
+
+42
+
+Sorting the Title List
+
+HDD
+
+This function allows you to access show listings
+organized by Date, Title, or Category on the Title ListHDD menu. So you can find title you want to watch
+easily.
+1. Choose any title on the Title List-HDD menu, then
+press ENTER.
+The menu options appears on the left side of the
+menu.
+
+Divide One Title Into Two
++RW
+Use this command to split a title up into two new titles.
+1. On the Title List menu, select a title you want to
+divide then press ENTER.
+The menu options appears on the left side of the
+screen.
+2. Select [Divide] option.
+
+2. Use v/V to select [Sort] option then press ENTER.
+Sort options appears.
+3. Use v/V to select [Date], [Title] or [Category]
+option then press ENTER.
+After pressing ENTER, the sorted menu is
+displayed.
+
+3. Press ENTER.
+Edit (Divide) menu appears. [Divide] option is
+highlighted.
+Current picture
+
+The first title’s
+thumbnail
+
+Editing
+
+The second title’s
+thumbnail
+
+4. Use play, pause step, search and slow-motion to
+find the point you want to divide the title.
+5. Select [Divide] option then press ENTER at the
+point.
+To reset the point, select [Cancel] option then
+press ENTER. Repeat from step 4.
+6. Choose [Done] option then press ENTER to fix the
+dividing point.
+The title is divided into two new titles. It take up to
+4 minutes to divide.
+Note:
+You cannot select dividing point less than 3 seconds.
+
+43
+
+Combining Two Chapters Into
+One HDD -RWVR +RW +R
+
+Additional functions for the
+recordable DVD discs
+
+Use this function to combine two adjacent chapters
+into one.
+
+Using the Title List menu, you can use the disc setting
+functions without entering the setup menu.
+
+1. On the Chapter List menu, select the second
+chapter of the two chapters you want to combine
+then press ENTER.
+The menu options appears on the left side of the
+screen.
+
+1. On the DVD Title List menu, use b / B / v / V to
+select the [Disc] option then press ENTER.
+
+2. Use v / V to select [Combine] option.
+The combine indicator appears between the two
+chapters you want to combine.
+Example: Chapter List (HDD)
+2. Use v / V to select an option then press ENTER
+to confirm your selection.
+
+
+[Disc Format] Format the inserted disc.(page 21)
+
+
+
+[Finalize] Finalize the inserted disc.(page 21)
+
+
+
+[Unfinalize] Unfinalize the inserted disc.
+(page 21)
+
+
+
+[Disc Label] Use this to enter a name for the
+disc. This name appears when you load the disc
+and when you display disc information onscreen.(page 21)
+
+
+
+[Protect] Use this to prevent accidental
+recording, editing, deleting of the inserted
+disc.(page 21)
+
+
+
+[Unprotect] Release the protect function.
+
+3. Press ENTER.
+Notes:
+This function is not available when;
+ There is only one chapter whthin the title.
+ The first chapter is selected.
+ The chapters that you want to combine are created
+by deleting a part from an Original title.
+ The chapters that you want to combine are created
+from different titles.
+ One of the playlist chapter that you want to combine
+has been moved.
+
+44
+
+-RWVR
+
+Use this function to re-arrange the playing order of
+Playlist chapters on the Title List-Playlist menu.
+Note:
+This function is not available if there is only one
+chapter.
+1. Select a chapter on the Chapter List-Playlist menu.
+2. Press ENTER.
+The menu options appears on the left side of the
+menu.
+3. Use v / V to select [Move] option from Playlist
+options then press ENTER.
+
+4. Use b / B / v / V to choose the place you want to
+move the chapter to then press ENTER.
+After pressing ENTER, the updated menu is
+displayed.
+
+Hide a Chapter/Title
+
++RW
+
++R
+
+You can skip playing chapters or titles without deleting
+from the disc.
+
+Tip
+If you select a hidden chapter or title on the Title List
+or Chapter List menu, you can ‘show’ it by choosing
+[Show] option on the menu. After doing that, you are
+able to see the chapter or title.
+
+Protect a Title
+
++RW
+
++R
+
+-RWVR
+
+Use this function to protect against accidental
+recording, editing or deleting of the title.
+1. Press MENU/LIST to display the Title List menu.
+2. Use v V b B to choose a title you want to protect
+then press ENTER.
+Options appear on the left side of the screen.
+3. Select [Protect] from the options.
+
+4. Press ENTER to confirm.
+The lock mark will appears on the title’s thumbnail.
+Tip
+If you select a title that has already been protected on
+the Title List menu, you can ‘unprotect’ it by choosing
+[Unprotect] option from the Title List menu options.
+After doing that, you can edit and delete the title.
+
+Editing
+
+Moving a Playlist Chapter
+
+1. Use v V b B to choose a chapter or title you want
+to hide on the Title List or Chapter List menu, then
+press ENTER.
+Options appear on the left side of the screen.
+2. Select [Hide] option.
+Example: Title List (DVD+RW)
+
+3. Press ENTER to confirm.
+The chapter’s or title’s thumbnail will dim.
+
+45
+
+Corporation, and is intended for home and other
+limited viewing uses only, unless otherwise
+authorized by Macrovision corporation. Reverse
+engineering or disassembly is prohibited.
+
+Dubbing
+Before Dubbing
+Use the copying features of this recorder to:
+ Back up important recordings stored on the HDD to
+a DVD.
+ Make a DVD copy of a recording on the HDD to
+play in another player.
+ Transfer video from a DVD to the HDD for editing.
+ Transfer edited video from the HDD to DVD.
+The simplest method of copying is to use the One
+Touch Copy feature. Using this you can very simply
+copy the title that’s currently playing from HDD to
+DVD, or the other way around.
+Note:
+If the title’s length is less than 5 seconds, the dubbing
+is not available. (from HDD to DVD)
+
+Restrictions on copying
+Some video material is copy-once protected: Such
+material cannot be copied to HDD or DVD.
+You can identify copy-once protected material during
+playback by displaying disc information on-screen.
+
+
+
+NTSC format signals from the analog inputs is not
+recorded correctly with this recorder.
+Video signals in SECAM format (from the built-in TV
+tuner or from the analog inputs) are recorded in PAL
+format.
+
+What is ‘CPRM’?
+CPRM is a copy protection system (with scramble
+system) only allowing the recording of ‘copy once’
+broadcast programs. CPRM stands for Content
+Protection for Recordable Media.
+CPRM recordings can only be made on DVD-RW
+discs formatted in VR mode discs, and CPRM
+recordings can only be played on players that are
+specifically compatible with CPRM.
+
+Copyright
+
+46
+
+
+
+Recording equipment should be used only for lawful
+copying and you are advised to check carefully what
+is lawful copying in the area in which you are
+making a copy. Copying of copyright material such
+as films or music is unlawful unless permitted by a
+legal exception or consented to by the rights owner.
+
+
+
+This product incorporates copyright protection
+technology that is protected by method claims of
+certain U.S. patents and other intellectual property
+rights owned by Macrovision Corporation and other
+rights owners. Use of this copyright protection
+technology must be authorized by Macrovision
+
+
+
+CONSUMERS SHOULD NOTE THAT NOT ALL
+HIGH DEFINITION TELEVISION SETS ARE FULLY
+COMPATIBLE WITH THIS PRODUCT AND MAY
+CAUSE ARTIFACTS TO BE DISPLAYED IN THE
+PICTURE. IN CASE OF 625 PROGRESSIVE SCAN
+PICTURE PROBLEMS, IT IS RECOMMENDED
+THAT THE USER SWITCH THE CONNECTION TO
+THE ‘STANDARD DEFINITION’ OUTPUT. IF
+THERE ARE QUESTIONS REGARDING OUR TV
+SET COMPATIBILITY WITH THIS MODEL 625p
+HDD/DVD RECORDER, PLEASE CONTACT OUR
+CUSTOMER SERVICE CENTER.
+
+Fast copying (Maximum 4x)
+Copying between DVD and HDD is a completely
+digital process and therefore involves no loss of
+quality in the audio or video. This means that you can
+transfer back and forth without having to worry about
+the quality getting worse with each copy ‘generation’.
+It also means that copying can be carried out at the
+maximum speed possible.
+When copying from HDD to DVD, the speed of
+copying depends on the recording mode and the kind
+of DVD disc you’re using.
+Minimum fast copying times
+The table below shows the minimum HDD to DVD
+copying time for 2 hours of video recorded with SP
+mode.
+Disc
+Type
+
+Disc
+Speed
+
+Copying Time
+(Record Speed)
+
+DVD-R / DVD+R
+
+16x
+
+13.5 min. (4x)
+
+DVD-R / DVD+R / DVD+RW
+
+8x
+
+13.5 min. (4x)
+
+DVD-RW
+
+6x
+
+13.5 min. (4x)
+
+DVD-R / DVD+R
+DVD-RW / DVD+RW
+
+4x
+
+13.5 min. (4x)
+
+DVD+R / DVD+RW
+
+2.4x
+
+22 min. (2.4x)
+
+DVD-R / DVD-RW
+
+2x
+
+26.5 min. (2x)
+
+Notes:
+ All times in the above table are approximate.
+ Actual copy speed varies with the part of the disc
+being recorded.
+ There may be cases where even 4x/6x/8x/16x
+compatible discs do not copy at full speed.
+ Fast copying may not be possible when using disc
+initialized on another recorder.
+
+Dubbing from HDD to DVD
+
+Dubbing from DVD to HDD
+
+1. On the Title List-HDD menu, select a title you want
+to dub then press ENTER.
+
+1. On the Title List menu, select a title you want to
+dub then press ENTER.
+Menu options appears on the left side of the
+screen.
+
+Selecting multiple titles on HDD
+1. Press MARKER.
+A check mark appears on the title.
+Press MARKER again to cancel the marked
+title.
+2. Repeat step 1 to mark additional title.
+You can add the titles up to 10 titles.
+The menu options appears on the left side of the
+screen.
+
+2. Use v / V to select [Dubbing] option then press
+ENTER.
+Dubbing menu appears.
+
+2. Use v / V to select [Dubbing] option then press
+ENTER.
+Dubbing menu appears.
+
+3. Use b / B to select record mode (XP, SP, LP, EP,
+MLP, AUTO or Fast), then press V.
+‘Start’ icon is highlighted.
+Fast: Only available when copying VR mode disc
+to HDD. (See page 46 for more information on
+Fast copying.)
+4. When [Start] icon is highlighted, press ENTER.
+Dubbing starts.
+
+4. When [Start] icon is highlighted, press ENTER.
+Dubbing starts.
+
+5. To stop dubbing at any other time, press
+STOP (x).
+Notes:
+Depending on the conditions of the recording
+equipment or the disc itself, the dubbing may not be
+capable.
+
+
+
+
+
+Stopping dubbing in [Fast] mode partway through
+will cancel the recording and any data recorded up
+to that point will be lost.
+
+
+
+The recording time of [Fast] mode can take up to
+26.5 minutes.
+
+5. To stop dubbing at any other time, press
+STOP (x).
+Notes:
+The recording time of [Fast] mode could be varied
+depending on data size of source.
+
+
+
+
+
+Stopping dubbing in [Fast] mode partway through
+will cancel the recording and any data recorded up
+to that point will be lost.
+
+
+
+If the remaining space on the disc is insufficient, the
+[Fast] mode is not available.
+
+
+
+When you dub the title on the HDD to VR mode
+DVD-RW disc, the [Fast] mode is not available for
+edited HDD title.
+
+Dubbing
+
+3. Use b / B to select record mode (XP, SP, LP, EP,
+MLP, AUTO or Fast), then press V.
+‘Start’ icon is highlighted.
+Fast: See page 46 for more information on Fast
+copying.
+
+47
+
+One Touch Copy (HDD to DVD)
+The One Touch Copy feature copies the currently
+playing title from the HDD to DVD. The whole title is
+copied, regardless of where in the title you start
+copying. The copy will be made in the recording mode
+(XP, SP, LP, EP or MLP) that is currently set.
+For One Touch Copy to work, make sure that a
+recordable DVD disc is loaded.
+During HDD playback, press DUBBING to copy the
+current title to DVD.
+The on-screen display indicates that the title is being
+copied. Playback continues while copying.
+
+
+You cannot use the One Touch Copy function to
+copy a title if any part of the title is copy-once
+protected.
+
+One Touch Copy (DVD to HDD)
+One Touch Copy from DVD to HDD copies a single
+title to the HDD in real time. When you start copying,
+playback jumps back to the start of the title, then
+continues through to the end of the title, when
+recording automatically stops. The copy will be made
+in the recording mode (XP, SP, LP, EP or MLP) that is
+currently set.
+During DVD playback, press DUBBING to copy the
+current title to HDD.
+Playback starts again from the beginning of the
+current title. The on-screen display indicates that the
+title is being copied.
+
+Notes:
+ Video CD cannot be copied to HDD.
+
+
+The copying stops when then recorder detects a
+badly scratched or copy protected part.
+
+
+
+If some part of the title being copied is copyprotected, copying will start, but the copy-protected
+portions will not be copied.
+
+
+
+During Playlist title’s playback, One Touch Copy is
+not available.
+
+Tip:
+To stop dubbing at any other time, press STOP (x).
+
+48
+
+Reference
+
+Playing Your Recordings on Other DVD
+Players (Finalizing a Disc)
+
+Additional Information
+
+Most regular DVD players can play finalized discs
+recorded in Video mode, finalized DVD+R or
+DVD+RWs. A small number of players can also play
+DVD-RW discs recorded in VR mode, finalized or not.
+Check the manual that came with the other player to
+check what formats of discs it will play.
+
+Viewing Title List menu displayed on
+other DVD Recorders or Players
++RW
++R
+You can view the Title List menu displayed on the
+other DVD player that is capable of playing DVD+RW
+or DVD+R discs.
+1. Insert DVD+R or DVD+RW disc recorded already.
+2. Press TITLE in play or stop mode.
+Title List menu will appear as shown below.
+Tip
+You can remove the Title List menu by pressing
+STOP (x).
+
+Finalizing ‘fixes’ the recordings and editings in place
+so that the disc can be played on a regular DVD
+player or computer equipped with a suitable DVDROM drive.
+Finalizing a Video mode disc creates a menu screen
+for navigating the disc. The menu can be accessed by
+pressing MENU/LIST or TITLE.
+To finalize a disc, refer to “Finalize” on page 21.
+Notes:
+Unfinalized DVD+RW is playable on regular DVD
+players.
+ The edited contents of a DVD+RW disc is
+compatible on regular DVD players only after
+finalization.
+ Any edited contents of the DVD+R disc are not
+compatible on regular DVD players. (Hide, chapter
+combine, added chapter mark, etc.)
+ How long finalization takes depends on the type of
+disc, how much is recorded on the disc, and the
+number of titles on the disc.
+
+3. To play back a title, select the title you want then
+press ENTER or PLAY (N).
+
+Reference
+
+
+
+49
+
+Language Codes
+Use this list to input your desired language for the following initial settings:
+Disc Audio, Disc Subtitle, Disc Menu.
+Language
+Abkhazian
+Afar
+Afrikaans
+Albanian
+Ameharic
+Arabic
+Armenian
+Assamese
+Aymara
+Azerbaijani
+Bashkir
+Basque
+Bengali; Bangla
+Bhutani
+Bihari
+Breton
+Bulgarian
+Burmese
+Byelorussian
+Cambodian
+Catalan
+Chinese
+Corsican
+Croatian
+Czech
+Danish
+Dutch
+English
+Esperanto
+Estonian
+Faroese
+
+Code
+6566
+6565
+6570
+8381
+6577
+6582
+7289
+6583
+6588
+6590
+6665
+6985
+6678
+6890
+6672
+6682
+6671
+7789
+6669
+7577
+6765
+9072
+6779
+7282
+6783
+6865
+7876
+6978
+6979
+6984
+7079
+
+Language
+Fiji
+Finnish
+French
+Frisian
+Galician
+Georgian
+German
+Greek
+Greenlandic
+Guarani
+Gujarati
+Hausa
+Hebrew
+Hindi
+Hungarian
+Icelandic
+Indonesian
+Interlingua
+Irish
+Italian
+Japanese
+Javanese
+Kannada
+Kashmiri
+Kazakh
+Kirghiz
+Korean
+Kurdish
+Laothian
+Latin
+Latvian, Lettish
+
+Code
+7074
+7073
+7082
+7089
+7176
+7565
+6869
+6976
+7576
+7178
+7185
+7265
+7387
+7273
+7285
+7383
+7378
+7365
+7165
+7384
+7465
+7487
+7578
+7583
+7575
+7589
+7579
+7585
+7679
+7665
+7686
+
+Language
+Lingala
+Lithuanian
+Macedonian
+Malagasy
+Malay
+Malayalam
+Maltese
+Maori
+Marathi
+Moldavian
+Mongolian
+Nauru
+Nepali
+Norwegian
+Oriya
+Panjabi
+Pashto, Pushto
+Persian
+Polish
+Portuguese
+Quechua
+Rhaeto-Romance
+Rumanian
+Russian
+Samoan
+Sanskrit
+Scots Gaelic
+Serbian
+Serbo-Croatian
+Shona
+Sindhi
+
+Code
+7678
+7684
+7775
+7771
+7783
+7776
+7784
+7773
+7782
+7779
+7778
+7865
+7869
+7879
+7982
+8065
+8083
+7065
+8076
+8084
+8185
+8277
+8279
+8285
+8377
+8365
+7168
+8382
+8372
+8378
+8368
+
+Area
+Malaysia
+Maldives
+Mexico
+Monaco
+Mongolia
+Morocco
+Nepal
+Netherlands
+Netherlands Antilles
+New Zealand
+Nigeria
+Norway
+Oman
+Pakistan
+Panama
+Paraguay
+Philippines
+Poland
+Portugal
+Romania
+Russian Federation
+
+Code
+MY
+MV
+MX
+MC
+MN
+MA
+NP
+NL
+AN
+NZ
+NG
+NO
+OM
+PK
+PA
+PY
+PH
+PL
+PT
+RO
+RU
+
+Language
+Singhalese
+Slovak
+Slovenian
+Somali
+Spanish
+Sudanese
+Swahili
+Swedish
+Tagalog
+Tajik
+Tamil
+Tatar
+Telugu
+Thai
+Tibetan
+Tigrinya
+Tonga
+Turkish
+Turkmen
+Twi
+Ukrainian
+Urdu
+Uzbek
+Vietnamese
+Volapük
+Welsh
+Wolof
+Xhosa
+Yiddish
+Yoruba
+Zulu
+
+Code
+8373
+8375
+8376
+8379
+6983
+8385
+8387
+8386
+8476
+8471
+8465
+8484
+8469
+8472
+6679
+8473
+8479
+8482
+8475
+8487
+8575
+8582
+8590
+8673
+8679
+6789
+8779
+8872
+7473
+8979
+9085
+
+Area Codes
+Choose an area code from this list.
+Area
+Afghanistan
+Argentina
+Australia
+Austria
+Belgium
+Bhutan
+Bolivia
+Brazil
+Cambodia
+Canada
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Czech Republic
+Denmark
+Ecuador
+Egypt
+El Salvador
+
+50
+
+Code
+AF
+AR
+AU
+AT
+BE
+BT
+BO
+BR
+KH
+CA
+CL
+CN
+CO
+CG
+CR
+HR
+CZ
+DK
+EC
+EG
+SV
+
+Area
+Ethiopia
+Fiji
+Finland
+France
+Germany
+Great Britain
+Greece
+Greenland
+
+Code
+ET
+FJ
+FI
+FR
+DE
+GB
+GR
+GL
+Heard and McDonald Islands HM
+Hungary
+HU
+India
+IN
+Indonesia
+ID
+Israel
+IL
+Italy
+IT
+Jamaica
+JM
+Japan
+JP
+Kenya
+KE
+Kuwait
+KW
+Libya
+LY
+Luxembourg
+LU
+
+Area
+Saudi Arabia
+Senegal
+Singapore
+Slovak Republic
+Slovenia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Thailand
+Turkey
+Uganda
+Ukraine
+United States
+Uruguay
+Uzbekistan
+Vietnam
+Zimbabwe
+
+Code
+SA
+SN
+SG
+SK
+SI
+ZA
+KR
+ES
+LK
+SE
+CH
+TH
+TR
+UG
+UA
+US
+UY
+UZ
+VN
+ZW
+
+Controlling Your TV with the
+Supplied Remote Control
+You can control the sound level, input source, and
+power switch of your LG TV with the supplied remote.
+You can control your TV using the buttons below.
+
+Controlling other TVs with the remote
+You can control the sound level, input source, and
+power switch of non-LG TVs as well. If your TV is
+listed in the table below, set the appropriate
+manufacturer code.
+1. While holding down TV POWER button, press the
+number buttons to select the manufacturer code
+for your TV (see the table below).
+2. Release TV POWER button.
+
+Code numbers of controllable TVs
+If more than one code number is listed, try entering
+them one at a time until you find the one that works
+with your TV.
+
+By pressing
+
+You can
+
+POWER
+AV/INPUT
+
+Turn the TV on or off.
+Switch the TV’s input source
+between the TV and other input
+sources.
+
+PR/CH +/–
+
+Scans up or down through
+memorized channels.
+
+VOL +/–
+
+Adjust the volume of the TV.
+
+Manufacturer
+
+Code Number
+
+LG / GoldStar
+
+1 (Default), 2
+
+Zenith
+
+1, 3, 4
+
+Samsung
+
+6, 7
+
+Sony
+
+8, 9
+
+Hitachi
+
+4
+
+Notes:
+ Depending on your TV, some or all buttons may not
+function on the TV, even after entering the correct
+manufacturer code.
+ If you enter a new code number, the code number
+previously entered will be erased.
+ When you replace the batteries of the remote, the
+code number you have set may be reset to the
+default setting. Set the appropriate code number
+again.
+
+Reference
+
+TV Control
+Buttons
+
+51
+
+Troubleshooting
+Check the following guide for the possible cause of a problem before contacting service.
+Cause
+
+Symptom
+
+
+The power cord is disconnected.
+
+
+
+Plug the power cord into the wall
+outlet securely.
+
+No picture.
+
+
+
+TV/DVD mode for the recorder is set
+to TV.
+
+
+
+Press TV/DVD on the remote control
+repeatedly to choose DVD mode. TV
+indicator disappears in the display
+window.
+
+
+
+The TV is not set to receive recorder
+signal output.
+
+
+
+Select the appropriate video input mode
+on the TV so the picture from the
+recorder appears on the TV screen.
+
+
+
+The video cable is not connected
+securely.
+
+
+
+Connect the video cable securely.
+
+
+
+The connected TV power is turned off.
+
+
+
+Turn on the TV.
+
+
+
+The equipment connected with the
+audio cable is not set to receive
+recorder signal output.
+
+
+
+Select the correct input mode on the
+audio receiver so you can listen to the
+sound from the recorder.
+
+
+
+The audio cables are not connected
+securely.
+
+
+
+Connect the audio cable securely.
+
+
+
+The power of the equipment connected
+with the audio cable is turned off.
+
+
+
+Turn on the equipment connected
+with the audio cable.
+
+
+
+The audio connecting cord is damaged.
+
+
+
+Replace it with new one.
+
+The playback picture is
+poor.
+
+
+
+The disc is dirty.
+
+
+
+Clean the disc.
+
+The recorder does not
+start playback.
+
+
+
+No disc is inserted.
+
+
+
+Insert a disc. (Check that the disc
+indicator in the display window is lit.)
+
+
+
+An unplayable disc is inserted.
+
+
+
+Insert a playable disc. (Check the disc
+type, color system, and regional code.)
+
+
+
+The disc is placed upside down.
+
+
+
+
+
+The disc is not placed within the
+guide.
+
+
+
+Place the disc with the playback side
+down.
+Place the disc on the disc tray
+correctly inside the guide.
+
+
+
+The disc is dirty.
+
+
+
+Clean the disc.
+
+
+
+The Rating level is set.
+
+
+
+Cancel the Rating function or change
+the rating level.
+
+The picture from the
+external input is
+distorted
+
+
+
+The video signal from the external
+component is copy-protected.
+
+
+
+You cannot connect via this recorder.
+Connect the component directly to
+your TV.
+
+Some channels are
+skipped over when
+using PR/CH (+/-).
+
+
+
+Those channels are not stored in the
+recorder.
+
+
+
+Restore channels. See “Program Edit”
+on page 16.
+
+The picture or sound of
+broadcasting channel is
+weak or missing.
+
+
+
+Antenna or cables are loose.
+
+
+
+Tighten connections or replace cable.
+
+No sound.
+
+52
+
+Solution
+
+No power.
+
+Cause
+
+Cannot play a disc
+recorded using this
+recorder on another
+player.
+
+Cannot record or did
+not record successfully.
+
+Timer recording is not
+possible.
+
+The remote control
+does not work properly.
+
+
+
+The disc was recorded in Video mode.
+
+
+
+Finalize the disc. (page 21)
+
+
+
+Some players will not play even a
+finalized disc recorded in Video mode.
+
+
+
+No solution.
+
+
+
+The disc was recorded in VR mode,
+
+
+
+The other player must be RW
+compatible in order to play it.
+
+
+
+Discs recorded with copy-once material
+cannot be played on other players.
+
+
+
+No solution.
+
+
+
+The remaining blank space on the
+disc is insufficient.
+
+
+
+Use another disc.
+
+
+
+The source you are trying to record is
+copy protected.
+
+
+
+You cannot record the source.
+
+
+
+When setting the recording channel, the
+channel is tuned on the TV’s own tuner.
+
+
+
+Select the channel on the recorder’s
+built-in TV tuner.
+
+
+
+When recording to a Video mode disc,
+programs that are copy-once
+protected cannot be recorded.
+
+
+
+Use a VR mode formatted disc for
+copy-once material.
+
+
+
+Clock in recorder is not set to correct
+time.
+
+
+
+Set clock to correct time. See “Clock
+Set” on page 17.
+
+
+
+Timer has been programmed
+incorrectly.
+
+
+
+Reprogram Timer. See “Timer
+Recording” on page 36.
+
+
+
+Timer record indicator light does not
+appear after programming timer.
+
+
+
+Reprogram Timer.
+
+
+
+The remote control is not pointed at
+the remote sensor of the recorder.
+
+
+
+Point the remote control at the remote
+sensor of the recorder.
+
+
+
+The remote control is too far from the
+recorder.
+
+
+
+Operate the remote control within
+7 m.
+
+
+
+There is an obstacle in the path of the
+remote control and the recorder.
+
+
+
+Remove the obstacle.
+
+
+
+The batteries in the remote control
+are exhausted.
+
+
+
+Replace the batteries with new ones.
+
+Resetting the recorder
+If you observe any of the following symptoms...
+
+
+Solution
+
+...you can reset the recorder as follows:
+
+
+seconds. This will force the unit to power off then
+
+The unit is plugged in, but the power will not turn
+on or off.
+
+
+
+The front panel display is not working.
+
+
+
+The recorder is not operating normally.
+
+Press and hold the POWER button for at least five
+turn the unit back on.
+
+
+
+Unplug the power cord, wait at least five seconds,
+and then plug it in again.
+
+Reference
+
+Symptom
+
+53
+
+Specifications
+General
+Power requirements
+Power consumption
+Dimensions (approx.)
+Net weight (approx.)
+Operating temperature
+Operating humidity
+Television system
+Recording format
+
+AC 200-240V, 50/60 Hz
+30W
+430 X 54 X 285 mm (w x h x d) without foot
+3.5 kg
+5˚C to 35˚C
+5 % to 90 %
+PAL I, B/G, I/I, SECAM D/K, K1 color system
+PAL
+
+Recording
+Recording format
+Recordable media
+Recordable time
+
+Video recording format
+Sampling frequency
+Compression format
+Audio recording format
+Sampling frequency
+Compression format
+
+DVD Video Recording, DVD-VIDEO
+HDD (RH265/RH255: 80GB, RH266/RH256: 160GB), DVD-ReWritable,
+DVD-Recordable, DVD+ReWritable, DVD+Recordable
+DVD (4.7GB): Approx. 1 hour (XP mode), 2 hours (SP mode),
+4 hours (LP mode), 6 hours (EP mode), 11 hours (MLP mode)
+HDD (80/160GB, MPEG2 Recording):
+Approx. 18/37 hours (XP mode), 37/75 hours (SP mode),
+75/149 hours (LP mode), 112/223 hours (EP mode), 233/477 hours
+(MLP mode)
+27MHz
+MPEG 2 (VBR support)
+48kHz
+Dolby Digital
+
+Playback
+Frequency response
+Signal-to-noise ratio
+Harmonic distortion
+Dynamic range
+
+DVD (PCM 48 kHz): 8 Hz to 22 kHz, CD: 8 Hz to 20 kHz
+DVD (PCM 96 kHz): 8 Hz to 44 kHz
+More than 100 dB (AUDIO OUT connector)
+Less than 0.008% (AUDIO OUT connector)
+More than 95 dB (AUDIO OUT connector)
+
+Inputs
+ANTENNA IN
+VIDEO IN
+AUDIO IN
+
+Antenna input, 75 ohms
+1.0 Vp-p 75 ohms, sync negative, RCA jack x 1 / SCART x 2
+2.0 Vrms more than 47 kohms, RCA jack (L, R) x 1 / SCART x 2
+
+COMPONENT VIDEO OUT
+
+(Y) 1.0 V (p-p), 75 Ω, sync negative, RCA jack x 1
+(PB)/(PR) 0.7 V (p-p), 75 Ω, RCA jack x 2
+0.5 V (p-p), 75 Ω, RCA jack x 1
+2.0 Vrms (1 KHz, 0 dB), 600 Ω, RCA jack (L, R) x 1 / SCART x 2
+
+Outputs
+Audio output (digital audio)
+Audio output (analog audio)
+
+Accessory
+Scart cable . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+Remote control . . . . . . . . . . . . . . . . . . . . . . . . . .1
+
+
+
+54
+
+RF Coaxial Cable . . . . . . . . . . . . . . . .1
+Batteries . . . . . . . . . . . . . . . . . . . . . .2
+
+Design and specifications are subject to change without notice.
+
+P/NO : MFL38755373
