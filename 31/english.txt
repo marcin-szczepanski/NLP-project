@@ -1,0 +1,1821 @@
+LED TV
+
+LJ50**
+MT42**
+
+AAA
+
+X2
+(M4 x L16)
+32LJ50**
+28MT42**
+
+X4
+(M4 x L16)
+43LJ50**
+
+: Depending on model / Abhängig vom Modell / Selon le modèle / In base al modello / En función del modelo / Dependendo do modelo / Afhankelijk van het model /
+Ανάλογα με το μοντέλο / Odvisno od modela / Típusfüggő / Zależnie od modelu / Závisí na modelu / V závislosti od modelu / În funcţie de model / В зависимост
+от модела / Sõltub mudelist / Priklauso nuo modelio / Atkarībā no modeļa / U zavisnosti od modela / Ovisno o modelu / Në varësi të modelit / Ovisno o modelu / Во
+зависност од моделот / Beroende på modell / Avhengig av modell / Afhængigt af modellen / Mallin mukaan /
+
+www.lg.com
+
+P/No: MFL69675002 (1703-REV01)
+Printed in Korea
+
+1
+
+2-A
+
+32LJ50**
+28MT42**
+
+2-B
+
+L
+
+R
+
+3
+
+43LJ50**
+
+L
+
+R
+
+ANTENNA/
+CABLE IN
+
+HDMI IN
+
+USB IN
+
+LAN
+
+CMCIA CARD SLOT
+
+Satellite IN
+
+LAN
+
+PCMCIA CARD SLOT
+
+Satellite IN
+
+AV IN / OUT
+AUDIO / VIDEO
+
+COMPONENT IN
+
+VIDEO/Y
+
+PB
+
+PR L/MONO AUDIO R
+
+AV IN
+
+VIDEO/Y
+
+PB
+
+PR L/MONO AUDIO R
+
+AUDIO / VIDEO
+
+COMPONENT IN
+
+VIDEO/Y
+
+PB
+
+VIDEO
+
+AV IN
+
+PR L/MONO AUDIO R
+
+AUDIO
+
+VIDEO/Y
+
+PB
+
+PR L/MONO AUDIO R
+
+VIDEO L/MONO AUDIO R
+
+1
+
+2
+
+3
+
+4
+
+0
+
+1
+
+2
+
+A
+
+E
+
+D
+
+B
+G2
+
+G1
+F
+
+A
+
+C
+
+B
+
+C
+
+D
+
+E
+
+F
+
+F
+
+G1 G2
+
+32LJ500U-ZB
+32LJ500V-ZB
+
+728
+
+475
+
+182.4
+
+436
+
+77.8
+
+5.0
+
+4.9
+
+43LJ500V-ZB
+
+970
+
+624
+
+219.5
+
+569
+
+77.8
+
+8.4
+
+8.3
+
+28MT42VF-PZ
+
+635
+
+427
+
+182.4
+
+387
+
+77.8
+
+4.1
+
+4.0
+
+AC 100-240 V~ 50/60 Hz
+
+"$7_)[
+
+*MFL69675002*
+
+OWNER’S MANUAL
+
+Safety and Reference
+LED TV*
+*	LG LED TV applies LCD screen with LED backlights.
+
+Please read this manual carefully before operating your set and retain it for future
+reference.
+
+www.lg.com
+
+Warning! Safety instructions
+ENGLISH
+
+CAUTION
+RISK OF ELECTRIC SHOCK
+DO NOT OPEN
+
+CAUTION : TO REDUCE THE RISK OF ELECTRIC SHOCK, DO NOT
+REMOVE COVER (OR BACK). NO USER-SERVICEABLE PARTS
+INSIDE. REFER TO QUALIFIED SERVICE PERSONNEL.
+This symbol is intended to alert the user to the presence
+of uninsulated “dangerous voltage” within the product’s
+enclosure that may be of sufficient magnitude to constitute a
+risk of electric shock to persons.
+This symbol is intended to alert the user to the presence
+of important operating and maintenance (servicing)
+instructions in the literature accompanying the appliance.
+WARNING : TO REDUCE THE RISK OF FIRE AND ELECTRIC SHOCK,
+DO NOT EXPOSE THIS PRODUCT TO RAIN OR MOISTURE.
+TO PREVENT THE SPREAD OF FIRE, KEEP CANDLES OR
+OTHER ITMES WITH OPEN FLAMES AWAY FROM THIS
+PRODUCT AT ALL TIMES.
+•  Do not place the TV and/or remote control in the following
+environments:
+-- A location exposed to direct sunlight
+-- An area with high humidity such as a bathroom
+-- Near any heat source such as stoves and other devices that
+produce heat
+-- Near kitchen counters or humidifiers where they can easily be
+exposed to steam or oil
+-- An area exposed to rain or wind
+-- Near containers of water such as vases
+Otherwise, this may result in fire, electric shock, malfunction or
+product deformation.
+•  Do not place the product where it might be exposed to dust. This
+may cause a fire hazard.
+•  Mains Plug is the TV connecting/disconnecting device to AC
+mains electric supply. This plug must remain readily attached and
+operable when TV is in use.
+•  Do not touch the power plug with wet hands. Additionally, if
+the cord pin is wet or covered with dust, dry the power plug
+completely or wipe dust off. You may be electrocuted due to excess
+moisture.
+•  Make sure to connect Mains cable to compliant AC mains socket
+with Grounded earth pin. (Except for devices which are not
+grounded on earth.) Otherwise possibility you may be electrocuted
+or injured.
+•  Insert power cable plug completely into wall socket otherwise if
+not secured completely into socket, fire ignition may break out.
+
+2
+
+•  Ensure the power cord does not come into contact with hot objects
+such as a heater. This may cause a fire or an electric shock hazard.
+•  Do not place a heavy object, or the product itself, on power cables.
+Otherwise, this may result in fire or electric shock.
+•  Bend antenna cable between inside and outside building to
+prevent rain from flowing in. This may cause water damaged
+inside the Product and could give an electric shock.
+•  When mounting TV onto wall make sure to neatly install and
+isolate cabling from rear of TV as to not create possibility of electric
+shock /fire hazard.
+•  Do not plug too many electrical devices into a single multiple
+electrical outlet. Otherwise, this may result in fire due to overheating.
+•  Do not drop the product or let it fall over when connecting
+external devices. Otherwise, this may result in injury or damage
+to the product.
+•  Keep the anti-moisture packing material or vinyl packing out
+of the reach of children. Anti-moisture material is harmful if
+swallowed. If swallowed by mistake, force the patient to vomit
+and visit the nearest hospital. Additionally, vinyl packing can cause
+suffocation. Keep it out of the reach of children.
+•  Do not let your children climb or cling onto the TV.
+Otherwise, the TV may fall over, which may cause serious injury.
+•  Dispose of used batteries carefully to ensure that a small child
+does not consume them. Please seek Doctor- Medical Attention
+immediately if child consumes batteries.
+•  Do not insert any metal objects/conductors (like a metal
+chopstick/cutlery/screwdriver) into the end of power cable while
+the power plug is plugged into wall socket. Additionally, do not
+touch the power plug right after unplugging from the wall socket.
+You may be electrocuted.
+•  Do not put or store inflammable substances near the product.
+There is a danger of combustion/explosion or fire due to careless
+handling of the inflammable substances.
+•  Do not drop metallic objects such as coins, hair pins, chopsticks or
+wire into the product, or inflammable objects such as paper and
+matches. Children must pay particular attention. Electrical shock,
+fire or injury can occur. If a foreign object is dropped into the
+product, unplug the power cord and contact the service centre.
+•  Do not spray water on the product or scrub with an inflammable
+substance (thinner or benzene). Fire or electric shock accident
+can occur.
+•  Do not allow any impact, shock or any objects to fall into the unit,
+and do not drop anything onto the screen. You may be injured or
+the product can be damaged.
+•  Never touch this product or antenna during a thunder or lighting
+storm.
+You may be electrocuted.
+•  Never touch the wall outlet when there is leakage of gas, open the
+windows and ventilate. It may cause a fire or a burn by a spark.
+
+•  Unplug the TV from AC mains wall socket if you do not intend to
+use the TV for a long period of time. Accumulated dust can cause
+fire hazard and insulation deterioration can cause electric leakage/
+shock/fire.
+•  Apparatus shall not be exposed to dripping or splashing and no
+objects filled with liquids, such as vases, shall be placed on the
+apparatus.
+•  Do not install this product on a wall if it could be exposed to oil or
+oil mist. This may damage the product and cause it to fall.
+•  If water enters or comes into contact with TV, AC adapter or power
+cord please disconnect the power cord and contact service centre
+immediately. Otherwise, this may result in electric shock or fire.
+•  Only use an authorized AC adapter and power cord approved by
+LG Electronics. Otherwise, this may result in fire, electric shock,
+malfunction or product deformation.
+•  Never Disassemble the AC adapter or power cord. This may result
+in fire or electric shock.
+•  Be careful in handling the adapter to prevent any external shocks
+to it. An external shock may cause damage to the adapter.
+•  Make sure the power cord is connected securely to the power plug
+on the TV.
+•  Install the product where no radio wave occurs.
+•  There should be enough distance between an outside antenna and
+power lines to keep the former from touching the latter even when
+the antenna falls. This may cause an electric shock.
+•  Do not install the product on places such as unstable shelves or
+inclined surfaces. Also avoid places where there is vibration or
+where the product cannot be fully supported. Otherwise, the
+product may fall or flip over, which may cause injury or damage
+to the product.
+•  If you install the TV on a stand, you need to take actions to prevent
+the product from overturning. Otherwise, the product may fall
+over, which may cause injury.
+•  If you intend to mount the product to a wall, attach VESA standard
+mounting interface (optional parts) to the back of the product.
+When you install the set to use the wall mounting bracket
+(optional parts), fix it carefully so as not to drop.
+•  Only use the attachments / accessories specified by the
+manufacturer.
+•  When installing the antenna, consult with a qualified service
+technician. If not installed by a qualified technician, this may
+create a fire hazard or an electric shock hazard.
+
+•  We recommend that you maintain a distance of at least 2 to 7
+times the diagonal screen size when watching TV. If you watch TV
+for a long period of time, this may cause blurred vision.
+•  Only use the specified type of battery. This could cause damage to
+the remote control.
+•  Do not mix new batteries with old batteries. This may cause the
+batteries to overheat and leak.
+•  Batteries should not be exposed to excessive heat. For example,
+keep away from direct Sunlight, open fireplace and electric
+heaters.
+•  Signal from Remote Control can be interrupted due to external/
+internal lighting eg Sunlight, fluorescent lighting. If this occurs
+turn off lighting or darken viewing area.
+•  When connecting external devices such as video game consoles,
+make sure the connecting cables are long enough. Otherwise,
+the product may fall over, which may cause injury or damage the
+product.
+•  Do not turn the product On/Off by plugging-in or unplugging
+the power plug to the wall outlet. (Do not use the power plug for
+switch.) It may cause mechanical failure or could give an electric
+shock.
+•  Please follow the installation instructions below to prevent the
+product from overheating.
+-- The distance between the product and the wall should be more
+than 10 cm.
+-- Do not install the product in a place with no ventilation (e.g., on
+a bookshelf or in a cupboard).
+-- Do not install the product on a carpet or cushion.
+-- Make sure the air vent is not blocked by a tablecloth or curtain.
+This may result in fire.
+
+ENGLISH
+
+•  Do not disassemble, repair or modify the product at your own
+discretion. Fire or electric shock accident can occur.
+Contact the service centre for check, calibration or repair.
+•  If any of the following occur, unplug the product immediately and
+contact your local service centre.
+-- The product has been damaged
+-- Foreign objects have entered the product
+-- The product produced smoke or a strange smell
+This may result in fire or electric shock.
+
+•  Take care not to touch the ventilation openings when watching
+the TV for long periods as the ventilation openings may become
+hot. This does not affect the operation or performance of the
+product.
+•  Periodically examine the cord of your appliance, and if its
+appearance indicates damage or deterioration, unplug it,
+discontinue use of the appliance, and have the cord replaced with
+an exact replacement part by an authorized servicer.
+•  Prevent dust collecting on the power plug pins or outlet. This may
+cause a fire hazard.
+•  Protect the power cord from physical or mechanical abuse, such as
+being twisted, kinked, pinched, closed in a door, or walked upon.
+Pay particular attention to plugs, wall outlets, and the point where
+the cord exits the appliance.
+•  Do not press strongly upon the panel with a hand or sharp object
+such as nail, pencil or pen, or make a scratch on it, as it may
+cause damage to screen.
+•  Avoid touching the screen or holding your finger(s) against it for
+long periods of time. Doing so may produce some temporary or
+permanent distortion/damage to screen.
+
+3
+
+ENGLISH
+
+•  As long as this unit is connected to the AC wall outlet, it is not
+disconnected from the AC power source even if you turn off this
+unit by SWITCH.
+•  When unplugging the cable, grab the plug and unplug it, by
+pulling at the plug. Don’t pull at the cord to unplug the power cord
+from the power board, as this could be hazardous.
+•  When moving the product, make sure you turn the power off first.
+Then, unplug the power cables, antenna cables and all connecting
+cables.
+The TV set or power cord may be damaged, which may create a fire
+hazard or cause electric shock.
+•  When moving or unpacking the product, work in pairs because the
+product is heavy. Otherwise, this may result in injury.
+•  Refer all servicing to qualified service personnel. Servicing is
+required when the apparatus has been damaged in any way, such
+as power supply cord or plug is damaged, liquid has been spilled
+or objects have fallen into the apparatus, the apparatus has been
+exposed to rain or moisture, does not operate normally, or has
+been dropped.
+•  Do not use high voltage electrical goods near the TV (e.g. electric
+mosquito-swatter). This may result in product malfunction.
+•  When cleaning the product and its components, unplug the power
+first and wipe it with a soft cloth. Applying excessive force may
+cause scratches or discolouration. Do not spray with water or wipe
+with a wet cloth. Never use glass cleaner, car or industrial shiner,
+abrasives or wax, benzene, alcohol etc., which can damage the
+product and its panel. Otherwise, this may result in fire, electric
+shock or product damage (Deformation, corrosion or breakage).
+
+4
+
+Preparing
+•  Image shown may differ from your TV.
+•  Your TV’s OSD (On Screen Display) may differ slightly from that
+shown in this manual.
+•  The available menus and options may differ from the input source
+or product model that you are using.
+•  New features may be added to this TV in the future.
+•  The items supplied with your product may vary depending on the
+model.
+•  Product specifications or contents of this manual may be changed
+without prior notice due to upgrade of product functions.
+•  For an optimal connection, HDMI cables and USB devices should
+have bezels less than 10 mm thick and 18 mm width. Use an
+extension cable that supports USB 2.0 if the USB cable or USB
+memory stick does not fit into your TV’s USB port.
+B
+
+B
+A
+
+A
+
+*A <
+= 10 mm
+
+*B <
+= 18 mm
+
+•  Use a certified cable with the HDMI logo attached.
+•  If you do not use a certified HDMI cable, the screen may not display
+or a connection error may occur. (Recommended HDMI Cable Types)
+-- High-Speed HDMI®/TM cable (3 m or less)
+-- High-Speed HDMI®/TM cable with Ethernet (3 m or less)
+•  Do not use any unapproved items to ensure the safety
+and product life span.
+•  Any damage or injuries caused by using unapproved
+items are not covered by the warranty.
+•  Some models have a thin film attached on to the
+screen and this must not be removed.
+•  When attaching the stand to the TV set, place the
+screen facing down on a cushioned table or flat surface
+to protect the screen from scratches.
+•  Make sure that the screws are inserted correctly and
+fastened securely. (If they are not fastened securely
+enough, the TV may tilt forward after being installed.)
+Do not use too much force and over tighten the screws;
+otherwise screw may be damaged and not tighten
+correctly.
+
+Lifting and moving the TV
+
+(Depending on model)
+You can simply operate the TV functions, using the button.
+
+ENGLISH
+
+Please note the following advice to prevent the TV from being scratched
+or damaged and for safe transportation regardless of its type and size.
+
+Using the button
+
+•  It is recommended to move the TV in the box or packing material
+that the TV originally came in.
+•  Before moving or lifting the TV, disconnect the power cord and
+all cables.
+•  When holding the TV, the screen should face away from you to
+avoid damage.
+
+•  Hold the top and bottom of the TV frame firmly. Make sure not to
+hold the transparent part, speaker, or speaker grill area.
+
+Power On / Off (Press)
+•  When transporting a large TV, there should be at least 2 people.
+•  When transporting the TV by hand, hold the TV as shown in the
+following illustration.
+
+•  When transporting the TV, do not expose the TV to jolts or
+excessive vibration.
+•  When transporting the TV, keep the TV upright, never turn the TV
+on its side or tilt towards the left or right.
+•  Do not apply excessive pressure to cause flexing / bending of frame
+chassis as it may damage screen.
+•  When handling the TV, be careful not to damage the protruding
+buttons.
+•  Avoid touching the screen at all times, as this may
+result in damage to the screen.
+•  Do not move the TV by holding the cable holders, as
+the cable holders may break, and injuries and damage
+to the TV may occur.
+
+5
+
+ENGLISH
+
+Mounting on a table
+
+Mounting on a wall
+
+1	 Lift and tilt the TV into its upright position on a table.
+
+Attach an optional wall mount bracket at the rear of the TV carefully
+and install the wall mount bracket on a solid wall perpendicular to
+the floor. When you attach the TV to other building materials, please
+contact qualified personnel. LG recommends that wall mounting be
+performed by a qualified professional installer. We recommend the use
+of LG’s wall mount bracket. LG’s wall mount bracket is easy to move with
+cables connected. When you do not use LG’s wall mount bracket, please
+use a wall mount bracket where the device is adequately secured to the
+wall with enough space to allow connectivity to external devices. It is
+advised to connect all the cables before installing fixed wall mounts.
+
+•  Leave a 10 cm (minimum) space from the wall for proper
+ventilation.
+
+10 cm
+10 cm
+10 cm
+
+10 cm
+
+10 cm
+10 cm
+
+2	 Connect the power cord to a wall outlet.
+
+10 cm
+
+•  Do not place the TV near or on sources of heat, as this
+may result in fire or other damage.
+•  Do not apply foreign substances (oils, lubricants, etc.)
+to the screw parts when assembling the product.
+(Doing so may damage the product.)
+
+Securing the TV to a wall
+(This feature is not available for all models.)
+
+10 cm
+10 cm
+
+Make sure to use screws and wall mount bracket that meet the VESA
+standard. Standard dimensions for the wall mount kits are described in
+the following table.
+
+Separate purchase (Wall mounting bracket)
+
+1	 Insert and tighten the eye-bolts, or TV brackets and bolts on the back
+of the TV.
+•  If there are bolts inserted at the eye-bolts position, remove the
+bolts first.
+2	 Mount the wall brackets with the bolts to the wall.
+Match the location of the wall bracket and the eye-bolts on the rear
+of the TV.
+3	 Connect the eye-bolts and wall brackets tightly with a sturdy rope.
+Make sure to keep the rope horizontal with the flat surface.
+•  Make sure that children do not climb on or hang on
+the TV.
+•  Use a platform or cabinet that is strong and large enough to
+support the TV securely.
+•  Brackets, bolts and ropes are not provided. You can obtain
+additional accessories from your local dealer.
+
+6
+
+Model
+
+32LJ50**
+
+43LJ50**
+
+VESA (A x B) (mm)
+Standard screw
+Number of screws
+Wall mount
+bracket
+Model
+VESA (A x B) (mm)
+Standard screw
+Number of screws
+Wall mount
+bracket
+
+100 x 100
+M4
+4
+
+200 x 200
+M6
+4
+LSW240B
+MSW240
+
+LSW140B
+28MT42**
+100 x 100
+M4
+4
+RW120
+
+A
+B
+
+•  Remove the stand before installing the TV on a wall
+mount by performing the stand attachment in reverse.
+•  Screw length from outer surface of back cover should
+be under 8 mm. (Only 28MT42**)
+
+Back Cover
+
+Wall mount Pad
+Back Cover
+Standard screw
+: M4 x L10
+
+Connect the TV to a wall antenna socket with an RF cable (75 Ω).
+•  Use a signal splitter to use more than 2 TVs.
+•  If the image quality is poor, install a signal amplifier properly to
+improve the image quality.
+•  If the image quality is poor with an antenna connected, try to
+realign the antenna in the correct direction.
+•  An antenna cable and converter are not supplied.
+•  Supported DTV Audio:
+MPEG,
+Dolby Digital / Dolby Digital Plus (32 kHz, 44.1 kHz, 48 kHz),
+HE-AAC
+
+ENGLISH
+
+Wall mount Pad
+
+Antenna connection
+
+Satellite dish connection
+Max. 8 mm
+
+(Only satellite models)
+Connect the TV to a satellite dish to a satellite socket with a satellite RF
+cable (75 Ω).
+
+Connections (notifications)
+
+CI module connection
+(Depending on model)
+
+Connect various external devices to the TV and switch input modes to
+select an external device. For more information of external device’s
+connection, refer to the manual provided with each device.
+Available external devices are: HD receivers, DVD players, VCRs, audio
+systems, USB storage devices, PC, gaming devices, and other external
+devices.
+•  The external device connection may differ from the model.
+•  Connect external devices to the TV regardless of the order of the
+TV port.
+•  If you record a TV program on a DVD recorder or VCR, make sure to
+connect the TV signal input cable to the TV through a DVD recorder
+or VCR. For more information of recording, refer to the manual
+provided with the connected device.
+•  Refer to the external equipment’s manual for operating instructions.
+•  If you connect a gaming device to the TV, use the cable supplied
+with the gaming device.
+•  In PC mode, there may be noise associated with the resolution,
+vertical pattern, contrast or brightness. If noise is present, change
+the PC output to another resolution, change the refresh rate to
+another rate or adjust the brightness and contrast on the PICTURE
+menu until the picture is clear.
+•  In PC mode, some resolution settings may not work properly
+depending on the graphics card.
+•  When connecting via a wired LAN, it is recommended you use a
+CAT 7 cable.
+
+View the encrypted (pay) services in digital TV mode.
+•  Check if the CI module is inserted into the PCMCIA card slot in the
+right direction. If the module is not inserted properly, this can
+cause damage to the TV and the PCMCIA card slot.
+•  If the TV does not display any video and audio when CI+ CAM is
+connected, please contact to the Terrestrial/Cable/Satellite Service
+Operator.
+
+7
+
+Network connection
+
+4	 The connected network is displayed.
+Select the Complete to confirm the network connection.
+
+(Only LAN PORT model)
+
+Network Setting
+
+Wired network connection
+ENGLISH
+
+Wired network is connected.
+
+Internet connection
+
+For detailed settings, select [Set Expert].
+
+Set Expert
+
+Complete
+
+Previous
+
+Wired router
+Network setting
+1	 Select the SETTINGS
+
+NETWORK
+
+Network Setting menu.
+
+NETWORK
+
+Move
+
+OK
+
+2	 Select the Start connection.
+Network Setting
+Connect a LAN cable to the back of TV.
+Setting your network will enable network-related features on the TV.
+
+Start connection
+Next
+
+3	 The device automatically tries to connect to the network.
+Network Setting
+
+Network connecting...
+
+Cancel
+Previous
+
+8
+
+Connect your TV to external devices. For the best picture and audio
+quality, connect the external device and the TV with the HDMI cable.
+Some separate cable is not provided.
+•  Supported HDMI Audio format :
+AC-3 (Max bit rate : 640 Kbps),
+Dolby Digital / Dolby Digital Plus (32 kHz, 44.1 kHz, 48 kHz),
+PCM (48 KHz, 44.1 KHz, 32 KHz)
+(Depending on model)
+
+Network Setting
+Network Status
+
+Previous
+
+Other connections
+
+Remote control
+The descriptions in this manual are based on the buttons on the remote
+control. Please read this manual carefully and use the TV correctly.
+To replace batteries, open the battery cover, replace batteries (1.5
+V AAA) matching the and ends to the label inside the
+compartment, and close the battery cover. To remove the batteries,
+perform the installation actions in reverse.
+
+ENGLISH
+
+C
+
+(Depending on model)
+
+D
+
+Make sure to point the remote control toward the remote control sensor
+on the TV.
+
+C
+
+A
+B
+
+Teletext buttons (
+) These buttons are used for
+teletext.
+Views the information of the current programme and screen.
+Accesses the Settings menu.
+Accesses the Quick menus.
+Navigation buttons (up/down/left/right) Scrolls through menus
+or options.
+Selects menus or options and confirms your input.
+Returns to the previous level.
+Clears on-screen displays and returns to TV viewing.
+
+A
+
+D
+
+(POWER) Turns the TV on or off.
+Selects Radio, TV and DTV programme.
+Recalls your preferred subtitle in digital mode.
+Audio descriptions will be enabled. (Depending on model)
+Resizes an image.
+Changes the input source.
+Number buttons Enters numbers.
+Accesses the saved programme list.
+Returns to the previously viewed programme.
+
+Selects an AV mode.
+This function is not supported.
+Control buttons (
+) Controls media contents.
+These access special functions in some menus.
+
+B
+Adjusts the volume level.
+Accesses your favourite programme list.
+Shows programme guide.
+Mutes all sounds.
+Scrolls through the saved programmes.
+Moves to the previous or next screen.
+
+9
+
+ENGLISH
+
+Licenses
+
+Settings
+
+Supported licenses may differ by model. For more information about
+licenses, visit www.lg.com.
+
+Automatically Setting Up Programme
+
+Manufactured under license from Dolby Laboratories.
+Dolby, Dolby Vision, Dolby Audio, and the double-D symbol are
+trademarks of Dolby Laboratories.
+
+The terms HDMI and HDMI High-Definition Multimedia Interface,
+and the HDMI logo are trademarks or registered trademarks of HDMI
+Licensing LLC in the United States and other countries.
+
+Open source software
+notice information
+To obtain the source code under GPL, LGPL, MPL and other open source
+licenses, that is contained in this product, please visit http://opensource.
+lge.com.
+In addition to the source code, all referred license terms, warranty
+disclaimers and copyright notices are available for download.
+LG Electronics will also provide open source code to you on CD-ROM
+for a charge covering the cost of performing such distribution (such
+as the cost of media, shipping, and handling) upon email request to
+opensource@lge.com. This offer is valid for three (3) years from the date
+on which you purchased the product.
+
+10
+
+SETTINGS SETUP Auto Tuning
+Automatically tunes the programmes.
+•  If Input Source is not connected properly, programme registration
+may not work.
+•  Auto Tuning only finds programmes that are currently
+broadcasting.
+•  If Lock System is turned on, a pop-up window will appear asking
+for password.
+To use Energy Saving feature
+SETTINGS PICTURE
+Energy Saving
+Reduces power consumption by adjusting screen brightness.
+•  Off : Turns off the Energy Saving mode.
+•  Minimum / Medium / Maximum : Applies the pre-set Energy
+Saving mode.
+•  Screen Off : Screen is turned off and only sound is played. Press
+any button except Power button on the remote control to turn the
+screen back on.
+To select Picture Mode
+SETTINGS PICTURE Picture Mode
+Select the picture mode optimized for the viewing environment or the
+programme.
+•  Vivid : Heightens contrast, brightness and sharpness to display
+vivid images.
+•  Standard : Displays images in standard levels of contrast,
+brightness and sharpness.
+•  Eco: The Energy Saver feature changes settings on the TV to reduce
+power consumption.
+•  Cinema : Displays the optimum picture for movie.
+•  Sport : [Depending on model]
+Optimizes the video image for high and dynamic actions by
+emphasizing primary colours such as white, grass, or sky blue.
+•  Game : Displays the optimum picture for game.
+•  Depending on input signal, available range of picture modes may
+differ.
+
+Fine-tuning Picture Mode
+
+To adjust Aspect Ratio
+
+SETTINGS PICTURE Picture Mode
+This feature allows you to adjust the selected picture mode in detail.
+
+SETTINGS PICTURE Aspect Ratio
+Selects the screen aspect ratio.
+
+To set advanced control
+SETTINGS PICTURE Picture Mode Advanced Control
+Calibrates the screen for each picture mode; or adjusts picture settings
+for a special screen.
+•  Dynamic Contrast : Adjusts the contrast to the optimal level
+according to the brightness of the image.
+•  Dynamic Colour : Adjusts colours to make the image appear in
+more natural colours.
+•  Gamma : Sets the gradation curve according to the output of
+picture signal in relation to the input signal.
+•  Depending on input signal or other picture settings, the range of
+detailed items for adjustment may differ.
+To set additional picture options
+SETTINGS PICTURE Picture Mode
+Adjusts detailed setting for images.
+
+Picture Option
+
+•  Noise Reduction : Eliminates noise in the picture.
+•  MPEG Noise Reduction : Eliminates noise generated while
+creating digital picture signals.
+•  Black Level : Adjusts the brightness and contrast of the screen
+to suit the black level of the input picture by using the blackness
+(black level) of the screen.
+•  Real Cinema : Optimizes the screen for movie viewing.
+•  Depending on input signal or other picture settings, the range of
+detailed items for adjustment may differ.
+
+•  16:9 : Displays an aspect ratio of 16:9.
+•  Just Scan : Displays video images in the original size without
+removing parts of the edge of the image.
+•  In DTV, Component, HDMI, and DVI (over 720p) mode, Just Scan
+is available.
+•  Original : Changes the aspect ratio to 4:3 or 16:9 depending on
+the input video signal.
+•  Full Wide : When TV receives the wide screen signal, it will let you
+adjust the picture horizontally or vertically, in a linear proportion,
+to fill the entire screen fully. 4:3 and 14:9 video is supported in full
+screen without any video distortion through DTV input.
+•  In Analogue/DTV/AV/Scart mode, Full Wide is available.
+•  4:3 : Displays an aspect ratio of 4:3.
+•  14:9 : You can view a picture format of 14:9 or a general TV
+programme in the 14:9 mode. The 14:9 screen is viewed in the
+same way as in 4:3, but is moved up or down.
+•  Zoom : Resizes images to fit the screen width. The top and bottom
+parts of the image may be cut off.
+
+ENGLISH
+
+•  Backlight : Controls the level of screen brightness by adjusting the
+backlight. The closer to 100, the brighter the screen.
+•  Contrast : Adjusts the contrast of the bright and dark areas of the
+picture. The closer to 100, the higher the contrast.
+•  Brightness : Adjusts the overall screen brightness. The closer to
+100, the brighter the screen.
+•  Sharpness : Adjusts the sharpness of the image. The closer to 50,
+the sharper and clearer the image.
+•  Colour : Tones down or up the colours displayed on the screen. The
+closer to 100, the deeper the colour.
+•  Tint : Adjusts the colour balance between red and green displayed
+on the screen. The closer to Red 50, the more red the colour will be.
+The closer to Green 50, the more green the colour will be.
+•  Colour Temp. : Adjusts the colour temperature from cold to warm.
+•  Depending on input signal or other picture settings, the range of
+detailed items for adjustment may differ.
+
+Selecting Sound Mode
+SETTINGS AUDIO Sound Mode
+Adjusts TV audio to an optimal level based on a selected sound mode.
+• 
+• 
+• 
+• 
+• 
+• 
+
+Standard : Optimizes the sound for all types of content.
+News : Boosts voice clarity from the TV.
+Music : [Depending on model] Optimizes the sound for music.
+Cinema : Optimizes the sound for cinemas.
+Sport : [Depending on model] Optimizes the sound for sports.
+Game : Optimizes the sound for gameplay.
+
+Using the Sound Effect function
+SETTINGS AUDIO Sound Effect
+The user can select various sound effects.
+• 
+• 
+• 
+• 
+
+Treble : Controls the dominant sounds in the output.
+Bass : Controls the softer sounds in the output.
+Balance : Adjusts left/right audio balance.
+Reset : Initialize the applied effect under the Sound Effect menu.
+
+To set Auto Volume
+SETTINGS AUDIO Auto Volume
+Sets Auto Volume to On. Varying volume output from programme to
+programme is automatically adjusted for convenient TV watching when
+clicking through different programme.
+
+Resetting picture settings
+SETTINGS PICTURE Picture Mode Picture Reset
+Resets picture settings that the user customizes. Each picture mode is
+reset. Select the picture mode you wish to reset.
+
+11
+
+Using Manual Tuning
+
+To set current time
+
+SETTINGS SETUP Manual Tuning
+Adjusts programmes manually and saves the results.
+
+SETTINGS
+
+ENGLISH
+
+For digital broadcasting, signal strength and signal quality can be
+checked.
+For analogue broadcasting, you can set up station names and use
+fine tuning (except for Satellite mode). Normally fine tuning is only
+necessary if reception is poor.
+
+TIME
+
+Clock
+
+Checks or changes the time while watching TV.
+•  Auto : Synchronizes the TV clock to the digital time information
+sent by the TV station.
+•  Manual : Sets the time and date manually if the auto setup does
+not correspond to the current time.
+To set the TV to turn on and off automatically
+
+Editing programmes
+
+SETTINGS
+
+SETTINGS
+
+You can set the Power On/Off time for the TV.
+
+SETUP
+
+Programme Edit
+
+Edits the saved programmes.
+Set as favourite programme, block/unblock programme, skip
+programme etc. of the selected programme.
+To select Programme mode
+SETTINGS SETUP Programme mode
+This function allows you to watch a tuned programme in Antenna,
+Cable, Satellite Mode.
+•  You can only watch programmes in the selected mode.
+
+TIME
+
+Off Time / On Time
+
+Select Off if you are not going to set Off Time / On Time.
+•  To use Off Time / On Time, set the current time correctly.
+•  Even when the On Time function is on, the TV will turn off
+automatically in 120 minutes when no button is pressed within
+that time.
+To use Sleep Timer
+SETTINGS
+
+TIME
+
+Sleep Timer
+
+Turns off the TV after a preset number of minutes.
+To cancel the Sleep Timer, select Off.
+
+About CI Information
+SETTINGS
+
+SETUP
+
+CI Information
+
+[This feature is available on certain models only.]
+•  This function enables you to watch some encrypted services (pay
+services).
+•  If you remove the CI Module, you cannot watch pay services.
+•  CI (Common Interface) functions may not be possible depending
+upon the country broadcasting circumstances.
+•  When the module is inserted into the CI slot, you can access the
+module menu.
+•  To purchase a module and smart card, contact your dealer.
+•  When the TV is turned on after inserting a CI Module, you may not
+have any video and audio output in scrambled programme. The
+Smart Card may not be compatible with the CI module.
+•  When using a CAM(Conditional Access Module), please make sure
+it meets fully the requirements of either DVB-CI or CI plus.
+•  An abnormal process of CAM(Conditional Access Module) may
+cause a bad picture.
+•  [This feature is available on certain models only.] If the TV does not
+display any video and audio when CI+ CAM is connected, please
+contact to the Terrestrial / Cable / Satellite Service Operator.
+
+12
+
+To set Automatic Standby
+SETTINGS
+
+TIME
+
+Automatic Standby
+
+[This function is available on certain models or in certain countries only]
+If you do not press any button on the TV or remote control for a certain
+period, the TV will automatically switch to standby mode.
+•  This function does not work on Store mode or while software
+update.
+To set password
+SETTINGS LOCK Set Password
+Sets or changes the TV password.
+•  The initial password is set to ‘0000’.
+•  When France is selected for Country, password is not ‘0000’ but
+‘1234’.
+•  When France is selected for Country, password cannot be set to
+‘0000’.
+
+To lock system
+
+To select audio commentary or subtitles
+
+SETTINGS LOCK Lock System
+Permits only specific programmes by blocking programmes or external
+input.
+
+SETTINGS
+
+•  Parental Guidance (Only DTV) : This function operates according
+to information from the broadcaster. Therefore if the signal has
+incorrect information, this function does not operate. Prevents
+children from watching certain adult TV programmes according
+to the ratings limit set. Enter a password to watch a blocked
+programme. Ratings differ by country.
+•  Input Block : Blocks the input sources.
+
+Disability Assistance
+
+Audio commentary or subtitles are provided for those who are hard of
+hearing or visually impaired.
+•  Hard of Hearing : This function is used for the hearing impaired.
+If it is set to on, the subtitle is displayed by default.
+•  Audio Description : This function is for the blind, and
+provides explanatory audio describing the current situation in
+a TV programme in addition to the basic audio. When Audio
+Description is selected On, basic audio and Audio Description are
+provided only for those programmes that have Audio Description
+included.
+
+To set Language
+
+To set Subtitle
+
+SETTINGS OPTION Language(Language)
+You can select the language of the menu displayed on the screen and
+the digital sound broadcasting.
+
+SETTINGS OPTION Subtitle
+View subtitles when the TV station provides subtitled programing.
+
+•  Menu Language : Selects a language for the display text.
+•  Audio Language : [In Digital mode Only][The configurable items
+differ depending on country.] Selects the desired language when
+watching digital broadcasting containing several voice languages.
+•  Subtitle Language : [In Digital mode Only] Use the Subtitle
+function when two or more subtitle languages are broadcast.
+•  If subtitle data in a selected language is not broadcast, the
+default language subtitle will be displayed.
+•  Text Language : [In Digital mode Only][The configurable items
+differ depending on country.] Use the Text language function when
+two or more Text languages are broadcast.
+•  If teletext data in a selected language is not broadcast, the
+default Text language will be displayed.
+•  If you select the wrong local country, teletext may not appear
+correctly on the screen and some problems may occur during
+teletext operation.
+To set the Location
+SETTINGS
+
+OPTION
+
+Country
+
+[This feature is available in certain countries only.]
+Sets the country that the TV uses.
+TV settings are changed according to the broadcast environment of the
+selected country.
+•  If the country setting is changed, the Auto Tuning information
+screen may appear.
+•  In a country that Digital broadcasting regulation isn’t fixed, some
+DTV functions may not work depending on digital broadcasting
+circumstances.
+•  If the country setting is set to “--”, European terrestrial digital
+standard broadcasting programmes are available, but some DTV
+functions may not work properly.
+
+ENGLISH
+
+First set Lock System to On.
+
+OPTION
+
+Subtitle sets and changes subtitles to Off ,On or Auto.
+•  Off : Disable subtitle display.
+•  On : Enable subtitle display.
+•  Auto : Subtitle display automatically.
+To specify Factory Reset
+SETTINGS
+
+OPTION
+
+Factory Reset
+
+All stored information is deleted and TV settings are reset.
+TV turns itself off and back on, and all settings are reset.
+•  When Lock System is in place, a pop-up window appears and
+asks for password.
+•  Do not turn off the power during initialization.
+To change the TV Mode
+SETTINGS
+
+OPTION
+
+Mode Setting
+
+Selects Home Mode or Store Mode.
+When in use in home, please select Home Mode.
+Store Mode mode is for store display.
+To obtain the source code
+SETTINGS
+
+OPTION
+
+LGE Open Source Software Notice
+
+To display the open source licenses, that is contained in this product.
+
+13
+
+To update the software
+
+My Media supporting file
+
+SETTINGS
+
+•  Maximum data transfer rate : 20 Mbps (Mega bit per second)
+•  External supported subtitle formats : .srt (SubRip), .smi (SAMI),
+.sub (SubViewer1, MicroDVD, DVDsubtitleSystem, SubIdx(Vobsub)),
+.ass/.ssa (SubStation Alpha), .txt (TMplayer)
+1	 SubViewer : Supports external subtitles SubViewer1.0 & 2.0 only
+
+OPTION
+
+System Info.
+
+ENGLISH
+
+Selects USB Update, OAD Update, or FW Version. The firmware will
+download and install. Upon completion of the update, your LG TV will restart.
+•  USB Update : Updates software via USB device.
+•  OAD Update : Selects On / Off to update the operation software
+using the OAD (Over Air Download) Update.
+Automatic update mode means TV will update software
+automatically, when software was downloaded completed.
+•  FW Version : Checks the software version and Product/Service
+information.
+To use My Media
+SETTINGS
+Music List
+
+MY MEDIA
+
+All Media / Movie List / Photo List /
+
+Selects a file from the list. Displays the file that you choose.
+Sets play related settings by checking option during disk playback.
+To remove the USB device
+Q.MENU
+
+USB Device
+
+Select a USB storage device that you want to remove.
+When you see a message that the USB device has been removed,
+separate the device from the TV.
+•  Once a USB device has been selected for removal, it can no longer
+be read. Remove the USB storage device and then re-connect it.
+Using a USB storage device - warning
+•  If the USB storage device has a built-in auto recognition program
+or uses its own driver, it may not work.
+•  Some USB storage devices may not work or may work incorrectly.
+•  Use only USB storage devices formatted with the Windows FAT32
+or NTFS File System.
+•  For external USB HDDs, it is recommended that you use devices
+with a rated voltage of less than 5 V and a rated current of less
+than 500 mA.
+•  It is recommended that you use USB memory sticks of 32 GB or less
+and USB HDDs of 2 TB or less.
+•  If a USB HDD with power-saving function does not work properly,
+turn the power off and on. For more information, refer to the user
+manual of the USB HDD.
+•  Data in the USB storage device can be damaged, so be sure to back
+up important files to other devices. Data maintenance is the user’s
+responsibility and the manufacturer is not responsible for data loss.
+
+14
+
+Supported Video Formats
+•  Maximum : 1920 x 1080 @ 30p (Only Motion JPEG 640 x 480 @
+30p)
+•  .asf, .wmv
+[Video] VC-1 (WMV3, WVC1)
+[Audio] WMA7,8,9 Standard
+•  .avi, .xvid
+[Video] MPEG2, MPEG4 Part2, XVID, H.264/AVC
+[Audio] HE-AAC, LPCM, ADPCM, Dolby Digital (AC3), MP3
+•  .ts, .trp, .tp
+[Video] H.264/AVC, MPEG2, HEVC
+[Audio] MP3, Dolby Digital (AC3), AAC, HE-AAC
+•  .vob
+[Video] MPEG1, MPEG2
+[Audio] Dolby Digital (AC3), DVD LPCM
+•  .mp4, .mov
+[Video] MPEG4 Part2, XVID, H.264/AVC, HEVC
+[Audio] AAC, MP3
+•  .mkv
+[Video] MPEG2, MPEG4 Part2, H.264/AVC, HEVC
+[Audio] HE-AAC, Dolby Digital(AC3), MP3, LPCM
+•  .mpg, .mpeg
+[Video] MPEG1, MPEG2
+[Audio] Dolby Digital (AC3), LPCM
+•  .dat
+[Video] MPEG1
+[Audio] MP2
+•  .flv
+[Video] Sorenson H.263, H.264/AVC
+[Audio] MP3, AAC
+Supported Audio Formats
+•  File type : .mp3
+[Bit rate] 32 Kbps - 320 Kbps
+[Sample freq.] 8 kHz - 48 kHz
+[Support] MPEG1 Layer2, MPEG1 Layer3, MPEG2, MPEG2.5
+•  File type : .wma
+[Bit rate] 4 Kbps - 320 Kbps
+[Sample freq.] 8 kHz - 48 kHz
+[Support] WMA
+
+Supported Photo Formats
+
+Troubleshooting
+Cannot control the TV with the remote control.
+•  Check the remote control sensor on the product and try again.
+•  Check if there is any obstacle between the product and the remote
+control.
+•  Check if the batteries are still working and properly installed (
+to , to ).
+No image display and no sound is produced.
+•  Check if the product is turned on.
+•  Check if the power cord is connected to a wall outlet.
+•  Check if there is a problem in the wall outlet by connecting other
+products.
+The TV turns off suddenly.
+•  Check the power control settings. The power supply may be
+interrupted.
+•  Check if the Auto Power Off (Depending on model) / Sleep
+Timer / Off Time is activated in the TIME settings.
+•  If there is no signal while the TV is on, the TV will turn off
+automatically after 15 minutes of inactivity.
+When connecting to the PC (HDMI), ‘No signal’ or ‘Invalid Format’ is
+displayed.
+
+Abnormal Display
+•  If the product feels cold to the touch, there may be a small “flicker”
+when it is turned on. This is normal, there is nothing wrong with
+product.
+•  This panel is an advanced product that contains millions of pixels.
+You may see tiny black dots and/or brightly coloured dots (red, blue
+or green) at a size of 1 ppm on the panel. This does not indicate a
+malfunction and does not affect the performance and reliability
+of the product.
+This phenomenon also occurs in third-party products and is not
+subject to exchange or refund.
+•  You may find different brightness and color of the panel depending
+on your viewing position(left/right/top/down).
+This phenomenon occurs due to the characteristic of the panel.
+It is not related with the product performance, and it is not
+malfunction.
+•  Displaying a still image for a prolonged period of time may cause
+image sticking. Avoid displaying a fixed image on the TV screen for
+a long period of time.
+
+ENGLISH
+
+•  Category : 2D (jpeg)
+[Available file type]
+SOF0 : Baseline,
+SOF1 : Extend Sequential,
+SOF2 : Progressive
+[Photo size]
+Minimum : 64 x 64,
+Maximum (Normal Type) : 15360 (W) x 8640 (H),
+Maximum (Progressive Type) : 1024 (W) x 768 (H)
+
+Generated Sound
+•  “Cracking” noise: A cracking noise that occurs when watching or
+turning off the TV is generated by plastic thermal contraction due
+to temperature and humidity. This noise is common for products
+where thermal deformation is required.
+•  Electrical circuit humming/panel buzzing: A low level noise is
+generated from a high-speed switching circuit, which supplies a
+large amount of current to operate a product. It varies depending
+on the product.
+This generated sound does not affect the performance and
+reliability of the product.
+
+•  Turn the TV off/on using the remote control.
+•  Reconnect the HDMI cable.
+•  Restart the PC with the TV on.
+
+15
+
+Specifications
+ENGLISH
+
+CI Module Size (W x H x D)
+
+Environment condition
+
+100.0 mm x 55.0 mm x 5.0 mm
+
+Operating Temperature
+
+0 °C to 40 °C
+
+Operating Humidity
+
+Less than 80 %
+
+Storage Temperature
+
+-20 °C to 60 °C
+
+Storage Humidity
+
+Less than 85 %
+
+(Depending on country)
+
+Television system
+
+Channel coverage
+(Band)
+
+Maximum number of
+storable programmes
+External antenna impedance
+
+16
+
+Digital TV
+
+Analogue TV
+
+DVB-T
+DVB-T2
+DVB-C
+DVB-S/S2
+
+PAL B/G/D/K/I
+SECAM L
+
+DVB-S/S2
+
+DVB-C
+
+DVB-T/T2
+
+950 ~ 2150 Mhz
+
+46 ~ 890 Mhz
+
+VHF III : 174 ~ 230 Mhz
+UHF IV : 470 ~ 606 Mhz
+UHF V : 606 ~ 862 Mhz
+
+4,000
+
+1,100
+75 Ω
+
+46 ~ 862 Mhz
+
+HDMI-DTV supported mode
+Vertical
+Frequency
+(Hz)
+59.94
+60.00
+
+720 (1440) x 480i
+
+15.73
+15.75
+
+59.94
+60.00
+
+720 x 480p
+
+31.47
+31.50
+
+59.94
+60.00
+
+720 (1440) x 576i
+
+15.63
+
+50.00
+
+Signal
+
+Component
+
+720 x 576p
+
+31.25
+
+50.00
+
+480i / 576i
+
+O
+
+44.96
+45.00
+37.50
+33.72
+33.75
+28.13
+67.43
+67.50
+56.25
+26.97
+27.00
+33.72
+33.75
+
+59.94
+60.00
+50.00
+59.94
+60.00
+50.00
+59.94
+60.00
+50.00
+23.976
+24.00
+29.97
+30.00
+
+480p / 576p
+
+O
+
+720p / 1080i
+
+O
+
+1080p
+
+O
+(Only 50 Hz / 60 Hz)
+
+640 x 480p
+
+1280 x 720p
+
+1920 x 1080i
+
+1920 x 1080p
+
+HDMI-PC supported mode
+Resolution
+
+2
+
+720 x 400
+640 x 480
+800 x 600
+1024 x 768
+1280 x 720
+1360 x 768
+1366 x 768
+1280 x 1024
+(FHD only)
+1920 x 1080
+(FHD only)
+
+Horizontal
+Frequency
+(kHz)
+31.469
+31.469
+37.879
+48.363
+45.00
+47.712
+47.712
+
+Vertical
+Frequency
+(Hz)
+70.08
+59.94
+60.31
+60.00
+60.00
+60.015
+59.79
+
+63.981
+
+60.020
+
+67.50
+
+60.00
+
+Component ports on the TV
+
+Y
+
+Video output ports on
+DVD player
+
+PB
+
+Y
+
+PB
+
+PR
+
+Y
+
+B-Y
+
+R-Y
+
+Y
+
+Cb
+
+Cr
+
+Y
+
+Pb
+
+Pr
+
+Horizontal
+Frequency
+(kHz)
+15.73
+15.75
+
+Vertical
+Frequency
+(Hz)
+59.94
+60.00
+
+720 x 480p
+
+31.47
+31.50
+
+59.94
+60.00
+
+720 (1440) x 576i
+
+15.63
+
+50.00
+
+720 x 576p
+
+31.25
+
+50.00
+
+44.96
+45.00
+37.50
+33.72
+33.75
+28.13
+67.43
+67.50
+56.25
+
+59.94
+60.00
+50.00
+59.94
+60.00
+50.00
+59.94
+60.00
+50.00
+
+Resolution
+720 (1440) x 480i
+
+1280 x 720p
+
+1920 x 1080i
+
+1920 x 1080p
+
+PR
+
+ENGLISH
+
+Horizontal
+Frequency
+(kHz)
+31.47
+31.50
+
+Resolution
+
+1
+
+Component port connecting
+information
+
+1 : Only 28MT42**, 32LJ500U
+2 : Only 32LJ500V, 43LJ50**
+
+17
+
+Keep the Owner’s Manual (CD) in an accessible place for future
+reference.
+Please note that the label attached to the product provides
+information for technical support.
+MODEL
+SERIAL

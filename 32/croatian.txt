@@ -1,0 +1,2399 @@
+HRVATSKI
+
+KORISNIČKI PRIRUČNIK
+
+LED TV
+LG LED TV ima LCD zaslon s LED pozadinskim osvjetljenjem.
+Prije rukovanja televizorom pažljivo pročitajte ovaj priručnik i zadržite
+ga za buduće potrebe.
+23MA73D
+27MA73D
+
+www.lg.com
+
+2
+
+SADRŽAJ
+
+HRVATSKI
+
+SADRŽAJ
+3	
+
+LICENCE
+
+35	 PRILAGOĐAVANJE POSTAVKI
+35	
+
+4	
+
+POSTUPAK MONTAŽE
+
+5	
+
+SASTAVLJANJE I PRIPREMA
+
+5	
+8	
+10	
+11	
+11	
+13	
+14	
+15	
+16	
+
+Raspakiravanje
+Dijelovi i gumbi
+Podizanje i premještanje televizora
+Postavljanje televizora
+-	Pričvršćivanje postolja
+-	Postavljanje na stol
+-	Pospremanje kabela
+-	Odvajanje postolja
+-	Montaža na zid
+
+18	
+
+GLEDANJE TELEVIZIJE
+
+18	
+
+Prvo uključivanje televizora
+
+Pristup glavnim izbornicima
+
+36	 KORIŠTENJE KORISNIČKOG
+VODIČA
+
+36	
+36	
+36	
+
+Pristup izborniku Korisnički vodič.
+-	Korištenje izbornika TV
+-	Korištenje daljinskog upravljača
+
+37	 ODRŽAVANJE
+37	
+37	
+37	
+37	
+38	
+
+Čišćenje televizora
+Zaslon i okvir
+Ormarić i postolje
+Kabel za napajanje
+Sprječavanje prikaza "urezane slike" ili
+“zaostale slike” na zaslonu televizora
+
+39	 RJEŠAVANJE PROBLEMA
+
+20	PRIKLJUČIVANJE
+
+39	
+
+20	
+21	
+
+40	SPECIFIKACIJE
+
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+27	
+28	
+29	
+30	
+31	
+32	
+
+Priključivanje antene
+Priključivanje HD prijemnika, DVD uređaja,
+videorekordera ili igraće konzole
+-	HDMI priključak
+-	HDMI do DVI priključak
+-	Komponentni priključak
+-	Kompozitni priključak
+-	Euro Scart priključak
+Priključak za slušalice
+Priključivanje USB uređaja
+Povezivanje s CI modulom
+Povezivanje MHL
+Povezivanje s računalom
+-	HDMI priključak
+-	HDMI do DVI priključak
+-	RGB priključak
+
+33	 DALJINSKI UPRAVLJAČ
+
+Općenito
+
+LICENCE
+
+3
+
+Podržane licence mogu se razlikovati ovisno o modelu. Dodatne informacije o licencama potražite na www.
+lg.com.
+Proizvedeno pod licencom Dolby Laboratories. "Dolby" i simbol dvostrukog
+slova D zaštitni su znakovi tvrtke Dolby Laboratories.
+
+The terms HDMI and HDMI High-Definition Multimedia Interface, and the
+HDMI logo are trademarks or registered trademarks of HDMI Licensing LLC
+in the United States and other countries.
+
+O DIVX VIDEOZAPISIMA: DivX® je format digitalnih videozapisa koji je stvorila
+tvrtka DivX, LLC, podružnica tvrtke Rovi Corporation. Ovo je ovlašteni DivX
+Certified® uređaj na kojem se mogu reproducirati DivX videozapisi. Na webmjestu divx.com možete pronaći dodatne informacije i softverske alate za
+konverziju svojih datoteka u DivX video.
+O DIVX VIDEOZAPISIMA NA ZAHTJEV: Ovaj uređaj s certifikatom DivX
+Certified® potrebno je registrirati kako bi mogao reproducirati kupljen sadržaj
+DivX videozapisa na zahtjev (VOD). Kako biste dobili registracijsku šifru,
+pronađite odjeljak DivX VOD na izborniku za postavljanje uređaja. Na webmjestu vod.divx.com potražite dodatne informacije o dovršetku registracije.
+DivX Certified® za reprodukciju DivX® sadržaja do razlučivosti HD 1080p,
+uključujući i premium sadržaj.
+DivX®, DivX Certified® i odgovarajući logotipi zaštitni su znakovi tvrtke Rovi
+Corporation ili njenih podružnica i koriste se u skladu s licencom.
+Pokriveno jednim ili više sljedećih patenata u SAD-u: 7,295,673; 7,460,668;
+7,515,710; 7,519,274
+
+HRVATSKI
+
+LICENCE
+
+4
+
+POSTUPAK MONTAŽE
+
+HRVATSKI
+
+POSTUPAK MONTAŽE
+1	 Otvorite paket i provjerite nalaze li se u njemu svi dijelovi.
+2	 Pričvrstite postolje na televizor.
+3	 Priključite vanjski uređaj na televizor.
+NAPOMENA
+Prikazana slika može se razlikovati od vašeg televizora.
+yy
+Prikaz na zaslonu vašeg televizora može se malo razlikovati od onog prikazanog u ovom priručniku.
+yy
+Dostupni izbornici i opcije mogu se razlikovati od izvora ulaznog signala ili modela proizvoda koji
+yy
+koristite.
+U budućnosti će se televizoru možda dodavati nove značajke.
+yy
+
+SASTAVLJANJE I PRIPREMA
+
+5
+
+Raspakiravanje
+Provjerite nalaze li se u pakiranju sljedeći dijelovi. Ako određeni dijelovi nedostaju, obratite se lokalnom
+distributeru od kojeg ste kupili proizvod. Slike u ovom priručniku mogu se razlikovati od kupljenog proizvoda
+i dodatne opreme.
+
+NAPOMENA
+Dodatna oprema koja se isporučuje s uređajem može se razlikovati ovisno o modelu.
+yy
+Specifikacije proizvoda ili sadržaj ovog priručnika mogu se mijenjati bez prethodne najave zbog nayy
+dograđivanja funkcija uređaja.
+
+OPREZ
+Nemojte koristiti piratske proizvode kako biste osigurali sigurnost i dugi vijek trajanja proizvoda.
+yy
+Oštećenja ili ozljede uzrokovane piratskim dijelovima nisu pokrivene jamstvom.
+yy
+
+NAPOMENA
+Dijelovi koji se isporučuju s uređajem mogu se razlikovati ovisno o modelu.
+yy
+Specifikacije proizvoda ili sadržaj ovog priručnika mogu se mijenjati bez prethodne najave zbog
+yy
+nadograđivanja funkcija uređaja.
+Kako bi se osiguralo optimalno povezivanje, kabeli i USB uređaji trebaju imati okvir debljine manje
+yy
+od 10 mm i širine manje od 18 mm. Koristite produžni kabel koji podržava USB 2.0 ako USB kabel ili
+USB memoriju ne možete priključiti na USB ulaz televizora.
+
+B
+
+B
+A
+
+A
+
+*A
+*B
+
+10 mm
+18 mm
+
+HRVATSKI
+
+SASTAVLJANJE I PRIPREMA
+
+6
+
+SASTAVLJANJE I PRIPREMA
+
+23MA73D 27MA73D
+HRVATSKI
+Daljinski upravljač / baterije
+(AAA)
+(������������������������
+Pogledajte stranicu 33,
+Pogledajte stranicu ��)
+
+CD (korisnički priručnik) /
+kartice
+
+Tijelo postolja
+
+Baza postolja
+
+Držač kabela
+
+(Pogledajte stranicu 11,
+Pogledajte stranicu 15)
+
+(Pogledajte stranicu 11,
+Pogledajte stranicu 15)
+
+(Pogledajte stranicu 14)
+
+Kabel napajanja
+
+AC-DC Adapter.
+
+(Pogledajte stranicu 13)
+
+(Pogledajte stranicu 13)
+
+ili
+
+ili
+
+Pasivni MHL kabel
+
+Izolator
+
+(Pogledajte stranicu 28)
+
+(Ovisno o zemlji)
+
+RGB kabel
+
+(Pogledajte stranicu 32)
+
+SASTAVLJANJE I PRIPREMA
+
+7
+
+NAPOMENA
+
+1. Priključite na televizor.
+
+Zid
+ANTENNA/
+CABLE IN
+
+Kabel / antena
+
+ili
+
+Izolator
+2. Priključite na set-top box.
+
+Jedan kraj izolatora priključite na kabel/antenu, a drugi na televizor ili set-top box.
+“Oprema koja je priključena na zaštitno uzemljenje instalacije u objektu putem glavne mreže ili druge
+opreme povezane sa zaštitnim uzemljenjem te koja je s kabelskim distribucijskim sustavom povezana
+koaksijalnim kabelom može u određenim okolnostima predstavljati opasnost od požara. Veza s
+kabelskim distribucijskim sustavom stoga je omogućena putem uređaja koji omogućuje strujnu izolaciju
+ispod određenog frekvencijskog raspona (galvanski izolator, pogledajte EN 60728-11)”
+
+Prilikom primjene RF izolatora može doći do neznatnog gubitka osjetljivosti signala.
+
+HRVATSKI
+
+yy Vodič za instalaciju antenskog izolatora
+-- Ove upute koristite kada televizor instalirate na mjesto na kojem postoji razlika u naponu između
+televizora i GND antenskog signala.
+»» Ako između televizora i GND antenskog signala postoji razlika u naponu, kontakt na anteni može
+se pregrijati te na taj način uzrokovati nezgodu.
+-- Sigurnost prilikom gledanja televizije možete poboljšati tako da iz televizijske antene uklonite napon. Preporuča se da izolator montirate na zid. Ako se izolator ne može montirati na zid, montirajte
+ga na televizor. Izbjegavajte iskopčavanje antenskog izolatora nakon instalacije.
+-- Prije no što počnete, provjerite je li televizijska antena priključena.
+
+8
+
+SASTAVLJANJE I PRIPREMA
+
+Dijelovi i gumbi
+HRVATSKI
+Senzor daljinskog upravljača
+Indikator mirovanja
+Indikator svijetli: 	
+yy
+Kada je napajanje isključeno
+Indikator isključen: 	
+yy
+Kada je napajanje uključeno
+
+Dodirni gumbi
+
+NAPOMENA
+Svi gumbi osjetljivi su na dodir i njima se upravlja
+jednostavnim dodirom prsta.
+Gumb za napajanje i upravljanje nalaze se na donjoj
+strani.
+
+Dodirni gumb
+
+Opis
+Kretanje kroz spremljene programe.
+Podešavanje glasnoće.
+
+OK
+
+Odabir označenih opcija izbornika ili potvrda unosa.
+
+SETTINGS
+
+Pristup glavnim izbornicima ili spremanje unosa i izlaz iz izbornika.
+
+INPUT
+
+Promjena izvora ulaznog signala.
+
+/I
+
+Uključivanje i isključivanje uređaja.
+
+SASTAVLJANJE I PRIPREMA
+
+9
+
+AV 1
+
+(PC)
+
+HRVATSKI
+
+AV 2 IN
+
+(MONO)
+
+Ploča s priključcima (Pogledajte stranicu 20)
+
+10
+
+SASTAVLJANJE I PRIPREMA
+
+HRVATSKI
+
+Podizanje i premještanje
+televizora
+
+Kada držite televizor, zaslon ne smije biti
+yy
+okrenut prema vama kako biste spriječili
+ogrebotine.
+
+Prije premještanja ili podizanja televizora pročitajte
+sljedeće upute kako se televizor ne bi izgrebao ili
+oštetio te kako biste televizor sigurno premjestili
+bez obzira na njegovu vrstu i veličinu.
+
+OPREZ
+Nikada ne dodirujte zaslon jer tako možete
+oštetiti njega ili piksele koji stvaraju sliku.
+
+Preporučujemo da televizor premještate u
+yy
+kutiji ili ambalaži u kojoj je kupljen.
+Prije premještanja ili podizanja televizora isyy
+ključite kabel za napajanje i sve ostale kabele.
+Čvrsto držite gornji i donji dio televizora.
+yy
+Pazite da ga ne držite za prozirne dijelove,
+zvučnik ili otvor zvučnika.
+
+Televizor prilikom prenošenja nemojte izlagati
+yy
+trzajima ni jakim vibracijama.
+Kada prenosite televizor, držite ga uspravno,
+yy
+nemojte ga polagati na bok niti naginjati
+lijevo ili desno.
+
+SASTAVLJANJE I PRIPREMA
+
+Postavljanje televizora
+
+2	 Bazu postolja odvojite od tijela postolja tako
+
+Ako televizor ne montirate na zid, slijedite upute u
+nastavku kako biste pričvrstili postolje.
+
+1	 Postavite televizor na ravnu i tapeciranu površinu tako da je zaslon okrenut prema dolje.
+
+OPREZ
+
+Televizor prekrijte pokrovom od pjene ili
+yy
+laganom zaštitnom tkaninom kako biste
+spriječili oštećivanje zaslona.
+Dok postavljate stalak na televizor, ekran
+yy
+postavite na obložen stol ili ravnu površinu kako biste ga zaštitili od ogrebotina.
+
+Čvrsto stegnite vijke kako biste spriječili naginjanje televizora prema naprijed. Nemojte ih
+previše stegnuti.
+
+3	 Postavite tijelo postolja televizora.
+
+HRVATSKI
+
+da vijak pomoću kovanice okrenete udesno.
+
+Pričvršćivanje postolja
+
+OPREZ
+
+11
+
+12
+
+SASTAVLJANJE I PRIPREMA
+
+OPREZ
+HRVATSKI
+Televizor nemojte držati naopako dok ga
+yy
+prenosite jer on na taj način može ispasti iz
+postolja i uzrokovati materijalnu štetu ili ozljede.
+Slika prikazuje primjer postavljanja koji se
+yy
+može razlikovati od stvarnog proizvoda.
+
+Prilikom prenošenja televizor nemojte okreyy
+tati naopako i držati ga za postolje jer on na
+taj način može ispasti iz postolja i uzrokovati
+materijalnu štetu ili ozljede.
+Slika prikazuje primjer postavljanja koji se
+yy
+može razlikovati od stvarnog proizvoda.
+
+SASTAVLJANJE I PRIPREMA
+
+Postavljanje na stol
+
+13
+
+2	 Priključite AC-DC adapter i kabel napajanja u
+HRVATSKI
+
+zidnu utičnicu.
+
+1	 Podignite i nagnite televizor u uspravan položaj
+na stolu.
+
+Ostavite (minimalno) 10 cm prostora do zida
+radi odgovarajuće ventilacije.
+
+10 cm
+10 cm
+10 cm
+10 cm
+
+OPREZ
+Nemojte postavljati televizor u blizinu izvora
+topline ili na njih jer to može dovesti do požara
+ili drugih oštećenja.
+
+UPOZORENJE
+Prilikom prilagođavanja kuta nemojte dno
+televizora držati kao što je prikazano na slici
+ispod jer na taj način možete ozlijediti prste.
+
+NAPOMENA
+Kako biste prilagodili kut gledanja televizora
+možete nagnuti prema gore ili dolje, u rasponu
+od +20 do -5 stupnjeva.
+
+-5
+
+OPREZ
+Prije prenošenja ili montaže televizora isključite
+kabel za napajanje.U suprotnom može doći do
+strujnog udara.
+
+Prednja
+strana
+
++20
+
+Stražnja strana
+
+14
+
+SASTAVLJANJE I PRIPREMA
+
+Pospremanje kabela
+HRVATSKI
+
+1	 Attach the cable holder to the edge of stand
+body securely.
+
+2	 Prikupite kabele i povežite ih isporučenim držačem za kabele.
+
+Korištenje sigurnosnog sustava Kensington
+Priključak za sigurnosni sustav Kensington nalazi se
+na stražnjoj strani televizora. Dodatne informacije
+o montiranju i korištenju potražite u priručniku koji
+ste dobili sa sigurnosnim sustavom Kensington ili
+posjetite stranicu http://www.kensington.com .
+Kabel sigurnosnog sustava Kensington spojite
+između televizora i stola.
+
+NAPOMENA
+
+OPREZ
+After attachment, if the cable holder is pulled
+with excessive force, it may fall off.
+
+Sigurnosni sustav Kensington ubraja se u
+dodatnu opremu. Dodatnu opremu možete
+nabaviti u većini trgovina elektroničkom opremom.
+
+SASTAVLJANJE I PRIPREMA
+
+Odvajanje postolja
+nu tako da je zaslon okrenut prema dolje.
+
+OPREZ
+Televizor prekrijte pokrovom od pjene ili
+yy
+laganom zaštitnom tkaninom kako biste
+spriječili oštećivanje zaslona.
+Dok odvajate stalak s televizora, ekran
+yy
+postavite na obložen stol ili ravnu površinu kako biste ga zaštitili od ogrebotina.
+
+2	 Izvucite tijelo postolja iz televizora.
+
+3	 Vijak okrenite ulijevo, a zatim bazu postolja
+odvojite od tijela postolja.
+
+HRVATSKI
+
+1	 Postavitetelevizor na ravnu i tapeciranu površi-
+
+15
+
+16
+
+SASTAVLJANJE I PRIPREMA
+
+Montaža na zid
+
+5	 Koristite VESA standard kao što je opisano u
+
+HRVATSKI
+
+Za nesmetanu ventilaciju ostavite 10 cm prostora
+sa svake strane i od zida. Detaljne upute za
+montiranje dostupne su kod prodavača, a možete
+i pročitati vodič za postavljanje i montiranje zidnog
+držača pod nagibom.
+
+10 cm
+
+10 cm
+
+10 cm
+
+nastavku.
+
+784,8 mm (30,9 inča) ili manje
+yy
+* Debljina podloška za montiranje na zid:
+2,6 mm
+* Vijak: Φ 4,0 mm x otklon 0,7 mm x
+duljina 10 mm
+787,4 mm (31,0 inča) ili više
+yy
+* Koristite vijke i podložak za montažu na zid
+sukladan VESA standardu.
+Model
+
+23MA73D
+
+27MA73D
+
+VESA (A x B)
+Standardni vijak
+Broj vijaka
+Nosač za
+montiranje na zid
+(dodatna oprema)
+
+75 x 75
+M4
+4
+RW120
+
+100 x 100
+M4
+4
+
+10 cm
+
+Ako televizor želite montirati na zid, priključite
+sučelje za montiranje na zid (dodatni dijelovi) na
+stražnji dio televizora.
+Kada televizor montirate pomoću sučelja za
+montiranje na zid (dodatni dijelovi), pažljivo ga
+montirajte kako ne bi pao.
+
+1	 Vijak i sučelje za montiranje na zid koristite u
+skladu s VESA standardima.
+
+2	 Ako koristite vijak koji je duži no što je navedeno u specifikacijama, možete oštetiti unutarnje
+dijelove televizora.
+
+3	 Ako ne upotrijebite odgovarajući vijak, proizvod
+
+se može oštetiti te pasti s mjesta na koje ste
+ga montirali. U tom slučaju tvrtka LG Electronics ne snosi nikakvu odgovornost.
+
+4	 Sukladno VESA standardu samo u odnosu na
+
+dimenzije sučelja za montiranje na zid s vijcima
+i specifikacije vijaka.
+
+VESA (A x B)
+yy
+
+A
+
+B
+
+SASTAVLJANJE I PRIPREMA
+
+17
+
+OPREZ
+
+NAPOMENA
+Koristite vijke navedene u specifikacijama
+yy
+vijaka prema VESA standardu.
+Komplet za montiranje na zid sadrži priručnik
+yy
+za montiranje i sve potrebne dijelove.
+Nosač za montiranje na zid ubraja se u doyy
+datnu opremu. Nabaviti ga možete od lokalnog distributera.
+Duljina vijaka može se razlikovati ovisno o
+yy
+zidnom nosaču. Obavezno koristite vijke odgovarajuće duljine.
+Dodatne informacije potražite u priručniku
+yy
+koji ste dobili sa zidnim nosačem.
+
+HRVATSKI
+
+Prije prenošenja ili montaže televizora iskljuyy
+čite kabel za napajanje. U suprotnom može
+doći do strujnog udara.
+Ako ga montirate na strop ili kosi zid, televiyy
+zor može pasti i uzrokovati teške ozljede.
+Koristite ovlašteni LG nosač za zid te se
+yy
+obratite lokalnom zastupniku ili kvalificiranom
+osoblju.
+	Nemojte previše stezati vijke jer tako možete
+yy
+oštetiti televizor i poništiti jamstvo.
+	Koristite vijke i zidne nosače koji zadovoljayy
+vaju VESA standard. Sva oštećenja ili ozljede
+nastale pogrešnim korištenjem ili korištenjem
+neodgovarajuće dodatne opreme nisu pokrivene jamstvom.
+
+18
+
+GLEDANJE TELEVIZIJE
+
+HRVATSKI
+
+GLEDANJE TELEVIZIJE
+Prvo uključivanje televizora
+Kada prvi put uključite televizor, prikazat će se početni zaslon s postavkama. Odaberite jezik i prilagodite
+osnovne postavke.
+
+1	 Uključite kabel za napajanje u utičnicu.
+na televizoru iligumb za uključivanje/isključivanje nadaljinskom upravljaču kako biste
+2	 Pritisnite
+uključili televizor.
+Indikator mirovanja će se isključiti.
+
+NAPOMENA
+Ako je televizor u načinu rada za uštedu energije, indikator mirovanja zasvijetlit će žutom bojom.
+
+3	 Kada prvi put uključite televizor, prikazat će se početni zaslon s postavkama.
+NAPOMENA
+Ako televizorom ne počnete upravljati u roku od 40 sekundi nakon prikaza izbornika s postavkama,
+izbornici s postavkama će nestati sa zaslona.
+
+4	 Slijediteupute na zaslonu i prilagodite televizor prema svojim željama.
+Jezik
+
+Odabir jezika za prikaz.
+
+
+Postavke načina rada
+
+
+Indikator rada
+
+
+Zemlja
+
+Odabir postavke Kućna upotreba za kućno okruženje.
+
+Odabir indikatora mirovanja.
+Ako odaberete opciju Uključeno, na prednjoj ploči televizora zasvijetlit će indikator
+mirovanja kad je televizor isključen.
+Odabir zemlje.
+
+
+Vremenska zona
+
+Odabir vremenske zone i ljetnog računanja vremena
+(ako je kao zemlja odabrana Rusija).
+
+
+
+
+Postavi lozinku
+
+Postavite lozinku
+(ako je kao zemlja odabrana Francuska/Italija).
+
+
+Korisnički vodič i savjeti za
+najčešća pitanja kod uporabe
+
+Pokazuje kako treba koristiti korisnički vodič i FAQ.
+
+
+Autom. podešavanje
+
+Automatsko skeniranje i spremanje dostupnih programa.
+
+GLEDANJE TELEVIZIJE
+
+19
+
+NAPOMENA
+
+5	 Kada završite s postavljanjem osnovnih postavki, pritisnite OK.
+NAPOMENA
+Ako ne završite s postavljanjem početnih postavki, one će se prikazivati svaki put kada uključite televizor.
+
+6	 Kako biste isključili televizor, pritisnite
+
+natelevizoru.
+
+Zasvijetlit će indikator stanja mirovanja.
+
+OPREZ
+Ako televizor ne koristite dulje vremensko razdoblje, isključite kabel za napajanje iz zidne utičnice.
+
+NAPOMENA
+Televizor iz načina rada PC u način rada TV možete prebaciti pritiskom na gumb TV/PC.
+yy
+Opciji Vraćanje tvorničkih postavki možete pristupiti i putem značajke OPCIJAu glavnim izbornicima.
+yy
+
+HRVATSKI
+
+U zemljama u kojima standardi DTV emitiranja nisu potvrđeni neke DTV značajke možda neće
+yy
+funkcionirati, ovisno o okruženju DTV emitiranja.
+Kad je kao Zemlja odabrana Francuska, početna lozinka nije "0", "0", "0", "0", već "1", "2", "3", "4".
+yy
+Kako biste u svom kućnom okruženju postigli najbolju kvalitetu slike, odaberite opciju
+yy
+Kućna upotreba.
+Rad u trgovini je opcija prikladna za prodajna okruženja.
+yy
+Ako odaberete način rada Rad u trgovini, prethodno prilagođene postavke prebacit će se na zayy
+dane postavke načina rada Rad u trgovini u roku od 2 minute.
+
+20
+
+PRIKLJUČIVANJE
+
+HRVATSKI
+
+PRIKLJUČIVANJE
+Za odabir vanjskog uređaja priključite vanjske uređaje na televizor i promijenite načine ulaza. Dodatne
+informacije o priključivanju vanjskog uređaja potražite u priručniku isporučenom uz dani uređaj.
+Dostupni vanjski uređaji su: HD prijemnici, DVD uređaji, videorekorderi, USB uređaji za pohranu, računala,
+kamere ili fotoaparati, igraće konzole i drugi vanjski uređaji.
+
+NAPOMENA
+Ako snimate televizijski program pomoću DVD snimača ili videorekordera, kabel za ulazni televizijski
+yy
+signal obavezno uključite u televizor preko DVD snimača ili videorekordera. Dodatne informacije o
+snimanju potražite u priručniku priključenog uređaja.
+Priključak vanjskog uređaja može se razlikovati ovisno o modelu.
+yy
+Priključite vanjske uređaje na televizor bez obzira na redoslijed priključaka na televizoru.
+yy
+
+Priključivanje antene
+Prilikom priključivanja antene, kabelske televizije ili kabelske kutije za gledanje televizije pridržavajte se
+sljedećih uputa. Slike se mogu razlikovati od stvarne opreme, a RF kabel nije obavezan.
+Televizor pomoću RF kabela (75) priključite na zidnu antensku utičnicu.
+
+(ne isporučuje se)
+
+Vanjska antena
+VHF antena
+yy
+UHF antena
+yy
+
+Zidna antenska utičnica
+
+NAPOMENA
+Ako želite koristiti više od 2 televizora, upoyy
+trijebite razdjelnik signala.
+Ako je kvaliteta slike loša, ugradite pojačayy
+lo signala kako biste postigli bolju kvalitetu
+slike.
+Ako je kvaliteta slike loša čak i kada je anteyy
+na priključena, usmjerite antenu u ispravnom
+smjeru.
+Dodatne informacije o priključivanju antene i
+yy
+kabela potražite na http://AntennaWeb.org .
+
+OPREZ
+Pripazite da ne savijete bakrenu žicu RF
+yy
+kabela.
+Bakrena žica
+yyKako se televizor ne bi oštetio, najprije povežite sve uređaje u skladu s uputama, a zatim
+kabel za napajanje uključite u strujnu utičnicu.
+
+PRIKLJUČIVANJE
+
+21
+
+Priključite HD prijemnik, DVD uređaj, videorekorder ili igraću konzolu na televizor i odaberite odgovarajući
+ulaz.
+
+HDMI priključak
+Uređaj je najbolje priključiti putem HDMI priključka.
+Prijenos digitalnog video i audio signala s vanjskog uređaja na televizor. Priključite vanjski uređaj na televizor
+pomoću HDMI kabela kako je prikazano na sljedećoj slici.
+
+NAPOMENA
+Koristite High Speed HDMI™ kabel.
+yy
+High Speed HDMI™ kabeli su pokazali na testovima da prenose HD signal do 1080p i više.
+yy
+Podržani DTV audio: MPEG, Dolby Digital.
+yy
+Podržani format za HDMI audio: Dolby Digital, PCM (do 192 KHz, 32k/44.1k/48k/88k/96k/176k/192k,
+yy
+DTS nije podržan.)
+
+AV 1
+
+(PC)
+
+Odaberite željeni HDMI ulaz.
+yy
+Nije važno koji ulaz koristite.
+yy
+
+AV 2 IN
+
+(MONO)
+
+(ne isporučuje se)
+
+DVD / Blu-Ray / HD kabelska kutija /
+HD STB / Igraća konzola
+
+HRVATSKI
+
+Priključivanje HD prijemnika, DVD uređaja, videorekordera ili
+igraće konzole
+
+22
+
+PRIKLJUČIVANJE
+
+HDMI do DVI priključak
+
+NAPOMENA
+
+(PC)
+
+Ako ne koristite dodatni vanjski zvučnik, vanjski uređaj na televizor priključite pomoću dodatnog audio
+kabela.
+
+AV 1
+
+HRVATSKI
+
+Prijenos digitalnog videosignala s vanjskog uređaja na televizor. Priključite vanjski uređaj na televizor
+pomoću HDMI do DVI kabela kako je prikazano na sljedećoj slici. Za prijenos audio signala priključite
+dodatni audio kabel.
+
+AV 2 IN
+
+(MONO)
+
+(ne isporučuje se)
+
+(ne isporučuje se)
+
+DVD / Blu-Ray / HD kabelska kutija /
+HD STB / Igraća konzola
+
+PRIKLJUČIVANJE
+
+23
+
+Komponentni priključak
+
+NAPOMENA
+
+AV 1
+
+Ako su kabeli neispravno postavljeni, može doći do prikaza crno-bijele slike ili iskrivljenih boja.
+yy
+Provjerite podudara li se kabel s odgovarajućom bojom priključka.
+yy
+
+AV 2 IN
+
+(ne isporučuje se)
+
+(MONO)
+
+(ne isporučuje se)
+
+DVD / Blu-Ray / HD kabelska kutija /
+HD STB / Igraća konzola
+
+HRVATSKI
+
+Prenosi analogni video i audio signal s vanjskog uređaja na televizor. Priključite vanjski uređaj na televizor
+pomoću komponentnog kabela kako je prikazano na sljedećoj slici. Za prikaz slika pomoću progresivnog
+snimanja koristite komponentni kabel.
+
+24
+
+PRIKLJUČIVANJE
+
+Kompozitni priključak
+
+NAPOMENA
+
+(PC)
+
+Provjerite podudara li se kabel s odgovarajućom bojom priključka.
+
+AV 1
+
+HRVATSKI
+
+Prenosi analogni video i audio signal s vanjskog uređaja na televizor. Priključite vanjski uređaj na televizor
+pomoću kompozitnog kabela kako je prikazano na sljedećoj slici.
+
+AV 2 IN
+
+(MONO)
+
+(ne isporučuje se)
+
+DVD / Blu-Ray / HD kabelska kutija /
+HD STB / Igraća konzola
+
+PRIKLJUČIVANJE
+
+25
+
+Euro Scart priključak
+
+Vrsta izlaza
+
+AV1 (TV izlaz1)
+
+Trenutačni
+način ulaza
+Digitalna TV
+
+Digitalna TV
+
+Analogna TV
+
+Analogna TV
+
+Komponentni, AV,
+HDMI, RGB
+
+Analogna TV
+
+1 TV izlaz : prenosi analogne ili digitalne TV signale.
+
+NAPOMENA
+
+AV 1
+
+(PC)
+
+Svaki Euro Scart kabel koji koristite mora imati zaštitu signala.
+
+AV 2 IN
+
+(MONO)
+
+(ne isporučuje se)
+
+DVD / Blu-Ray / HD kabelska kutija
+
+HRVATSKI
+
+Prenosi video i audio signal s vanjskog uređaja na televizor. Priključite vanjski uređaj na televizor pomoću
+Euro Scart kabela kako je prikazano na sljedećoj slici. Za prikaz slika pomoću progresivnog snimanja
+koristite Euro Scart kabel.
+
+26
+
+PRIKLJUČIVANJE
+
+Priključak za slušalice
+
+NAPOMENA
+
+(PC)
+
+Stavke izbornika ZVUK onemogućene su kada su priključene slušalice.
+yy
+Impendancija slušalica: 16
+yy
+Maksimalna jakost audio izlaza na slušalicama: 10 mW do 15 mW
+yy
+Veličina priključka za slušalice: 0,35 cm
+yy
+
+AV 1
+
+HRVATSKI
+
+Prijenos signala za slušalice od televizora do vanjskog uređaja. Spojite slušalice na televizor kako je
+prikazano na sljedećoj slici.
+
+AV 2 IN
+
+(MONO)
+
+(ne isporučuje se)
+
+Slušalice
+
+PRIKLJUČIVANJE
+
+27
+
+Priključivanje USB uređaja
+
+ili
+(PC)
+
+USB
+
+(ne isporučuje se)
+
+Povezivanje s CI modulom
+Za pregled kodiranih usluga (koje se naplaćuju) u digitalnom načinu rada.
+Ova značajka nije dostupna u svim zemljama.
+
+NAPOMENA
+Provjerite je li CI modul u utor za PCMCIA karticu umetnut u pravom smjeru. Ako modul nije ispravno
+yy
+umetnut, može doći do oštećenja na televizoru i utoru za PCMCIA karticu.
+Ako se na televizoru ne prikazuju videozapisi i audiozapisi kad je priključen CI+ CAM, kontaktirajte
+yy
+davatelja zemaljskih/kabelskih/satelitskih usluga.
+
+(ne isporučuje se)
+PCMCIA kartica
+
+HRVATSKI
+
+Priključite USB memoriju, kao što je USB flash memorija, vanjski tvrdi disk, MP3 uređaj ili USB čitač
+memorijskih kartica, na televizor i otvorite izbornik USB kako biste mogli koristiti različite multimedijske
+datoteke.
+
+28
+
+PRIKLJUČIVANJE
+
+Povezivanje MHL
+
+NAPOMENA
+
+(PC)
+
+Mobilni telefon priključite na HDMI IN 2(DVI/MHL) ulaz kako bi se zaslon telefona prikazao na televiyy
+zoru.
+Pasivni MHL kabel potreban je za povezivanje televizora s mobilnim telefonom.
+yy
+Ova funkcija radi samo na telefonima koji su omogućeni za MHL.
+yy
+Nekim aplikacijama može se upravljati daljinskim upravljačem.
+yy
+Uklonite pasivni MHL kabel s TV-a ako je:
+yy
+	 - Funkcija MHL onemogućena.
+	 - Mobilni uređaj napunjen do kraja u stanju mirovanja.
+
+AV 1
+
+HRVATSKI
+
+Mobile High-definition Link (MHL) je sučelje za prijenos digitalnih audiovizualnih signala s mobilnih telefona
+na televizore.
+
+AV 2 IN
+
+(MONO)
+
+(ne isporučuje se)
+
+Mobile phone
+
+PRIKLJUČIVANJE
+
+29
+
+Povezivanje s računalom
+
+* Plug & Play: funkcija koja računalu omogućuje prepoznavanje priključenog uređaja koje korisnik priključi
+na računalo i uključi, bez potrebe za konfiguracijom uređaja ili intervencijom korisnika.
+
+NAPOMENA
+Za najbolju kvalitetu slike preporučuje se koristiti televizor s HDMI priključkom.
+yy
+Ako ne koristite dodatni vanjski zvučnik, računalo na televizor priključite pomoću dodatnog audio
+yy
+kabela.
+Ako televizor uključite kada je uređaj hladan, slika na zaslonu može treperiti. To je uobičajeno.
+yy
+Koristite kabel sa zaštićenim signalnim sučeljem, poput 15-pinskog D-sub kabela te HDMI do DVI
+yy
+kabela, s feritnom jezgrom kako bi proizvod bio u skladu sa standardima.
+Na zaslonu se mogu pojaviti crvene, zelene ili plave točke. To je uobičajeno.
+yy
+Priključite kabel ulaznog signala i pritegnite ga okretanjem vijaka u smjeru kazaljke na satu.
+yy
+Zaslon nemojte dugotrajno pritiskati prstima jer to može uzrokovati privremeno izobličenje zaslona.
+yy
+Izbjegavajte dugotrajan prikaz nepomične slike na zaslonu kako ne bi došlo do urezivanja slike.
+yy
+Koristite čuvar zaslona kad god je to moguće.
+
+NAPOMENA
+Ako želite koristiti način rada HDMI-PC, oznaku unosa morate postaviti na način rada PC.
+yy
+Prikaz na zaslonu izgleda kao što je prikazano u nastavku.
+yy
+»»Prilikom uključivanja proizvoda kada se koristi HDMI ulaz.
+»»Prilikom prebacivanja na HDMI ulaz.
+Je li ulazni signal priključen na računalo?
+
+Da
+
+Ne
+
+Ne pokazuj više ovu poruku.
+
+Ako odaberete "Da", veličina i kvaliteta slike optimizirat će se za računalo.
+yy
+Ako odaberete "Ne", veličina i kvaliteta slike optimizirat će se za AV uređaj (DVD uređaj, set-top box,
+yy
+igraću konzolu).
+Ako odaberete "Ne pokazuj više ovu poruku", poruka se neće prikazivati sve dok televizor ne vratite
+yy
+na tvorničke postavke. Postavljenu vrijednost možete promijeniti u izborniku SETTINGS s ULAZ s
+Oznaka unosa.
+Vrijednosti postavljene za HDMI1/HDMI2 spremaju se zasebno.
+yy
+
+HRVATSKI
+
+Vaš televizor podržava značajku Plug & Play* i opremljen je ugrađenim Virtual Surround zvučnicima koji
+zvuk reproduciraju jasno, uz pojačan bas.
+
+30
+
+PRIKLJUČIVANJE
+
+HDMI priključak
+
+NAPOMENA
+Koristite High Speed HDMI™ kabel.
+yy
+High Speed HDMI™ kabeli su pokazali na testovima da prenose HD signal do 1080p i više.
+yy
+Ako želite koristiti način rada HDMI-PC, oznaku unosa morate postaviti na način rada PC ili DVI.
+yy
+Podržani DTV audio: MPEG, Dolby Digital.
+yy
+Podržani format za HDMI audio: Dolby Digital, PCM (do 192 KHz, 32k/44.1k/48k/88k/96k/176k/192k,
+yy
+DTS nije podržan.)
+
+(PC)
+
+Odaberite željeni HDMI ulaz.
+yy
+Nije važno koji ulaz koristite.
+yy
+
+AV 1
+
+HRVATSKI
+
+Digitalni video i audio signal s računala prenosi na televizor. Priključite osobno računalo na televizor pomoću
+HDMI kabela kako je prikazano na sljedećim slikama. Računalo trebate označiti kao ulaz kako biste ga
+pomoću HDMI kabela mogli povezati s televizorom.
+
+AV 2 IN
+
+(MONO)
+
+(ne isporučuje se)
+
+Računalo
+
+PRIKLJUČIVANJE
+
+31
+
+HDMI do DVI priključak
+
+NAPOMENA
+
+AV 1
+
+(PC)
+
+Ako želite koristiti način rada HDMI-PC, oznaku unosa morate postaviti na način rada DVI.
+yy
+Ako ne koristite dodatni vanjski zvučnik, računalo na televizor priključite pomoću dodatnog audio kayy
+bela.
+
+AV 2 IN
+
+(MONO)
+
+(ne isporučuje se)
+(ne isporučuje se)
+
+Računalo
+
+HRVATSKI
+
+Digitalni video signal s računala prenosi na televizor. Priključite računalo na televizor pomoću HDMI do DVI
+kabela kako je prikazano na sljedećim slikama. Za prijenos audio signala priključite dodatni audio kabel.
+
+32
+
+PRIKLJUČIVANJE
+
+RGB priključak
+
+NAPOMENA
+
+(PC)
+
+Ako ne koristite dodatni vanjski zvučnik, računalo na televizor priključite pomoću dodatnog audio kabela.
+
+AV 1
+
+HRVATSKI
+
+Prenosi analogni video signal s računala na televizor. Priključite računalo na televizor pomoću 15-pinskog
+D-sub kabela kako je prikazano na sljedećim slikama. Za prijenos audio signala priključite dodatni audio
+kabel.
+
+AV 2 IN
+
+(MONO)
+O)
+
+(ne isporučuje se)
+
+Računalo
+
+DALJINSKI UPRAVLJAČ
+
+33
+
+Opisi u ovom priručniku temelje se na gumbima daljinskog upravljača. Pažljivo pročitajte ovaj priručnik i
+ispravno koristite televizor. Kada mijenjate baterije, otvorite poklopac za baterije, zamijenite ih (1,5 V AAA)
+tako da odgovaraju
+i
+polu, kako prikazuje oznaka u odjeljku za baterije te vratite poklopac.
+Baterije izvadite redoslijedom obrnutim od redoslijeda umetanja.
+
+OPREZ
+Nemojte miješati stare i nove baterije jer tako
+možete oštetiti daljinski upravljač.
+
+Daljinski upravljač obavezno usmjerite prema senzoru daljinskog upravljača na televizoru.
+Prikazana slika može se razlikovati od vašeg televizora.
+
+(POWER)
+Uključivanje i isključivanje
+televizora.
+
+SUBTITLE
+Prikaz željenih podnaslova u
+digitalnom načinu rada.
+Brojčani gumbi
+Unos brojeva.
+LIST
+Pristup popisu spremljenih
+programa.
+
++
+
+-
+
+Podešavanje glasnoće.
+
+TV/RAD
+Odabir radijskog, televizijskog
+ili DTV programa.
+INPUT
+Mijenja izvor ulaznog signala,
+uključuje televizor.
+AD
+Uključivanje/isključivanje
+značajke Audio opis.
+PIP
+Uključivanje/isključivanje
+načina rada PIP.
+(Korisnički vodič)
+Pristup izborniku Korisnički vodič.
+Q.VIEW
+Povratak na posljednji gledani
+program.
+P
+Odabir programa.
+PAGE
+Prelazak na prethodni ili
+sljedeći zaslon.
+
+FAV
+Pristup popisu omiljenih
+programa.
+GUIDE
+Prikaz programskog vodiča.
+MUTE
+Isključivanje zvuka.
+
+HRVATSKI
+
+DALJINSKI UPRAVLJAČ
+
+34
+
+DALJINSKI	UPRAVLJAČ
+
+HRVATSKI
+	SETTINGS
+Pristupanje glavnom meniju.
+
+Navigacijski	gumbi	
+Kretanje kroz izbornike ili opcije.
+OK
+Odabir izbornika ili opcija i
+potvrda unosa.
+	BACK
+Vraćanje na prethodni nivo.
+SIMPLINK
+Pristup AV uređajima koji su
+putem HDMI-CEC povezani
+pomoću HDMI kabela.
+otvaranje izbornika SIMPLINK.
+TV/PC
+Odabir TV ili PC načina rada.
+
+Gumbi	u	bojama
+Služe za pristup specijalnim
+funkcijama u nekim menijima.
+
+Gumbi	teleteksta
+Ovi se gumbi koriste za
+teletekst.
+I	NFO	ⓘ
+Prikaz informacija o
+trenutnom programu i
+zaslonu.
+Q.MENU
+Pristup brzim izbornicima.
+EXIT
+Izlaz iz prikaza na zaslonu
+i povratak na gledanje
+programa.
+
+Upravljački	gumbi
+Upravljanje izbornicima
+MOJI MEDIJI ili uređajima
+kompatibilnima sa
+SIMPLINK tehnologijom
+(USB,SIMPLINK).
+
+Pozadinsko	osvjetljenje
+Podešavanje svjetline zaslona
+kontrolom pozadinskog
+osvjetljenja zaslona.
+
+NAPOMENA
+Na MHEG kanalu ne možete podesiti pozadinsko osvjetljenje pomoću žute ili plave tipke.
+
+PRILAGOĐAVANJE POSTAVKI
+
+HRVATSKI
+
+PRILAGOĐAVANJE POSTAVKI
+Pristup glavnim izbornicima
+1	 Pritisnite SETTINGS za pristup glavnim izbornicima.
+2	 Pomoću navigacijskih gumba prijeđite na jedan od sljedećih izbornika i pritisnite OK.
+3	 Pomoću navigacijskih gumba prijeđite na željenu postavku ili opciju i pritisnite OK.
+4	 Po dovršetku pritisnite EXIT. Kada se vratite na prethodni izbornik, pritisnite
+SLIKA
+
+Podešavanje veličine, kvalitete ili efekata slike.
+
+ZVUK
+
+Podešavanje kvalitete, efekata ili glasnoće zvuka.
+
+POSTAVLJANJE
+
+VRIJEME
+
+ZAKLJUČAJ
+OPCIJA
+ULAZ
+MOJI MEDIJI
+
+BACK.
+
+Postavljanje i uređivanje programa.
+Postavljanje vremena, datuma ili mjerača vremena.
+
+Zaključavanje ili otključavanje kanala i programa.
+Prilagođavanje općih postavki.
+Prikaz izvora ulaza s njihovim oznakama.
+Korištenje integriranih multimedijskih značajki.
+
+Pritisnite CRVENI gumb za pristup izbornicima Podrška za korisnike.
+yy
+Pritisnite ZELENI gumb za pristup izbornicima FAQ.
+yy
+Pritisnite OK ( ) za postavljanje postavki programa.
+Podrška za korisnike
+
+Podrška za korisnike
+Korištenje značajke Podrška za korisnike
+
+Ažur. softvera
+yy
+Test slike
+yy
+Test zvuka
+yy
+Test signala
+yy
+Info. o proiz./usluzi
+yy
+Korisnički vodič
+yy
+
+35
+
+FAQ
+
+Exit
+
+FAQ
+Odgovori na najčešća pitanja u vezi
+gledanja televizora i postavljanja
+povezanih izbornika.
+
+36
+
+	KORIŠTENJE	KORISNIČKOG	VODIČA
+
+HRVATSKI
+
+	KORIŠTENJE	KORISNIČKOG	VODIČA
+Pristup izborniku Korisnički
+vodič.
+
+Prikazana slika može se razlikovati od vašeg
+yy
+televizora.
+Korisnički vodič
+
+Korištenje izbornika TV
+
+Korištenje ulaznog uređaja
+
+1 Pritisnite SETTINGS za pristup glavnim
+izbornicima.
+
+Postavljanje ODC(krug visokog napona)
+Postavka KANALA
+
+Korištenje funkcije PIP (Slika u slici)
+
+Postavka SLIKA, ZVUK
+
+Postavljanje opcija vremena
+
+OPCIJA
+
+2	 Pritisnite	CRVENI gumb za pristup izbornicima
+Podrška	za	korisnike.
+
+Postavljanje opcija zaključavanja televizora
+
+Funkcija Napredno
+
+Postavljanje jezika
+
+Informacije
+
+Korisnički	vodič i pritisnite OK.
+
+Postavljanje zemlje
+
+1
+
+3 Pomoću navigacijskih gumba prijeđite na
+
+1 Omogućavanje odabira željene kategorije.
+
+4 Pomoću navigacijskih gumba prijeđite na
+željenu opciju i pritisnite OK.
+
+5	 Po dovršetku pritisnite	EXIT. Kada se vratite na
+prethodni izbornik, pritisnite
+
+3
+
+2
+
+	BACK.
+
+Korištenje daljinskog upravljača
+
+2 Omogućavanje odabira željene stavke.
+Pomoću strelica ꕌ/ꕍmožete se kretati
+između stranica.
+3 Omogućavanje pregleda opisa željene
+funkcije iz indeksa.
+Korisnički vodič
+
+1 OPCIJA > Postavljanje jezika
+SETTINGS  OPCIJA  Jezik
+Možete odabrati jezik na izborniku koji je prikazan na zaslonu i
+emitiranje digitalnog signala.
+y Jezik izbornika : Odabir jezika za prikaz teksta.
+y Audio Language [samo u digitalnom načinu rada] : Odabir željenog
+jezika prilikom gledanja digitalnog emitiranja koje sadrži nekoliko
+glasovnih jezika.
+y Subtitle Language [samo u digitalnom načinu rada] : Koristite
+funkciju Titlovi kada se emitiraju dva ili više jezika titlova.
+✎ Ako se teletekst ne emitira na odabranom jeziku, stranica teleteksta
+prikazat će se na zadanom jeziku za teletekst.
+
+Postavka KANALA
+Postavka SLIKA, ZVUK
+OPCIJA
+Funkcija Napredno
+Informacije
+
+1 Pritisnite
+
+(Korisnički	vodič) za pristup
+izbornicima Korisnički	vodič.
+
+2 Pomoću navigacijskih gumba prijeđite na
+željenu opciju i pritisnite OK.
+
+2
+
+Povećaj
+
+Zatvori
+
+SETTINGS  OPCIJA  Jezik
+Možete odabrati jezik na izborniku koji je prikazan na zaslonu i emitiranje
+digitalnog signala.
+y Jezik izbornika : Odabir jezika za prikaz teksta.
+y Audio Language [samo u digitalnom načinu rada] : Odabir željenog
+jezika prilikom gledanja digitalnog emitiranja koje sadrži nekoliko
+glasovnih jezika.
+y Subtitle Language [samo u digitalnom načinu rada] : Koristite funkciju
+Titlovi kada se emitiraju dva ili više jezika titlova.
+✎ Ako se teletekst ne emitira na odabranom jeziku, stranica teleteksta
+prikazat će se na zadanom jeziku za teletekst.
+
+3	 Po dovršetku pritisnite	EXIT.Kada se vratite na
+prethodni izbornik, pritisnite
+
+	BACK.
+
+2
+
+Smanji
+
+Zatvori
+
+1 Prikaz opisa odabranog izbornika.
+Pomoću strelicaꕌ/ꕍmožete se kretati
+između stranica.
+2 Povećavanje ili smanjivanje zaslonskog
+prikaza.
+
+ODRŽAVANJE
+
+37
+
+Čišćenje televizora
+Televizor redovito čistite kako biste održali najbolje radne karakteristike i produžili vijek trajanja.
+
+OPREZ
+Najprije obavezno isključite napajanje, iskopčajte kabel za napajanje i sve ostale kabele.
+yy
+Ako televizor dulje vremensko razdoblje ostavljate bez nadzora ili ga ne koristite, iskopčajte kabel za
+yy
+napajanje iz zidne utičnice kako biste spriječili oštećenja uzrokovana udarom groma ili nestankom
+struje.
+
+Zaslon i okvir
+Prašinu uklonite tako da površinu prebrišete suhom i mekom krpom.
+Za uklanjanje tvrdokornije prljavštine površine obrišite mekanom krpom navlaženom čistom vodom ili
+razrijeđenim blagim deterdžentom. Zatim odmah prebrišite čistom i suhom krpom.
+
+OPREZ
+Površinu nemojte gurati, trljati ili udarati noktima ili oštrim predmetima jer to može ostaviti ogrebotine
+yy
+na zaslonu i uzrokovati iskrivljenje slike.
+Nemojte koristiti kemikalije, kao što su vosak, benzen, alkohol, razrjeđivač, insekticid, osvježivač zraka
+yy
+ili mazivo, jer one mogu oštetiti premaz na zaslonu i uzrokovati gubitak boje.
+
+Ormarić i postolje
+Prašinu uklonite tako da kućište prebrišete suhom i mekom krpom.
+Za uklanjanje tvrdokornije prljavštine površine obrišite mekanom krpom navlaženom čistom vodom ili
+razrijeđenim blagim deterdžentom.
+
+OPREZ
+Nemojte prskati nikakvu tekućinu na površinu. Ako voda uđe u televizor, to može uzrokovati požar,
+yy
+strujni udar ili kvar.
+Nemojte koristiti nikakve kemikalije jer one mogu oštetiti površinu.
+yy
+
+Kabel za napajanje
+Redovito čistite nakupljenu prašinu ili prljavštinu s kabela.
+
+HRVATSKI
+
+ODRŽAVANJE
+
+38
+
+ODRŽAVANJE
+
+HRVATSKI
+
+Sprječavanje prikaza "urezane slike" ili “zaostale slike” na
+zaslonu televizora
+
+Ako se na zaslonu televizora dulje vrijeme prikazuje nepomična slika, ona će se urezati na zaslon i
+yy
+ostati kao trajno izobličenje. To je "urezana slika" ili "zaostala slika" i nije pokrivena jamstvom.
+Ako je format slike duže vrijeme postavljen na 4:3, može doći do efekta urezane slike u gornjem i
+yy
+donjem dijelu zaslona.
+Izbjegavajte dugo prikazivanje nepomične slike na zaslonu televizora (2 ili više sati za LCD) kako biste
+yy
+spriječili nastanak urezane slike.
+
+RJEŠAVANJE PROBLEMA
+
+39
+
+HRVATSKI
+
+RJEŠAVANJE PROBLEMA
+Općenito
+Problem
+
+Rješenje
+
+Ne mogu upravljati
+televizorom pomoću
+daljinskog upravljača.
+
+yy Provjerite senzor daljinskog upravljača i pokušajte ponovno.
+yy Provjerite postoji li neka prepreka između televizora i daljinskog upravljača.
+na ).
+yy Provjerite rade li baterije i jesu li ispravno umetnute ( na ,
+
+Nema slike ni tona.
+
+yy Provjerite je li uređaj uključen.
+yy Provjerite je li kabel za napajanje priključen u zidnu utičnicu.
+yy Provjerite je li sve u redu sa zidnom utičnicom tako da u nju uključite neki drugi uređaj.
+
+Televizor se iznenada
+isključuje.
+
+yy Provjerite postavke kontrole napajanja. Možda je prekinut dovod napajanja.
+yy Provjerite je li u opciji Postavljanje vremena aktivirana značajka Automatsko gašenje.
+yy Ako nema signala kada se televizor uključi, automatski će se isključiti nakon 15 minuta
+bez aktivnosti.
+
+40
+
+SPECIFIKACIJE
+
+HRVATSKI
+
+SPECIFIKACIJE
+Digitalna TV
+
+Analogna TV
+
+Televizijski sustav
+
+DVB-T
+DVB-C
+
+PAL/SECAM B/G/D/K, PAL I/I’, SECAM L/L’
+
+Pokrivenost programa
+
+VHF, UHF
+
+VHF: E2 do E12, UHF :
+E21 do E69, CATV: S1 do S20, HYPER: S21 do S47
+
+Maksimalan broj programa
+koji se mogu spremiti
+
+1,500
+
+23MA73D
+Zaslon
+
+Video signal
+
+Vrsta zaslona
+
+580 mm (23 inča)
+Vidljiva dijagonala: 580 mm
+
+Otklon piksela
+
+0,265 mm (V) x 0,265 mm (O)
+
+Maks. razlučivost
+
+1920 x 1080 pri 60 Hz
+
+Preporučena razlučivost
+
+1920 x 1080 pri 60 Hz
+
+Horizontalna frekvencija
+
+30 kHz do 83 kHz
+
+Vertikalna frekvencija
+
+56 Hz do 75 Hz
+
+Vrsta sinkronizacije
+
+Odvojena sinkronizacija, digitalna
+
+Ulazni priključak
+Napajanje
+
+TV, D-Sub (analogni), AV1(SCART), ulaz zvuka s računala,
+komponentni, AV2(CVBS), HDMI*2, USB, PCMCIA
+Nominalni napon
+
+19 V
+
+Potrošnja energije
+
+Uključeno: 35 W (tipično)
+Isključeno 0,4 W
+
+AC/DC adapter
+Nagib
+
+2,4 A
+
+Proizvođač: LG Innotek, Model PSAB-L101A
+Proizvođač: Lite-On, Model PA-1650-64
+Raspon nagiba
+
+Dimenzije (širina x dubina x visina)
+Masa
+
+-5 do 20°
+S postoljem
+533 mm x 173,4 mm x 399,1 mm
+3,7 kg
+Bez postolja
+533 mm x 72 mm x 325,9 mm
+3,2 kg
+
+Uvjeti u
+okruženju
+
+Radna temperatura
+Radna vlažnost
+
+10°C do 35°C
+20 % do 80 %
+
+Temperatura za
+skladištenje
+Vlažnost skladišta
+
+-10 °C do 60 °C
+5 % do 90 %
+
+Navedene specifikacije mogu se mijenjati bez prethodne najave zbog nadogradnje funkcija uređaja.
+
+SPECIFIKACIJE
+
+41
+
+27MA73D
+
+Video signal
+
+Vrsta zaslona
+
+690 mm (27 inča)
+Vidljiva dijagonala: 690 mm
+
+Otklon piksela
+
+0,3114 mm (V) x 0,3114 mm (O)
+
+Maks. razlučivost
+
+1920 x 1080 pri 60 Hz
+
+Preporučena razlučivost
+
+1920 x 1080 pri 60 Hz
+
+Horizontalna frekvencija
+
+30 kHz do 83 kHz
+
+Vertikalna frekvencija
+
+56 Hz do 75 Hz
+
+Vrsta sinkronizacije
+
+Odvojena sinkronizacija, digitalna
+
+Ulazni priključak
+Napajanje
+
+TV, D-Sub (analogni), AV1(SCART), ulaz zvuka s računala,
+komponentni, AV2(CVBS), HDMI*2, USB, PCMCIA
+Nominalni napon
+
+19 V
+
+Potrošnja energije
+
+Uključeno: 40 W (tipično)
+Isključeno 0,4 W
+
+AC/DC adapter
+Nagib
+
+2,4 A
+
+Proizvođač: LG Innotek, Model PSAB-L101A
+Proizvođač: Lite-On, Model PA-1650-64
+Raspon nagiba
+
+Dimenzije (širina x dubina x visina)
+Masa
+
+-5 do 20°
+S postoljem
+622,7 mm x 197,5 mm x 450 mm
+5,4 kg
+Bez postolja
+622,7 mm x 87,2 mm x 377,9 mm
+4,9 kg
+
+Uvjeti u
+okruženju
+
+Radna temperatura
+Radna vlažnost
+
+10°C do 35°C
+20 % do 80 %
+
+Temperatura za
+skladištenje
+Vlažnost skladišta
+
+-10 °C do 60 °C
+5 % do 90 %
+
+Navedene specifikacije mogu se mijenjati bez prethodne najave zbog nadogradnje funkcija uređaja.
+
+HRVATSKI
+
+Zaslon
+
+42
+
+SPECIFIKACIJE
+
+Podržani načini rada za RGB (PC) / HDMI (PC)
+
+Podržani način rada za HDMI (DTV)
+
+HRVATSKI
+
+Horizontalna
+Vertikalna
+frekvencija (kHz) frekvencija (Hz)
+
+Razlučivost
+
+Horizontalna
+Vertikalna
+frekvencija (kHz) frekvencija (Hz)
+
+Razlučivost
+
+720 x 400
+
+31,468
+
+70,080
+
+720 x 480
+
+640 x 480
+
+31,469
+
+59,940
+
+31,469
+31,500
+
+59,940
+60,000
+
+640 x 480
+
+37,500
+
+75,000
+
+720 x 576
+
+31,250
+
+50,000
+
+800 x 600
+
+37,879
+
+60,317
+
+1280 x 720
+
+37,500
+
+50,000
+
+800 x 600
+
+46,875
+
+75,000
+
+1280 x 720
+
+1024 x 768
+Samo HDMI(PC)
+
+44,960
+45,000
+
+59,940
+60,000
+
+48,363
+
+60,004
+
+1920 x 1080
+
+1024 x 768
+
+60,023
+
+75,029
+
+33,720
+33,750
+
+59,940
+60,000
+
+1152 x 864
+
+67,500
+
+75,000
+
+1920 x 1080
+
+28,125
+
+50,000
+
+1280 x 720
+
+45,000
+
+60,000
+
+1920 x 1080
+
+27,000
+
+24,000
+
+1280 x 800
+
+49,702
+
+59,810
+
+1920 x 1080
+
+33,750
+
+30,000
+
+1280 x 1024
+
+63,981
+
+60,020
+
+1920 x 1080
+
+56,250
+
+50,000
+
+1280 x 1024
+
+79,976
+
+75,025
+
+1920 x 1080
+
+67,430
+67,500
+
+59,940
+60,000
+
+1400 x 1050
+
+65,317
+
+59,978
+
+1440 x 900
+
+55,935
+
+59,887
+
+1600 x 900
+
+60,000
+
+60,000
+
+1680 x 1050
+
+64,674
+
+59,883
+
+1680 x 1050
+
+65,290
+
+59,954
+
+1920 x 1080
+
+67,500
+
+60,000
+
+NAPOMENA
+Optimalna rezolucija zaslona je 1920 X 1080
+na 60 Hz. Optimalna vrijednost okomite
+frekvencije u svakom načinu rada iznosi 60 Hz.
+
+Podržani komponentni način rada
+Razlučivost
+
+Horizontalna
+Vertikalna
+frekvencija (kHz) frekvencija (Hz)
+
+720 x 480
+
+15,730
+
+59,940
+
+720 x 480
+
+15,750
+
+60,000
+
+720 x 576
+
+15,625
+
+50,000
+
+720 x 480
+
+31,470
+
+59,940
+
+720 x 480
+
+31,500
+
+60,000
+
+720 x 576
+
+31,250
+
+50,000
+
+1280 x 720
+
+44,960
+
+59,940
+
+1280 x 720
+
+45,000
+
+60,000
+
+1280 x 720
+
+37,500
+
+50,000
+
+1920 x 1080
+
+33,720
+
+59,940
+
+1920 x 1080
+
+33,750
+
+60,000
+
+1920 x 1080
+
+28,125
+
+50,000
+
+1920 x 1080
+
+56,250
+
+50,000
+
+1920 x 1080
+
+67,432
+
+59,940
+
+1920 x 1080
+
+67,500
+
+60,000
+
+Informacije o komponentnom priključku
+Komponentni ulazi na
+televizoru
+
+Videoizlazi
+na DVD uređaju
+
+Y
+
+PB
+
+PR
+
+Y
+
+PB
+
+PR
+
+Y
+
+B-Y
+
+R-Y
+
+Y
+
+Cb
+
+Cr
+
+Y
+
+Pb
+
+Pr
+
+SPECIFIKACIJE
+
+43
+
+NAPOMENA
+HRVATSKI
+
+Pokušajte izbjeći dulje prikazivanje statičnih slika na TV ekranu. Nepomična slika može se trajno ureyy
+zati na zaslonu. Koristite čuvar zaslona kad god je to moguće.
+U načinu rada za računalo mogu se pojaviti smetnje u razlučivosti, okomitim uzorcima, kontrastu ili
+yy
+svjetlini. Promijenite razlučivost u načinu rada za računalo, promijenite brzinu osvježavanja ili podesite
+svjetlinu i kontrast na izborniku dok slika ne postane jasna. Ako se brzina osvježavanja grafičke kartice
+računala ne može promijeniti, promijenite grafičku karticu računala ili se obratite proizvođaču grafičke
+kartice računala.
+Oblik ulaznog sinkronizacijskog vala različit je za horizontalnu i vertikalnu frekvenciju.
+yy
+Kabel za signal priključite na RGB izlaz na računalu i RGB ulaz (PC) na televizoru ili ga priključite na
+yy
+HDMI izlaz na računalu i HDMI ulaz na televizoru.
+Audio kabel s računala priključite na audio ulaz na televizoru (audio kabeli ne isporučuju se s televizoyy
+rom).
+Ako koristite zvučnu karticu, po potrebi prilagodite zvuk računala.
+yy
+Ako grafička kartica računala ne može istodobno prenositi analogni i digitalni RGB signal, za prikaz
+yy
+slike s računala na televizoru kabel priključite samo na RGB ulaz (PC) ili na HDMI ulaz.
+Ako grafička kartica računala prenosi izlazni analogni i digitalni RGB istovremeno, postavite televizor
+yy
+na RGB ili HDMI (drugi način rada televizor automatski postavlja na Plug and Play).
+Ako koristite HDMI do DVI kabel, ovisno o grafičkoj kartici, prikaz u DOS načinu rada možda neće biti
+yy
+moguć.
+Ako koristite predug RGB-PC kabel, može doći do smetnji na zaslonu. Preporuča se koristiti kabel
+yy
+kraći od 5 m. Na taj se način osigurava najbolja kvaliteta slike.
+
+Prije korištenja proizvoda obavezno pročitajte
+sigurnosne mjere.
+Korisnički priručnik (CD) spremite na dostupno
+mjesto za buduću upotrebu.
+Model i serijski broj televizora nalaze se na
+stražnjoj i bočnoj strani televizora. Zabilježite ih
+ispod za potrebe servisiranja.
+MODEL
+SERIJSKI
+BROJ
+
+Izvorni kod za ovaj proizvod prema licencama
+GPL, LGPL, MPL i ostalim licencama za
+softver s otvorenim kodom potražite na
+stranici http://opensource.lge.com.
+Osim izvornog koda, možete preuzeti sve
+predmetne uvjete licence, izjave o odricanju
+odgovornosti i napomene o autorskim
+pravima.
+LG Electronics isporučit će vam izvorni kod na
+CD-ROM mediju pri čemu će se naplatiti
+dostava takvog medija (tj. trošak nabave
+medija, poštarina i dostava) ako e-poštom
+uputite zahtjev na opensource@lge.com.
+Ova ponuda vrijedi tri (3) dana od datuma
+nabave proizvoda.

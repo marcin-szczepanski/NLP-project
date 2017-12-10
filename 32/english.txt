@@ -1,0 +1,2380 @@
+ENGLISH
+
+OWNER’S MANUAL
+
+LED TV
+
+LG LED TV applies LCD screen with LED backlights.
+Please read this manual carefully before operating the your TV and
+retain it for future reference.
+23MA73D
+27MA73D
+
+www.lg.com
+
+2
+
+TABLE OF CONTENTS
+
+TABLE OF CONTENTS
+ENGLISH
+
+3	
+
+LICENSES
+
+35	 CUSTOMIZING SETTINGS
+35	
+
+4	
+
+INSTALLATION PROCEDURE
+
+5	
+
+ASSEMBLING AND PREPARING
+
+5	
+8	
+10	
+11	
+11	
+13	
+14	
+15	
+16	
+
+Unpacking
+Parts and buttons
+Lifting and moving the TV
+Setting up the TV
+-	Attaching the Stand
+-	Mounting on a table
+-	Tidying cables
+-	Detaching the Stand
+-	Mounting on a wall
+
+18	
+
+WATCHING TV
+
+18	
+
+Turning the TV on for the first time
+
+36	 USING THE USER GUIDE
+36	
+36	
+36	
+
+20	
+21	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+27	
+28	
+29	
+30	
+31	
+32	
+
+Connecting an antenna
+Connecting to a HD receiver, DVD, VCR
+player or Gaming device
+-	HDMI connection
+-	HDMI to DVI connection
+-	Component connection
+-	Composite connection
+-	Euro Scart connection
+Headphone connection
+Connecting to a USB
+Connecting to a CI Module
+MHL connection
+Connecting to a PC
+-	HDMI connection
+-	HDMI to DVI connection
+-	RGB connection
+
+33	 REMOTE CONTROL
+
+Accessing User Guide menu.
+-	Using the TV menu
+-	Using the Remote Control
+
+37	 MAINTENANCE
+37	
+37	
+37	
+37	
+38	
+
+Cleaning Your TV
+Screen and frame
+Cabinet and stand
+Power cord
+Preventing “Image burn” or “Burn-in” on
+your TV screen
+
+39	 TROUBLESHOOTING
+39	
+
+20	MAKING CONNECTIONS
+
+Accessing main menus
+
+General
+
+40	SPECIFICATIONS	
+
+LICENSES
+
+3
+
+LICENSES
+
+Manufactured under license from Dolby Laboratories. Dolby and the
+double-D symbol are trademarks of Dolby Laboratories.
+
+The terms HDMI and HDMI High-Definition Multimedia Interface, and the
+HDMI logo are trademarks or registered trademarks of HDMI Licensing LLC
+in the United States and other countries.
+
+ABOUT DIVX VIDEO: DivX® is a digital video format created by DivX, LLC, a
+subsidiary of Rovi Corporation. This is an official DivX Certified® device that
+plays DivX video. Visit divx.com for more information and software tools to
+convert your files into DivX videos.
+ABOUT DIVX VIDEO-ON-DEMAND: This DivX Certified® device must be
+registered in order to play purchased DivX Video-on-Demand (VOD) movies.
+To obtain your registration code, locate the DivX VOD section in your device
+setup menu. Go to vod.divx.com for more information on how to complete
+your registration.
+DivX Certified® to play DivX® video up to HD 1080p, including premium
+content.
+DivX®, DivX Certified® and associated logos are trademarks of Rovi
+Corporation or its subsidiaries and are used under license.
+Covered by one or more of the following U.S. patents: 7,295,673; 7,460,668;
+7,515,710; 7,519,274
+
+ENGLISH
+
+Supported licenses may differ by model. For more information of the licenses, visit www.lg.com.
+
+4
+
+INSTALLATION PROCEDURE
+
+INSTALLATION PROCEDURE
+ENGLISH
+
+1	 Open the package and make sure all the accessories are included.
+2	 Attach the stand to the TV.
+3	 Connect an external device to the TV.
+NOTE
+Image shown may differ from your TV.
+yy
+Your TV’s OSD (On Screen Display) may differ slightly from that shown in this manual.
+yy
+The available menus and options may differ from the input source or product model that you are
+yy
+using.
+New features may be added to this TV in the future.
+yy
+
+ASSEMBLING AND PREPARING
+
+5
+
+ASSEMBLING AND PREPARING
+ENGLISH
+
+Unpacking
+Check your product box for the following items. If there are any missing accessories, contact the local
+dealer where you purchased your product. The illustrations in this manual may differ from the actual
+product and accessories.
+
+NOTE
+The accessories supplied with your product may vary depending on the model.
+yy
+Product specifications or contents in this manual may be changed without prior notice due to
+yy
+upgrade of product functions.
+
+CAUTION
+Do not use any pirated items to ensure the safety and product life span.
+yy
+Any damages or injuries by using pirated items are not covered by the warranty.
+yy
+
+NOTE
+The items supplied with your product may vary depending on the model.
+yy
+Product specifications or contents of this manual may be changed without prior notice due to
+yy
+upgrade of product functions.
+For an optimal connection, HDMI cables and USB devices should have bezels less than 10 mm thick
+yy
+and 18 mm width. Use an extension cable that supports USB 2.0 if the USB cable or USB memory
+stick does not fit into your TV’s USB port.
+
+B
+
+B
+A
+
+A
+
+*A
+*B
+
+10 mm
+18 mm
+
+6
+
+ASSEMBLING AND PREPARING
+
+23MA73D 27MA73D
+ENGLISH
+Remote control
+Batteries (AAA)
+
+CD (Owner's Manual).
+Cards
+
+(See p.33, See p.34)
+
+Stand Body
+
+Stand Base
+
+Cable Holder
+
+(See p.11, See p. 15)
+
+(See p.11, See p. 15)
+
+(See p.14)
+
+Power Cord
+
+AC-DC Adapter
+
+(See p.13)
+
+(See p.13)
+
+or
+
+or
+
+MHL passive cable
+
+Isolator
+
+RGB cable
+
+(See p.28)
+
+(Depending on the country)
+
+(See p.32)
+
+ASSEMBLING AND PREPARING
+
+7
+
+NOTE
+
+1. Connect to TV.
+
+Wall
+ANTENNA/
+CABLE IN
+
+Cable / Antenna
+
+or
+
+Isolator
+2. Connect to Set-Top box.
+
+Connect one end of the isolator to cable/antenna jack and the other to TV set or set-top box.
+“Equipment connected to the protective earthing of the building installation through the mains
+connection or through other equipment with a connection to protective earthing - and to a cable
+distribution system using coaxial cable, may in some circumstances create a fire hazard. Connection to
+a cable distribution system has therefore to be provided through a device providing electrical isolation
+below a certain frequency range (galvanic isolator, see EN 60728-11)”
+
+When applying the RF Isolator, a slight loss of signal sensitivity can occur.
+
+ENGLISH
+
+yy Antenna Isolator Installation Guide
+-- Use this to install TV in a place where there is a voltage difference between TV Set and GND of
+antenna signal.
+»» If there is a voltage difference between TV Set and GND of antenna signal, the antenna contact
+might be heated and excessive heat might cause an accident.
+-- You can improve the safety when watching TV by efficiently removing power voltage from TV
+antenna. It is recommended to mount the isolator to the wall. If it cannot be mounted to the wall,
+mount it on the TV. Avoid disconnecting the antenna Isolator after installation.
+-- Before starting, be sure that the TV antenna is connected.
+
+8
+
+ASSEMBLING AND PREPARING
+
+Parts and buttons
+ENGLISH
+Remote Control Sensor
+Standby Light
+yyLighting On :
+When Power is turned off
+yyLighting Off :
+When Power is turned on
+
+Touch Buttons
+
+NOTE
+All of the buttons are touch sensitive and can be
+operated through simple touch with your finger.
+Power and control touch button are located on the
+bottom.
+
+Touch button
+
+Description
+Scrolls through the saved programmes.
+Adjusts the volume level.
+
+OK
+
+Selects the highlighted menu option or confirms an input.
+
+SETTINGS
+
+Accesses the main menus, or saves your input and exits the menus.
+
+INPUT
+
+Changes the input source.
+
+/I
+
+Turns the power on or off.
+
+ASSEMBLING AND PREPARING
+
+9
+
+AV 1
+
+(PC)
+
+ENGLISH
+
+AV 2 IN
+
+(MONO)
+
+Connection panel (See p.20)
+
+10
+
+ASSEMBLING AND PREPARING
+
+Lifting and moving the TV
+ENGLISH
+
+When moving or lifting the TV, read the following
+to prevent the TV from being scratched or
+damaged and for save transportation regardless of
+its type and size.
+
+When holding the TV, the screen should face
+yy
+away from you to prevent the screen from
+scratches.
+
+CAUTION
+Avoid touching the screen at all times, as
+this may result in damage to the screen or
+some of the pixels used to create images.
+
+It is recommended to move the TV in the
+yy
+box or packing material that the TV originally
+came in.
+Before moving or lifting the TV, disconnect
+yy
+the power cord and all cables.
+Hold the top and bottom of the TV frame
+yy
+firmly. Make sure not to hold the transparent
+part, speaker, or speaker grill area.
+
+When transporting the TV, do not expose the
+yy
+TV to jolts or excessive vibration.
+When transporting the TV, keep the TV
+yy
+upright, never turn the TV on its side, or tilt
+towards the left or right.
+
+ASSEMBLING AND PREPARING
+
+11
+
+Setting up the TV
+
+If you are not mounting the TV to a wall, use the
+following instructions to attach the stand.
+
+2	 Attach the Stand Base from the Stand Body by
+turning the screw to the right with a Coin.
+
+1	 Place the TV with the screen side down on a
+flat and cushioned surface.
+
+CAUTION
+Lay a foam mat or soft protective cloth
+yy
+on the surface to protect the screen from
+damage.
+When attaching the stand to the TV,
+yy
+place the screen facing down on a
+cushioned table or flat surface to protect
+the screen from scratches.
+
+CAUTION
+Tighten the screws firmly to prevent the TV
+from tilting forward. Do not over tighten.
+
+3	 Attach the Stand Body from the TV.
+
+ENGLISH
+
+Attaching the Stand
+
+12
+
+ASSEMBLING AND PREPARING
+
+CAUTION
+ENGLISH
+Do not carry the monitor upside-down
+yy
+as this may cause it to fall off its stand,
+resulting in damage or injury.
+The illustration shows a general example of
+yy
+installation and may look different from the
+actual product.
+
+Do not carry the monitor upside-down by
+yy
+holding the stand body as this may cause it
+to fall off, resulting in damage or injury.
+The illustration shows a general example of
+yy
+installation and may look different from the
+actual product.
+
+ASSEMBLING AND PREPARING
+
+Mounting on a table
+
+13
+
+2	 Connect the AC-DC Adapter and Power Cord
+ENGLISH
+
+to a wall outlet.
+
+1	 Lift and tilt the TV into its upright position on a
+table.
+
+Leave a 10 cm (4 inches) (minimum) space
+from the wall for proper ventilation.
+
+10 cm
+10 cm
+10 cm
+10 cm
+
+CAUTION
+Do not place the TV near or on sources of
+heat, as this may result in fire or other damage.
+
+WARNING
+When you adjust the angle, do not hold the
+buttom of the TV frame as shown on the
+following illustration, as may injure your fingers.
+
+CAUTION
+Disconnect the power cord first, and then move
+or install the TV. Otherwise electric shock may
+occur.
+
+NOTE
+Tilt from +20 to -5 degrees up or down to
+adjust the angle of the TV to suit your view.
+
+-5
+
+Front
+
++20
+
+Rear
+
+14
+
+ASSEMBLING AND PREPARING
+
+Tidying cables
+ENGLISH
+
+1	 Attach the cable holder to the edge of stand
+body securely.
+
+2	 Gather and bind the cables with the supplied 	
+cable holder.
+
+Using the Kensington security system
+The Kensington security system connector is
+located at the back of the TV. For more information
+of installation and using, refer to the manual
+supplied with the Kensington security system or
+visit http://www.kensington.com .
+Connect the Kensington security system cable
+between the TV and a table.
+
+NOTE
+The Kensington security system is optional.
+You can obtain additional accessories from
+most electronics stores.
+
+CAUTION
+After attachment, if the cable holder is
+pulled with excessive force, it may fall off.
+
+ASSEMBLING AND PREPARING
+
+15
+
+Detaching the Stand
+
+flat and cushioned surface.
+
+CAUTION
+Lay a foam mat or soft protective cloth
+yy
+on the surface to protect the screen from
+damage.
+When detaching the stand to the TV,
+yy
+place the screen facing down on a
+cushioned table or flat surface to protect
+the screen from scratches.
+
+2	 Pull out the Stand Body from the TV.
+
+3	 Turn the screw to the left, and then pull out the
+Stand Base from the Stand Body.
+
+ENGLISH
+
+1	 Place the TV with the screen side down on a
+
+16
+
+ASSEMBLING AND PREPARING
+
+Mounting on a wall
+
+5	 Please use VESA standard as below.
+
+ENGLISH
+
+For proper ventilation, allow a clearance of 10
+cm on each side and from the wall. Detailed
+installation instructions are available from your
+dealer, see the optional Tilt Wall Mounting Bracket
+Installation and Setup Guide.
+
+10 cm
+
+10 cm
+
+784.8 mm (30.9 inch) and under
+yy
+* Wall Mount Pad Thickness : 2.6 mm
+* Screw : Φ 4.0 mm x Pitch 0.7 mm x
+Length 10 mm
+787.4 mm (31.0 inch) and above
+yy
+* Please use VESA standard wall mount pad
+and screws.
+Model
+
+23MA73D
+
+27MA73D
+
+VESA (A x B)
+Standard screw
+Number of screws
+Wall mount bracket
+(optional)
+
+75 x 75
+M4
+4
+RW120
+
+100 x 100
+M4
+4
+
+10 cm
+
+10 cm
+
+VESA (A x B)
+yy
+If you intend to mount the TV to a wall, attach Wall
+mounting interface (optional parts) to the back of
+the TV.
+When you install the TV using the wall mounting
+interface (optional parts), attach it carefully so it
+will not drop.
+
+1 	 Please, Use the screw and wall mount interface
+in accordance with VESA Standards.
+
+2	 If you use screw longer than standard, the TV
+might be damaged internally.
+
+3 	 If you use improper screw, the product might
+
+be damaged and drop from mounted position.
+In this case, LG Electronics is not responsible
+for it.
+
+4	 VESA compatible only with respect to screw
+
+mounting interface dimensions and mounting
+screw specifications.
+
+A
+
+B
+
+ASSEMBLING AND PREPARING
+
+17
+
+CAUTION
+
+NOTE
+Use the screws that are listed on the VESA
+yy
+standard screw specifications.
+The wall mount kit includes an installation
+yy
+manual and necessary parts.
+The wall mount bracket is optional. You can
+yy
+obtain additional accessories from your local
+dealer.
+The length of screws may differ depending
+yy
+on the wall mount. Be sure to use the proper
+length.
+For more information, refer to the instructions
+yy
+supplied with the wall mount.
+
+ENGLISH
+
+Disconnect the power cord first, and then
+yy
+move or install the TV. Otherwise electric
+shock may occur.
+If you install the TV on a ceiling or slanted
+yy
+wall, it may fall and result in severe injury.
+Use an authorized LG wall mount and
+yy
+contact the local dealer or qualified
+personnel.
+	Do not over tighten the screws as this may
+yy
+cause damage to the TV and void your
+warranty.
+	Use the screws and wall mounts that meet
+yy
+the VESA standard. Any damages or injuries
+by misuse or using an improper accessory
+are not covered by the warranty.
+
+18
+
+WATCHING TV
+
+WATCHING TV
+ENGLISH
+
+Turning the TV on for the first time
+When you access the TV for the first time, the initial setting screen appears. Select a language and
+customize the basic settings.
+
+1	 Connect the power cord to a power outlet.
+2	 Press
+
+on the TV or power button on the remote control to turn the TV on.
+The Standby Light is turned off.
+
+NOTE
+When the TV is in Power saving mode, the Standby Light turns amber.
+
+3	 The initial setting screen appears if you access the TV for the first time.
+NOTE
+If you do not operate the TV within 40 seconds when the setting menu screen appears, the setting
+menus will disappear.
+
+4	 Follow the on-screen instructions to customize your TV according to your preferences.
+Language
+
+Selects a language for the display.
+
+
+Mode Setting
+
+Selects Home Use for the home environment.
+
+
+Power Indicator
+
+
+Country
+
+Selects the Standby Light. If you select On, the TV turns on the Standby Light in
+the front panel when the TV is off.
+Selects a country to display.
+
+
+Time Zone
+
+Selects the time zone and daylight saving.
+(When Russia is selected for Country)
+
+
+Set Password
+
+Set the password.
+(When France/Italy is selected for Country)
+
+
+User Guide and FAQ
+
+Shows how to use User Guide and FAQ.
+
+
+Auto Tuning
+
+Scans and saves available programmes automatically.
+
+WATCHING TV
+
+19
+
+NOTE
+
+5	 When the basic settings are complete, press OK.
+NOTE
+If you do not complete the initial setting, it will appear whenever you access the TV.
+
+6	 To turn the TV off, press
+
+on the TV.
+The Standby Light is turned on.
+
+CAUTION
+Disconnect the power cord from the power outlet when you do not use the TV for a long period of
+time.
+
+NOTE
+You can also switch the TV from PC mode to TV mode, press TV/PC.
+yy
+You can also access Factory Reset by accessing OPTION in the main menus.
+yy
+
+ENGLISH
+
+For those countries without confirmed DTV broadcasting standards, some DTV features might not
+yy
+work, depending on the DTV broadcasting environment.
+When France is selected for Country, the initial password is not ‘0’, ‘0’, ‘0’, ‘0’ but ‘1’, ‘2’, ‘3’, ‘4’.
+yy
+To display images in the best quality for your home environment, select Home Use mode.
+yy
+Store Demo mode is suitable for the retail environment.
+yy
+If you select Store Demo mode, the previously customized settings will switch to the default
+yy
+settings of Store Demo mode in 5 minutes.
+
+20
+
+MAKING CONNECTIONS
+
+MAKING CONNECTIONS
+ENGLISH
+
+Connect various external devices to the TV and switch input modes to select an external device. For more
+information about an external device’s connection, refer to the manual supplied with each device.
+Available external devices are: HD receivers, DVD players, VCRs, audio systems, USB storage devices, PC,
+camcorders or cameras, gaming devices, and other external devices.
+
+	 NOTE
+If you record a TV program on a DVD recorder or VCR, make sure to connect the TV signal input
+yy
+cable to the TV through a DVD recorder or VCR. For more information about recording, refer to the
+manual supplied with the connected device.
+The external device connection may differ from the model.
+yy
+Connect external devices to the TV regardless of the order of the TV port.
+yy
+
+Connecting an antenna
+Connect an antenna, cable or cable box to watch TV referring to the following. The illustrations may differ
+from the actual accessories and an RF cable is optional.
+Connect the TV to a wall antenna socket with an RF cable (75 Ω).
+
+(Not Provided)
+
+Outdoor Antenna
+VHF Antenna
+yy
+UHF Antenna
+yy
+
+Wall Antenna Socket
+
+NOTE
+Use a signal splitter to use more than 2 TVs.
+yy
+If the image quality is poor, install a signal
+yy
+amplifier properly to improve the image
+quality.
+If the image quality is poor with an antenna
+yy
+connected, aim the antenna to the proper
+direction.
+Visit http://AntennaWeb.org for more
+yy
+information about the antenna and cable
+connection.
+
+CAUTION
+Make sure not to bend the copper wire of
+yy
+the RF cable.
+Copper wire
+Complete all connections instructions
+yy
+between devices, and then connect the
+power cord to the power outlet to prevent
+damages to your TV.
+
+MAKING CONNECTIONS
+
+21
+
+Connecting to a HD receiver, DVD, VCR player or Gaming device
+
+HDMI connection
+HDMI is the best way to connect a device.
+Transmits the digital video and audio signals from an external device to the TV. Connect the external device
+and the TV with the HDMI cable as shown on the following illustration.
+
+NOTE
+Use a High Speed HDMI™ Cable.
+yy
+High Speed HDMI™ Cables are tested to carry an HD signal up to 1080p and higher.
+yy
+Supported DTV Audio: MPEG, Dolby Digital.
+yy
+Supported HDMI Audio format: Dolby Digital, PCM (Up to 192 KHz, 32k/44.1k/48k/88k/96k/176k/
+yy
+192k, DTS Not supported.)
+
+AV 1
+
+(PC)
+
+Choose any HDMI input port to connect.
+yy
+It does not matter which port you use.
+yy
+
+AV 2 IN
+
+(MONO)
+
+(Not Provided)
+
+DVD / Blu-Ray / HD Cable Box /
+HD STB / Gaming device
+
+ENGLISH
+
+Connect a HD receiver, DVD, VCR player or Gaming device to the TV and select an appropriate input mode.
+
+22
+
+MAKING CONNECTIONS
+
+HDMI to DVI connection
+
+NOTE
+
+(PC)
+
+If you do not use an optional external speaker, connect the external device to the TV with the optional
+audio cable.
+
+AV 1
+
+ENGLISH
+
+Transmits the digital video signal from an external device to the TV. Connect the external device and the TV
+with the HDMI to DVI cable as shown in the following illustration. To transmit an audio signal, connect an
+optional audio cable.
+
+AV 2 IN
+
+(MONO)
+
+(Not Provided)
+
+(Not Provided)
+
+DVD / Blu-Ray / HD Cable Box /
+HD STB / Gaming device
+
+MAKING CONNECTIONS
+
+23
+
+Component connection
+
+NOTE
+
+AV 1
+
+If cables are installed incorrectly, it could case the image to display in black and white or with distorted
+yy
+color.
+Check to ensure the cable are matched with the corresponding color connection.
+yy
+
+AV 2 IN
+
+(Not Provided)
+
+(MONO)
+
+(Not Provided)
+
+DVD / Blu-Ray / HD Cable Box /
+HD STB / Gaming device
+
+ENGLISH
+
+Transmits the analog video and audio signals from an external device to the TV. Connect the external
+device and the TV with the component cable as shown on the following illustration. To display images by
+using progressive scan, make sure to use the component cable.
+
+24
+
+MAKING CONNECTIONS
+
+Composite connection
+
+NOTE
+
+(PC)
+
+Check to ensure the cable are matched with the corresponding color connection.
+
+AV 1
+
+ENGLISH
+
+Transmits the analog video and audio signals from an external device to the TV. Connect the external
+device and the TV with the composite cable as shown on the following illustration.
+
+AV 2 IN
+
+(MONO)
+
+(Not Provided)
+
+DVD / Blu-Ray / HD Cable Box /
+HD STB / Gaming device
+
+MAKING CONNECTIONS
+
+25
+
+Euro Scart connection
+
+Output Type AV1 (TV Out1)
+Current
+input mode
+Digital TV
+
+Digital TV
+
+Analogue TV
+
+Analogue TV
+
+Component, AV, HDMI, RGB
+
+Analogue TV
+
+1 TV Out : Outputs Analogue TV or Digital TV signals.
+
+NOTE
+
+AV 1
+
+(PC)
+
+Any Euro scart cable used must be signal shielded.
+
+AV 2 IN
+
+(MONO)
+
+(Not Provided)
+
+DVD / Blu-Ray / HD Cable Box
+
+ENGLISH
+
+Transmits the video and audio signals from an external device to the TV. Connect the external device
+and the TV with the Euro Scart cable as shown on the following illustration. To display images by using
+progressive scan, make sure to use the Euro Scart cable.
+
+26
+
+MAKING CONNECTIONS
+
+Headphone connection
+
+NOTE
+
+(PC)
+
+AUDIO menu items are disabled when connecting a headphone.
+yy
+Headphone impedance: 16
+yy
+Max audio output of headphone: 10 mW to 15 mW
+yy
+Headphone jack size: 0.35 cm
+yy
+
+AV 1
+
+ENGLISH
+
+Transmits the headphone signal from the TV to an external device. Connect the TV with the headphone as
+shown on the following illustration.
+
+AV 2 IN
+
+(MONO)
+
+(Not Provided)
+
+Headphone
+
+MAKING CONNECTIONS
+
+27
+
+Connecting to a USB
+
+or
+(PC)
+
+USB
+
+(Not Provided)
+
+Connecting to a CI Module
+View the encrypted (pay) services in digital TV mode. This feature is not available in all countries.
+
+NOTE
+Check if the CI module is inserted into the PCMCIA card slot in the right direction. If the module is
+yy
+not inserted properly, this can cause damage to the TV and the PCMCIA card slot.
+If the TV does not display any video and audio when CI+ CAM is connected, please contact to the
+yy
+Terrestrial/Cable/Satellite Service Operator.
+
+(Not Provided)
+PCMCIA Card
+
+ENGLISH
+
+Connect a USB storage device such as s USB flash memory, external hard drive, MP3 player or a USB
+memory card reader to the TV and access the USB menu to use various multimedia files.
+
+28
+
+MAKING CONNECTIONS
+
+MHL connection
+
+NOTE
+
+(PC)
+
+Connect the mobile phone to the HDMI IN 2(MHL) port to view the phone screen on the TV.
+yy
+The MHL passive cable is needed to connect the TV and a mobile phone.
+yy
+This only works for the MHL-enabled phone.
+yy
+Some applications can be operated by the remote control.
+yy
+Remove the MHL passive cable from the TV when:
+yy
+	 - The MHL function is disabled.
+	 - Your mobile device is fully charged in standby mode.
+
+AV 1
+
+ENGLISH
+
+Mobile High-definition Link (MHL) is an interface for transmitting digital audiovisual signals from mobile
+phones to television sets.
+
+AV 2 IN
+
+(MONO)
+
+Mobile phone
+
+MAKING CONNECTIONS
+
+29
+
+Connecting to a PC
+
+* Plug & Play: The function when a PC recognizes a connected device that users connect to a PC and turn
+on, without device configuration or user intervention.
+
+NOTE
+It is recommended to use the TV with the HDMI connection for the best image quality.
+yy
+If you do not use an optional external speaker, connect the PC to the TV with the optional audio
+yy
+cable.
+If you turn the TV on when the set becomes cold, the screen may flicker. This is normal.
+yy
+Use a shielded signal interface cable, such as D-sub 15 pin signal cable and HDMI to DVI cable, with
+yy
+a ferrite core to maintain standard compliance for the product.
+Some red, green, or blue spots may appear on the screen. This is normal.
+yy
+Connect the signal input cable and tighten it by turning the screws clockwise.
+yy
+Do not press the screen with your finger for a long time as this may result in temporary distortion on
+yy
+the screen.
+Avoid displaying a fixed image on the screen for a long period of time to prevent image burn. Use a
+yy
+screensaver if possible.
+
+NOTE
+If you want to use HDMI-PC mode, you must set the input label to PC mode.
+yy
+The OSD (On Screen Display) is displayed on the screen as shown below.
+yy
+»»When turning the product on in HDMI input.
+»»When switching to HDMI input.
+Is the input connected to your PC?
+
+Yes
+
+No
+
+Do not show message again.
+
+If you select "Yes" the size and image quality are optimised for your PC.
+yy
+If you select "No" the size and image quality are optimised for the AV device (DVD player, set-top
+yy
+box, gaming device).
+If you select "Do not show message again" this message does not appear until the TV is reset. You
+yy
+can change the set value in SETTINGS s INPUT s Input Label.
+The values set for HDMI1/HDMI2 are saved independently.
+yy
+
+ENGLISH
+
+Your TV supports the Plug & Play* feature and has the built-in speakers with Virtual Surround that
+reproduces sound clearly with a rich bass.
+
+30
+
+MAKING CONNECTIONS
+
+HDMI connection
+
+NOTE
+Use a High Speed HDMI™ Cable.
+yy
+High Speed HDMI™ Cables are tested to carry an HD signal up to 1080p and higher.
+yy
+If you want to use HDMI-PC mode, you must set the input label to PC or DVI mode.
+yy
+Supported DTV Audio: MPEG, Dolby Digital.
+yy
+Supported HDMI Audio format: Dolby Digital, PCM (Up to 192 KHz, 32k/44.1k/48k/88k/96k/176k/
+yy
+192k, DTS Not supported.)
+
+(PC)
+
+Choose any HDMI input port to connect.
+yy
+It does not matter which port you use.
+yy
+
+AV 1
+
+ENGLISH
+
+Transmits the digital video and audio signals from your PC to the TV. Connect the PC and the TV with the
+HDMI cable as shown in the following illustrations. You should set PC as an input label to connect the PC to
+the TV with an HDMI connection.
+
+AV 2 IN
+
+(MONO)
+
+(Not Provided)
+
+PC
+
+MAKING CONNECTIONS
+
+31
+
+HDMI to DVI connection
+
+NOTE
+
+AV 1
+
+(PC)
+
+If you want to use HDMI-PC mode, you must set the input label to DVI mode.
+yy
+If you do not use an optional external speaker, connect the PC to the TV with the optional audio cable.
+yy
+
+AV 2 IN
+
+(MONO)
+
+(Not Provided)
+(Not Provided)
+
+PC
+
+ENGLISH
+
+Transmits the digital video signal from your PC to the TV. Connect the PC and the TV with the HDMI to DVI
+cable as shown the following illustrations. To transmit an audio signal, connect an optional audio cable.
+
+32
+
+MAKING CONNECTIONS
+
+RGB connection
+
+	NOTE
+
+(PC)
+
+If you do not use an optional external speaker, connect the PC to the TV with the optional audio cable.
+
+AV 1
+
+ENGLISH
+
+Transmits the analog video signal from your PC to the TV. Connect the PC and the TV with the D-sub 15
+pin cable as shown the following illustrations. To transmit an audio signal, connect an optional audio cable.
+
+AV 2 IN
+
+(MONO)
+O)
+
+(Not Provided)
+
+PC
+
+REMOTE CONTROL
+
+33
+
+REMOTE CONTROL
+
+CAUTION
+Do not mix old and new batteries, as this may
+damage the remote control.
+
+Make sure to point the remote control to the remote control sensor on the TV.
+Image shown may differ from your TV.
+(POWER)
+Turns the TV on or off.
+
+SUBTITLE
+Recalls your preferred subtitle
+in digital mode.
+Number buttons
+Enters numbers.
+LIST
+Accesses the saved
+programme list.
+
++
+
+-
+
+Adjusts the volume level.
+
+TV/RAD
+Selects Radio, TV and DTV
+programme.
+INPUT
+Changes the input source.
+AD
+Switches the Audio
+Description On or Off.
+PIP
+Turns the PIP mode on or off.
+(User Guide)
+Accesses the User Guide menu.
+Q.VIEW
+Returns to the previously
+viewed programme.
+P
+Selects a programme.
+PAGE
+Moves to the previous or next
+screen.
+
+FAV
+Accesses your favourite
+programme list.
+GUIDE
+Shows programme guide.
+MUTE
+Mutes all sounds.
+
+ENGLISH
+
+The descriptions in this manual are based on the buttons of the remote control. Please read this manual
+carefully and use the TV correctly.
+To replace batteries, open the battery cover, replace batteries (1.5 V AAA) matching
+and
+ends to the
+label inside the compartment, and close the battery cover.
+To remove the batteries, perform the installation actions in reverse.
+
+34
+
+REMOTE CONTROL
+
+ENGLISH
+SETTINGS
+Accesses the main menus.
+Teletext buttons
+These buttons are used for
+teletext.
+
+Navigation buttons
+Scrolls through menus or
+options.
+OK
+Selects menus or options and
+confirms your input.
+BACK
+Returns to the previous level.
+SIMPLINK
+Accesses the AV devices
+connected with the HDMI cable
+through HDMI-CEC.
+Opens the SIMPLINK menu.
+TV/PC
+Selects TV or PC mode.
+
+Coloured buttons
+These access special
+functions in some menus.
+
+INFO
+Views the information of the
+currently program and the
+screen.
+Q.MENU
+Accesses the quick menus.
+EXIT
+Clears all on-screen displays
+and return to TV viewing.
+
+Control buttons
+Controls the MY MEDIA
+menus, or the SIMPLINK
+compatible devices
+(USB,SIMPLINK).
+
+Backlight
+Adjusts the brightness of
+the screen by controlling the
+screen backlight.
+
+NOTE
+On MHEG channel, you cannot adjust the backlight with the yellow or blue key.
+
+CUSTOMIZING SETTINGS
+
+35
+
+CUSTOMIZING SETTINGS
+ENGLISH
+
+Accessing main menus
+1	 Press SETTINGS to access the main menus.
+2	 Press the Navigation buttons to scroll to one of the following menus and press OK.
+3	 Press the Navigation buttons to scroll to the setting or option you want and press OK.
+4	 When you are finished, press EXIT.
+
+BACK.
+
+When you return to the previous menu, press
+
+PICTURE
+
+Adjusts the image size, quality or effect.
+
+AUDIO
+
+Adjusts the sound quality, effect or volume level.
+
+SETUP
+
+Sets up and edit programmes.
+
+TIME
+
+Sets the time, date or Timer feature.
+
+LOCK
+
+Locks or unlocks channels and programs.
+
+OPTION
+INPUT
+MY MEDIA
+
+Customizes the general settings.
+Views the input sources with their labels.
+Using integrated media feature.
+
+Press RED button to access the Customer Support menus.
+yy
+Press GREEN Button to access the FAQ menus.
+yy
+Press OK( ) to set programme settings.
+Customer Support
+
+Customer Support
+Using Customer Support feature.
+yySoftware Update
+yyPicture Test
+yySound Test
+yySignal Test
+yyProduct/Service Info.
+yyUser Guide
+
+FAQ
+
+Exit
+
+FAQ
+Shows answers to frequently asked
+questions about TV viewing and sets
+the related menus.
+
+36
+
+USING THE USER GUIDE
+
+ENGLISH
+
+USING THE USER GUIDE
+Accessing User Guide menu.
+Using the TV menu
+
+Image shown may differ from your TV.
+yy
+User Guide
+
+3
+
+2
+To use input device
+
+1 Press SETTINGS to access the main menus.
+2 Press the RED button to access the Customer
+Support menus.
+
+3 Press the Navigation button to scroll to User
+
+To set ODC(Over Driving Circuit)
+PROGRAMME Setting
+
+option you want and press OK.
+
+5 When you are finished, press EXIT.
+
+When you return to the previous menu, press
+BACK.
+
+Using the Remote Control
+
+To set time options
+
+OPTION
+
+To set TV lock options
+
+Advanced Function
+
+To set language
+
+Information
+
+Guide and press OK.
+
+4 Press the Navigation buttons to scroll to the
+
+To use PIP(Picture In Picture)
+
+PICTURE, SOUND Setting
+
+To set country
+
+1
+1 Allows to select the category you want.
+2 Allows to select the item you want.
+You can use ꕌ/ꕍto move between pages.
+3 Allows to browse the description of the
+function you want from the index.
+User Guide
+
+1 OPTION > To set language
+SETTING   OPTION  Language
+You can select the language of the menu displayed on the screen and the
+digital sound broadcasting.
+yy Menu Language : Selects a language for the display text.
+yy Audio Language [In Digital Mode Only] : Select the desired language
+when watching digital broadcasting containg several
+voice languages.
+yy Subtitle Language [In Digital Mode Only] : Use the Subtitle function when
+two or more subtitle languages are broadcast.
+✎ If subtitle data in a selected language is not
+broadcast, the default language subtitle will
+be displayed.
+
+PROGRAMME Setting
+PICTURE, SOUND Setting
+OPTION
+Advanced Function
+Information
+
+1 Press
+
+Guide.
+
+(User Guide) to access the User
+
+2 Press the Navigation buttons to scroll to the
+option you want and press OK.
+
+3 When you are finished, press EXIT.
+
+When you return to the previous menu, press
+BACK.
+
+2
+
+Zoom In
+
+Close
+
+SETTING   OPTION  Language
+You can select the language of the menu displayed on the screen and the
+digital sound broadcasting.
+yy Menu Language : Selects a language for the display text.
+yy Audio Language [In Digital Mode Only] : elect the desired language when
+watching digital broadcasting containg several voice
+languages.
+yy Subtitle Language [In Digital Mode Only] : Use the Subtitle function when
+two or more subtitle languages are broadcast.
+✎ If subtitle data in a selected language is not broadcast, the default language subtitle will be displayed.
+
+2
+
+Zoom Out
+
+Close
+
+1 Shows the description of the selected menu.
+You can use ꕌ/ꕍto move between pages.
+2 Zooms in or out the screen.
+
+MAINTENANCE
+
+37
+
+MAINTENANCE
+Clean your TV regularly to keep the best performance and to extend the product lifespan.
+
+CAUTION
+Make sure to turn the power off and disconnect the power cord and all other cables first.
+yy
+When the TV is left unattended and unused for a long time, disconnect the power cord from the wall
+yy
+outlet to prevent possible damage from lightning or power surges.
+
+Screen and frame
+To remove dust, wipe the surface with a dry and soft cloth.
+To remove major dirt, wipe the surface with a soft cloth dampened in clean water or a diluted mild
+detergent. Then wipe immediately with a clean and dry cloth.
+
+CAUTION
+Do not push, rub, or hit the surface with your fingernail or a sharp object, as this may result in
+yy
+scratches on the screen and image distortions.
+Do not use any chemicals, such as waxes, benzene, alcohol, thinners, insecticides, air fresheners,
+yy
+lubricants, as these may damage the screen’s finish and cause discolorations.
+
+Cabinet and stand
+To remove dust, wipe the cabinet with a dry and soft cloth.
+To remove major dirt, wipe the cabinet with a soft cloth dampened in a clean water or water containing a
+small amount of mild detergent.
+
+CAUTION
+Do not spray liquid onto the surface. If water enters the TV, it may result in fire, electric shock, or
+yy
+malfunction.
+Do not use any chemicals as this may deteriorate the surface.
+yy
+
+Power cord
+Remove the accumulated dust or dirt on the power cord regularly.
+
+ENGLISH
+
+Cleaning Your TV
+
+38
+
+MAINTENANCE
+
+Preventing “Image burn” or “Burn-in” on your TV screen
+ENGLISH
+If a fixed image displays on the TV screen for a long period of time, it will be imprinted and become
+yy
+a permanent disfigurement on the screen. This is “image burn” or “burn-in” and not covered by the
+warranty.
+If the aspect ratio of the TV is set to 4:3 for a long period of time, image burn may occur on the
+yy
+letterboxed area of the screen.
+Avoid displaying a fixed image on the TV screen for a long period of time (2 or more hours for LCD)
+yy
+to prevent image burn.
+
+TROUBLESHOOTING
+
+39
+
+TROUBLESHOOTING
+ENGLISH
+
+General
+Problem
+
+Resolution
+
+Cannot control the TV with
+the remote control.
+
+yy Check the remote control sensor on the product and try again.
+yy Check if there is any obstacle between the product and the remote control.
+yy Check if the batteries are still working and properly installed ( to , to ).
+
+No image display and no
+sound is produced.
+
+yy Check if the product is turned on.
+yy Check if the power cord is connected to a wall outlet.
+yy Check if there is a problem in the wall outlet by connecting other products.
+
+The TV turns off suddenly.
+
+yy Check the power control settings. The power supply may be interrupted.
+yy Check if the Auto sleep feature is activated in the Time settings.
+yy If there is no signal while the TV is on, the TV will turn off automatically after
+15 minutes of inactivity.
+
+40
+
+SPECIFICATIONS
+
+SPECIFICATIONS	
+ENGLISH
+
+Digital TV
+
+Analogue TV
+
+Television system
+
+DVB-T
+DVB-C
+
+PAL/SECAM B/G/D/K, PAL I/I’, SECAM L/L’
+
+Programme coverage
+
+VHF, UHF
+
+VHF: E2 to E12, UHF : E21 to E69, CATV: S1 to
+S20, HYPER: S21 to S47
+
+Maximum number of
+storable programmes
+
+1,500
+
+23MA73D
+Panel
+
+Video Signal
+
+Screen Type
+
+580 mm Wide (23 inch)
+Visible diagonal size : 580 mm
+
+Pixel Pitch
+
+0.265 mm (H) x 0.265 mm (V)
+
+Max. Resolution
+
+1920 × 1080 @ 60 Hz
+
+Recommended Resolution 1920 × 1080 @ 60 Hz
+Horizontal Frequency
+
+30 kHz to 83 kHz
+
+Vertical Frequency
+
+56 Hz to 75 Hz
+
+Synchronization Type
+
+Separate Sync, Digital
+
+Input Connector
+Power
+
+TV, D-Sub Analog, AV1(SCART), PC Audio In, Component,
+AV2(CVBS), HDMI*2, USB, PCMCIA
+Rated Voltage
+
+19 V
+
+Power Consumption
+
+On Mode : 35 W (typ.)
+Off Mode 0.4 W
+
+AC/DC Adapter
+Tilt
+
+2.4 A
+
+Manufacturer: LG Innotek, Model: PSAB-L101A
+Manufacturer: Lite-On, Model: PA-1650-64
+
+Tilt Range
+
+Dimensions (Width x Depth x Height)
+Weight
+
+-5 to 20°
+With Stand
+533 mm x 173.4 mm x 399.1 mm
+3.7 kg
+Without Stand
+533 mm x 72 mm x 325.9 mm
+3.2 kg
+
+Environmental
+conditions
+
+Operating Temperature
+Operating Humidity
+
+10 °C to 35 °C
+20 % to 80 %
+
+Storage Temperature
+Storage Humidity
+
+-10 °C to 60 °C
+5 % to 90 %
+
+Product specifications shown above may be changed without prior notice due to upgrade of product
+functions.
+
+SPECIFICATIONS
+
+41
+
+27MA73D
+
+Video Signal
+
+Screen Type
+
+690 mm Wide (27 inch)
+Visible diagonal size : 690 mm
+
+Pixel Pitch
+
+0.3114 mm (H) x 0.3114 mm (V)
+
+Max. Resolution
+
+1920 × 1080 @ 60 Hz
+
+Recommended Resolution 1920 × 1080 @ 60 Hz
+Horizontal Frequency
+
+30 kHz to 83 kHz
+
+Vertical Frequency
+
+56 Hz to 75 Hz
+
+Synchronization Type
+
+Separate Sync, Digital
+
+Input Connector
+Power
+
+TV, D-Sub Analog, AV1(SCART), PC Audio In, Component,
+AV2(CVBS), HDMI*2, USB, PCMCIA
+Rated Voltage
+
+19 V
+
+Power Consumption
+
+On Mode : 40 W (typ.)
+Off Mode 0.4 W
+
+AC/DC Adapter
+Tilt
+
+2.4 A
+
+Manufacturer: LG Innotek, Model: PSAB-L101A
+Manufacturer: Lite-On, Model: PA-1650-64
+
+Tilt Range
+
+Dimensions (Width x Depth x Height)
+Weight
+
+-5 to 20°
+With Stand
+622.7 mm x 197.5 mm x 450 mm
+5.4 kg
+Without Stand
+622.7 mm x 87.2 mm x 377.9 mm
+4.9 kg
+
+Environmental
+conditions
+
+Operating Temperature
+Operating Humidity
+
+10 °C to 35 °C
+20 % to 80 %
+
+Storage Temperature
+Storage Humidity
+
+-10 °C to 60 °C
+5 % to 90 %
+
+Product specifications shown above may be changed without prior notice due to upgrade of product
+functions.
+
+ENGLISH
+
+Panel
+
+42
+
+SPECIFICATIONS
+
+RGB (PC) / HDMI (PC) supported mode
+
+HDMI (DTV) supported mode
+
+ENGLISH
+
+Horizontal
+Frequency(kHz)
+
+Vertical
+Frequency(Hz)
+
+720 x 480
+
+31.469
+31.500
+
+59.940
+60.000
+
+59.940
+
+720 x 576
+
+31.250
+
+50.000
+
+75.000
+
+1280 x 720
+
+37.500
+
+50.000
+
+37.879
+
+60.317
+
+1280 x 720
+
+800 x 600
+
+46.875
+
+75.000
+
+44.960
+45.000
+
+59.940
+60.000
+
+1024 x 768
+
+48.363
+
+60.004
+
+1920 x 1080
+
+1024 x 768
+Only HDMI(PC)
+
+33.720
+33.750
+
+59.940
+60.000
+
+56.476
+
+70.069
+
+1920 x 1080
+
+28.125
+
+50.000
+
+27.000
+
+24.000
+
+Resolution
+
+Horizontal
+Frequency(kHz)
+
+Vertical
+Frequency(Hz)
+
+720 x 400
+
+31.468
+
+70.080
+
+640 x 480
+
+31.469
+
+640 x 480
+
+37.500
+
+800 x 600
+
+Resolution
+
+1024 x 768
+
+60.023
+
+75.029
+
+1920 x 1080
+
+1152 x 864
+
+67.500
+
+75.000
+
+1920 x 1080
+
+33.750
+
+30.000
+
+1280 x 720
+
+45.000
+
+60.000
+
+1920 x 1080
+
+56.250
+
+50.000
+
+1920 x 1080
+
+67.430
+67.500
+
+59.940
+60.000
+
+1280 x 800
+
+49.702
+
+59.810
+
+1280 x 1024
+
+63.981
+
+60.020
+
+1280 x 1024
+
+79.976
+
+75.025
+
+1400 x 1050
+
+65.317
+
+59.978
+
+1440 x 900
+
+55.935
+
+59.887
+
+1600 x 900
+
+60.000
+
+60.000
+
+1680 x 1050
+
+64.674
+
+59.883
+
+1680 x 1050
+
+65.290
+
+59.954
+
+1920 x 1080
+
+67.500
+
+60.000
+
+NOTE
+The optimal display resolution is 1920 X
+1080@60Hz. The optimal timing in each
+mode is vertical frequency 60Hz.
+
+Component supported mode
+Resolution
+
+Horizontal
+Frequency(kHz)
+
+Vertical
+Frequency(Hz)
+
+720 x 480
+
+15.730
+
+59.940
+
+720 x 480
+
+15.750
+
+60.000
+
+720 x 576
+
+15.625
+
+50.000
+
+720 x 480
+
+31.470
+
+59.940
+
+720 x 480
+
+31.500
+
+60.000
+
+720 x 576
+
+31.250
+
+50.000
+
+1280 x 720
+
+44.960
+
+59.940
+
+1280 x 720
+
+45.000
+
+60.000
+
+1280 x 720
+
+37.500
+
+50.000
+
+1920 x 1080
+
+33.720
+
+59.940
+
+1920 x 1080
+
+33.750
+
+60.000
+
+1920 x 1080
+
+28.125
+
+50.000
+
+1920 x 1080
+
+56.250
+
+50.000
+
+1920 x 1080
+
+67.432
+
+59.940
+
+1920 x 1080
+
+67.500
+
+60.000
+
+Component port connecting information
+Component ports on the
+TV
+
+Video output ports
+on DVD player
+
+Y
+
+PB
+
+PR
+
+Y
+
+PB
+
+PR
+
+Y
+
+B-Y
+
+R-Y
+
+Y
+
+Cb
+
+Cr
+
+Y
+
+Pb
+
+Pr
+
+SPECIFICATIONS
+
+43
+
+	NOTE
+ENGLISH
+
+Avoid keeping a fixed image on the set’s screen for prolonged periods of time. The fixed image may
+yy
+become permanently imprinted on the screen. Use a screen saver when possible.
+There may be interference relating to resolution, vertical pattern, contrast or brightness in PC mode.
+yy
+Change the PC mode to another resolution or change the refresh rate to another rate or adjust the
+brightness and contrast on the menu until the picture is clear. If the refresh rate of the PC graphic
+card can not be changed, change the PC graphic card or consult the manufacturer of the PC graphic
+card.
+The synchronization input waveform for Horizontal and Vertical frequencies are separate.
+yy
+Connect the signal cable from the RGB output port of the PC to the RGB (PC) port of the TV or the
+yy
+signal cable from the HDMI output port of the PC to the HDMI IN port on the TV.
+Connect the audio cable from the PC to the Audio input on the TV. (Audio cables are not included
+yy
+with the TV).
+If using a sound card, adjust PC sound as required.
+yy
+If the graphic card on the PC does not output analogue and digital RGB simultaneously, connect only
+yy
+one of either RGB or HDMI IN to display the PC output on the TV.
+If the graphic card on the PC does output analogue and digital RGB simultaneously, set the TV to
+yy
+either RGB or HDMI. (The other mode is set to Plug and Play automatically by the TV.)
+DOS mode may not work depending on the video card if you use an HDMI to DVI cable.
+yy
+If you use too long an RGB-PC cable that is too long, there may be interference on the screen. We
+yy
+recommend using under 5 m of cable. This provides the best picture quality.
+
+Make sure to read the Safety Precautions
+before using the product.
+Keep the Owner’s Manual (CD) in an
+accessible place for future reference.
+The model and serial number of the TV is
+located on the back and one side of the
+TV. Record it below should you ever need
+service.
+MODEL
+SERIAL
+
+To obtain the source code under GPL, LGPL,
+MPL and other open source licenses, that is
+contained in this product, please visit http://
+opensource.lge.com.
+In addition to the source code, all referred
+license terms, warranty disclaimers and
+copyright notices are available for download.
+LG Electronics will also provide open source
+code to you on CD-ROM for a charge covering
+the cost of performing such distribution (such
+as the cost of media, shipping and handling)
+upon email request to opensource@lge.com.
+This offer is valid for three (3) years from the
+date on which you purchased the product.

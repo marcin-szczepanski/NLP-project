@@ -1,1774 +1,2577 @@
-PRIRUâNIK ZA VLASNIKA
-LG SU·ILICA RUBLJA S
-TOPLINSKOM PUMPOM
-Molimo paÏljivo proãitajte priruãnik prije upotrebe ure√aja i
-saãuvajte ga kao podsjetnik u sluãaju potrebe.
-RC8055AP3Z / BP3Z
-RC8055AP2Z / BP2Z
-RC8055AP1Z / BP1Z
-RC8055APZ / BPZ
-MFL67708658
+KORISNIČKI PRIRUČNIK
+DLP PROJEKTOR
+Prije rukovanja kompletom pažljivo pročitajte ovaj priručnik i zadržite ga
+za buduće potrebe.
+HS200
+HS200G
+HS201
+HS201G
 www.lg.com
-Karakteristike
-Bubanj ekstra velikog kapaciteta
-Bubanj ekstra velikog kapaciteta od 8,0 kg omoguçuje u ovoj LG
-su‰ilici su‰enje veçe koliãine rublja odjednom, ãime se ‰tedi vrijeme!
-Energy
-Manja potro‰nja energije
-Su‰ilice LG s toplinskom pumpom tro‰e manje energije od
-konvencionalnih su‰ilica zahvaljujuçi optimiranom izmjenjivaãu
-topline i™ tehnologiji samoãi‰çenja.
-Ova LG su‰ilica s toplinskom
-pumpom konstruirana je da vam u‰tedi novac.
-Skraçeno vrijeme su‰enja
-save
-Vrijeme su‰enja sada je kraçe zahvaljujuçi LGovom hibridnom
-sustavu su‰enja i optimiranom izmjenjivaãu topline na ovoj LG
-su‰ilici.
-Skraçena razina buke
-Smanjili smo razinu buke pri radu ove LG su‰ilice primjenom
-inovativnih tehnologija za apsorbiranje i praçenje zvuka, zahvaljujuçi
-ãemu je ona mnogo ti‰a od konvencionalnih su‰ilica.
-Lakoça rukovanja
-·irokim elektroniãkim LED zaslonom na ovoj perilici vrlo je lako
-rukovati.
-Jednostavno odaberite program koji Ïelite, a LG su‰ilica
-odradit çe ostalo.
-Na raspolaganju je i funkcija Smart Diagnosis™.
-SadrÏaj
-Upute o sigurnosti 3
-Tehniãki podaci .29
-Upute za montaÏu 6
-Jamstvo 30
-Izgled i konstrukcija 10
-Rukovanje su‰ilicom11
-Dodatne funkcije 17
-OdrÏavanje su‰ilice .19
-Dodatni praktiãni savjeti za
-pametno kori‰tenje 21
-Vodiã za otklanjanje
-smetnji .26
-2
-Upute o sigurnosti
-Radi svoje sigurnosti morate se pridrÏavati uputa u ovom priruãniku kako biste u najveçoj
-mjeri umanjili opasnost od poÏara ili eksplozije, strujnog udara, ili kako biste sprijeãili
-o‰teçenje imovine, ozljede ili smrt.
-UPOZORENJE
- NepridrÏavanje ovih pravila moÏe prouzroãiti ozljede ili smrtne posljedice.
-Strogo je zabranjeno koristiti ure√aj u svrhe koje nije predvidio proizvo√aã.
-LG ne
-preuzima potpunu odgovornost za ‰tetu prouzroãenu nepravilnim ili nenamjenskim
-kori‰tenjem.
-Ne obavljajte popravke i ne zamjenjujte dijelove perilice i ne poku‰avajte obavljati
-servisiranje, osim u sluãajevima kada se to izriãito preporuãuje u uputama za korisniãko
-odrÏavanje ili u objavljenim uputama za popravak od strane samog korisnika, a koje ste
-razumjeli i za koje imate potrebna znanja.
-Opasnosti
- Prije ukljuãivanja kabela
-za napajanje u struju
-provjerite je li uzemljen i
-spojen na prekidaã.
-Ne koristite o‰teçen
-strujni kabel i ne
-stavljajte na njega te‰ke
-predmete.
-Ako ne postoji
-uzemljenje moÏe doçi do
-kvarova ili strujnog
-udara.
-O‰teçen strujni kabel
-moÏe izazvati poÏar ili
-strujni udar.
-Ne kuljuãujte u adapter.
-Ne koristite s produÏnim
-kabelom.
-Ne dodirujte utikaã ili
-prekidaã mokrim
-rukama.
-Pregrijavanje utiãnice
-moÏe izazvati poÏar.
-MoÏe doçi do strujnog
-udara.
-Prilikom instaliranja
-su‰ilice nemojte skidati
-gornju ploãu.
-Nemojte izvoditi
-preinake na ure√aju.
-Prilikom odspajanja
-pridrÏavajte za kabel, ne
-za utikaã.
-MoÏe doçi do kvara,
-poÏara ili strujnog udara.
-Su‰ilica ne smije biti u
-blizini kuhala, otvorenog
-plamena ili drugih
-zapaljivih predmeta.
-MoÏe doçi do poÏara ili
-taljenja dijelova.
-MoÏe doçi do o‰teçenja
-kabla koje moÏe izazvati
-poÏar ili strujni udar.
-Oãistite kabel od
-neãistoça i mrlja i ãvrsto
-ga utaknite u utiãnicu.
-Neãistoça i lo‰i spojevi
-mogi izazvati poÏar.
-3
-Upute o sigurnosti
- Ne koristite su‰ilicu ako
-su kabel, utikaã ili
-utiãnica o‰teçeni.
-DrÏite kuçne ljubimce
-dalje od su‰ilice.
-MoÏe doçi do kvara,
-poÏara ili strujnog udara.
-Kuçni ljubimci mogu
-o‰tetiti su‰ilicu ili
-pretrpjeti strujni udar.
-Ne postavljajte i ne
-spremajte perilicu na
-mjesta izloÏena
-vremenskim nepogodama.
-Ne priti‰çite gumbe
-koristeçi o‰tre predmete
-poput noÏeva i odvijaãa.
-MoÏe doçi do poÏara, strujnog
-udara ili smetnji u radu.
-Za prikljuãivanje u struju
-ne koristite produÏne
-kabele ili adaptere.
-MoÏe doçi do kvara,
-poÏara ili strujnog udara.
-Ne prskajte su‰ilicu
-vodom.
-MoÏe doçi do kvara,
-poÏara ili strujnog udara.
-Prilikom ãi‰çenje perilice
-ili kad je izvan uporabe
-izvucite strujni kabel.
-Voda ili neãistoça mogu
-izazvati strujni udar.
-Nemojte djeci ili kuçnim
-ljubimcima dopu‰tati igru na
-su‰ilici ili u njoj.
-Mala djeca ili nesamostalne
-osobe ne smiju koristiti
-ure√aj bez nadzora.
-Malu djecu treba nadzirati
-kako bi se osiguralo da se
-ne igraju s ure√ajem.
-Djeca i kuçni ljubimci
-mogu se ozlijediti ili
-ugu‰iti.
-4
-MoÏe doçi do o‰teçenja
-su‰ilice ili do strujnog udara.
-Ne su‰ite predmete koji su
-bili ãi‰çeni, prani, namakani
-ili zaprljani zapaljivim ili
-eksplozivnim sredstvima
-(npr.
-vosak, nafta, boja,
-benzin, odma‰çivaãi,
-otapala za kemijsko
-ãi‰çenje, kerozin i sl.).
-MoÏe doçi do poÏara ili
-eksplozije.
-Ne stavljajte zapaljive
-predmete u blizinu su‰ilice.
-MoÏe doçi do stvaranja
-otrovnih plinova, o‰teçenja
-dijelova, poÏara ili eksplozije.
-Prije nego ‰to ure√aj stavljate
-izvan uporabe ili odbacujete
-iskljuãite ga iz struje, a nakon
-toga skinite vrata i odsijecite
-kabel za napajanje kako biste
-sprijeãili zlouporabu.
-MoÏe doçi do nesreçe i
-ozlje√ivanja.
-AmbalaÏna vreça nije
-igraãka.
-Po otvaranju
-potrebno ju je uni‰titi.
-Kako bi se izbjegla
-moguçnost gu‰enja,
-drÏite ambalaÏnu vreçu
-podalje od beba i djece.
-Upute o sigurnosti
- Ako se ure√aj napaja strujom pomoçu produÏnog kabela ili elektriãnog
-prikljuãka, prijenosni prikljuãni ure√aj mora biti postavljen tako da nije
-izloÏen vlazi ili prskanju.
-U suprotnom moÏe doçi do strujnog udara, poÏara, kvara ili
-deformacije.
-Predmeti koji su poprskani ili natopljeni biljnim ili jestivim uljem
-predstavljaju opasnost od poÏara i ne smiju se stavljati u su‰ilicu.
-Predmete zaprljane tvarima kao ‰to su jestivo ulje, aceton, alkohol,
-benzin, kerozin, sredstva za uklanjanje mrlja, terpentin, vosak i
-odstranjivaãi voska, prije su‰enja u su‰ilici potrebno je oprati u vruçoj
-vodi s dodatnom koliãinom deterdÏenta.
-MoÏe doçi do spontanog zapaljenja, a time do eksplozije i poÏara.
-Predmeti izra√eni od pjene, gume, plastike ili drugih tkanina osjetljivih
-na toplinu (kao ‰to su kupaonski tepisi, protuklizne prostirke ili
-kabanice) ne smiju se su‰iti u su‰ilici na postavci topline.
-Predmeti poput pjenaste gume (lateks pjena), kapa za tu‰iranje,
-vodootpornih tkanina, predmete s gumenom podlogom, jastuke s
-umetcima od pjenaste gume ne smiju se su‰iti u su‰ilici.
-MoÏe doçi do spontanog zapaljenja, a time do eksplozije i poÏara.
-Plastiãni predmeti poput kapa za tu‰iranje ili nepromoãivih pelena ne
-smiju se stavljati u su‰ilicu.
-MoÏe doçi do spontanog zapaljenja, a time do eksplozije i poÏara.
-Ako se su‰ilica postavlja na tepih moÏe doçi do o‰teçenja uslijed lo‰eg
-provjetravanja.
-MoÏe doçi do spontanog zapaljenja, a time do eksplozije i poÏara.
-Omek‰ivaãe tkanina ili sliãna sredstva treba koristiti kako je navedeno
-u uputama proizvo√aãa.
-Radi smanjenja opasnosti od ozlje√ivanja, pridrÏavajte se svih
-preporuãenih sigurnosnih mjera i postupaka ukljuãujuçi kori‰tenje
-dugaãkih za‰titnih rukavica i sigurnosnih naoãala.
-NepridrÏavanje svih
-sigurnosnih upozorenja u ovom priruãniku moÏe imati za posljedicu
-o‰teçenje imovine, ozljede i smrt.
-5
-Upute za montaÏu
-Sljedeçe upute vodit çe vas kroz poãetne korake za postavljanje su‰ilice.
-Imajte na umu
-da svaki dio ovog priruãnika daje vaÏne informacije o pripremi i uporabi su‰ilice, stoga je
-vaÏno da prije nego ‰to nastavite s ugradnjom ili uporabom prouãite kompletan priruãnik.
-Osigurajte pridrÏavanje svih navedenih upozorenja i mjera opreza.
-Ove upute za montaÏu
-namijenjene su struãno osposobljenim instalaterima.
-Proãitajte ove upute za montaÏu u
-cijelosti i pozorno.
-Informacije o sigurnosti
-Opasnost od ozlje√ivanja
-Su‰ilica je vrlo te‰ka, stoga ju ne
-poku‰avajte podiçi sami.
-Ne podiÏite su‰ilicu pridrÏavanjem za
-dijelove koji str‰e, npr.
-gumbe za
-pode‰avanje ili vrata, jer mogu puknuti.
-Opasnost od pada ili spoticanja
-Vodite raãuna da nema olabavljenih crijeva
-ili kabela.
-Provjerite su‰ilicu na eventualna
-o‰teçenja nastala tijekom transporta.
-Ne spajajte su‰ilicu ako ima vidljivih
-znakova o‰teçenja.
-Ako niste sigurni obratite se lokalnom
-zastupniku LG-a.
-Uvijek potpuno ispraznite
-su‰ilicu prije transporta.
-Su‰ilica ne smije biti smje‰tena u neposrednoj
-blizini plinskih plamenika, ‰tednjaka, grijalica
-ili ro‰tilja jer ju plamen iz plamenika moÏe
-o‰tetiti.
-Kad se su‰ilica ugra√uje ispod radne
-povr‰ine osigurajte po 30-50 cm prostora s
-obje boãne i sa straÏnje strane su‰ilice kako bi
-se omoguçio izlaz zraka na straÏnjoj re‰etki.
-To strujanje zraka od kritiãne je vaÏnosti za
-kondenzaciju vode tijekom procesa su‰enja.
-Ako su‰ilicu koristite u blizini perilice rublja ili
-postavljenu na perilici, za svaki ure√aj
-potrebni su zasebni utikaã i utiãnica.
-Nemojte
-koristiti dvostruki adapter ili produÏni kabel.
-MoÏete postaviti su‰ilicu na perilicu rublja radi
-u‰tede prostora.
-Pribor za takvo postavljanje
-moÏete dobiti kod lokalnog specijaliziranog
-trgovca.
-■ Upute za montaÏu postavljanjem na perilicu rublja
-LG su‰ilicu moÏete postaviti na perilicu rublja s prednjim punjenjem priãvrstiv‰i je
-posebnim priborom za takvu montaÏu (vidjeti upute na sljedeçoj stranici).
-Ovu montaÏu
-mora izvesti iskusna struãna osoba kako bi se osigurala njena ispravnost.
-Instalater çe osigurati da imate ispravan pribor za svoj model perilice i da bude ãvrsto
-fiksirana.
-Iz tih je razloga vaÏno da montaÏu obavi struãnjak.
-OPREZ
-OPREZ u vezi s kabelom za napajanje
-Za veçinu ure√aja preporuãuje se prikljuãivanje na zasebni strujni krug, to jest
-jednostruku utiãnicu koja napaja samo taj ure√aj i nema dodatnih izvoda ili strujnih
-krugova.
-Radi sigurnosti provjerite na stranici specifikacija u ovom priruãniku.
-Nemojte preopteretiti zidne utiãnice.
-Preoptereçene zidne utiãnice, labave ili o‰teçene
-zidne utiãnice, produÏni kabeli, izlizane naponske Ïice ili o‰teçenja izolacije Ïice
-opasni su.
-Sve to moÏe dovesti do strujnog udara ili poÏara.
-Povremeno provjerite
-kabel ure√aja i ako se na njemu vide o‰teçenja ili znakovi dotrajalosti iskljuãite ga,
-prestanite koristiti ure√aj i kabel povjerite na zamjenu identiãnim zamjenskim dijelom
-ovla‰tenom servisu.
-Za‰titite kabel za napajanje od fiziãkih ili mehaniãkih pritisaka, poput savijanja,
-zapetljavanja, prignjeãavanja u vratima ili hoda po njemu.
-Obratite posebnu pozornost
-na utikaãe, zidne utiãnice i na mjesto gdje kabel izlazi iz ure√aja.
-6
-Upute za montaÏu
-Komplet za montiranje na perilicu rublja
-Za ovakav naãin montaÏe potreban je
-odgovarajuçi LG komplet pribora.
-Su‰ilica
-Perilica
-Ova se su‰ilica moÏe postaviti samo na LG
-perilicu.
-NEMOJTE poku‰avati ovu su‰ilicu
-postavljati na bilo koju drugu perilicu jer
-moÏe doçi do kvara, ozljede ili o‰teçenja na
-stvarima.
-UPOZORENJE
- Neispravna montaÏa moÏe izazvati
-ozbiljne nesreçe.
-TeÏina su‰ilice i visina instaliranja ãine
-postupak postavljanja preopasnim za
-jednu osobu.
-Ovaj postupak trebaju
-obaviti dvoje ili vi‰e iskusnih servisera.
-Su‰ilica nije prikladna za ugradbenu
-montaÏu.
-Nemojte je montirati
-ugradbenim naãinom.
-Nemojte upotrebljavati su‰ilicu ako je
-rastavljena.
-3.
-Poravnajte rupe na kompletu za
-postavljanje s rupama na straÏnjem
-poklopcu.
-3-1) 23,6 inãa (600 mm)
-Veliãina gornje ploãe perilice
-Upute za
-oblik i
-montaÏu
-21,7 inãa
-(550 mm)
-23,6 inãa
-(600 mm)
-Postupak montaÏe
-1.
-Postavite LG su‰ilicu na LG perilicu
-rublja.
-2.
-Skinite dva vijka s donjeg dijela straÏnjeg
-poklopca na svakoj strani prema prikazu
-na donjoj slici.
-3-2) 21,7 inãa (550 mm)
- Priãvrstite dva vijka koja ste prethodno
-skinuli sa su‰ilice na komplet za slaganje.
-Upotrijebite 4 vijka iz kutije za pribor [0,6
-inãa (16 mm)] za spajanje straÏnjeg
-poklopca perilice i kompleta za
-postavljanje na perilicu.
-Postupak za suprotnu stranu bit çe isti.
-7
-Upute za montaÏu
-Upute za uzemljenje
-Ovaj ure√aj mora biti uzemljen.
-U sluãaju
-neispravnosti ili kvara, uzemljenje çe
-smanjiti opasnost od strujnog udara
-stvarajuçi put najmanjeg otpora za
-elektriãnu struju.
-Ovaj je ure√aj opremljen uzemljenim
-kabelom i utikaãem za uzemljenje.
-Utikaã
-se mora ukopãati u odgovarajuçu utiãnicu
-koja je pravilno instalirana i uzemljena u
-skladu sa svim lokalnim propisima i
-normama.
-Postupak dodatnog uzemljivanja
-U nekim zemljama moÏe biti propisano
-zasebno uzemljenje.
-U takvim sluãajevima
-potrebna pomoçna Ïica za uzemljenje,
-stezaljke i vijak moraju se kupiti zasebno.
-NAPOMENA
-- Amortizer u sklopu brave za
-zakljuãavanje vrata i pakiranje za
-montaÏu re‰etke u bubnju treba
-izvaditi prije kori‰tenja.
-- Radi boljeg uãinka su‰enja neka
-straÏnji dio ure√aja bude odmaknut
-od zida.
-- Nemojte instalirati su‰ilicu tamo gdje
-postoji opasnost od mraza ili
-pra‰ine.
-Uslijed smrzavanja kondenzirane
-vode u pumpi i odvodnom crijevu
-moÏe doçi do neispravnog rada
-su‰ilice ili do njenog o‰teçivanja.
-Zid
-Odvod kondenzata
-Ovaj se ure√aj moÏe spojiti izravno u zidni
-odvod pomoçu isporuãenog adaptera.
-Kondenzirana voda çe oteçi.
-Bit çe potreban vodoinstalater.
-UPOZORENJE
-Perilicu ne bi trebalo instalirati u blizini
-rashladnog ure√aja.
-Perilicu s toplinskom pumpom
-nemojte instalirati u blizini ure√aja
-koji emitiraju visoke temperature,
-poput hladnjaka, peçnica ili peçi i sl.
-jer to moÏe uzrokovati slab uãinak
-su‰enja i poremetiti trajanje
-programa, te negativno utjecati na
-pravilan rad kompresora.
-Su‰ilica s toplinskom pumpom ima
-najbolji uãinak na sobnoj temperaturi
-od 23 °C
-8
-30 cm - 50 cm
-UPOZORENJE
-Izbjegavajte postavljanje proizvoda oko
-izvora topline.
-StraÏnja strana su‰ilice mora biti dobro
-ventilirana.
-U suprotnom mogu nastati problemi.
-Upute za montaÏu
-■ Niveliranje su‰ilice
-1.
-Niveliranje su‰ilice sprjeãava nepotrebnu
-buku i vibracije.
-Postavite su‰ilicu na
-ãvrstu, ravnu podlogu.
-Postavite su‰ilicu u prostor u kojem
-nema zapaljivih materijala, kondenzacije i
-opasnosti od smrzavanja.
-Podesive
-noÏice
-Su‰ilica je podignuta
-Podesive
-noÏice
-2.
-Ako su‰ilica nije ispravno nivelirana, po
-potrebi izravnajte pomoçu podesivih
-noÏica.
-Okreçite ih u smjeru kretanja kazaljki sata
-za podizanje i u suprotnom smjeru za
-spu‰tanje, sve dok se su‰ilica ne
-stabilizira i u smjeru naprijednazad i
-lijevo-desno i dijagonalno.
-Su‰ilica je spu‰tena
-Podesive
-noÏice
-Dijagonalna provjera
-Kad pritisnete rubove stroja, stroj se
-ne bi smio ni najmanje pomicati gore
-dolje (svakako provjerite oba smjera).
-Ako se stroj nji‰e pri dijagonalnom
-pritisku na gornju ploãu, ponovno
-namjestite noÏice.
-9
-Izgled i konstrukcija
-■ Prikaz ure√aja
-- RC8055AP3Z / BP3Z
-RC8055AP2Z / BP2Z
-RC8055APZ / BPZ
-- RC8055AP1Z / BP1Z
-Kontrolna
-ploãa
-Posuda za
-vodu
-Staklena
-vrata
-Puna
-vrata
-Re‰etka za
-ventiliranje
-■ Kontrolna ploãa
-Opcije
-Funkcija Smart Diagnosis™
-dostupna je samo na ure√ajima
-s oznakom Smart Diagnosis™.
-Gumb za
-Start/stanka
-ukljuãivanje/ Odabir
-iskljuãivanje programa
-10
- Vremenska
-odgoda
- Funkcija protiv
-guÏvanja
-(Anti-Crease)
- Favorit
- Zujalica
-Dodatni
-program
-
- Eco Hybrid
- Opcija
- Razina
-su‰enja
-(*sigurnosna
-brava za
-djecu)
- Osvjetljenje
-bubnja
-
-Rukovanje su‰ilicom
-■ Tablica odabira programa
-Senzor programa su‰enja
-Program
-Pamuk
-Tkanine
-od
-mije‰anih
-vlakna
-Lako
-odrÏavanje
-Vrsta rublja
-Detalj
-Razina
-su‰enja
-Ruãnici, kuçni ogrtaãi i
-poteljina
-Za debele i pro‰ivene tkanine
-Ekstra
-Frotirni ruãnici, salvete,
-ruãnici i posteljina
-Za debele i pro‰ivene tkanine
-koje ne zahtijevaju glaãanje
-Jako
-Kupaonski ruãnici, salvete,
-Za tkanine koje ne zahtijevaju
-donje rublje i pamuãne ãarape glaãanje
-Ormar
-Plahte, jastuãnice i ruãnici
-Za tkanine koje ne zahtijevaju
-glaãanje
-Lagano
-Posteljina, stolno rublje,
-ruãnici, majice, polo majice i
-radna odjeça
-Za tkanine koje zahtijevaju
-glaãanje
-Posteljina, stolno rublje,
-trenirke, anoraci i prekrivaãi
-Za debele i pro‰ivene tkanine
-koje ne zahtijevaju glaãanje
-Jako
-Ko‰ulje i bluze
-Za tkanine koje ne zahtijevaju
-glaãanje
-Ormar
-Hlaãe, haljine, suknje i bluze
-Za tkanine koje zahtijevaju
-glaãanje
-Ko‰ulje, majice, hlaãe, donje
-rublje i ãarape
-Za poliamid, akril i poliester koji
-ne zahtijevaju glaãanje
-Ormar
-Ko‰ulje, majice, hlaãe, donje
-rublje i ãarape
-Za poliamid, akril i poliester koji
-zahtijevaju glaãanje
-Glaãanje
-Glaãanje
-Glaãanje
+DLP PROJEKTOR
+Upozorenje
+Ovo je uređaj klase B. Ovaj uređaj u kućnom okruženju može uzrokovati radijske smetnje, a u tom
+slučaju korisnik bi trebao poduzeti odgovarajuće mjere.
+AT DE DK ES FI
+Projektor je usklađen s EMC i R&TTE direktivama.
+FR GB IT NL PL
+PT SE
+SADRŽAJ
+SADRŽAJ
+Sigurnosne upute 4
+Nazivi dijelova
+Kućište7
+Upravljačka ploča7
+Priključak 8
+Daljinski upravljač  9
+Umetanje baterija 9
+Dodaci10
+Opcijski dodaci .10
+Instalacija i kompozicija
+Sigurnosne mjere prilikom postavljanja.
 11
-Rukovanje su‰ilicom
-Senzor programa su‰enja
-Program
-Vrsta rublja
-Detalj
-Razina
-su‰enja
-Glomazni
-komadi
-Posteljina, plahte
-Za glomazne komade
--
-Jeans
-Jeans i odjeça koja blijedi.
-Za jeans tkanine koje ne
-zahtijevaju glaãanje
--
-Njega
-koÏe
-Majice, jastuãnice i ruãnici
-Za jeans koji ne zahtijeva
-glaãanje
--
-OsvjeÏavanje
-(vidjeti
-Ko‰ulje i bluze
-napomenu)
-Uklanjanje mirisa s tkanina (za
-tkanine s kojih treba ukloniti
-nepoÏeljni miris)
--
-Sportska
-odjeça
-Nogometni dresovi i trenirke
-Za poliesterske materijale
--
-Brzo
-su‰enje
-Posteljina i ruãnici, osim
-osjetljivih tkanina,
-sportska odjeça, program za
-glomazne komade.
-Za mala punjenja odgovarajuçih
-tkanina s kratkim vremenom
-su‰enja
--
-Osjetljivo
-Svila, fine tkanine i fino donje
-rublje
-Za tkanine osjetljive na toplinu,
-poput sintetike
--
-Vuna
-Vuna
-Za vunene tkanine
--
-Tempirani program su‰enja
-Su‰enje
-na stalku
-Svila, vuna, osjetljivo fino
-donje rublje
-OsvjeÏavanje rublja bez su‰enja
--
-Hladan
-zrak
-Sve tkanine kojima je
-potrebno osvjeÏavanje
-Okretanje bez topline
--
-Topao
-zrak
-Kupaonski ruãnici, ogrtaãi za
-kupanje, kuhinjske krpe i
-pro‰ivene tkanine od akrila
-Mali komadi i vlaÏna odjeça
-Svakodnevni komadi prikladni za
-su‰enje toplinom
--
-NAPOMENA
-Pri kori‰tenju programa "OsvjeÏavanje" za bolji rezultat poprskajte tkaninu
-hladnom ili toplom vodom.
-(Preporuãena koliãina je 20 cc vode po ko‰ulji.)
-OPREZ
-Ako punite manje od 1kg, koristite program “Topao zrak” u Tempiranom programu
-su‰enja.
-Vunene komade treba su‰iti na programu “Vuna”, a komade osjetljive na
-toplinu ukljuãujuçi svilu, donje rublje i fino donje rublje na programu “Osjetljivo”.
-Pri
-odabiru Ïeljenog programa pridrÏavajte se preporuka za koliãinu punjenja na str.
-21,
-22.
-U suprotnom odjeça se moÏe o‰tetiti.
-12
-Rukovanje su‰ilicom
-■ Proãitajte prije prvog kori‰tenja svoje LG su‰ilice
-Nakon uklanjanja ambalaÏe obavite sljedeçe provjere kako biste osigurali ispravnost
-montaÏe LG su‰ilice i njenu spremnost za rad.
-(Vidjeti upute za montaÏu)
-1.
-Provjerite pomoçu libele je li su‰ilica nivelirana.
-Ako to nije sluãaj pode‰avajte noÏicu
-perilice sve dok ne do√e u ravninu.
-2.
-Provjerite posudu za vodu, filtar, kontrolnu ploãu i bubanj i uvjerite se da je sve na
-svom mjestu.
-3.
-Postavite stroj na su‰enje na 5 minuta kako biste zagrijali bubanj.
-4.
-Na poãetku kori‰tenja ure√aja otvorite vrata izme√u punjenja kako bi izi‰li eventualni
-mirisi iz unutra‰njosti LG su‰ilice.
-NAPOMENA
-Zavr‰ni dio programa su‰enja odvija se bez topline (ciklus hla√enja), kako bi se
-osiguralo da komadi rublja ostanu na temperaturi koja ih neçe o‰tetiti.
-Ukljuãite
-struju.
-1.
-Ukljuãivanje struje.
-Prvo pritisnite gumb za
-ukljuãivanje/iskljuãivanje.
-Zasvijetlit çe
-indikator iznad gumba u znak da je stroj
-spreman za poãetak rada.
-2.
-Otvorite vrata.
-3.
-Provjerite jesu li filtar i posuda za vodu
-ãisti.
-Filtar se nalazi u rubu vrata ili na
-straÏnjem dijelu vrata.
-Potrebno ga je
-ãistiti prije i nakon svakog su‰enja.
-Otvorite vrata i provjerite je li filtar ãist.
-Ako nije, oãistite ga prema uputama na
-str.
-19.
-Tako√er provjerite je li radi
-optimalnih rezultata su‰enja potrebno
-isprazniti posudu za vodu.
-4.
-Nakon razvrstavanja stavite rublje u
-bubanj.
-Rublje treba razvrstati po vrsti tkanine i
-razini suhoçe; prije stavljanja u bubanj
-sve vrpce i remenje na odjeçi trebaju biti
-dobro zavezani i uãvr‰çeni.
-Rublje gurnite u unutra‰njost bubnja
-kako ne bi bilo u blizini brtvene gume
-vrata.
-U suprotnom moÏe doçi do o‰teçenja
-rublja ili gume.
-Otvorite vrata.
-Staklena vrata
-Puna vrata
-Provjerite
-filtar.
-OPREZ
-U su‰ilici nemojte su‰iti neoprano rublje.
-13
-Rukovanje su‰ilicom
-5.
-Zatvorite vrata
-Prije zatvaranja vrata provjerite je li rublje
-dobro smje‰teno u unutra‰njost bubnja i
-nisu li uz vrata zakvaãeni strani premeti,
-osobito oni zapaljivi.
-Odaberite
-Ïeljeni
-program.
-OPREZ
-- Pazite da ne prignjeãite rublje izme√u
-vrata i brtvene gume.
-6.
-Odaberite program su‰enja koji Ïelite.
-Program moÏete odabrati okretanjem
-gumba za odabir programa dok se ne
-prikaÏe Ïeljeni program.
-Ako pritisnete gumb Start/stanka bez
-odabira programa, su‰ilica çe nastaviti
-rad na programu Ormar.
-[Za detaljnije
-informacije pogledajte tablicu Odabir
-programa (stranica 11, 12).]
-Izvadite
-rublje.
-7.
-Pritisnite gumb za
-ukljuãivanje/iskljuãivanje.
-âut çete okretanje bubnja.
-Oãistite filtar.
-(Zamijenite
-filtar ako je
-o‰teçen.)
-8.
-Po zavr‰etku programa otvorite vrata i
-izvadite rublje.
-OPREZ
-Budite oprezni!
-Unutra‰njost bubnja jo‰
-uvijek moÏe biti vruça.
-(Trajanje su‰enja moÏe varirati ovisno o
-odabiru programa ili opcija.)
-14
-Rukovanje su‰ilicom
-NAPOMENA
-Zavr‰ni dio programa su‰enja odvija
-se bez topline (ciklus hla√enja), kako
-bi se osiguralo da komadi rublja
-ostanu na temperaturi koja ih neçe
-o‰tetiti.
-9.
-Oãistite filtar i ispraznite posudu za
-vodu.
-Filtar je potrebno oãistiti nakon svakog
-punjenja.
-10.
-Iskljuãite su‰ilicu.
-Pritisnite gumb za
-ukljuãivanje/iskljuãivanje.
-Odaberite
-Ïeljeni
-program.
-Izvadite
-rublje.
-OPREZ
-- Budite paÏljivi ako filtar ãistite pomoçu
-usisivaãa jer se lako o‰teti i pokida.
-Ako su se na filtru nataloÏile naslage
-uklonite ih ãetkicom.
-- Ako Ïelite otvoriti vrata tijekom rada
-su‰ilice prvo pritisnite gumb
-Start/stanka, priãekajte da se bubanj
-potpuno zaustavi i tek tada otvorite
-vrata.
-Oãistite filtar.
-(Zamijenite
-filtar ako je
-o‰teçen.)
-UPOZORENJE
-Nikad ne zaustavljajte su‰ilicu prije
-zavr‰etka programa su‰enja, osim ako
-se komadi mogu brzo izvuçi i
-rasprostrijeti kako bi se toplina raspr‰ila.
-OPREZ
-Su‰ilica se ne smije koristiti za namjene
-za koje nije predvi√ena.
-15
-Rukovanje su‰ilicom
-■ Su‰enje na re‰etki
-Re‰etka se stavlja u su‰ilicu kako je
-prikazano na slici.
-Prije kori‰tenja uklonite i
-odbacite ambalaÏu.
-Su‰enje na re‰etki predvi√eno je za
-komade koji se trebaju su‰iti na ravnom,
-bez okretanja, ukljuãujuçi pulovere i
-osjetljive tkanine
-Za kori‰tenje re‰etke:
-1.
-Otvorite vrata.
-NAPOMENA
-Provjerite filtar i uklonite zaostala vlakna
-nakupljena na re‰etki.
-Po Ïelji moÏete ukljuãiti na Eco
-pritiskom na gumb Eco Hybrid™.
-1.
-Umetnite
-Ïiãani rub u
-sredi‰te
-bubnja.
-2.
-Ne vadite filtar.
-3.
-Postavite re‰etku preko dna otvora
-vrata su‰ilice.
-Umetnite ju u leÏi‰te na straÏnjem
-dijelu su‰ilice.
-2.
-Rasporedite
-Gurnite prednji dio okvira kako biste ga
-osjetljive
-uãvrstili iznad filtra.
-komade ili
-tenisice.
-4.
-Mokre komade stavite na gornju
-povr‰inu re‰etke.
-Ostavite dovoljno prostora izme√u
-komada za kruÏenje zraka.
-Re‰etka se ne kreçe, ali bubanj se
-okreçe.
-5.
-Zatvorite vrata.
-6.
-Ukljuãite su‰ilicu i odaberite Su‰enje
-na re‰etki.
-16
-Dodatne funkcije
-Opcijski
-gumbi
-Gumb za
-Gumb
-Start/stanka
-ukljuãivanje/ programatora
-iskljuãivanje
-Gumb za ukljuãivanje/iskljuãivanje
- Pritisnite gumb ukljuãeno/iskljuãeno za
-ukljuãivanje i iskljuãivanje struje.
-Za iskljuãivanje funkcije Vremenska
-odgoda potrebno je pritisnuti gumb za
-ukljuãivanje/iskljuãivanje.
-Gumb programatora
- Dostupni programi ovise o modelu
-su‰ilice.
-Upalit çe se lampica za prikaz odabranog
-programa.
-Dodatni programski
-gumbi
-Dodatni program
- Koristite ove gumbe za odabir Ïeljenih
-opcija za odabrani program.
-Opcije
- Omoguçuju vam odabir dodatnih opcija i
-po odabiru çe zasvijetliti.
-Start/stanka
- Ovaj gumb Start/stanka koristi se za
-pokretanje ili privremeni prekid programa
-su‰enja.
-Pritisnite gumb Start/stanka za
-privremeno zaustavljanje programa.
-U stanju Stanka struja se automatski
-iskljuãuje nakon 4 minute.
-17
-Dodatne funkcije
-■ Vremenska odgoda
-■ Opcija
-Opciju Vremenska odgoda moÏete koristiti za
-odgodu zavr‰etka programa su‰enja.
-Maksimalno vrijeme odgode je 19 sati.
-Maksimalno vrijeme odgode je 3 sati.
-1.
-Ukljuãite su‰ilicu.
-2.
-Odaberite program.
-3.
-Namjestite sat odgode pritiskom na gumb
-“ ”, “ ”.
-4.
-Pritisnite gumb Start/Stanka.
-Ruãno glaãanje
-Ova funkcija odrÏava rublje vlaÏnijim nego
-na standardnoj razini su‰enja za glaãanje.
-■ Funkcija protiv guÏvanja
-(Anti-Crease)
-Opcija Anti Crease spreãava stvaranje nabora koji
-nastaju ako se rublje ne izvadi odmah po
-zavr‰etku programa su‰enja.
-Kod odabira funkcije
-Anti Crease su‰ilica se neprekidno ukljuãuje i
-iskljuãuje i daje vam 2 sata vremena za va√enje
-rublja.
-Ako se tijekom zadane funkcije Anti Crease
-otvore vrata, opcija se iskljuãuje.
-■ Favorit
-NAPOMENA
-Razina su‰enja
-Program
-Pamuk
-Tkanine od
-Glaãanje
-mije‰anih vlakna
-Lako odrÏavanje
-Opcija
-Dostupna
+Osnovne radnje projektora12
+Kako postaviti projektor pomoću stalka13
+Kensington sigurnosni sustav13
+Uključivanje projektora.14
+Isključivanje projektora.14
+Fokus i položaj slike na zaslonu14
+Odabir načina rada ulaza14
+Povezivanje
+Povezivanje
+Povezivanje
+Povezivanje
+Povezivanje
+s računalom15
+video izvora.15
+s uređajem za DVD reprodukciju.16
+s D-TV uređajem16
 funkcija
-Ruãno
-glaãanje
-Zvuãni signal VlaÏno za glaãanje
-Ova funkcija dojavljuje kad je rublje
-spremno za glaãanje.
-NAPOMENA
-Opcija
-Razina su‰enja
-Ekstra
-/
-Jako
-Dostupan
-je
-Pamuk
-Ormar / Lagano
-zvuãni
-Tkanine od
-signal
-mije‰anih vlakna Jako / Ormar
-VlaÏno za
-glaãanje
-Lako odrÏavanje
-Ormar
-Program
-Opcija Favorit omoguçuje vam pohranu postavki
-prilago√enog programa su‰enja za buduçu uporabu.
-1.
-Ukljuãite su‰ilicu.
-■ Brava za djeãju za‰titu (
-i
-)
-2.
-Odaberite program.
-3.
-Odaberite opciju ili dodatni program.
-(Anti-Crease,
-Eco Hybrid™ itd.)
-4.
-Pritisnite i drÏite pritisnutim gumb Favorit 3 sekunde.
-Opcija Favorit sada je zapamçena za buduçu uporabu.
-Za ponovno kori‰tenje pohranjenog programa
-odaberite opciju Favorit i pritisnite gumb
-Za sigurnost djece pritisnite gumb Razina
-Start/stanka.
-su‰enja na otprilike 3 sekunde.
-Na LED indikatoru prikazat çe se “
-”.
-■ Osvjetljenje bubnja
-Na LED prozorãiçu moÏete vidjeti znak “
-”.
-Ako odaberete funkciju Osvjetljenje bubnja - bit çe onemoguçene sve funkcije osim
-moÏete vidjeti unutra‰njost bubnja.
-funkcija Brava za djeãju za‰titu i gumba
-- Svjetlo upaljeno: vrata su otvorena.
-Ukljuãeno/Iskljuãeno.
-- Svjetlo uga‰eno: vrata su zatvorena.
-Gasi - funkcija Brava za djeãju za‰titu aktivna je do
-se automatski.
-zavr‰etka programa.
-■ Eco Hybrid
-TM
-Ovaj dodatni program nudi opcije u‰tede
-energije ili vremena.
-- Eco: opcija u‰tede energije.
-(samo kod
-toplinske pumpe)
-- Brzina: opcija u‰tede vremena.
-(toplinska
-pumpa + grijaã) Na LED indikatoru prikazat
-çe se „brzina“.
-18
-NAPOMENA
-Za “iskljuãivanje funkcije Brava za
-djeãju za‰titu” drÏite pritisnutim gumb
-Razina su‰enja oko 3 sekunde.
-■ Zujalica
-Ova opcija omoguçava pode‰avanje
-glasnoçe zvuãnog signala.
-OdrÏavanje su‰ilice
-OdrÏavanje su‰ilice vrlo je vaÏno.
-Su‰ilicu nije te‰ko odrÏavati, no vaÏno je
-odrÏavati ju kako biste postigli najbolje rezultate.
-âi‰çenje filtra
-Oãistite filtar nakon svakog su‰enja i provjerite
-ga prije svakog su‰enja.
-Potrebno ga je oãistiti i
-ako zasvijetli lampica Oãisti filtar i ako se
-tijekom rada su‰ilice oglasi zvuãni signal.
-âi‰çenje ili praÏnjenje filtra smanjit çe vrijeme
-su‰enja i utro‰ak energije te produÏiti vijek
-trajanja su‰ilice.
-OPREZ
-- Hvataã vlakana potrebno je ãesto
-ãistiti, ako je primjenjivo.
-- Ne smije se dopustiti nakupljanje
-vlakana oko bubnja.
-- Filtar je potrebno oãistiti po zavr‰etku
-svakog programa.
-1.
-Otvorite vrata.
-Ispraznite posudu za vodu
-U posudi za vodu skuplja se kondenzirana
-voda.
-Ispraznite posudu za vodu nakon svake
-uporabe.
-U suprotnom to çe utjecati na rezultate
-su‰enja.
-Ako je posuda za vodu puna
-zasvijetlit çe lampica “Ispraznite vodu” i
-tijekom rada su‰ilice oglasit çe se zujalica.
-U
-tom sluãaju posudu je potrebno isprazniti u
-roku od sljedeçih sat vremena.
-1.
-Izvucite posudu za
-vodu.
-2.
-Ispraznite posudu
-za vodu u slivnik.
-3.
-Gurnite ju natrag u
-su‰ilicu.
-2.
-Izvucite filtar.
-3.
-Oãistite filtar
-pomoçu usisivaãa
-ili ispiranjem pod
-mlazom vode.
-4.
-Zamijenite filtar.
-- Gurnite filtar sasvim
-dolje kako ne bi
-zapinjao za vrata.
-5.
-Zatvorite vrata.
-OPREZ
-- Nakon pranja filtra temeljito ga osu‰ite.
-- Ne smije se dopustiti nakupljanje
-vlakana u su‰ilici.
-NAPOMENA
-Ako filtar nije u su‰ilici ona ne moÏe raditi.
-4.
-Pritisnite gumb
-Start/stanka.
-NAPOMENA
-Visoka okolna temperatura i mali
-prostor mogu produljiti vrijeme
-su‰enja i poveçati potro‰nju
-elektriãne energije.
-UPOZORENJE
-Nemojte piti kondenziranu vodu.
-OPREZ
-Ako se prilikom pranja rublje ne
-centrifugira visokom brzinom porast çe
-potro‰nja energije i vrijeme su‰enja.
-U
-nekim sluãajevima na LED prozorãiçu
-moÏe se pojaviti znak “
-” (Ispraznite
-vodu) i su‰ilica se moÏe zaustaviti zbog
-pune posude za vodu.
-Ako se tijekom rada pojavi oznaka “Oãistite filtar”, odmah ga oãistite
-1.
-Ohladite su‰ilicu i obavite gornje korake.
-2.
-Pritisnite gumb Start/stanka.
-19
-OdrÏavanje su‰ilice
-■ Ventilacijska re‰etka i re‰etka 3.
-Spojite
-za ulaz hladnog zraka
-Prednju ventilacijsku re‰etku oãistite
-usisivaãem 3-4 puta godi‰nje kako se ne bi
-nakupila vlakna ili neãistoçe koje bi mogle
-naru‰iti strujanje zraka.
-ispusno
-crijevo u
-sklop.
-■ Senzor vlaÏnosti?
-NAPOMENA
-- Topao zrak ispu‰ta se kroz
-ventilacijsku re‰etku.
-- Potrebno je osigurati odgovarajuçe
-provjetravanje kako ne bi do‰lo do
-vraçanja u prostoriju plinova od
-izgaranja na drugim ure√ajima, npr.
-otvorenog plamena.
-■ Ispu‰tanje kondenzirane vode
-U pravilu se kondenzirana voda crpi u
-posudu za vodu u kojoj se skuplja do
-ruãnog praÏnjenja.
-Voda se moÏe ispu‰tati i
-izravno u glavni odvod, pogotovo ako je
-su‰ilica montirana na perilicu rublja.
-Kompletom za crijevo za glavni odvod
-jednostavno promijenite putanju vode i
-usmjerite je u odvod prema donjem prikazu:
-1.
-Izvucite
-spojni
-komplet.
-2.
-Odvojite
-posudu za
-vodu od
-sklopa.
-20
-Ure√aj detektira razinu vlaÏnosti rublja
-tijekom odvijanja programa, ‰to znaãi da ga
-je potrebno redovito ãistiti kako bi se
-uklonile eventualne naslage kamenca na
-povr‰ini senzora.
-Obri‰ite senzore u unutra‰njosti bubnja
-(prema slici).
-Dodatni praktiãni savjeti za pametno kori‰tenje
-■ Vodiã za su‰enje
-Program
-Lako
-odrÏavanje
-Prikaz vremena su‰enja
-(ukljuãujuçi vrijeme hla√enja)
-Eco
-Brzina
-Ekstra
-8 kg
-180 min
-105 min
-Jako
-8 kg
-170 min
-100 min
-Ormar
-Lagano
-8 kg
-8 kg
-160 min
-150 min
-95 min
-89 min
-Glaãanje
-8 kg
-140 min
-77 min
-Pamuk
-Tkanine od
-mije‰anih
-vlakna
-Kapacitet
-su‰ilice
-Jako
-4 kg
-80 min
-53 min
-Ormar
-4 kg
-70 min
-48 min
-Glaãanje
-4 kg
-60 min
-41 min
-Ormar
-4 kg
-70 min
-41 min
-Glaãanje
-4 kg
-60 min
-35 min
-Glomazni komadi
-2 kg
-120 min
-70 min
-Jean
-3 kg
-110 min
-60 min
-Njega koÏe
-4.5 kg
--
-135 min
-OsvjeÏavanje
-1.5 kg
--
-39 min
-Sportska odjeça
-2 kg
-50 min
--
-Brzo su‰enje
-3 kg
--
-50 min
-Osjetljivo
-1.5 kg
-48 min
-Vuna
-1 kg
-29 min
-21
-Dodatni praktiãni savjeti za pametno kori‰tenje
-Pletenine
-Su‰ite pletenine na programu „vuna’’.
-Svakako se prvenstveno pridrÏavajte
-„simbola’’ za odrÏavanje na naljepnici
-odjeçe.
-Vuna se tijekom programa moÏda
-neçe potpuno osu‰iti, no ne ponavljajte
-su‰enje zbog toga.
-Oblikujte pletenine u
-njihov prvotni oblik i ostavite da se osu‰e
-na ravnom.
-Pleteni i kukiãani materijali
-Neki pleteni i kukiãani materijali mogu se
-stisnuti, ovisno o kvaliteti.
-NeguÏvajuçi materijali (permanent press)
-i sintetika
-Nemojte preopteretiti su‰ilicu.
-Komade od
-neguÏvajuçeg materijala izvadite ãim se
-su‰ilica zaustavi, kako biste smanjili
-stvaranje nabora.
-Odjeça za bebe i odjeça za spavanje
-Uvijek provjerite upute proizvo√aãa.
-Guma i plastika
-Ne su‰ite komade napravljene od gume ili
-plastike ili koji sadrÏe gumu ili plastiku,
-poput:
-a) pregaãa, podbradaka i prekrivaãa za stolice
-b) zavjesa i stolnjaka
-c) kupaonskih prostirki
-Fiberglas
-Ne su‰ite u su‰ilici predmete od fiberglasa.
-Kad sljedeçi put su‰ite rublje ono moÏe
-privuçi zaostale ãestice staklenih vlakna i
-nadraÏiti koÏu.
-Naljepnice s uputama za odrÏavanje
-tkanine
-Odjeça ima svoje naljepnice s uputama za
-odrÏavanje, stoga se preporuãuje su‰enje u
-skladu s uputama.
-Ne samo to, odjeçu je potrebno razvrstati
-prema veliãini komada i vrsti tkanine.
-Za najbolje rezultate pranja i
-najekonomiãniji utro‰ak energije nemojte
-pretrpavati su‰ilicu.
-22
-U nastavku je dan prikaz
-naljepnica s uputama za
-odrÏavanje tkanine.
-Simboli
-Upute
-Su‰iti
-Su‰iti u su‰ilici
-NeguÏvajuçe / Otporno na
-stvaranje nabora
-NjeÏno / Osjetljivo
-Ne su‰iti u su‰ilici
-Ne su‰iti
-Visoka toplina
-Srednja toplina
-Niska toplina
-Bez topline / zrak
-Su‰iti na konopcu / objesiti
-za su‰enje
-Ocijediti do suhog
-Su‰iti na ravnom
-U sjeni
-Dodatni praktiãni savjeti za pametno kori‰tenje
-■ Specifikacija ure√aja
-LG AUTOMATSKA SU·ILICA RUBLJA
-Proizvo√aã
-Model
-kg
-Nazivni kapacitet
-Tip su‰ilice
-Razred energetske uãinkovitosti
-kWh/yr
-Godi‰nja potro‰nja energije (AEc )
-Automatska su‰ilica rublja
-Priznanje EU Ecolabel - europska oznaka za za‰titu okoli‰a
-kWh
-Edry
-kWh
-Edry1/2
-Potro‰nja energije pri punom optereçenju
-W
--.
-Stanje iskljuãenosti (Po )
-W
--.
-Stanje mirovanja (PI )
-min
-Trajanje stanja mirovanja
-Standardni program za pamuk
-min
-Vrijeme su‰enja (Tt )
-min
--.
-Tdry
-min
--.
-Tdry1/2
-Razred kondenzacijske uãinkovitosti
-%
--.
-Ct
-%
--.
-Cdry
-%
--.
-Cdry1/2
-dB
-Razina jaãine zvuka
-LG Electronics
-RC8055****
-8kg
-Su‰ilica za kuçanstvo s kondenzatorom
-A++
-229
-Da
-Ne
-1.93
-1.03
-0.4
-0.4
-10
-Pamuk Ormar Eco
-151
-198
-115
-A
-93
-93
-92
-64
-23
-Dodatni praktiãni savjeti za pametno kori‰tenje
-Procijenjena uãinkovitost
-Program /
-Razina
-su‰enja
-Opcija
-(Eco
-Hybrid™)
-SadrÏaj
-punjenja
-Pamuk /
-Ormar
-Eco
-Pamuk 100%
-Pamuk 100%
-8kg
-4kg
-1.93
-1.03
-198
-115
-Tkanine od
-mije‰anih
-vlakna /
-Ormar
-Eco
-Poliester 65% +
-pamuk 35%
-4kg
-0.72
-84
-Lako
-odrÏavanje
-/ Ormar
-Brzina
-Poliester 65% +
-pamuk 35%
-4kg
-1.14
-75
-Stanje
-Kapacitet Energetska Vrijeme Stanje
-uãinkovitost su‰enja mirovanja iskljuãenosti
-(kWh)
-(min)
-(PI)(W)
-(Po)(W)
-0.4
-0.4
-NAPOMENA
- Ispitano u skladu s normom EN61121 i Direktivom 932/2012
- Za ispitivanje u skladu s normom EN61121 i Direktivom 932/2012 program
-postavljen na „Pamuk Ormar Eco (puno punjenje i pola punjenja)"
-- Standardni program za pamuk: Pamuk Ormar + Eco Opcija (zadano)
-(to je najuãinkovitiji program u smislu testnih uvjeta propisanih normom EN61121 i
-Direktivom 932/2012)
- Informacija o „standardnom programu za pamuk“ i navod da je prikladan za su‰enje
-normalno mokrog pamuka i da je najuãinkovitiji program s obzirom na utro‰ak
-energije za su‰enje mokrog pamuãnog rublja;
- Rezultati ispitivanja ovise o sobnoj temperaturi, vrsti i koliãini punjenja, tvrdoçi vode i
-temperaturi ulazne vode.
-Ako se ure√aj montira kao ugradbeni to moÏe naru‰iti uãinkovitost.
-24
-Dodatni praktiãni savjeti za pametno kori‰tenje
-■ Rezervni dijelovi
-■ Pomoçni pribor
-Rezervni dijelovi pokriveni uvjetima jamstva
-isporuãuju se besplatno.
-Ako je jamstvo isteklo rezervni dijelovi
-moraju se kupiti u servisnom centru.
-Su‰ilica se isporuãuje sa sljedeçim
-priborom:
-1.
-Crijevo za ispust kondenzata i drÏaã
-crijeva (kupnja zasebno)
-■ Zbrinjavanje su‰ilice
-NuÏno je su‰ilicu zbrinuti sigurnim naãinom
-radi za‰tite djece i ostalih od ozljeda.
-Prije sigurnog zbrinjavanja potrebno je
-skinuti vrata, poklopac i druge izboãene
-dijelove i odrezati kabel.
-2.
-Re‰etka za su‰enje
-■ Podaci za kontaktiranje
-servisa:
-Ako se pojavi problem sa su‰ilicom prvo
-pogledajte u vodiã za otklanjanje smetnji.
-Ako ne moÏete pronaçi gre‰ku i ne moÏete
-rije‰iti problem obratite se servisnom
-centru.
-■ Komplet za montiranje na
-perilicu rublja
-Djelatnik korisniãke podr‰ke zatraÏit çe
-sljedeçe podatke:
-1.
-Ime, adresu i po‰tanski broj.
-2.
-Broj telefona.
-3.
-Opis problema.
-4.
-Broj modela i serijski broj perilice.
-5.
-Datum kupnje.
-DrÏaã: 2EA, Vijak: 4EA
-Kupuje se zasebno
- Komplet za montiranje na perilicu rublja
-moÏe se koristiti za gornju ploãu perilice
-veliãine 550 i 600 mm za obje.
-Ako je potrebno montiranje na perilicu
-rublja, su‰ilicu morate postaviti na LG
-perilicu.
-Pribor za takvo postavljanje prodaje se
-zasebno.
-25
-Vodiã za otklanjanje smetnji
-■ Savjeti za otklanjanje smetnji
-Radi u‰tede vremena i novca, na sljedeçoj stranici kao pomoç daju se odgovori na pitanja
-prije pozivanja servisa.
-Pitanja
-Su‰ilica ne radi
-·to uãiniti
-1.
-Provjerite je li ukljuãena u struju.
-2.
-Provjerite nije li pritisnut gumb Start/stanka.
-3.
-Provjerite jesu li vrata dobro zatvorena.
-4.
-Provjerite nije li sobna temperatura ispod 5°C.
-5.
-Provjerite nije li pregorio osiguraã ili se iskljuãila
-sklopka i zamijenite ih.
-(Oprez: elektriãne su‰ilice obiãno koriste dva
-osiguraãa ili sklopke) Nakon praÏnjenja posude za
-vodu i ãi‰çenja filtra tijekom rada, morate pritisnuti
-gumb Start/stanka da bi su‰ilica ponovno proradila.
-Su‰enje traje dugo
-1.
-Filtar je potrebno oãistiti nakon svakog punjenja.
-2.
-Provjerite je li posuda za vodu ispraÏnjena.
-3.
-Odaberite ispravan program za vrstu tkanine.
-4.
-Provjerite nisu li zaãepljeni ventilacijska re‰etka i
-straÏnji ventilacijski otvori.
-5.
-Provjerite nije li rublje premokro.
-6.
-Provjerite nije li su‰ilica prenatrpana.
-Su‰ilica radi no pokazatelj
-„preostalog vremena“ ne
-mijenja se.
-To nije gre‰ka u radu.
-Vrijeme su‰enja se procjenjuje i
-tijekom programa bit çe preraãunano zavisno o
-detektiranju suhoçe rublja.
-Provjerite je li filtar ãist.
-Rublje je prekriveno
-dlaãicama
-1.
-Provjerite je li filtar ãist.
-2.
-Provjerite jesu li svi komadi u perilici ãisti.
-3.
-Provjerite je li svo rublje ispravno razvrstano po vrsti
-tkanine.
-4.
-Provjerite nije li su‰ilica prenatrpana.
-5.
-Provjerite nema li me√u rubljem papira, salveta ili
-drugih razgradivih materijala i uklonite ih.
-Vrijeme su‰enja nije
-ujednaãeno
-Vrijeme su‰enja punjenja varira zavisno o namje‰tenoj
-toplini, veliãini punjenja, vrsti tkanine, vlaÏnosti rublja i
-stanju filtra.
-Su‰ilica pu‰ta vodu
-Provjerite jesu li crijeva za dovod ili odvod vode
-ispravno spojena.
-Rublje je izguÏvano
-Provjerite nije li su‰ilica prenatrpana.
-Poku‰ajte s kraçim
-vremenom su‰enja i izvadite komade dok jo‰ sadrÏe
-malu koliãinu vlage.
-Koristite opciju protiv guÏvanja
-(Anti-Crease).
-Odjeça se skupila u
-su‰enju
-Radi izbjegavanja ove pojave pridrÏavajte se uputa za
-njegu i kori‰tenje odjeçe, buduçi da se neke tkanine
-prirodno skupljaju pri pranju i ne smiju se stavljati u su‰ilicu.
-Provjerite je li filtar u su‰ilici.
-26
-Vodiã za otklanjanje smetnji
-■ Poruka o gre‰ki
-
-
-: Za ponovno pokretanje vrata moraju biti zatvorena i gumb Start/stanka
-pritisnut.
-Ako se poruka o gre‰ki nastavi pojavljivati, iskljuãite kabel za
-napajanje iz struje i obratite se za savjet servisnom centru.
-,
-,
-,
-,
-,
-: Ako se poruka o gre‰ki nastavi pojavljivati, iskljuãite kabel za napajanje iz struje i
-obratite se za savjet servisnom centru.
-■ Osvjetljenje bubnja ne radi
- Obratite se servisnom centru za korisnike.
+Opcije izbornika PICTURE
+Način upravljanja slikom.
+17
+Podešavanje načina rada upravljanja slikom 17
+Funkcija za ponovno postavljanje slike18
+Funkcija za naprednu kontrolu18
+Opcije izbornika SCREEN
+Promjena načina rada PJT.20
+Upotreba funkcije za format slike.20
+Upotreba funkcije za korigiranje kuta20
+Funkcija za automatsko konfiguriranje21
+RGB Config.
+funkcija.21
+Upotreba funkcije statičkog isječka21
+Opcije izbornika AUDIO
+Što je to bežični FM audio?
+(samo model HS200/HS200G).22
+Upute za postavljanje (samo model HS200/HS200G)23
+Što učiniti u slučaju lošeg signala FM prijema?
+(samo model HS200/HS200G).23
+Slušanje putem zvučnika FM prijemnika
+(samo model HS200/HS200G).24
+Podešavanje glasnoće24
+Podešavanje ravnoteže zvučnika25
+Podešavanje visokih tonova25
+Opcije izbornika TIME
+Funkcija za stanje mirovanja26
+Funkcija za automatsko isključivanje26
+Opcije izbornika OPTION
+Odabir jezika26
+Upotreba funkcije ispune.
 27
-Vodiã za otklanjanje smetnji
-NAPOMENA
-Funkcija Smart Diagnosis™ dostupna je
-samo na ure√ajima s oznakom Smart
-Diagnosis™.
-Ako imate analogni telefon,
-funkcija Smart Diagnosis™ moÏda neçe
-raditi.
-■ Kori‰tenje funkcije Smart
-Diagnosis™.
-Ovu funkciju koristite samo kad vas na to
-uputi servisni centar.
-Prijenos zvuãi sliãno
-telefaks ure√aju i nema znaãenja osim za
+Odabir slike ispune 27
+Funkcija snimanja zaslona 27
+Podešavanje svjetline zaslona28
+Automatsko uključivanje projektora nakon
+priključivanja napajanja.28
+Postavljanje osvjetljenja gumba.28
+Funkcija demonstracijskog načina rada29
+Funkcija početnog postavljanja29
+Opcije izbornika INFORMATION
+Prikaz informacija o projektoru29
+USB
+Korištenje USB uređaja
+Priključivanje USB uređaja30
+Izbacivanje USB-a30
+Mjere opreza pri korištenju USB uređaja30
+Popis fotografija
+Komponente ekrana31
+Odabir fotografija i skočni izbornik31
+Izbornik na zaslonu u punoj veličini32
+Popis glazbe
+Komponente ekrana.33
+Odabir glazbe i skočni izbornik34
+MOVIE List
+Podržana filmska datoteka.35
+Sigurnosne mjere prilikom reprodukcije DivX datoteka 35
+Komponente ekrana.36
+Odabir filmova i skočni izbornik.36
+Reprodukcija filma.
+37
+Odabir izbornika Option 37
+Prikaz DivX registracijskog koda38
+Funkcija deaktivacije.38
+Informacije
+Podržani zaslon monitora39
+Održavanje40
+Način postavljanja poklopca objektiva na projektor40
+Tehnički podaci41
+Odlaganje starog uređaja
+1.
+Ako se na proizvodu nalazi simbol prekrižene kante za smeće, to znači da je proizvod obuhvaćen europskom direktivom 2002/96/EC.
+2.
+Električni i elektronski proizvodi ne smiju se odlagati zajedno s komunalnim otpadom, već na posebna
+odlagališta koja je odredila vlada ili lokalne vlasti.
+3.
+Pravilno odlaganje starog proizvoda spriječit će potencijalne negativne posljedice po okoliš i zdravlje ljudi.
+4.
+Podrobnije informacije o odlaganju starog proizvoda potražite u gradskom uredu, službi za odlaganje
+otpada ili u trgovini u kojoj ste kupili proizvod.
+3
+Sigurnosne upute
+Sigurnosne upute
+Poštujte sigurnosne upute kako biste izbjegli potencijalne nezgode ili zloupotrebu projektora.
+ꔈ Sigurnosne upute dolaze u dva oblika koji su opisani u nastavku.
+UPOZORENJE: Nepoštivanjem ovih uputa može doći do ozbiljnih ozljeda, čak i pogubnih za život.
+NAPOMENE: Nepoštivanjem ovih uputa može doći do ozljeda ili oštećenja projektora.
+ꔈ Nakon što pročitate priručnik, stavite ga na mjesto na kojemu ćete mu moći jednostavno pristupiti.
+Postavljanje u zatvorenom prostoru
+Projektor nemojte postavljati na
+izravnu sunčevu svjetlost ili u blizinu
+izvora topline kao što su radijatori,
+otvoreni plamen, pećnice itd.
+UPOZORENJE
+U, na ili blizu projektora nemojte
+stavljati zapaljive materijale.
+Nemojte se vješati na postavljeni
+projektor.
+To bi moglo dovesti do opasnosti od
+požara!
+Projektor bi uslijed toga mogao pasti i
+uzrokovati ozljedu ili smrtne posljedice.
+Ne blokirajte otvore projektora i na
+nikakav način ne priječite protok zraka.
+Projektor ne postavljajte u blizinu
+izvora pare ili ulja (npr.
+ovlaživača).
+Projektor ne postavljajte tamo gdje
+bi mogao biti izložen prašini.
+Time biste uzrokovali povećanje interne
+temperature i doveli do opasnosti od
+požara ili oštećenja uređaja!
+To bi moglo dovesti opasnosti od požara ili
+strujnog udara!
+To bi moglo dovesti do opasnosti od
+požara ili do oštećenja uređaja!
+Projektor nemojte koristiti na vlažnim
+mjestima kao što je kupaonica, u kojima postoji velika mogućnost od
+ovlaživanja.
+Projektor nemojte postavljati izravno
+na tepih, sag ili na druga mjesta koja
+priječe ventilaciju.
+Prostor oko projektora treba biti
+prozračan.
+Udaljenost između projektora i zida treba biti veća od 30 cm.
+To će dovesti do povećanja interne temperature i može dovesti do opasnosti od
+požara ili oštećenja uređaja.
+Prevelik porast interne 	 temperature može
+dovesti do opasnosti od požara ili oštećenja
+uređaja!
+To bi moglo dovesti do opasnosti od
+požara!
+To bi moglo dovesti do požara ili opasnosti
+od strujnog udara!
+Postavljanje u zatvorenom prostoru
+Postavljate li projektor na stol, nemojte ga postaviti preblizu ruba.
+Projektor bi mogao pasti, ozlijediti nekoga
+i oštetiti se.
+Koristite samo prikladne stalke.
+Napajanje
+Trebali biste spojiti uzemljenje.
+Provjerite je li spojeno uzemljenje kako biste
+spriječili mogući strujni udar (projektor s
+priključkom za izmjeničnu struju i uzemljenjem
+potrebno je spojiti na utičnicu izmjenične struje
+sa spojenim uzemljenjem).
+Ukoliko nisu izvedive metode uzemljenja, kvalificirani električar treba ugraditi zasebni prekidač
+kruga.
+Ne pokušavajte uzemljiti uređaj spajanjem na
+telefonske žice, gromobrane ili plinske cijevi.
+4
+NAPOMENE
+Prije premještanja ili čišćenja
+iskopčajte ga iz napajanja i uklonite
+sve priključke.
+Projektor koristite isključivo na ravnim
+i stabilnim površinama.
+Mogao bi pasti, ozlijediti nekoga i/ili
+oštetiti se.
+UPOZORENJE
+Kabel napajanja trebali biste gurnuti u
+utičnicu do kraja kako biste izbjegli
+opasnost od požara!
+To bi moglo dovesti do opasnosti od požara
+ili do oštećenja uređaja.
+Nemojte postavljati teške predmete
+na kabel napajanja.
+To bi moglo dovesti do požara ili opasnosti
+od strujnog udara!
+Sigurnosne upute
+Napajanje
+UPOZORENJE
+Nikad ne dodirujte strujne priključke
+mokrom rukom.
+Ne priključujte previše strujnih
+potrošača u jednu zidnu utičnicu.
+To bi moglo dovesti do opasnosti od
+strujnog udara!
+To bi moglo dovesti do pregrijavanja
+utičnice i opasnosti od požara!
+Napajanje
+Nemojte dopustiti da se prašina skuplja na izvodima napajanja ili zidne
+utičnice.
+To bi moglo dovesti do opasnosti od
+požara!
+NAPOMENE
+Prilikom iskopčavanja, čvrsto držite
+utičnicu.
+Ako povučete za kabel,
+mogli biste ga oštetiti.
+Nemojte koristiti ako su kabel napajanja ili utičnica oštećeni ili ako je bio
+koji dio zidne utičnice nepričvršćen.
+To bi moglo dovesti do opasnosti od
+požara!
+To bi moglo dovesti do požara ili do opasnosti od strujnog udara ili oštećenja
+uređaja!
+Projektor postavite tako da se ljudi ne
+spotiču i ne zapinju za kabel napajanja.
+Projektor nemojte uključivati/isključivati ukopčavanjem ili iskopčavanjem
+priključka napajanja iz utičnice
+(prije iskopčavanja napajanja pričekajte da se uređaj ohladi).
+To bi moglo dovesti do požara ili do opasnosti od strujnog udara ili oštećenja
+uređaja!
+To bi moglo dovesti do mehaničkih pogrešaka ili uzrokovati strujni udar.
+Upotreba
+To bi moglo dovesti do požara ili do opasnosti od strujnog udara ili oštećenja
+uređaja!
+UPOZORENJE
+Na projektor nemojte postavljati ništa U slučaju strujnog udara ili oštećenja
+što sadrži tekućine (npr.
+posudu s
+projektora, isključite ga i iskopčajte iz
+cvijećem, čašu, kozmetiku ili svijeću).
+strujne utičnice i obratite se u ovlašteni
 servisni centar.
-Funkcija Smart Diagnosis™ ne moÏe se
-aktivirati ako se su‰ilica ne da ukljuãiti.
+To bi moglo dovesti do opasnosti od
+požara ili do oštećenja uređaja!
+Kabel napajanja ne smije dolaziti u
+dodir s oštrim ili vrućim predmetima.
+Ne dopustite da u projektor upadnu
+predmeti.
+To bi moglo dovesti do opasnosti od strujnog udara ili oštećenja uređaja!
+To bi moglo dovesti do požara ili do opasnosti
+od strujnog udara ili oštećenja uređaja!
+Ako projektor polijete vodom, odmah ga isključite iz napajanja i obratite se serviseru.
+Iskorištene baterije odložite
+pažljivo i na siguran način.
+To bi moglo dovesti do opasnosti od strujnog udara ili oštećenja uređaja!
+Ako dijete proguta bateriju,
+odmah se javite doktoru.
+Ne skidajte poklopce.
+Velika opasnost
+od strujnog udara!
+Ne gledajte izravno u leću dok projektor radi.
+Moglo bi doći do
+oštećenja očiju!
+Ne dodirujte metalne dijelove tijekom
+ili neposredno nakon rada jer ventilacijski otvori budu vrući!
+OPREZ u vezi kabela napajanja
+Nemojte preopteretiti zidne utičnice ili prekidače strujnog kruga.
+Preopterećene zidne utičnice, nepričvršćene ili
+oštećene zidne utičnice, produžni kabeli, oštećeni kabeli napajanja ili oštećenja na izolaciji predstavljaju opasnost.
+Navedeni bi uvjeti mogli dovesti do strujnog udara ili požara.
+S vremena na vrijeme provjerite kabel uređaja i ako njegov izgled otkriva oštećenja, iskopčajte ga, prestanite s upotrebom uređaja i pozovite ovlaštenog servisera koji će
+kabel zamijeniti identičnim zamjenskim kabelom.
+Kabel napajanja zaštitite od fizičkog ili mehaničkog habanja, zakretanja, uvijanja; nemojte ga pritiskati, zaglavljivati
+vratima ili hodati po njemu.
+Naročito pazite na priključke, zidne utičnice i mjesto na kojem kabel izlazi iz uređaja.
+5
+Sigurnosne upute
+Upotreba
+UPOZORENJE
+Ako se projektor nalazi u prostoriji u kojoj curi plin, nemojte ga dodirivati.
+To može uzrokovati požar potaknut iskrenjem.
+Upotreba
+Uvijek držite vrata leće otvorenima
+i poklopac leće skinutim kad je
+lampa projektora uključena.
+NAPOMENE
+Na projektor ne postavljajte teške
+predmete.
+Time biste mogli uzrokovati mehanički
+kvar ili se ozlijediti!
+Ne koristite oštre predmete na projektoru jer tako biste mogli oštetiti
+kućište.
+Pripazite kako ne biste oštetili leću,
+naročito prilikom premještanja projektora.
+Ako se na zaslonu ne prikazuje slika,
+isključite ga i iskopčajte iz zidne
+utičnice i obratite se serviseru.
+To bi moglo dovesti do požara ili do opasnosti od strujnog udara ili oštećenja uređaja!
+Čišćenje
+Ne dodirujte leću projektora.
+Osjetljiva je i lako biste je mogli
+oštetiti.
+Ne ispuštajte projektor na pod i izbjegavajte udarce.
+Time biste mogli uzrokovati mehanički
+kvar ili se ozlijediti!
+UPOZORENJE
+Projektor nemojte čistiti vodom.
+To bi moglo dovesti do oštećenja projektora ili opasnosti od strujnog udara.
+U neočekivanom slučaju dima ili
+neobičnih mirisa iz projektora,
+isključite ga, iskopčajte iz zidne
+utičnice i obratite se svom distributeru
+ili u servisni centar.
+Za uklanjanje prašine ili mrlja s leće
+projektora koristite zračni sprej ili
+meku krpicu navlaženu neutralnim
+deterdžentom i vodom.
+To bi moglo dovesti do požara ili do opasnosti od strujnog udara ili oštećenja
+uređaja!
+Čišćenje
+Jednom godišnje javite
+se u servisni centar radi
+čišćenja unutarnjih
+dijelova projektora.
+Nakupljena prašina može
+uzrokovati mehanički kvar.
+NAPOMENE
+Prilikom čišćenja plastičnih dijelova poput kućišta projektora, iskopčajte napajanje i
+obrišite dio mekom krpicom.
+Nemojte koristiti sredstva za čišćenje, prskati dijelove
+vodom ili ih brisati mokrom krpicom.
+Naglašavamo kako nikada ne biste smjeli koristiti
+sredstva za čišćenje (sredstvo za čišćenje stakla), sredstva za poliranje automobila ili
+industrijska sredstva za poliranje, abrazivna sredstva ili vosak, benzen, alkohol itd., jer
+njima biste mogli oštetiti uređaj.
+Za uklanjanje prašine ili mrlja s leće projektora koristite
+zračni sprej ili meku krpicu navlaženu neutralnim deterdžentom i vodom.
+To može uzrokovati požar, električni udar ili oštećenja uređaja (izobličenja, koroziju i oštećenja).
+Ostalo
+UPOZORENJE
+Nemojte pokušavati sami servisirati projektor.
+Obratite se svom distributeru ili u servisni centar.
+To bi moglo dovesti do oštećenja projektora i strujnog udara te poništiti valjanost jamstva!
+Ostalo
+6
+NAPOMENE
+Ne kombinirajte nove baterije sa
+starima.
+Svakako iskopčajte projektor ako ga ne
+namjeravate koristiti duže vremena.
+Koristite samo navedenu vrstu
+baterije.
+To bi moglo dovesti do pregrijavanja i
+curenja baterija.
+Nakupljena prašina mogla bi dovesti do
+opasnosti od požara ili do oštećenja uređaja!
+To bi moglo dovesti do oštećenja
+daljinskog upravljača.
+Nazivi dijelova
+Nazivi dijelova
+Kućište
+*P
+ rojektor je proizveden pomoću iznimno precizne tehnologije.
+Unatoč tome, na zaslonu projektora mogli biste uočiti crne i/ili
+svijetle (crvena, plava ili zelena) točkice.
+One su često uobičajen rezultat proizvodnog procesa i ne ukazuju uvijek na kvar.
+Upravljačka ploča
+Zvučnici
+Zvučnici
+Ventilacijski izlaz
+Prsten za fokusiranje
+Upravljačka ploča
+Gumb INPUT
+Odabir između komponentnog, video,
+RGB ili HDMI načina rada.
+Gumb ∧/∨/＜/＞
+Podešavanje funkcije izbornika.
+Ako se na zaslonu ne prikazuje grafički prikaz, glasnoću podešavajte pomoću gumba
+＜/＞
+Gumb MENU
+Odabir ili zatvaranje izbornika.
+Gumb POWER
+Gumb ◉OK
+Provjera trenutnog načina rada i spremanje
+promjena u funkcijama.
+Uključivanje/isključivanje projektora.
+7
+Nazivi dijelova
+Priključak
+IR (senzor daljinskog upravljača)
+* Nemojte blokirati IR priključak kako biste omogućili normalan rad daljinskog
+upravljača.
+Priključak za slušalice
+VIDEO ULAZ
+AUDIO ULAZ
+DC ULAZ
+Kensington sigurnost
+Priključak sustava
+(pogledajte na str.
+13).
+USB
+HDMI
+RGB ULAZ
+*Koristite li istovremeno HDMI/USB priključak, a priključna
+utičnica je prevelika, možda nećete ostvariti dobar spoj.
+Koristite priključak standardne veličine.
+8
+Nazivi dijelova
+Daljinski upravljač
+Gumb MUTE
+Gumb INPUT
+Gumb VOLUME +, Gumb RETURN
+Gumb POWER
+Gumb KEYSTONE +, Gumb MENU
+Gumb OK◉, ∧/∨/＜/＞
+Gumb AUTO
+Gumb USB
+Gumb BLANK
+Gumb Q.MENU
+USB upravljački gumbi
+Gumb STILL
+(Funkcije kao što je gumb STILL u bilo kojem
+drugom načinu rada osim u načinu rada DivX.)
+Gumb PAGE ꔏ
+Gumb PAGE ꔎ
+Gumb MARK
+Umetanje baterija
+OPREZ
+RIZIK OD EKSPLOZIJE U SLUČAJU ZAMJENE BATERIJE BATERIJOM NEODGOVARAJUĆE VRSTE.
+ISKORIŠTENE BATERIJE ODLOŽITE U SKLADU S UPUTAMA.
+(A)
+(B)
+1.
+S
+ kinite poklopac odjeljka za bateriju
+povlačeći ga u smjeru strelice (A).
+Povucite poklopac u smjeru strelice
+(B).
+2.
 U
-tom sluãaju rje‰avanje problema mora se
-obaviti bez funkcije Smart Diagnosis™.
-Ako imate problema sa svojom su‰ilicom
-nazovite korisniãki informacijski centar.
-Slijedite upute djelatnika pozivnog centra i
-na zahtjev uãinite sljedeçe korake:
-1.
-Pritisnite gumb za ukljuãivanje/iskljuãivanje
-za ukljuãivanje su‰ilice.
-Nemojte pritiskati
-bilo koji drugi gumb ili okretati gumb
-programatora.
-Maks.
-mm
-Max.
-1010
-mm
+ metnite bateriju s pozitivnom stranom okrenutom prema gore.
 3.
-Pritisnite i drÏite tri sekunde pritisnutim
-gumb „ (Vi‰e)“, drÏeçi mikrofon telefona
-u blizini ikone "Smart Diagnosis™“ i gumba
-za ukljuãivanje/ iskljuãivanje.
+Vratite poklopac.
+▪▪ Koristite litijske baterije napona 3 V (CR2032).
+▪▪ Iskorištene baterije odlažite sukladno s lokalnim propisima.
+▪▪ Ako projektor ne planirate koristiti dulje vrijeme, izvadite bateriju.
+9
+Nazivi dijelova
+Dodaci
+Daljinski upravljač
+Baterija od 3 V
+Korisnički priručnik
+Korisnički priručnik na CD-u
+Kabel napajanja
+Računalni kabel
+Adapter
+RGB -> komponentni kabel
+Torba za prenošenje
+Poklopac objektiva i
+traka
+Tkanina za poliranje
+(*samo za model HS200G/HS201G)
+▪▪ D
+ aljinski upravljač koristite do udaljenosti od 6 m i kuta od 30° (lijevo/
+desno) unutar dosega uređaja za primanje signala.
+▪▪ Ako su kabeli spojeni na stražnje izlaze, preporučamo korištenje daljinskog upravljača unutar udaljenosti od 3 m i kuta od 30° (lijevo/desno).
+▪▪ Kada nosite daljinski upravljač u torbi za prenošenje, pripazite da projektor, kabeli, dokumenti ili drugi predmeti u torbi ne pritišću gumbe na
+daljinskom upravljaču.
+U suprotnom biste mogli značajno smanjiti vijek
+trajanja baterije.
+30°
+30°
+Opcijski dodaci
+* Želite li kupiti ove stavke, obratite se svom distributeru.
+* Opcijske dijelove možete promijeniti kako biste poboljšali kvalitetu uređaja, a možete dodavati i nove opcijske dijelove.
+Montiranje projektora na strop
+10
+Projekcijski zaslon
+Stalak
+HDMI kabel
+Video kabel
+Audio kabel
+Komponentni kabel
+Instalacija i kompozicija
+Instalacija i kompozicija
+Sigurnosne mjere prilikom postavljanja
+Osigurajte nesmetanu ventilaciju projektora.
+P
+ rojektor je opremljen ulaznim otvorima za ventilaciju na
+dnu i izlaznim otvorima za ventilaciju na prednjoj strani.
+Nemojte blokirati te otvore niti stavljati predmete u njihovu blizinu.
+Moglo bi doći do internog porasta temperature, koji može uzrokovati pad kvalitete slike ili oštećenje
+projektora.
+P
+ rojektor nemojte postavljati na tepih, sag ili slične
+površine.
+Tako biste mogli spriječiti adekvatnu ventilaciju
+dna projektora.
+Uređaj biste trebali postaviti samo na zid
+ili strop.
+Ostavite dovoljan razmak (30 cm ili više) oko projektora.
+P
+ rojektor nikada nemojte gurati i ne polijevajte ga
+tekućinom.
+Omogućite odgovarajuće uvjete za projektor s obzirom na adekvatnu temperaturu i vlažnost.
+Projektor postavite samo ondje gdje možete ostvariti adekvatnu temperaturu i vlažnost (pogledajte na str.
+41).
+Projektor nemojte postavljati na mjesta na kojima će ga prekriti prašina.
+To bi moglo dovesti do njegovog pregrijavanja.
+Ne zatvarajte utore i otvore na projektoru.
+To bi moglo uzrokovati pregrijavanje i dovesti do opasnosti od požara.
+Projektor je proizveden pomoću iznimno precizne tehnologije.
+Mogli biste uočiti crne i/ili svijetle (crvena, plava ili zelena)
+točkice koje se stalno prikazuju na zaslonu projektora.
+One su uobičajen rezultat proizvodnog procesa i ne ukazuju na kvar.
+Za prikaz DTV programa potrebno je kupiti DTV prijemnik (uređaj) i povezati ga s projektorom.
+Daljinski upravljač možda neće funkcionirati ako je lampa opremljena elektroničkim balastom ili ako je ugrađena lampa s
+tri valne duljine.
+Želite li omogućiti normalan rad daljinskog upravljača, takve lampe zamijenite međunarodno standardnima.
+11
+Instalacija i kompozicija
+Osnovne radnje projektora
+1.
+Projektor postavite na stabilnu vodoravnu površinu s računalnim ili audio-video ulazom.
+2.
+Projektor postavite na željenu udaljenost od zaslona.
+Udaljenost između projektora i zaslona određuje stvarnu
+veličinu slike.
+3.
+Projektor postavite tako da leća bude postavljena pod pravim kutom u odnosu na zaslon.
+Ako projektor ne postavite pod pravim kutom, slika na zaslonu bit će izobličena.
+Doduše, mala odstupanja mogu se kompenzirati
+pomoću funkcije za korigiranje kuta (pogledajte na str.
+20).
 4.
-Ne pomiãite telefon sve dok se ne zavr‰i
-prijenos tonova.
-Za to je potrebno oko 6
-sekundi, a vrijeme se odbrojava na
-zaslonu.
-Za najbolji rezultat nemojte pomicati
-telefon za vrijeme prijenosa tonova.
-Ako djelatnik pozivnog centra ne moÏe
-toãno zabiljeÏiti podatke, moÏe vas
-zamoliti da poku‰ate ponovno.
-Pritisak na gumb za ukljuãivanje/
-iskljuãivanje tijekom prijenosa iskljuãit çe
-Smart Diagnosis™.
+Nakon postavljanja projektora na željeno mjesto, priključite kabel napajanja u projektor i zidnu utičnicu.
+udaljenost projekcije s obzirom na format slike
+Zaslon
+X/2
+Omjer pomaka projekcije: 100%
+Visina zaslona (X)
+X/2
+Udaljenost projekcije (D)
+Y/2
+Zaslon
+Širina zaslona (Y)
+58,2 mm
+Y/2
+Udaljenost projekcije (D)
+Omjer 4:3
+Dijagonalno
+(mm)
+12
+Horizontalno
+(mm)
+Vertikalno
+(mm)
+Udaljenost projekcije
+(D) (mm)
+Instalacija i kompozicija
+Kako postaviti projektor pomoću stalka
+*P
+ rojektor možete postaviti koristeći stalak za kameru.
+Projektor možete postaviti na stalak za kameru umjesto same kamere.
+* Prilikom stabilizacije stalka, preporučamo korištenje vijka za učvršćivanje standardne dužine od 4,5 mm ili kraćeg.
+Maksimalna dopuštena dužina vijka za učvršćivanje je 6,5 mm (dužim vijcima mogli biste oštetiti projektor).
+Dio koji se priključuje na projektor
+Dio koji se priključuje na stalak
++
+=
+Donji dio projektora
+Stalak kamere
+Konačan rezultat nakon postavljanja projektora na stalak
+Kensington sigurnosni sustav
+  P
+ rojektor s bočne strane ploče ima priključak Kensington sigurnosnog sustava.
+Spojite kabel Kensington sigurnosnog sustava na način prikazan u nastavku.
+Detaljne upute o postavljanju i upotrebi Kensington sigurnosnog sustava potražite u korisničkom priručniku koji ste dobili uz
+Kensington sigurnosni sustav.
+Dodatne upute potražite na početnoj internetskoj stranici tvrtke Kensington, http://www.
+kensington.com, koja se bavi skupom elektroničkom opremom poput prijenosnih računala i projektora.
+Kensington sigurnosni sustav je dodatna oprema.
+13
+Instalacija i kompozicija
+Uključivanje projektora
+1.
+Provjerite je li kabel napajanja ispravno priključen.
+2.
+Priključite kabel za napajanje i pričekajte nekoliko trenutaka, a zatim pritisnite gumb POWER na upravljačkoj
+ploči ili daljinskom upravljaču.
+(uključit će se indikator na upravljačkoj ploči).
+Z
+ a odabir željenog ulaznog signala pritisnite gumb INPUT na daljinskom upravljaču ili gumb INPUT na upravljačkoj ploči.
+Nakon što nakon uključivanja projektora pritisnete gumb POWER na daljinskom upravljaču ili gumb POWER na upravljačkoj
+ploči, uključit će se indikatori svih gumba na upravljačkoj ploči.
+Isključivanje projektora
+Pritisnite gumb POWER na gornjem poklopcu ili gumb POWER na daljinskom upravljaču.
+Fokus i položaj slike na zaslonu
+Nakon što se na zaslonu prikaže slika, provjerite je li fokusirana i je li prilagođena zaslonu.
+Prsten za fokusiranje
+  Za podešavanje fokusa slike, okrenite prsten za fokusiranje.
+Odabir načina rada ulaza
+1.
+Pritisnite gumb INPUT na gornjem poklopcu ili gumb INPUT na daljinskom upravljaču.
+2.
+Odaberete li ulazni signal pomoću gumba INPUT, projektor će koristiti samo priključene ulaze.
+Možete odabrati
+bilo koji ulaz pomoću gumba ＜, ＞.
+Ulazna lista
+Component
+Video
+RGB
+HDMI
+  Komponentni ulaz je uvijek aktivan i ne podržava funkciju automatskog prepoznavanja (plug and play).
+14
+Povezivanje
+Povezivanje
+Povezivanje s računalom
+* Projektor možete povezati s računalom pomoću VGA, SVGA, XGA, SXGA izlaza.
+* Rješenja o podršci za projektor potražite na str.
+39.
+< Način povezivanja >
+Audio kabel
+1.
+P
+ riključite RGB IN priključak projektora i izlazni priključak
+računala pomoću računalnog kabela.
+2.
+P
+ riključite AUDIO IN priključak projektora i audio
+priključak računala pomoću audio kabela.
+*M
+ ožda ćete morati prilagoditi izlaznu razlučivost računala onoj
+koju podržava projektor.
+Pogledajte str.
+39.
+Projektor možda
+neće podržavati izlazne signale s prijenosnih računala kad je
+zaslon prijenosnih računala uključen.
+Računalni kabel
+Audio kabel
+Računalni kabel
+Povezivanje video izvora
+* Na projektor možete priključiti videorekorder, kamkorder ili bilo koji drugi kompatibilan izvor video slika.
+< Način povezivanja >
+1.
+P
+ riključite VIDEO IN priključak projektora i izlazni
+priključak video izvora s video kabelom.
+2.
+Priključite AUDIO IN priključak projektora i izlazni
+priključak audio izvora s audio kabelom.
+Video kabel
+Audio kabel
+<Videorekorder>
+15
+Povezivanje
+Povezivanje s uređajem za DVD reprodukciju
+* Ovisno o opremi, izlazni komponentni priključci (Y, PB, PR) DVD uređaja mogu biti označeni kao Y, Pb, Pr/Y, B-Y, R-Y/Y, Cb, Cr.
+< Priključivanje HDMI izvora >
+HDMI kabel
+1.
+S
+ pojite HDMI ulaz projektora i izlazni HDMI priključak DVD
+uređaja pomoću HDMI kabela.
+<DVD uređaj>
+2.
+Postavite razlučivost DVD uređaja na jedan od sljedećih
+načina rada: 480p(576p)/720p/1080i/1080p.
+< Priključivanje komponentnog izvora >
+Audio kabel
+<DVD uređaj>
+1.
+N
+ akon priključivanja komponentnog kabela DVD uređaja
+s RGB -> komponentnim kabelom, priključite ga s terminalnim priključkom projektora RGB IN.
+*P
+ rilikom priključivanja komponentnog kabela, uskladite boje
+priključka s komponentnim kabelom (Y=zelena, PB=plava, PR
+=crvena).
+2.
+Priključite AUDIO IN priključak projektora i izlazne
+priključke audio izvora s audio kabelom.
+Komponentni kabel
+RGB -> komponentni kabel
+Povezivanje s D-TV uređajem
+*	Želite li primati programe digitalne televizije (D-TV), trebate kupiti D-TV prijemnik (uređaj) i spojiti ga s projektorom.
+*	Način povezivanja projektora i D-TV uređaja potražite u korisničkom priručniku D-TV uređaja.
+< Priključivanje HDMI izvora >
+<D-TV uređaj>
+1.
+S
+ pojite HDMI ulaz projektora i izlazni HDMI priključak DTV
+uređaja pomoću HDMI kabela.
+2.
+Postavite razlučivost DTV prijemnika na jedan od sljedećih
+načina rada: 480p(576p)/720p/1080i/1080p.
+< Priključivanje komponentnog izvora >
+HDMI kabel
+Audio kabel
+1.
+K
+ omponentni kabel D-TV uređaja spojite s RGB -> komponentnim kabelom i zatim ga priključite na RGB IN priključak
+projektora.
+*P
+ rilikom priključivanja komponentnog kabela, uskladite boje
+priključka s komponentnim kabelom (Y=zelena, PB=plava, PR
+=crvena).
+2.
+Priključite AUDIO IN priključak projektora i izlazne priključke
+audio izvora s audio kabelom.
+16
+<D-TV uređaj>
+RGB -> komponentni kabel
+Komponentni kabel
+funkcija
+funkcija
+* Prikaz na zaslonu (OSD) u ovom priručniku može se djelomično razlikovati od onoga na projektoru.
+*	U ovom priručniku za rukovanje objašnjen je rad RGB (računalnog) načina rada.
+Opcije izbornika PICTURE
+Način upravljanja slikom
+Q-Menu
+* Pomoću funkcije načina upravljanja slikom postavite projektor za optimalan izgled slike.
+1.
+Na daljinskom upravljaču pritisnite gumb Q.MENU.
+Aspect Ratio
+2.
+Pomoću gumba ＜, ＞ prijeđite na Picture mode.
+Sleep Timer
+Picture Mode
+16:9
+ꔗ	
+Off
+Eject USB
+3.
+Pomoću gumba ∧, ∨ odaberite postavke slike.
+ꔗ	
+Vivid	
+ꔃ
+ꔗ	
+Expert2	
+ꔃ
+ꔗ	
+Standard	
+ꔗ	
+ꔃ
+Vivid	
+Eject
+Close
+ꔗ	
+ꔃ
+Expert1	
+Cinema	
+ꔃ
+ꔃ
+ꔗ	
+Sport	
+ꔃ
+ꔗ	
+Game	
+ꔃ
+  Ovu funkciju možete aktivirati pomoću gumba MENU.
+Za napuštanje zaslona izbornika pritisnite gumb RETURN.
+Podešavanje načina rada upravljanja slikom
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju PICTURE
+pomoću gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na željenu funkciju i pritisnite
+gumb ◉OK.
+3.
+Pomoću gumba ＜, ＞ napravite željena podešavanja i zatim pritisnite gumb ◉OK.
+PICTURE
+ꔂMove ꔉOK
+Picture Mode		 : Standard
+	
+ Contrast	
+50
+	
+ Brightness	
+50
+	
+ Sharpness	
+5
+	
+ Color	
+70
+	
+ Tint	
+0R
+	
+ Advanced Control
+	
+ Reset
+G
+  Za svaki ulaz i Picture Mode možete postaviti različite vrijednosti slike.
+Spremanjem nakon podešavanja prikazat će se (User) u podešenoj opciji
+Picture Mode (osim u slučaju postavke Expert 1/2).
+Za povratak na zadane tvorničke postavke izvršite Reset za Picture Mode.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+17
+funkcija
+Funkcija za ponovno postavljanje slike
+* Postavke odabrane funkcije PICTURE za svaki od ulaza i opciju Picture Mode vratit će se na tvornički zadane postavke.
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju PICTURE
+pomoću gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+PICTURE
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju Reset i pritisnite gumb
+◉OK.
+ꔂMove ꔉOK
+Picture Mode		 : Standard(User)
+	
+ Contrast	
+50
+	
+ Brightness	
+50
+	
+ Sharpness	
+5
+	
+ Color	
+70
+	
+ Tint	
+0R
+	
+ Advanced Control
+	
+ Reset
+  Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+G
+Funkcija za naprednu kontrolu
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju
+PICTURE pomoću gumba ∧, ∨, ＜, ＞ i pritisnite gumb
+◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju Advanced
+Control i pritisnite gumb ◉OK.
+3.
+Pomoću gumba ∧, ∨ prijeđite na željenu stavku.
+4.
+Pomoću gumba ＜, ＞ napravite željena podešavanja i
+zatim pritisnite gumb ◉OK.
+< Kad je opcija Picture Mode postavljena na Vivid/
+Standard/Cinema/Sport/Game >
+PICTURE
+Color Temperature
+ꔗ	
+Move
+Dynamic Contrast
+Picture Mode		 : Standard
+Dynamic Color
+	
+ Contrast	
+50
+Noise
+Reduction 50
+	
+ Brightness	
+	
+ Sharpness	
+5
+Gamma
+	
+ Color	
+70
+Black
+Level
+	
+ Tint	
+0R
+	
+ Advanced
+Control
+Film
+Mode
+	
+ Reset
+Color Gamut
+Medium	 ꔃ
+OK
+High
+High
+Medium
+Medium
+High
+G
+Off
+Wide
+On
+Edge Enhancer
+Close
+  Z
+ a svaki ulaz i Picture Mode možete postaviti različite vrijednosti
+slike.
+< Kad je opcija Picture Mode postavljena na Expert 1/2 >
+  Za povratak na zadane tvorničke postavke izvršite Reset za Picture
+Dynamic Contrast
+ꔗ	 Medium	 ꔃ
+Mode.
+OK
+PICTURE Noise Reduction Move
+High
+  Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+Picture Mode		 : Standard
+	
+	
+	
+	
+	
+	
+	
+Gamma
+ Contrast	
+50
+Black
+Level
+ Brightness	
+50
+ Sharpness	
+5
+Film
+Mode
+ Color	
+70
+Color
+Standard
+ Tint	
+0R
+ Advanced
+Color
+Gamut Control
+ Reset
+Edge Enhancer
+ꔍ
+Close
+18
+High
+Medium
+Medium
+High
+G
+Off
+Wide
+funkcija
+Color Temperature
+ꔈ	Odaberite Warm kako biste naglasili toplije boje (npr.
+crvena) ili Cool želite li plavičastu sliku.
+Dynamic Contrast
+ꔈ	Podešavanje kontrasta i njegovo prilagođavanje svjetlini zaslona.
+Kada se svijetli dijelovi još više posvijetle, a tamni još više zatamne, slika se poboljšava.
+Dynamic Color
+Noise Reduction
+Gamma
+ꔈ	Prilagođavanje boja na zaslonu tako da izgledaju življe, bogatije i jasnije.
+Ova značajka naglašava
+nijansu, zasićenost i osvijetljenost, tako da crvena, plava, zelena i bijela izgledaju življe.
+ꔈ	Smanjenje šuma na zaslonu bez smanjenja kvalitete videozapisa.
+Low: Posvjetljivanje tamnijih i srednje tamnih područja slike.
+Medium: Izvorne razine slike.
+High: Potamnjivanje tamnijih i srednje tamnih područja slike.
+ꔈ	Možete prilagoditi svjetlinu tamnijih i srednje tamnih područja slike.
+Black Level
+	 Low: Slika zaslona postaje tamnija.
+High: Slika zaslona postaje svjetlija.
+Auto: Određivanje razine crne na zaslonu i njeno automatsko postavljanje na vrijednost High ili Low.
+ꔈ	Postavite razinu crne na zaslonu na odgovarajuću razinu.
+ꔈ	Ova značajka onemogućena je u načinu rada RGB.
+Film Mode
+ꔈ	Videozapisi snimljeni u filmu izgledat će prirodno uslijed uklanjanja neželjenih efekata.
+ꔈ	DVD i Blu-ray filmovi snimaju se pri 24 sličice u sekundi.
+Color Gamut
+	 Standard: Prikazuje standardno područje boja.
+Wide: Način rada za upotrebu i postavljanje bogatog područja boja na zaslonu.
+ꔈ	Maksimalno iskorištavanje boja radi povećanja njihove kvalitete.
+ꔈ	U načinu rada Advanced Control, ova je značajka omogućena pod opcijom Color Temperature Warm.
+Edge Enhancer
+ꔈ	Kutove videozapisa prikazuje jasnijima i oštrijima na prirodan način.
+Color Standard
+ꔈ	Promjena boja drugog videozapisa u HD boje.
+White Balance
+	 - Ova funkcija omogućava opciju Expert 1/2.
+ꔈ	Ovom se funkcijom podešava opći dojam boja na čitavom zaslonu.
+a. Metoda : 2 Points
+	 - Pattern: Inner, Outer
+	 - Red/Green/Blue Contrast, Red/Green/Blue Brightness: Raspon podešavanja iznosi -50 ~ +50.
+b. Metoda : 20 Points IRE
+	 - Pattern: Inner, Outer
+	 - IRE (Institute of Radio Engineers) jedinica je za prikaz veličine video signala i može se postaviti
+između vrijednosti 5, 10, 15 - 95, 100.
+Možete podesiti opciju Red, Green ili Blue, već prema postavkama.
+- Red/Green/Blue: Raspon podešavanja iznosi -50 - +50.
+Color Management
+System
+	 - Ova funkcija omogućava opciju Expert 1/2.
+ꔈ	Ovaj alat koriste stručnjaci za vršenje podešavanja pomoću testnih uzoraka, pa ne utječe na ostale
+boje, ali može se koristiti za selektivno podešavanje 6 područja boja (crvena/zelena/plava/cijan/
+grimizna/žuta).
+Razlike u bojama možda se neće opažati čak i ako vršite podešavanje za opće videozapise.
+Podešavanje crvene/zelene/plave/žute/cijan/grimizne.
+- Red/Green/Blue/Yellow/Cyan, Magenta Color: Raspon podešavanja iznosi -30 ~ +30.
+- Red/Green/Blue/Yellow/Cyan, Magenta Tint: Raspon podešavanja iznosi -30 ~ +30.
+- Ova značajka onemogućena je u načinu rada s računalom.
+19
+funkcija
+Opcije izbornika SCREEN
+Promjena načina rada PJT
+* Ovom funkcijom projicirana se slika okreće po vertikalnoj ili horizontalnoj osi.
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju SCREEN
+pomoću gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+SCREEN
+ꔂMove ꔉOK
+PJT Mode		
+Aspect Ratio		
+Keystone
+RGB Config.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju PJT Mode i pritisnite gumb ◉OK.
+: Front
+: 16 : 9
+-
++
+3.
+Pomoću gumba ∧, ∨ prijeđite na željenu stavku i zatim
+pritisnite gumb ◉OK.
+Prilikom projekcije sa stražnje strane prozirnog zaslona koji ste dokupili zasebno, odaberite opciju Rear.
+Postavljate li uređaj na strop, odaberite Ceiling.
+Ako je način rada PJT postavljen na Rear/Ceiling zvučnici će automatski zamijeniti strane.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+Upotreba funkcije za format slike
+* Pomoću funkcije načina upravljanja slikom postavite projektor za optimalan izgled slike.
+Q-Menu
+1.
+Na daljinskom upravljaču pritisnite gumb Q.MENU.
+Aspect Ratio
+2.
+Pomoću gumba ∧, ∨ prijeđite na Aspect Ratio.
+Sleep Timer
+3.
+Pomoću gumba ＜, ＞ odaberite željenu veličinu zaslona.
+ꔗ	
+ꔗ	
+Just Scan	
+ꔃ
+ꔗ	 Set By Program	 ꔃ
+ꔗ	 Cinema Zoom1	 ꔃ
+ꔗ	
+Zoom	
+ꔃ
+ꔗ	
+16:9	
+16:9	
+Vivid
+ꔃ
+Off
+Eject USB
+ꔃ
+4:3	
+ꔗ	
+Picture Mode
+Eject
+Close
+ꔃ
+  Određene funkcije možda neće biti dostupne, ovisno o ulaznih signalima.
+Ovu funkciju možete aktivirati pomoću gumba MENU.
+Za napuštanje zaslona izbornika pritisnite gumb RETURN.
+Upotreba funkcije za korigiranje kuta
+* Ovu funkciju koristite ako zaslon nije pod pravim kutom u odnosu na projektor, a slika je trapezoidnog oblika.
+* Funkciju Keystone koristite samo ako ne možete postići najbolji kut za projekciju.
+1.
+Pritisnite gumb KEYSTONE +, - na daljinskom upravljaču.
+2.
+Za podešavanje zaslona prema vlastitom nahođenju pritisnite
+gumb KEYSTONE +, -.
+Keystone	
+0
+ꔗ	
+-
++
+ꔉOK
+  Keystone možete postaviti od -40 do 40.
+Ovu funkciju možete aktivirati pomoću gumba MENU.
+Za napuštanje zaslona izbornika pritisnite gumb RETURN.
+20
+ꔃ
+funkcija
+Funkcija za automatsko konfiguriranje
+* Ova funkcija osigurava najbolju kvalitetu videozapisa automatskim podešavanjem horizontalne veličine i sinkronizacijom slike.
+* Funkcija automatskog praćenja radi samo kod RGB ulaza s računala.
+Na daljinskom upravljaču pritisnite gumb AUTO.
+Izvršavate li podešavanje zaslona za videozapis iz grafičkog signala računala,
+možda nećete pronaći optimalno stanje.
+Izvršite funkciju Auto Configure za
+statički isječak.
+Ovu funkciju možete aktivirati pomoću gumba MENU.
+Auto configure
+RGB Config.
+funkcija
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju SCREEN pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+RGB Config.
+Resolution
+2.
+Pomoću tipke ∧, ∨ prijeđite na RGB Config.
+i pritisnite ◉OK.
+Auto Configure
+3.
+Pomoću gumba ∧, ∨prijeđite na željenu stavku i zatim pritisnite gumb
+＞.
+Position
+4.
+Pomoću gumba ∧, ∨, ＜, ＞ podesite zaslon prema vlastitom
+nahođenju i zatim pritisnite gumb ◉OK.
+Phase
+ 
+ 
+ꔂMove ꘀ Prev.
+ꔃ
+ꔐ	1024 x 768
+	 1280 x 768
+	 1360 x 768
+Size
+Reset
+R
+ esolution pruža odabir razlučivosti 768 (1024x768/1280x768/1360x768,
+60 Hz) i 1050 (1400x1050/1680x1050, 60 Hz).
+Za napuštanje zaslona izbornika pritisnite gumb RETURN.
+Upotreba funkcije statičkog isječka
+1.
+Na daljinskom upravljaču pritisnite gumb STILL.
+* Možete zamrznuti sliku u pokretu.
+<Pokretne slike>
+<Statički isječak>
+2.
+Želite li napustiti način rada STILL, pritisnite bilo koji gumb.
+* Funkcija STILL otpustit će se automatski, nakon desetak minuta.
+21
+funkcija
+Opcije izbornika AUDIO
+Što je to bežični FM audio?
+(samo model HS200/HS200G)
+Bežični FM audio funkcija je za odašiljanje audio signala s projektora putem FM frekvencije (88,1 MHz - 107,9 MHz).
+Frekvencija projektora i FM prijemnika trebale bi biti identične radi ostvarivanja normalne reprodukcije zvuka iz FM
+prijemnika.
+Signal možete primiti putem FM prijemnika koji se nalazi unutar udaljenosti od 3 m.
+Zvučni signal 88,1 MHz - 107,9 MHz
+< Preporučeni raspon korištenja FM prijemnika >
+Postavite projektor i FM prijemnik bez prepreka, kao što je prikazano na slici u nastavku.
+FM prijemnik može ostvariti domet od 5 m u slučaju dobre dužine antene i smjera.
+FM prijemnik
+Raspon primanja
+Unutar 3 m
+45°
+45°
+Front
+Projektor
+45°
+45°
+< Preporučena dužina antene FM prijemnika >
+Za bolju kvalitetu zvuka preporučamo upotrebu radijske antene dužine 0,8 m - 1,5 m jer se kod upotrebe radijske
+antene kraće od 0,8 m mogu pojaviti zvučni šumovi.
+22
+funkcija
+Upute za postavljanje (samo model HS200/HS200G)
+  K
+ oristite li ovu značajku u medicinskim ustanovama, moglo bi doći do poteškoća u radu medicinskih uređaja.
+Nemojte je koristiti u medicinskom okruženju.
+Udaljenost između projektora i FM prijemnika ne bi smjela biti veća od 3 m.
+  U slučaju udaljenosti veće od 3 m, zvuk iz FM prijemnika možda neće biti željene kvalitete.
+P
+ odesite položaj FM prijemnika i pripadajuće mu antene i postavite ih na mjesto na kojemu se može ostvariti
+dobar prijem.
+V
+ eć prema položaju i okruženju postavljanja, udaljenost prijema mogla bi biti manja i moglo bi doći do prekidanja zvuka u slučaju:
+		
+		
+		
+		
+		
+		
+		
+-
+Postojanja prepreke u blizini projektora i FM prijemnika.
+Prolaska prepreke u blizini projektora i FM prijemnika.
+Ako je FM prijemnik postavljen lijevo, desno ili dijagonalno od projektora
+Ako su projektor ili FM prijemnik postavljeni u metalno kućište.
+Ako druga oprema za FM prijenos radi na bliskoj frekvenciji.
+Radijskog prijenosa na istoj frekvenciji.
+Rada u prašnjavim, vlažnim uvjetima ili uvjetima visoke temperature.
+Što učiniti u slučaju lošeg signala FM prijema?
+(samo model HS200/HS200G)
+  Podesite antenu FM prijemnika ili mu promijenite položaj.
+U
+ slučaju izostanka zvučnog signala ili niske razine prijema, funkcija bežičnog FM audio-prijema automatski
+će se isključiti unutar 55 sekundi.
+Provjerite dolazni zvučni signal.
+Provjerite jesu li projektor i FM prijemnik uključeni.
+Provjerite postoje li prepreke između projektora i FM prijemnika.
+Provjerite nalazi li se u blizini metalni hardverski ili elektronički uređaj.
+Provjerite postoji li radio-kanal koji za emitiranje koristi istu frekvenciju.
+Ako je to slučaj, promijenite frekvenciju na projektoru.
+23
+funkcija
+Slušanje putem zvučnika FM prijemnika (samo model HS200/HS200G)
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju AUDIO pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju FM Wireless Audio i pritisnite gumb ◉OK.
+AUDIO
+ꔂMove ꔉOK
+FM Wireless Audio	 : Off
+	
+ Frequency		 88.1 MHz
+Volume			
+50
+Balance			
+0 L
+Treble			
+0
+R
+3.
+Pomoću gumba ∧, ∨ prijeđite na opciju On i pritisnite gumb
+◉OK.
+4.
+Pomoću gumba ∧, ∨ prijeđite na opciju Frequency i pritisnite
+gumb ◉OK.
 5.
-Nakon ‰to se zavr‰i odbrojavanje i prekinu
-tonovi nastavite razgovor s djelatnikom
-pozivnog centra, koji çe vam tada biti u
-moguçnosti pomoçi kori‰tenjem
-prenesenih informacija za analizu u
-korisniãkom informacijskom centru.
-NAPOMENA
-2.
-Kad vas na to uputi pozivni centar postavite
-mikrofon telefona u blizinu ikone "Smart
-Diagnosis™“ i gumba za ukljuãivanje/
-iskljuãivanje.
-28
-Smart Diagnosis je funkcija za
-utvr√ivanje problema ãija je svrha
-pomoç, a ne zamjena za uobiãajene
-naãine otklanjanja kvarova putem
-servisa.
-Uãinkovitost ove funkcije ovisi
-o razliãitim ãimbenicima, ukljuãujuçi
-izme√u ostalog prijem telefona koji se
-koristi za prijenos, eventualnu vanjsku
-buku prisutnu tijekom prijenosa te
-akustiãnost prostorije u kojoj je stroj
-smje‰ten.
-LG ne jamãi da çe funkcija
-Smart Diagnosis ispravno detektirati
-odre√eni problem.
-Tehniãki podaci
-850 mm
-640 mm
-600 mm
-■ Zahtjevi za elektriãno spajanje
-Neto masa : 55,9 kg, neprozirna vrata
-57,4 kg, staklena (Cr) vrata
-■ Zahtjevi za ventiliranje
-Napon
-Frekvencija
-Snaga
-Ni‰a ili ispod
-radne ploãe
-230 V
-50 Hz
-1800
-Osigurajte
-protok zraka
-kroz su‰ilicu od
-112 kubiãnih
-stopa/min
-Vodite raãuna da prikljuãite su‰ilicu na
-ispravan napon struje.
-Na nazivnoj ploãici
-su‰ilice oznaãen je ispravan napon.
-Ormar
-Vrata ormara moraju
-imati 2 (re‰etkasta)
-otvora minimalne
-povr‰ine 60 ãetvornih
-inãa svaki (387 cm2),
-udaljena 3 inãa (8 cm)
-od dna i vrha vrata.
-■ Maks.
-kapacitet: 8 kg
-■ Dopu‰tena temperatura:
-5 ~ 35°C
-■ Dubina pri otvorenim
-vratima: 1090 mm
-29
-Jamstvo
-Zbrinjavanje starog ure√aja
+Pomoću gumba ＜, ＞ podesite frekvenciju i pritisnite gumb ◉OK.
+6.
+Frekvenciju FM prijemnika podesite na frekvenciju postavljenu na projektoru.
+ ko je funkcija FM Wireless Audio postavljena na on, onemogućit ćete funkcije Mute/Volume/Balance/Treble.
+A
+Moglo bi doći do razlika u udaljenosti prijema i kvaliteti zvuka u ovisnosti o vrsti FM prijemnika i položaju postavljanja.
+FM frekvenciju možete postaviti između 88,1 MHz - 107,9 MHz.
+Ako ne koristite FM prijemnik ili zvučne signale s projektora, odaberite Off.
+Nakon povratka napajanja, status će se promijeniti u Off.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+Podešavanje glasnoće
+Na daljinskom upravljaču pritisnite gumb VOLUME +, -.
+Ako je funkcija FM Wireless Audio uključena, funkcija neće raditi.
+Podesite
+je pomoću FM prijemnika.
+Ovu funkciju možete aktivirati pomoću gumba MENU.
+24
+funkcija
+Podešavanje ravnoteže zvučnika
+* Zvuk iz lijevog/desnog zvučnika podesite prema vlastitom ukusu i akustici prostorije.
 1.
-Ako se na ure√aju nalazi ovaj simbol precrtane kante za smeçe na
-kotaãima to znaãi da je ure√aj obuhvaçen europskom Direktivom
-2002/96/EC.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju AUDIO pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
 2.
-Svi elektriãni ili elektroniãki proizvodi moraju se zbrinjavati odvojeno
-od tokova komunalnog otpada, putem sabirnih mjesta koja utvrde
-tijela sredi‰nje drÏavne ili lokalne uprave.
+Pomoću gumba ∧, ∨ prijeđite na opciju Balance i pritisnite gumb
+◉OK.
+AUDIO
+ꔂMove ꔉOK
+FM Wireless Audio	 : Off
+	
+ Frequency		 88.1 MHz
+Volume			
+50
+Balance			
+0 L
+Treble			
+0
+R
 3.
-Ispravnim zbrinjavanjem svog starog ure√aja pomaÏete sprijeãiti
-moguçe negativne posljedice po okoli‰ i ljudsko zdravlje.
-4.
-Za detaljnije informacije o zbrinjavanju svog starog ure√aja obratite
-se nadleÏnom gradskom uredu, sluÏbi za zbrinjavanje otpada ili
-trgovcu kod kojeg ste kupili ure√aj.
-Informacija o fluoriranim stakleniãkim plinovima kori‰tenima kao
-rashladno sredstvo u ovom ure√aju
-Kemijski naziv
-Sastav plinova
-Ukupno GWP (kg CO2 –eq)
-R – 134a
-100% HFC – 134a
-1300
-NAPOMENA
- Kad zbrinjavate ure√aj odreÏite kabel za napajanje, uni‰tite utikaã i skinite vrata
-kako biste sprijeãili da djeca ostanu zaglavljena u unutra‰njosti.
-■ ·to nije pokriveno jamstvom.
-Dolazak servisera u va‰ dom radi upuçivanja u rad s ure√ajem.
-Situacija kad se ure√aj prikljuãi na napon drukãiji od onog iskazanog na nazivnoj ploãici.
-Kvarovi uzrokovani sluãajnim o‰teçivanjem, nemarom, pogre‰nom uporabom ili vi‰om
-silom.
-Kvarovi uzrokovani razlozima koji izlaze iz okvira normalne uporabe u kuçanstvu i
-kori‰tenja u skladu s korisniãkim priruãnikom.
-Kvarovi koje uzrokuju ‰tetoãine, npr.
-‰takori, mi‰evi i sl.
-Buka ili vibracije koji se smatraju normalnima, na primjer zvuk ispu‰tanja vode, zvuk
-okretanja bubnja ili zvukovi upozorenja.
-Popravak montaÏe, npr.
-niveliranje ure√aja, prilagodba ispusta.
-Normalno odrÏavanje prema preporukama iz korisniãkog priruãnika.
-Uklanjanje stranih predmeta/tvari iz stroja ukljuãujuçi pumpu i filtar ulaznog crijeva, npr.
-kamenãiça, noktiju, Ïica grudnjaka, gumba i sl.
-Zamjena osiguraãa, ispravljanje oÏiãenja ili vodovodnih instalacija.
-Ispravak neovla‰tenih popravaka.
-Popratna ili posljediãna ‰teta na osobnoj imovini uzrokovana moguçim nedostacima
-ure√aja.
-Ako se ovaj ure√aj koristi u komercijalne svrhe jamstvo postaje ni‰tavno.
-(Primjer: javna mjesta poput javnih kupatila, prenoçi‰ta, obrazovnih centara, domova)
- Ako se stroj postavi izvan redovnog podruãja servisiranja, sve tro‰kove prijevoza u vezi
-s njegovim popravkom ili zamjenom neispravnog dijela snosi vlasnik.
+Pomoću gumba ＜, ＞ podesite ravnotežu raspodjele zvuka i pritisnite gumb ◉OK.
+Ako je funkcija FM Wireless Audio postavljena na on, funkcija neće raditi.
+Podesite je pomoću FM prijemnika.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+Podešavanje visokih tonova
+* Visoke tonove podesite prema vlastitom ukusu i akustici prostorije.
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju AUDIO pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju Treble i pritisnite
+gumb ◉OK.
+AUDIO
+ꔂMove ꔉOK
+FM Wireless Audio	 : Off
+	
+ Frequency		 88.1 MHz
+Volume			
+50
+Balance			
+0 L
+Treble			
+0
+R
+3.
+Pomoću gumba ＜, ＞ podesite visoke zvučne tonove i pritisnite
+gumb ◉OK.
+A
+ ko je funkcija FM Wireless Audio postavljena na on, funkcija neće
+raditi.
+Podesite je pomoću FM prijemnika.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+25
+funkcija
+Opcije izbornika TIME
+Funkcija za stanje mirovanja
+Q-Menu
+* Mjerač vremena za stanje mirovanja isključit će projektor u za to određeno vrijeme.
+1.
+Na daljinskom upravljaču pritisnite gumb Q.MENU.
+Aspect Ratio
+16:9
+Picture Mode
+Vivid
+Sleep Timer
+2.
+Pomoću gumba ∧, ∨ prijeđite na Sleep Timer.
+ꔗ	
+Off	
+240 Min.
+ꔃ
+ꔃ
+ꔗ	
+ꔗ	
+10 Min.
+180 Min.
+ꔃ
+ꔃ
+ꔗ	
+ꔗ	
+ꔃ
+Off	
+Eject
+Close
+3.
+Pomoću gumba ＜, ＞ odaberite željenu veličinu zaslona.
+ꔗ	
+ꔗ	
+Eject USB
+20 Min.
+120 Min.
+ꔃ
+ꔃ
+ꔗ	
+30 Min.
+ꔃ
+ꔗ	
+60 Min.
+ꔃ
+ꔗ	
+90 Min.
+ꔃ
+  Ovu funkciju možete aktivirati pomoću gumba MENU.
+Za napuštanje zaslona izbornika pritisnite gumb RETURN.
+Funkcija za automatsko isključivanje
+* Ovom funkcijom projektor će se isključiti automatski nakon isteka 10 minuta bez signala.
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju TIME pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju Auto Off i pritisnite
+gumb ◉OK.
+TIME
+Sleep Timer	
+Auto Off	
+ꔂMove ꔉOK
+: Off
+: Off
+3.
+Pomoću gumba ∧, ∨ prijeđite na On i zatim pritisnite gumb
+◉OK.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+Opcije izbornika OPTION
+Odabir jezika
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju OPTION pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju Menu Language i pritisnite gumb ◉OK.
+3.
+Pomoću gumba ∧, ∨, ＜, ＞ prijeđite na željenu stavku i zatim
+pritisnite gumb ◉OK.
+Prikaz na zaslonu (OSD) bit će na željenom jeziku.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+26
+OPTION
+Menu Language	
+Blank Image	
+Screen Capture
+LED Mode	
+Auto Power	
+Keypad LED	
+Demo Mode	
+Initial Setting	
+ꔂMove ꔉOK
+: English
+: Black
+:
+:
+:
+:
+:
+Normal
+Off
+On
+Off
+Home Use
+funkcija
+Upotreba funkcije ispune
+* Ova bi funkcija mogla biti učinkovita ako želite zadobiti pažnju publike tijekom prezentacija, okupljanja ili sastanaka.
+1.
+Na daljinskom upravljaču pritisnite gumb BLANK.
+Zaslon će ispuniti boja pozadine.
+Možete odabrati boju pozadine (pogledajte ‘Odabir slike ispune’).
+2.
+Želite li poništiti funkciju ispune, pritisnite bilo koji gumb.
+Ž
+ elite li privremeno isključiti lampu, na daljinskom upravljaču pritisnite BLANK.
+Nemojte blokirati leću projektora predmetima dok radi, jer bi se uslijed toga predmeti mogli pregrijati i izobličiti ili čak uzrokovati požar.
+Odabir slike ispune
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju OPTION pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju Blank Image i pritisnite
+gumb ◉OK.
+3.
+Pomoću gumba ∧, ∨ prijeđite na željenu stavku i zatim pritisnite
+gumb ◉OK.
+OPTION
+Menu Language	
+Blank Image	
+Screen Capture
+LED Mode	
+Auto Power	
+Keypad LED	
+Demo Mode	
+Initial Setting	
+ꔂMove ꔉOK
+: English
+: Black
+:
+:
+:
+:
+:
+Normal
+Off
+On
+Off
+Home Use
+  Pozadinska slika će se promijeniti na odabranu sliku funkcije ispune.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+Funkcija snimanja zaslona
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju OPTION pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju Screen Capture i pritisnite gumb ◉OK.
+Ovu opciju moći ćete odabrati samo ako postoji ulazni signal.
+Snimanje zaslona traje do 2 minute.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+OPTION
+Menu Language	
+Blank Image	
+Screen Capture
+LED Mode	
+Auto Power	
+Keypad LED	
+Demo Mode	
+Initial Setting	
+ꔂMove ꔉOK
+: English
+: Black
+:
+:
+:
+:
+:
+Normal
+Off
+On
+Off
+Home Use
+27
+funkcija
+Podešavanje svjetline zaslona
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju OPTION pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju LED Mode i pritisnite
+gumb ◉OK.
+3.
+Pomoću gumba ∧, ∨ prijeđite na željenu stavku i zatim pritisnite
+gumb ◉OK.
+OPTION
+Menu Language	
+Blank Image	
+Screen Capture
+LED Mode	
+Auto Power	
+Keypad LED	
+Demo Mode	
+Initial Setting	
+ꔂMove ꔉOK
+: English
+: Black
+:
+:
+:
+:
+:
+Normal
+Off
+On
+Off
+Home Use
+  U
+ načinu rada LED pri određenim ćete temperaturama (35°C i više)
+automatski prijeći u način rada Dimming.
+U zatamnjenom načinu rada zaslon je osvijetljen s oko 90% svjetline u
+usporedbi s izvornim LED načinom rada.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+Automatsko uključivanje projektora nakon priključivanja napajanja
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju OPTION pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju Auto Power i pritisnite
+gumb ◉OK.
+3.
+Pomoću gumba ∧, ∨ prijeđite na opciju On i pritisnite gumb
+◉OK.
+OPTION
+Menu Language	
+Blank Image	
+Screen Capture
+LED Mode	
+Auto Power	
+Keypad LED	
+Demo Mode	
+Initial Setting	
+ꔂMove ꔉOK
+: English
+: Black
+:
+:
+:
+:
+:
+Normal
+Off
+On
+Off
+Home Use
+  On: P
+ riključivanjem kabela istosmjerne struje na projektor, projektor će
+se uključiti.
+Off: Priključivanjem kabela istosmjerne struje na projektor, projektor će
+ući u stanje pripravnosti.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+Postavljanje osvjetljenja gumba
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju OPTION pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju Keypad LED i pritisnite
+gumb ◉OK.
+3.
+Pomoću gumba ∧, ∨ prijeđite na opciju On i pritisnite gumb
+◉OK.
+On: P
+ ritiskom na ovaj gumb, indikatori će svijetliti 5 sekundi prije nego
+što se isključe.
+Off: Indikatori gumba neće se uključivati.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+28
+OPTION
+Menu Language	
+Blank Image	
+Screen Capture
+LED Mode	
+Auto Power	
+Keypad LED	
+Demo Mode	
+Initial Setting	
+ꔂMove ꔉOK
+: English
+: Black
+:
+:
+:
+:
+:
+Normal
+Off
+On
+Off
+Home Use
+funkcija
+Funkcija demonstracijskog načina rada
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju OPTION pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju Demo mode i pritisnite
+gumb ◉OK.
+3.
+Pomoću gumba ∧, ∨ prijeđite na opciju On i pritisnite gumb
+◉OK.
+OPTION
+Menu Language	
+Blank Image	
+Screen Capture
+LED Mode	
+Auto Power	
+Keypad LED	
+Demo Mode	
+Initial Setting	
+ꔂMove ꔉOK
+: English
+: Black
+:
+:
+:
+:
+:
+Normal
+Off
+On
+Off
+Store Demo
+  Opciju ćete moći odabrati ako opciju Initial Setting postavite na Store
+Demo.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+Funkcija početnog postavljanja
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju OPTION pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju Initial Setting i pritisnite
+gumb ◉OK.
+3.
+Pomoću gumba ∧, ∨ prijeđite na željenu stavku i zatim pritisnite
+gumb ◉OK.
+OPTION
+Menu Language	
+Blank Image	
+Screen Capture
+LED Mode	
+Auto Power	
+Keypad LED	
+Demo Mode	
+Initial Setting	
+ꔂMove ꔉOK
+: English
+: Black
+:
+:
+:
+:
+:
+Normal
+Off
+On
+Off
+Home Use
+  Koristite li projektor kod kuće, odaberite Home Use.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+Opcije izbornika INFORMATION
+Prikaz informacija o projektoru
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju
+INFORMATION pomoću gumba ∧, ∨, ＜, ＞ i pritisnite gumb
+◉OK.
+2.
+Možete vidjeti trenutne informacije o projektoru.
+INFORMATION
+Model Name	
+Input	
+Resolution	
+Fh/Fv	
+: HS200-JE
+: Video
+: NTSC M
+: 15.7KHz/60.0Hz
+  Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+29
+USB
+USB
+* Prikazana slika može se razlikovati od one na vašem projektoru.
+Korištenje USB uređaja
+Priključivanje USB uređaja
+* Uslijed priključivanja USB uređaja, automatski će se prikazati ovaj zaslon.
+U USB uređaju ne možete dodati novu mapu ili izbrisati postojeću mapu.
+1.
+USB uređaj uključite u USB priključak koji se nalazi na stražnjoj strani uređaja.
+2.
+Automatski će prijeći na početni izbornik za DivX.
+POPIS SLIKA
+POPIS GLAZBE
+POPIS FILMOVA
+USB memorijski
+modul
+Izbacivanje USB-a
+* Odaberite “Eject” za izbacivanje USB uređaja.
+1.
+Na daljinskom upravljaču pritisnite gumb Q.MENU.
+2.
+Pomoću gumba ∧, ∨ prijeđite na Eject USB.
+3.
+Na daljinskom upravljaču pritisnite gumb ◉OK.
+N
+ akon što odaberete Eject USB, više nećete moći očitati USB memoriju.
+Izvadite USB memoriju i vratite je natrag.
+Za napuštanje zaslona izbornika pritisnite gumb RETURN.
+Q-Menu
+Aspect Ratio
+16:9
+Picture Mode
+Vivid
+Sleep Timer
+Off
+Eject USB
+Eject
+Close
+Mjere opreza pri korištenju USB uređaja
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
+►►
 30
+
+Prepoznati
+se može samo USB memorija.
+Nisu podržani digitalni fotoaparati i mobiteli.
+Ako USB memoriju priključite putem USB čvorišta, uređaj neće biti prepoznat.
+USB memorija koja koristi program za automatsko prepoznavanje možda neće biti prepoznata.
+USB memorija koja koristi vlastiti upravljački program možda neće biti prepoznata.
+Brzina prepoznavanja USB memorije može se razlikovati od uređaja do uređaja.
+Nemojte isključivati televizor niti vaditi USB memoriju dok je priključena USB memorija u radu.
+Kada se memorija iznenada izvadi ili iskopča, datoteke pohranjene u USB memoriju mogu se oštetiti.
+Nemojte priključivati USB memoriju koja je umjetno preoblikovana pomoću računala.
+Memorija možda neće funkcionirati,
+a mogli biste uzrokovati i kvar proizvoda.
+Uvijek koristite samo USB memorije na kojima se nalaze obične glazbene ili
+slikovne datoteke.
+Koristite samo one USB memorije koji su formatirane kao FAT16, FAT32 ili NTFS sustav datoteka s operacijskim sustavom
+Windows.
+Ako je za formatiranje memorije korišten drugi uslužni program koji sustav Windows ne podržava, memorija se
+možda neće moći prepoznati.
+Priključite napajanje na USB memoriju ako joj je potrebno vanjsko napajanje.
+Ako to ne učinite, memorija možda neće biti
+prepoznata.
+USB memorija s kabelom USB proizvođača.
+U slučaju povezivanja nekim drugim kabelom ili kabelom prekomjerne
+dužine, uređaj možda neće biti prepoznat.
+Neke USB memorije možda neće biti podržane i možda neće dobro funkcionirati.
+U slučaju predugog naziva mape ili datoteke, naziv se neće prikazati ili neće biti prepoznat.
+Način slaganja datoteka temelji se na redoslijedu spremanja na USB memoriji.
+Napravite sigurnosnu kopiju važne datoteke jer su podaci na USB memoriji možda oštećeni.
+Za upravljanje podacima
+odgovoran je kupac i zbog toga proizvođači ne pokrivaju oštećenja podataka nastala nepravilnim korištenjem uređaja.
+Ako mapa i datoteka imate preko 1.000, mape i datoteke preko tog broja neće se prikazivati niti će biti prepoznate.
+Podržana je samo primarna particija.
+U slučaju postojanja proširene particije, ona se neće prikazivati niti će biti prepoznata.
+Preporučeni kapacitet za vanjski USB tvrdi disk iznosi 1 TB ili manje, a za USB memoriju 32 GB ili manje.
+Svi uređaji s
+većim kapacitetom od preporučenog možda neće pravilno funkcionirati.
+Podaci u USB uređaju za pohranu ne mogu se izbrisati u NTFS sustavu datoteka.
+Ako USB memorijski uređaj ne funkcionira pravilno, isključite ga i ponovno priključite.
+Ako vanjski USB tvrdi disk s funkcijom za uštedu energije ne radi, isključite i ponovno uključite tvrdi disk kako bi proradio.
+Podržane su i USB memorije koje prethode standardu USB 2.0.
+Međutim, možda neće ispravno funkcionirati kod rada s
+popisom filmova.
+USB
+Popis fotografija
+*M
+ ožete reproducirati datoteke s fotografijama (*.jpg) s USB memorije.
+Prikaz na zaslonu može se razlikovati od onoga na
+vašem uređaju.
+Ovdje prikazane slike služe kao pomoć pri korištenju projektora.
+Podržani format slikovnih datoteka: *.JPG
+  Mogu se reproducirati samo JPG datoteke.
+Za JPG je podržano samo osnovno skeniranje.
+-O
+ vaj projektor neće biti u mogućnosti dekodirati većinu JPEG slika spremljenih uz pomoć progresivne opcije.
+- Minimalna podržana veličina slike je 64 piksela (vodoravno) x 64 piksela (okomito) kada je slika manja od 1920 piksela,
+1920 piksela (vodoravno) x 128 piksela (okomito) kada slika ima 1920 piksela, a podržani maksimum je 4.000 piksela
+(vodoravno) x 8.640 piksela (okomito).
+- Datoteke koje nisu podržane mogle bi se prikazati u bitmap formatu.
+Komponente ekrana
+1.
+Prijelaz na datoteku više razine
+2.
+Pregled: Prikaz sličice / naziva mape s fotografijom u
+odabranoj mapi
+3.
+Trenutna stranica / Ukupan broj stranica
+4.
+Ukupan broj označenih fotografija
+5.
+Odgovarajući gumbi na daljinskom upravljaču
+3
+photo list
+4
+Page 1/1
+[090704]
+No Marked
+Up Folder
+Butterfly
+Photo
+X.Box
+2
+DSC0001
+DSC0002
+1366x768 125 KB
+Mapa iznad
+1
+ꔂ Navigation
+DSC0003
+DSC0004
+ꔉ PopUp Menu
+꘧ Page Change
+ꘁ Mark
+ꕉ Exit
+5
+Odabir fotografija i skočni izbornik
+1.
+P
+ ritisnite tipku USB.
+Zatim prijeđite na opciju PHOTO LIST
+pomoću gumba ＜, ＞ i pritisnite gumb ◉OK.
+photo list
+[090704]
+Butterfly
+Photo
+1366x768 125 KB
+Up Folder
+ꔂ Navigation
+ 
+ 
+ 
+ 
+No Marked
+Up Folder
+2.
+Pomoću gumba ∧, ∨, ＜, ＞ prijeđite na željenu datoteku
+s fotografijom i pritisnite gumb ◉OK.
+3.
+Pomoću gumba ∧, ∨ prijeđite na željenu stavku i zatim
+pritisnite gumb ◉OK.
+Page 1/1
+i 1366x768, 125 KB
+X.Box
+View
+DSC0001
+Mark All
+DSC0002
+Delete
+Close
+DSC0003
+DSC0004
+ꔉ PopUp Menu
+꘧ Page Change
+ꘁ Mark
+ꕉ Exit
+View: prikaz odabrane stavke.
+Mark All: Označavanje svih fotografija na zaslonu.
+Delete: Brisanje odabrane stavke s fotografijom.
+Close: Zatvaranje skočnog izbornika.
+A
+ ko je datoteka sa slikom oštećena, možda se neće ispravno prikazati.
+Za slike visoke razlučivosti možda će trebati više vremena da se prikažu preko čitavog zaslona.
+31
+USB
+Izbornik na zaslonu u punoj veličini
+1.
+P
+ ritisnite tipku USB.
+Zatim prijeđite na opciju PHOTO LIST
+pomoću gumba ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨, ＜, ＞ prijeđite na željenu fotografiju i
+pritisnite gumb ◉OK.
+3.
+Pomoću gumba ∧, ∨ prijeđite na opciju View i pritisnite
+gumb ◉OK.
+4.
+Odabrana fotografija prikazat će se u punoj veličini i prikazat
+će se izbornik.
+Slideshow
+BGM
+Delete
+Option
+Hide
+5.
+Pomoću gumba ∧, ∨, ＜, ＞ odaberite izbornik i upravljajte
+njime na zaslonu u punoj veličini.
+Pomoću gumba ＜, ＞ odaberite prethodnu ili sljedeću fotografiju.
+
+  Slideshow: Tijekom prezentacijskog prikaza prikazivat će se odabrane fotografije.
+Ako nije odabrana nijedna
+fotografija, tijekom prezentacijskog prikaza prikazivat će se sve fotografije iz trenutne mape.
+- Vremenski interval prezentacijskog prikaza postavite pod O
+ ption.
+BGM: Slušanje glazbe tijekom pregledavanja fotografija u punoj veličini.
+- BGM uređaj i album postavite pod Option.
+(Rotate): zakretanje fotografija.
+Delete: brisanje fotografija.
+Option: Postavljanje vrijednosti za opcije Slide Speed i Music Folder.
+- Ne možete mijenjati mapu Music Folder tijekom BGM reprodukcije.
+Hide : skrivanje izbornika na zaslonu pune veličine.
+- Želite li ponovo prikazati izbornik na zaslonu u punoj veličini, za prikaz pritisnite gumb ◉OK.
+32
+USB
+Popis glazbe
+* Pomoću izbornika Music List možete reproducirati MP3 datoteke s USB memorije.
+Prikaz na zaslonu vašeg modela može se djelomično razlikovati.
+Podržani format zvučnih datoteka: *.MP3
+Brzina prijenosa podataka 8 Kb/s ~ 320 Kb/s
+  Brzina (frekvencija) uzorkovanja: MPEG1 Layer 3: 8 KHz ~ 48 KHz
+  Maksimalno trajanje zvučnih zapisa: 999,59 s
+Projektor ne može reproducirati zvučne datoteke manje od 16 Kb.
+Projektor ne može reproducirati datoteke zaštićene od kopiranja.
+Komponente ekrana
+1.
+Prijelaz na datoteku više razine
+2.
+Pregled: Prikaz naslova / naziva mape s glazbom u
+odabranoj mapi
+3.
+Trenutna stranica / Ukupan broj stranica
+4.
+Ukupan broj označenih zvučnih datoteka
+5.
+Odgovarajući gumbi na daljinskom upravljaču
+3
+MUSIC LIST
+4
+Page 1/1
+No Marked
+DriveA
+Title
+Flower
+2
+ꔛ
+1
+Duration
+Up Folder
+Flower
+05:42
+Oblivious
+05:24
+00:00 / 05:42
+Up Folder
+ꔂ Navigation
+ꔉ PopUp Menu
+꘧ Page Change
+ꘁ Mark
+ꕉ Exit
+5
+33
+USB
+Odabir glazbe i skočni izbornik
+1.
+P
+ ritisnite tipku USB.
+Zatim prijeđite na opciju MUSIC LIST MUSIC LIST
+pomoću gumba ＜, ＞ i pritisnite gumb ◉OK.
+DriveA
+Arirang
+ꔛ
+No Marked
+Title
+Up Folder
+2.
+Pomoću gumba ∧, ∨, ＜, ＞ prijeđite na željenu zvučnu
+datoteku i pritisnite gumb ◉OK.
+3.
+Pomoću gumba ∧, ∨ prijeđite na željenu stavku i zatim
+pritisnite gumb ◉OK.
+Page 1/1
+Arirang
+Play
+Good Bye
+Play with Photo
+05:30
+00:00 / 04:16
+Up Folder
+ꔂ Navigation
+Duration
+i 3945 KB,128 Kbps
+ꔉ PopUp Menu
+04:12
+Mark All
+Delete
+Close
+꘧ Page Change
+ꘁ Mark
+ꕉ Exit
+  Play: N
+ akon završetka reprodukcije pjesme, reproducirat će se sljedeća odabrana.
+Ako nema glazbe
+odabrane za reprodukciju, reproducirat će se sljedeća datoteka iz trenutne mape.
+Ako prijeđete na
+drugu mapu i pritisnete gumb ◉OK, zaustavit će se zvučna datoteka koja se trenutno reproducira.
+Tijekom
+reprodukcije glazbe, ispred vremena za reprodukciju zvučne datoteke prikazat će se
+.
+
+Nakon prolaska određenog vremenskog razdoblja, nestat će popis glazbe preko čitavog zaslona, a
+zaslon s informacijama o reprodukciji koja se nalazi na vrhu popisa glazbe pokrenut će se kao čuvar
+zaslona.
+Za zaustavljanje čuvara zaslona pritisnite ◉OK, ▇ ili RETURN.
+Oštećena zvučna datoteka koja se ne može reproducirati za vrijeme trajanja prikazivat će 00:00.
+Zvučne datoteke sa zaštitom kopiranja neće se reproducirati.
+Play with Photo: Pokrenite reprodukciju odabranih zvučnih datoteka, a zatim prijeđite na Photo List.
+Mark All: Označavanje svih zvučnih datoteka u mapi.
+Delete: Brisanje odabranih zvučnih datoteka.
+Close: Zatvaranje skočnog izbornika.
+34
+USB
+MOVIE List
+* Popis filmova aktivira se kada sustav prepozna USB.
+Koristi se pri reprodukciji filmskih datoteka na projektoru.
+Podržana filmska datoteka
+Naziv
+ekstenzije
+Video kodek
+Maksimalna
+podržana
+razlučivost
+Kadar
+MPEG4
+AVI
+m4v
+Divx
+DAT
+MPG
+MPEG
+MPE
+VOB
+DivX
+DivX
+DivX
+DivX
+AC3
+ Brzina prijenosa podataka 32 Kb/s ~
+640 Kb/s
+ Stopa uzorkovanja 32 KHz, 44,1 KHz,
+48 KHz
+3.XX
+4.XX
+5.XX
+6.XX
+Xvid 1.00
+Xvid 1.01
+Xvid 1.02
+Xvid 1.03
+Xvid 1.10 Beta 1/2
+Audio kodek
+720X480
+30P
+800X432
+MPEG1
+MPEG2
+MPEG
+ Brzina prijenosa podataka 32 Kb/s ~
+448 Kb/s
+ Stopa uzorkovanja 32 KHz ~ 48 KHz
+LPCM
+MP3
+ Brzina prijenosa podataka 32 Kb/s ~
+320 Kb/s
+ Stopa uzorkovanja 32 KHz ~ 48 KHz
+Objašnjenje
+Format Microsoft
+MPEG4 nije podržan.
+Serija WMV nije
+podržana.
+Reprodukcija videozapisa podržana je
+samo uz funkciju
+reprodukcije.
+Format podnaslova: *.ass/ *.smi/ *.srt/ *.ssa
+Sigurnosne mjere prilikom reprodukcije DivX datoteka
+▪▪ F
+ ilmska datoteka DivX i njezina datoteka s titlovima moraju biti smještene u istu mapu.
+Za uspješno prikazivanje, naziv datoteke
+s filmom i naziv pripadajuće datoteke podnaslova moraju biti identični.
+▪▪ Specifični podnaslovi koje je načinio korisnik možda neće ispravno funkcionirati.
+▪▪ Neki posebni znakovi nisu podržani u titlovima.
+▪▪ HTML oznake nisu podržane u titlovima.
+▪▪ Titlovi nisu dostupni u jezicima koji nisu podržani.
+▪▪ Informacije o vremenu u vanjskoj datoteci titlova trebaju biti posloženi uzlaznim redoslijedom da biste ih mogli reproducirati.
+▪▪ Oštećene filmske datoteke možda se neće moći reproducirati, a određene bi funkcije tijekom reprodukcije mogle biti
+ograničene.
+▪▪ Određene video datoteke stvorene procesom kodiranja možda se neće moći reproducirati.
+▪▪ Ukoliko video i audio struktura zabilježene datoteke nisu isprepletene, emitira se ili video ili audio.
+▪▪ U slučaju videozapisa veće razlučivosti od maksimalne razlučivosti podržane za svaki kadar, nesmetana reprodukcija nije
+zajamčena.
+▪▪ DTS Audio kodek nije podržan.
+▪▪ Nije podržana reprodukcija filmskih datoteka većih od 4 GB.
+▪▪ Reprodukcija videozapisa putem USB veze koja ne podržava velike brzine možda neće ispravno funkcionirati.
+▪▪ Gledate li videozapise pomoću opcije MOVIE LIST, nećete moći koristiti funkciju podešavanja zaslona.
+ꔈO
+ DIVX VIDEOZAPISIMA: DivX® je digitalni format videozapisa koji je izradila tvrtka DivX, Inc. Ovaj uređaj ima službeni certifikat DivX
+Certified i reproducira DivX videozapise.
+Na web-mjestu www.divx.com naći ćete dodatne informacije i softverske alate za pretvaranje
+datoteka u DivX videozapise.
+ꔈO
+ DIVX VIDEOZAPISIMA NA ZAHTJEV: Ovaj uređaj s certifikatom DivX Certified® potrebno je registrirati kako bi mogao reproducirati
+sadržaj DivX videozapisa na zahtjev (VOD).
+Da biste generirali registracijski kod, pronađite odjeljak DivX VOD u izborniku postavljanja
+uređaja.
+S tim kodom posjetite stranicu vod.divx.com kako biste dovršili postupak registracije i saznali više o usluzi DivX VOD.
+ꔈ "Certifié DivX pour lire des vidéos DivX, y compris le contenu premium."
+ꔈ "Pat.
+7,295,673; 7,460,688;7,519,274"
+Proizvedeno pod licencom Dolby Laboratories.
+"Dolby" i simbol dvostrukog slova D zaštitni su znakovi
+tvrtke Dolby Laboratories.
+35
+USB
+Komponente ekrana
+1.
+Prelazak na datoteku više razine
+2.
+Preview: Prikaz naslova / naziva mape s filmom u
+odabranoj mapi
+3.
+Trenutna stranica / Ukupan broj stranica
+4.
+Ukupan broj označenih filmova
+5.
+Odgovarajući gumbi na daljinskom upravljaču
+3
+MOVIE LIST
+Page 1/1
+4
+No Marked
+Film
+Title
+Duration
+Up Folder
+2
+704 x 396 668 MB
+Up Folder
+1
+ꔂ Navigation
+ꔉ PopUp Menu
+꘧ Page Change
+ꘁ Mark
+ꕉ Exit
+5
+Odabir filmova i skočni izbornik
+1.
+P
+ ritisnite tipku USB.
+Zatim prijeđite na opciju MOVIE
+LIST pomoću gumba ＜, ＞ i pritisnite gumb ◉OK.
+MOVIE LIST
+Page 1/1
+No Marked
+Film
+Title
+Duration
+i 704 x 396 668 MB
+Up Folder
+2.
+Pomoću gumba ∧, ∨, ＜, ＞ prijeđite na željenu filmsku
+datoteku i pritisnite gumb ◉OK.
+Play
+Mark All
+Delete
+704 x 396 668 MB
+3.
+Pomoću gumba ∧, ∨ prijeđite na željenu stavku i zatim
+pritisnite gumb ◉OK.
+Close
+Up Folder
+ꔂ Navigation
+ꔉ PopUp Menu
+꘧ Page Change
+ꘁ Mark
+  Play: Reprodukcija odabranih filmskih naslova.
+- U slučaju da se datoteke nisu podržane, prikazat će se poruka o nepodržanoj datoteci.
+i
+This file is invalid.
+-Z
+ aslon će se reproducirati, ali u slučaju nepodržane zvučne datoteke prikazat će se sljedeća
+poruka.
+i
+  Mark All: Označavanje svih filmova u mapi.
+Delete: Brisanje odabranih filmova.
+Close: Zatvaranje skočnog izbornika.
+36
+Unsupported Audio.
+ꕉ Exit
+USB
+Reprodukcija filma
+* Tijekom reprodukcije filma možete podešavati razne metode.
+1.
+P
+ ritisnite tipku USB.
+Zatim prijeđite na opciju MOVIE
+LIST pomoću gumba ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨, ＜, ＞ prijeđite na željenu filmsku
+datoteku i pritisnite gumb ◉OK.
+3.
+Pomoću gumba ∧, ∨ prijeđite na opciju Play i pritisnite
+gumb ◉OK.
+◆
+	
+	
+	
+	
+	
+	
+Option
+Upotreba daljinskog upravljača
+ꔈ Za
+ꔈ Za
+ꔈ Za
+ꔈ Za
+ꔈ Za
+ꔈ Za
+premotavanje unatrag pritisnite gumb ◀◀ (REW).
+premotavanje unaprijed pritisnite gumb ▶▶ (FF).
+pauziranje zaslona pritisnite gumb II (Pause).
+zaustavljanje pritisnite gumb ▇ (Stop).
+reprodukciju prethodnog filma pritisnite gumb I◀◀ (Skip -).
+reprodukciju sljedećeg filma pritisnite gumb ▶▶I (Skip +).
+Odabir izbornika Option
+	 U načinu reprodukcije MOVIE LIST.
+Na daljinskom upravljaču pritisnite gumb
+(CRVENO).
+ꔈPicture Size: Odabir veličine zaslona Full ili Original.
+ꔈPicture Mode: Odabir opcije Vivid, Standard, Cinema, Sport ili Game.
+ꔈSubtitle Language i Audio Language: Odabir jezične grupe za zvuk/podnaslove tijekom
+reprodukcije filma.
+Jezična grupa podnaslova
+Podržani jezici
+Latinica1
+Francuski, španjolski, katalonski/baskijski, portugalski, talijanski, albanski,
+retoromanski, nizozemski, njemački, danski, švedski, norveški, finski, farski, islandski, irski, škotski, engleski
+Latinica2
+Češki, mađarski, poljski, rumunjski, hrvatski, slovački, slovenski, srpski
+Latinica4
+Estonski, baltički jezici / letonski i litavski, grenlandski i polapski
+Latin5
+Engleski, turski
+Ćirilica
+Bugarski, bjeloruski, makedonski, ruski, srpski i ukrajinski prije 1990.
+Grčki
+Picture Size
+ꔗ
+Picture Mode
+Full
+ꔃ
+Standard
+Subtitle Language
+---
+Audio Language
+---
+Subtitle file
+---
+.
+Language
+---
+.
+Sync
+---
+.
+Position
+---
+Close
+Engleski, moderni grčki
+Hebrew
+Engleski, moderni hebrejski
+Kineski
+Kineski
+Korean
+Engleski, korejski
+Arabic
+Engleski, arapski
+ꔈSubtitle file: Uključivanje ili isključivanje podnaslova.
+- Language: U slučaju postojanja dva ili više podnaslova, možete birati koji želite koristiti.
+- Sync: Ako video nije sinkroniziran s podnaslovima, odmak možete podešavati u koracima od 0,5 s.
+	 - Position: Premještanje položaja podnaslova.
+37
+USB
+Prikaz DivX registracijskog koda
+*	 Potvrdite broj DivX registracijskog koda projektora.
+Pomoću registracijskog koda mogu se iznajmljivati ili kupovati filmovi na stranici www.divx.com/vod.
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju USB pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na DivX Reg.
+Code i pritisnite
+gumb ◉OK.
+USB
+ꔂMove ꔉOK
+Photo List
+Music List
+Movie List
+DivX Reg.
+Code
+Deactivation
+3.
+Možete vidjeti DivX registracijski kod projektora.
+R
+ eprodukcija iznajmljenih ili kupljenih DivX datoteka pomoću DivX registracijskog koda s drugih projektora nije dozvoljena (možete reproducirati
+samo DivX datoteke kojima odgovara registracijski kod kupljenog projektora).
+Video ili audio komponenta datoteke konvertirane standardom koji se
+razlikuje od standardnog DivX kodeka možda je oštećena ili se ne može
+reproducirati.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+Funkcija deaktivacije
+* Izbrišite postojeće informacije o provjeri autentičnosti kako biste primili novu DivX korisničku provjeru autentičnosti za projektor.
+Nakon izvršavanja ove funkcije, od vas će se ponovno tražiti DivX korisnička provjera autentičnosti za prikaz DivX DRM
+datoteka.
+1.
+P
+ ritisnite tipku MENU.
+Zatim prijeđite na opciju USB pomoću
+gumba ∧, ∨, ＜, ＞ i pritisnite gumb ◉OK.
+2.
+Pomoću gumba ∧, ∨ prijeđite na opciju Deactivation i pritisnite
+gumb ◉OK.
+3.
+Pomoću gumba ＜, ＞ prijeđite na željenu stavku i zatim pritisnite
+gumb ◉OK.
+Funkcija DRM (Upravljanje digitalnim pravima):
+Radi se o tehnologiji i uslugama kojima se sprečava nezakonito
+korištenje digitalnog sadržaja u svrhu zaštite povlastica i prava vlasnika
+autorskih prava.
+Datoteku možete reproducirati nakon potvrđivanja valjanosti licence online ili drugim putem.
+Za napuštanje zaslona izbornika pritisnite MENU ili RETURN.
+38
+USB
+Photo List
+Music List
+Movie List
+DivX Reg.
+Code
+Deactivation
+ꔂMove ꔉOK
+Informacije
+Informacije
+Podržani zaslon monitora
+* U sljedećoj tablici navedeni su formati prikaza koje projektor podržava.
+Vertikalna frekvencija (Hz) Horizontalna frekvencija (kHz)
+Format
+* Ako projektor ne podržava ulazni signal, na zaslonu će se prikazati poruka “Out of Range”.
+* Projektor podržava DDC1/2B u obliku funkcije automatskog prepoznavanja (plug and play) (automatsko prepoznavanje
+računalnog monitora).
+* Podržane vrste računalnog signala za sinkronizaciju: Zasebna sinkronizacija vrste.
+<DVD/DTV ulaz>
+Signal
+NTSC (60 Hz)
+PAL (50 Hz)
+24 / 30 Hz
+	Komponentni-*1	
+HDMI-*2
+480i
+O
+X
+480p
+O
+O
+720p
+O
+O
+1080i
+O
+O
+1080p
+O
+O
+576i
+O
+X
+576p
+O
+O
+720p
+O
+O
+1080i
+O
+O
+1080p
+O
+O
+1080p
+O
+O
+* Vrsta kabela
+1 - RGB -> komponentni kabel
+2 - HDMI kabel
+39
+Informacije
+Održavanje
+*Projektor nije zahtjevan u pogledu održavanja.
+Leću biste trebali održavati čistom jer bi se na zaslonu mogle prikazivati mrlje ili
+nečistoća.
+U slučaju potrebe za zamjenom određenih dijelova, obratite se svom distributeru.
+Prilikom čišćenja bilo kojeg dijela projektora, uvijek prethodno isključite napajanje i iskopčajte projektor.
+Čišćenje leće
+Ako na površini leće postoje mrlje ili ima prašine, svakako je morate očistiti.
+Uređaj lagano očistite pomoću zračnog spreja ili
+krpice za čišćenje koju ste dobili uz uređaj.
+Koristite preporučeni zračni sprej ili tekućinu za čišćenje leća.
+Prilikom čišćenja leće,
+malom količinom tekućine za čišćenje natopite vatirani štapić ili meku krpicu i očistite leću.
+Imajte na umu kako bi u slučaju
+izravnog nanošenja na leću tekućina mogla proći kroz leću.
+Čišćenje kućišta projektora
+Prije čišćenja kućišta monitora iskopčajte kabel napajanja.
+Radi uklanjanja nečistoća ili prašine, kućište obrišite priloženom krpicom
+na poliranje.
+Želite li skinuti prašinu ili mrlje s leće, pomoću krpice koju ste dobili uz uređaj obrišite njegovu površinu.
+Nemojte koristiti, alkohol, benzen, razrjeđivače ili druga kemijska sredstva za čišćenje jer bi mogla uzrokovati izobličenja kućišta ili
+skidanje boje.
+Način postavljanja poklopca objektiva na projektor
+1
+3
+40
+Pronađite poklopac objektiva i traku koju ste
+dobili uz dodatnu opremu.
+2
+Traku iz proreza projektora provucite kroz rupicu poklopca objektiva i zatim provucite poklopac objektiva kroz laso načinjen od trake.
+4
+Završetak trake na kojemu nije čvorić umetnite
+u rupicu u blizini objektiva projektora.
+Traka i poklopac trebali bi izgledati kao na
+donjoj slici.
+Informacije
+Tehnički podaci
+MODEL
+HS200 (HS200-JE) / HS200G (HS200G-JE)
+HS201 (HS201-JE) / HS201G (HS201G-JE)
+Razlučivost
+800 (horizontalno) x 600 (vertikalno) piksela
+Horizontalni/vertikalni omjer
+4:3 (horizontalno:vertikalno)
+Veličina ploče (mm)
+13.97
+Veličina zaslona
+(udaljenost projekcije)
+0,44 m - 2,41 m (38,1 cm - 302,2 cm)
+Pomak projekcije
+100%
+Udaljenost daljinskog
+6m
+upravljača
+Video kompatibilnost
+NTSC/PAL/SECAM/NTSC4.43/PAL-M/PAL-N/PAL-60
+Power
+19 V ￼
+, 4,74 A
+AC-DC adapter
+LG, PA-1900-08
+Audio izlaz
+1W+1W
+Visina (mm)
+60 (bez postolja), 63 (s postoljem)
+Širina (mm)
+183
+Dužina (mm)
+122
+Težina (g)
+800
+USB Device
+5 V, 0,5 A (maks.)
+Radni uvjeti
+Temperatura
+U radu: 0°C - 40°C
+Kod pohrane i transporta: -20°C - 60°C
+Vlažnost
+U radu: 0 % - 80 % relativne vlažnosti
+U stanju pripravnosti: 0 % - 85 % relativne vlažnosti
+Specifikacije FM prijenosnika
+(samo model HS200/HS200G)
+Frekvencijski opseg: 88,1 MHz - 107,9 MHz
+Razmak između kanala: 200 KHz
+Snaga prijenosa: Ispod 50 nW
+41
+Model i serijski broj projektora nalaze se na
+stražnjoj ili bočnoj strani projektora.
+Zabilježite ih
+ispod za potrebe servisiranja.
+MODEL
+SERIJSKI BROJ

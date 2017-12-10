@@ -1,0 +1,4805 @@
+Owner's Manual
+
+LG Minibeam
+DLP Projector
+
+Please read the safety information carefully before using the product.
+PW600G
+PW800G
+
+P/No : SAC37034620 (1607-REV00)
+
+www.lg.com
+
+2
+
+LICENSE
+
+LICENSE
+Supported licenses may differ by model. For more information about licenses,
+visit www.lg.com.
+Manufactured under license from Dolby Laboratories.
+Dolby and the double-D symbol are trademarks of Dolby
+Laboratories.
+This DivX Certified® device has passed rigorous testing to
+ensure it plays DivX® video.
+To play purchased DivX movies, first register your device at
+vod.divx.com. Find your registration code in the DivX VOD
+section of your device setup menu.
+DivX Certified® to play DivX® video up to HD 1080p, including
+premium content.
+DivX®, DivX Certified® and associated logos are trademarks
+of DivX, LLC and are used under license.
+Covered by one or more of the following U.S. patents:
+7,295,673; 7,460,668; 7,515,710; 7,519,274.
+The terms HDMI and HDMI High-Definition Multimedia
+Interface, and the HDMI logo are trademarks or registered
+trademarks of HDMI Licensing LLC in the United States and
+other countries.
+
+This device meets the EMC requirements for home appliances (Class B) and is
+intended for home usage. This device can be used in all regions.
+
+	NOTE
+yy Image shown may differ from your projector.
+yy Your projector’s OSD (On Screen Display) may differ slightly from that shown in
+this manual.
+
+ING/CAUTION
+
+ELECTRIC SHOCK
+O NOT OPEN
+
+SAFETY INSTRUCTIONS
+
+3
+
+SAFETY INSTRUCTIONS
+Please take note of the safety instructions to prevent any potential accident or misuse
+of the projector.
+yy 	Safety precautions are given in two forms, i.e. WARNING and CAUTION as detailed
+below.
+WARNING Failure to follow the instructions may cause serious injury and even death.
+CAUTION Failure to follow the instructions may cause injury to persons or damage to
+the product.
+yy Read the owner's manual carefully and keep it on hand.
+WARNING/CAUTION
+RISK OF ELECTRIC SHOCK
+DO NOT OPEN
+
+WARNING/CAUTION
+The
+lightning flash with
+RISK OF ELECTRIC SHOCK
+arrowhead
+symbol within an
+DO NOT OPEN
+equilateral triangle is
+intended to alert the user to the
+presence of uninsulated dangerous
+voltage within the product’s enclosure
+that may be of sufficient magnitude to
+constitute a risk of electric shock to
+persons.
+
+The exclamation point within
+an equilateral triangle is
+intended to alert the user to
+the presence of important
+operating and maintenance
+(servicing) instructions in the literature
+accompanying the appliance.
+WARNING/CAUTION
+-	 TO REDUCE THE RISK OF FIRE
+AND ELECTRIC SHOCK, DO NOT
+EXPOSE THIS PRODUCT TO RAIN
+OR MOISTURE.
+
+4
+
+SAFETY INSTRUCTIONS
+
+Read these instructions.
+Keep these instructions.
+Heed all warnings.
+Follow all instructions.
+
+Indoor Installation
+WARNING
+yy Do not use the projector outside and
+do not expose the product to any
+humidity or water.
+- Since the product is not waterproof,
+this may result in a fire or electric
+shock.
+yy Do not place the projector in direct
+sunlight or near heat sources such as
+radiators, fires, stoves, etc.
+- This may result in fire.
+yy Do not place flammable materials
+such as aerosols near the projector.
+- This may result in fire.
+yy Do not allow children to cling to or
+climb up to the projector.
+- This may cause the projector to fall,
+causing injury or death.
+yy Do not install the product in a place with
+no ventilation (e.g., on a bookshelf or in
+a closet) or on a carpet or cushion.
+- This may result in fire due to the
+increase in internal temperature.
+yy Do not place the product close to
+sources of steam, oil, or oil mist, such
+as humidifiers and kitchen counters.
+- Failure to do so may result in fire,
+electric shock, or corrosion.
+yy Do not install the product onto a wall
+or ceiling that is close to sources of
+oil or oil mist.
+- The product may be damaged and
+fall, resulting in serious injury.
+yy Do not place the projector where it
+might be exposed to dust.
+- This may result in fire.
+
+yy Do not use the projector in a damp
+place such as a bathroom where it is
+likely to get wet.
+- This may result in fire or electric
+shock.
+yy Do not allow a tablecloth or curtain to
+block the air vent.
+- This may result in fire due to the
+increase in the internal temperature.
+yy Ensure good ventilation around the
+projector. The distance between the
+projector and the wall should be at
+least 30 cm.
+- This will prevent fire due to the
+increase in the internal temperature.
+CAUTION
+yy When placing the projector on a table
+or shelf, be careful not to put it near
+the edge.
+- The projector could fall due to
+balance problems, which may
+cause personal injury or damage to
+the product. Make sure to use the
+projector cabinet or stand that fits the
+projector.
+yy When moving the projector, make
+sure to switch it off and remove the
+power plug and cords.
+- The power cord may be damaged,
+resulting in fire or electric shock.
+yy Do not place the projector on an
+unstable or vibrating surface such as
+a wobbly shelf or a slope.
+- It may fall and cause injury.
+yy Be careful not to tip the projector over
+when connecting external devices to
+the projector.
+- This may cause personal injury or
+damage to the projector.
+
+SAFETY INSTRUCTIONS
+
+Power
+WARNING
+yy The appliance plug is used as the
+disconnect device.
+- Please make sure the device is
+installed near the wall outlet to which
+it is connected and that the outlet is
+easily accessible.
+yy The grounding wire should be
+connected.
+- Ensure that you connect the
+grounding cable to avoid electric
+shock.
+If it is not possible to ground the unit,
+have a qualified electrician install a
+separate circuit breaker.
+Do not try to ground the projector
+by connecting it to telephone wires,
+lightning rods, or gas pipes.
+yy The power plug should be inserted
+fully into the power outlet.
+- An unstable connection may cause
+a fire.
+yy Do not place heavy objects on the
+power cord.
+- This may result in fire or electric
+shock.
+yy Never touch the power plug with wet
+hands.
+- This may result in electric shock.
+yy Do not plug too many devices into
+one multi-power outlet.
+- This may result in fire due to the
+power outlet overheating.
+yy Keep the AC adapter, power plug,
+and the used power outlet clean from
+dust or foreign materials building up.
+- This may result in fire.
+
+5
+
+yy If there is any smoke or a burning
+smell from the projector or AC
+adapter, stop using the product
+immediately. Disconnect the power
+cord from the power outlet, and then
+contact the customer service center.
+- This may result in fire.
+yy To turn off the main power, remove
+the power plug, which should be
+positioned so it is easy to access for
+operation.
+CAUTION
+yy Always grab the plug to remove the
+AC adapter or power cord.
+- Otherwise, this may result in a fire
+or may damage the product.
+yy Refrain from constantly bending the
+power cord of the AC adapter.
+- If the power cord is bent excessively
+for a long period of time, the cord
+may break inside. This may result in
+a fire or electric shock.
+yy Ensure the power cord and plug are
+not damaged, modified, severely
+bent, twisted, pulled, sandwiched
+or hot. Do not use the product if the
+power outlet is loose.
+- This may result in fire or electric shock.
+yy Keep the power cord away from heating
+devices.
+- The wire's sheath may melt, which
+may result in fire or electric shock.
+yy Place the projector where people will
+not trip over or step on the power
+cord to protect the power cord and
+plug from any damage.
+- This may result in fire or electric shock.
+
+6
+
+SAFETY INSTRUCTIONS
+
+yy Do not turn the projector on or off
+by plugging in the power plug or
+unplugging it from the power outlet.
+(Do not use the power plug as a switch.)
+- This may result in electric shock or
+damage to the product.
+yy Do not insert a conductor into the other
+side of the wall outlet while the power
+plug is inserted into the wall outlet.
+In addition, do not touch the power
+plug immediately after it is disconnected
+from the wall outlet.
+- This may result in electric shock.
+yy Only use the official power cord
+provided by LG Electronics. Do not
+use other power cords.
+- This may result in fire or electric
+shock.
+yy If any water or foreign materials have
+gone into the AC adapter, power cord,
+or the interior of the projector, turn off
+the projector by pressing the power
+button. Remove all the cables, and
+then contact the customer service
+center.
+- This may result in fire or electric
+shock.
+yy The surface of the AC adapter is
+hot. Keep the AC adapter out of the
+reach of children and avoid touching
+it during use.
+yy Never disassemble the power supply
+devices (AC adapter/power cord,
+etc.).
+- This may damage the power cord
+and result in a fire or electric shock.
+yy Connect the AC adapter and the
+power cord firmly.
+- Not doing so may result in a product
+failure or fire.
+
+yy Do not place heavy objects or put
+pressure on the power cord and AC
+adapter and avoid damage.
+- This may result in a fire or may
+damage the product.
+yy Always use the AC adapter provided
+or any AC adapters approved and
+certified by LG Electronics.
+- Any other AC adapter connected
+may result in the screen flickering.
+
+When in Use
+WARNING
+yy Do not place anything containing
+liquid on top of the projector such as
+a vase, flower pot, cup, cosmetics,
+medicine, or ornaments, candles, etc.
+- This may result in fire or electric
+shock, or cause injury due to falling.
+yy In the event that there is a heavy
+impact or the cabinet is damaged,
+switch it off, unplug it from the power
+outlet and contact an authorized
+service center.
+- This may result in electric shock.
+yy Do not insert pieces of metal such as
+coins, hairpins, or metal debris, nor
+flammable materials such as paper or
+matches into the projector.
+- This is to prevent electric shock or fire.
+yy Make sure that a child does not
+swallow the batteries when you
+replace the old remote control
+batteries with new ones. Keep
+batteries out of reach of children.
+- If a child swallows a battery, consult
+a doctor immediately.
+yy Never open any cover on the
+projector.
+- There is a high risk of electric shock.
+
+SAFETY INSTRUCTIONS
+
+yy Do not look directly into the lens when
+the projector is in use.
+- The bright light may damage your
+eyes.
+yy When the lamp is on or has just been
+turned off, avoid touching the air vent
+or lamp, because these will be very hot.
+yy If there is a gas leak in the room with
+the projector, do not touch the projector
+or power outlet. Open the windows
+for ventilation.
+- Sparks may cause fire or burns.
+yy Unplug the power cord from the outlet
+during a lightning storm.
+- This will prevent shock or damage
+to the projector.
+yy Do not use the projector near
+electronic devices that generate a
+strong magnetic field.
+yy Keep the plastic film used for
+packaging the projector out of the
+reach of children.
+- If not handled safely, it can cause
+suffocation.
+yy Do not keep your hand on the projector
+for a long time when it is running.
+yy When you play a game by connecting
+a game console to a projector, it is
+recommended that you maintain a
+distance of more than four times the
+diagonal length of the screen.
+-M
+ ake sure that the connecting cable is
+long enough. Otherwise, the product
+may fall causing personal injury or
+damage to the product.
+yy Do not place the projector or its
+remote control with battery in
+an extremely high temperature
+environment.
+- This may result in fire.
+yy Do not use 3D glasses if you do not
+watch 3D.
+
+7
+
+CAUTION
+yy Do not place heavy objects on the
+projector.
+- It may fall down and cause personal
+injury.
+yy Be careful not to allow any impact to
+the lens during transport.
+yy Do not touch the lens of the projector.
+- The lens may be damaged.
+yy Do not use any sharp tools on the
+projector such as a knife or hammer,
+because this may damage the casing.
+yy In the event that no image appears
+on the screen or no sound is heard,
+stop using the projector. Switch off
+the projector, unplug it from the power
+outlet, and contact our service center.
+- This may result in fire or electric
+shock.
+yy Do not drop anything onto the
+projector or allow anything to bang
+into the projector.
+- This may cause damage to the
+projector or personal injury.
+yy It is recommended that you maintain
+a distance of more than 5 to 7 times
+the diagonal length of the screen.
+- If you watch the screen at a close
+distance for a long time, your eye
+sight may become worse.
+yy Do not block the light beam emitted
+from the projector using a book or
+other object.
+- Lengthy exposure to the projector
+beam may result in fire. In addition,
+the lens may be overheated and
+damaged by the reflected heat.
+
+8
+
+SAFETY INSTRUCTIONS
+
+yy Do not start the projector with the
+volume turned up high.
+- High volume may damage hearing.
+yy Do not use high voltage electrical
+equipment near the projector, (e.g.,
+a bug zapper). This may result in
+product malfunction.
+
+Cleaning
+WARNING
+yy Do not spray the projector with water
+when cleaning. Make sure water does
+not flow into the projector.
+- This may result in fire or electric
+shock.
+yy When there is smoke or a strange
+smell coming out from the projector or
+a foreign object falls into the pro­jector,
+switch it off and unplug it from the
+power outlet and contact our service
+center.
+- Otherwise, this may result in fire or
+electric shock.
+yy Use air spray, a soft cloth, or a cotton
+swab moistened with a lens cleaning
+chemical or alcohol to remove dust or
+stains on the front projection lens.
+
+CAUTION
+yy Contact your seller or our service
+center once a year to clean the
+internal parts of the projector.
+- If you do not clean the projector
+for a long period of time, dust will
+accumulate, which may result in fire
+or damage to the projector.
+yy When cleaning plastic parts such
+as the projector case, unplug the
+power first and wipe with a soft cloth.
+Do not spray with water or wipe with a
+wet cloth. Never use glass cleaner,
+automobile or industrial polish,
+abrasives, wax, benzene, or alcohol
+as these can damage the projector.
+- This can result in fire, electric shock,
+or cause damage to the product
+(deformation and corrosion).
+yy Remove the plug from the outlet
+before cleaning the product.
+- Otherwise, this may result in electric
+shock.
+
+SAFETY INSTRUCTIONS
+
+Others
+WARNING
+yy Some users may experience a
+seizure or other abnormal symptoms
+when they are exposed to a flashing
+light or particular patterns from a
+video game.
+yy When you go out, place the projector
+out of reach of animals, and remove
+the power plug from the wall outlet.
+- Using a damaged power cord may
+result in short circuit or fire.
+yy Do not use the projector near highprecision electronic devices or those
+that transmit weak radio signal.
+- This may affect the operation of the
+product, causing an accident.
+yy Only a qualified technician can
+disassemble or modify the projector.
+For diagnosis, adjustment, or repair,
+contact your seller or our service
+center.
+- This may result in fire or electric
+shock.
+yy Proper ventilation required, do not
+block airflow around unit. Doing
+so can cause injury and internal
+overheating.
+yy To prevent damage to lamp, unit must
+remain plugged in for approximately
+3 minutes after power down to allow
+for proper cool down (not applicable
+on LED models).
+yy Do not touch the lens; doing so can
+result in burns or damage to lens.
+Lens and unit may be HOT during
+and immediately after use. Use
+caution when handling unit, allowing
+for proper cool down.
+
+9
+
+yy Only use a grounded electrical outlet.
+yy Do not insert anything into or cover
+up the exhaust vents.
+- This may result in fire or electric
+shock.
+yy Follow all maintenance guidelines
+for optimal use; service only at an
+authorized service center.
+yy Lamp contains mercury and as such
+must be disposed of according to
+local, state, and federal laws (not
+applicable on LED models).
+yy Keep the batteries and remote out of
+reach of children.
+- This will prevent personal injury or
+damage to the product.
+
+10
+
+SAFETY INSTRUCTIONS
+
+CAUTION
+yy Do not use or store the projector
+outdoors for long periods of time.
+yy Be sure to unplug if the projector is not
+to be used for a long period.
+- Accumulated dust may result in fire
+or electric shock due to overheating,
+ignition, or poor insulation.
+yy Only use the specified type of battery.
+- Burst or leaking batteries may result in
+damage or injury.
+yy Make sure you use the same type of
+battery when replacing.
+(Battery type: CR2032 / 3 V)
+- In the case of a battery contact failure,
+the battery may drain quickly or the
+remote control may not work properly.
+yy The battery contains lithium-ion, so it
+must be handled with care.
+- This may result in explosion or fire.
+yy Dispose of used batteries properly.
+- This may result in explosion or fire.
+The correct method of disposal may
+vary depending on your country or
+region. Dispose of the battery pack as
+instructed.
+yy Do not throw or disassemble the battery.
+- This may result in fire or explosion
+due to damage to the battery.
+yy Store batteries away from metallic
+objects, such as keys and paper clips.
+- Excess current may cause a rapid
+increase in temperature, resulting in
+fire or burns.
+yy Do not store the batteries near any
+heat source, such as a heater.
+- This may result in fire or damage to
+the product.
+yy Do not store batteries at temperatures
+higher than 60 °C or in high humidity.
+- This may result in explosion or fire.
+
+yy Make sure that the battery is installed
+correctly.
+- This prevent explosion or fire.
+yy Incorrect battery replacement may
+cause fire.
+
+Risk Group 2
+CAUTION Possibly hazardous optical
+radiation emitted from this product. Do
+not stare at operating lamp. May be
+harmful to the eye.
+
+CONTENTS
+
+11
+
+CONTENTS
+LICENSE	2
+SAFETY INSTRUCTIONS	
+
+3
+
+PREPARATION	13
+Accessories	13
+Optional Extras	
+
+14
+
+Parts and Components	
+
+15
+
+Using the Joystick Button	
+-- Basic Functions	
+-- Adjusting the Menu	
+
+17
+17
+17
+
+Projector Status Indicators	
+
+18
+
+Installation	19
+-- Installation Precautions	
+19
+-- Projection Distance per Screen Size	 20
+-- How to Install the Projector On a Tripod	 21
+-- Kensington Security System	
+21
+-- Caution when Using Pouch	
+22
+
+ENTERTAINMENT	30
+Using SCREEN SHARE	
+
+30
+
+MY MEDIA	
+
+31
+
+Before Using	
+-- Connecting a USB Device	
+-- Removing a USB Device	
+
+31
+31
+31
+
+To Use My Media	
+-- Watching the Videos	
+-- Viewing the Photos	
+-- Listening to Music	
+-- Viewing Files	
+
+33
+36
+41
+44
+46
+
+3D FUNCTION	
+
+48
+
+While Watching 3D	
+
+48
+
+Requirements for Watching 3D Images	 51
+-- To Use DLP-LINK (DLP-Ready) Type
+Glasses	53
+Watching 3D Images	
+
+53
+
+CUSTOMIZING SETTINGS	
+
+54
+
+REMOTE CONTROL	
+
+23
+
+USING THE PROJECTOR	
+
+25
+
+SETTINGS	54
+
+Watching Projector	
+-- Turning on the Projector	
+-- Focus of the Screen Image	
+-- Watching Projector	
+
+25
+25
+26
+26
+
+PICTURE Settings	
+
+Additional Options	
+-- Adjusting Aspect Ratio	
+-- Using the Keystone Function	
+-- Changing Input Device	
+-- Blank Function	
+
+27
+27
+27
+28
+29
+
+INFORMATION	63
+
+Using the Quick Menu	
+
+29
+
+55
+
+AUDIO Settings	60
+TIME Settings	61
+WIRELESS Settings	
+
+62
+
+OPTION 1 Settings	64
+OPTION 2 Settings	65
+
+12
+
+CONTENTS
+
+CONNECTING DEVICES	
+
+67
+
+Connecting to HD Receiver, DVD, VCR
+Player, or External Devices	
+-- HDMI Connection	
+-- HDMI to DVI Connection	
+-- AV Connection	
+-- Component Connection	
+
+68
+68
+68
+69
+69
+
+Connecting a PC	
+-- HDMI Connection	
+-- HDMI to DVI Connection	
+-- RGB Connection	
+
+70
+70
+70
+71
+
+Connecting a Laptop	
+-- HDMI Connection	
+
+72
+72
+
+Connecting to Headphones	
+
+73
+
+Using the Mirroring Function of a Mobile
+Phone	74
+-- MHL/Slimport Connection	
+74
+
+MAINTENANCE	75
+Cleaning	75
+-- Cleaning the Lens	
+75
+-- Cleaning the Projector Case	
+75
+
+SPECIFICATIONS	76
+
+PREPARATION
+
+13
+
+PREPARATION
+Accessories
+Accessories included with the projector are show below.
+The pictures may differ slightly from the actual product.
+Accessories are subject to change without prior notice.
+New accessories may be added or old ones removed.
+219'4
+
++0276
+/76'
+
+2#)'
+
+81.7/'
+
+#761
+
+$.#01-
+
+':+6
+
+ꕣ
+5'66+0)5
+
+3/'07
+
+56+..
+
+4#6+1
+
+*'.2
+
+-';5
+
+&
+
+75$
+-';5
+
+.4
+
+Remote Control,
+Lithium Battery
+(CR2032 / 3 V)
+
+Owner's Manual
+
+AC-DC Adaptor
+
+Composite Gender
+
+Power Cord
+
+Pouch
+(For PW800G)
+
+Pouch
+(For PW600G)
+yy When connecting an HDMI or USB cable, or
+connecting a USB flash drive to the HDMI or USB port,
+use a product that has a width of 18 mm or less and a
+height of 10 mm or less. If the USB cable or USB flash
+drive does not fit the USB ports of the projector, use
+an extension cable that supports USB 2.0.
+yy Use a certified cable with the HDMI logo attached.
+yy If you do not use a certified HDMI cable, the screen may not display or a connection
+error may occur. (Recommended HDMI cable types)
+- High-Speed HDMI®/™ Cable
+- High-Speed HDMI®/™ Cable with Ethernet
+
+14
+
+PREPARATION
+
+Optional Extras
+To purchase optional accessories, visit an electronics store or online shopping site or
+contact the retail store where you purchased the product. Optional accessories are
+subject to change without prior notice.
+
+Projection Screen
+
+Tripod
+
+HDMI Cable
+
+Video Cable
+
+Audio Cable
+
+3D glasses
+(DLP-LINK or DLPReady Type)
+
+RGB to Component cable
+
+Component Cable
+
+MHL or Slimport cable
+
+Computer Cable
+
+PREPARATION
+
+15
+
+Parts and Components
+The projector is manufactured using high-precision technology. You may, however, see
+tiny black dots and/or bright colored dots (red, blue, or green) that continuously appear
+on the projector screen. This is a normal result of the manufacturing process and does
+not indicate a malfunction.
+Joystick Button
+
+Speakers
+
+Vent1)
+Lens
+
+Vent1)
+2)
+
+Focus ring
+
+1) Due to the high temperature of the vent area, do not get close to the vent area.
+2) Do not touch the lens when using the projector. The lens may be damaged.
+
+16
+
+PREPARATION
+
+RGB IN Port
+
+(Headphone Port)
+
+Port
+
+AV IN Port
+
+(USB Port)
+
+DC IN Port
+
+PREPARATION
+
+17
+
+Using the Joystick Button
+You can operate the projector by pressing the button or moving the joystick left, right,
+up, or down.
+
+Basic Functions
+Power On
+
+When the projector is turned off, place your finger
+on the joystick button, press it once, and release it.
+
+Power Off
+
+When the projector is turned on, place your finger
+on the joystick button, press it once for a few
+seconds, and release it. (However, if the Menu
+button is on the screen, pressing and holding the
+joystick button will let you exit the Menu.)
+
+Volume
+Control
+
+If you place your finger over the joystick button and
+move it left or right, you can adjust the volume level.
+
+Up/Down/
+Left/Right
+
+If you move the joystick up, down, left, or right, you
+can move the cursor to select the menu items.
+
+	NOTE
+yy When your finger over the joystick button and move it up, down, left, or right, be
+careful not to press the joystick button. If you press the button while moving the
+joystick, the volume control may not work, and the cursor may not move.
+
+Adjusting the Menu
+When the projector is turned on, press the joystick button one time.
+You can adjust the menu items ( ,
+, , ) moving the joystick button left, right,
+up, or down.
+Move to the desired menu item, and then press the joystick button once to select it.
+Projector off Turns the power off.
+Input List
+$MPTF
+
+Close
+Settings
+
+Changes the input source.
+Clears on-screen displays and
+returns to projector viewing.
+Displays the Settings menu.
+
+18
+
+PREPARATION
+
+Projector Status Indicators
+LED Power Indicator
+
+Red
+Off
+
+LED Power Indicator
+Power standby state
+The projector is operating with the power on.
+
+PREPARATION
+
+19
+
+Installation
+Installation Precautions
+
+yy Place the projector in a well-ventilated
+environment.
+-	 To prevent internal heat build-up,
+install the projector in a wellventilated place.
+Do not place anything near the
+projector as this may block its air
+vents. If the air vents are blocked,
+the internal temperature will
+increase.
+
+-	 Do not place the projector on a
+carpet or rug. If the vent is on the
+bottom, use the projector on a solid
+level surface and ensure the vent is
+not blocked.
+
+-	 Be sure to prevent foreign objects
+such as paper debris from entering
+the projector.
+
+-	 Leave enough distance (30 cm or
+more) around the projector.
+
+yy Do not place the projector in a hot
+or humid environment.
+- Do not place the projector in a hot,
+cold, or humid environment.
+y
+Do
+not place the projector in a place
+y
+where it will easily attract dust.
+- This may result in fire.
+y
+y Never open any cover on the
+projector. There is a high risk of
+electric shock.
+y
+y The projector is manufactured using
+high-precision technology. You may,
+however, see tiny black dots and/
+or bright colored dots (red, blue, or
+green) that continuously appear on
+the projector screen. This is a normal
+result of the manufacturing process
+and does not indicate a malfunction.
+y
+y The remote control may not work
+in an environment where a lamp
+equipped with electronic ballasts or
+a three-wavelength fluorescent lamp
+is installed. Replace the lamp with an
+international standard lamp for the
+remote control to work normally.
+
+20
+
+PREPARATION
+
+Projection Distance per Screen Size
+
+1	 Place the projector on a sturdy, level surface, together with the PC or audio/video
+source.
+
+2	 Place the projector an appropriate distance away from the screen. The distance
+between the projector and the screen determines the actual size of the image.
+
+3	 Position the projector so that the lens is at a right angle to the screen. If the
+
+projector is not at a right angle, the projected image will look distorted. To correct the
+distortion, use the keystone function. (See page 27.)
+
+4	 Connect the power cord of the projector and the connected device to the wall outlet.
+Ratio of upward projection: 100 %
+
+Screen Width (Y)
+
+Screen Height (X)
+
+Screen
+
+X/2
+
+X/2
+
+Y/2
+
+Screen
+
+30 mm
+
+Y/2
+
+Projection distance (D)
+
+Projection distance (D)
+16:10 Ratio
+
+Screen Size
+(mm)
+
+Screen Width
+(Y) (mm)
+
+Screen Height
+(X) (mm)
+
+Projection Distance
+(D) (mm)
+
+635
+762
+889
+1016
+1143
+1270
+1397
+1524
+1651
+1778
+1905
+2032
+2159
+2286
+2413
+2540
+
+538
+646
+754
+861
+969
+1077
+1185
+1292
+1400
+1508
+1615
+1723
+1831
+1938
+2046
+2154
+
+337
+404
+471
+539
+606
+673
+741
+808
+875
+943
+1010
+1077
+1145
+1212
+1279
+1347
+
+803
+966
+1130
+1293
+1456
+1619
+1783
+1946
+2109
+2272
+2436
+2599
+2762
+2925
+3089
+3252
+
+PREPARATION
+
+21
+
+How to Install the Projector On a Tripod
+
+yy You can install this projector using a camera tripod.
+As shown below, you can mount the projector instead of a camera on the tripod.
+yy When stabilizing the tripod, we recommend using a locking bolt of standard size
+4.5 mm or less. The maximum size allowed for the locking bolt is 5.5 mm.
+(If it is longer than the maximum allowed size, it may damage the projector.)
+Bolt used to
+attach the
+projector
+
+Bottom side of the projector
+
+⇒
+
++
+
+The projector is
+connected to this part.
+
+Tripod
+
+	CAUTION
+yy If you are using a tripod, be careful not to apply external force to the tripod. Doing
+so may damage the projector.
+yy Do not place the tripod on an unstable surface.
+yy Be sure to use a tripod with a maximum load capacity of 3 kg or more.
+yy To use the projector safely, position the tripod legs so that they are as wide and
+stable as possible and be sure to securely attach the projector to the tripod.
+
+Kensington Security System
+
+yy This projector has a Kensington Security Standard connector. Connect a Kensington
+Security System cable as shown below.
+yy For more information on installation and use of the Kensington Security System,
+refer to the user’s guide provided with the Kensington Security System.
+yy The Kensington Security System is an optional accessory.
+yy What is Kensington? Kensington is a company that provides security systems for
+laptops and other electronic devices. Website: http://www.kensington.com
+
+22
+
+PREPARATION
+
+Caution when Using Pouch
+* Available for the PW800G model only.
+The purpose of the pouch provided is to protect the exterior of the product.
+Please insert the back of the product first into the pouch as illustrated.
+
+	NOTE
+yy When using the product with the pouch on for a long period of time, the parts
+exposed to direct sunlight may change colors.
+yy When using the product with the pouch on, the built-in speakers may sound low in
+volume.
+
+REMOTE CONTROL
+
+23
+
+REMOTE CONTROL
+Open the lid at the back of the remote control and insert the
+batteries as described in the
+instructions. Use new batteries.
+①
+
+219'4
+
++0276
+/76'
+
+2#)'
+
+81.7/'
+
+#761
+
+$.#01-
+
+':+6
+
+ꕣ
+5'66+0)5
+
+3/'07
+
+56+..
+
+4#6+1
+
+*'.2
+
+-';5
+
+&
+
+75$
+-';5
+
+.4
+
+②
+
+POWER
+Turns the projector on or off.
+MUTE
+Mutes the sound of the projector.
+INPUT
+Changes the input source.
+VOLUME +, Adjusts the volume level.
+PAGE ,
+Moves to the previous/next page.
+AUTO
+Automatically adjusts the RGB-PC input image.
+Up/Down/Left/Right buttons
+Sets the function or moves the cursor.
+OK
+Shows the current mode and saves changes to
+the settings.
+BLANK
+Blanks the screen.	
+EXIT
+Exits the menu.
+Returns to the previous screen.
+SETTINGS
+Displays or closes the Settings menu.
+Q.MENU
+Allows you to change the settings easily.
+
+24
+
+REMOTE CONTROL
+
+219'4
+
++0276
+/76'
+
+2#)'
+
+81.7/'
+
+#761
+
+$.#01-
+
+':+6
+
+ꕣ
+5'66+0)5
+
+3/'07
+
+56+..
+
+4#6+1
+
+*'.2
+
+-';5
+
+&
+
+75$
+-';5
+
+.4
+
+STILL
+Freezes the moving image.
+(Available in any mode other than USB mode.)
+RATIO
+Changes the aspect ratio of the screen
+per pressing of the button.
+USB
+Accesses USB mode.
+HELP
+Enables the self-diagnosis.
+KEY.S ▲, ▼
+Adjusts the Keystone function.
+Playback control buttons
+Controls playback of MY MEDIA.
+Color buttons
+Sets detailed settings or gesture for each menu.
+3D
+Shows 3D images.
+L/R
+Switches left and right in 3D mode.
+
+	NOTE
+yy When using the remote control, the optimal operation range is
+6 meters or less (left/right) and within a 30 degree arc of the
+remote control IR receiver.
+yy If a cable is connected to the back port, the optimal operating
+30° 30°
+range is 3 meters or less (left/right) and within a 30 degree arc
+of the remote control IR receiver.
+yy For seamless operation, do not block the IR receiver.
+yy When you carry the remote control in the portable bag, make
+sure that the buttons on the remote control are not pressed by the projector,
+cables, documents or any other accessories in the bag. Otherwise, it may
+significantly reduce the battery life.
+219'4
+
++0276
+
+/76'
+
+2#)'
+
+81.7/'
+
+#761
+
+$.#0-
+
+1-
+
+':+6
+
+ꕣ
+
+5'66+0)5
+
+3/'07
+
+56+..
+
+4#6+1
+
+*'.2
+
+-';5
+
+&
+
+75$
+
+-';5
+
+.4
+
+USING THE PROJECTOR
+
+25
+
+USING THE PROJECTOR
+Watching Projector
+Turning on the Projector
+The menu screen display in this owner's manual is an example to help users
+understand how to operate the product and may look different from the actual screen.
+
+1  Connect the power cord correctly.
+2  After waiting for a moment, press the POWER button on the remote control or the
+joystick button.
+
+3  In the Language Selection screen, select a language.
+WELCOME!
+
+Thank you for choosing LG
+
+Language
+한국어
+
+Česky
+
+English
+
+Español
+
+Deutsch
+Español (Latin)
+
+Français
+
+Hrvatski
+
+Indonesia
+Polski
+
+Italiano
+
+Magyar
+
+Português
+
+Português (Brasil)
+
+Русский
+
+Slovenščina
+
+Svenska
+
+Türkçe
+
+中文
+
+繁體中文
+
+БЪЛГАРСКИ
+
+ภาษาไทย
+
+Confirm
+
+4  In the Mode Setting screen, select the setting mode you want.
+Mode Setting
+Selecting the environment.
+Choose the setting mode you want.
+Select [Standard] to use this Projector at home. To use this
+Projector at store, select [Store Demo].
+
+Standard
+
+Store Demo
+
+Demo Mode
+
+Off
+
+Previous
+
+Confirm
+
+*S
+ tore Demo is used when displaying the product in-store. The picture mode is
+automatically reset after a certain period of time. You can select Standard to use the
+product at home.
+
+5  Select an input signal by using the INPUT button on the remote control.
+
+26
+
+USING THE PROJECTOR
+
+Focus of the Screen Image
+When an image appears on the screen, check if it is in focus and fits the screen
+properly.
+Adjust the focus of the image by rotating the Focus Ring to the left or right.
+Make sure the product does not move when adjusting the focus.
+
+Focus Ring
+
+Watching Projector
+
+1	 In standby mode, press the POWER button to turn the projector on.
+2	 Press the INPUT button and select the input signal you want.
+3	 Control the projector using the following buttons while watching projector.
+Button
+VOLUME +, MUTE
+Q.MENU
+RATIO
+KEY.S ,
+
+Description
+Adjusts the volume level.
+Mutes all sounds.
+Accesses the quick menu. (See page 29.)
+Resizes an image.
+Adjusts Keystone. (See page 27.)
+
+4	 To turn the projector off, press the POWER button.
+
+USING THE PROJECTOR
+
+Additional Options
+Adjusting Aspect Ratio
+
+yy Resize an image to view at its optimal
+size by pressing RATIO while you are
+using the projector.
+
+	NOTE
+yy Available picture size may differ
+depending on the input signal.
+yy You can also use the Q.MENU or
+SETTINGS button.
+Menu
+16:9
+
+Description
+Resizes images to the 16:9
+ratio.
+Full
+Changes to the full screen
+regardless of the aspect
+ratio.
+Just
+Displays video images in
+Scan
+the original size without
+removing parts of the edge
+of the image.
+yy If you select Just Scan,
+you may see image
+noises at the edge or
+edges of the screen.
+Set By
+Displays images in the
+Program same aspect ratio as the
+original image.
+4:3
+Resizes images to the
+previous standard 4:3.
+Zoom
+Resizes the image to fit the
+screen width. The top and
+bottom parts of the image
+may be cut off.
+Press the or button to
+zoom in or out of the image.
+Press the or button to
+move the image.
+
+Menu
+Cinema
+Zoom 1
+
+27
+
+Description
+Formats an image to the
+cinemascope ratio, 2.35:1. It
+ranges from 1 to 16.
+Press the or button to
+zoom in or out of the image.
+Press the or button to
+move the image.
+yy If you enlarge or reduce
+an image, the image may
+be distorted.
+
+Using the Keystone
+Function
+To prevent the screen image from
+becoming trapezoidal, Keystone adjusts
+the top and bottom width of the image
+if the projector is not set up at a right
+angle to the screen.
+Because the Keystone function may
+cause inferior screen image quality, use
+this function only when it is not possible
+to set up the projector at an optimal
+angle.
+• Keystone	
+
+0 ◀
+
+-
+
++ ▶
+
+OK
+
+1	 Press the KEY.S
+
+or KEY.S
+button to adjust the picture.
+yy 	Keystone can be adjusted from -40
+to 40.
+
+2	 Press the OK button when done.
+
+28
+
+USING THE PROJECTOR
+
+Changing Input Device
+
+Selecting an Input Label
+Displays which devices are connected to
+which input ports.
+
+To select an external input
+Selects external input.
+The illustration of the menu may differ
+from the actual screen on the product.
+yy Press the INPUT button on the
+remote control to display the input
+selection screen.
+- Connected inputs are displayed
+first. However, AV / Component /
+SCREEN SHARE input is always
+activated.
+(SCREEN SHARE is available for
+the PW800G model only.)
+yy Select an input signal using the
+remote control's INPUT button to
+connect the projector to the desired
+input. You can use the , or
+button to switch between all the input
+modes.
+Input List
+
+AV
+
+Component
+
+ꔂ Move ꔉ OK
+
+SCREEN SHARE
+
+USB
+
+RGB-PC
+
+Input Label
+
+HDMI
+
+Exit
+
+Input Label
+◀
+
+▶
+
+Component ◀
+
+▶
+
+RGB-PC
+
+◀
+
+▶
+
+HDMI
+
+◀
+
+▶
+
+AV
+
+Close
+
+1	 Press the INPUT button on the
+
+remote control to display the input
+selection screen.
+
+2	 Press the red button.
+3	 Use the or button to scroll to
+one of the input sources.
+
+4	 Use the
+
+or button to select one
+of the input labels.
+
+USING THE PROJECTOR
+
+Blank Function
+Using the Blank Function
+This function may be effective when you
+need to draw attention during a meeting
+or training.
+
+1	 Press the BLANK button, and the
+
+screen is covered by the background
+color.
+You can change the background color
+by referring to Selecting a Blank
+Image.
+
+2	 Press any button to clear the blank
+
+function.
+To cover the screen temporarily,
+press the BLANK button on the
+remote control.
+Do not block the lens with any object
+while the projector is running.
+It may become overheated and
+deformed or even cause a fire.
+
+Selecting a Blank Image
+
+1	 Press the SETTINGS button.
+2	 Press the , , , or button to
+
+select OPTION 2 and press the OK
+button.
+
+3	 Press the
+
+, button to select
+Blank Image and press the OK
+button.
+
+4	 Use the
+
+or button to move to the
+setting or option you want and press
+the OK button.
+
+29
+
+Using the Quick Menu
+You can customize frequently used menus.
+
+1	 Press the Q.MENU button.
+2	 Press the or button to select a
+menu and press OK.
+
+Menu
+Aspect
+Ratio
+PJT
+Mode
+Picture
+Mode
+Sound
+Mode
+Sleep
+Timer
+Clear
+Voice II
+Energy
+Saving
+USB
+Device
+
+Description
+Resizes the picture.
+Turns the projected image
+upside down or flips it
+horizontally.
+Changes the picture mode.
+Sets the sound mode.
+Sets the projector to be
+turned off at the specified
+time.
+Makes the voice from the
+projector crisp and clear.
+Reduces power
+consumption by adjusting
+peak screen brightness.
+Allows you to remove a
+connected USB device in a
+safe manner.
+(The menu is displayed
+only when the USB device
+is connected.)
+
+3	 Press the
+
+or button to scroll
+through the following menus.
+
+30
+
+ENTERTAINMENT
+
+ENTERTAINMENT
+Using SCREEN SHARE
+* This feature is available for the PW800G model only.
+
+1	 Set the external input of the projector to SCREEN SHARE.
+2	 Enable related SCREEN SHARE function on the device you wish to connect.
+3	 Connect the Projector from the search list on the device you wish to connect.
+
+(When you connect the projector to your laptop, input the PIN code shown on your
+display. The request for a PIN will be shown only at the initial connection.)
+
+4	 If the desired device accepts the request, SCREEN SHARE will be started.
+	CAUTION
+
+yy 	Windows 7 / 8 / 8.1 are compatible with SCREEN SHARE. However, other versions
+of Windows, and some other operating systems, may not be compatible with
+SCREEN SHARE.
+yy Ice Cream Sandwich, Jellybean, and KitKat versions of LG’s Android devices are
+guaranteed to be compatible.
+yy 	When connecting via SCREEN SHARE, place the device close to the projector.
+yy 	The response rate and image quality may vary depending upon the user’s
+environment.
+yy For more information on the device you want to connect to, refer to its owner’s
+manual.
+yy Certain Windows 8.1 laptops may have difficulty in reconnecting when initializing
+the device information during a wireless connection. In this case, it is recommended
+that you remove the registered device and reconnect.
+
+MY MEDIA
+
+MY MEDIA
+
+Removing a USB Device
+
+Before Using
+
+1	 Click the Q.MENU button.
+2	 Use the or button to move
+
+Connecting a USB Device
+
+3	 Select a USB to remove. Wait for
+
+Connect a USB device (external HDD,
+USB memory) to the USB port of
+projector to enjoy the content files stored
+in the USB device with your projector.
+You cannot write or delete data in the
+USB device. Connect a USB flash drive
+as shown below.
+
+USB Flash Drive
+
+31
+
+to USB Device and press the OK
+button.
+confirmation that the USB device has
+stopped before removing the USB.
+
+	NOTE
+yy If detached early, an error may
+occur on the projector or the USB
+storage device.
+yy 	Once a USB device has been
+selected for removal, it can no longer
+be read. Remove the USB storage
+device and then re-connect it.
+
+32
+
+MY MEDIA
+
+Tips for Using a USB Device
+yy 	If the USB storage device has a builtin auto recognition program or uses
+its own driver, it may not work.
+yy 	Some USB storage devices may not
+work or may work incorrectly.
+yy 	If you use a USB extension cable, the
+USB device may not be recognized or
+may not work properly.
+yy 	Use only USB storage devices
+formatted with the Windows FAT32 or
+NTFS file system.
+yy 	For external USB HDDs, it is
+recommended that you use devices
+with a rated voltage of less than 5 V
+and a rated current of less than
+500 mA.
+yy 	It is recommended to use a USB
+hub or hard disk drive with power
+supplied. (If the power supplied is not
+enough, the USB storage device may
+not be detected properly.)
+yy 	It is recommended that you use USB
+flash drives of 32 GB or less and USB
+HDDs of 1 TB or less.
+yy 	If a USB HDD with power-saving
+function does not work properly,
+turn the power off and on. For more
+information, refer to the user manual
+of the USB HDD.
+yy 	Data in USB storage device can
+be damaged so be sure to back
+up important files to other devices.
+Data maintenance is the user's
+responsibility and the manufacturer is
+not responsible for data loss.
+
+MY MEDIA
+
+To Use My Media
+1	 Press the SETTINGS button on the
+remote control.
+
+2	Select MY MEDIA.
+Select desired file from the list. Watch
+the chosen file.
+Sets play related settings by checking
+option during disk playback.
+
+My Media supporting file
+yy Maximum data transfer rate: 20 Mbps
+(Mega bit per second)
+yy External supported subtitle formats:
+*.smi, *.srt, *.sub (MicroDVD,
+SubViewer 1.0/2.0), *.ass, *.ssa, *.txt
+(TMPlayer), *.psb (PowerDivX)
+yy Internal supported subtitle formats:
+SRT/ASS/SSA (Supports internal
+subtitles generated from DivX6)
+
+33
+
+34
+
+MY MEDIA
+
+Video Supported Codec
+Maximum: 1920 x 1080 @ 30p (only Motion JPEG 640 x 480 @ 30p)
+Extension
+.asf,
+.wmv
+.divx,
+.avi
+.mp4,
+.m4v,
+.mov
+.mkv
+.ts,
+.trp,
+.tp,
+.mts,
+.m2ts
+.vob
+
+.mpg
+
+Codec
+Video
+
+VC-1 Advanced Profile, VC-1 Simple and Main Profiles
+
+Audio
+
+WMA Standard, WMA 9 Professional
+
+Video
+
+DivX3.11, DivX4, DivX5, DivX6, XVID, H.264/AVC
+
+Audio
+
+MPEG-1 Layer I, II, MPEG-1 Layer III (MP3), Dolby Digital
+
+Video
+
+H.264 / AVC, MPEG-4 Part 2
+
+Audio
+
+AAC
+
+Video
+
+H.264 / AVC
+
+Audio
+
+HE-AAC, Dolby Digital
+
+Video
+
+H.264 / AVC, MPEG-2, VC-1
+
+Audio
+
+MPEG-1 Layer I, II, MPEG-1 Layer III (MP3),
+Dolby Digital, Dolby Digital Plus, AAC
+
+Video
+
+MPEG-1, MPEG-2
+
+Audio
+
+Dolby Digital, MPEG-1 Layer I, II, DVD-LPCM
+
+Video
+
+MPEG-1
+
+Audio
+
+MPEG-1 Layer I, II
+
+MY MEDIA
+
+Audio File
+File type
+MP3
+AC3
+MPEG
+AAC,
+HEAAC
+CDDA
+
+LPCM
+
+Item
+
+Info
+
+Bit rate
+
+32 kbps to 320 kbps
+
+Sampling rate
+
+32 kHz to 48 kHz
+
+Bit rate
+
+32 kbps to 640 kbps
+
+Sampling rate
+
+32 kHz, 44.1 kHz, 48 kHz
+
+Bit rate
+
+32 kbps to 448 kbps
+
+Sampling rate
+
+32 kHz to 48 kHz
+
+Bit rate
+
+24 kbps to 3844 kbps
+
+Sampling rate
+
+8 kHz to 96 kHz
+
+Bit rate
+
+1.44 kbps
+
+Sampling rate
+
+44.1 kHz
+
+Bit rate
+
+1.41 Mbps to 9.6 Mbps
+
+Sampling rate
+
+Multi-channel : 44.1 kHz, 88.2 kHz /
+48 kHz, 96 kHz
+Stereo : 176.4 kHz, 192 kHz
+
+35
+
+36
+
+MY MEDIA
+
+Watching the Videos
+In the Movie List, you can watch movies
+stored on the connected USB device.
+Controls playback and sets options while
+viewing videos.
+
+Tips for Playing Video Files
+yy 	Some subtitles created by users may
+not work properly.
+yy 	The video and subtitle files should
+be placed in the same folder. For
+subtitles to display correctly, the video
+and subtitle files must have the same
+name.
+yy 	We do not support any stream
+that contains GMC (Global Motion
+Compensation) or Qpel (Quarterpel
+Motion Estimation).
+yy Only H.264 / AVC profile level 4.1 and
+lower is supported.
+yy Video files that exceed 50 GB
+(gigabyte) are not supported
+for playback. The file size limit
+is dependent on the encoding
+environment.
+yy DTS audio codec is not supported.
+
+37
+
+MY MEDIA
+
+5  Control playback by using the
+
+Browsing Movie List
+Play a video file stored in the connected
+device.
+
+following buttons.
+
+1  Connect a USB storage device.
+2  Press the USB button.
+3  Use the or button to select
+
+��
+
+Movie List and press the OK button.
+
+4  Use the
+
+, , , or button to
+select the file you want and press
+the OK button.
+
+Page 1/1
+
+Movie List
+
+USB STORAGE DEVICE
+
+book
+
+doc
+
+pic
+
+Setting
+
+꘧ Page Change
+
+vid
+
+Page 1/1
+
+          Butterfly_...
+01:34:33
+
+ꔅ Go to root folder
+
+Go to upper folder
+
+Exit
+
+Description
+Thumbnails
+Abnormal file
+File not supported
+File List
+Moves to the upper level folder.
+Current page/Total no. of folder
+pages
+Current page/Total no. of file
+pages
+Moves to the top level folder.
+Moves to the upper level folder.
+Exit Movie List.
+
+00:40:30 / 02:30:25
+Q.MENU
+
+Option
+
+Hide
+
+Exit
+
+Description
+Shows the current playing
+position. Use or buttons
+to move forward or backward.
+Stops playing and returns to
+Movie List.
+Returns to normal playback.
+Pauses the media player.
+If no button is pressed on the
+remote control for 10 minutes
+after pausing, the playback is
+restarted.
+Displays in slow motion.
+Whenever this button is
+pressed, the playback speed
+is changed.
+x2, x4, x8, x16, x32
+Reduces power consumption
+by adjusting peak screen
+brightness.
+Option A pop-up window will appear.
+Hide Hides the playback bar.
+Press the OK button to make
+it appear.
+Exit Returns to the Movie List
+screen.
+
+38
+
+MY MEDIA
+
+Options for Movie List
+
+1	 Press the Q.MENU button.
+2	 Use the or button to move to
+
+a desired option and press the OK
+button.
+
+3	 Use the
+
+, ,
+up each item.
+
+, or
+
+Setting
+Subtitle
+Language
+
+button to set
+
+Set Video Play.
+Setting
+Picture
+Size
+
+Audio
+Language
+
+Description
+Selects the size of a
+playback screen.
+yy 	Full : Files are played
+in full screen mode
+according to the aspect
+ratio of video.
+y
+y 	Original : Displays the
+video in the original size.
+Allows you to select the
+language you want for
+the file with multiple audio
+tracks. This option is not
+available if the file has only
+one audio track.
+
+Repeat
+
+Description
+The subtitle can be turned
+on or off.
+yy 	Language : One of any of
+the available languages
+can be selected.
+yy 	Code Page : A character
+set used for a subtitle
+can be selected.
+By default, the subtitle is
+displayed in a language
+configured in OPTION 1
+Language.
+-S
+ ync : If a subtitle
+is not synchronized
+with its video, you can
+adjust its speed at 0.5
+seconds unit.
+-P
+ osition : Moves the
+location of a subtitle.
+-S
+ ize : Changes the
+subtitle font size.
+Turns the repeat function
+On or Off.
+When it is set to off, the
+next file can be played
+sequentially if the file name
+is similar.
+
+MY MEDIA
+
+Subtitle Language
+Subtitle
+LanLanguage
+guage
+Latin1
+English, Spanish, French,
+German, Italian, Swedish,
+Finnish, Dutch, Portuguese,
+Danish, Romanian,
+Norwegian, Albanian,
+Gaelic, Welsh, Irish,
+Catalan, Valencian
+Latin2
+Bosnian, Polish, Croatian,
+Czech, Slovak, Slovenian,
+Serbian, Hungarian
+Latin4
+Estonian, Latvian,
+Lithuanian
+Cyrillic Bulgarian, Macedonian,
+Russian, Ukranian, Kazakh
+Greek
+Greek
+Turkish Turkish
+Hebrew Modern Hebrew
+Chinese Simplified Chinese
+Korean Korean
+Arabic Arabic
+Thai
+Thai
+Set Video.
+You can change video settings.
+(Refer to PICTURE Settings on page 55.)
+Set Audio.
+You can change audio settings.
+(Refer to AUDIO Settings on page 60.)
+
+39
+
+40
+
+MY MEDIA
+
+Registering the DivX code
+Checks DivX Reg. Code for replaying
+DivX protected videos. Register at
+http://vod.divx.com.
+Use Reg. Code to rent or purchase
+movies at www.divx.com/vod.
+
+1	 In the Settings menu, move to
+
+OPTION 1 and press DivX(R) VOD.
+
+To deregister the DivX code
+Use the DivX deregistration code to
+deactivate the DivX DRM function.
+
+1	 In the Settings menu, move to
+
+OPTION 1 and press DivX(R) VOD.
+
+2	 Use the
+
+or button to go to
+Deregistration and press the OK
+button.
+
+Registration
+
+Registration
+
+Deregistration
+
+Deregistration
+
+Close
+
+Close
+
+2	 Press the
+
+or button to move
+to Registration and press the OK
+button.
+You must register your device to
+play DivX(R) protected videos.
+Registration code: XXXXXXXXXX
+Register at http://vod.divx.com
+
+Your device is already registered.
+Are you sure you wish to deregister?
+
+Yes
+
+No
+
+OK
+
+3	 Check the DivX Registration code.
+	NOTE
+yy 	Rented/purchased DivX files cannot
+be played if the DivX Registration
+Code of a different device is used.
+Use only the DivX Registration Code
+granted to this specific device.
+yy 	Converted files not conforming to the
+DivX Codec Standard may not play or
+may produce abnormal sound.
+
+Deregistration code : ********
+Deregister at http://vod.divx.com
+Continue with registration?
+
+Yes
+
+No
+
+3	Select Yes.
+	NOTE
+yy 	What is DRM
+[Digital Rights Management]?
+This is a technology and service that
+prevents the illegal use of digital
+contents to protect the benefits and
+rights of the copyright owner. Files can
+be played after the license is verified
+through an online method, etc.
+
+41
+
+MY MEDIA
+
+Viewing the Photos
+You can view photos stored on a
+connected device.
+
+Supported Photo Files
+PHOTO (*.JPEG)
+Baseline: 64-pixel (width) x 64-pixel
+(height) - 15360-pixel (width) x
+8640-pixel (height)
+Progressive: 64-pixel (width) x 64-pixel
+(height) - 1920-pixel (width) x 1440-pixel
+(height)
+yy 	Only JPEG files are supported.
+yy 	Non-supported files are displayed in
+the form of an icon.
+yy 	An error message is displayed for
+corrupted files or file formats that
+cannot be played.
+yy 	Corrupted files may not be displayed
+properly.
+yy 	It may take some time to view highresolution images in full screen.
+
+Browsing Photo List
+
+1	 Connect a USB storage device.
+2	 Press the USB button.
+3	 Use the or button to select
+
+Photo List and press the OK button.
+
+4	 Use the
+
+, , , or button to
+select the file you want and press the
+OK button.
+
+❶
+
+❷
+
+❸
+
+Photo List
+
+USB STORAGE DEVICE
+
+book
+
+doc
+
+pic
+
+❺
+
+❹
+Page 1/1
+
+꘧ Page Change
+
+vid
+
+Page 1/1
+
+           Butterfly_...
+
+06/09/2010
+
+ꔅ Go to root folder
+
+❻
+
+Go to upper folder
+
+❼
+
+Exit
+
+❽
+
+Description
+Thumbnails
+Abnormal file
+File not supported
+File List
+Moves to the upper level folder.
+Current page/Total no. of folder
+pages
+Current page/Total no. of file
+pages
+Moves to the top level folder.
+Moves to the upper level folder.
+❽ Exit
+
+42
+
+MY MEDIA
+
+5 Control playback by using the
+following buttons.
+
+01_a.jpg
+2008/12/10
+1920 x 1080
+479 KB
+[1/4]
+
+Slideshow
+
+BGM
+
+Setting
+
+ꔦ
+
+Q.MENU
+
+Option
+
+Hide
+
+Exit
+
+Description
+Selects the previous or next
+photo.
+Slide- All photos are displayed
+show during slide show.
+yy Set Slide Speed in the
+Option → Set Photo
+View. menu.
+BGM You can listen to music while
+viewing photos in full size.
+yy Set BGM in the Option →
+Set Photo View. menu.
+Rotates photos.
+yy 	Rotates a photo 90°, 180°,
+270°, or 360° clockwise.
+yy 	Photos cannot be rotated
+if their width is greater
+than the height of the max.
+supported resolution.
+Views the photo in full mode
+or original mode.
+Press the blue button to
+enlarge the image.
+Reduces power consumption
+by adjusting peak screen
+brightness.
+Option A pop-up window will appear.
+
+Setting
+Description
+Hide Hides the menu on the full
+size screen.
+yy 	To see the menu, press
+the OK button on the
+remote control.
+Exit Exit from full screen photo
+view.
+
+MY MEDIA
+
+Options for Photo List
+
+1	 Press the Q.MENU button.
+2	 Use the or button to move to
+
+a desired option and press the OK
+button.
+
+3 Use
+
+, ,
+each item.
+
+, or
+
+button to set up
+
+Set Photo View.
+Setting
+Slide
+Speed
+BGM
+
+Description
+Selects a slideshow speed.
+Selects a music folder for
+the background music.
+yy 	You cannot change the
+music folder while the
+background music is
+playing.
+yy 	For background music,
+only the folder from the
+same device can be
+selected.
+-R
+ epeat : Selects repeat
+play.
+-R
+ andom : Selects
+random play.
+
+Set Video.
+You can change video settings.
+(Refer to PICTURE Settings on page 55.)
+Set Audio.
+You can change audio settings.
+(Refer to AUDIO Settings on page 60.)
+
+43
+
+44
+
+MY MEDIA
+
+Listening to Music
+You can play audio files stored on the
+connected device.
+
+Supported Music Files
+*.MP3
+Bit rate range 32 Kbps to 320 Kbps
+yy 	Sampling rate MPEG1 Layer3:
+32 kHz, 44.1 kHz, 48 kHz
+yy 	Sampling rate MPEG2 Layer3:
+16 kHz, 22.05 kHz, 24 kHz
+
+Browsing Music List
+
+1	 Connect a USB storage device.
+2	 Press the USB button.
+3	 Use the or button to select
+
+Music List and press the OK button.
+
+4	 Use the
+
+, , , or button to
+select the file you want and press the
+OK button.
+
+❶
+
+❷
+
+❸
+
+Music List
+
+USB STORAGE DEVICE
+
+❺
+
+❹
+Page 1/1
+
+꘧ Page Change
+
+Drive1
+
+Page 1/1
+
+          Butterfly_...
+03:25
+
+ꔅ Go to root folder
+
+❻
+
+Go to upper folder
+
+❼
+
+Exit
+
+❽
+
+Description
+Thumbnails
+Abnormal file
+
+File not supported
+
+File List
+Moves to the upper level folder.
+Current page/Total no. of folder
+pages
+Current page/Total no. of file
+pages
+Moves to the top level folder.
+Moves to the upper level folder.
+❽ Exit
+
+MY MEDIA
+
+5 Control playback by using the
+
+Options for Music List
+
+following buttons.
+
+Page 1/1
+
+Music List
+
+USB STORAGE DEVICE
+
+Drive1
+
+꘧ Page Change
+
+Page 1/1
+
+           Butterfly_...
+03:25
+
+1	 Press the Q.MENU button.
+2	 Use the or button to move to
+
+a desired option and press the OK
+button.
+
+3 Use
+
+, ,
+each item.
+
+002. - B02.mp3
+
+�
+
+��
+Q.MENU
+
+Setting
+
+02:30 / 03:25
+Option
+
+Hide
+
+45
+
+Exit
+
+Description
+Changes the playing position.
+Stops playing.
+
+Returns to normal playback.
+Pauses the media player.
+Plays the previous/next file.
+Reduces power consumption
+by adjusting peak screen
+brightness.
+Option Sets up the options of Music
+List.
+Hide Hides the playback bar.
+yy 	Press the OK button to
+make the playback bar
+appear.
+Exit Returns to the Music List
+screen.
+
+, or
+
+button to set up
+
+Set Audio Play.
+Setting
+Description
+Repeat Selects repeat play.
+Random Selects random play.
+Set Audio.
+You can change audio settings.
+(Refer to AUDIO Settings on page 60.)
+
+46
+
+MY MEDIA
+
+Viewing Files
+You can see document files stored on a
+connected device.
+
+Supported File Formats
+XLS, XLSX, DOC, DOCX, PPT, PPTX,
+TXT, PDF, HWP
+Microsoft Office
+97/2000/2002/2003/2007 version
+Adobe PDF 1.0/1.1/1.2/1.3/ 1.4 version
+Hangul: 97/2000/2002/2005/2007 version
+yy 	File Viewer realigns a document,
+so it may look different from what is
+displayed on a PC.
+yy 	For documents that include images,
+the resolution may look lower during
+the realigning process.
+yy 	If the document is large or has many
+pages, it may take longer to load.
+yy 	Unsupported fonts may be replaced
+by other fonts.
+yy 	The file viewer may not open for
+Office documents that contain many
+high resolution images. In that case,
+reduce the image file size, save it on
+a USB storage device and run the
+file viewer again or connect your PC
+to the projector and open the file on
+your PC.
+
+Browsing File List
+
+1	 Connect a USB storage device.
+2	 Press the USB button.
+3	 Use the or button to select File
+List and press the OK button.
+
+4	 Use the
+
+, , , or button to
+select the file you want and press the
+OK button.
+❶
+
+❷
+
+File List
+
+USB STORAGE DEVICE
+
+           
+DOC
+HWP
+Butterfly_...
+
+❹
+
+❸
+Page 1/1
+
+꘧ Page Change
+
+Drive1
+
+Page 1/1
+
+PDF
+
+06/09/2010
+
+PPT
+
+TXT
+
+ꔅ Go to root folder
+
+❺
+
+XLS
+
+Go to upper folder
+
+❻
+
+Exit
+
+❼
+
+Description
+File List
+Moves to the upper level folder.
+Current page/Total no. of folder
+pages
+Current page/Total no. of file
+pages
+Moves to the top level folder.
+Moves to the upper level folder.
+❼ Exit
+
+MY MEDIA
+
+5	 Control playback by using the
+
+Options for File List
+
+following buttons.
+yy 	Click Go Page then the pop-up
+window for selecting the number
+of page appears. Input the page to
+move to the page you want.
+yy 	Press the VOLUME +, - button to
+zoom in or zoom out.
+
+Press the OK button and then use the
+Up/Down/Left/Right buttons to move to
+Go Page or Zoom.
+
+Go Page
+
+ꔦ Zoom
+
+Q.MENU
+
+Option
+
+Hide
+
+47
+
+Exit
+
+Setting
+Description
+Go
+Moves to the page you want.
+Page
+Use the Up/Down/Left/Right
+buttons to select a page and
+press the OK button.
+Zoom Enlarges or reduces the
+document.
+Option Sets up the options of File
+Viewer.
+Hide
+Hides the menu.
+yy 	Press the OK button to
+make it appear.
+Exit
+Returns to the File Viewer
+screen.
+
+1	 Press the Q.MENU button.
+2 Use , , , or button to set up
+each item.
+
+Set FileViewer Option
+Setting
+Description
+Single
+On Loads and displays
+Page
+pages one by one.
+Loading
+The initial loading time
+is short but a content
+heavy page may be
+displayed slowly.
+Off Loads all pages of a
+file to memory before it
+starts to display them.
+The initial loading
+time is long but you
+can navigate pages
+quickly after loading is
+complete.
+If a file is too large, it
+may fail to load all the
+pages.
+Image
+You can set the quality of
+Quality the image included in the
+document. The following
+three options are available
+for the image quality: High,
+Medium, Low. Higher the
+image quality, lower the
+display time.
+DocuSelects initial document
+ment
+align method.
+Align
+File View settings are default, so close
+the currently opened document to apply
+changes to the new document, if any.
+
+48
+
+3D FUNCTION
+
+3D FUNCTION
+3D technology uses different video frames for each eye to add depth to the video.
+
+While Watching 3D
+WARNING
+yy 	If you view 3D video or images too
+closely for a long period of time, your
+eyesight may become worse.
+yy 	If you watch the projector or game
+screen for a long time with 3D glasses
+on, you may experience dizziness or
+eye fatigue.
+yy People with chronic diseases
+(epilepsy, cardiovascular disease,
+blood pressure-related diseases,
+etc.), pregnant women, and people
+with serious motion sickness should
+avoid watching 3D video.
+yy People with stereo blindness, or with
+stereopsis problems, should also
+avoid watching 3D video content. It
+may cause double vision or visual
+discomfort.
+yy People with strabismus, amblyopia,
+or astigmatism may have difficulty
+perceiving video depth and may be
+fatigued easily due to double vision
+or other ailments. It is recommended
+to rest more frequently than other
+viewers.
+yy 	Because 3D can be recognized as
+real, some viewers may get surprised
+or overexcited.
+
+yy 	Do not watch 3D images near fragile
+objects or any objects that can be
+knocked over easily.
+yy 	Take care not to injure yourself as
+you may subconsciously try to move
+away from the life-like 3D images.
+
+3D FUNCTION
+
+yy Warning about photosensitivity
+seizures
+- Some users may experience a
+seizure or other abnormal symptoms
+when they are exposed to a flashing
+light or particular patterns from a
+video game. If anyone in your family
+has a history of epilepsy or has ever
+experienced any kind of seizure,
+please consult your doctor before
+viewing 3D images.
+If you experience one of the following
+symptoms while watching a 3D
+video, stop watching the 3D video
+immediately and take a rest.
+- Dizziness, switched eyesight,
+twitching of the eye or facial
+muscles, involuntary movements,
+cramp, loss of consciousness,
+confusion, loss of sense of direction,
+or nausea. If the symptom does
+not disappear, please consult your
+doctor.
+yy 	You can reduce the risk of
+photosensitive seizures by taking the
+following preventive measures.
+- Take a rest of 5 to 15 mins. for every
+1 hour of viewing.
+- If vision varies between each eye,
+correct the variation before beginning
+to watch a 3D video.
+- Ensure that the 3D video is directly in
+front of you, at eye level.
+- You should stop watching if you
+experience a headache, fatigue or
+dizziness.
+- Do not view 3D images for a long
+period of time when you are tired or ill.
+
+49
+
+CAUTION
+yy Extra special care is required for
+children watching a 3D video.
+
+When Watching 3D Video
+yy 	Prevent children of 5 years or
+younger from watching a 3D video. It
+may impair the development of their
+eyes.
+yy Children 10 years old or younger are
+still developing their eyesight and may
+have an excessive tendency to touch
+or jump at the screen. Adult guidance
+and supervision is recommended.
+yy Since the distance between the eyes
+is narrower for children than in adults,
+children tend to notice a greater
+difference in the images seen by each
+eye. Therefore, even while watching
+the same 3D video, children may
+have a greater depth perception than
+adults.
+yy Young people of 19 years old or
+younger may respond with sensitivity
+to the light stimuli of 3D content.
+Excessive viewing when fatigued is
+not recommended.
+yy Elderly viewers may have a reduced
+depth perception than younger
+viewers. Avoid watching video nearer
+than the recommended distance.
+yy 	Watch 3D images within the optimum
+viewing angle and distance.
+yy 	If you are outside the viewing angle
+or distance, you may not be able to
+see 3D images. You cannot view 3D
+images when you are lying down.
+
+50
+
+3D FUNCTION
+
+yy You may see left and right images
+overlapped during projector
+initialization after it is powered on. It
+may take some time for optimization.
+yy It may take some time for the 3D
+image to look normal after you turn
+your eyes away from the screen and
+look back at the 3D image.
+yy It may flicker slightly while watching
+3D images under a 3 wavelength
+lamp fluorescent light (50 Hz to
+60 Hz) or near windows. If so, it is
+recommended to block the sun light
+with a curtain and to dim the lights.
+yy The 3D glasses must be DLP-LINK
+(DLP Ready) type.
+yy You may not be able to watch 3D
+properly if there is an obstacle
+between the projector and 3D
+glasses.
+yy Install the 3D projector as far as
+possible from other devices.
+yy If a future 3D broadcasting format
+that is not supported by this projector
+becomes the standard, an additional
+device such as a set-top box may be
+required.
+
+Please check the following when
+using 3D glasses.
+yy Do not use 3D glasses as ordinary
+glasses, sunglasses or protective
+goggles.
+- If you do so, this may cause injury.
+yy Do not store 3D glasses in very hot
+or very cold conditions. If you do, this
+may cause them to become distorted.
+Do not use distorted glasses.
+yy Do not drop 3D glasses or allow
+them to come into contact with other
+objects.
+- This may cause product malfunction.
+yy The lenses of 3D glasses are easily
+scratched. Use a soft clean cloth
+when cleaning them.
+yy Foreign particles on the cloth may
+cause scratches.
+yy Do not scratch the surface of the 3D
+glasses' lenses with sharp objects
+or wipe them with chemicals. If the
+lenses get scratched, images may not
+look normal when viewing 3D.
+
+3D FUNCTION
+
+51
+
+Requirements for Watching 3D Images
+* Optimum viewing angle: Top/Bottom/Left/Right 9°
+Recommended viewing distance: 3 m to 5 m
+Recommended screen size: 101 cm
+
+* Watching 3D videos should be done in dark room environments only.
+
+	NOTE
+yy 	The pairing with the DLP-LINK glasses is affected by the intensity of light reflected
+from the screen.
+Therefore, the pairing with DLP-LINK glasses may not work properly if the light
+reflected from the screen is not bright enough, such as when the surrounding area
+is bright, the screen is big, or the maximum energy saving mode is enabled.
+yy 	Some menus may not work while playing a 3D video.
+yy 	You can only watch a 3D video properly when the 3D video format option has been
+selected on the projector.
+
+52
+
+3D FUNCTION
+
+1	 Please check the minimum system requirements for your computer. Minimum
+requirements are as follows:
+
+Microsoft® Windows® XP, Vista 32/64 bit ,Windows 7 32/64 bit
+Intel® Core 2 Duo or AMD Athlon™ X2 CPU or higher
+More than 1 GB of system memory (2 GB recommended)
+Free space of 100 MB or more
+DirectX 9 or higher
+Video card should support 120 vertical frequency (Hz).
+Recommended video card requirements
+- Graphic Processor speed 700 MHz higher
+- Memory 512 MB higher
+yy 	A laptop equipped with the chipsets above can be used but it may not work properly.
+
+2	 Set the video output to XGA 120 Hz and play a video file using a video player that
+supports 3D output.
+The following video players support 3D output: Stereoscopic Player, nVidia 3D
+Vision, and TriDef 3D.
+For more information on the players above, please visit their websites at:
+www.3dtv.at
+www.nvidia.com
+www.tridef.com
+
+3D FUNCTION
+
+53
+
+To Use DLP-LINK (DLP-Ready) Type Glasses
+
+1	 While watching 3D images from the projector, press buttons on the glasses.
+2	When you press the button, the glasses flicker to be synchronized with the 3D
+
+images.
+(The flickering is a unique operation method of DLP-LINK type glasses. It may be
+different depending on the glasses type.)
+
+3	 If the glasses flicker or problems occur while watching 3D, first turn the lights off to
+make the room darker. Contact your projector seller for queries about the glasses.
+
+Supported 3D input formats
+Input
+
+Signal Resolution
+
+Vertical
+Frequency
+(Hz)
+
+Supported 3D Formats
+
+HDMI
+
+XGA
+
+1024 x 768
+
+120
+
+Frame Sequential / Frame Alternative
+
+RGB-PC
+
+XGA
+
+1024 x 768
+
+120
+
+Frame Sequential / Frame Alternative
+
+yy 	The resolution supporting 3D mode is 1024 x 768 for HDMI and RGB input.
+yy 	Some menus may not work in 120 Hz input.
+
+Watching 3D Images
+1  Play supported 3D video titles.
+2  For RGB-PC, you must press AUTO on the remote control before watching 3D.
+3  Press the 3D button.
+4  While watching 3D images from the projector, press buttons on the glasses.
+5  Press the L/R button to switch the playing direction of an image. Select a screen
+with better 3D display quality.
+yy 	If you press the 3D button during viewing, it returns to 2D.
+
+54
+
+CUSTOMIZING SETTINGS
+
+CUSTOMIZING SETTINGS
+SETTINGS
+* The illustration of the menu may differ from the actual screen on the product.
+The illustration of Settings is from the PW800G model.
+
+1	 Press the SETTINGS button.
+2	 Use the , , , or button to select the desired item and press the OK button.
+3	 Use the , , , or button to set up the desired item and press the OK button.
+4 Press the EXIT button when completed.
+Menu
+
+Description
+
+PICTURE
+
+Adjusts the image quality for optimal viewing.
+
+AUDIO
+
+Adjusts the sound quality and volume level.
+
+TIME
+
+Sets time-related settings.
+
+WIRELESS
+
+Wireless-related features.
+(Available for the PW800G model only.)
+
+INFORMATION
+
+Shows information about the Projector.
+(Available for the PW600G model only.)
+
+OPTION 1
+
+Customizes the general settings.
+
+OPTION 2
+
+Customizes the settings related the projector.
+
+INPUT
+
+Selects the desired input source.
+
+MY MEDIA
+
+Accesses photo, music, movie, and document files.
+
+55
+
+CUSTOMIZING SETTINGS
+
+PICTURE Settings
+1	 Press the SETTINGS button.
+2	 Use the , , , or button to select
+
+PICTURE
+
+PICTURE and press the OK button.
+
+3	 Use the
+
+, , , or button to set up the
+desired item and press the OK button.
+- To return to the previous menu, press the
+button.
+
+4 Press the EXIT button when completed.
+
+ꔂ Move ꔉ OK
+
+yy ꕊ Energy Saving
+
+: Medium
+
+yy Picture Mode	
+
+: Standard
+yy Contrast 100
+yy Brightness 50
+yy Sharpness 10
+yy Color
+
+55
+
+yy Tint
+
+0
+
+R
+
+G
+
+The available picture settings are described as follows.
+Item
+Energy
+Saving
+
+Picture
+Mode
+
+Contrast
+
+Description
+Reduces power consumption by adjusting peak screen brightness.
+Mode
+Minimum/
+Applies the pre-set Energy Saving mode.
+Medium/
+Maximum
+Selects the picture mode optimized for the viewing environment or the
+program.
+You can also customize advanced options for each mode.
+Mode
+Vivid
+Maximizes the visual effect of video.
+Heightens contrast, brightness and sharpness to display
+vivid images.
+Standard
+Displays images in standard levels of contrast,
+brightness and sharpness.
+Cinema
+Optimizes the image for a movie.
+Sport
+Optimizes the image for sports by emphasizing primary
+colors and dynamic actions.
+Game
+Optimizes the image for playing games on fast-moving
+screens.
+Expert1/2
+Menu for adjusting picture quality that allows experts
+and amateurs to enjoy the best Projector viewing.
+- Expert mode is for picture tuning professionals to
+control and fine-tune using a specific image. For
+normal images, the effects may not be dramatic.
+Adjusts the difference between bright and dark regions of the screen.
+
+56
+
+CUSTOMIZING SETTINGS
+
+Item
+
+Description
+
+Brightness Adjusts the overall screen brightness.
+Sharpness Adjusts the sharpness of the borders between bright and dark.
+Horizontal and Vertical Sharpness are available only in Expert1/2.
+Color
+Adjusts the intensity of all colors.
+Tint
+Adjusts the balance between red and green levels.
+Advanced Customizes the advanced settings.
+Control
+Picture
+Sets optional settings.
+Option
+Picture
+Resets values customized by the user.
+Reset
+Each picture mode is reset. Select the picture mode you wish to reset.
+Aspect
+Resizes the picture.
+Ratio
+Screen
+Adjusts the picture quality of RGB-PC input.
+(RGB-PC) Option
+Resolution
+
+Available resolutions are 768 resolution (1024 x 768/
+1280 x 768/ 1360 x 768, 60 Hz) and 1050 resolution
+(1400 x 1050/ 1680 x 1050, 60 Hz).
+Auto Config. Provides optimized picture quality by automatically
+calibrating the mismatch of horizontal width and picture
+shake caused by clashes between the internal settings
+of the projector and various PC graphic signals.
+yy You can also use the AUTO button on the remote
+control.
+Position
+Size
+Phase
+Reset
+
+Moves the image up/down/left/right.
+Changes the screen size.
+Makes the picture look clear by removing horizontal
+noise.
+Restores all the settings to the factory default.
+
+CUSTOMIZING SETTINGS
+
+57
+
+Advanced Control
+Item
+Dynamic
+Contrast
+Dynamic
+Color
+Color Gamut
+
+Description
+Adjusts contrast and colour to the optimal level according to the
+screen’s brightness.
+Adjusts colours for more natural-looking colours.
+Selects the range of colours that can be expressed.
+yy 	Standard: Displays the original colors of an input signal regardless
+of the display features.
+yy 	Wide: Makes use of the display's rich colors.
+
+Skin Color
+
+Skin colour spectrum can be separately set to implement the skin
+colour as defined by the user.
+Sky Color
+Sky colour is set separately.
+Grass Color Natural colour spectrum (meadows, hills, etc.) can be separately set.
+Gamma
+Sets the gradation curve according to the output of the picture signal in
+relation to the input signal.
+* Depending on input signal or other picture settings, the range of detailed items for
+adjustment may differ.
+
+Expert Control
+Item
+Description
+Dynamic
+Adjusts contrast and colour to the optimal level according to the
+Contrast
+screen’s brightness.
+Color Gamut Selects the range of colours that can be expressed.
+yy 	Standard: Displays the original colors of an input signal regardless
+of the display features.
+yy 	Wide: Makes use of the display's rich colors.
+Edge
+Enhancer
+Color Filter
+
+Shows clearer and distinctive yet natural edges of the video.
+Filters a specific colour spectrum in RGB colours to fine-tune colour
+saturation and hue accurately.
+
+58
+
+CUSTOMIZING SETTINGS
+
+Item
+Description
+Color
+In Expert mode, you can customize the options of each mode.
+Temperature Gamma: Select 1.9, 2.2, or 2.4.
+a. Method: 2 Points
+- Pattern: Inner, Outer
+- Points: Low, High
+-R
+ ed/Green/Blue: Adjustable range -50 to +50.
+- Apply to all inputs: T
+ he values of the Color Temperature is
+applied to all the input modes.
+b. Method: 20 Point IRE
+- Pattern: Inner, Outer
+- IRE (Institute of Radio Engineers) is the unit indicating the size
+of a video signal and can be set to 0, 5, 10, 15, ... 100.You can finetune for each setting as shown below.
+- Luminance: The adjustment range is 50 to 500.
+- Red/Green/Blue: The adjustment range is -50 to +50.
+- Apply to all inputs: The values of the Color Temperature is
+applied to all the input modes.
+Color
+Adjusts Red/Green/Blue/Cyan/Magenta/Yellow colors. Allows an
+Management expert to adjust the tint using a test pattern. Six colors (Red/Green/
+System
+Blue/Cyan/Magenta/Yellow) can be selectively adjusted without
+affecting other colors. You may not see colors change on a normal
+picture even after adjustment.
+-S
+ aturation Red/Green/Blue/Yellow/Cyan/Magenta,
+Tint Red/Green/Blue/Yellow/Cyan/Magenta,
+Luminance Red/Green/Blue/Yellow/Cyan/Magenta:
+The adjustment range is -30 to +30 each.
+* Depending on input signal or other picture settings, the range of detailed items for
+adjustment may differ.
+
+CUSTOMIZING SETTINGS
+
+59
+
+Picture Option
+Item
+
+Description
+
+Noise
+Reduction
+
+Reduces screen noise in the video.
+
+MPEG Noise
+Reduction
+
+Eliminates noise generated while creating digital picture signals.
+
+Black Level
+
+Adjusts the brightness or darkness of the screen to suit the black level of
+the picture input using the degree of darkness (black level) of the screen.
+
+Real Cinema
+
+Optimizes the screen for movie viewing.
+
+Color
+Temperature
+
+Adjusts the overall color of the screen to suit your preference.
+Select Warm, Cool, Medium, or Natural.
+
+60
+
+CUSTOMIZING SETTINGS
+
+AUDIO Settings
+1	 Press the SETTINGS button.
+2	 Use the , , , or button to select AUDIO
+and press the OK button.
+
+3	 Use the
+
+, , , or button to set up the
+desired item and press the OK button.
+- To return to the previous menu, press the
+button.
+
+AUDIO
+yySound Mode	
+
+ꔂ Move ꔉ OK
+
+: Standard
+
+yySound Effect
+yyAuto Volume	
+
+: Off
+
+4 Press the EXIT button when completed.
+
+The available audio settings are described as follows.
+Item
+Sound Mode
+
+Sound Effect
+
+Auto Volume
+
+Description
+Sets the sound mode.
+Mode
+Standard
+Suitable for all types of video.
+News/ Music/
+Sets audio optimized for a specific genre.
+Cinema/ Sport/
+Game
+The user can select various sound effects.
+Mode
+Clear Voice II
+Makes the voice from the projector crisp and clear.
+Virtual
+LG’s proprietary audio processing technology
+Surround
+allows 5 channel-like surround sound from two
+speakers.
+yy When Clear Voice II is set to on, Virtual
+Surround cannot be selected.
+Equalizer
+Adjusts the volume to a level of your choice using
+the Equalizer.
+yy Audio-band (100 Hz/ 300 Hz/ 1 kHz/ 3 kHz/
+10 kHz) can be adjusted from - 10 to 10.
+yy Reset: Resets voice options that the user has
+changed.
+Balance
+Adjusts the balance of the left and right speakers.
+Reset
+Initialize the applied effect under the Sound Effect
+menu.
+Automatically adjusts the volume level.
+
+CUSTOMIZING SETTINGS
+
+61
+
+TIME Settings
+1	 Press the SETTINGS button.
+2	 Use the , , , or button to select TIME
+and press the OK button.
+
+3	 Use the
+
+, , , or button to set up the
+desired item and press the OK button.
+- To return to the previous menu, press the
+button.
+
+TIME
+
+ꔂ Move ꔉ OK
+
+yySleep Timer	
+
+: Off
+
+yyAuto Off	
+
+: 60 min.
+
+yyAutomatic Standby : Off
+
+4 Press the EXIT button when completed.
+
+The available time settings are described as follows.
+Item
+Description
+Sleep Timer Turns off the Projector after a preset number of minutes.
+To cancel the Sleep Timer, select Off.
+Auto Off
+If there is no input signal or button press, the projector automatically
+turns off after the preset time has elapsed.
+Automatic Turns off the projector automatically after a set period of time if there is
+Standby
+no button input on the projector.
+
+62
+
+CUSTOMIZING SETTINGS
+
+WIRELESS Settings
+* Available for the PW800G model only.
+
+1	 Press the SETTINGS button.
+2	 Use the , , , or button to select
+
+WIRELESS
+yySCREEN SHARE
+
+WIRELESS and press the OK button.
+
+ꔂ Move ꔉ OK
+
+: [PJTR][LG]PW800[0000]
+yyGroup
+
+3	 Use the
+
+, , , or button to set up the
+desired item and press the OK button.
+- To return to the previous menu, press the
+button.
+
+yyChannel
+
+4 Press the EXIT button when completed.
+
+The available wireless settings are described as follows.
+Item
+SCREEN
+SHARE
+
+Description
+The SCREEN SHARE displays the screen of the connected device.
+yy You can check the SCREEN SHARE's ID.
+Mode
+Group
+This is the Group setting for each device supporting the
+SCREEN SHARE feature. When the wireless connection
+is weak or unstable, adjust the Group setting to correct
+the problem.
+Channel
+You can change the channel used for wireless
+connections.
+yy Search Channels: Select channel searching methods.
+-A
+ uto: The projector searches for available channels
+and automatically selects the least used channel.
+- Manual: You can select a channel manually.
+yy Channel: This is shown when Search Channels is set
+to Manual. It allows you to specify a channel number
+to use.
+
+CUSTOMIZING SETTINGS
+
+63
+
+INFORMATION
+* Available for the PW600G model only.
+
+1	 Press the SETTINGS button.
+2	 Use the , , , or button to select
+
+? INFORMATION
+
+INFORMATION and press the OK button.
+?
+
+The following are INFORMATION-related items.
+Item
+Model Name
+INPUT
+
+Description
+Shows the model name of the product.
+Shows the current status of inputs.
+
+ꔂ Move ꔉ OK
+
+yyModel Name 		
+
+: PW600
+
+yyINPUT 		
+
+: RGB-PC
+
+64
+
+CUSTOMIZING SETTINGS
+
+OPTION 1 Settings
+1	 Press the SETTINGS button.
+2	 Use the , , , or button to select
+
+OPTION 1
+
+ꔂ Move ꔉ OK
+
+yyLanguage
+
+OPTION 1 and press the OK button.
+
+yy3D Mode
+
+3	 Use the
+
+yyAuto Input Search : Off
+
+, , , or button to set up the
+desired item and press the OK button.
+- To return to the previous menu, press the
+button.
+
+yyDivX(R) VOD
+yyInitial Setting
+yyMode Setting	
+
+: Standard
+
+4 Press the EXIT button when completed.
+
+The available option 1 settings are described as follows.
+Item
+
+Description
+
+Language
+
+Selects a desired Menu Language.
+
+3D Mode
+
+Selects 3D mode.
+
+Auto Input
+Search
+
+Automatically searches for and displays the input signal type
+when it is received. It is available only with external inputs
+(RGB-PC, HDMI, AV, and Component).
+
+DivX(R) VOD
+
+Sets DivX related settings.
+
+Initial Setting
+
+Resets all the projector settings to the factory default.
+Do not turn off the power during initialization.
+
+Mode Setting
+
+Selects Standard or Store Demo.
+When in use in home, please select Standard.
+Store Demo mode is for store display.
+
+65
+
+CUSTOMIZING SETTINGS
+
+OPTION 2 Settings
+1	 Press the SETTINGS button.
+2	 Use the , , , or button to select
+
+OPTION 2
+
+ꔂ Move ꔉ OK
+
+yyKeystone		
+
+OPTION 2 and press the OK button.
+
+3	 Use the
+
+, , , or button to set up the
+desired item and press the OK button.
+- To return to the previous menu, press the
+button.
+
+0
+
+yyAuto Keystone
+
+: On
+
+yyPJT Mode
+
+: Front
+
+yyHigh Altitude
+
+: Off
+
+yyBlank Image
+
+: Blue
+
+yyAuto Power
+
+: Off
+
+-
+
++
+
+yySelf Diagnosis
+
+4 Press the EXIT button when completed.
+
+The available option 2 settings are described as follows.
+Item
+
+Description
+
+Keystone
+
+To prevent the screen image from becoming trapezoidal,
+Keystone adjusts the top and bottom width of the image if the
+projector is not set at a right angle to the screen.
+
+Auto Keystone
+
+Auto Keystone provides a rectangular screen image by
+automatically adjusting the Keystone number when there is a
+trapezoidal screen image caused by tilting of the projector.
+Item
+On
+
+Automatically adjusts the Keystone number.
+
+Off
+
+Manually adjusts the Keystone number.
+
+PJT Mode
+
+This function turns the projected image upside down or flips horizontal.
+yy Select Rear when projecting from the back of the transparent
+screen purchased separately.
+yy Select Front Ceiling when installing the product on the ceiling.
+yy When PJT Mode is Rear/ Front Ceiling, the left/right of the
+speaker changes automatically.
+
+High Altitude
+
+If the projector is used at an altitude higher than 1200 meters,
+turn this on.
+Otherwise, the projector may overheat or its protection function
+may be activated. If this happens, turn the projector off and then
+on again after waiting for several minutes.
+
+Blank Image
+
+Selects a background for blank Image.
+
+66
+
+CUSTOMIZING SETTINGS
+
+Item
+Auto Power
+
+Description
+Makes the projector turn on automatically when the adaptor plug
+is inserted.
+Item
+On
+Off
+
+Self Diagnosis
+
+When the AC/DC plug is connected to the
+projector, it turns on automatically.
+When the AC/DC plug is connected to the
+projector, it goes into standby mode.
+
+Troubleshoots functional problems that can arise while using the
+product.
+
+CONNECTING DEVICES
+
+67
+
+CONNECTING DEVICES
+You can connect various external devices to the projector.
+
+Computer/Notebook
+
+DVD
+
+Video
+
+Digital Device
+USB
+
+Game Console
+
+Headphones
+Mobile Phone
+
+HDMI - page 68
+Component - page 69
+Composite (AV) - page 69
+RGB - page 71
+USB Device - page 31
+Headphone - page 73
+Mobile Phone (MHL/Slimport) - page 74
+
+68
+
+CONNECTING DEVICES
+
+Connecting to HD
+Receiver, DVD, VCR
+Player, or External
+Devices
+Connect an HD receiver, DVD, VCR
+player, or External Devices to the
+projector and select an appropriate input
+mode.
+
+HDMI to DVI Connection
+Using an HDMI to DVI cable, connect
+the projector's
+port to the DVI
+OUT port.
+To output audio, use an audio cable for
+connection.
+Press the INPUT button on the remote
+control to select HDMI.
+
+HDMI Connection
+With an HDMI cable, you can enjoy high
+quality picture and sound.
+Using a HDMI cable, connect the
+port of the projector to the
+HDMI output port of the device to
+connect. Both video and audio are
+output at the same time.
+Press the INPUT button on the remote
+control to select HDMI.
+
+* Not
+provided
+
+DVI OUT
+
+* Optional
+Extras
+
++'0,
+
+* Optional
+Extras
+
+AUDIO OUT
+
+CONNECTING DEVICES
+
+69
+
+AV Connection
+
+Component Connection
+
+Connect the output ports of an external
+device and the AV IN ports of the
+projector using an AV cable. Press the
+INPUT button on the remote control to
+select AV.
+Check whether cables of the same color
+are connected properly.
+
+You can enjoy a video by connecting the
+Component port of an external device to
+the RGB IN port of the projector. Press
+the INPUT button on the remote control
+to select Component.
+Check whether cables of the same color
+are connected properly.
+
+* Optional
+Extras
+(Video)
+
+* Accessories
+
+RED
+RED
+
+RED
+
+WHITE
+
+RED
+
+BLUE
+
+WHITE
+
+BLUE
+
+GREEN
+
+YELLOW
+
+GREEN
+
+* Not
+provided
+(Audio)
+
+* Optional
+Extras
+(Video)
+
+RED
+
+WHITE
+
+RED
+
+BLUE
+
+GREEN
+
+RED
+
+WHITE
+/HIW
+
+RED
+
+WHITE
+
+YELLOW
+
+YELLOW
+
+9,'(2287
+
+RED
+
+WHITE
+
+YELLOW
+
+* Not
+provided
+
+* Accessories
+(Audio)
+
+5LJKW
+
+$8',2287
+
+<
+
+3%
+9,'(2287
+
+35
+
+/HIW
+
+5LJKW
+/HIW
+
+9,'(2287
+$8',2287
+
+5LJKW
+
+$8',2287
+
+70
+
+CONNECTING DEVICES
+
+Connecting a PC
+The projector supports Plug & Play. Your
+PC will automatically detect the projector
+and requires no driver installation.
+
+HDMI Connection
+Using an HDMI cable, connect the
+port of the projector to the
+HDMI output port of your PC. Both video
+and audio are output at the same time.
+Press the INPUT button on the remote
+control to select HDMI.
+
+HDMI to DVI Connection
+Using an HDMI to DVI cable, connect
+the projector's
+port to the DVI
+OUT port.
+To output audio, use an audio cable for
+connection.
+Press the INPUT button on the remote
+control to select HDMI.
+
+* Not
+provided
+
+* Optional
+Extras
+
+* Optional
+Extras
+
+DVI OUT
+
++'0,
+
+AUDIO OUT
+
+CONNECTING DEVICES
+
+71
+
+RGB Connection
+Connect the PC output and the PC video
+input port of the projector with the RGB
+cable.
+For audio signal, connect the PC and
+the projector with an optional audio
+cable.
+Press the INPUT button on the remote
+control to select RGB-PC.
+* Optional
+Extras
+
+* Optional
+Extras
+
+* Accessories
+RED
+
+WHITE
+
+YELLOW
+
+* Optional
+Extras
+
+5*%2873&
+RED
+
+WHITE
+
+* Not
+provided
+
+5*%2873&
+
+$8',2287
+
+$8',2287
+
+You can connect the audio cable
+without using a gender as shown in the
+illustration above.
+
+72
+
+CONNECTING DEVICES
+
+Connecting a Laptop
+You can connect the projector to a
+laptop to use various functions.
+
+HDMI Connection
+Using an HDMI cable, connect the
+port of the projector to the
+HDMI output port of your laptop. Both
+video and audio are output at the same
+time.
+Press the INPUT button on the remote
+control to select HDMI.
+
+The table below shows examples
+of switching the output. For more
+information, refer to the External
+Output, Connecting to an External
+Monitor, or similar sections of the
+owner's manual of your computer.
+Brand
+
+Switching Output
+
+NEC
+
+Fn + F3
+
+Panasonic
+
+Fn + F3
+
+Toshiba
+
+Fn + F5
+
+IBM
+
+Fn + F7
+
+Sony
+
+Fn + F7
+
+Fujitsu
+
+Fn + F10
+
+LG
+
+Fn + F7
+
+Samsung
+
+Fn + F4
+
+Macintosh Adjust the control panel
+to enable mirroring after
+start-up.
+
+* Optional
+Extras
+
++'0,
+
+CONNECTING DEVICES
+
+Connecting to
+Headphones
+You can listen to the audio through a
+headphone.
+
+* Not
+provided
+
+73
+
+74
+
+CONNECTING DEVICES
+
+Using the Mirroring Function of a Mobile Phone
+MHL/Slimport Connection
+You must use a HDMI adapter to connect your cell phone to the projector and to
+output images and sound from your cell phone to the projector.
+The compatible HDMI adapters are different, depending upon your cell phone type.
+Therefore, purchase an appropriate MHL or Slimport adapter.
+(To find out whether your device is MHL/Slimport-certified, please contact your device
+manufacturer.)
+
+* Optional Extras
+
+	 NOTE
+port, you can see the mobile
+yy 	When you connect a mobile phone to the
+phone screen through a projector.
+- This only applies to mobile phones that support MHL/Slimport.
+- You can use the remote control for some applications.
+yy 	Disconnect the MHL/Slimport cable from the projector when:
+- The MHL/Slimport function is disabled.
+- Your mobile device is fully charged in standby mode.
+
+MAINTENANCE
+
+MAINTENANCE
+Clean your projector to keep it in optimal
+condition.
+
+Cleaning
+Cleaning the Lens
+If there is any dust or staining on the
+lens surface, you must clean the lens.
+Use an air spray or a cleaning cloth to
+clean the lens.
+To remove dust or stains, use an
+air spray or apply a small amount of
+cleaning agent onto a swab or soft cloth
+to lightly rub the lens.
+Please be aware that liquid may flow
+into the lens if the product is sprayed
+directly onto the lens.
+
+Cleaning the Projector
+Case
+To clean the projector case, first unplug
+the power cord.
+To remove dust or stains, use only a dry,
+lint-free, nonabrasive cloth to polish the
+lens.
+Do not use alcohol, benzene, thinners,
+or other chemicals, which may damage
+the case.
+
+75
+
+76
+
+SPECIFICATIONS
+
+SPECIFICATIONS
+MODELS
+Resolution (Pixel)
+Aspect ratio
+Panel size (mm)
+Projection distance
+(Video size)
+Ratio of upward
+projection
+Working range of
+the remote control
+Video input
+AC-DC Adaptor
+Audio Output
+Height (mm)
+Width (mm)
+Depth (mm)
+Weight ( )
+USB Device
+Power
+
+Operation
+environment
+
+PW600G (PW600G-GL) /
+PW800G (PW800G-GL)
+1280 (Horizontal) × 800 (Vertical)
+16:10 (Horizontal:Vertical)
+11.623
+0.80 m to 3.25 m (63.5 cm to 254.0 cm)
+100 %
+6m
+NTSC M / PAL-B, D, G, H, I / PAL M / PAL N / PAL 60 /
+SECAM
+19.0 V
+, 3.42 A
+(Adaptor Input 100-240 V @ 50/60 Hz)
+1W+1W
+50 (without foot), 53 (with foot)
+139
+139
+PW600G
+580
+PW800G
+600
+5 V, 0.5 A (Max.)
+AC 100 - 240 V~, 50 Hz/60 Hz
+Temperature
+Operation
+0 °C to 40 °C
+Storage
+-20 °C to 60 °C
+Relative Humidity
+Operation
+0 % to 80 %
+Storage
+0 % to 85 %
+
+* Use only power supplies listed in the user instructions.
+* Contents in this manual may be changed without prior notice due to upgrade of
+product functions.
+
+SPECIFICATIONS
+
+77
+
+Supported RGB-PC/HDMI(PC) Mode
+
+Supported HDMI/DVI-DTV Mode
+
+Horizontal
+Resolution Frequency
+(kHz)
+
+Horizontal
+Vertical
+Resolution Frequency Frequency
+(kHz)
+(Hz)
+
+Vertical
+Frequency
+(Hz)
+
+640 x 350
+
+31.468
+
+70.09
+
+720 x 400
+
+31.469
+
+70.08
+
+640 x 480
+
+31.469
+
+59.94
+
+800 x 600
+
+37.879
+
+60.31
+
+1024 x 768
+
+48.363
+97.551
+
+60.00
+120
+
+1152 x 864
+
+54.348
+
+60.053
+
+1280 x 800
+
+49.68
+
+60
+
+1360 x 768
+
+47.712
+
+60.015
+
+1280 x 1024
+
+63.981
+
+60.02
+
+1400 x 1050
+
+65.317
+
+59.979
+
+1680 x 1050
+
+65.3
+
+60
+
+yy 	If an invalid signal is input into the
+projector, it will not be displayed
+properly on the screen or a message
+such as No Signal or Invalid Format
+will be displayed.
+yy 	The projector supports the DDC1/2B
+type as the Plug & Play function
+(Auto-recognition of PC monitor).
+yy 	PC synchronization signal
+types supported: Separate type
+synchronization.
+yy 	In PC mode, 1280 x 800 is
+recommended for the best picture
+quality.
+
+480p
+
+31.47
+31.47
+31.50
+
+60
+59.94
+60
+
+576p
+
+31.25
+
+50
+
+720p
+
+45.00
+44.96
+37.5
+
+60.00
+59.94
+50
+
+1080i
+
+33.75
+33.72
+28.125
+
+60.00
+59.94
+50
+
+1080p
+
+67.500
+67.432
+27.000
+26.97
+33.75
+33.71
+56.25
+
+60
+59.939
+24.000
+23.976
+30.000
+29.97
+50
+
+yy To provide the best picture quality,
+a 1280 x 720 (720p) resolution is
+recommended.
+
+Component port connecting
+information
+Signal
+
+Component
+
+480i / 576i
+
+o
+
+480p / 576p
+
+o
+
+720p / 1080i
+
+o
+
+1080p
+
+o
+(50 Hz / 60 Hz only)
+
+78
+
+SPECIFICATIONS
+
+Open Source Software Notice
+Information
+To obtain the source code under GPL,
+LGPL, MPL, and other open source
+licenses, that is contained in this product,
+please visit http://opensource.lge.com.
+In addition to the source code, all
+referred license terms, warranty
+disclaimers and copyright notices are
+available for download.
+LG Electronics will also provide open
+source code to you on CD-ROM for a
+charge covering the cost of performing
+such distribution (such as the cost of
+media, shipping, and handling) upon
+email request to opensource@lge.com.
+This offer is valid for three (3) years from
+the date on which you purchased the
+product.
+
+The model and serial number of the projector
+are located on the back or on the side of the
+projector. Record them below should you ever
+need service.
+
+MODEL
+SERIAL
