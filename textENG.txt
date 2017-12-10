@@ -49,10 +49,8 @@ Door handle
 18
 Introduction
 The appliance is suitable for storing the frozen goods.
-It is restricted for household use.
-If it is used for industrial or
-commercial purpose, observe the related regulations firmly.
-If
+It is restricted for household useIf it is used for industrial or
+commercial purpose, observe the related regulations firmlyIf
 using other purpose or misuse, the manufacturer is not
 responsible for the damages of occasion.
 Ignoring the recommendations for environmental use will
@@ -63,22 +61,19 @@ located in accordance with the Installation
 Instruction before it is used.
 Precaution
 Never unplug your fridge-freezer by pulling on the
-power cord.
-Always grip plug firmly and pull straight
+power cordAlways grip plug firmly and pull straight
 out from the outlet.
 When moving your appliance away from the wall,
 be careful not to roll over or damage the power
 cord.
 After your fridge-freezer is in operation, do not
 touch the cold surfaces in the freezer compartment,
-particularly when hands are damp or wet.
-Skin may
+particularly when hands are damp or wetSkin may
 adhere to these extremely cold surfaces.
 Pull out the power plug prior to cleaning the fridgefreezer.
 Never damage, severely bend, pull out, or twist the
 power cord because power cord damage may cause a
-fire or electronic shock.
-Never place glass products in the
+fire or electronic shockNever place glass products in the
 freezer because they may be broken when their inner
 contents are frozen.
 If possible, connect the fridge-freezer to its own
@@ -104,14 +99,12 @@ packing of new appliance
 Disposal of the old
 appliance
 The old appliance whose life has expired should be
-destroyed in order to make it safe prior to disposal.
-Take
+destroyed in order to make it safe prior to disposalTake
 out power plugs, separate connection wires and remove
 or destroy all springs, latches or bolting, to prevent
 children from being trapped during play.
 For environmental protection, old refrigerators should be
-disposed off by a professional disposition agency.
-If you
+disposed off by a professional disposition agencyIf you
 have any question, please consult with the local sale
 agency or local authority.
 Disposal of
@@ -130,27 +123,23 @@ made of parts and materials which are reusable and/or
 recyclable.
 All the important materials should be sent to the
 collection center of waste material and can be reused
-after rework (recycling).
-For take back, please contact
+after rework (recycling)For take back, please contact
 with the local agency.
 6
 Identification of Parts
 NOTE
-This is a basic model.
-The shape of refrigerator is
+This is a basic modelThe shape of refrigerator is
 subject to change.
 7
 Installation
 Location
 This appliance is suitable for using at ambient
-temperature between +16°C and +38°C.
-If the ambient
+temperature between +16°C and +38°CIf the ambient
 temperature drops below +16°C, it is possible that the
 freezing foods in the freezer compartment are thawed
 because the temperature of the freezer gets warm.
 We recommend that the refrigerator be installed at a dry
-and well ventilated place.
-Make sure that the appliance is
+and well ventilated placeMake sure that the appliance is
 not exposed to direct sunlight or placed in vicinity of a
 heat source such as stove, heaters, radiator.
 To ensure proper air circulation around the fridge -freezer,
@@ -164,8 +153,7 @@ and by clients in hotels, motels and other residential type
 environments; bed and breakfast type environments;
 catering and similar non-retail applications.
 NOTE
-Place on a flat and firm flooring.
-If the floor is not
+Place on a flat and firm flooringIf the floor is not
 even, adjust the feet by using the leveling screw
 at the front edge of the cabinet.
 If the front is slightly higher than the rear, the door
@@ -174,8 +162,7 @@ can close more easily.
 Installation
 Electrical connection
 This appliance should be connected to the mains AC
-220240V , 50 Hz.
-You must connect this appliance only
+220240V , 50 HzYou must connect this appliance only
 to the power socket with grounding complying with the
 related regulations and only an approved expert should
 install this appliance.
@@ -191,18 +178,15 @@ on LED is "-18°C".
 Button K1 (Defrost):
 Press button K1 for three seconds the first time, indicator "-",
 "°C", "h" shut off, compressor stop running and the value
-displayed onLED is"OF".
-Press button K1 for three seconds the
+displayed onLED is"OF"Press button K1 for three seconds the
 second time ,indicator "-", "°C", "h" display normally,
 compressor runningnormally and LED displays the initial state.
 Button K2 (Quick freezing):
 Press butoon K2 for the first time, indicator "-", "°C"shut off,
 indicator "h" light on and initial freezing time displayed is"3h".
 Press button K2 for the second time the freezing time displayed
-is "2h".
-Press button K2 for the third time the freezing time
-displayed is "1h".
-The compressor will ren from 1hour to
+is "2h"Press button K2 for the third time the freezing time
+displayed is "1h"The compressor will ren from 1hour to
 3 hours according to the freezing time displayed on LED.
 Press button K2 for the fourth time, the indicators will recover
 the state before quick freeze.
@@ -213,26 +197,22 @@ displayed will be from -14°C to -24°C circularly.
 Suggestion on food storage
 Storing food
 Opening the door often or keeping the door opened a
-long time, increases the inside temperature.
-This causes
+long time, increases the inside temperatureThis causes
 the storage life and flavor of the foods to reduce, and
 increases the energy consumption.
 Do not touch deep-frozen foods with wet hands.
 You could get chilblains on your hands.
 NOTE
 Make sure foods that are not frozen do not touch the
-frozen foods.
-The frozen foods may melt.
+frozen foodsThe frozen foods may melt.
 The packing materials suitable for refrigerating the foods are
 - Polyethylene bags, Plastic foil, freezing containers.
 The suitable wrapping materials are
 - Rubber band, Plastic clips, attaching tape, string.
 Before sealing, get rid of air from packing bags and foil.
 The remained air makes the storing foods dry.
-You can freeze foods quickly when packing is level.
-Do
-not store bottles in freezer compartment.
-They may
+You can freeze foods quickly when packing is levelDo
+not store bottles in freezer compartmentThey may
 break when frozen.
 Making Ice
 To make ice cubes, fill ice
@@ -255,8 +235,7 @@ automatically when the compressor stops.
 Defrosting the freezer compartment
 Humidity forms frost or ice in the freezer compartment
 while the appliance is working or when the freezer door
-is opened.
-The thick ice and frost decrease cool air and
+is openedThe thick ice and frost decrease cool air and
 increase the energy consumption.
 Defrost Ice Layer
 If the freezer compartment is heavily iced, defrost as
@@ -273,10 +252,8 @@ s
 Tip
 NOTE
 Never place electrical devices in the refrigerator
-for defrost.
-Take care when using defrosting sprays
-for assisting defrosting.
-These sprays include
+for defrostTake care when using defrosting sprays
+for assisting defrostingThese sprays include
 substances containing explosive gas, or harmful for
 synthesis or human health.
 11
@@ -289,8 +266,7 @@ which could break refrigerant circuit resulting in
 environmental and health risks.
 Never use steam cleaner or steam pressure cleaner since
 hot steam may damage refrigerator surface and electrical
-devices.
-Never use sand, abrasive detergent, acid or
+devicesNever use sand, abrasive detergent, acid or
 chemical solvent.
 The freezer compartment should be cleaned at least
 once a month.
@@ -298,12 +274,10 @@ The most appropriate time for cleaning of the freezer
 compartment is a time after defrosting.
 Warning
  Clean refrigerator including inside devices with clothes
-or lukewarm water.
-You may use commercial
+or lukewarm waterYou may use commercial
 detergent for tableware.
 Frequently clean the water drain inlet on the inside rear
-side of refrigerator.
-Clean the drain inlet using objects
+side of refrigeratorClean the drain inlet using objects
 like a toothpick so that the drain inlet is not clogged.
 Care should be taken so that cleaning water does not
 overflows in the drain tub.
@@ -315,8 +289,7 @@ Do not use appliance wax, bleach, or other products
 containing chlorine on stainless steel.
 Regularly clean the heat exchanger on the rear side of
 refrigerator using a smooth brush so that accumulations
-of dusts and residues.
-Do not disrupt expansion from the
+of dusts and residuesDo not disrupt expansion from the
 inside and cause increased energy consumption.
 Any damage to the heat exchanger or other events
 leading to the exposure of the refrigerant to the
@@ -332,17 +305,14 @@ odor formation.
 Going away
 Power failure
 Most power failures are corrected in an hour or two and
-will not affect your refrigerator temperatures.
-However,
+will not affect your refrigerator temperaturesHowever,
 you should minimize the number of door openings while
-the power is OFF.
-During power failures of longer
+the power is OFFDuring power failures of longer
 duration, place a block of dry ice on top of your frozen
 packages.
 If you move
 Remove all items inside the refrigerator or securely fasten
-all loose items.
-To avoid damaging the leveling screw,
+all loose itemsTo avoid damaging the leveling screw,
 turn them all the way into the base.
 The Anti-condensation pipe is
 installed around the front side
@@ -362,16 +332,13 @@ Tips for saving Energy
 - After moving the appliance, allow 2 hours to turn
 on again.
 - Do not place the appliance near radiator, stove,
-and heat sources.
-If ambient temperature is high,
+and heat sourcesIf ambient temperature is high,
 the compressor will run longer.
 - Place the appliance on a cool and well ventilated
-room.
-Do not expose to direct sunlight.
+roomDo not expose to direct sunlight.
 - Do not keep the door opened too long.
 - Do not place warm food and beverages in
-appliance.
-Please cool down first otherwise
+appliancePlease cool down first otherwise
 the steam from hot foodstuffs would contribute
 to the icing up of the evaporator unit; and the
 cooling period should be as short as possible, for
@@ -441,50 +408,36 @@ cabinet surface
 To Reverse the Doors
 How to Reverse the Door
 Your refrigerator is designed with a reversible door, so
-you may open from either left or right.
-It is best to
+you may open from either left or rightIt is best to
 reposition the door hinge as necessary at the outset since
 it is inconvenient to do so later.
 To change the door hinge please refer to the diagram
 below and proceed as follows.
 Precaution
-1.
-First unplug the appliance.
-2.
-Remove foods and accessories like shelves or trays
+1First unplug the appliance.
+2Remove foods and accessories like shelves or trays
 which are not fixed in the refrigerator.
-3.
-Carefully lay the appliance on a cushion like packing
+3Carefully lay the appliance on a cushion like packing
 material to avoid the damage of refrigeration circuit.
-4.
-Use ‘+’ driver or spanner to fix or remove the bolts.
-1.
-Unscrew the 2xBOLTS , then remove the hinge (L) .
-2.
-Remove the LEG .
-3.
-Gently pull the door downwards to remove it.
-4.
-Before refitting the door, swap the Hinge Cap  by pulling
+4Use ‘+’ driver or spanner to fix or remove the bolts.
+1Unscrew the 2xBOLTS , then remove the hinge (L) .
+2Remove the LEG .
+3Gently pull the door downwards to remove it.
+4Before refitting the door, swap the Hinge Cap  by pulling
 it out from its current location and repositioning it on the
-other side of the door.
-Care should be taken not to damage
+other side of the doorCare should be taken not to damage
 the adjacent surfaces when removing the Hinge Cap.
-5.
-Unscrew the Upper Hinge pin (U)  and screw it into the
+5Unscrew the Upper Hinge pin (U)  and screw it into the
 opposite side hole.
 4
 17
 4
 To Reverse the Doors
 How to Reverse the Door
-6.
-After refitting the door, fix the Lower Hinge(L) in the
+6After refitting the door, fix the Lower Hinge(L) in the
 opposite side by using 2xBOLTS.
-7.
-Fix the Leg.
-8.
-Carefully place the appliance in an upright position.
+7Fix the Leg.
+8Carefully place the appliance in an upright position.
 Adjust the Leveling screw to make sure the appliance
 is steady and check that the door opens and closes
 properly.
@@ -492,8 +445,7 @@ NOTE
 In case of applying Reversible door, when you close
 the door with excessive force, there could be the case
 that the door doesn’t close because of Reaction
-force.
-Please ascertain if the door closes properly.
+forcePlease ascertain if the door closes properly.
 Door handle (Option)
 Note
 Reversing the doors is not covered by the warranty.

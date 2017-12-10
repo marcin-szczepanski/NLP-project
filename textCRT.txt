@@ -49,11 +49,9 @@ Ručka vrata
 18
 Uvod
 Uređaj je namijenjen za spremanje smrznute robe.
-IUpotreba uređaja je ograničena na kućanstvo.
-U slučaju
+IUpotreba uređaja je ograničena na kućanstvoU slučaju
 industrijske ili komercijalne upotrebe, strogo se pridržavajte
-odgovarajućih odredbi.
-U slučaju upotrebe uređaja u druge
+odgovarajućih odredbiU slučaju upotrebe uređaja u druge
 svrhe ili nepravilne upotrebe, proizvođač ne odgovara za štete
 nastale u tim slučajevima.
 U slučaju nepridržavanje preporuka za ekološku upotrebu
@@ -77,10 +75,9 @@ Prije čišćenje hladnjaka-zamrzivača, iskopčajte utikač
 uređaja iz utičnice.
 Pazite da ne oštetite, jako ne savijate, potežete ili ne
 uvrćete električni kabel, jer oštećeni električni kabel
-može izazvati požar ili strujni udar.
-Nikada ne stavljajte
+može izazvati požar ili strujni udarNikada ne stavljajte
 staklene posude u zamrzivač, jer mogu puknuti kada
-se sadržaj u njima zaledi .
+se sadržaj u njima zaledi
 Ne koristite
 produžni kabel
 Ako postoji mogućnost, priključite hladnjak-zamrzivač
@@ -181,20 +178,16 @@ Za preuzimanje materijala, molimo kontaktirajte
 lokalnu službu.
 Uklanjanje
 starog aparata
-1.
-Ako se na proizvodu nalazi simbol prekrižene kante za
+1Ako se na proizvodu nalazi simbol prekrižene kante za
 smeće, to znači da je proizvod pokriven europskom
 direktivom 2002/96/EC.
-2.
-Električni i elektronski proizvodi ne smiju se odlagati
+2Električni i elektronski proizvodi ne smiju se odlagati
 zajedno s komunalnim otpadom, već u posebna
 odlagališta koja je odredila vlada ili lokalne vlasti.
-3.
-Pravilno odlaganje starog proizvoda sprečit će
+3Pravilno odlaganje starog proizvoda sprečit će
 potencijalne negativne posljedice po okoliš i zdravlje
 ljudi.
-4.
-Podrobnije informacije o odlaganju starog proizvoda
+4Podrobnije informacije o odlaganju starog proizvoda
 potražite u gradskom uredu, službi za odlaganje
 otpada ili u trgovini u kojoj ste kupili proizvod.
 6
@@ -213,15 +206,13 @@ Oblik hladnjaka je podložan promjenama.
 Instaliranje
 Mjesto postavljanja
 Ovaj uređaj je namijenjen za upotrebu u sredinama koje
-imaju temperaturu od +16°C do +38°C.
-Ako se
+imaju temperaturu od +16°C do +38°CAko se
 temperatura sredine spusti ispod +16°C, postoji
 mogućnost da smrznuta hrana u odjeljku zamrzivača
 postane mekana, zbog porasta temperature unutar
 zamrzivača.
 Preporučujemo postavljanje hladnjaka na suhom i dobro
-prozračenom mjestu.
-Pazite da uređaj ne bude izložen
+prozračenom mjestuPazite da uređaj ne bude izložen
 izravnoj sunčevoj svjetlosti, uređaj ne postavljajte u
 blizini izvora topline kao što su peći, radijatori i drugi
 grijači.
@@ -233,8 +224,7 @@ sobama i drugim stambenim prostorima, u iznajmljivanju
 soba i apartmana, u serviranju hrane i drugim
 ne-maloprodajnim primjenama.
 NAPOMENA
-Postavite uređaj na ravan i čvrst pod.
-Ako pod nije
+Postavite uređaj na ravan i čvrst podAko pod nije
 ravan, podesite nožice pomoću vijaka za podešavanje
 visine na prednjoj strani hladnjaka.
 Ako je prednji dio malo viši od zadnjeg dijela, vrata
@@ -261,8 +251,7 @@ stanje LED (svjetleće diode) "-18°C".
 Tipka K1 (Odmrzavanje (Defrost):
 Prvi put pritisnite tipku K1 tri sekunde, indikator "-", "°C",
 "h" isključeno, kompresor ne radi, a zaslonu LED prikazuje
-"OF" (isključeno).
-Drugi put pritisnite tipku K1 tri sekunde,
+"OF" (isključeno)Drugi put pritisnite tipku K1 tri sekunde,
 indikator "-", "°C", "h" prikazuje normalno, kompresor
 normalno radi, a LED prikazuje početno stanje.
 Tipka K2 (Brzo odmrzavanje (Quick freezing):
@@ -270,10 +259,8 @@ Prvi put pritisnite tipku K2, indikator "-", "°C" isključeno,
 indikator "h" svijetli, početno vrijeme zamrzavanja prikazuje
 "3h".
 Drugi put pritisnite tipku K2 i prikazat će se vrijeme
-zamrzavanja "2h".
-Kada treći put pritisnete tipku K2
-prikazat će se vrijeme zamrzavanja "1h".
-Kompresor će
+zamrzavanja "2h"Kada treći put pritisnete tipku K2
+prikazat će se vrijeme zamrzavanja "1h"Kompresor će
 raditi od 1 sat (h) do 3 sata, u skladu s vremenom
 zamrzavanja koje prikazuje LED zaslon.Kada četvrti put
 pritisnete tipku K2, indikatori će se vratiti na stanje prije
@@ -292,8 +279,7 @@ NAPOMENA
 Ne dirajte mokrim rukama jako zamrznutu hranu.
 Na rukama možete zadobiti ozebline.
 Pazite da hrana koja nije smrznuta ne dodiruje zamrznutu
-hranu.
-Tako se zamrznuta hrana može odmrznuti.
+hranuTako se zamrznuta hrana može odmrznuti.
 Materijali prikladni za spremanje hrane u hladnjak su:
 - Polietilenske vrećice, plastične folije, posude za
 zamrzavanje.
@@ -325,8 +311,7 @@ se stvara mraz, koji se automatski topi kada kompresor
 prestane s radom.
 Odmrzavanje odjeljka zamrzivača
 Vlaga stvara mraz ili led u odjeljku zamrzivača kada
-uređaj radi ili kada se otvore vrata zamrzivača.
-Debeli
+uređaj radi ili kada se otvore vrata zamrzivačaDebeli
 led i mraz smanjuju zrak koji hladi, a povećavaju
 potrošnju energije.
 Odmrzavanje sloja leda
@@ -367,11 +352,9 @@ mjesečno.
 Najprikladnije vrijeme za čišćenje odjeljka zamrzivača je
 odmah nakon odmrzavanja.
 Hladnjak i unutarnje dijelove čistite krpom ili mlakom
-vodom.
-Možete koristit i sredstva za čišćenje namještaja.
+vodomMožete koristit i sredstva za čišćenje namještaja.
 Dobro je često čistiti odvod za vodu unutar hladnjaka,
-na zadnjoj stijeni.
-Odvod očistite pomoću čačkalice kako
+na zadnjoj stijeniOdvod očistite pomoću čačkalice kako
 ne bi došlo da začepljenja.
 Potrebno je paziti da voda za čišćenje ne prepuni posudu
 za odvod.
@@ -384,8 +367,7 @@ Na nehrđajući čelik ne primjenjujte vosak, bjelilo ili druge
 proizvode koji sadržavaju klor.
 Pomoću mekane četke redovito čistite izmjenjivač topline
 na zadnjoj strani hladnjaka, kako bi uklonili nečistoću i
-prašinu.
-Ne remetite ekspanziju iz unutrašnjosti, jer ćete
+prašinuNe remetite ekspanziju iz unutrašnjosti, jer ćete
 tako povećati potrošnju energije.
 Treba paziti da se izbjegne svako oštećenje
 izmjenjivača topline, kao i svaki drugi uzrok koji će
@@ -405,14 +387,12 @@ električne energije
 U većini slučajeva nestanak električne energije se otklanja u
 sat ili dva i neće utjecati na temperaturu hladnjaka.
 Međutim, potrebno je smanjiti broj otvaranja vrata kada je
-isključeno električno napajanje.
-Kada su nestanci električne
+isključeno električno napajanjeKada su nestanci električne
 energije duži, stavite na vrh smrznutog paketa blok suhog
 leda.
 Selidba
 Izvadite sve predmete iz hladnjaka i dobro učvrstite sve
-što se može pomaknuti.
-Kako biste spriječili oštećenje
+što se može pomaknutiKako biste spriječili oštećenje
 vijaka za podešavanje visine, zategnite do kraja vijke u
 bazu.
 Cijev protiv
@@ -433,8 +413,7 @@ Savjeti za štednju energije
 - Nakon premještanja uređaja, pričekajte 2 sata prije
 nego što ponovo uključite uređaj.
 - Ne postavljajte uređaj blizu radijatora, peći ili
-drugog izvora topline.
-Ako je temperatura okoline
+drugog izvora toplineAko je temperatura okoline
 visoka, kompresor će raditi duže.
 - Uređaj postavite u hladnu i dobro prozračenu sobu.
 Ne izlažite uređaj izravnoj sunčevoj svjetlosti.
@@ -448,8 +427,7 @@ higijenskih razloga.
 - Temperaturu uređaja ne postavljajte nižu nego što
 je to potrebno.
 - Postavite duboko smrznutu hranu za odmrzavanje
-u hladnjak.
-Tako ćete pomoći hlađenje hladnjaka.
+u hladnjakTako ćete pomoći hlađenje hladnjaka.
 - Zamijenite magnetsku brtvu za vrata u slučaju da
 se vrata dobro ne zatvaraju.
 14
@@ -510,51 +488,38 @@ Promjene strane otvaranja vrata
 Način promjene strane otvaranja vrata
 Hladnjak ima vrata kod kojih se može zamijeniti strana
 otvaranja, tako da se vrata mogu otvarati na lijevu ili desnu
-stranu.
-Najbolje je zamijeniti stranu otvaranja prije
+stranuNajbolje je zamijeniti stranu otvaranja prije
 postavljanja hladnjaka, jer će to poslije biti teško učiniti.
 Kako biste zamijenili okov vrata molimo pogledajte prikaz
 dolje i postupite na sljedeći način:
 Oprez
-1.
-Prvo iskopčajte uređaj.
-2.
-Izvadite hranu i police, posude koje nisu pričvršćene
+1Prvo iskopčajte uređaj.
+2Izvadite hranu i police, posude koje nisu pričvršćene
 za tijelo hladnjaka.
-3.
-Pažljivo položite uređaj na materijal za pakiranje ili
+3Pažljivo položite uređaj na materijal za pakiranje ili
 slično, kako bi spriječili oštećenje kruga za rashladno
 sredstvo.
-4.
-Poslužite se ‘+’ odvijačem ili ključem za otpuštanje i
+4Poslužite se ‘+’ odvijačem ili ključem za otpuštanje i
 stezanje vijaka.
-1.
-Odvijte 2Xvijke (1), zatim skinite okov (L) (2).
-2.
-Skinite nožicu (3).
-3.
-Lagano povucite vrata prema dolje i skinite vrata.
-4.
-Prije ponovnog postavljanja vrata, zamijenite mjesta čepu
+1Odvijte 2Xvijke (1), zatim skinite okov (L) (2).
+2Skinite nožicu (3).
+3Lagano povucite vrata prema dolje i skinite vrata.
+4Prije ponovnog postavljanja vrata, zamijenite mjesta čepu
 okova (4) tako da ga izvučete s trenutnog mjesta i ponovo
 postavite na drugu stranu vrata.
 Pazite da ne oštetite površinu hladnjaka kada skidate čep
 okova.
-5.
-Odvijte klin gornjeg okova (U) (5) i zategnite klin na rupi
+5Odvijte klin gornjeg okova (U) (5) i zategnite klin na rupi
 na suprotnoj strani.
 4
 17
 4
 Promjene strane otvaranja vrata
 Način promjene strane otvaranja vrata
-6.
-Nakon podešavanja vrata, učvrstite donji okov (L) na
+6Nakon podešavanja vrata, učvrstite donji okov (L) na
 suprotnu stranu pomoću 2xvijka.
-7.
-Učvrstite nožicu.
-8.
-Pažljivo podignite hladnjak u uspravan položaj.
+7Učvrstite nožicu.
+8Pažljivo podignite hladnjak u uspravan položaj.
 Podesite vijke za visinu, kako bi uređaj bio stabilan i
 provjerite da li se vrata pravilno otvaraju i zatvaraju.
 Napomena
